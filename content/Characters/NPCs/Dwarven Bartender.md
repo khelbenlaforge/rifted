@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Dwarven Bartender
   - Stout Bartender
@@ -48,5 +48,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

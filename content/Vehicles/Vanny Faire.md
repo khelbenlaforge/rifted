@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Vanny Faire
 tags:
@@ -33,5 +33,4 @@ A seagoing vessel equipped with conventional sails but propelled primarily by ar
 - **9th Marpenoth PA 222** — Docked at a small jetty on the western island, delivering animals and goods. Another shipment had arrived a day earlier. [[Luks Borg]] remained at the jetty to await [[Jonathan Jordan]], who departed on a second ship the following day
 <!-- /archivist -->
 
-## DM Notes
 

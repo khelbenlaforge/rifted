@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Eldath
   - Goddess of Peace
@@ -46,5 +46,4 @@ Eldath's faithful are often found among hermits, healers, and those weary of con
 In [[Corranor]], her influence is quiet but persistent, a counterpoint to the martial devotions of [[Helm]] and [[Torm]]. Where violence threatens to unravel the bonds between communities, those who carry Eldath's teachings step forward not with steel, but with steady words and open hands.
 <!-- /archivist -->
 
-## DM Notes
 

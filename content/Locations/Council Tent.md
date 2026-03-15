@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Council Tent
 tags:
@@ -33,5 +33,4 @@ The largest canvas structure in [[Sunhold]], reinforced with heavy poles and car
 The [[Miners' Council]] convened here with [[Harbin Wester]], [[Elmar Barthen]], [[Halia Thornton]], [[Luks Borg]], and the party to discuss [[Sunhold]]'s challenges. The council outlined the settlement's founding, local geography, bandit problems, and welcomed the [[Adamantine Guild]]'s presence. The party was tasked with safety, exploration, and community outreach.
 <!-- /archivist -->
 
-## DM Notes
 

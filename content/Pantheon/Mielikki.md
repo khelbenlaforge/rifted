@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Mielikki
   - Our Lady of the Forest
@@ -46,5 +46,4 @@ Rangers, woodsmen, and those who make their living at the boundary of settled la
 [[Sylvara Oakwhisper]], a half-elf ranger, serves as a teacher and spiritual guide within the Grove. She has mentored [[Ember]], instructing them in Mielikki's ways: feeling the goddess's presence in the grass underfoot, learning to coexist with the wild, and understanding the threats posed by [[Malar]]'s followers. Sylvara's lessons emphasise that to follow Mielikki is to protect, to teach, and above all, to listen.
 <!-- /archivist -->
 
-## DM Notes
 

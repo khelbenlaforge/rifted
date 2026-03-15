@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Garnet District
   - Commons District
@@ -34,5 +34,4 @@ The Commons District — a lively quarter of bustling bars, taverns, and humble 
 - A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].
 <!-- /archivist -->
 
-## DM Notes
 

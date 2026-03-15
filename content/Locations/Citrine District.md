@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Citrine District
   - Citrine District of Crystal
@@ -45,5 +45,4 @@ A vibrant and bustling quarter of [[Crystal City]], the Citrine District is defi
 The district served as the safe haven for the five newcomers after [[Perrin Quickquill]] evacuated them from the [[Jade Spire]]. The [[Adamantine Guild]] is currently severely understaffed, with most members deployed to frontier settlements.
 <!-- /archivist -->
 
-## DM Notes
 

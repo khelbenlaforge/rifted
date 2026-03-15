@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Augustus Kennedy
   - Augie
@@ -75,5 +75,4 @@ Location:: [[Sunhold]]
 Deity:: [[Tyr]]
 <!-- /archivist -->
 
-## DM Notes
 

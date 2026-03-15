@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Tyr
   - The Maimed God
@@ -46,5 +46,4 @@ Tyr's faithful include paladins, judges, magistrates, and those who have sworn o
 [[Augustus Kennedy]] is closely aligned with Tyr's principles of protection and duty, and his training reflects the god's emphasis on disciplined strength in service of the law. Tyr's teachings form a cornerstone of Augustus's developing identity as a protector, alongside the complementary influences of [[Helm]] and [[Torm]].
 <!-- /archivist -->
 
-## DM Notes
 

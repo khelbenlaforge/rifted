@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Waukeen
   - Our Lady of Gold
@@ -47,5 +47,4 @@ Waukeen's most ardent worshippers include shopkeepers, members of trading coster
 In [[Crystal City]], Waukeen's coin sits at the centre of the [[Adamantine Guild]]'s emblem, flanked by the symbols of [[Oghma]] and [[Helm]]. The Guild was founded in accordance with her principles of advancement and prosperity, and her influence shapes its mission to support adventurers and provide resources for those seeking to improve themselves and their communities. As the Guild faces challenges of understaffing and shadow creature threats, Waukeen's guidance toward resourcefulness and investment in people has never been more critical.
 <!-- /archivist -->
 
-## DM Notes
 

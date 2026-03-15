@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Oghma's Temple
   - The Endless Library
@@ -43,5 +43,4 @@ A towering repository of knowledge dedicated to [[Oghma]], the Binder of Books. 
 The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Lea]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Bogstride Salamandrel
 tags:
@@ -59,41 +59,7 @@ When frightened, they can stiffen their entire body, secreting a resin that hard
 
 ## D&D 5e Stat Block
 
-```statblock
-name: Bogstride Salamandrel
-size: Large
-type: Beast
-alignment: Unaligned
-ac: 13
-ac_class: natural armor
-hp: 76
-hit_dice: 9d10 + 27
-speed: "40 ft., swim 40 ft."
-stats: [18, 12, 16, 6, 14, 10]
-saves:
-  - dex: 3
-  - wis: 4
-skillsaves:
-  - perception: 4
-  - stealth: 3
-senses: "Darkvision 60 ft., passive Perception 14"
-languages: "Understands basic commands in one language of its rider"
-cr: "2"
-traits:
-  - name: Amphibious
-    desc: "The Salamandrel can breathe air and water."
-  - name: Mud Skimmer
-    desc: "Difficult terrain composed of mud or shallow water doesn't cost it extra movement."
-  - name: Bioluminescent Warning
-    desc: "As a bonus action, the Salamandrel can cause its markings to flare with light. All creatures of its choice within 10 ft. must succeed on a DC 12 Wisdom (Animal Handling) or (Insight) check or be startled, granting the Salamandrel advantage on its next Dexterity (Stealth) or Escape attempt."
-  - name: Petrify Reflex (Recharges after Long Rest)
-    desc: "When reduced below half HP or frightened, the Salamandrel can secrete a resin that hardens instantly. It becomes **petrified** until the start of its next turn, gaining immunity to all damage but also unable to act. It can choose to remain petrified for up to 1 hour."
-actions:
-  - name: Bite
-    desc: "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage."
-  - name: Tail Slam
-    desc: "_Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone."
-```
+
 
 ### Mount Rules
 
@@ -117,5 +83,4 @@ When used as a combat mount, the Salamandrel can take the _Dodge_, _Dash_, or _D
 - A merchant offers a fortune for a trained Bogseat saddle, but the only leatherworker who knows the craft has vanished into the marshes.
 <!-- /archivist -->
 
-## DM Notes
 

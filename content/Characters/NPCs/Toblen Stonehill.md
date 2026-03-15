@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Toblen Stonehill
   - Toblen
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

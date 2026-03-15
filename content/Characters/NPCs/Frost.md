@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Frost
 tags:
@@ -45,5 +45,4 @@ Affiliation::
 Deity:: [[Mielikki]]
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Magocracy of Corranor
 tags:
@@ -42,5 +42,4 @@ The first peoples awoke amid violent land formation — earth heaving, magma eru
 The Magocracy faces multiple challenges: [[Shadow Creatures]] attacks, an understaffed [[Adamantine Guild]], frontier settlements like [[Sunhold]] requiring support, and the mystery of five individuals transported from Earth during a potentially botched ritual.
 <!-- /archivist -->
 
-## DM Notes
 

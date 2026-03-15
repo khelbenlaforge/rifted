@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Lurkleaf
   - Lurkleafs
@@ -49,42 +49,11 @@ Lurkleafs are considered living omens of forest health. When they vanish from an
 
 ## D&D 5e Stat Block
 
-```statblock
-name: Lurkleaf
-size: Small
-type: Beast
-alignment: Neutral Good
-ac: 13
-ac_class: leafy hide
-hp: 10
-hit_dice: 3d6
-speed: "30 ft., climb 20 ft."
-stats: [8, 14, 10, 5, 12, 10]
-skillsaves:
-  - stealth: 4
-  - survival: 3
-  - nature: 2
-senses: "Darkvision 30 ft., passive Perception 11"
-languages: "—"
-cr: "0"
-traits:
-  - name: Photosynthesis
-    desc: "The Lurkleaf can go up to a week without food if it spends at least 4 hours a day in sunlight."
-  - name: Natural Camouflage
-    desc: "Advantage on Dexterity (Stealth) checks made in forests, jungles, or gardens."
-  - name: Friendly Aura
-    desc: "Creatures within 10 ft. of the Lurkleaf have advantage on saving throws against being frightened if they can see it."
-actions:
-  - name: Scratch
-    desc: "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) slashing damage."
-  - name: Leaf Puff (Recharge 5–6)
-    desc: "The Lurkleaf shakes its leafy coat, releasing a calming puff of green dust. Each creature of its choice within 10 ft. must succeed on a DC 10 Wisdom saving throw or be charmed until the end of its next turn."
-```
+
 
 ## Adventure Hooks
 - The forest seems unusually still — the Lurkleafs have vanished, and the trees are wilting without them.
 - A hermit druid claims her Lurkleaf companion has been "singing in its sleep" — an unheard-of behavior that may signal an awakening of old magic.
 <!-- /archivist -->
 
-## DM Notes
 

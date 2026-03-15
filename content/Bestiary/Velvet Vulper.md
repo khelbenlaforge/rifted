@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Velvet Vulper
   - Velvet Vulpers
@@ -49,75 +49,11 @@ Fey courts sometimes employ Velvet Vulpers as messengers and scouts, trusting th
 
 ### Base (CR 1/2)
 
-```statblock
-name: Velvet Vulper
-size: Small
-type: Fey
-alignment: Chaotic Neutral
-ac: 14
-hp: 13
-hit_dice: 3d6 + 3
-speed: "40 ft."
-stats: [8, 16, 12, 10, 12, 14]
-skillsaves:
-  - stealth: 5
-  - deception: 4
-  - perception: 3
-senses: "Darkvision 60 ft., passive Perception 13"
-languages: "Sylvan, understands Common but can't speak it"
-cr: "1/2"
-traits:
-  - name: Moonlit Pelt
-    desc: "The Velvet Vulper can change the hue of its fur to match moonlight or shadow. It has advantage on Dexterity (Stealth) checks in dim light or darkness."
-  - name: Trickster Instincts
-    desc: "The Vulper has advantage on saving throws against being charmed or frightened."
-actions:
-  - name: Bite
-    desc: "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage."
-  - name: Gleam Hypnosis (1/Day)
-    desc: "As an action, the Vulper can flare its fur in mesmerizing color patterns. Each creature within 15 ft. that can see it must succeed on a DC 12 Wisdom saving throw or be charmed until the end of the Vulper's next turn."
-  - name: Illusory Flicker (Recharge 5–6)
-    desc: "The Vulper becomes invisible until the end of its next turn or until it attacks, casts a spell, or gleams its fur."
-```
+
 
 ### Variant (CR 1)
 
-```statblock
-name: Velvet Vulper (Seasoned)
-size: Small
-type: Fey
-alignment: Chaotic Neutral
-ac: 15
-ac_class: quick reflexes
-hp: 26
-hit_dice: 4d8 + 8
-speed: "40 ft."
-stats: [9, 17, 14, 8, 12, 14]
-saves:
-  - dex: 5
-  - wis: 3
-skillsaves:
-  - stealth: 7
-  - perception: 3
-  - deception: 4
-senses: "Darkvision 60 ft., passive Perception 13"
-languages: "Understands Sylvan and Common but can't speak"
-cr: "1"
-traits:
-  - name: Moonlit Pelt
-    desc: "The Vulper can shift its fur to blend with dim light or shadow, gaining advantage on Dexterity (Stealth) checks in those conditions."
-  - name: Fey Agility
-    desc: "When the Vulper takes the Dodge action, it can move up to half its speed without provoking opportunity attacks."
-actions:
-  - name: Bite
-    desc: "_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage."
-  - name: Gleam Charm (1/Short Rest)
-    desc: "As an action, the Vulper flares its fur in dazzling color. Each creature of its choice within 15 ft. that can see it must succeed on a DC 13 Wisdom saving throw or be charmed until the end of the Vulper's next turn."
-  - name: Illusory Flicker (Recharge 5–6)
-    desc: "As a bonus action, the Vulper becomes invisible until the start of its next turn or until it attacks or uses Gleam Charm."
-  - name: Moonflash (1/Day)
-    desc: "When the Vulper reduces a creature to 0 HP or scores a critical hit, its fur erupts in a pulse of moonlight. Each enemy within 10 ft. must make a DC 13 Constitution saving throw or be blinded until the end of their next turn."
-```
+
 
 ### As a Companion
 
@@ -128,5 +64,4 @@ The Velvet Vulper forms an intuitive empathic link with its master, synchronizin
 - A Velvet Vulper has taken up residence in a tavern's attic, charming patrons into leaving their coin purses unattended. The innkeeper wants it gone — but the regulars have grown fond of it.
 <!-- /archivist -->
 
-## DM Notes
 

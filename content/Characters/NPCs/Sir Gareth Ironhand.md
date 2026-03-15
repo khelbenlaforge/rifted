@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Sir Gareth Ironhand
   - Gareth Ironhand
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: [[Tyr]]
 <!-- /archivist -->
 
-## DM Notes
 

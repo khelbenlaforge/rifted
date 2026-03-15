@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Ether Scryer's Academy
 tags:
@@ -39,5 +39,4 @@ A prestigious institution for the mastery of wizardry, standing as a beacon of a
 - **[[Elmindaria L'Thorian]]** — An elder elf with seven centuries of experience who serves as the Academy's most esteemed instructor. She emphasizes that wizardry is earned through study and sacrifice, teaching [[Lea]] the methodical nature of the craft — spell preparation, ritual casting, and the financial costs of acquiring new magic (50 gp per spell level). She warns of the dangers: fragile spellbooks, physical vulnerability, and the obsession with knowledge that can lead to lichdom or tyranny.
 <!-- /archivist -->
 
-## DM Notes
 

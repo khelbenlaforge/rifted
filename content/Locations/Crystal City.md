@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Crystal City
   - Crystal
@@ -50,5 +50,4 @@ The capital of [[Corranor]], a city of ethereal beauty where structures crafted 
 During High Harvestide of Year 222, five strangers appeared atop the [[Jade Spire]], and [[Shadow Creatures]] began attacking the Spire in force. The main Transient island has since descended to the ocean surface, opening the [[Citrine District]] docks to maritime trade and travel. The [[Adamantine Guild]] has deployed members to [[Sunhold]], leaving the city's defenses stretched thin.
 <!-- /archivist -->
 
-## DM Notes
 

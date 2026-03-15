@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Halia Thornton
 tags:
@@ -47,5 +47,4 @@ Affiliation::
 Deity::
 <!-- /archivist -->
 
-## DM Notes
 

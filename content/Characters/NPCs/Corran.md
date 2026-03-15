@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Corran
   - The Archmage of Sacrifice
@@ -51,5 +51,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

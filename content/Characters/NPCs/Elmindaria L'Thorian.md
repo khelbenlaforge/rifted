@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Elmindaria L'Thorian
   - Elmindaria
@@ -58,5 +58,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

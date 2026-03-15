@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Oghma
   - The Binder of Books
@@ -46,5 +46,4 @@ Oghma's faithful include wizards, bards, scholars, sages, and anyone who has eve
 In [[Crystal City]], Oghma's influence is woven into the foundation of the [[Adamantine Guild]]. His symbol appears on the Guild's emblem alongside those of [[Helm]] and [[Waukeen]], representing the three pillars of the organisation: knowledge, protection, and progress. The Guild's mission to gather, preserve, and share learning is a direct expression of Oghma's ethos, even as the organisation faces the practical pressures of understaffing and shadow creature attacks.
 <!-- /archivist -->
 
-## DM Notes
 

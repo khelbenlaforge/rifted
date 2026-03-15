@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Hall of Justice
   - Temple of Tyr
@@ -44,5 +44,4 @@ A grand courthouse-temple dedicated to [[Tyr]], the God of Justice. Impressive m
 [[Augustus Kennedy]] chose [[Tyr]] as his path and trained here under [[Sir Gareth Ironhand]], learning that paladin power derives from the conviction of one's oath — whether sworn to a deity, to ideals, or to people.
 <!-- /archivist -->
 
-## DM Notes
 

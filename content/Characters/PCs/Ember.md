@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Ember
 tags:
@@ -69,5 +69,4 @@ Location:: [[Sunhold]]
 Deity:: [[Mielikki]]
 <!-- /archivist -->
 
-## DM Notes
 

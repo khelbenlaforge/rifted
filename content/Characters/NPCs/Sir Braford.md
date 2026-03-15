@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Sir Braford
   - Braford
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 
