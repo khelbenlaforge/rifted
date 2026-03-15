@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:15
 ---
 ﻿---
 title: Hall of Justice - Temple of Tyr
@@ -16,7 +16,7 @@ secret: false
 created: 2026-03-16T04:26
 updated: 2026-03-16T04:28
 ---
-`n# Hall of Justice - Temple of Tyr
+# Hall of Justice - Temple of Tyr
 
 > [!infobox|right wikipedia]+
 > # Hall of Justice
@@ -46,5 +46,5 @@ A grand courthouse-temple dedicated to [[Tyr]], the God of Justice. Impressive m
 
 ## Current Events
 
-[[Augustus Kennedy]] chose [[Tyr]] as his path and trained here under [[Sir Gareth Ironhand]], learning that paladin power derives from the conviction of one's oath — whether sworn to a deity, to ideals, or to people.`n
+[[Augustus Kennedy]] chose [[Tyr]] as his path and trained here under [[Sir Gareth Ironhand]], learning that paladin power derives from the conviction of one's oath — whether sworn to a deity, to ideals, or to people.
 

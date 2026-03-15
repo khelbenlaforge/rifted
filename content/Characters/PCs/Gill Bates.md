@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:47
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:14
 ---
 ﻿---
 title: Gill Bates
@@ -72,5 +72,5 @@ Class:: Cleric (Arcana Domain)
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
-Deity:: [[Istishia]]`n
+Deity:: [[Istishia]]
 

@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:30
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:10
 ---
 ﻿---
 title: Lurkleaf
@@ -54,7 +54,4 @@ Lurkleafs are considered living omens of forest health. When they vanish from an
 
 
 
-## Adventure Hooks
-- The forest seems unusually still — the Lurkleafs have vanished, and the trees are wilting without them.
-- A hermit druid claims her Lurkleaf companion has been "singing in its sleep" — an unheard-of behavior that may signal an awakening of old magic.`n
 

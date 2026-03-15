@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:21
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:14
 ---
 ﻿---
 title: Lea
@@ -72,6 +72,6 @@ Subrace::
 Class:: Wizard
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunhold]]
-Deity:: --`n
+Location:: [[Sunless Citadel]]
+Deity:: --
 

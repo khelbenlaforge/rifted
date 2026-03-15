@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:15
 ---
 ﻿---
 title: Oghma's Temple — the Endless Library
@@ -16,7 +16,7 @@ secret: false
 created: 2026-03-16T04:27
 updated: 2026-03-16T04:28
 ---
-`n# Oghma's Temple — the Endless Library
+# Oghma's Temple — the Endless Library
 
 > [!infobox|right wikipedia]+
 > # The Endless Library
@@ -45,5 +45,5 @@ A towering repository of knowledge dedicated to [[Oghma]], the Binder of Books. 
 
 ## Current Events
 
-The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Lea]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.`n
+The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Lea]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.
 

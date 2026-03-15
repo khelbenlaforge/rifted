@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:29
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:15
 ---
 ﻿---
 title: Tidecaller's Sanctuary
@@ -16,7 +16,7 @@ secret: false
 created: 2026-03-16T04:27
 updated: 2026-03-16T04:29
 ---
-`n# Tidecaller's Sanctuary
+# Tidecaller's Sanctuary
 
 > [!infobox|right wikipedia]+
 > # Tidecaller's Sanctuary
@@ -48,5 +48,5 @@ At the heart of the sanctuary lies a spring-fed pool with an altar that appears 
 
 ## Current Events
 
-[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.`n
+[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
 

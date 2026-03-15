@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:30
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:10
 ---
 ﻿---
 title: Velvet Vulper
@@ -62,7 +62,4 @@ Fey courts sometimes employ Velvet Vulpers as messengers and scouts, trusting th
 
 The Velvet Vulper forms an intuitive empathic link with its master, synchronizing stealth and ambush tactics. When your Ranger takes the Hide action, the Vulper may Hide as a bonus action. At higher levels, its Illusory Flicker can be used twice per short rest to mirror Beast Master improvements.
 
-## Adventure Hooks
-- A noble's heirloom has been stolen, but the thief's footprints end at a grove where dancing lights flicker between the trees.
-- A Velvet Vulper has taken up residence in a tavern's attic, charming patrons into leaving their coin purses unattended. The innkeeper wants it gone — but the regulars have grown fond of it.`n
 
