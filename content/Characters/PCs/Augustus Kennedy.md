@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:21
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Augustus Kennedy
 aliases:
   - Augustus Kennedy
   - Augie
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:20
+updated: 2026-03-16T04:21
 ---
-
-<!-- archivist -->
-# Augustus Kennedy
+`n# Augustus Kennedy
 
 > [!infobox|right wikipedia]+
 > # Augustus Kennedy
@@ -69,10 +74,8 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 Race:: Half-Warforged
 Subrace::
 Class:: Paladin
-Pronouns::
-Affiliation::
+Pronouns:: he/him
+Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunhold]]
-Deity:: [[Tyr]]
-<!-- /archivist -->
-
+Deity:: [[Tyr]]`n
 

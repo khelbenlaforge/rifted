@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Sir Braford
 aliases:
   - Sir Braford
   - Braford
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: missing
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Sir Braford
+`n# Sir Braford
 
 > [!infobox|right wikipedia]+
 > # Sir Braford
@@ -42,11 +47,9 @@ The delegation was expected to return in ten days. Twenty-four days have passed.
 Location:: Unknown
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Unknown
 Class:: Knight
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Hucrele Family]]
+Deity:: Unknown`n
 

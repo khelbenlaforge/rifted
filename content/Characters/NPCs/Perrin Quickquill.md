@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Perrin Quickquill
 aliases:
   - Perrin Quickquill
   - Perrin
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Perrin Quickquill
+`n# Perrin Quickquill
 
 > [!infobox|right wikipedia]+
 > # Perrin Quickquill
@@ -41,14 +46,12 @@ When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jo
 
 ---
 ## Tags
-Location:: [[Jade Spire]]
+Location:: [[Jade Spire]], [[Crystal City]]
 Race:: Halfling
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Unknown
 Class:: Rogue
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Adamantine Guild]]
+Deity:: Unknown`n
 

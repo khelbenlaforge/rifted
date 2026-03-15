@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:21
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Jonathan Jordan
 aliases:
   - Jonathan Jordan
   - JJ
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:21
+updated: 2026-03-16T04:21
 ---
-
-<!-- archivist -->
-# Jonathan Jordan
+`n# Jonathan Jordan
 
 > [!infobox|right wikipedia]+
 > # Jonathan Jordan
@@ -65,10 +70,8 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 Race:: Human
 Subrace::
 Class:: Rogue
-Pronouns::
-Affiliation::
+Pronouns:: he/him
+Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunhold]]
-Deity:: --
-<!-- /archivist -->
-
+Deity:: --`n
 

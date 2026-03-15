@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Diamond District
 aliases:
   - Diamond District
   - Temple District
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Diamond District
+`n# Diamond District
 
 > [!infobox|right wikipedia]+
 > # Diamond District
@@ -21,9 +26,9 @@ secret: false
 > | Type | City district |
 > | Region | [[Crystal City]], [[Corranor]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: [[Magocracy of Corranor]]
+Status:: Active
 
 ## Description
 
@@ -41,7 +46,5 @@ Known also as the Temple District, the Diamond District is the spiritual heart o
 - **[[Sylvara Oakwhisper]]** — Half-elf ranger of [[Mielikki]]
 - **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]]
 - **[[Sir Gareth Ironhand]]** — Paladin of [[Tyr]]
-- **[[High Lorekeeper Miriam Brightquill]]** — Scholar at [[Oghma]]'s Temple
-<!-- /archivist -->
-
+- **[[High Lorekeeper Miriam Brightquill]]** — Scholar at [[Oghma]]'s Temple`n
 

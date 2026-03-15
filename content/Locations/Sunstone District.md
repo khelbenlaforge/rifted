@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Sunstone District
 aliases:
   - Sunstone District
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:27
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Sunstone District
+`n# Sunstone District
 
 > [!infobox|right wikipedia]+
 > # Sunstone District
@@ -20,13 +25,11 @@ secret: false
 > | Type | City district |
 > | Region | [[Crystal City]], [[Corranor]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: [[Magocracy of Corranor]]
+Status:: Active
 
 ## Description
 
-The artisans' quarter of [[Crystal City]], where the ring of hammers on anvils and the smell of freshly worked materials fill the warm air. The Sunstone District is known for its colorful stone architecture, intricate carvings, and the collaboration between human craftsmen and warforged smiths. Workshops and craft establishments line every street, their wares displayed with pride. [[Augustus Kennedy]] spotted another warforged working at a blacksmith here during the party's tour of the city.
-<!-- /archivist -->
-
+The artisans' quarter of [[Crystal City]], where the ring of hammers on anvils and the smell of freshly worked materials fill the warm air. The Sunstone District is known for its colorful stone architecture, intricate carvings, and the collaboration between human craftsmen and warforged smiths. Workshops and craft establishments line every street, their wares displayed with pride. [[Augustus Kennedy]] spotted another warforged working at a blacksmith here during the party's tour of the city.`n
 

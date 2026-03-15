@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:31
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Tyr
 aliases:
   - Tyr
   - The Maimed God
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:19
+updated: 2026-03-16T04:31
 ---
-
-<!-- archivist -->
-# Tyr
+`n# Tyr
 
 > [!infobox|right wikipedia]+
 > # Tyr
@@ -41,9 +46,7 @@ As the head of the triad that includes [[Helm]] and [[Torm]], Tyr represents the
 - Maintain order so that civilisation may endure and the weak may find shelter within it.
 
 ## Followers & Influence
-Tyr's faithful include paladins, judges, magistrates, and those who have sworn oaths related to justice, protection, freedom, and order. [[The Hall of Justice]] serves as a central place of worship and training in [[Crystal City]], featuring grand marble architecture and, notably, a statue of [[Augustus Kennedy]] — a testament to the warforged's growing significance within the faith.
+Tyr's faithful include paladins, judges, magistrates, and those who have sworn oaths related to justice, protection, freedom, and order. [[Hall of Justice - Temple of Tyr]] serves as a central place of worship and training in [[Crystal City]], featuring grand marble architecture and, notably, a statue of [[Augustus Kennedy]] — a testament to the warforged's growing significance within the faith.
 
-[[Augustus Kennedy]] is closely aligned with Tyr's principles of protection and duty, and his training reflects the god's emphasis on disciplined strength in service of the law. Tyr's teachings form a cornerstone of Augustus's developing identity as a protector, alongside the complementary influences of [[Helm]] and [[Torm]].
-<!-- /archivist -->
-
+[[Augustus Kennedy]] is closely aligned with Tyr's principles of protection and duty, and his training reflects the god's emphasis on disciplined strength in service of the law. Tyr's teachings form a cornerstone of Augustus's developing identity as a protector, alongside the complementary influences of [[Helm]] and [[Torm]].`n
 

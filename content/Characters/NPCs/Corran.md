@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:22
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Corran
 aliases:
   - Corran
   - The Archmage of Sacrifice
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: dead
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:22
 ---
-
-<!-- archivist -->
-# Corran
+`n# Corran
 
 > [!infobox|right wikipedia]+
 > # Corran
@@ -48,7 +53,5 @@ Pronouns::
 Alignment:: Unknown
 Class:: Archmage
 Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Deity:: Unknown`n
 

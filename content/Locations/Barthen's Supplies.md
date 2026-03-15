@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:27
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Barthen's Supplies
 aliases:
   - Barthen's Supplies
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:27
 ---
-
-<!-- archivist -->
-# Barthen's Supplies
+`n# Barthen's Supplies
 
 > [!infobox|right wikipedia]+
 > # Barthen's Supplies
@@ -20,9 +25,9 @@ secret: false
 > | Type | General store |
 > | Region | [[Sunhold]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Sunhold]]
+Controlled By:: [[Elmar Barthen]]
+Status:: Active
 
 ## Description
 
@@ -30,7 +35,5 @@ The most organized structure in [[Sunhold]] — a reinforced tent with canvas wa
 
 ## Notable Residents
 
-- **[[Elmar Barthen]]** — Lean dwarf storeowner with spectacles, who manages supplies with pragmatic efficiency
-<!-- /archivist -->
-
+- **[[Elmar Barthen]]** — Lean dwarf storeowner with spectacles, who manages supplies with pragmatic efficiency`n
 

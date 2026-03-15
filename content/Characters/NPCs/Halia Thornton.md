@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Halia Thornton
 aliases:
   - Halia Thornton
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Halia Thornton
+`n# Halia Thornton
 
 > [!infobox|right wikipedia]+
 > # Halia Thornton
@@ -40,11 +45,9 @@ An ambitious merchant intent on gaining power within [[Sunhold]] and expanding h
 Location:: [[Sunhold]]
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: she/her
 Alignment:: Neutral
 Class:: Merchant
-Affiliation::
-Deity::
-<!-- /archivist -->
-
+Affiliation:: [[Miners' Council]]
+Deity::`n
 

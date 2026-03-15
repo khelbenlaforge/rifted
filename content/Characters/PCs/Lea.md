@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:21
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Lea
 aliases:
   - Lea
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:21
+updated: 2026-03-16T04:21
 ---
-
-<!-- archivist -->
-# Lea
+`n# Lea
 
 > [!infobox|right wikipedia]+
 > # Lea
@@ -65,10 +70,8 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 Race:: Humanoid (partially changed)
 Subrace::
 Class:: Wizard
-Pronouns::
-Affiliation::
+Pronouns:: she/her
+Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunhold]]
-Deity:: --
-<!-- /archivist -->
-
+Deity:: --`n
 

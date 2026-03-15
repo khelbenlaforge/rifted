@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:25
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Shadow Creatures
 aliases:
   - Shadow Creatures
 tags:
@@ -6,10 +11,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-13T00:19
+updated: 2026-03-16T04:25
 ---
-
-<!-- archivist -->
-# Shadow Creatures
+`n# Shadow Creatures
 
 > [!infobox|right wikipedia]+
 > # Shadow Creatures
@@ -20,8 +25,8 @@ secret: false
 > | Base | Unknown |
 > | Leader | Unknown |
 
-Leader::
-Headquarters::
+Leader:: Unknown
+Headquarters:: Unknown
 
 ## Description
 
@@ -33,7 +38,5 @@ The Shadow Creatures emerged during High Harvestide of Year 222, coinciding with
 
 ## Current Status
 
-An ongoing and escalating threat. Their attacks have caused severe staffing shortages in the [[Adamantine Guild]], as resources are diverted to confront or flee from them. Their origins, motivations, and the nature of their connection to the newcomers' arrival are among the campaign's central mysteries.
-<!-- /archivist -->
-
+An ongoing and escalating threat. Their attacks have caused severe staffing shortages in the [[Adamantine Guild]], as resources are diverted to confront or flee from them. Their origins, motivations, and the nature of their connection to the newcomers' arrival are among the campaign's central mysteries.`n
 

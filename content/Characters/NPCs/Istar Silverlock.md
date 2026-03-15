@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Istar Silverlock
 aliases:
   - Istar Silverlock
   - Istar
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Istar Silverlock
+`n# Istar Silverlock
 
 > [!infobox|right wikipedia]+
 > # Istar Silverlock
@@ -52,14 +57,12 @@ When the five newcomers arrived, Istar saw both a burden and an opportunity. He 
 
 ---
 ## Tags
-Location:: [[Citrine District]]
+Location:: [[Citrine District]], [[Crystal City]]
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Chaotic Good
-Class:: Bard / Rogue
-Affiliation::
-Deity::
-<!-- /archivist -->
-
+Class:: Bard/Rogue
+Affiliation:: [[Adamantine Guild]]
+Deity::`n
 

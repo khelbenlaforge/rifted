@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:25
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Adamantine Guild
 aliases:
   - Adamantine Guild
 tags:
@@ -6,10 +11,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:25
+updated: 2026-03-16T04:25
 ---
-
-<!-- archivist -->
-# Adamantine Guild
+`n# Adamantine Guild
 
 > [!infobox|right wikipedia]+
 > # Adamantine Guild
@@ -20,8 +25,8 @@ secret: false
 > | Base | [[Citrine District]], [[Crystal City]] |
 > | Leader | Gnomish Guildmaster (absent); [[Istar Silverlock]] (acting) |
 
-Leader::
-Headquarters::
+Leader:: [[Istar Silverlock]]
+Headquarters:: [[Citrine District]], [[Crystal City]]
 
 ## Description
 
@@ -40,7 +45,5 @@ The guild was once well-staffed, but [[Shadow Creatures]] attacks and frontier d
 
 ## Current Status
 
-Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere. The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.
-<!-- /archivist -->
-
+Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere. The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.`n
 

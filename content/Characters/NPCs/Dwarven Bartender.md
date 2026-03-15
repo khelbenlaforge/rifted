@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:22
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Dwarven Bartender
 aliases:
   - Dwarven Bartender
   - Stout Bartender
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:22
 ---
-
-<!-- archivist -->
-# Dwarven Bartender
+`n# Dwarven Bartender
 
 > [!infobox|right wikipedia]+
 > # Dwarven Bartender
@@ -45,7 +50,5 @@ Pronouns::
 Alignment:: Unknown
 Class:: Unknown
 Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Deity:: Unknown`n
 

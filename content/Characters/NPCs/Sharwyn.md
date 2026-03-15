@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Sharwyn
 aliases:
   - Sharwyn
   - Sharwyn Hucrele
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: missing
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Sharwyn
+`n# Sharwyn
 
 > [!infobox|right wikipedia]+
 > # Sharwyn
@@ -42,11 +47,9 @@ The delegation was expected to return within ten days. Twenty-four days have now
 Location:: Unknown
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: she/her
 Alignment:: Unknown
 Class:: Noble
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Hucrele Family]]
+Deity:: Unknown`n
 

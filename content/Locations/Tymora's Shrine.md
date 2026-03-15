@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:29
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Tymora's Shrine
 aliases:
   - Tymora's Shrine
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:27
+updated: 2026-03-16T04:29
 ---
-
-<!-- archivist -->
-# Tymora's Shrine
+`n# Tymora's Shrine
 
 > [!infobox|right wikipedia]+
 > # Tymora's Shrine
@@ -20,9 +25,9 @@ secret: false
 > | Type | Shrine |
 > | Region | [[Sunhold]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Sunhold]]
+Controlled By:: [[Sister Garaele]]
+Status:: Active
 
 ## Description
 
@@ -34,7 +39,5 @@ Perched on a small rise at the edge of [[Sunhold]], this humble shrine is built 
 
 ## Current Events
 
-[[Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the Hucrele children and had not returned. The party received healing potions before departing on their own rescue mission.
-<!-- /archivist -->
-
+[[Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the Hucrele children and had not returned. The party received healing potions before departing on their own rescue mission.`n
 

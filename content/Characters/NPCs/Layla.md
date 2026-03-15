@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Layla
 aliases:
   - Layla
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Layla
+`n# Layla
 
 > [!infobox|right wikipedia]+
 > # Layla
@@ -37,14 +42,12 @@ The full truth of what happened remains unclear, and Layla's role in the summoni
 
 ---
 ## Tags
-Location:: [[Jade Spire]]
+Location:: [[Jade Spire]], [[Crystal City]]
 Race:: Unknown
 Subrace::
 Pronouns::
 Alignment:: Unknown
 Class:: Mage
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Corranor Council]]
+Deity:: Unknown`n
 

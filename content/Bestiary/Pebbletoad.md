@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:30
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Pebbletoad
 aliases:
   - Pebbletoad
   - Pebbletoads
@@ -9,11 +14,9 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-14T00:00
-updated: 2026-03-14T00:00
+updated: 2026-03-16T04:30
 ---
-
-<!-- archivist -->
-# Pebbletoad
+`n# Pebbletoad
 
 > [!infobox|right wikipedia]+
 > # Pebbletoad
@@ -51,7 +54,5 @@ Pebbletoads are common throughout [[Corranor]]'s wilder regions. Travelers somet
 
 ## Adventure Hooks
 - A druid circle believes an ancient shrine was destroyed — until the "rubble" begins to hop away at night.
-- A merchant is selling "enchanted river stones" that are actually petrified Pebbletoads. Buyers are in for a surprise come morning.
-<!-- /archivist -->
-
+- A merchant is selling "enchanted river stones" that are actually petrified Pebbletoads. Buyers are in for a surprise come morning.`n
 
