@@ -21,6 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.PlayerNote(),
   ],
   left: [
     Component.PageTitle(),
@@ -36,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.SessionNotes(),
   ],
   right: [
     Component.Graph(),
