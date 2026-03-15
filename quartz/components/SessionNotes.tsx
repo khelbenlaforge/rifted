@@ -24,7 +24,7 @@ const SessionNotes: QuartzComponent = () => {
             ✕
           </button>
           <iframe
-            src="https://tally.so/embed/xXZMBd?hideTitle=1&transparentBackground=1"
+            src="https://tally.so/embed/xXZMBd?hideTitle=1"
             width="100%"
             height="560"
             frameborder="0"

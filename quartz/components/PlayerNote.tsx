@@ -3,7 +3,7 @@ import { classNames } from "../util/lang"
 
 const PlayerNote: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title ?? fileData.slug?.split("/").pop() ?? "this page"
-  const tallyEmbedUrl = `https://tally.so/embed/A782al?hideTitle=1&transparentBackground=1&Page=${encodeURIComponent(title as string)}`
+  const tallyEmbedUrl = `https://tally.so/embed/A782al?hideTitle=1&Page=${encodeURIComponent(title as string)}`
 
   return (
     <div class={classNames(displayClass, "player-note")}>
