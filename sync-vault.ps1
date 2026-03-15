@@ -27,6 +27,12 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
         return
     }
 
+    # Strip statblock codeblocks
+    $content = $content -replace '(?s)```statblock\r?\n.*?```', ''
+
+    # Strip DM Notes section (heading + all content until next ## heading or end of file)
+    $content = $content -replace '(?ms)^## DM Notes\b.*?(?=^## |\z)', ''
+
     # Build mirrored destination path
     $relativePath = $file.FullName.Substring($VaultPath.Length).TrimStart('\')
     $destPath = Join-Path $ContentPath $relativePath
