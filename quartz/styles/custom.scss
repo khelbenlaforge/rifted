@@ -1,3 +1,116 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================================
+// ITS Theme Inspired — D&D Beyond Color Scheme
+// Covers: heading colors per level, section dividers,
+// blockquotes, horizontal rules, tables (light + dark)
+// ============================================================
+
+// --- Light mode: warm parchment + crimson (D&D Beyond) ---
+:root[saved-theme="light"],
+:root:not([saved-theme="dark"]) {
+  --h1-color: #7b1207;
+  --h2-color: #922610;
+  --h3-color: #5c1f0a;
+  --h4-color: #5a3010;
+  --h5-color: #7a5c3a;
+  --h6-color: #8c7b6e;
+  --h2-border: #c8a882;
+  --blockquote-border: #922610;
+  --hr-color: #c8a882;
+  --table-header-bg: #922610;
+  --table-header-text: #faf7f0;
+  --table-stripe: rgba(197, 134, 10, 0.07);
+}
+
+// --- Dark mode: navy + warm reds/gold ---
+:root[saved-theme="dark"] {
+  --h1-color: #e05c5c;
+  --h2-color: #c94d4d;
+  --h3-color: #d4875a;
+  --h4-color: #c5a050;
+  --h5-color: #b89060;
+  --h6-color: #9a8a75;
+  --h2-border: #3a2a1a;
+  --blockquote-border: #c94d4d;
+  --hr-color: #3a2a1a;
+  --table-header-bg: #7a1a1a;
+  --table-header-text: #f0e6d3;
+  --table-stripe: rgba(197, 134, 10, 0.06);
+}
+
+// ============================================================
+// Headings
+// ============================================================
+
+.page article {
+  > h1 {
+    color: var(--h1-color);
+    letter-spacing: 0.04em;
+  }
+}
+
+article {
+  h1 { color: var(--h1-color); }
+
+  h2 {
+    color: var(--h2-color);
+    border-bottom: 1px solid var(--h2-border);
+    padding-bottom: 0.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  h3 { color: var(--h3-color); }
+  h4 { color: var(--h4-color); }
+  h5 { color: var(--h5-color); }
+  h6 { color: var(--h6-color); }
+}
+
+// ============================================================
+// Horizontal rules — thin warm divider
+// ============================================================
+
+hr {
+  border: none;
+  border-top: 1px solid var(--hr-color);
+  margin: 1.5rem 0;
+}
+
+// ============================================================
+// Blockquotes — left accent bar in theme red
+// ============================================================
+
+blockquote {
+  border-left: 3px solid var(--blockquote-border);
+  padding-left: 1rem;
+  color: var(--gray);
+  font-style: italic;
+}
+
+// ============================================================
+// Tables — D&D Beyond style (red header, subtle striping)
+// ============================================================
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+  th {
+    background-color: var(--table-header-bg);
+    color: var(--table-header-text);
+    font-family: var(--headerFont);
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    padding: 0.4rem 0.75rem;
+    text-align: left;
+  }
+
+  td {
+    padding: 0.35rem 0.75rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:nth-child(even) td {
+    background-color: var(--table-stripe);
+  }
+}
