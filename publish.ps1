@@ -1,6 +1,6 @@
 # publish.ps1
 # Syncs vault content and pushes to GitHub in one shot.
-# Double-click to run, or right-click > Run with PowerShell.
+# Double-click "Publish Wiki.bat" to run.
 
 $ErrorActionPreference = "Stop"
 $QuartzPath = $PSScriptRoot
@@ -13,12 +13,12 @@ Write-Host ""
 
 try {
     # Step 1: Sync vault
-    Write-Host "Step 1/3 — Syncing vault..." -ForegroundColor Yellow
+    Write-Host "Step 1/3 -- Syncing vault..." -ForegroundColor Yellow
     & "$QuartzPath\sync-vault.ps1"
     Write-Host ""
 
     # Step 2: Stage all changes
-    Write-Host "Step 2/3 — Staging changes..." -ForegroundColor Yellow
+    Write-Host "Step 2/3 -- Staging changes..." -ForegroundColor Yellow
     Set-Location $QuartzPath
     $status = git status --porcelain
     if (-not $status) {
@@ -32,7 +32,7 @@ try {
     Write-Host ""
 
     # Step 3: Commit and push
-    Write-Host "Step 3/3 — Publishing to GitHub..." -ForegroundColor Yellow
+    Write-Host "Step 3/3 -- Publishing to GitHub..." -ForegroundColor Yellow
     $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
     git commit -m "Update content ($timestamp)"
     git push
@@ -46,7 +46,7 @@ try {
 } catch {
     Write-Host ""
     Write-Host "========================================" -ForegroundColor Red
-    Write-Host "  ERROR — publish failed!" -ForegroundColor Red
+    Write-Host "  ERROR -- publish failed!" -ForegroundColor Red
     Write-Host "========================================" -ForegroundColor Red
     Write-Host ""
     Write-Host $_.Exception.Message -ForegroundColor Red
