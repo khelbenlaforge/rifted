@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - The Stonehill Inn
   - Stonehill Inn
@@ -38,5 +38,4 @@ The central social hub of [[Sunhold]], a half-tent, half-timber structure with a
 The party gathered intelligence here upon arrival. Locals distinguished civilized [[Goblin Merchants]] (clothed, Common-speaking, with a cart) from the [[Goblin Bandits]] plaguing the roads. Other rumors included tales of druidic sites in the unexplored south, warm living roots in deep shafts, and the Hucrele family's alleged political troubles in [[Crystal City]]. [[Lea]] used magic to clean the establishment's odor before the party rested.
 <!-- /archivist -->
 
-## DM Notes
 

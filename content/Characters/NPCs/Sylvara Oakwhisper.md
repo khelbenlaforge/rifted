@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Sylvara Oakwhisper
   - Sylvara
@@ -52,5 +52,4 @@ Affiliation::
 Deity:: [[Mielikki]]
 <!-- /archivist -->
 
-## DM Notes
 

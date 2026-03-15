@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Devran
 tags:
@@ -45,5 +45,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Hucrele Pavilion
 tags:
@@ -38,5 +38,4 @@ A semi-permanent structure of wooden frame and quality canvas that stands out sh
 The pavilion became the site of a critical briefing. [[Talgen Hucrele Sr.]] explained how [[Goblin Merchants]] had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children — [[Sharwyn]] and [[Talgen Hucrele Jr.]] — insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They never returned. [[Keldara Hucrele]] presented a half-eaten [[Goblin Fruit]] that remained impossibly fresh; [[Ember]] sensed its blood-like quality, and [[Lea]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gold per child returned alive, 200 gold for signet rings if dead, plus a family heirloom.
 <!-- /archivist -->
 
-## DM Notes
 

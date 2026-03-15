@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Lea
 tags:
@@ -72,5 +72,4 @@ Location:: [[Sunhold]]
 Deity:: --
 <!-- /archivist -->
 
-## DM Notes
 

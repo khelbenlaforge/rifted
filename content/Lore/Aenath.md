@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Aenath
 tags:
@@ -27,5 +27,4 @@ Beyond the settled areas, [[Aenath]] is dangerous and largely unknown. The [[Dwa
 The [[Astral Sea]] — a vast incorporeal realm where souls drift among massive entities — is linked to [[Aenath]]'s history. During the cataclysm that preceded [[The Awakening]], over 10,000 souls were observed trailing behind a colossal entity in the Astral Sea, suggesting a migration or transition of spirits connected to the world's violent reshaping.
 <!-- /archivist -->
 
-## DM Notes
 

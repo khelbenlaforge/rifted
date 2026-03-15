@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Keldara Hucrele
   - Keldara
@@ -50,5 +50,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

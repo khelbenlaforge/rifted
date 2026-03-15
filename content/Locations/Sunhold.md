@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Sunhold
 tags:
@@ -53,5 +53,4 @@ A rough frontier settlement nestled within a caldera in [[Corranor]]'s western f
 The settlement is rife with tension. [[Keldara Hucrele]] publicly confronted [[Harbin Wester]] over his inaction regarding her missing children, [[Sharwyn]] and [[Talgen Hucrele Jr.]], who disappeared roughly fourteen days ago after joining a [[Goblin Merchants]] delegation south. The party arrived, was briefed by the council, and accepted the mission to rescue the Hucrele scions. Beneath the settlement's name lies a deeper mystery — a vast subterranean fortress discovered in a ravine to the south, also called the Sunhold, filled with dead goblins, strange noises, and necromantic magic.
 <!-- /archivist -->
 
-## DM Notes
 

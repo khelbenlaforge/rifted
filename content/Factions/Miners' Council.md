@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Miners' Council
 tags:
@@ -39,5 +39,4 @@ The governing body of [[Sunhold]], formed by the original prospectors who discov
 The council is caught between the demands of the Hucrele family (who provide significant funding but expect noble-level governance) and the realities of frontier life. They welcomed the [[Adamantine Guild]]'s arrival and tasked the party with safety, exploration, and community outreach.
 <!-- /archivist -->
 
-## DM Notes
 

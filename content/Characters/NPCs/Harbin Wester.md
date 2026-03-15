@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Harbin Wester
 tags:
@@ -52,5 +52,4 @@ Affiliation::
 Deity::
 <!-- /archivist -->
 
-## DM Notes
 

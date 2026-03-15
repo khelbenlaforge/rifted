@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Gill Bates
   - Gill
@@ -71,5 +71,4 @@ Location:: [[Sunhold]]
 Deity:: [[Istishia]]
 <!-- /archivist -->
 
-## DM Notes
 

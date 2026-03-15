@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Barthen's Supplies
 tags:
@@ -33,5 +33,4 @@ The most organized structure in [[Sunhold]] — a reinforced tent with canvas wa
 - **[[Elmar Barthen]]** — Lean dwarf storeowner with spectacles, who manages supplies with pragmatic efficiency
 <!-- /archivist -->
 
-## DM Notes
 

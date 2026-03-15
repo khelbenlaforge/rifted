@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Amethyst District
 tags:
@@ -33,5 +33,4 @@ The arcane quarter of [[Crystal City]], where shimmering amethyst crystals adorn
 - **[[Ether Scryer's Academy]]** — The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[Lea]] here.
 <!-- /archivist -->
 
-## DM Notes
 

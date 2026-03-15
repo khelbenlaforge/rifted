@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Mielikki's Grove
 tags:
@@ -46,5 +46,4 @@ A temple that is less a building than a piece of the forest itself, transplanted
 [[Ember]] trained here under [[Sylvara Oakwhisper]], learning druidic philosophy and the balance between nature and civilization. Sylvara taught that serving [[Mielikki]] does not mean rejecting the works of mortals, but rather protecting the wild places while embracing sustainable coexistence.
 <!-- /archivist -->
 
-## DM Notes
 

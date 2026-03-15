@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Goblin Merchants
 tags:
@@ -36,5 +36,4 @@ They visited [[Sunhold]] two weeks before the Hucrele children disappeared, brin
 The delegation that went south — [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — has been missing for roughly fourteen days. [[Erky]], who went after them alone, has also not returned. The party is currently investigating.
 <!-- /archivist -->
 
-## DM Notes
 

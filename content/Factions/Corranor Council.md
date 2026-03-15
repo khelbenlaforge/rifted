@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Corranor Council
 tags:
@@ -41,5 +41,4 @@ The council directs arcane-powered airship expansion, manages relations with dis
 Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm]]'s suspicion that his assistant [[Layla]] triggered the ritual bringing the newcomers adds complexity to their deliberations.
 <!-- /archivist -->
 
-## DM Notes
 

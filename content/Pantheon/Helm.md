@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Helm
   - The Watcher
@@ -48,5 +48,4 @@ The [[Adamantine Guild]] currently struggles with severe understaffing and a sho
 [[Augustus Kennedy]], a warforged seeker of purpose, has recognised Helm as a potential patron deity. His combat training at the [[Adamantine Guild]] under [[Luks Borg]] aligns closely with Helm's ideals of strength and unwavering protection, though Augustus also contemplates allegiance to [[Tyr]] or [[Torm]].
 <!-- /archivist -->
 
-## DM Notes
 

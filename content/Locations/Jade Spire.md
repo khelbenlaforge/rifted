@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Jade Spire
   - Jade Spire of Crystal
@@ -40,5 +40,4 @@ The tallest structure in [[Corranor]], the Jade Spire rises above [[Crystal City
 The Spire has become a target for [[Shadow Creatures]], whose attacks have rendered the upper levels unsafe. [[Perrin Quickquill]] declared the area dangerous and evacuated the newcomers to the [[Adamantine Guild]] in the [[Citrine District]]. The ongoing threat has diverted resources and deepened the guild's staffing crisis.
 <!-- /archivist -->
 
-## DM Notes
 

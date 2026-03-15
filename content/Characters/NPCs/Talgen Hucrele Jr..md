@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Talgen Hucrele Jr.
   - Talgen Jr.
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

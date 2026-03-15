@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Marsh Snappers
 tags:
@@ -33,5 +33,4 @@ Abundant crustaceans found in the marshes surrounding [[Sunhold]]. During their 
 [[Sunhold]] has begun harvesting Marsh Snappers as a key export and food source. Their spawning season directly benefited the party's marsh crossing — the concentration of crustaceans had lured predators elsewhere, allowing safe passage through 40-60 miles of otherwise treacherous terrain.
 <!-- /archivist -->
 
-## DM Notes
 

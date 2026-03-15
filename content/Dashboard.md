@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Dashboard
   - Home
@@ -104,5 +104,4 @@ SORT file.name ASC
 - [[World Summary]]
 <!-- /archivist -->
 
-## DM Notes
 

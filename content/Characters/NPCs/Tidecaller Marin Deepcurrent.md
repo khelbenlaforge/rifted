@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Tidecaller Marin Deepcurrent
   - Marin Deepcurrent
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: [[Istishia]]
 <!-- /archivist -->
 
-## DM Notes
 

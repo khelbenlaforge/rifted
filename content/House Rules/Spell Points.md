@@ -1,4 +1,4 @@
----
+﻿---
 title: Spell Points
 aliases:
   - Spell Point System
@@ -76,5 +76,4 @@ Font of Magic's conversion rates are *less efficient* than spell points, so ther
 
 Converting sorcery points into casting is always a net loss — no house rule needed. Sorcerers will naturally use them for Metamagic only.
 
-## DM Notes
 

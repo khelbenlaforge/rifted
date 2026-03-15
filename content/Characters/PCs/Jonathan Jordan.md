@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Jonathan Jordan
   - JJ
@@ -72,5 +72,4 @@ Location:: [[Sunhold]]
 Deity:: --
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Sister Garaele
   - Garaele
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: [[Tymora]]
 <!-- /archivist -->
 
-## DM Notes
 

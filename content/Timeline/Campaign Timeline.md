@@ -1,4 +1,4 @@
----
+ï»¿---
 aliases:
   - Campaign Timeline
   - Rifted Timeline
@@ -163,5 +163,4 @@ The party descended into darkness and discovered a vast subterranean fortress â€
 - The PCs' missing essence and its slow regeneration
 <!-- /archivist -->
 
-## DM Notes
 

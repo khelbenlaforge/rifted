@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Shadow Creatures
 tags:
@@ -36,5 +36,4 @@ The Shadow Creatures emerged during High Harvestide of Year 222, coinciding with
 An ongoing and escalating threat. Their attacks have caused severe staffing shortages in the [[Adamantine Guild]], as resources are diverted to confront or flee from them. Their origins, motivations, and the nature of their connection to the newcomers' arrival are among the campaign's central mysteries.
 <!-- /archivist -->
 
-## DM Notes
 

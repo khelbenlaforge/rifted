@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Perrin Quickquill
   - Perrin
@@ -51,5 +51,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

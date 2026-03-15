@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Karakas
 tags:
@@ -47,5 +47,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Stormberg
 tags:
@@ -33,5 +33,4 @@ A northern port settlement on the [[Corranor]] mainland, buffeted by brisk coast
 - **[[Devran]]** — A dwarf who resides here; brother of the [[Dwarven Bartender]] in [[Crystal City]]'s [[Garnet District]]
 <!-- /archivist -->
 
-## DM Notes
 

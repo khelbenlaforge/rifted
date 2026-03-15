@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Sir Garth
   - Garth
@@ -48,5 +48,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Malar
   - The Beastlord
@@ -46,5 +46,4 @@ Malar's worshippers are feared and reviled throughout [[Corranor]]. They include
 [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], names Malar's followers as one of the gravest threats to the balance of the natural world. She teaches that their creed — viewing the wild as something to conquer rather than cherish — stands as the antithesis of everything the forest's guardians protect. The tension between Malar's faithful and the followers of [[Mielikki]] and [[Silvanus]] is an enduring source of conflict in the wilds of [[Aenath]].
 <!-- /archivist -->
 
-## DM Notes
 

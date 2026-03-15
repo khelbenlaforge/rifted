@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Goblin Fruit
 tags:
@@ -37,5 +37,4 @@ When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-l
 The [[Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence, and [[Talgen Hucrele Sr.]] offered substantial rewards for the safe return of his children. The fruit's true nature — and the source of its magic — remains one of the central mysteries of the current expedition.
 <!-- /archivist -->
 
-## DM Notes
 

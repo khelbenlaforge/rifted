@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Garm
 tags:
@@ -52,5 +52,4 @@ Affiliation::
 Deity::
 <!-- /archivist -->
 
-## DM Notes
 

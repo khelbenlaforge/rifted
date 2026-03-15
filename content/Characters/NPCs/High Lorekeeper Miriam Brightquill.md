@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - High Lorekeeper Miriam Brightquill
   - Miriam Brightquill
@@ -50,5 +50,4 @@ Affiliation::
 Deity:: [[Oghma]]
 <!-- /archivist -->
 
-## DM Notes
 

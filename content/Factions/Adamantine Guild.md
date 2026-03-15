@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Adamantine Guild
 tags:
@@ -43,5 +43,4 @@ The guild was once well-staffed, but [[Shadow Creatures]] attacks and frontier d
 Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere. The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Diamond District
   - Temple District
@@ -44,5 +44,4 @@ Known also as the Temple District, the Diamond District is the spiritual heart o
 - **[[High Lorekeeper Miriam Brightquill]]** — Scholar at [[Oghma]]'s Temple
 <!-- /archivist -->
 
-## DM Notes
 

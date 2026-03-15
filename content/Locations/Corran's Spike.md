@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Corran's Spike
 tags:
@@ -35,5 +35,4 @@ During [[The Awakening]], the archmage [[Corran]] channeled immense power to con
 The [[Jade Spire]] in [[Crystal City]] was erected in his honor, but it is here, at the Spike itself, that the true weight of [[Corran]]'s sacrifice can be felt. The party experienced visions of this moment during their early days in [[Corranor]], witnessing the cataclysm and Corran's final ritual firsthand.
 <!-- /archivist -->
 
-## DM Notes
 

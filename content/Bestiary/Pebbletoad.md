@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Pebbletoad
   - Pebbletoads
@@ -47,39 +47,11 @@ Pebbletoads are common throughout [[Corranor]]'s wilder regions. Travelers somet
 
 ## D&D 5e Stat Block
 
-```statblock
-name: Pebbletoad
-size: Tiny
-type: Beast
-alignment: Unaligned
-ac: 14
-ac_class: natural stone skin
-hp: 3
-hit_dice: 1d4 + 1
-speed: "20 ft., climb 10 ft., swim 20 ft."
-stats: [4, 12, 12, 2, 10, 6]
-skillsaves:
-  - stealth: 3
-  - perception: 2
-senses: "Darkvision 30 ft., passive Perception 12"
-languages: "—"
-cr: "0"
-traits:
-  - name: Stone Camouflage
-    desc: "The Pebbletoad has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
-  - name: Petrify (Repose)
-    desc: "As a reaction to danger, the Pebbletoad can instantly harden into a stone form. While petrified, it appears to be an ordinary pebble. It remains in this state for up to 24 hours or until touched by warm water, a flame, or gentle sunlight for 1 minute."
-  - name: Unstone Awakening
-    desc: "When reverting from stone form, it emits a faint \"pop\" and releases harmless mineral dust that tastes faintly of salt."
-actions:
-  - name: Tongue Snap
-    desc: "_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) bludgeoning damage."
-```
+
 
 ## Adventure Hooks
 - A druid circle believes an ancient shrine was destroyed — until the "rubble" begins to hop away at night.
 - A merchant is selling "enchanted river stones" that are actually petrified Pebbletoads. Buyers are in for a surprise come morning.
 <!-- /archivist -->
 
-## DM Notes
 

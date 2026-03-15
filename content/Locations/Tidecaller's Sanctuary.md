@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Tidecaller's Sanctuary
   - Temple of Istishia
@@ -46,5 +46,4 @@ At the heart of the sanctuary lies a spring-fed pool with an altar that appears 
 [[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
 <!-- /archivist -->
 
-## DM Notes
 

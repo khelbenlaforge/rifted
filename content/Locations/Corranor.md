@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Corranor
   - Magocracy of Corranor
@@ -51,5 +51,4 @@ The population includes humans, elves, and warforged, all descendants of those w
 [[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements. Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222, adding mystery to an already turbulent time.
 <!-- /archivist -->
 
-## DM Notes
 

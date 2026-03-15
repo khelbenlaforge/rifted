@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Luks Borg
   - Luks
@@ -55,5 +55,4 @@ Affiliation::
 Deity:: Unknown
 <!-- /archivist -->
 
-## DM Notes
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Astral Sea
 tags:
@@ -23,5 +23,4 @@ The Astral Sea serves as a plane of transition for souls. Its flowing, luminesce
 During the cataclysm that preceded [[The Awakening]], over 10,000 souls were observed trailing behind a massive flowing entity in the Astral Sea, suggesting a great migration or transition of spirits. This event appears directly connected to the appearance of the first peoples of [[Corranor]], who awoke with no memories of their past. Whether the souls seen in the Astral Sea became the inhabitants of [[Corranor]], or whether the connection is more complex, remains one of the deepest mysteries of [[Aenath]].
 <!-- /archivist -->
 
-## DM Notes
 

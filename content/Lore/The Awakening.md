@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - The Awakening
   - Year 0 PA
@@ -34,5 +34,4 @@ With the land stabilized, survivors began to build. Over 222 years, they created
 Visions suggest a connection to the [[Astral Sea]], where over 10,000 souls were seen trailing behind a massive entity during the cataclysm. Whether the people of [[Corranor]] are those souls made flesh, or whether the events are connected in some other way, is unknown. [[Elmindaria L'Thorian]], one of the eldest living elves, recalls the earliest days of the Awakening and serves as a living link to this lost past.
 <!-- /archivist -->
 
-## DM Notes
 

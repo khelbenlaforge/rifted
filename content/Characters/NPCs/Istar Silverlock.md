@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Istar Silverlock
   - Istar
@@ -62,5 +62,4 @@ Affiliation::
 Deity::
 <!-- /archivist -->
 
-## DM Notes
 

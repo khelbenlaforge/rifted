@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Erky
 tags:
@@ -49,5 +49,4 @@ Affiliation::
 Deity:: [[Tymora]]
 <!-- /archivist -->
 
-## DM Notes
 
