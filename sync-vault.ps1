@@ -1,6 +1,6 @@
 # sync-vault.ps1
 # Copies 00_My Notes/ from the Obsidian vault to Quartz content/,
-# excluding any note with `secret: true` in its frontmatter.
+# excluding the Session Prep folder and any note with `secret: true` in its frontmatter.
 
 param(
     [string]$VaultPath = "C:\Users\eugen\Dropbox\PKM\World Building\Rifted Campaign\00_My Notes",
@@ -14,8 +14,10 @@ Get-ChildItem -Path $ContentPath -Recurse -Exclude ".gitkeep" | Remove-Item -For
 $copied = 0
 $skipped = 0
 
-# Walk all markdown files in the vault source
-Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | ForEach-Object {
+# Walk all markdown files in the vault source (excluding Session Prep folder)
+Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
+    $_.FullName -notlike "*\Session Prep\*"
+} | ForEach-Object {
     $file = $_
     $content = Get-Content $file.FullName -Raw -Encoding UTF8
 
