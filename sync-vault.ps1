@@ -7,9 +7,9 @@ param(
     [string]$ContentPath = "$PSScriptRoot\content"
 )
 
-# Clear existing content (keep .gitkeep if present)
+# Clear existing content (keep .gitkeep and index.md)
 Write-Host "Clearing content folder..." -ForegroundColor Yellow
-Get-ChildItem -Path $ContentPath -Recurse -Exclude ".gitkeep" | Remove-Item -Force -Recurse
+Get-ChildItem -Path $ContentPath -Recurse -Exclude ".gitkeep","index.md" | Remove-Item -Force -Recurse
 
 $copied = 0
 $skipped = 0
