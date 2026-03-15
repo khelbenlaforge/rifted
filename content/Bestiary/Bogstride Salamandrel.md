@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:30
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:10
 ---
 ﻿---
 title: Bogstride Salamandrel
@@ -81,7 +81,4 @@ When used as a combat mount, the Salamandrel can take the _Dodge_, _Dash_, or _D
 **Crafting Difficulty:** DC 15 Leatherworker's Tools or Weaver's Tools.
 **Market Price:** 250 gp.
 
-## Adventure Hooks
-- A druid circle's sacred Salamandrel has gone missing from the fen — its bioluminescent trail leads into a goblin-infested bog.
-- A merchant offers a fortune for a trained Bogseat saddle, but the only leatherworker who knows the craft has vanished into the marshes.`n
 

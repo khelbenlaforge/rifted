@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:50
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:14
 ---
 ﻿---
 title: Ember
@@ -72,6 +72,6 @@ Class:: Druid
 Player::
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunhold]]
-Deity:: [[Mielikki]]`n
+Location:: [[Sunless Citadel]]
+Deity:: [[Mielikki]]
 

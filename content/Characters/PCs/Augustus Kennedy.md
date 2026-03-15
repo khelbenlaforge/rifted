@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:21
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:14
 ---
 ﻿---
 title: Augustus Kennedy
@@ -77,6 +77,6 @@ Class:: Paladin
 Player::
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunhold]]
-Deity:: [[Tyr]]`n
+Location:: [[Sunless Citadel]]
+Deity:: [[Tyr]]
 

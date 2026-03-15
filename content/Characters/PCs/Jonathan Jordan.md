@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-03-16T04:21
-updated: 2026-03-16T05:00
+updated: 2026-03-16T05:14
 ---
 ﻿---
 title: Jonathan Jordan
@@ -73,6 +73,6 @@ Class:: Rogue
 Player::
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunhold]]
-Deity:: --`n
+Location:: [[Sunless Citadel]]
+Deity:: --
 

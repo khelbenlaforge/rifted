@@ -1,5 +1,5 @@
 ﻿---
-title: "Session 11 — Echoes of Divinity"
+title: Session 11 — Echoes of Divinity
 aliases:
   - Session 11
 tags:
@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T05:22
+updated: 2026-03-16T05:22
 ---
 
 # Session 11 — Echoes of Divinity
@@ -17,6 +19,7 @@ secret: false
 > **Location:** [[Sunless Citadel]], Grove Level
 > **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
+> **Source:** [[2026-03-16 - Session 11 Transcript (Raw)]]
 
 ---
 
