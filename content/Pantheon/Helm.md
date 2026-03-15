@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:31
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Helm
 aliases:
   - Helm
   - The Watcher
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:31
+updated: 2026-03-16T04:31
 ---
-
-<!-- archivist -->
-# Helm
+`n# Helm
 
 > [!infobox|right wikipedia]+
 > # Helm
@@ -45,7 +50,5 @@ Helm's faithful include bodyguards, city watch members, treasury guards, and any
 
 The [[Adamantine Guild]] currently struggles with severe understaffing and a shortage of healers following attacks by shadow creatures, making Helm's call to vigilance more urgent than ever. The Guild actively recruits capable individuals to bolster the defence of the [[Jade Spire]].
 
-[[Augustus Kennedy]], a warforged seeker of purpose, has recognised Helm as a potential patron deity. His combat training at the [[Adamantine Guild]] under [[Luks Borg]] aligns closely with Helm's ideals of strength and unwavering protection, though Augustus also contemplates allegiance to [[Tyr]] or [[Torm]].
-<!-- /archivist -->
-
+[[Augustus Kennedy]], a warforged seeker of purpose, has recognised Helm as a potential patron deity. His combat training at the [[Adamantine Guild]] under [[Luks Borg]] aligns closely with Helm's ideals of strength and unwavering protection, though Augustus also contemplates allegiance to [[Tyr]] or [[Torm]].`n
 

@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:25
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Corranor Council
 aliases:
   - Corranor Council
 tags:
@@ -6,10 +11,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:25
+updated: 2026-03-16T04:25
 ---
-
-<!-- archivist -->
-# Corranor Council
+`n# Corranor Council
 
 > [!infobox|right wikipedia]+
 > # Corranor Council
@@ -20,8 +25,8 @@ secret: false
 > | Base | [[Jade Spire]], [[Crystal City]] |
 > | Leader | Seven archmages (collective) |
 
-Leader::
-Headquarters::
+Leader:: Seven archmages (collective leadership)
+Headquarters:: [[Jade Spire]], [[Crystal City]]
 
 ## Description
 
@@ -38,7 +43,5 @@ The council directs arcane-powered airship expansion, manages relations with dis
 
 ## Current Status
 
-Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm]]'s suspicion that his assistant [[Layla]] triggered the ritual bringing the newcomers adds complexity to their deliberations.
-<!-- /archivist -->
-
+Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm]]'s suspicion that his assistant [[Layla]] triggered the ritual bringing the newcomers adds complexity to their deliberations.`n
 

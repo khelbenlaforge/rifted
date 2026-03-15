@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Talgen Hucrele Sr.
 aliases:
   - Talgen Hucrele Sr.
   - Talgen Sr.
@@ -8,11 +13,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:23
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Talgen Hucrele Sr.
+`n# Talgen Hucrele Sr.
 
 > [!infobox|right wikipedia]+
 > # Talgen Hucrele Sr.
@@ -46,11 +51,9 @@ After twenty-four days of silence, Talgen offered a reward at the [[Hucrele Pavi
 Location:: [[Sunhold]]
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Unknown
 Class:: Noble
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Hucrele Family]]
+Deity:: Unknown`n
 

@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Sunhold
 aliases:
   - Sunhold
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T02:48
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Sunhold
+`n# Sunhold
 
 > [!infobox|right wikipedia]+
 > # Sunhold
@@ -22,9 +27,9 @@ secret: false
 > | Population | ~60 |
 > | Founded | Year 222 PA (less than 8 months ago) |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Corranor]]
+Controlled By:: [[Miners' Council]]
+Status:: Active
 
 ## Description
 
@@ -50,7 +55,5 @@ A rough frontier settlement nestled within a caldera in [[Corranor]]'s western f
 
 ## Current Events
 
-The settlement is rife with tension. [[Keldara Hucrele]] publicly confronted [[Harbin Wester]] over his inaction regarding her missing children, [[Sharwyn]] and [[Talgen Hucrele Jr.]], who disappeared roughly fourteen days ago after joining a [[Goblin Merchants]] delegation south. The party arrived, was briefed by the council, and accepted the mission to rescue the Hucrele scions. Beneath the settlement's name lies a deeper mystery — a vast subterranean fortress discovered in a ravine to the south, also called the Sunhold, filled with dead goblins, strange noises, and necromantic magic.
-<!-- /archivist -->
-
+The settlement is rife with tension. [[Keldara Hucrele]] publicly confronted [[Harbin Wester]] over his inaction regarding her missing children, [[Sharwyn]] and [[Talgen Hucrele Jr.]], who disappeared roughly fourteen days ago after joining a [[Goblin Merchants]] delegation south. The party arrived, was briefed by the council, and accepted the mission to rescue the Hucrele scions. Their trail led south through the marshes and eventually to the [[Sunless Citadel]] — a ruined fortress far south of the settlement.`n
 

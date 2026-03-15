@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:25
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Amethyst District
 aliases:
   - Amethyst District
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:25
+updated: 2026-03-16T04:25
 ---
-
-<!-- archivist -->
-# Amethyst District
+`n# Amethyst District
 
 > [!infobox|right wikipedia]+
 > # Amethyst District
@@ -20,9 +25,9 @@ secret: false
 > | Type | City district |
 > | Region | [[Crystal City]], [[Corranor]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: [[Magocracy of Corranor]]
+Status:: Active
 
 ## Description
 
@@ -30,7 +35,5 @@ The arcane quarter of [[Crystal City]], where shimmering amethyst crystals adorn
 
 ## Notable Features
 
-- **[[Ether Scryer's Academy]]** — The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[Lea]] here.
-<!-- /archivist -->
-
+- **[[Ether Scryer's Academy]]** — The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[Lea]] here.`n
 

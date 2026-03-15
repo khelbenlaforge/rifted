@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:22
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Elmindaria L'Thorian
 aliases:
   - Elmindaria L'Thorian
   - Elmindaria
@@ -8,11 +13,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:22
 ---
-
-<!-- archivist -->
-# Elmindaria L'Thorian
+`n# Elmindaria L'Thorian
 
 > [!infobox|right wikipedia]+
 > # Elmindaria L'Thorian
@@ -51,11 +56,9 @@ With the [[Adamantine Guild]] severely understaffed -- only herself, [[Istar Sil
 Location:: [[Crystal City]]
 Race:: Elf
 Subrace::
-Pronouns::
+Pronouns:: she/her
 Alignment:: Unknown
 Class:: Wizard
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Adamantine Guild]], [[Ether Scryer's Academy]]
+Deity:: Unknown`n
 

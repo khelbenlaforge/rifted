@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:30
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Goblin Fruit
 aliases:
   - Goblin Fruit
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:29
+updated: 2026-03-16T04:30
 ---
-
-<!-- archivist -->
-# Goblin Fruit
+`n# Goblin Fruit
 
 > [!infobox|right wikipedia]+
 > # Goblin Fruit
@@ -20,9 +25,9 @@ secret: false
 > | Type | Magical consumable |
 > | Origin | [[Goblin Merchants]], southern regions |
 
-Rarity::
-Attunement::
-Found At::
+Rarity:: Unknown
+Attunement:: No
+Found At:: [[Goblin Merchants]], southern regions
 
 ## Description
 
@@ -34,7 +39,5 @@ When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-l
 
 ## Significance
 
-The [[Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence, and [[Talgen Hucrele Sr.]] offered substantial rewards for the safe return of his children. The fruit's true nature — and the source of its magic — remains one of the central mysteries of the current expedition.
-<!-- /archivist -->
-
+The [[Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence, and [[Talgen Hucrele Sr.]] offered substantial rewards for the safe return of his children. The fruit's true nature — and the source of its magic — remains one of the central mysteries of the current expedition.`n
 

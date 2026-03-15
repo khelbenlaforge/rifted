@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:30
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Lurkleaf
 aliases:
   - Lurkleaf
   - Lurkleafs
@@ -9,11 +14,9 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-13T23:59
+updated: 2026-03-16T04:30
 ---
-
-<!-- archivist -->
-# Lurkleaf
+`n# Lurkleaf
 
 > [!infobox|right wikipedia]+
 > # Lurkleaf
@@ -53,7 +56,5 @@ Lurkleafs are considered living omens of forest health. When they vanish from an
 
 ## Adventure Hooks
 - The forest seems unusually still — the Lurkleafs have vanished, and the trees are wilting without them.
-- A hermit druid claims her Lurkleaf companion has been "singing in its sleep" — an unheard-of behavior that may signal an awakening of old magic.
-<!-- /archivist -->
-
+- A hermit druid claims her Lurkleaf companion has been "singing in its sleep" — an unheard-of behavior that may signal an awakening of old magic.`n
 

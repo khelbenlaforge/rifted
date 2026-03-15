@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Corranor
 aliases:
   - Corranor
   - Magocracy of Corranor
@@ -9,10 +14,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Corranor
+`n# Corranor
 
 > [!infobox|right wikipedia]+
 > # Corranor
@@ -24,9 +29,9 @@ secret: false
 > | Capital | [[Crystal City]] |
 > | Government | [[Corranor Council]] (7 archmages) |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Aenath]]
+Controlled By:: [[Corranor Council]]
+Status:: Active
 
 ## Description
 
@@ -48,7 +53,5 @@ The population includes humans, elves, and warforged, all descendants of those w
 
 ## Current Events
 
-[[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements. Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222, adding mystery to an already turbulent time.
-<!-- /archivist -->
-
+[[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements. Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222, adding mystery to an already turbulent time.`n
 

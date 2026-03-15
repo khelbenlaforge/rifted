@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Sister Garaele
 aliases:
   - Sister Garaele
   - Garaele
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Sister Garaele
+`n# Sister Garaele
 
 > [!infobox|right wikipedia]+
 > # Sister Garaele
@@ -39,14 +44,12 @@ She provides healing potions to those in need and has offered her aid to the [[A
 
 ---
 ## Tags
-Location:: [[Sunhold]]
+Location:: [[Tymora's Shrine]], [[Sunhold]]
 Race:: Half-Elf
 Subrace::
-Pronouns::
+Pronouns:: she/her
 Alignment:: Unknown
 Class:: Cleric
-Affiliation::
-Deity:: [[Tymora]]
-<!-- /archivist -->
-
+Affiliation:: [[Tymora's Shrine]]
+Deity:: [[Tymora]]`n
 

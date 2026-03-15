@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:46
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Campaign Timeline
 aliases:
   - Campaign Timeline
   - Rifted Timeline
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T03:56
+updated: 2026-03-16T04:46
 ---
-
-<!-- archivist -->
-# Campaign Timeline
+`n# Campaign Timeline
 
 ## The Awakening (Year 0 PA)
 
@@ -141,26 +146,70 @@ The party — [[Ember]], [[Lea]], [[Jonathan Jordan]], and [[Augustus Kennedy]] 
 
 They traversed 40-60 miles of marsh without incident, emerging into a rocky landscape far south of [[Sunhold]].
 
-### Descent into the Sunhold Fortress
+### Descent into the Sunless Citadel
 
 The party found a crack in the earth that widened into a large ravine. They followed six tracks — four human-sized, two smaller — believed to be [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], [[Karakas]], and two goblin guides. The tracks ended at a piton with a knotted rope descending into a pitch-black ravine surrounded by pillars of ancient ruins.
 
-The party descended into darkness and discovered a vast subterranean fortress — also called the Sunhold. In a courtyard before a ruined tower, they found and avoided a trapdoor, entered the tower, and encountered dead goblins. They heard footsteps behind one door and skittering behind another. [[Lea]]'s Detect Magic revealed necromantic magic emanating from behind a trapped hidden door to the south. The party used Mage Hand to trigger the trap remotely and prepared to venture deeper.
+The party descended into darkness and discovered the [[Sunless Citadel]] — a vast subterranean fortress far south of [[Sunhold]]. In a courtyard before a ruined tower, they found and avoided a trapdoor, entered the tower, and encountered dead goblins. They heard footsteps behind one door and skittering behind another. [[Lea]]'s Detect Magic revealed necromantic magic emanating from behind a trapped hidden door to the south. The party used Mage Hand to trigger the trap remotely and prepared to venture deeper.
+
+### Death of Karakas
+
+While traveling through the Upper Level of the [[Sunless Citadel]] — moving from Kobold territory toward Goblin territory — the party discovered the body of [[Karakas]]. He had been killed by rats. The Hucrele delegation's ranger never made it back.
+
+---
+
+---
+
+## Year 222 PA — Marpenoth (Session 11)
+
+### Death in the Grove
+
+On the Grove Level of the [[Sunless Citadel]], the party — now joined by [[Gill Bates]], the bugbear [[Balsag]], the gnome acolyte [[Erky]], and a Velvet Vulper called [[Little Sister]] — discovered the body of [[Talgen Hucrele Jr.]] among the violet bioluminescent moss. His death was confirmed. [[Sharwyn]] and [[Sir Braford]] remain missing.
+
+### The Fault Line
+
+Pressing south through the Grove Level, the party found the citadel's architecture giving way to raw rock — a geological fault line had violently shifted the entire southern section westward, leaving a deep crack in the earth. [[Lea]] cast Detect Magic, sensing elemental energy to the southwest and an overwhelming convergence of every school of magic — arcane, divine, and primal — to the south.
+
+### The Sealed Door
+
+The energy source proved to be a massive basalt monolith — seamless black rock bearing hundreds of deity symbols that moved freely across its surface. As each PC approached, symbols gravitated toward them by divine affinity: lawful deities toward [[Augustus Kennedy]], primordial elements toward [[Gill Bates]], magic and knowledge toward [[Lea]], trickster and shadow gods toward [[Jonathan Jordan]]. [[Ember]] drew two opposing groups simultaneously — nature deities and the gods of the lower planes.
+
+The party failed their checks. A psychic pulse rendered them unconscious, and their consciousness was pulled into the door — which expanded into a vast symbolic battlefield populated by divine echoes.
+
+### The Battlefield of Echoes
+
+Each PC faced a spiritual challenge among the deity manifestations:
+
+- **[[Ember]]** — Surrounded by infernal deities while nature gods watched from a distance. An echo of [[Mielikki]] urged her to accept her dual nature. [[Asmodeus]] refused to leave her side.
+- **[[Lea]]** — Isolated at the center with gods of magic and knowledge. She sought out [[Kelemvor]], god of death, walled behind bone. She sensed a history of love and betrayal between him and [[Mystra]].
+- **[[Jonathan Jordan]]** — His trickster and shadow gods were attacked by the gods of good. His challenge: to understand that opposition itself has purpose in the balance.
+- **[[Augustus Kennedy]]** — Led lawful deities to aid [[Ember]], then realized the conflict required unity, not rescue. He merged his group with the infernal gods.
+- **[[Gill Bates]]** — The four primordial elemental deities existed in opposition yet harmony. He assimilated other groups and moved toward the center.
+
+An incandescent light erupted at the battlefield's center — neither good, evil, nor neutral, but something entirely *other* and infinitely more powerful than any deity. Only when all factions united — including the reluctant gods of death — could they withstand its pulse. The PCs regained consciousness and the door opened.
+
+### The Sanctum of Ashardalon
+
+Beyond the door, an illusion of [[Ashardalon]] — the ancient dragon whose cult built the citadel — dissolved to reveal the chamber's true contents:
+
+**Statuary:** [[Mystra]] stood at the center, hands over a scale model of [[Aenath]] — revealed as a flat, rectangular world. [[Gond]] stood opposite with a smith's hammer. [[Bahamut]] and [[Takhisis]] flanked them as co-protectors. The four primordial elemental symbols (including [[Istishia]]) were carved into the floor.
+
+**Mural:** A panorama circling the room depicted a featureless humanoid figure, with millions of lights streaming away — led by deities, hundreds strong, guiding an exodus. The gods of the lower planes held the rear guard. The mural's full meaning remains undeciphered.
 
 ---
 
 ## Active Threads
 
+- [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
+- The Sanctum's revelations: the featureless figure, the divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape
+- [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
+- The incandescent "Other" — a force beyond alignment that threatened to consume the deities
+- What lies on the other side of [[Aenath]]?
+- The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]])
+- [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
 - The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]
 - [[Jonathan Jordan]]'s prophetic visions and their connection to [[Corran]]
-- The fate of the Hucrele children ([[Sharwyn]], [[Talgen Hucrele Jr.]]) and their escorts
-- [[Erky]]'s disappearance after pursuing the rescue alone
 - The true nature of the [[Goblin Fruit]] and the [[Goblin Merchants]]' intentions
-- The necromantic magic within the subterranean Sunhold
-- [[Ember]]'s growth under [[Sylvara Oakwhisper]]
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
-- [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
-- The PCs' missing essence and its slow regeneration
-<!-- /archivist -->
-
+- The PCs' missing essence and its slow regeneration`n
 

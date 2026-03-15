@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Garnet District
 aliases:
   - Garnet District
   - Commons District
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Garnet District
+`n# Garnet District
 
 > [!infobox|right wikipedia]+
 > # Garnet District
@@ -21,9 +26,9 @@ secret: false
 > | Type | City district |
 > | Region | [[Crystal City]], [[Corranor]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: [[Magocracy of Corranor]]
+Status:: Active
 
 ## Description
 
@@ -31,7 +36,5 @@ The Commons District — a lively quarter of bustling bars, taverns, and humble 
 
 ## Notable Features
 
-- A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].
-<!-- /archivist -->
-
+- A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].`n
 

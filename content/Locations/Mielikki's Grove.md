@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Mielikki's Grove
 aliases:
   - Mielikki's Grove
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Mielikki's Grove
+`n# Mielikki's Grove
 
 > [!infobox|right wikipedia]+
 > # Mielikki's Grove
@@ -20,9 +25,9 @@ secret: false
 > | Type | Living temple |
 > | Region | [[Diamond District]], [[Crystal City]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Diamond District]], [[Crystal City]]
+Controlled By:: [[Sylvara Oakwhisper]]
+Status:: Active
 
 ## Description
 
@@ -43,7 +48,5 @@ A temple that is less a building than a piece of the forest itself, transplanted
 
 ## Current Events
 
-[[Ember]] trained here under [[Sylvara Oakwhisper]], learning druidic philosophy and the balance between nature and civilization. Sylvara taught that serving [[Mielikki]] does not mean rejecting the works of mortals, but rather protecting the wild places while embracing sustainable coexistence.
-<!-- /archivist -->
-
+[[Ember]] trained here under [[Sylvara Oakwhisper]], learning druidic philosophy and the balance between nature and civilization. Sylvara taught that serving [[Mielikki]] does not mean rejecting the works of mortals, but rather protecting the wild places while embracing sustainable coexistence.`n
 

@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:47
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Gill Bates
 aliases:
   - Gill Bates
   - Gill
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:21
+updated: 2026-03-16T04:47
 ---
-
-<!-- archivist -->
-# Gill Bates
+`n# Gill Bates
 
 > [!infobox|right wikipedia]+
 > # Gill Bates
@@ -65,10 +70,8 @@ Race:: Humanoid (partially changed)
 Subrace::
 Class:: Cleric (Arcana Domain)
 Player::
-Pronouns::
-Affiliation::
-Location:: [[Sunhold]]
-Deity:: [[Istishia]]
-<!-- /archivist -->
-
+Pronouns:: he/him
+Affiliation:: [[Adamantine Guild]]
+Location:: [[Sunless Citadel]]
+Deity:: [[Istishia]]`n
 

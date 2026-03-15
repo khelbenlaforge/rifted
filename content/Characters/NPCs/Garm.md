@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:22
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Garm
 aliases:
   - Garm
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:22
 ---
-
-<!-- archivist -->
-# Garm
+`n# Garm
 
 > [!infobox|right wikipedia]+
 > # Garm
@@ -42,14 +47,12 @@ When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Y
 
 ---
 ## Tags
-Location:: [[Jade Spire]]
+Location:: [[Jade Spire]], [[Crystal City]]
 Race:: Orc
 Subrace::
 Pronouns::
 Alignment:: Neutral Good
 Class:: Wizard
-Affiliation::
-Deity::
-<!-- /archivist -->
-
+Affiliation:: [[Corranor Council]]
+Deity::`n
 

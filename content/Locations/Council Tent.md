@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Council Tent
 aliases:
   - Council Tent
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:28
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Council Tent
+`n# Council Tent
 
 > [!infobox|right wikipedia]+
 > # Council Tent
@@ -20,9 +25,9 @@ secret: false
 > | Type | Government building |
 > | Region | [[Sunhold]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Sunhold]]
+Controlled By:: [[Miners' Council]]
+Status:: Active
 
 ## Description
 
@@ -30,7 +35,5 @@ The largest canvas structure in [[Sunhold]], reinforced with heavy poles and car
 
 ## Current Events
 
-The [[Miners' Council]] convened here with [[Harbin Wester]], [[Elmar Barthen]], [[Halia Thornton]], [[Luks Borg]], and the party to discuss [[Sunhold]]'s challenges. The council outlined the settlement's founding, local geography, bandit problems, and welcomed the [[Adamantine Guild]]'s presence. The party was tasked with safety, exploration, and community outreach.
-<!-- /archivist -->
-
+The [[Miners' Council]] convened here with [[Harbin Wester]], [[Elmar Barthen]], [[Halia Thornton]], [[Luks Borg]], and the party to discuss [[Sunhold]]'s challenges. The council outlined the settlement's founding, local geography, bandit problems, and welcomed the [[Adamantine Guild]]'s presence. The party was tasked with safety, exploration, and community outreach.`n
 

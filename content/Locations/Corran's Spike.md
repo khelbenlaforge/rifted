@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:27
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Corran's Spike
 aliases:
   - Corran's Spike
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:27
 ---
-
-<!-- archivist -->
-# Corran's Spike
+`n# Corran's Spike
 
 > [!infobox|right wikipedia]+
 > # Corran's Spike
@@ -20,9 +25,9 @@ secret: false
 > | Type | Landmark / Memorial |
 > | Region | East of [[Crystal City]], [[Corranor]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Corranor]]
+Controlled By:: None
+Status:: Sealed
 
 ## Description
 
@@ -32,7 +37,5 @@ A colossal formation of rock and light that pierces the heavens east of [[Crysta
 
 During [[The Awakening]], the archmage [[Corran]] channeled immense power to contain a catastrophic force that threatened to tear the land apart. In a final act of sacrifice, he entombed himself and four constructs within this massive rock formation, stabilizing the chaotic terrain and allowing civilization to take root. The Spike stands as both a geographical anchor and a memorial — a reminder of what was paid so that [[Corranor]] might exist.
 
-The [[Jade Spire]] in [[Crystal City]] was erected in his honor, but it is here, at the Spike itself, that the true weight of [[Corran]]'s sacrifice can be felt. The party experienced visions of this moment during their early days in [[Corranor]], witnessing the cataclysm and Corran's final ritual firsthand.
-<!-- /archivist -->
-
+The [[Jade Spire]] in [[Crystal City]] was erected in his honor, but it is here, at the Spike itself, that the true weight of [[Corran]]'s sacrifice can be felt. The party experienced visions of this moment during their early days in [[Corranor]], witnessing the cataclysm and Corran's final ritual firsthand.`n
 

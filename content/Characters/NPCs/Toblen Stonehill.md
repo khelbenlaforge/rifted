@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Toblen Stonehill
 aliases:
   - Toblen Stonehill
   - Toblen
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:23
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Toblen Stonehill
+`n# Toblen Stonehill
 
 > [!infobox|right wikipedia]+
 > # Toblen Stonehill
@@ -39,14 +44,12 @@ He expressed open disdain for the Hucrele children, suggesting they were ill-pre
 
 ---
 ## Tags
-Location:: [[Sunhold]]
+Location:: [[The Stonehill Inn]], [[Sunhold]]
 Race:: Dwarf
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Unknown
 Class:: Innkeeper
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[The Stonehill Inn]]
+Deity:: Unknown`n
 

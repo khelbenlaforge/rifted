@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Keldara Hucrele
 aliases:
   - Keldara Hucrele
   - Keldara
@@ -7,11 +12,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Keldara Hucrele
+`n# Keldara Hucrele
 
 > [!infobox|right wikipedia]+
 > # Keldara Hucrele
@@ -43,11 +48,9 @@ After twenty-four days without word, she publicly confronted [[Harbin Wester]] o
 Location:: [[Sunhold]]
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: she/her
 Alignment:: Unknown
 Class:: Noble
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Hucrele Family]]
+Deity:: Unknown`n
 

@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Oghma's Temple — the Endless Library
 aliases:
   - Oghma's Temple
   - The Endless Library
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:27
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Oghma's Temple — the Endless Library
+`n# Oghma's Temple — the Endless Library
 
 > [!infobox|right wikipedia]+
 > # The Endless Library
@@ -21,9 +26,9 @@ secret: false
 > | Type | Temple / Library |
 > | Region | [[Diamond District]], [[Crystal City]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: [[High Lorekeeper Miriam Brightquill]]
+Status:: Active
 
 ## Description
 
@@ -40,7 +45,5 @@ A towering repository of knowledge dedicated to [[Oghma]], the Binder of Books. 
 
 ## Current Events
 
-The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Lea]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.
-<!-- /archivist -->
-
+The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Lea]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.`n
 

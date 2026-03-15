@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:22
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Devran
 aliases:
   - Devran
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:22
 ---
-
-<!-- archivist -->
-# Devran
+`n# Devran
 
 > [!infobox|right wikipedia]+
 > # Devran
@@ -42,7 +47,5 @@ Pronouns::
 Alignment:: Unknown
 Class:: Unknown
 Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Deity:: Unknown`n
 

@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:50
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Ember
 aliases:
   - Ember
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T03:57
+updated: 2026-03-16T04:50
 ---
-
-<!-- archivist -->
-# Ember
+`n# Ember
 
 > [!infobox|right wikipedia]+
 > # Ember
@@ -51,7 +56,8 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 - Spotted a Lurkleaf near [[Tymora's Shrine]]
 - Collected several [[Pebbletoads]] before the marsh crossing
 - Departed south with [[Lea]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
-- Traversed marshes and descended into a subterranean fortress, encountering dead goblins and signs of necromancy
+- Traversed marshes and descended into the [[Sunless Citadel]], encountering dead goblins and signs of necromancy
+- **Session 11** — During the trial of the Sealed Door in the [[Sunless Citadel]], deity symbols of both nature and the lower planes gravitated toward her simultaneously, exposing her dual nature. Inside a spiritual battlefield, an echo of [[Mielikki]] urged her to accept both sides of herself. [[Asmodeus]]'s manifestation refused to leave her side even after the other infernal deities withdrew
 
 ## Relationships
 - **[[Lea]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger
@@ -62,12 +68,10 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 ---
 Race:: Tiefling
 Subrace::
-Class:: Druid / Ranger
+Class:: Druid
 Player::
-Pronouns::
-Affiliation::
+Pronouns:: she/her
+Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunhold]]
-Deity:: [[Mielikki]]
-<!-- /archivist -->
-
+Deity:: [[Mielikki]]`n
 

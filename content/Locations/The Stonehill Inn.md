@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: The Stonehill Inn
 aliases:
   - The Stonehill Inn
   - Stonehill Inn
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:27
+updated: 2026-03-16T04:27
 ---
-
-<!-- archivist -->
-# The Stonehill Inn
+`n# The Stonehill Inn
 
 > [!infobox|right wikipedia]+
 > # The Stonehill Inn
@@ -21,9 +26,9 @@ secret: false
 > | Type | Tavern / Inn |
 > | Region | [[Sunhold]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Sunhold]]
+Controlled By:: [[Toblen Stonehill]]
+Status:: Active
 
 ## Description
 
@@ -35,7 +40,5 @@ The central social hub of [[Sunhold]], a half-tent, half-timber structure with a
 
 ## Current Events
 
-The party gathered intelligence here upon arrival. Locals distinguished civilized [[Goblin Merchants]] (clothed, Common-speaking, with a cart) from the [[Goblin Bandits]] plaguing the roads. Other rumors included tales of druidic sites in the unexplored south, warm living roots in deep shafts, and the Hucrele family's alleged political troubles in [[Crystal City]]. [[Lea]] used magic to clean the establishment's odor before the party rested.
-<!-- /archivist -->
-
+The party gathered intelligence here upon arrival. Locals distinguished civilized [[Goblin Merchants]] (clothed, Common-speaking, with a cart) from the [[Goblin Bandits]] plaguing the roads. Other rumors included tales of druidic sites in the unexplored south, warm living roots in deep shafts, and the Hucrele family's alleged political troubles in [[Crystal City]]. [[Lea]] used magic to clean the establishment's odor before the party rested.`n
 

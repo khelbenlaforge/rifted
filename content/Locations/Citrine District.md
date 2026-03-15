@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:27
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Citrine District
 aliases:
   - Citrine District
   - Citrine District of Crystal
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:27
 ---
-
-<!-- archivist -->
-# Citrine District
+`n# Citrine District
 
 > [!infobox|right wikipedia]+
 > # Citrine District
@@ -21,9 +26,9 @@ secret: false
 > | Type | City district |
 > | Region | [[Crystal City]], [[Corranor]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: [[Magocracy of Corranor]]
+Status:: Active
 
 ## Description
 
@@ -42,7 +47,5 @@ A vibrant and bustling quarter of [[Crystal City]], the Citrine District is defi
 
 ## Current Events
 
-The district served as the safe haven for the five newcomers after [[Perrin Quickquill]] evacuated them from the [[Jade Spire]]. The [[Adamantine Guild]] is currently severely understaffed, with most members deployed to frontier settlements.
-<!-- /archivist -->
-
+The district served as the safe haven for the five newcomers after [[Perrin Quickquill]] evacuated them from the [[Jade Spire]]. The [[Adamantine Guild]] is currently severely understaffed, with most members deployed to frontier settlements.`n
 

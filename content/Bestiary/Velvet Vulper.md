@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:30
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Velvet Vulper
 aliases:
   - Velvet Vulper
   - Velvet Vulpers
@@ -9,11 +14,9 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-14T00:00
-updated: 2026-03-14T00:00
+updated: 2026-03-16T04:30
 ---
-
-<!-- archivist -->
-# Velvet Vulper
+`n# Velvet Vulper
 
 > [!infobox|right wikipedia]+
 > # Velvet Vulper
@@ -61,7 +64,5 @@ The Velvet Vulper forms an intuitive empathic link with its master, synchronizin
 
 ## Adventure Hooks
 - A noble's heirloom has been stolen, but the thief's footprints end at a grove where dancing lights flicker between the trees.
-- A Velvet Vulper has taken up residence in a tavern's attic, charming patrons into leaving their coin purses unattended. The innkeeper wants it gone — but the regulars have grown fond of it.
-<!-- /archivist -->
-
+- A Velvet Vulper has taken up residence in a tavern's attic, charming patrons into leaving their coin purses unattended. The innkeeper wants it gone — but the regulars have grown fond of it.`n
 

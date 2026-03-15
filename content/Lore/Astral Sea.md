@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:30
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Astral Sea
 aliases:
   - Astral Sea
 tags:
@@ -7,10 +12,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:30
+updated: 2026-03-16T04:30
 ---
-
-<!-- archivist -->
-# Astral Sea
+`n# Astral Sea
 
 A vast, incorporeal realm where souls drift among luminescent currents and colossal entities move through the endless expanse. The Astral Sea is not bound by the physical laws of the material world — space and time flow differently here, and countless spirits coexist alongside beings of immense power.
 
@@ -20,7 +25,5 @@ The Astral Sea serves as a plane of transition for souls. Its flowing, luminesce
 
 ## Connection to The Awakening
 
-During the cataclysm that preceded [[The Awakening]], over 10,000 souls were observed trailing behind a massive flowing entity in the Astral Sea, suggesting a great migration or transition of spirits. This event appears directly connected to the appearance of the first peoples of [[Corranor]], who awoke with no memories of their past. Whether the souls seen in the Astral Sea became the inhabitants of [[Corranor]], or whether the connection is more complex, remains one of the deepest mysteries of [[Aenath]].
-<!-- /archivist -->
-
+During the cataclysm that preceded [[The Awakening]], over 10,000 souls were observed trailing behind a massive flowing entity in the Astral Sea, suggesting a great migration or transition of spirits. This event appears directly connected to the appearance of the first peoples of [[Corranor]], who awoke with no memories of their past. Whether the souls seen in the Astral Sea became the inhabitants of [[Corranor]], or whether the connection is more complex, remains one of the deepest mysteries of [[Aenath]].`n
 

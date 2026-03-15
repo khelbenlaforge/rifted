@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Tidecaller Marin Deepcurrent
 aliases:
   - Tidecaller Marin Deepcurrent
   - Marin Deepcurrent
@@ -8,11 +13,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:23
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Tidecaller Marin Deepcurrent
+`n# Tidecaller Marin Deepcurrent
 
 > [!infobox|right wikipedia]+
 > # Tidecaller Marin Deepcurrent
@@ -42,11 +47,9 @@ He recognised [[Gill Bates]] as a kindred spirit the moment he saw the young fis
 Location:: [[Crystal]]
 Race:: Water Genasi
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Neutral
 Class:: Cleric
-Affiliation::
-Deity:: [[Istishia]]
-<!-- /archivist -->
-
+Affiliation:: [[Tidecaller's Sanctuary]]
+Deity:: [[Istishia]]`n
 

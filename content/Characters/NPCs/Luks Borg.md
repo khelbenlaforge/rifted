@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Luks Borg
 aliases:
   - Luks Borg
   - Luks
@@ -8,11 +13,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Luks Borg
+`n# Luks Borg
 
 > [!infobox|right wikipedia]+
 > # Luks Borg
@@ -48,11 +53,9 @@ As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luk
 Location:: [[Sunhold]]
 Race:: Human
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Unknown
 Class:: Barbarian
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Adamantine Guild]]
+Deity:: Unknown`n
 

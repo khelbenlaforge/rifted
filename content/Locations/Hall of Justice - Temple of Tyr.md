@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:28
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Hall of Justice - Temple of Tyr
 aliases:
   - Hall of Justice
   - Temple of Tyr
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:26
+updated: 2026-03-16T04:28
 ---
-
-<!-- archivist -->
-# Hall of Justice - Temple of Tyr
+`n# Hall of Justice - Temple of Tyr
 
 > [!infobox|right wikipedia]+
 > # Hall of Justice
@@ -21,9 +26,9 @@ secret: false
 > | Type | Temple / Courthouse |
 > | Region | [[Diamond District]], [[Crystal City]] |
 
-Region::
-Controlled By::
-Status::
+Region:: [[Crystal City]]
+Controlled By:: Church of [[Tyr]]
+Status:: Active
 
 ## Description
 
@@ -41,7 +46,5 @@ A grand courthouse-temple dedicated to [[Tyr]], the God of Justice. Impressive m
 
 ## Current Events
 
-[[Augustus Kennedy]] chose [[Tyr]] as his path and trained here under [[Sir Gareth Ironhand]], learning that paladin power derives from the conviction of one's oath — whether sworn to a deity, to ideals, or to people.
-<!-- /archivist -->
-
+[[Augustus Kennedy]] chose [[Tyr]] as his path and trained here under [[Sir Gareth Ironhand]], learning that paladin power derives from the conviction of one's oath — whether sworn to a deity, to ideals, or to people.`n
 

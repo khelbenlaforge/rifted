@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:30
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Bogstride Salamandrel
 aliases:
   - Bogstride Salamandrel
 tags:
@@ -8,11 +13,9 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-13T23:59
+updated: 2026-03-16T04:30
 ---
-
-<!-- archivist -->
-# Bogstride Salamandrel
+`n# Bogstride Salamandrel
 
 > [!infobox|right wikipedia]+
 > # Bogstride Salamandrel
@@ -80,7 +83,5 @@ When used as a combat mount, the Salamandrel can take the _Dodge_, _Dash_, or _D
 
 ## Adventure Hooks
 - A druid circle's sacred Salamandrel has gone missing from the fen — its bioluminescent trail leads into a goblin-infested bog.
-- A merchant offers a fortune for a trained Bogseat saddle, but the only leatherworker who knows the craft has vanished into the marshes.
-<!-- /archivist -->
-
+- A merchant offers a fortune for a trained Bogseat saddle, but the only leatherworker who knows the craft has vanished into the marshes.`n
 

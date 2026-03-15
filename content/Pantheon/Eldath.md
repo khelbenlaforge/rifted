@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:31
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Eldath
 aliases:
   - Eldath
   - Goddess of Peace
@@ -8,10 +13,10 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:31
+updated: 2026-03-16T04:31
 ---
-
-<!-- archivist -->
-# Eldath
+`n# Eldath
 
 > [!infobox|right wikipedia]+
 > # Eldath
@@ -43,7 +48,5 @@ She is a nurturing force, less concerned with the grand conflicts of the divine 
 ## Followers & Influence
 Eldath's faithful are often found among hermits, healers, and those weary of conflict. Druids and rangers who walk gentler paths sometimes revere her alongside [[Mielikki]] and [[Silvanus]], though her philosophy stands apart in its absolute commitment to peace. Her shrines tend to be modest — a ring of stones beside a forest pool, a garden tucked behind a healer's cottage — rather than grand temples.
 
-In [[Corranor]], her influence is quiet but persistent, a counterpoint to the martial devotions of [[Helm]] and [[Torm]]. Where violence threatens to unravel the bonds between communities, those who carry Eldath's teachings step forward not with steel, but with steady words and open hands.
-<!-- /archivist -->
-
+In [[Corranor]], her influence is quiet but persistent, a counterpoint to the martial devotions of [[Helm]] and [[Torm]]. Where violence threatens to unravel the bonds between communities, those who carry Eldath's teachings step forward not with steel, but with steady words and open hands.`n
 

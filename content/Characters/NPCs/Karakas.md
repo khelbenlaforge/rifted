@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:44
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Karakas
 aliases:
   - Karakas
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: dead
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:44
 ---
-
-<!-- archivist -->
-# Karakas
+`n# Karakas
 
 > [!infobox|right wikipedia]+
 > # Karakas
@@ -19,7 +24,7 @@ state:
 > | ---- | --- |
 > | Race | Human |
 > | Class | Ranger |
-> | Location | [[Sunhold]] (missing) |
+> | Location | [[Sunless Citadel]] (deceased) |
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
@@ -37,14 +42,12 @@ Twenty-four days have now passed with no word. Karakas, along with the rest of t
 
 ---
 ## Tags
-Location:: [[Sunhold]]
+Location:: [[Sunless Citadel]] (deceased)
 Race:: Human
 Subrace::
 Pronouns::
 Alignment:: Unknown
 Class:: Ranger
-Affiliation::
-Deity:: Unknown
-<!-- /archivist -->
-
+Affiliation:: [[Hucrele Family]]
+Deity:: Unknown`n
 

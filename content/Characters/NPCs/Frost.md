@@ -1,4 +1,9 @@
 ﻿---
+created: 2026-03-16T04:23
+updated: 2026-03-16T05:00
+---
+﻿---
+title: Frost
 aliases:
   - Frost
 tags:
@@ -6,11 +11,11 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state:
+state: alive
+created: 2026-03-16T04:22
+updated: 2026-03-16T04:23
 ---
-
-<!-- archivist -->
-# Frost
+`n# Frost
 
 > [!infobox|right wikipedia]+
 > # Frost
@@ -39,10 +44,8 @@ Frost is fiercely loyal to [[Sylvara Oakwhisper]] and rarely strays far from her
 Location:: [[Mielikki's Grove]]
 Race:: Wolf
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Class::
-Affiliation::
-Deity:: [[Mielikki]]
-<!-- /archivist -->
-
+Affiliation:: [[Mielikki's Grove]]
+Deity:: [[Mielikki]]`n
 
