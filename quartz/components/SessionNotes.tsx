@@ -26,7 +26,7 @@ const SessionNotes: QuartzComponent = () => {
           <iframe
             src="https://tally.so/embed/xXZMBd?hideTitle=1"
             width="100%"
-            height="560"
+            height="680"
             frameborder="0"
             marginheight="0"
             marginwidth="0"
@@ -78,8 +78,8 @@ SessionNotes.css = `
 /* Modal box */
 .session-notes-modal-content {
   position: relative;
-  width: min(520px, 92vw);
-  max-height: 85vh;
+  width: min(740px, 92vw);
+  max-height: 90vh;
   border-radius: 10px;
   overflow: hidden;
   border: 1px solid var(--lightgray);
@@ -111,6 +111,10 @@ SessionNotes.css = `
 .session-notes-close:hover {
   color: var(--dark);
   background-color: var(--highlight);
+}
+
+[saved-theme="dark"] .session-notes-modal-content iframe {
+  filter: invert(1) hue-rotate(180deg);
 }
 `
 

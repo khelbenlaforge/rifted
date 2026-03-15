@@ -62,6 +62,10 @@ PlayerNote.css = `
 .player-note-checkbox:checked ~ .player-note-embed {
   display: block;
 }
+
+[saved-theme="dark"] .player-note-embed iframe {
+  filter: invert(1) hue-rotate(180deg);
+}
 `
 
 export default (() => PlayerNote) satisfies QuartzComponentConstructor
