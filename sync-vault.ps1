@@ -7,9 +7,9 @@ param(
     [string]$ContentPath = "$PSScriptRoot\content"
 )
 
-# Clear existing content (keep .gitkeep and index.md)
+# Clear existing content (keep .gitkeep)
 Write-Host "Clearing content folder..." -ForegroundColor Yellow
-Get-ChildItem -Path $ContentPath -Recurse -Exclude ".gitkeep","index.md" | Remove-Item -Force -Recurse
+Get-ChildItem -Path $ContentPath -Recurse -Exclude ".gitkeep" | Remove-Item -Force -Recurse
 
 $copied = 0
 $skipped = 0
@@ -21,7 +21,7 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
     $file = $_
     $content = Get-Content $file.FullName -Raw -Encoding UTF8
 
-    # Check for `secret: true` in frontmatter (simple regex, covers `secret: true` with optional whitespace)
+    # Check for `secret: true` in frontmatter
     if ($content -match '(?m)^secret:\s*true\s*$') {
         $skipped++
         return
@@ -43,12 +43,35 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
         New-Item -ItemType Directory -Path $destDir -Force | Out-Null
     }
 
-    Copy-Item $file.FullName -Destination $destPath -Force
+    Set-Content -Path $destPath -Value $content -Encoding UTF8
     $copied++
 }
 
+# Always write the homepage (not part of vault, must be regenerated each sync)
+$indexPath = Join-Path $ContentPath "index.md"
+Set-Content -Path $indexPath -Encoding UTF8 -Value @"
+---
+title: Aenath -- Rifted Campaign Wiki
+---
+
+# Welcome to Aenath
+
+This is the player-facing wiki for the **Rifted** campaign, set in the world of **Aenath** -- a realm remade 222 years ago by a cataclysm known as [[The Awakening]].
+
+You find yourselves in **[[Corranor]]**, a magocracy of floating islands, operating out of **[[Crystal City]]** as members of the **[[Adamantine Guild]]**.
+
+## Browse the Wiki
+
+- [[Characters/NPCs/|NPCs]]
+- [[Characters/PCs/|Player Characters]]
+- [[Locations/|Locations]]
+- [[Factions/|Factions]]
+- [[Lore/|Lore]]
+- [[Pantheon/|Pantheon]]
+- [[Items/|Items]]
+- [[Bestiary/|Bestiary]]
+- [[Vehicles/|Vehicles]]
+- [[Timeline/Campaign Timeline|Campaign Timeline]]
+"@
+
 Write-Host "Done. Copied: $copied  |  Skipped (secret): $skipped" -ForegroundColor Green
-Write-Host ""
-Write-Host "Next: cd to quartz-rifted and run:" -ForegroundColor Cyan
-Write-Host "  npx quartz build --serve   (preview locally)" -ForegroundColor Cyan
-Write-Host "  npx quartz sync            (push to GitHub Pages)" -ForegroundColor Cyan
