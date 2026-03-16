@@ -41,21 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.FiveETools(),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        showTags: false,
-        depth: 2,
-        repelForce: 0.8,
-        linkDistance: 40,
-        focusOnHover: true,
-      },
-      globalGraph: {
-        showTags: false,
-        repelForce: 0.6,
-        linkDistance: 50,
-        focusOnHover: true,
-      },
-    }),
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
