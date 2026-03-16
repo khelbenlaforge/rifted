@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:31
-updated: 2026-03-16T05:00
----
-﻿---
 title: Malar
 aliases:
   - Malar
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-16T04:31
+updated: 2026-03-16T16:13
 ---
-`n# Malar
+
+# Malar
 
 > [!infobox|right wikipedia]+
 > # Malar
@@ -48,5 +45,6 @@ His followers do not hunt out of necessity. They hunt for sport, for cruelty, fo
 ## Followers & Influence
 Malar's worshippers are feared and reviled throughout [[Corranor]]. They include sport hunters, poachers, lycanthropes, and those who take pleasure in bloodshed under the guise of honouring "the natural order." Their rituals are violent affairs, often culminating in ceremonial hunts through wild or settled lands alike.
 
-[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], names Malar's followers as one of the gravest threats to the balance of the natural world. She teaches that their creed — viewing the wild as something to conquer rather than cherish — stands as the antithesis of everything the forest's guardians protect. The tension between Malar's faithful and the followers of [[Mielikki]] and [[Silvanus]] is an enduring source of conflict in the wilds of [[Aenath]].`n
+[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], names Malar's followers as one of the gravest threats to the balance of the natural world. She teaches that their creed — viewing the wild as something to conquer rather than cherish — stands as the antithesis of everything the forest's guardians protect. The tension between Malar's faithful and the followers of [[Mielikki]] and [[Silvanus]] is an enduring source of conflict in the wilds of [[Aenath]].
+
 

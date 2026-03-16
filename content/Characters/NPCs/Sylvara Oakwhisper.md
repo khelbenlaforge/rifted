@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Sylvara Oakwhisper
 aliases:
   - Sylvara Oakwhisper
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:14
 ---
-`n# Sylvara Oakwhisper
+
+# Sylvara Oakwhisper
 
 > [!infobox|right wikipedia]+
 > # Sylvara Oakwhisper
@@ -47,12 +44,13 @@ She took [[Ember]] under her guidance, inviting her to the Grove for lessons in 
 
 ---
 ## Tags
-Location:: [[Crystal]]
+Location:: [[Mielikki's Grove]], [[Crystal City]]
 Race:: Half-Elf
 Subrace::
 Pronouns:: she/her
 Alignment:: Neutral Good
 Class:: Ranger
 Affiliation:: [[Mielikki's Grove]]
-Deity:: [[Mielikki]]`n
+Deity:: [[Mielikki]]
+
 

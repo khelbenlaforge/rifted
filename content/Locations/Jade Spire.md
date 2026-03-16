@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Jade Spire
 aliases:
   - Jade Spire
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Jade Spire
+
+# Jade Spire
 
 > [!infobox|right wikipedia]+
 > # Jade Spire
@@ -42,5 +39,6 @@ The tallest structure in [[Corranor]], the Jade Spire rises above [[Crystal City
 
 ## Current Events
 
-The Spire has become a target for [[Shadow Creatures]], whose attacks have rendered the upper levels unsafe. [[Perrin Quickquill]] declared the area dangerous and evacuated the newcomers to the [[Adamantine Guild]] in the [[Citrine District]]. The ongoing threat has diverted resources and deepened the guild's staffing crisis.`n
+The Spire has become a target for [[Shadow Creatures]], whose attacks have rendered the upper levels unsafe. [[Perrin Quickquill]] declared the area dangerous and evacuated the newcomers to the [[Adamantine Guild]] in the [[Citrine District]]. The ongoing threat has diverted resources and deepened the guild's staffing crisis.
+
 

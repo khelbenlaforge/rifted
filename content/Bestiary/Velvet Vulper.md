@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:30
-updated: 2026-03-16T05:10
----
-﻿---
 title: Velvet Vulper
 aliases:
   - Velvet Vulper
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-14T00:00
-updated: 2026-03-16T04:30
+updated: 2026-03-16T16:13
 ---
-`n# Velvet Vulper
+
+# Velvet Vulper
 
 > [!infobox|right wikipedia]+
 > # Velvet Vulper

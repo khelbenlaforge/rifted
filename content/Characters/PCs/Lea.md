@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:21
-updated: 2026-03-16T05:14
----
-﻿---
 title: Lea
 aliases:
   - Lea
@@ -13,9 +9,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-16T04:21
+updated: 2026-03-16T16:13
 ---
-`n# Lea
+
+# Lea
 
 > [!infobox|right wikipedia]+
 > # Lea

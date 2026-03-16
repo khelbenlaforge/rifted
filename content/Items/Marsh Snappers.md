@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:30
-updated: 2026-03-16T05:00
----
-﻿---
 title: Marsh Snappers
 aliases:
   - Marsh Snappers
@@ -13,9 +9,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-16T04:30
+updated: 2026-03-16T16:13
 ---
-`n# Marsh Snappers
+
+# Marsh Snappers
 
 > [!infobox|right wikipedia]+
 > # Marsh Snappers
@@ -35,5 +32,6 @@ Abundant crustaceans found in the marshes surrounding [[Sunhold]]. During their 
 
 ## Significance
 
-[[Sunhold]] has begun harvesting Marsh Snappers as a key export and food source. Their spawning season directly benefited the party's marsh crossing — the concentration of crustaceans had lured predators elsewhere, allowing safe passage through 40-60 miles of otherwise treacherous terrain.`n
+[[Sunhold]] has begun harvesting Marsh Snappers as a key export and food source. Their spawning season directly benefited the party's marsh crossing — the concentration of crustaceans had lured predators elsewhere, allowing safe passage through 40-60 miles of otherwise treacherous terrain.
+
 

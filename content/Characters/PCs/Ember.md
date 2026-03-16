@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:50
-updated: 2026-03-16T05:14
----
-﻿---
 title: Ember
 aliases:
   - Ember
@@ -13,9 +9,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-16T04:50
+updated: 2026-03-16T16:13
 ---
-`n# Ember
+
+# Ember
 
 > [!infobox|right wikipedia]+
 > # Ember

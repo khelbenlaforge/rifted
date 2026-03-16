@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:30
-updated: 2026-03-16T05:10
----
-﻿---
 title: Bogstride Salamandrel
 aliases:
   - Bogstride Salamandrel
@@ -13,9 +9,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-16T04:30
+updated: 2026-03-16T16:13
 ---
-`n# Bogstride Salamandrel
+
+# Bogstride Salamandrel
 
 > [!infobox|right wikipedia]+
 > # Bogstride Salamandrel

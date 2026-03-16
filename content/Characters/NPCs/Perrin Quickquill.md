@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Perrin Quickquill
 aliases:
   - Perrin Quickquill
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:14
 ---
-`n# Perrin Quickquill
+
+# Perrin Quickquill
 
 > [!infobox|right wikipedia]+
 > # Perrin Quickquill
@@ -52,6 +49,7 @@ Subrace::
 Pronouns:: he/him
 Alignment:: Unknown
 Class:: Rogue
-Affiliation:: [[Adamantine Guild]]
-Deity:: Unknown`n
+Affiliation:: [[Corranor Council]]
+Deity:: Unknown
+
 

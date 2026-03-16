@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Stormberg
 aliases:
   - Stormberg
@@ -13,9 +9,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Stormberg
+
+# Stormberg
 
 > [!infobox|right wikipedia]+
 > # Stormberg
@@ -35,5 +32,6 @@ A northern port settlement on the [[Corranor]] mainland, buffeted by brisk coast
 
 ## Notable Residents
 
-- **[[Devran]]** — A dwarf who resides here; brother of the [[Dwarven Bartender]] in [[Crystal City]]'s [[Garnet District]]`n
+- **[[Devran]]** — A dwarf who resides here; brother of the [[Dwarven Bartender]] in [[Crystal City]]'s [[Garnet District]]
+
 

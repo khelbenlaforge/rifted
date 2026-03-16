@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:22
-updated: 2026-03-16T05:00
----
-﻿---
 title: Devran
 aliases:
   - Devran
@@ -13,9 +9,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:22
+updated: 2026-03-16T16:13
 ---
-`n# Devran
+
+# Devran
 
 > [!infobox|right wikipedia]+
 > # Devran
@@ -47,5 +44,6 @@ Pronouns::
 Alignment:: Unknown
 Class:: Unknown
 Affiliation::
-Deity:: Unknown`n
+Deity:: Unknown
+
 

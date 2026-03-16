@@ -1,21 +1,18 @@
 ﻿---
-created: 2026-03-16T04:44
-updated: 2026-03-16T05:00
----
-﻿---
 title: Karakas
 aliases:
   - Karakas
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: dead
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:44
+updated: 2026-03-16T16:13
 ---
-`n# Karakas
+
+# Karakas
 
 > [!infobox|right wikipedia]+
 > # Karakas
@@ -49,5 +46,6 @@ Pronouns::
 Alignment:: Unknown
 Class:: Ranger
 Affiliation:: [[Hucrele Family]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

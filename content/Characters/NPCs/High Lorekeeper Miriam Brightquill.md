@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: High Lorekeeper Miriam Brightquill
 aliases:
   - High Lorekeeper Miriam Brightquill
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# High Lorekeeper Miriam Brightquill
+
+# High Lorekeeper Miriam Brightquill
 
 > [!infobox|right wikipedia]+
 > # High Lorekeeper Miriam Brightquill
@@ -52,5 +49,6 @@ Subrace::
 Pronouns::
 Class:: Scholar
 Affiliation:: [[Oghma's Temple — the Endless Library]]
-Deity:: [[Oghma]]`n
+Deity:: [[Oghma]]
+
 

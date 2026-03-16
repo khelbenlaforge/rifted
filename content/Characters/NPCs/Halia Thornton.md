@@ -1,21 +1,18 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Halia Thornton
 aliases:
   - Halia Thornton
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Halia Thornton
+
+# Halia Thornton
 
 > [!infobox|right wikipedia]+
 > # Halia Thornton
@@ -49,5 +46,6 @@ Pronouns:: she/her
 Alignment:: Neutral
 Class:: Merchant
 Affiliation:: [[Miners' Council]]
-Deity::`n
+Deity::
+
 

@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Tidecaller Marin Deepcurrent
 aliases:
   - Tidecaller Marin Deepcurrent
@@ -15,9 +11,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Tidecaller Marin Deepcurrent
+
+# Tidecaller Marin Deepcurrent
 
 > [!infobox|right wikipedia]+
 > # Tidecaller Marin Deepcurrent
@@ -51,5 +48,6 @@ Pronouns:: he/him
 Alignment:: Neutral
 Class:: Cleric
 Affiliation:: [[Tidecaller's Sanctuary]]
-Deity:: [[Istishia]]`n
+Deity:: [[Istishia]]
+
 

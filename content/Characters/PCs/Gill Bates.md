@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:47
-updated: 2026-03-16T05:14
----
-﻿---
 title: Gill Bates
 aliases:
   - Gill Bates
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-16T04:47
+updated: 2026-03-16T16:13
 ---
-`n# Gill Bates
+
+# Gill Bates
 
 > [!infobox|right wikipedia]+
 > # Gill Bates

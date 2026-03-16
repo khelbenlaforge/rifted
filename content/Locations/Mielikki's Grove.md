@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:15
----
-﻿---
 title: Mielikki's Grove
 aliases:
   - Mielikki's Grove
@@ -13,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
 # Mielikki's Grove
 

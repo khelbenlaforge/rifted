@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Crystal City
 aliases:
   - Crystal City
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Crystal City
+
+# Crystal City
 
 > [!infobox|right wikipedia]+
 > # Crystal City
@@ -52,5 +49,6 @@ The capital of [[Corranor]], a city of ethereal beauty where structures crafted 
 
 ## Current Events
 
-During High Harvestide of Year 222, five strangers appeared atop the [[Jade Spire]], and [[Shadow Creatures]] began attacking the Spire in force. The main Transient island has since descended to the ocean surface, opening the [[Citrine District]] docks to maritime trade and travel. The [[Adamantine Guild]] has deployed members to [[Sunhold]], leaving the city's defenses stretched thin.`n
+During High Harvestide of Year 222, five strangers appeared atop the [[Jade Spire]], and [[Shadow Creatures]] began attacking the Spire in force. The main Transient island has since descended to the ocean surface, opening the [[Citrine District]] docks to maritime trade and travel. The [[Adamantine Guild]] has deployed members to [[Sunhold]], leaving the city's defenses stretched thin.
+
 

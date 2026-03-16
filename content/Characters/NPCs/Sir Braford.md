@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Sir Braford
 aliases:
   - Sir Braford
@@ -10,13 +6,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Sir Braford
+
+# Sir Braford
 
 > [!infobox|right wikipedia]+
 > # Sir Braford
@@ -51,5 +48,6 @@ Pronouns:: he/him
 Alignment:: Unknown
 Class:: Knight
 Affiliation:: [[Hucrele Family]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

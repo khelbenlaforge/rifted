@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Ether Scryer's Academy
 aliases:
   - Ether Scryer's Academy
@@ -13,9 +9,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Ether Scryer's Academy
+
+# Ether Scryer's Academy
 
 > [!infobox|right wikipedia]+
 > # Ether Scryer's Academy
@@ -41,5 +38,6 @@ A prestigious institution for the mastery of wizardry, standing as a beacon of a
 
 ## Notable Residents
 
-- **[[Elmindaria L'Thorian]]** — An elder elf with seven centuries of experience who serves as the Academy's most esteemed instructor. She emphasizes that wizardry is earned through study and sacrifice, teaching [[Lea]] the methodical nature of the craft — spell preparation, ritual casting, and the financial costs of acquiring new magic (50 gp per spell level). She warns of the dangers: fragile spellbooks, physical vulnerability, and the obsession with knowledge that can lead to lichdom or tyranny.`n
+- **[[Elmindaria L'Thorian]]** — An elder elf with seven centuries of experience who serves as the Academy's most esteemed instructor. She emphasizes that wizardry is earned through study and sacrifice, teaching [[Lea]] the methodical nature of the craft — spell preparation, ritual casting, and the financial costs of acquiring new magic (50 gp per spell level). She warns of the dangers: fragile spellbooks, physical vulnerability, and the obsession with knowledge that can lead to lichdom or tyranny.
+
 
