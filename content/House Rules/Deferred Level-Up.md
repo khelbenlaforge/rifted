@@ -1,7 +1,6 @@
 ﻿---
 title: Deferred Level-Up
 aliases:
-  - Deferred Level-Up
   - Narrative Level-Up
 tags:
   - house-rule
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced: 2026-03-16
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-16T18:09
+updated: 2026-03-16T20:11
 ---
 
 # Deferred Level-Up

@@ -1,7 +1,6 @@
 ﻿---
 title: Aenath
 aliases:
-  - Aenath
 tags:
   - lore
   - lore/cosmology
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Aenath

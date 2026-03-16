@@ -1,7 +1,6 @@
 ﻿---
 title: Waukeen
 aliases:
-  - Waukeen
   - Our Lady of Gold
   - The Coinmaiden
   - The Merchant's Friend
@@ -11,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Waukeen

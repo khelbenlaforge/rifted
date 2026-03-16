@@ -1,7 +1,6 @@
 ﻿---
 title: Tymora's Shrine
 aliases:
-  - Tymora's Shrine
 tags:
   - location
   - location/temple
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 # Tymora's Shrine
 

@@ -1,7 +1,6 @@
 ﻿---
 title: Augustus Kennedy
 aliases:
-  - Augustus Kennedy
   - Augie
 tags:
   - pc
@@ -10,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Augustus Kennedy

@@ -1,14 +1,13 @@
 ﻿---
 title: Shadow Creatures
 aliases:
-  - Shadow Creatures
 tags:
   - faction
 campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Shadow Creatures

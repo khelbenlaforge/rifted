@@ -1,7 +1,6 @@
 ﻿---
 title: Tidecaller Marin Deepcurrent
 aliases:
-  - Tidecaller Marin Deepcurrent
   - Marin Deepcurrent
   - Marin
 tags:
@@ -11,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Tidecaller Marin Deepcurrent

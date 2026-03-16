@@ -1,13 +1,14 @@
 ﻿---
-title: "Ordahir Kobolds"
+title: Ordahir Kobolds
 aliases:
-  - Ordahir Kobolds
   - Ordahir Colony
 tags:
   - faction
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T15:42
+updated: 2026-03-16T20:11
 ---
 
 # Ordahir Kobolds

@@ -1,7 +1,6 @@
 ﻿---
 title: Belak
 aliases:
-  - Belak
   - Belak the Outcast
 tags:
   - npc
@@ -10,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-03-16T15:52
+updated: 2026-03-16T20:11
 ---
 
 # Belak

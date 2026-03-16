@@ -1,7 +1,6 @@
 ﻿---
 title: Durnn's Research Lab
 aliases:
-  - Durnn's Research Lab
   - Durbuluk Research Lab
 tags:
   - location
@@ -10,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-16T18:09
+updated: 2026-03-16T20:11
 ---
 
 # Durnn's Research Lab

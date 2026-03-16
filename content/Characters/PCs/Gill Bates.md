@@ -1,7 +1,6 @@
 ﻿---
 title: Gill Bates
 aliases:
-  - Gill Bates
   - Gill
 tags:
   - pc
@@ -10,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Gill Bates

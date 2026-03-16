@@ -1,7 +1,6 @@
 ﻿---
 title: Sharwyn
 aliases:
-  - Sharwyn
   - Sharwyn Hucrele
 tags:
   - npc
@@ -10,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Sharwyn

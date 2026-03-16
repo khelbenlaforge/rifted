@@ -1,7 +1,6 @@
 ﻿---
-title: "Takhisis"
+title: Takhisis
 aliases:
-  - Takhisis
   - The Dark Queen
   - Tiamat
   - The Chromatic Dragon
@@ -10,6 +9,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T16:15
+updated: 2026-03-16T20:11
 ---
 
 # Takhisis
