@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:00
-updated: 2026-03-16T16:00
+updated: 2026-03-16T18:33
 ---
 
 # Balsag
@@ -45,6 +45,11 @@ Good-natured in the way of creatures who have decided not to make trouble for th
 Balsag was the keeper of the dragon [[Calcryx]] in the [[Sunless Citadel]] — responsible for the wyrmling's care and feeding, a job that suited his temperament better than combat ever did. When the food supply ran short, he descended into the Underdark tunnels beneath the citadel to find more. He became lost. The tunnels deposited him eventually onto the Grove Level, where he was attacked by plant creatures before the party found him and intervened.
 
 He does not yet know that [[Calcryx]] was kidnapped, that the Upper Level tore itself apart over her, or that the entire political arrangement he was operating within has since collapsed.
+
+## Key Events
+
+- **The Sanctum (Session 12):** Like [[Erky]] and [[Little Sister]], Balsag could not see the Sanctum's true contents — only the Ashardalon illusion and the ancient elven architecture. The murals and the deity statues were invisible to him. Only the five PCs from Earth perceived the chamber's real nature.
+- **The Lab Battle (Session 12):** Fought alongside the party and [[Grip]] against a vine serpent and twig blight swarm in [[Durnn]]'s Research Lab; continues to pull his weight as a companion.
 
 ## Relationships
 
