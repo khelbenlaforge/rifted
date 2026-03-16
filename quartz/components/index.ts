@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import PlayerNote from "./PlayerNote"
 import SessionNotes from "./SessionNotes"
+import FiveETools from "./FiveETools"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   PlayerNote,
   SessionNotes,
+  FiveETools,
 }
