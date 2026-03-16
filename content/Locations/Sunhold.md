@@ -1,7 +1,6 @@
 ﻿---
 title: Sunhold
 aliases:
-  - Sunhold
 tags:
   - location
   - location/city
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T02:48
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Sunhold

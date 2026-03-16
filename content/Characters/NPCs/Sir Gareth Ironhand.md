@@ -1,7 +1,6 @@
 ﻿---
 title: Sir Gareth Ironhand
 aliases:
-  - Sir Gareth Ironhand
   - Gareth Ironhand
   - Sir Gareth
 tags:
@@ -11,7 +10,7 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Sir Gareth Ironhand

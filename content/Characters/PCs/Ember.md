@@ -1,7 +1,6 @@
 ﻿---
 title: Ember
 aliases:
-  - Ember
 tags:
   - pc
 campaign: Rifted
@@ -9,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Ember

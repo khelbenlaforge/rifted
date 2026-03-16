@@ -1,7 +1,6 @@
 ﻿---
 title: Pebbletoad
 aliases:
-  - Pebbletoad
   - Pebbletoads
 tags:
   - creature
@@ -10,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-14T00:00
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Pebbletoad

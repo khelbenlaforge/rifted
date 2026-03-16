@@ -1,7 +1,6 @@
 ﻿---
 title: Lurkleaf
 aliases:
-  - Lurkleaf
   - Lurkleafs
 tags:
   - creature
@@ -10,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Lurkleaf

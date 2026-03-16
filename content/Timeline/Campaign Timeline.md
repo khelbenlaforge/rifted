@@ -1,7 +1,6 @@
 ﻿---
 title: Campaign Timeline
 aliases:
-  - Campaign Timeline
   - Rifted Timeline
 tags:
   - session
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-16T18:43
+updated: 2026-03-16T20:11
 ---
 
 # Campaign Timeline

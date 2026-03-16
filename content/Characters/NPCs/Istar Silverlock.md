@@ -1,7 +1,6 @@
 ﻿---
 title: Istar Silverlock
 aliases:
-  - Istar Silverlock
   - Istar
 tags:
   - npc
@@ -10,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Istar Silverlock

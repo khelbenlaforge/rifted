@@ -1,7 +1,6 @@
 ﻿---
 title: Talgen Hucrele Jr.
 aliases:
-  - Talgen Hucrele Jr.
   - Talgen Jr.
 tags:
   - npc
@@ -10,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: dead
 created: 2026-03-16T03:56
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Talgen Hucrele Jr.

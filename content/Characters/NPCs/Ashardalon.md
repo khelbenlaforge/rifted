@@ -1,13 +1,14 @@
 ﻿---
-title: "Ashardalon"
+title: Ashardalon
 aliases:
-  - Ashardalon
 tags:
   - npc
 campaign: Rifted
 introduced:
 secret: false
 state: unknown
+created: 2026-03-16T03:57
+updated: 2026-03-16T20:11
 ---
 
 # Ashardalon

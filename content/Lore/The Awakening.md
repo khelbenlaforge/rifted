@@ -1,7 +1,6 @@
 ﻿---
 title: The Awakening
 aliases:
-  - The Awakening
   - Year 0 PA
 tags:
   - lore
@@ -10,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # The Awakening

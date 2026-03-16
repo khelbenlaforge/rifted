@@ -1,7 +1,6 @@
 ﻿---
-title: "Gond"
+title: Gond
 aliases:
-  - Gond
   - The Wonderbringer
   - Lord of All Smiths
 tags:
@@ -9,6 +8,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T04:04
+updated: 2026-03-16T20:11
 ---
 
 # Gond

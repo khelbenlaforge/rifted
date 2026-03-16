@@ -1,13 +1,14 @@
 ﻿---
-title: "Durbuluk Goblins"
+title: Durbuluk Goblins
 aliases:
-  - Durbuluk Goblins
   - Durbuluk
 tags:
   - faction
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T15:42
+updated: 2026-03-16T20:11
 ---
 
 # Durbuluk Goblins

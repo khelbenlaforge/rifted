@@ -1,7 +1,6 @@
 ﻿---
 title: Marsh Snappers
 aliases:
-  - Marsh Snappers
 tags:
   - item
   - item/mundane
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Marsh Snappers

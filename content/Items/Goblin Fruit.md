@@ -1,7 +1,6 @@
 ﻿---
 title: Goblin Fruit
 aliases:
-  - Goblin Fruit
 tags:
   - item
   - item/consumable
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-16T18:32
+updated: 2026-03-16T20:11
 ---
 
 # Goblin Fruit

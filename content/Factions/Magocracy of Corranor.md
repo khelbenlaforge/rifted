@@ -1,14 +1,13 @@
 ﻿---
 title: Magocracy of Corranor
 aliases:
-  - Magocracy of Corranor
 tags:
   - faction
 campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Magocracy of Corranor

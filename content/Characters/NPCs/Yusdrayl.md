@@ -1,7 +1,6 @@
 ﻿---
 title: Yusdrayl
 aliases:
-  - Yusdrayl
 tags:
   - npc
 campaign: Rifted
@@ -9,7 +8,7 @@ introduced:
 secret: false
 state: dead
 created: 2026-03-16T16:00
-updated: 2026-03-16T16:01
+updated: 2026-03-16T20:11
 ---
 
 # Yusdrayl

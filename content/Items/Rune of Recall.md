@@ -1,13 +1,14 @@
 ﻿---
-title: "Rune of Recall"
+title: Rune of Recall
 aliases:
-  - Rune of Recall
 tags:
   - item
   - item/magic
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T15:41
+updated: 2026-03-16T20:11
 ---
 
 # Rune of Recall

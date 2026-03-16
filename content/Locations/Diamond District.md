@@ -1,7 +1,6 @@
 ﻿---
 title: Diamond District
 aliases:
-  - Diamond District
   - Temple District
 tags:
   - location
@@ -10,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Diamond District

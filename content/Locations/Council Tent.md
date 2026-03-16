@@ -1,7 +1,6 @@
 ﻿---
 title: Council Tent
 aliases:
-  - Council Tent
 tags:
   - location
   - location/building
@@ -9,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:28
-updated: 2026-03-16T16:13
+updated: 2026-03-16T20:11
 ---
 
 # Council Tent

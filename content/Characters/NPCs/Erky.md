@@ -1,7 +1,6 @@
 ﻿---
 title: Erky
 aliases:
-  - Erky
 tags:
   - npc
 campaign: Rifted
@@ -9,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-03-16T18:33
+updated: 2026-03-16T20:11
 ---
 
 # Erky
