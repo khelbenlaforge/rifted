@@ -52,9 +52,18 @@ The fruit carries a dual magical signature — **necromantic and divine/draconic
 
 The Hucrele delegation — [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — followed the [[Goblin Merchants]]' fruit trail south. [[Karakas]] is confirmed dead in the Upper Level. [[Talgen Hucrele Jr.]] is confirmed dead in the Grove Level. [[Sharwyn]] and [[Sir Braford]] are still missing — somewhere in the depths that Belak calls home.
 
+## The Fruit Mechanism (Session 12 — confirmed)
+
+The fruit heals living hosts. While alive, the host suppresses the seeds inside the flesh. When the host dies, the seeds germinate — roots and tendrils thread through the corpse, using it as substrate. What grows resembles twig blights. This was confirmed by [[Durnn]]'s goblin researchers, who fed fruit to a giant rat, killed it, opened it, and found plant matter throughout the carcass.
+
+Belak requires nothing in return for supplying Durnn — no gold, no service. He wants the fruit distributed as widely as possible, and he wants communities enticed to travel south toward the citadel.
+
+Every person who has eaten the fruit and survived is carrying sleeping seeds.
+
 ## Role in the Story
 
 - The source of the [[Goblin Fruit]] and its necromantic/draconic magical signature
+- Delivers fruit to [[Durnn]]'s research lab via plant minions through the northeast door of the lab
 - Occupies the same level as the [[Sanctum]] — his presence and that chamber's cosmological significance may not be coincidental
 - Connected to the fate of [[Sharwyn]] and [[Sir Braford]], whose disappearance on the Grove Level places them in his sphere
 - The goblins' exclusive arrangement with him gave the [[Durbuluk Goblins]] economic power the [[Ordahir Kobolds]] cannot match

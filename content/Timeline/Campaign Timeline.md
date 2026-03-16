@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-16T16:13
+updated: 2026-03-16T18:43
 ---
 
 # Campaign Timeline
@@ -281,19 +281,52 @@ Beyond the door, an illusion of [[Ashardalon]] — the ancient dragon whose cult
 
 ---
 
+## Year 222 PA — Marpenoth (Session 12)
+
+### The Sanctum's Selective Reveal
+
+Still in the [[Sanctum of Ashardalon|Sanctum]], the party made a quiet discovery: [[Balsag]], [[Erky]], and [[Little Sister]] could not perceive the chamber's true contents. They saw only the Ashardalon illusion and the ancient elven architecture. The murals, the deity statues, and the revealed shape of [[Aenath]] were invisible to them. The Sanctum had shown itself only to the five from Earth.
+
+### Message to Crystal City
+
+[[Lea]] used the Sending Stone to relay all Sanctum information to [[Luks Borg]] in [[Sunhold]]. He responded: *"Hang tight. I will get Daria on it"* — referring to [[Elmindaria L'Thorian]] in [[Crystal City]].
+
+### The Northeast — Durnn's Research Lab
+
+Heading northeast, [[Jonathan Jordan]] scouted ahead and found a goblin laboratory: a main chamber with four rooms north and four south, filled with researcher goblins. Two vine blights — a serpent-form and a swarm — guarded the area.
+
+[[Augustus Kennedy]] entered with [[Durnn]]'s stolen horn and shouted "Freeze." The vine blight and twig blight swarm attacked. The two armed goblin guards obeyed literally and froze. The party defeated the blights; the guards never moved. The researcher goblins were cooperative after the fight.
+
+### The Fruit's True Nature Confirmed
+
+The goblin researchers led the party to a dissection room. A giant rat had been fed [[Goblin Fruit]], killed, and opened. Plant tendrils — shoots and roots resembling twig blight matter — were found threaded throughout the carcass. The party concluded: the fruit heals living hosts, but its seeds germinate in dead bodies, using the corpse as substrate to grow twig blights.
+
+[[Belak]] demands nothing from [[Durnn]] in return for the fruit — only that it be distributed widely and that communities be enticed to come south. [[Durnn]] had forbidden his goblins from eating it.
+
+The northwest door of the lab connects back to the initial well-drop room from Session 10. The northeast door is Belak's supply route — plant minions deliver the fruit from deeper in the Grove Level.
+
+### Level 3 — Deferred Level-Up Rule Introduced
+
+The DM introduced a new mechanic (borrowed from Brennan Lee Mulligan): PCs may level up at any point from now, including mid-combat. Most of the party leveled up to Level 3 before the long rest.
+
+The party took a long rest in the lab. Session ended.
+
+---
+
 ## Active Threads
 
 - [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
-- Kobold civil war: [[Ragh]] plans uprising against [[Yusdrayl]] within days; [[Calcryx]] held safely by [[Durnn]] per their secret deal; party caught between both factions
-- The Sanctum's revelations: the featureless figure, the divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape
+- Kobold civil war resolved: [[Yusdrayl]] dead, [[Ragh]] leads [[Ordahir Kobolds]], [[Calcryx]] freed
+- The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
+- Sanctum selective reveal: only the five PCs perceive the true chamber; companions see only the Ashardalon illusion
+- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; every seeded community is a potential grove
+- [[Belak]]'s endgame — distributes fruit freely to draw communities south; northeast door is his supply route
 - [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]])
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
 - The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]
-- [[Jonathan Jordan]]'s prophetic visions and their connection to [[Corran]]
-- The true nature of the [[Goblin Fruit]] and the [[Goblin Merchants]]' intentions
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
 - The PCs' missing essence and its slow regeneration
 
