@@ -1,7 +1,8 @@
 ﻿---
-title: "Bahamut"
+title: Bahamut
 aliases:
   - Bahamut
+  - Paladine
   - The Platinum Dragon
   - The Dragon God of Justice
 tags:
@@ -9,6 +10,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-16T16:28
+updated: 2026-03-16T16:28
 ---
 
 # Bahamut
