@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:15
----
-﻿---
 title: Oghma's Temple — the Endless Library
 aliases:
   - Oghma's Temple
@@ -14,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
 # Oghma's Temple — the Endless Library
 

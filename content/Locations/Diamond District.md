@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Diamond District
 aliases:
   - Diamond District
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Diamond District
+
+# Diamond District
 
 > [!infobox|right wikipedia]+
 > # Diamond District
@@ -46,5 +43,6 @@ Known also as the Temple District, the Diamond District is the spiritual heart o
 - **[[Sylvara Oakwhisper]]** — Half-elf ranger of [[Mielikki]]
 - **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]]
 - **[[Sir Gareth Ironhand]]** — Paladin of [[Tyr]]
-- **[[High Lorekeeper Miriam Brightquill]]** — Scholar at [[Oghma]]'s Temple`n
+- **[[High Lorekeeper Miriam Brightquill]]** — Scholar at [[Oghma]]'s Temple
+
 

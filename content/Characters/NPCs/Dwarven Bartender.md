@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:22
-updated: 2026-03-16T05:00
----
-﻿---
 title: Dwarven Bartender
 aliases:
   - Dwarven Bartender
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:22
+updated: 2026-03-16T16:13
 ---
-`n# Dwarven Bartender
+
+# Dwarven Bartender
 
 > [!infobox|right wikipedia]+
 > # Dwarven Bartender
@@ -50,5 +47,6 @@ Pronouns::
 Alignment:: Unknown
 Class:: Unknown
 Affiliation::
-Deity:: Unknown`n
+Deity:: Unknown
+
 

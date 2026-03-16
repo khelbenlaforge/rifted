@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Istar Silverlock
 aliases:
   - Istar Silverlock
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Istar Silverlock
+
+# Istar Silverlock
 
 > [!infobox|right wikipedia]+
 > # Istar Silverlock
@@ -64,5 +61,6 @@ Pronouns:: he/him
 Alignment:: Chaotic Good
 Class:: Bard/Rogue
 Affiliation:: [[Adamantine Guild]]
-Deity::`n
+Deity::
+
 

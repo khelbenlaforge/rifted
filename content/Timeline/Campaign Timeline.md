@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:46
-updated: 2026-03-16T05:00
----
-﻿---
 title: Campaign Timeline
 aliases:
   - Campaign Timeline
@@ -13,9 +9,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-16T04:46
+updated: 2026-03-16T16:13
 ---
-`n# Campaign Timeline
+
+# Campaign Timeline
 
 ## The Awakening (Year 0 PA)
 
@@ -114,7 +111,7 @@ The party halted at a wrecked wagon on the road and was ambushed by [[Goblin Ban
 
 ---
 
-## Year 222 PA — 11th Marpenoth
+## Year 222 PA — 11th Marpenoth *(Session 07)*
 
 ### Arrival at Sunhold
 
@@ -160,6 +157,92 @@ While traveling through the Upper Level of the [[Sunless Citadel]] — moving fr
 
 ---
 
+## Year 222 PA — Marpenoth (Session 09)
+
+### Letters in the Prison
+
+The party, resting in the [[Ordahir Kobold Colony]], searched the prison block where goblin prisoners prayed futilely to [[Durnn]] for rescue. In a desk's hidden compartment they found two letters: one from [[Durnn]] to [[Ragh]] confirming their cross-faction conspiracy in writing; one from [[Belak]] to [[Ragh]], cryptic, noting that Belak was considering whether to bring Ragh "into the fold." The party pocketed both.
+
+### Into the Northeast with Meepo
+
+With [[Meepo]] as guide, the party took a longer northeastern route toward goblin territory — the direct route was barricaded by ongoing kobold-goblin skirmishes. Deep in the far northeastern corner of the citadel, they navigated traps and fought a Huge Rat Brood-Mother.
+
+### Discovery of Karakas
+
+After the fight, the party found the half-eaten body of [[Karakas]] — the Hucrele delegation's woodsman, killed by rats. He never made it back from the marshes. The room's crumbled wall opened onto the rift itself: daylight, distant and unreachable.
+
+### Meepo Left Behind
+
+Unable to bring a kobold into goblin territory, the party left [[Meepo]] in the rat room with food and water. He accepted without complaint.
+
+### Into the Goblin Colony
+
+The party located a side entrance to [[Durbuluk Goblins]] territory, where guards trained bows on them immediately. Using the letters as evidence and claiming alliance with [[Ragh]] and [[Durnn]], they bluffed their way past [[Grenl]] — the colony's sole surviving elder.
+
+### Calcryx's Terms
+
+[[Grenl]] led the party to [[Calcryx]]'s cell. The party discreetly revealed a weakened chain link. Calcryx refused to return to the [[Ordahir Kobolds]] — no loyalty, and he knew political utility from genuine care. He was told where to find [[Meepo]] and said he owed the party a **favor**. He breathed frost through the cell door at the waiting goblins on the way out — contemptuous, deliberate, minor damage. Maximum statement.
+
+### Grenl's Accounting
+
+[[Durnn]] was not present. Grenl led the party to the colony's pantry to rest while they waited. In conversation, the party learned that Grenl was the only surviving Durbuluk elder — Durnn had killed the rest to take power, and she had survived by not opposing him. She disapproved of the war with the kobolds and of Durnn's proactive aggression. She kept her opinions private. She had been doing so long enough that the habit was structural.
+
+---
+
+## Year 222 PA — Marpenoth (Session 08)
+
+### Rune of Recall — Gill Rejoins the Party
+
+[[Luks Borg]], reconsidering the party's composition from [[Sunhold]], broke the [[Rune of Recall]] and sent [[Gill Bates]] directly to [[Jonathan Jordan]]'s side in the Collapsed Tower of the [[Sunless Citadel]]. The party was whole for the first time since leaving Sunhold.
+
+### The Kobold Quarter
+
+Navigating the Upper Level, the party found [[Meepo]] — the [[Ordahir Kobolds]]' former wyrmling keeper — in a ruined western chamber, distraught over the loss of [[Calcryx]]. Meepo guided them east to [[Yusdrayl]], the kobold queen, who offered a key to the citadel's deeper southern sections in exchange for retrieving the stolen wyrmling from the [[Durbuluk Goblins]]. The party discerned Yusdrayl's dragon-worship as political performance. She also revealed that the Hucrele delegation had accepted the same task weeks earlier — and had not returned.
+
+### Ragh's Confession
+
+That evening, the party met [[Ragh]] at the kobold western post. After [[Ember]] told him directly that they didn't trust [[Yusdrayl]], and after [[Augustus Kennedy]] tested his patience with a careless remark about [[Calcryx]], Ragh revealed the truth: he had contacted [[Durnn]] — goblin leader, who killed the previous goblin elders to seize power — and secretly orchestrated Calcryx's kidnapping himself, on the condition she be kept safe. He plans to lead an uprising against Yusdrayl within days. He told the party to stay away from Calcryx until the coup concluded; in exchange, he offered a guide to goblin territory to find the Hucrele party.
+
+The party ended the session knowing the shape of the board — caught between two kobold factions, a goblin warlord's secret peace, and a wyrmling no one is asking about as an individual.
+
+---
+
+## Year 222 PA — 16th Marpenoth (Session 10)
+
+### The Cages
+
+Still in [[Durbuluk Goblins]] territory, the party found two prisoners: [[Erky]] — the gnome acolyte sent south by [[Sister Garaele]] — caged alongside a Velvet Vulper called [[Little Sister]]. [[Grenl]] was persuaded to release both. The party adopted them into their company.
+
+### Goblin Fruit Supply Chain Confirmed
+
+From the goblins, the party learned the [[Goblin Fruit]] supply chain: [[Belak]] grew and sent fruit up to [[Durnn]], who distributed it to aboveground communities including [[Sunhold]].
+
+### Message to Luks
+
+[[Lea]] used the Sending Stone to update [[Luks Borg]] on their situation. Luks relayed a private directive: keep [[Erky]] close and under unobtrusive observation, reason undisclosed.
+
+### Ragh's Coup
+
+[[Ragh]] returned to goblin territory carrying the unconscious [[Yusdrayl]] — the [[Ordahir Kobolds]]' queen — to thunderous goblin cheers. [[Durnn]] led the assembled factions in a victory procession to the Throne Room.
+
+### Death of Yusdrayl
+
+In the Throne Room, [[Durnn]] threw [[Yusdrayl]] down the central shaft — a well lined with glowing purple moss, roughly a hundred feet deep — without ceremony. The kobold queen who had governed her colony through political performance and sheer will did not survive the fall.
+
+### The Revel
+
+[[Durnn]] produced alcohol and celebrated. [[Augustus Kennedy]], resistant to poison, remained sober while Durnn and his warriors became heavily intoxicated. [[Lea]], [[Gill Bates]], and [[Ember]] used the cover of the revel to gather information from [[Grenl]]. [[Ember]] stole *Toothpick* — [[Ragh]]'s named blade — from the drunk kobold's person, and pilfered a magic horn from [[Durnn]].
+
+### Descent to the Grove
+
+With [[Grenl]] indifferent, the party dropped a rope down the well and descended to the Grove Level, accompanied by [[Erky]] and [[Little Sister]]. At the bottom they found [[Yusdrayl]]'s body.
+
+### The Grove and Balsag
+
+The Grove Level was lit by bioluminescent violet moss covering the citadel walls. The party encountered [[Balsag]] — a bugbear, former keeper of [[Calcryx]] — beset by plant creatures. One of his two giant rats was killed in the fight. The party intervened, drove off the plant creatures, and heard his story: he had descended into the Underdark tunnels searching for food for the wyrmling, become lost, and ended up here. [[Balsag]] and his surviving rat [[Grip]] joined the party.
+
+---
+
 ## Year 222 PA — Marpenoth (Session 11)
 
 ### Death in the Grove
@@ -201,6 +284,7 @@ Beyond the door, an illusion of [[Ashardalon]] — the ancient dragon whose cult
 ## Active Threads
 
 - [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
+- Kobold civil war: [[Ragh]] plans uprising against [[Yusdrayl]] within days; [[Calcryx]] held safely by [[Durnn]] per their secret deal; party caught between both factions
 - The Sanctum's revelations: the featureless figure, the divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape
 - [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
@@ -211,5 +295,6 @@ Beyond the door, an illusion of [[Ashardalon]] — the ancient dragon whose cult
 - [[Jonathan Jordan]]'s prophetic visions and their connection to [[Corran]]
 - The true nature of the [[Goblin Fruit]] and the [[Goblin Merchants]]' intentions
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
-- The PCs' missing essence and its slow regeneration`n
+- The PCs' missing essence and its slow regeneration
+
 

@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:25
-updated: 2026-03-16T05:00
----
-﻿---
 title: Corranor Council
 aliases:
   - Corranor Council
@@ -12,9 +8,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T04:25
+updated: 2026-03-16T16:13
 ---
-`n# Corranor Council
+
+# Corranor Council
 
 > [!infobox|right wikipedia]+
 > # Corranor Council
@@ -43,5 +40,6 @@ The council directs arcane-powered airship expansion, manages relations with dis
 
 ## Current Status
 
-Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm]]'s suspicion that his assistant [[Layla]] triggered the ritual bringing the newcomers adds complexity to their deliberations.`n
+Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm]]'s suspicion that his assistant [[Layla]] triggered the ritual bringing the newcomers adds complexity to their deliberations.
+
 

@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Sir Garth
 aliases:
   - Sir Garth
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Sir Garth
+
+# Sir Garth
 
 > [!infobox|right wikipedia]+
 > # Sir Garth
@@ -50,5 +47,6 @@ Pronouns:: he/him
 Alignment:: Unknown
 Class:: Knight
 Affiliation:: [[Hucrele Family]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:25
-updated: 2026-03-16T05:00
----
-﻿---
 title: Magocracy of Corranor
 aliases:
   - Magocracy of Corranor
@@ -12,9 +8,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T04:25
+updated: 2026-03-16T16:13
 ---
-`n# Magocracy of Corranor
+
+# Magocracy of Corranor
 
 > [!infobox|right wikipedia]+
 > # Magocracy of Corranor
@@ -44,5 +41,6 @@ The first peoples awoke amid violent land formation — earth heaving, magma eru
 
 ## Current Status
 
-The Magocracy faces multiple challenges: [[Shadow Creatures]] attacks, an understaffed [[Adamantine Guild]], frontier settlements like [[Sunhold]] requiring support, and the mystery of five individuals transported from Earth during a potentially botched ritual.`n
+The Magocracy faces multiple challenges: [[Shadow Creatures]] attacks, an understaffed [[Adamantine Guild]], frontier settlements like [[Sunhold]] requiring support, and the mystery of five individuals transported from Earth during a potentially botched ritual.
+
 

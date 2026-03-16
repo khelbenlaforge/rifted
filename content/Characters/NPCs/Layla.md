@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Layla
 aliases:
   - Layla
@@ -13,9 +9,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:14
 ---
-`n# Layla
+
+# Layla
 
 > [!infobox|right wikipedia]+
 > # Layla
@@ -24,7 +21,7 @@ updated: 2026-03-16T04:23
 > | ---- | --- |
 > | Race | Unknown |
 > | Class | Mage / Researcher |
-> | Location | [[Jade Spire]], [[Crystal]] |
+> | Location | [[Jade Spire]], [[Crystal City]] |
 > | Affiliation | [[Corranor Council]] |
 
 ## Description
@@ -49,5 +46,6 @@ Pronouns::
 Alignment:: Unknown
 Class:: Mage
 Affiliation:: [[Corranor Council]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

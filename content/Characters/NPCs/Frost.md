@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Frost
 aliases:
   - Frost
@@ -13,9 +9,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Frost
+
+# Frost
 
 > [!infobox|right wikipedia]+
 > # Frost
@@ -47,5 +44,6 @@ Subrace::
 Pronouns:: he/him
 Class::
 Affiliation:: [[Mielikki's Grove]]
-Deity:: [[Mielikki]]`n
+Deity:: [[Mielikki]]
+
 

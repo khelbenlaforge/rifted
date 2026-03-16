@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Talgen Hucrele Sr.
 aliases:
   - Talgen Hucrele Sr.
@@ -11,13 +7,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Talgen Hucrele Sr.
+
+# Talgen Hucrele Sr.
 
 > [!infobox|right wikipedia]+
 > # Talgen Hucrele Sr.
@@ -55,5 +52,6 @@ Pronouns:: he/him
 Alignment:: Unknown
 Class:: Noble
 Affiliation:: [[Hucrele Family]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

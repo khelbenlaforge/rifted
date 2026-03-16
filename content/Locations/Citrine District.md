@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:27
-updated: 2026-03-16T05:00
----
-﻿---
 title: Citrine District
 aliases:
   - Citrine District
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:27
+updated: 2026-03-16T16:13
 ---
-`n# Citrine District
+
+# Citrine District
 
 > [!infobox|right wikipedia]+
 > # Citrine District
@@ -47,5 +44,6 @@ A vibrant and bustling quarter of [[Crystal City]], the Citrine District is defi
 
 ## Current Events
 
-The district served as the safe haven for the five newcomers after [[Perrin Quickquill]] evacuated them from the [[Jade Spire]]. The [[Adamantine Guild]] is currently severely understaffed, with most members deployed to frontier settlements.`n
+The district served as the safe haven for the five newcomers after [[Perrin Quickquill]] evacuated them from the [[Jade Spire]]. The [[Adamantine Guild]] is currently severely understaffed, with most members deployed to frontier settlements.
+
 

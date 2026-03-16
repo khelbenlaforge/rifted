@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Elmar Barthen
 aliases:
   - Elmar Barthen
@@ -10,13 +6,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Elmar Barthen
+
+# Elmar Barthen
 
 > [!infobox|right wikipedia]+
 > # Elmar Barthen
@@ -50,5 +47,6 @@ Pronouns::
 Alignment:: Neutral
 Class:: Merchant
 Affiliation:: [[Barthen's Supplies]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

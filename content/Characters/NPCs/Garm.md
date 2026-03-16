@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:22
-updated: 2026-03-16T05:00
----
-﻿---
 title: Garm
 aliases:
   - Garm
@@ -13,9 +9,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:22
+updated: 2026-03-16T16:13
 ---
-`n# Garm
+
+# Garm
 
 > [!infobox|right wikipedia]+
 > # Garm
@@ -54,5 +51,6 @@ Pronouns::
 Alignment:: Neutral Good
 Class:: Wizard
 Affiliation:: [[Corranor Council]]
-Deity::`n
+Deity::
+
 

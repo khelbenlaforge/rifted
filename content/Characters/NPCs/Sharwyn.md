@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Sharwyn
 aliases:
   - Sharwyn
@@ -10,13 +6,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Sharwyn
+
+# Sharwyn
 
 > [!infobox|right wikipedia]+
 > # Sharwyn
@@ -51,5 +48,6 @@ Pronouns:: she/her
 Alignment:: Unknown
 Class:: Noble
 Affiliation:: [[Hucrele Family]]
-Deity:: Unknown`n
+Deity:: Unknown
+
 

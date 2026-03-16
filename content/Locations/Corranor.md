@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Corranor
 aliases:
   - Corranor
@@ -15,9 +11,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Corranor
+
+# Corranor
 
 > [!infobox|right wikipedia]+
 > # Corranor
@@ -53,5 +50,6 @@ The population includes humans, elves, and warforged, all descendants of those w
 
 ## Current Events
 
-[[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements. Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222, adding mystery to an already turbulent time.`n
+[[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements. Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222, adding mystery to an already turbulent time.
+
 

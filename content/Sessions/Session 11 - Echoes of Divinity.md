@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T05:22
-updated: 2026-03-16T05:22
+updated: 2026-03-16T16:05
 ---
 
 # Session 11 — Echoes of Divinity
@@ -215,7 +215,8 @@ The session ended in silence.
 - **[[Aenath]]'s Shape** — A flat, rectangular world. What's on the other side?
 - **[[Mystra]] and [[Kelemvor]]** — Love, betrayal, and a wall of bone. [[Lea]] sensed it. Will she pursue it?
 - **[[Talgen Hucrele Jr.]]** — Dead. The reward shifts to signet rings and grief. How will [[Keldara Hucrele]] receive the news?
-- **Still Missing** — [[Sharwyn]], [[Sir Braford]], [[Karakas]] — alive or dead, deeper in the citadel
+- **Still Missing** — [[Sharwyn]] and [[Sir Braford]] — deeper in the citadel, no confirmed fate
+- **[[Karakas]]** — confirmed dead (Session 09, killed by rats in the Upper Level)
 - **[[Ashardalon]]** — The dragon cult's legacy hides a much older secret. What drew the cult here?
 
 

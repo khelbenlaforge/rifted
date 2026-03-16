@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:25
-updated: 2026-03-16T05:00
----
-﻿---
 title: Goblin Bandits
 aliases:
   - Goblin Bandits
@@ -12,9 +8,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T04:25
+updated: 2026-03-16T16:13
 ---
-`n# Goblin Bandits
+
+# Goblin Bandits
 
 > [!infobox|right wikipedia]+
 > # Goblin Bandits
@@ -38,5 +35,6 @@ They favor ambush tactics, striking at isolated wagons and travelers on the rura
 
 ## Current Status
 
-The party encountered a battle site and was later ambushed by Goblin Bandits on the road to [[Sunhold]]. They fought their way through, though [[Lea]] nearly fell. Roughly 20-30 footprints led into the wilderness, but the party declined to pursue.`n
+The party encountered a battle site and was later ambushed by Goblin Bandits on the road to [[Sunhold]]. They fought their way through, though [[Lea]] nearly fell. Roughly 20-30 footprints led into the wilderness, but the party declined to pursue.
+
 

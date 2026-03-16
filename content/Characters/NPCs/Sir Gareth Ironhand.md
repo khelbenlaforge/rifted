@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Sir Gareth Ironhand
 aliases:
   - Sir Gareth Ironhand
@@ -11,13 +7,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Sir Gareth Ironhand
+
+# Sir Gareth Ironhand
 
 > [!infobox|right wikipedia]+
 > # Sir Gareth Ironhand
@@ -51,5 +48,6 @@ Pronouns:: he/him
 Alignment:: Lawful Good
 Class:: Paladin
 Affiliation:: [[Hall of Justice - Temple of Tyr]]
-Deity:: [[Tyr]]`n
+Deity:: [[Tyr]]
+
 

@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:21
-updated: 2026-03-16T05:14
----
-﻿---
 title: Augustus Kennedy
 aliases:
   - Augustus Kennedy
@@ -14,9 +10,10 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-03-16T04:21
+updated: 2026-03-16T16:13
 ---
-`n# Augustus Kennedy
+
+# Augustus Kennedy
 
 > [!infobox|right wikipedia]+
 > # Augustus Kennedy

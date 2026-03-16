@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Sister Garaele
 aliases:
   - Sister Garaele
@@ -10,13 +6,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Sister Garaele
+
+# Sister Garaele
 
 > [!infobox|right wikipedia]+
 > # Sister Garaele
@@ -51,5 +48,6 @@ Pronouns:: she/her
 Alignment:: Unknown
 Class:: Cleric
 Affiliation:: [[Tymora's Shrine]]
-Deity:: [[Tymora]]`n
+Deity:: [[Tymora]]
+
 

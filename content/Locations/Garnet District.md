@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:00
----
-﻿---
 title: Garnet District
 aliases:
   - Garnet District
@@ -14,9 +10,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
-`n# Garnet District
+
+# Garnet District
 
 > [!infobox|right wikipedia]+
 > # Garnet District
@@ -36,5 +33,6 @@ The Commons District — a lively quarter of bustling bars, taverns, and humble 
 
 ## Notable Features
 
-- A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].`n
+- A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].
+
 

@@ -1,21 +1,18 @@
 ﻿---
-created: 2026-03-16T04:23
-updated: 2026-03-16T05:00
----
-﻿---
 title: Harbin Wester
 aliases:
   - Harbin Wester
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T04:23
+updated: 2026-03-16T16:13
 ---
-`n# Harbin Wester
+
+# Harbin Wester
 
 > [!infobox|right wikipedia]+
 > # Harbin Wester
@@ -54,5 +51,6 @@ Pronouns:: he/him
 Alignment:: Lawful Neutral
 Class:: Commoner
 Affiliation:: [[Miners' Council]]
-Deity::`n
+Deity::
+
 

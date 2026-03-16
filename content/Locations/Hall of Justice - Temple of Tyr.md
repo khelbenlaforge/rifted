@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:28
-updated: 2026-03-16T05:15
----
-﻿---
 title: Hall of Justice - Temple of Tyr
 aliases:
   - Hall of Justice
@@ -14,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T04:28
+updated: 2026-03-16T16:13
 ---
 # Hall of Justice - Temple of Tyr
 

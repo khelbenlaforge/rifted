@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:24
-updated: 2026-03-16T05:00
----
-﻿---
 title: Talgen Hucrele Jr.
 aliases:
   - Talgen Hucrele Jr.
@@ -10,13 +6,14 @@ aliases:
 tags:
   - npc
 campaign: Rifted
-introduced:
+introduced: 2025-11-09
 secret: false
 state: dead
 created: 2026-03-16T03:56
-updated: 2026-03-16T04:24
+updated: 2026-03-16T16:13
 ---
-`n# Talgen Hucrele Jr.
+
+# Talgen Hucrele Jr.
 
 > [!infobox|right wikipedia]+
 > # Talgen Hucrele Jr.
@@ -53,7 +50,8 @@ Subrace::
 Pronouns::
 Class:: Noble
 Affiliation:: [[Hucrele Family]]
-Deity::`n
+Deity::
+
 ## Death
 
 The party found Talgen's body on the Grove Level of the [[Sunless Citadel]], among the violet bioluminescent moss that suffuses the underground grove. He did not survive his captivity. The circumstances of his death are not yet fully understood.

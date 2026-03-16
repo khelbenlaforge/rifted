@@ -1,8 +1,4 @@
 ﻿---
-created: 2026-03-16T04:31
-updated: 2026-03-16T05:00
----
-﻿---
 title: Waukeen
 aliases:
   - Waukeen
@@ -15,9 +11,10 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-16T04:31
+updated: 2026-03-16T16:13
 ---
-`n# Waukeen
+
+# Waukeen
 
 > [!infobox|right wikipedia]+
 > # Waukeen
@@ -49,5 +46,6 @@ Yet Waukeen is no patron of misers. She smiles upon the industrious and the gene
 ## Followers & Influence
 Waukeen's most ardent worshippers include shopkeepers, members of trading costers, wealthy merchants, caravan guides, itinerant peddlers, moneychangers, and smugglers. Her temples resemble guildhalls and frequently serve as meeting places for trade consortiums. Priests bearing her holy symbol find themselves welcome in towns and cities across [[Corranor]], for where Waukeen's faithful go, commerce follows.
 
-In [[Crystal City]], Waukeen's coin sits at the centre of the [[Adamantine Guild]]'s emblem, flanked by the symbols of [[Oghma]] and [[Helm]]. The Guild was founded in accordance with her principles of advancement and prosperity, and her influence shapes its mission to support adventurers and provide resources for those seeking to improve themselves and their communities. As the Guild faces challenges of understaffing and shadow creature threats, Waukeen's guidance toward resourcefulness and investment in people has never been more critical.`n
+In [[Crystal City]], Waukeen's coin sits at the centre of the [[Adamantine Guild]]'s emblem, flanked by the symbols of [[Oghma]] and [[Helm]]. The Guild was founded in accordance with her principles of advancement and prosperity, and her influence shapes its mission to support adventurers and provide resources for those seeking to improve themselves and their communities. As the Guild faces challenges of understaffing and shadow creature threats, Waukeen's guidance toward resourcefulness and investment in people has never been more critical.
+
 
