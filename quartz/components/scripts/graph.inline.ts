@@ -174,6 +174,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
 
+  // Pin the current page node to the center
+  const currentNode = graphData.nodes.find((n) => n.id === slug)
+  if (currentNode) {
+    currentNode.fx = 0
+    currentNode.fy = 0
+  }
+
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
     "--secondary",
