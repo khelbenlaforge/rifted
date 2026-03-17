@@ -10,13 +10,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-03-17T19:28
+updated: 2026-03-17T21:05
 ---
 
 # Kelemvor
 
 > [!infobox|right wikipedia]+
 > # Kelemvor
+> ![[Kelemvor Portrait.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -25,14 +26,6 @@ updated: 2026-03-17T19:28
 > | Location | En route to [[Shadowdale]] |
 > | Affiliation | None |
 > | Deity | None (yet) |
-
-Race:: Human
-Subrace::
-Pronouns:: he/him
-Class:: Fighter
-Location:: [[Shadowdale]] (en route)
-Affiliation::
-Deity::
 
 ## Personality
 
@@ -55,5 +48,14 @@ A fighter from Arabel who joined the party assembled around [[Caitlan Moonsong]]
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). An NPC in the Session 13 prequel vision — no PC inhabited his body this session. His panther curse was revealed to the party at camp.
+
+---
+Race:: Human
+Subrace::
+Pronouns:: he/him
+Class:: Fighter
+Location:: [[Shadowdale]] (en route)
+Affiliation::
+Deity::
 
 

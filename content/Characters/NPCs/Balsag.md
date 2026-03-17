@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:00
-updated: 2026-03-16T20:11
+updated: 2026-03-17T22:00
 ---
 
 # Balsag
 
 > [!infobox|right wikipedia]+
 > # Balsag
+> ![[Balsag Full.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

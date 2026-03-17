@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:51
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Meepo
 
 > [!infobox|right wikipedia]+
 > # Meepo
+> ![[Meepo.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

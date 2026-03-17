@@ -10,13 +10,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T16:28
-updated: 2026-03-16T20:11
+updated: 2026-03-17T21:13
 ---
 
 # Bahamut
 
 > [!infobox|right wikipedia]+
 > # Bahamut
+> ![[Bahamut Portrait.jpg]]
+> ![[Bahamut Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

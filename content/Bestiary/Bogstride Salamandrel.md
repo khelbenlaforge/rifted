@@ -8,13 +8,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Bogstride Salamandrel
 
 > [!infobox|right wikipedia]+
 > # Bogstride Salamandrel
+> ![[Bogstride Salamandrel.png]]
+> ![[Bogstride Salamandrel No Rider.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

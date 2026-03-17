@@ -9,13 +9,14 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Lurkleaf
 
 > [!infobox|right wikipedia]+
 > # Lurkleaf
+> ![[Lurkleaf.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

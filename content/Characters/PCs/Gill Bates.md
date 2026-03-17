@@ -9,13 +9,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-17T19:31
+updated: 2026-03-17T19:38
 ---
 
 # Gill Bates
 
 > [!infobox|right wikipedia]+
 > # Gill Bates
+> ![[Gill Bates.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

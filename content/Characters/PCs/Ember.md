@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Ember
 
 > [!infobox|right wikipedia]+
 > # Ember
+> ![[Ember.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

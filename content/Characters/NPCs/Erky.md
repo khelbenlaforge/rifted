@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Erky
 
 > [!infobox|right wikipedia]+
 > # Erky
+> ![[Erky.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

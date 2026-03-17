@@ -8,13 +8,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-17T19:28
+updated: 2026-03-17T21:05
 ---
 
 # Adon
 
 > [!infobox|right wikipedia]+
 > # Adon
+> ![[Adon Portrait.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -23,14 +24,6 @@ updated: 2026-03-17T19:28
 > | Location | En route to [[Shadowdale]] |
 > | Affiliation | Church of Sune |
 > | Deity | [[Sune]] |
-
-Race:: Human
-Subrace::
-Pronouns:: he/him
-Class:: Cleric (Arcane Domain)
-Location:: [[Shadowdale]] (en route)
-Affiliation:: Church of Sune
-Deity:: Sune
 
 ## Personality
 
@@ -45,5 +38,14 @@ A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joine
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[Gill Bates]] temporarily inhabited Adon's body.
+
+---
+Race:: Human
+Subrace::
+Pronouns:: he/him
+Class:: Cleric
+Location:: [[Shadowdale]] (en route)
+Affiliation:: Church of [[Sune]]
+Deity:: [[Sune]]
 
 

@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: unknown
 created: 2026-03-16T03:57
-updated: 2026-03-16T20:11
+updated: 2026-03-17T21:05
 ---
 
 # Ashardalon
 
 > [!infobox|right wikipedia]+
 > # Ashardalon
+> ![[Ashardalon Portrait.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

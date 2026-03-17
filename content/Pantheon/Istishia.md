@@ -9,13 +9,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-16T20:11
+updated: 2026-03-17T21:13
 ---
 
 # Istishia
 
 > [!infobox|right wikipedia]+
 > # Istishia
+> ![[Istishia Portrait.jpg]]
+> ![[Istishia Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

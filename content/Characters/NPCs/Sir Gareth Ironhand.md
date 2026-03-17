@@ -10,13 +10,14 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Sir Gareth Ironhand
 
 > [!infobox|right wikipedia]+
 > # Sir Gareth Ironhand
+> ![[Gareth Ironheart.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

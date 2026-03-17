@@ -9,13 +9,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-17T19:31
+updated: 2026-03-17T19:43
 ---
 
 # Jonathan Jordan
 
 > [!infobox|right wikipedia]+
 > # Jonathan Jordan
+> ![[Jonathan J Jordan.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -62,6 +63,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - **[[Luks Borg]]** -- Guild combatant; travelled together to [[Sunhold]]; Luks has a daughter in [[Crystal City]]
 - **[[Adamantine Guild]]** -- Member and apprentice; currently assigned to the [[Sunhold]] outpost
 - **[[Torm the Harper]]** -- Knight of Myth Drannor whose body JJ inhabited during the Session 13 Sanctum vision; whether this connection runs deeper remains an open question
+- **[[Michael C Jordan]]** — His rat from Earth. Followed him through the rift. Wears a tiny rogue outfit. Obeys orders. Somehow this is fine.
 - Has a **daughter** residing in [[Crystal City]]
 
 ---

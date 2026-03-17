@@ -1,11 +1,13 @@
 ﻿---
-title: "Session 13 - The Fall of the Weave"
+title: Session 13 - The Fall of the Weave
 aliases:
 tags:
   - session
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
+created: 2026-03-17T19:49
+updated: 2026-03-17T19:49
 ---
 
 # Session 13 - The Fall of the Weave
@@ -62,7 +64,7 @@ They land in a tavern in Arabel, Cormyr. Not in their own bodies.
 
 The others in their company are [[Cyric]], a rogue of uncertain allegiance who moves like he is always measuring exits, and [[Kelemvor]], a fighter who charges fairly for his work and will never explain why.
 
-Outside, the Storm is breaking. This is no ordinary weather — the world's sky is coming apart, and within it, the gods of the Forgotten Realms are falling like stones. They have been cast out of their divine planes by [[AO]], who found the Tablets of Fate stolen from his vault. Until those tablets are returned, the divine are walking among the mortal, lesssened, angry, and dangerous. Magic is unreliable now. Every spell cast rolls against a chaos table: sometimes nothing, sometimes too much, sometimes something else entirely.
+Outside, the Storm is breaking. This is no ordinary weather — the world's sky is coming apart, and within it, the gods of the Forgotten Realms are falling like stones. They have been cast out of their divine planes by [[AO]], who found the Tablets of Fate stolen from his vault. Until those tablets are returned, the divine are walking among the mortal, lessened, angry, and dangerous. Magic is unreliable now. Every spell cast rolls against a chaos table: sometimes nothing, sometimes too much, sometimes something else entirely.
 
 The party settles. They drink. They find each other.
 

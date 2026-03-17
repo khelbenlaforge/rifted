@@ -10,13 +10,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T16:15
-updated: 2026-03-16T20:11
+updated: 2026-03-17T21:14
 ---
 
 # Takhisis
 
 > [!infobox|right wikipedia]+
 > # Takhisis
+> ![[Takhisis Portrait.jpg]]
+> ![[Takhisis Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
