@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:30
 ---
 
 # Lea
@@ -54,6 +54,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - Departed south with [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and followed tracks to a ravine; descended into a subterranean fortress
 - Cast Detect Magic within the fortress, sensing necromantic magic behind a trapped hidden door; used Mage Hand to trigger the trap remotely
+- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
 
 ## Relationships
 - **[[Ember]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
@@ -61,6 +62,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - **[[Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
+- **[[Midnight]]** -- Avatar Series wizard whose body Lea inhabited during the Session 13 Sanctum vision; connection to her crossing vision (*"Midnight. ke-le."*) remains unexplained
 
 ---
 Race:: Humanoid (partially changed)
