@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:26
 ---
 
 # Campaign Timeline
@@ -312,6 +312,56 @@ The party took a long rest in the lab. Session ended.
 
 ---
 
+## Year 222 PA — Marpenoth (Session 13 — Prequel Vision)
+
+### The Mural's Touch
+
+[[Augustus Kennedy]] touched the mural in the [[Sanctum of Ashardalon|Sanctum]]. The cosmological carvings responded. Three of the five PCs — [[Jonathan Jordan]], [[Gill Bates]], and [[Lea]] — were pulled into a vision. They observed themselves continuing their Earth lives *after* the moment of their disappearance. The timeline confirmed: they were taken. The world continued without them.
+
+### The Avatar Crisis, Arabel, Cormyr
+
+The vision transported them deeper into the past — before Aenath was made. The three PCs inhabited the bodies of [[Midnight]], [[Torm the Harper]], and [[Adon]], joining a company that also included [[Cyric]] and [[Kelemvor]]. The setting: Arabel, during the Night of the Storm, when [[AO]] cast all gods from the divine planes to walk Toril as avatars.
+
+Magic became unreliable from the moment the Storm ended. All spells were subject to wild effects. Clerics lost access to spells of 3rd level or higher.
+
+### Caitlan's Plea and Castle Kilgrave
+
+A girl named [[Caitlan Moonsong]] approached the party in a tavern. She asked them to rescue her mistress from Castle Kilgrave, northeast of Arabel, offering no gold but her word and her mistress's. The party accepted. Caitlan collapsed from fever before they departed — catalyzed by [[Mystra]]'s suffering through the geas.
+
+At Castle Kilgrave, the courtyard fog separated the party into private hallucinations drawn from each member's deepest desires. All made it through. Caitlan followed and arrived just after.
+
+On the second-floor landing, the party found a layered magic circle (DM's addition to the module): four layers controlling fog, hallucinations, the door seal, and the magical trap on [[Bane]]'s door. They dismantled it layer by layer. The door opened.
+
+### Mystra Rescued
+
+In the chamber beyond: red mist, skeletal crawling hands, and the chained essence of [[Mystra]] — her divine form rather than a physical avatar. Shadow creatures attacked. The party was victorious.
+
+[[Caitlan Moonsong]] stepped forward and touched Mystra. The goddess inhabited her, completing the girl's intended apotheosis. [[Bane]] withdrew. Castle Kilgrave's supernatural effects dissolved.
+
+### The Death of Mystra
+
+[[Mystra]] (in Caitlan's body) asked [[Midnight]] to return the pendant. She opened a gate into the void between planes and led the party to [[Helm]] — the guardian posted by AO at the celestial staircase. No deity could pass without presenting the Tablets of Fate, which had been stolen.
+
+Mystra refused to accept this. She attacked Helm with everything she had. He absorbed it all. She flung herself at him. Their gazes met. He struck her through the chest.
+
+The body of Caitlan Moonsong exploded. Castle Kilgrave's ruins were leveled for half a mile in every direction. [[Midnight]] was left standing at the center, with the pendant at her feet — now carrying a shard of Mystra's broken power. She knows she must find [[Elminster]] in [[Shadowdale]].
+
+### Helm's Message
+
+Helm told the party: the gods now walk the Realms. The Tablets of Fate were stolen (by [[Bane]], Myrkul, and Bhaal). Their recovery is essential. He charged them — or anyone willing — to find the Tablets.
+
+The party decided to travel to [[Shadowdale]] to find Elminster. [[Torm the Harper]] said nothing about knowing him.
+
+### Kelemvor's Curse
+
+On the road north, [[Kelemvor]] slipped away from camp alone. The party found him unconscious in the dark beside a dead deer, black fur in the underbrush. He told them: a hereditary witch's curse. If any of his bloodline does something for another person without taking payment, they transform into a black panther and must kill something before returning to human form. The panther bursts out of him. He bursts out of the panther.
+
+He goes away, he said, because he doesn't want anyone in the way.
+
+The vision ended here. Next session: Shadowdale.
+
+---
+
 ## Active Threads
 
 - [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
@@ -323,7 +373,9 @@ The party took a long rest in the lab. Session ended.
 - [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
-- The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]])
+- The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]]) — partially confirmed: Kelemvor traveled with [[Midnight]] during the Avatar Crisis
+- The Avatar Crisis prequel — [[Midnight]], [[Torm the Harper]], [[Adon]], [[Cyric]], [[Kelemvor]] traveled together; story continues in [[Shadowdale]] (Session 14)
+- [[Kelemvor]]'s panther curse revealed to the party; his future role as god of death remains unseen
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
 - The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
