@@ -9,13 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-17T19:28
+updated: 2026-03-17T21:05
 ---
 
 # Cyric
 
 > [!infobox|right wikipedia]+
 > # Cyric
+> ![[Cyric Portrait.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -24,14 +25,6 @@ updated: 2026-03-17T19:28
 > | Location | En route to [[Shadowdale]] |
 > | Affiliation | Unknown |
 > | Deity | None (yet) |
-
-Race:: Human
-Subrace::
-Pronouns:: he/him
-Class:: Rogue (Assassin — suspected)
-Location:: [[Shadowdale]] (en route)
-Affiliation::
-Deity::
 
 ## Personality
 
@@ -48,5 +41,14 @@ He is a companion for now. What he becomes next is not yet written, or is writte
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). An NPC in the Session 13 prequel vision — the party interacted with him but no PC inhabited his body.
+
+---
+Race:: Human
+Subrace::
+Pronouns:: he/him
+Class:: Rogue (Assassin — suspected)
+Location:: [[Shadowdale]] (en route)
+Affiliation::
+Deity::
 
 

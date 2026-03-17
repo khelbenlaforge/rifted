@@ -8,13 +8,14 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Marsh Snappers
 
 > [!infobox|right wikipedia]+
 > # Marsh Snappers
+> ![[Marsh Snappers.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

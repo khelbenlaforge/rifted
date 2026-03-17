@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-17T19:30
+updated: 2026-03-17T19:38
 ---
 
 # Lea
 
 > [!infobox|right wikipedia]+
 > # Lea
+> ![[Lea.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

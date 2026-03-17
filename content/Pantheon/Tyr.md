@@ -9,13 +9,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:19
-updated: 2026-03-16T20:11
+updated: 2026-03-17T21:13
 ---
 
 # Tyr
 
 > [!infobox|right wikipedia]+
 > # Tyr
+> ![[Tyr Portrait.jpg]]
+> ![[Tyr Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

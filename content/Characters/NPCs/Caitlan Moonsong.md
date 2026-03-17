@@ -9,13 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: unknown
 created: 2026-03-17T19:28
-updated: 2026-03-17T19:28
+updated: 2026-03-17T21:47
 ---
 
 # Caitlan Moonsong
 
 > [!infobox|right wikipedia]+
 > # Caitlan Moonsong
+> ![[Caitlan Moonsong Portrait.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -24,14 +25,6 @@ updated: 2026-03-17T19:28
 > | Location | Unknown (post-Mystra) |
 > | Affiliation | [[Mystra]] |
 > | Deity | [[Mystra]] |
-
-Race:: Human
-Subrace::
-Pronouns:: she/her
-Class::
-Location::
-Affiliation:: [[Mystra]]
-Deity:: [[Mystra]]
 
 ## Appearance
 
@@ -58,5 +51,14 @@ What became of the part of Caitlan that was not [[Mystra]] is unknown. Some esse
 ## Lore Note
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). No PC inhabited her body — she was an NPC throughout.
+
+---
+Race:: Human
+Subrace::
+Pronouns:: she/her
+Class::
+Location::
+Affiliation:: [[Mystra]]
+Deity:: [[Mystra]]
 
 

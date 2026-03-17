@@ -9,13 +9,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-03-16T20:11
+updated: 2026-03-17T22:00
 ---
 
 # Belak
 
 > [!infobox|right wikipedia]+
 > # Belak
+> ![[Belak Portrait.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

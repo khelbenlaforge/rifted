@@ -10,13 +10,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Tidecaller Marin Deepcurrent
 
 > [!infobox|right wikipedia]+
 > # Tidecaller Marin Deepcurrent
+> ![[Marin Deepcurrent.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

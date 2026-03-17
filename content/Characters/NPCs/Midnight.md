@@ -9,13 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-03-17T19:28
+updated: 2026-03-17T21:05
 ---
 
 # Midnight
 
 > [!infobox|right wikipedia]+
 > # Midnight
+> ![[Midnight Portrait.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -24,14 +25,6 @@ updated: 2026-03-17T19:28
 > | Location | En route to [[Shadowdale]] |
 > | Affiliation | [[Mystra]] (chosen) |
 > | Deity | [[Mystra]] |
-
-Race:: Human
-Subrace::
-Pronouns:: she/her
-Class:: Wizard
-Location:: [[Shadowdale]] (en route)
-Affiliation::
-Deity:: [[Mystra]]
 
 ## Appearance
 
@@ -58,5 +51,14 @@ She has been told — she simply knows — that she must find [[Elminster]] in S
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the Sanctum mural, [[Lea]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Lea is not Midnight; no soul connection is implied (at this stage).
+
+---
+Race:: Human
+Subrace::
+Pronouns:: she/her
+Class:: Wizard
+Location:: [[Shadowdale]] (en route)
+Affiliation:: [[Mystra]]
+Deity:: [[Mystra]]
 
 

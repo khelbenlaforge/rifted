@@ -10,13 +10,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Elmindaria L'Thorian
 
 > [!infobox|right wikipedia]+
 > # Elmindaria L'Thorian
+> ![[Elmindaria.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

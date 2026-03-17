@@ -9,13 +9,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-03-17T19:38
 ---
 
 # Sylvara Oakwhisper
 
 > [!infobox|right wikipedia]+
 > # Sylvara Oakwhisper
+> ![[Sylvara Oakwhisper.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

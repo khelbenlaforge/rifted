@@ -9,13 +9,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-03-16T20:11
+updated: 2026-03-17T21:13
 ---
 
 # Gond
 
 > [!infobox|right wikipedia]+
 > # Gond
+> ![[Gond Portrait.jpg]]
+> ![[Gond Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
