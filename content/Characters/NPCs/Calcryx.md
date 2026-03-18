@@ -8,14 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-03-17T21:47
+updated: 2026-03-18T13:36
 ---
 
 # Calcryx
 
 > [!infobox|right wikipedia]+
 > # Calcryx
-> ![[Calcryx Portrait.png]]
+> ![[Calcryx.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

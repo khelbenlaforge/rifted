@@ -9,13 +9,14 @@ introduced:
 secret: false
 state: dead
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-03-18T12:45
 ---
 
 # Corran
 
 > [!infobox|right wikipedia]+
 > # Corran
+> ![[Corran.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

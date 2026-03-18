@@ -8,17 +8,18 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-03-18T12:45
 ---
 
 # Layla
 
 > [!infobox|right wikipedia]+
 > # Layla
+> ![[Layla (Tiefling-Asmodeus).png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Unknown |
+> | Race | Tiefling |
 > | Class | Mage / Researcher |
 > | Location | [[Jade Spire]], [[Crystal City]] |
 > | Affiliation | [[Corranor Council]] |
@@ -39,7 +40,7 @@ The full truth of what happened remains unclear, and Layla's role in the summoni
 ---
 ## Tags
 Location:: [[Jade Spire]], [[Crystal City]]
-Race:: Unknown
+Race:: Tiefling
 Subrace::
 Pronouns::
 Alignment:: Unknown

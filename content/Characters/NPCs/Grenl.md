@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-03-16T20:11
+updated: 2026-03-18T12:45
 ---
 
 # Grenl
 
 > [!infobox|right wikipedia]+
 > # Grenl
+> ![[Grenl.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

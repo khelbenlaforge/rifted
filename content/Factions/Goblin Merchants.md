@@ -7,7 +7,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-03-18T13:04
 ---
 
 # Goblin Merchants
@@ -34,6 +34,6 @@ They visited [[Sunhold]] two weeks before the Hucrele children disappeared, brin
 
 ## Current Status
 
-The delegation that went south — [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — has been missing for roughly fourteen days. [[Erky]], who went after them alone, has also not returned. The party is currently investigating.
+The delegation that went south — [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — has been missing for roughly fourteen days. [[Erky]], who went after them alone, has also not returned. The party is currently investigating.
 
 

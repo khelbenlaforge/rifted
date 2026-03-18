@@ -8,14 +8,14 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T05:22
-updated: 2026-03-16T16:05
+updated: 2026-03-18T13:30
 ---
 
 # Session 11 — Echoes of Divinity
 
 > [!info] Session Details
 > **Date Played:** January 2026
-> **In-Game Date:** Year 222 PA, Marpenoth
+> **In-Game Date:** Year 222 PA, 16th Marpenoth
 > **Location:** [[Sunless Citadel]], Grove Level
 > **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
@@ -31,7 +31,7 @@ It was here, among the fungal glow, that the party found him.
 
 [[Talgen Hucrele Jr.]] lay still among the moss, his body surrendered to the grove's strange luminescence. There was no ambiguity, no hope for a mistake. The son of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]] — the reckless, bright-eyed young nobleman who had insisted on joining the goblin delegation — was dead.
 
-Two remain missing. [[Sharwyn]], his sister. And the guard who accompanied them. Somewhere deeper. Somewhere closer to [[Belak]].
+Two remain missing. [[Sharwyn Hucrele]], his sister. And the guard who accompanied them. Somewhere deeper. Somewhere closer to [[Belak]].
 
 The party pressed on.
 
@@ -215,7 +215,7 @@ The session ended in silence.
 - **[[Aenath]]'s Shape** — A flat, rectangular world. What's on the other side?
 - **[[Mystra]] and [[Kelemvor]]** — Love, betrayal, and a wall of bone. [[Lea]] sensed it. Will she pursue it?
 - **[[Talgen Hucrele Jr.]]** — Dead. The reward shifts to signet rings and grief. How will [[Keldara Hucrele]] receive the news?
-- **Still Missing** — [[Sharwyn]] and [[Sir Braford]] — deeper in the citadel, no confirmed fate
+- **Still Missing** — [[Sharwyn Hucrele]] and [[Sir Braford]] — deeper in the citadel, no confirmed fate
 - **[[Karakas]]** — confirmed dead (Session 09, killed by rats in the Upper Level)
 - **[[Ashardalon]]** — The dragon cult's legacy hides a much older secret. What drew the cult here?
 

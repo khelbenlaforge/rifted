@@ -10,14 +10,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-03-17T21:05
+updated: 2026-03-18T13:18
 ---
 
 # Kelemvor
 
 > [!infobox|right wikipedia]+
 > # Kelemvor
-> ![[Kelemvor Portrait.png]]
+> ![[Kelemvor (Mortal Fighter).png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-16T20:11
+updated: 2026-03-18T13:04
 ---
 
 # Goblin Fruit
@@ -45,7 +45,7 @@ When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-l
 
 ## Significance
 
-The [[Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence.
+The [[Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence.
 
 Every community that bought fruit from the goblin merchants is now seeded — a potential grove of twig blights waiting for its hosts to die.
 

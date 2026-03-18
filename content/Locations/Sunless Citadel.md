@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-03-16T03:57
+updated: 2026-03-18T13:04
 ---
 
 # Sunless Citadel
@@ -56,7 +56,7 @@ Beyond the Sealed Door lies a chamber of extraordinary cosmological significance
 
 ## Current Events
 
-The party has explored deep into the Grove Level alongside companions [[Balsag]], [[Erky]], and a Velvet Vulper called [[Little Sister]]. [[Talgen Hucrele Jr.]] was found dead among the bioluminescent growth. [[Sharwyn]], [[Sir Braford]], and [[Karakas]] remain missing, believed to be deeper within the citadel near [[Belak]].
+The party has explored deep into the Grove Level alongside companions [[Balsag]], [[Erky]], and a Velvet Vulper called [[Little Sister]]. [[Talgen Hucrele Jr.]] was found dead among the bioluminescent growth. [[Sharwyn Hucrele]], [[Sir Braford]], and [[Karakas]] remain missing, believed to be deeper within the citadel near [[Belak]].
 
 The party discovered and passed through the Sealed Door, gaining access to the Sanctum — a hidden chamber of profound cosmological significance predating the dragon cult. They are currently studying its contents, which challenge everything they thought they understood about [[Aenath]].
 

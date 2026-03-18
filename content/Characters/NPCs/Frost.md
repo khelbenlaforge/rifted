@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-03-18T12:45
 ---
 
 # Frost
 
 > [!infobox|right wikipedia]+
 > # Frost
+> ![[Frost.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

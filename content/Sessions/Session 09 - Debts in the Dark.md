@@ -8,14 +8,14 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T15:55
-updated: 2026-03-16T16:03
+updated: 2026-03-18T13:30
 ---
 
 # Session 09 — Debts in the Dark
 
 > [!info] Session Details
 > **Date Played:**
-> **In-Game Date:** Year 222 PA, Marpenoth
+> **In-Game Date:** Year 222 PA, 15th Marpenoth
 > **Location:** [[Sunless Citadel]], Upper Level → Durbuluk Goblin Territory
 > **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Meepo]] (guide, Upper Level only)
