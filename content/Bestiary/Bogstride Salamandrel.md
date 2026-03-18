@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-17T19:38
+updated: 2026-03-18T22:52
 ---
 
 # Bogstride Salamandrel
