@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-03-18T20:39
 ---
 
 # Corran's Spike

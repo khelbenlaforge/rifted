@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-03-18T13:04
+updated: 2026-03-18T20:46
 ---
 
 # Sunless Citadel
@@ -33,7 +33,7 @@ A vast ancient ruin entombed in a deep ravine far south of [[Sunhold]], past the
 
 The citadel is divided into at least two known levels:
 
-- **Upper Level** — A contested zone of warring [[Kobolds]] and [[Goblins]], with tunnels that bore into the [[Underdark]]
+- **Upper Level** — A contested zone of warring [[Ordahir Kobolds|Kobolds]] and [[Durbuluk Goblins|Goblins]], with tunnels that bore into the [[Underdark]]
 - **Grove Level** — A deeper subterranean expanse suffused with violet bioluminescent moss. The southern reaches show signs of a catastrophic geological shift — a fault line that violently displaced the citadel's lower section westward, leaving a crack in the earth leading deeper still. Home to the druid [[Belak]] and the unnatural grove where the [[Hucrele Family|Hucrele]] children were taken.
 
 ### The Sealed Door
@@ -44,15 +44,7 @@ The door is both a ward and a test. Those who fail to demonstrate understanding 
 
 ### The Sanctum
 
-Beyond the Sealed Door lies a chamber of extraordinary cosmological significance. An illusion of [[Ashardalon]] — the ancient dragon whose cult once inhabited the citadel — greets entrants, but dissolves for those who passed the door's test.
-
-**The Statuary** — Four figures arranged around a scale model of [[Aenath]], revealed here to be a flat, rectangular world:
-- **[[Mystra]]** at the center, hands held protectively over the world
-- **[[Gond]]** opposite, smith's hammer poised to shape or temper it
-- **[[Bahamut]]** and **[[Takhisis]]** flanking — not as enemies, but as co-protectors facing outward
-- The symbols of the **four primordial elemental gods** (including [[Istishia]]) carved into the floor beneath
-
-**The Mural** — A sweeping panorama encircling the chamber, depicting a featureless humanoid figure at its origin point. Millions of tiny lights stream away from the figure, led by larger humanoid-shaped lights — deities guiding the multitude to safety. Hundreds of distinct divine figures, greater and lesser, lead this exodus. At the rear guard, the gods of the lower planes hold the line, defending the retreat. The mural loops endlessly around the walls, its full meaning not yet understood.
+Beyond the Sealed Door lies the [[Sanctum of Ashardalon]] — a chamber of extraordinary cosmological significance that predates the dragon cult entirely. An illusion of [[Ashardalon]] greets entrants, dissolving only for those who passed the door's test. Only the five from Earth can perceive its true contents.
 
 ## Current Events
 

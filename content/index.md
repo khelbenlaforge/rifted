@@ -2,7 +2,7 @@
 title: Aenath — Rifted Campaign Wiki
 secret: false
 created: 2026-03-16T00:44
-updated: 2026-03-16T00:47
+updated: 2026-03-18T20:46
 ---
 
 # Welcome to Aenath
@@ -22,5 +22,5 @@ You find yourselves in **[[Corranor]]**, a magocracy of floating islands, operat
 - [[Items/|Items]]
 - [[Bestiary/|Bestiary]]
 - [[Vehicles/|Vehicles]]
-- [[Timeline/Campaign Timeline|Campaign Timeline]]
+- [[Campaign Timeline]]
 
