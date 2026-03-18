@@ -194,14 +194,30 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
 
   // calculate color
+  const tagColors: Record<string, string> = {
+    pc:             "#3b82f6",
+    npc:            "#d97706",
+    location:       "#0d9488",
+    faction:        "#7c3aed",
+    creature:       "#ea580c",
+    deity:          "#fbbf24",
+    item:           "#06b6d4",
+    lore:           "#92400e",
+    session:        "#6b7280",
+    "session-prep": "#6b7280",
+    "house-rule":   "#6b7280",
+    vehicle:        "#be185d",
+  }
+
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    } else if (d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      const typeTag = d.tags.find((t) => tagColors[t])
+      return typeTag ? tagColors[typeTag] : computedStyleMap["--gray"]
     }
   }
 
