@@ -123,6 +123,8 @@ article {
   line-height: 1.6;
 
   p, li, td {
+    word-spacing: 0.02em; // ADHD readability — subtle word gap
+  }
 
   h1, h2, h3, h4, h5, h6 {
     line-height: 1.2;
