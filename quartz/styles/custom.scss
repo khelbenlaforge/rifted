@@ -114,3 +114,24 @@ table {
     background-color: var(--table-stripe);
   }
 }
+
+// ============================================================
+// Typography — readability (Literata + line height research)
+// ============================================================
+
+article {
+  line-height: 1.65;
+
+  p, li, td {
+    letter-spacing: 0.012em;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2;
+    letter-spacing: 0.05em; // Cinzel reads better with breathing room
+  }
+
+  code, pre {
+    letter-spacing: 0; // monospace: no extra spacing
+  }
+}
