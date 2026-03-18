@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-18T13:04
+updated: 2026-03-19T03:33
 ---
 
 # Goblin Fruit
@@ -19,11 +19,11 @@ updated: 2026-03-18T13:04
 > | | |
 > | ---- | --- |
 > | Type | Magical consumable |
-> | Origin | [[Goblin Merchants]], southern regions |
+> | Origin | [[Gulthias Tree]], [[Sunless Citadel]] |
 
 Rarity:: Unknown
 Attunement:: No
-Found At:: [[Goblin Merchants]], southern regions
+Found At:: [[Sunless Citadel]], Grove Level
 
 ## Description
 

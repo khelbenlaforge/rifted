@@ -22,7 +22,7 @@ updated: 2026-03-17T19:38
 > | ---- | --- |
 > | Race | Half-Elf |
 > | Class | Ranger |
-> | Location | [[Mielikki's Grove]], [[Crystal]] |
+> | Location | [[Mielikki's Grove]], [[Diamond District]], [[Crystal City]] |
 > | Affiliation | Church of [[Mielikki]] |
 
 ## Description
@@ -44,7 +44,7 @@ She took [[Ember]] under her guidance, inviting her to the Grove for lessons in 
 
 ---
 ## Tags
-Location:: [[Mielikki's Grove]], [[Crystal City]]
+Location:: [[Mielikki's Grove]], [[Diamond District]], [[Crystal City]]
 Race:: Half-Elf
 Subrace::
 Pronouns:: she/her

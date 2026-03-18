@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-03-19T03:52
 ---
 # Mielikki's Grove
 
@@ -21,7 +21,7 @@ updated: 2026-03-16T20:11
 > | Region | [[Diamond District]], [[Crystal City]] |
 
 Region:: [[Diamond District]], [[Crystal City]]
-Controlled By:: [[Sylvara Oakwhisper]]
+Controlled By:: Church of [[Mielikki]], [[Sylvara Oakwhisper]]
 Status:: Active
 
 ## Description

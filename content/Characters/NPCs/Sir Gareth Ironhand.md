@@ -23,7 +23,7 @@ updated: 2026-03-17T19:38
 > | ---- | --- |
 > | Race | Human |
 > | Class | Paladin |
-> | Location | [[Hall of Justice - Temple of Tyr]], [[Crystal]] |
+> | Location | [[Hall of Justice - Temple of Tyr]], [[Diamond District]], [[Crystal City]] |
 > | Affiliation | Church of [[Tyr]] |
 
 ## Description
@@ -41,7 +41,7 @@ When [[Augustus Kennedy]] sought the path of paladinhood, it was Sir Gareth who 
 
 ---
 ## Tags
-Location:: [[Crystal]]
+Location:: [[Hall of Justice - Temple of Tyr]], [[Diamond District]], [[Crystal City]]
 Race:: Human
 Subrace::
 Pronouns:: he/him

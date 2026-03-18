@@ -21,7 +21,7 @@ updated: 2026-03-17T21:47
 > | | |
 > | ---- | --- |
 > | Race | Human |
-> | Class | — |
+> | Class | Mage |
 > | Location | Unknown (post-Mystra) |
 > | Affiliation | [[Mystra]] |
 > | Deity | [[Mystra]] |
@@ -56,8 +56,8 @@ A canonical character from the Forgotten Realms **Avatar Series** (The Times of 
 Race:: Human
 Subrace::
 Pronouns:: she/her
-Class::
-Location::
+Class:: Mage
+Location:: Unknown (post-Mystra)
 Affiliation:: [[Mystra]]
 Deity:: [[Mystra]]
 

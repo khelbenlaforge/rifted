@@ -8,7 +8,7 @@ introduced: 2025-11-09
 secret: false
 state: dead
 created: 2026-03-16T04:22
-updated: 2026-03-18T13:04
+updated: 2026-03-19T03:14
 ---
 
 # Karakas
@@ -21,8 +21,8 @@ updated: 2026-03-18T13:04
 > | ---- | --- |
 > | Race | Human |
 > | Class | Ranger |
-> | Location | [[Sunless Citadel]] (deceased) |
-> | Affiliation | [[Hucrele Family]] |
+> | Location | [[Sunless Citadel]] |
+> | Affiliation | [[Sunhold]] |
 
 ## Description
 Karakas is a seasoned woodsman and the only ranger of note in [[Sunhold]]. His bearing speaks of long years spent reading trails, tracking game, and navigating the wilds beyond the settlement's borders. Practical and self-reliant, he is the sort of man settlers turn to when the wilderness presses too close.
@@ -39,13 +39,13 @@ Twenty-four days have now passed with no word. Karakas, along with the rest of t
 
 ---
 ## Tags
-Location:: [[Sunless Citadel]] (deceased)
+Location:: [[Sunless Citadel]]
 Race:: Human
 Subrace::
 Pronouns::
 Alignment:: Unknown
 Class:: Ranger
-Affiliation:: [[Hucrele Family]]
+Affiliation:: [[Sunhold]]
 Deity:: Unknown
 
 

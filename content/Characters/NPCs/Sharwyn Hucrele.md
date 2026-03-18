@@ -22,7 +22,7 @@ updated: 2026-03-18T12:57
 > | ---- | --- |
 > | Race | Human |
 > | Class | Noble |
-> | Location | Unknown (missing) |
+> | Location | [[Sunless Citadel]] (missing) |
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
@@ -41,7 +41,7 @@ The delegation was expected to return within ten days. Twenty-four days have now
 
 ---
 ## Tags
-Location:: Unknown
+Location:: [[Sunless Citadel]]
 Race:: Human
 Subrace::
 Pronouns:: she/her

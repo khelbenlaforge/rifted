@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-16T20:11
+updated: 2026-03-19T03:52
 ---
 # Tymora's Shrine
 
@@ -21,7 +21,7 @@ updated: 2026-03-16T20:11
 > | Region | [[Sunhold]] |
 
 Region:: [[Sunhold]]
-Controlled By:: [[Sister Garaele]]
+Controlled By:: Church of [[Tymora]], [[Sister Garaele]]
 Status:: Active
 
 ## Description

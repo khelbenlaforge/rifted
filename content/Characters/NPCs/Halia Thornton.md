@@ -21,7 +21,7 @@ updated: 2026-03-16T20:11
 > | Race | Human |
 > | Class | Merchant |
 > | Location | [[Sunhold]] |
-> | Affiliation | Thornton Consortium |
+> | Affiliation | [[Miners' Council]], Thornton Consortium |
 
 ## Description
 
@@ -44,7 +44,7 @@ Subrace::
 Pronouns:: she/her
 Alignment:: Neutral
 Class:: Merchant
-Affiliation:: [[Miners' Council]]
+Affiliation:: [[Miners' Council]], Thornton Consortium
 Deity::
 
 

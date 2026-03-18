@@ -10,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T16:13
+updated: 2026-03-19T03:52
 ---
 # Hall of Justice - Temple of Tyr
 
@@ -22,8 +22,8 @@ updated: 2026-03-16T16:13
 > | Type | Temple / Courthouse |
 > | Region | [[Diamond District]], [[Crystal City]] |
 
-Region:: [[Crystal City]]
-Controlled By:: Church of [[Tyr]]
+Region:: [[Diamond District]], [[Crystal City]]
+Controlled By:: Church of [[Tyr]], [[Sir Gareth Ironhand]]
 Status:: Active
 
 ## Description

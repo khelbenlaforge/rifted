@@ -3,10 +3,12 @@ title: Divination Fountain
 aliases:
 tags:
   - location
-  - location/temple
+  - location/room
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-19T03:59
+updated: 2026-03-19T03:59
 ---
 
 # Divination Fountain
