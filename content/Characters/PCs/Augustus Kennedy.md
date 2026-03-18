@@ -2,6 +2,7 @@
 title: Augustus Kennedy
 aliases:
   - Augie
+  - Augustus
 tags:
   - pc
 campaign: Rifted
@@ -9,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-03-17T19:38
+updated: 2026-03-18T20:19
 ---
 
 # Augustus Kennedy
