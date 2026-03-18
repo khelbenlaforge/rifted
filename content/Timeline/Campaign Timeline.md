@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-17T19:26
+updated: 2026-03-18T13:29
 ---
 
 # Campaign Timeline
@@ -124,7 +124,7 @@ The [[Miners' Council]] convened in the [[Council Tent]] with [[Harbin Wester]],
 
 The team split: [[Lea]], [[Ember]], and [[Augustus Kennedy]] went to the [[Hucrele Pavilion]] while [[Jonathan Jordan]] gathered rumors at [[The Stonehill Inn]].
 
-At the Pavilion, [[Talgen Hucrele Sr.]] explained that [[Goblin Merchants]] had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children — [[Sharwyn]] and [[Talgen Hucrele Jr.]] — insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They were expected back in 10 days; 24 days had passed. [[Keldara Hucrele]] produced a half-eaten [[Goblin Fruit]] that remained fresh. [[Ember]] sensed its blood-like quality; [[Lea]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gp per child alive, 200 gp for signet rings if dead, plus a family heirloom.
+At the Pavilion, [[Talgen Hucrele Sr.]] explained that [[Goblin Merchants]] had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children — [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] — insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They were expected back in 10 days; 24 days had passed. [[Keldara Hucrele]] produced a half-eaten [[Goblin Fruit]] that remained fresh. [[Ember]] sensed its blood-like quality; [[Lea]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gp per child alive, 200 gp for signet rings if dead, plus a family heirloom.
 
 ### Preparations
 
@@ -132,7 +132,7 @@ At the Pavilion, [[Talgen Hucrele Sr.]] explained that [[Goblin Merchants]] had 
 
 ---
 
-## Year 222 PA — 12th+ Marpenoth
+## Year 222 PA — 12th–14th Marpenoth
 
 ### Departure South
 
@@ -144,19 +144,31 @@ They traversed 40-60 miles of marsh without incident, emerging into a rocky land
 
 ### Descent into the Sunless Citadel
 
-The party found a crack in the earth that widened into a large ravine. They followed six tracks — four human-sized, two smaller — believed to be [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], [[Karakas]], and two goblin guides. The tracks ended at a piton with a knotted rope descending into a pitch-black ravine surrounded by pillars of ancient ruins.
+The party found a crack in the earth that widened into a large ravine. They followed six tracks — four human-sized, two smaller — believed to be [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], [[Karakas]], and two goblin guides. The tracks ended at a piton with a knotted rope descending into a pitch-black ravine surrounded by pillars of ancient ruins.
 
 The party descended into darkness and discovered the [[Sunless Citadel]] — a vast subterranean fortress far south of [[Sunhold]]. In a courtyard before a ruined tower, they found and avoided a trapdoor, entered the tower, and encountered dead goblins. They heard footsteps behind one door and skittering behind another. [[Lea]]'s Detect Magic revealed necromantic magic emanating from behind a trapped hidden door to the south. The party used Mage Hand to trigger the trap remotely and prepared to venture deeper.
 
-### Death of Karakas
+---
 
-While traveling through the Upper Level of the [[Sunless Citadel]] — moving from Kobold territory toward Goblin territory — the party discovered the body of [[Karakas]]. He had been killed by rats. The Hucrele delegation's ranger never made it back.
+## Year 222 PA — 14th Marpenoth (Session 08)
+
+### Rune of Recall — Gill Rejoins the Party
+
+[[Luks Borg]], reconsidering the party's composition from [[Sunhold]], broke the [[Rune of Recall]] and sent [[Gill Bates]] directly to [[Jonathan Jordan]]'s side in the Collapsed Tower of the [[Sunless Citadel]]. The party was whole for the first time since leaving Sunhold.
+
+### The Kobold Quarter
+
+Navigating the Upper Level, the party found [[Meepo]] — the [[Ordahir Kobolds]]' former wyrmling keeper — in a ruined western chamber, distraught over the loss of [[Calcryx]]. Meepo guided them east to [[Yusdrayl]], the kobold queen, who offered a key to the citadel's deeper southern sections in exchange for retrieving the stolen wyrmling from the [[Durbuluk Goblins]]. The party discerned Yusdrayl's dragon-worship as political performance. She also revealed that the Hucrele delegation had accepted the same task weeks earlier — and had not returned.
+
+### Ragh's Confession
+
+That evening, the party met [[Ragh]] at the kobold western post. After [[Ember]] told him directly that they didn't trust [[Yusdrayl]], and after [[Augustus Kennedy]] tested his patience with a careless remark about [[Calcryx]], Ragh revealed the truth: he had contacted [[Durnn]] — goblin leader, who killed the previous goblin elders to seize power — and secretly orchestrated Calcryx's kidnapping himself, on the condition she be kept safe. He plans to lead an uprising against Yusdrayl within days. He told the party to stay away from Calcryx until the coup concluded; in exchange, he offered a guide to goblin territory to find the Hucrele party.
+
+The party ended the session knowing the shape of the board — caught between two kobold factions, a goblin warlord's secret peace, and a wyrmling no one is asking about as an individual.
 
 ---
 
----
-
-## Year 222 PA — Marpenoth (Session 09)
+## Year 222 PA — 15th Marpenoth (Session 09)
 
 ### Letters in the Prison
 
@@ -185,24 +197,6 @@ The party located a side entrance to [[Durbuluk Goblins]] territory, where guard
 ### Grenl's Accounting
 
 [[Durnn]] was not present. Grenl led the party to the colony's pantry to rest while they waited. In conversation, the party learned that Grenl was the only surviving Durbuluk elder — Durnn had killed the rest to take power, and she had survived by not opposing him. She disapproved of the war with the kobolds and of Durnn's proactive aggression. She kept her opinions private. She had been doing so long enough that the habit was structural.
-
----
-
-## Year 222 PA — Marpenoth (Session 08)
-
-### Rune of Recall — Gill Rejoins the Party
-
-[[Luks Borg]], reconsidering the party's composition from [[Sunhold]], broke the [[Rune of Recall]] and sent [[Gill Bates]] directly to [[Jonathan Jordan]]'s side in the Collapsed Tower of the [[Sunless Citadel]]. The party was whole for the first time since leaving Sunhold.
-
-### The Kobold Quarter
-
-Navigating the Upper Level, the party found [[Meepo]] — the [[Ordahir Kobolds]]' former wyrmling keeper — in a ruined western chamber, distraught over the loss of [[Calcryx]]. Meepo guided them east to [[Yusdrayl]], the kobold queen, who offered a key to the citadel's deeper southern sections in exchange for retrieving the stolen wyrmling from the [[Durbuluk Goblins]]. The party discerned Yusdrayl's dragon-worship as political performance. She also revealed that the Hucrele delegation had accepted the same task weeks earlier — and had not returned.
-
-### Ragh's Confession
-
-That evening, the party met [[Ragh]] at the kobold western post. After [[Ember]] told him directly that they didn't trust [[Yusdrayl]], and after [[Augustus Kennedy]] tested his patience with a careless remark about [[Calcryx]], Ragh revealed the truth: he had contacted [[Durnn]] — goblin leader, who killed the previous goblin elders to seize power — and secretly orchestrated Calcryx's kidnapping himself, on the condition she be kept safe. He plans to lead an uprising against Yusdrayl within days. He told the party to stay away from Calcryx until the coup concluded; in exchange, he offered a guide to goblin territory to find the Hucrele party.
-
-The party ended the session knowing the shape of the board — caught between two kobold factions, a goblin warlord's secret peace, and a wyrmling no one is asking about as an individual.
 
 ---
 
@@ -242,11 +236,11 @@ The Grove Level was lit by bioluminescent violet moss covering the citadel walls
 
 ---
 
-## Year 222 PA — Marpenoth (Session 11)
+## Year 222 PA — 16th Marpenoth (Session 11)
 
 ### Death in the Grove
 
-On the Grove Level of the [[Sunless Citadel]], the party — now joined by [[Gill Bates]], the bugbear [[Balsag]], the gnome acolyte [[Erky]], and a Velvet Vulper called [[Little Sister]] — discovered the body of [[Talgen Hucrele Jr.]] among the violet bioluminescent moss. His death was confirmed. [[Sharwyn]] and [[Sir Braford]] remain missing.
+On the Grove Level of the [[Sunless Citadel]], the party — now joined by [[Gill Bates]], the bugbear [[Balsag]], the gnome acolyte [[Erky]], and a Velvet Vulper called [[Little Sister]] — discovered the body of [[Talgen Hucrele Jr.]] among the violet bioluminescent moss. His death was confirmed. [[Sharwyn Hucrele]] and [[Sir Braford]] remain missing.
 
 ### The Fault Line
 
@@ -280,7 +274,7 @@ Beyond the door, an illusion of [[Ashardalon]] — the ancient dragon whose cult
 
 ---
 
-## Year 222 PA — Marpenoth (Session 12)
+## Year 222 PA — 16th Marpenoth (Session 12)
 
 ### The Sanctum's Selective Reveal
 
@@ -312,7 +306,7 @@ The party took a long rest in the lab. Session ended.
 
 ---
 
-## Year 222 PA — Marpenoth (Session 13 — Prequel Vision)
+## Year 222 PA — 17th Marpenoth (Session 13 — Prequel Vision)
 
 ### The Mural's Touch
 
@@ -364,7 +358,7 @@ The vision ended here. Next session: Shadowdale.
 
 ## Active Threads
 
-- [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
+- [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn Hucrele]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
 - Kobold civil war resolved: [[Yusdrayl]] dead, [[Ragh]] leads [[Ordahir Kobolds]], [[Calcryx]] freed
 - The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
 - Sanctum selective reveal: only the five PCs perceive the true chamber; companions see only the Ashardalon illusion

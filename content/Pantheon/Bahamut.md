@@ -10,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T16:28
-updated: 2026-03-17T21:13
+updated: 2026-03-18T13:18
 ---
 
 # Bahamut
@@ -19,6 +19,7 @@ updated: 2026-03-17T21:13
 > # Bahamut
 > ![[Bahamut Portrait.jpg]]
 > ![[Bahamut Symbol.jpg]]
+> ![[Paladine Humanoid.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

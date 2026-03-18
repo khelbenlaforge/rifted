@@ -1,7 +1,7 @@
 ﻿---
-title: Sharwyn
+title: Sharwyn Hucrele
 aliases:
-  - Sharwyn Hucrele
+  - Sharwyn
 tags:
   - npc
 campaign: Rifted
@@ -9,13 +9,13 @@ introduced: 2025-11-09
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-03-17T22:00
+updated: 2026-03-18T12:57
 ---
 
-# Sharwyn
+# Sharwyn Hucrele
 
 > [!infobox|right wikipedia]+
-> # Sharwyn
+> # Sharwyn Hucrele
 > ![[Sharwyn Portrait.jpg]]
 > ###### Quick Reference
 > | | |

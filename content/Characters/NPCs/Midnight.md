@@ -9,14 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-03-17T21:05
+updated: 2026-03-18T13:18
 ---
 
 # Midnight
 
 > [!infobox|right wikipedia]+
 > # Midnight
-> ![[Midnight Portrait.jpg]]
+> ![[Midnight Version 2.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

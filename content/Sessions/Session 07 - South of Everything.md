@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T00:00
-updated: 2026-03-16T15:35
+updated: 2026-03-18T13:04
 ---
 
 # Session 07 — South of Everything
@@ -57,7 +57,7 @@ The team splits. [[Gill Bates]] is sent to [[Tymora's Shrine]] on the settlement
 
 [[Talgen Hucrele Sr.]] is not what his wife's public grief suggested. He is graying, careful, with calloused hands that don't quite fit the noble's ring on his finger. He explains the family's position: they came to [[Sunhold]] to invest capital and labor, to build something at the frontier. Two family guards, [[Sir Braford]] and [[Sir Gareth Ironhand]], have been supporting settlement security.
 
-Then: two weeks before the disappearance, [[Goblin Merchants]] arrived from the deep south. They brought a magical red fruit — healing, they claimed, beyond ordinary means — and an invitation to visit their stronghold past the marshes. [[Sharwyn]] and [[Talgen Hucrele Jr.]] insisted on going. He sent [[Sir Braford]] and hired [[Karakas]], Sunhold's only woodsman and ranger, to escort them. They were expected back in ten days.
+Then: two weeks before the disappearance, [[Goblin Merchants]] arrived from the deep south. They brought a magical red fruit — healing, they claimed, beyond ordinary means — and an invitation to visit their stronghold past the marshes. [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] insisted on going. He sent [[Sir Braford]] and hired [[Karakas]], Sunhold's only woodsman and ranger, to escort them. They were expected back in ten days.
 
 Twenty-four days have passed.
 
@@ -103,7 +103,7 @@ And the earth begins to crack.
 
 ## Six Sets of Tracks
 
-A fracture in the rock widens into a ravine as the party presses south. At its edge: tracks. Six of them. Four human-sized, two smaller. Best guess: [[Sharwyn]], [[Talgen Hucrele Jr.]], [[Sir Braford]], [[Karakas]], and two goblin guides.
+A fracture in the rock widens into a ravine as the party presses south. At its edge: tracks. Six of them. Four human-sized, two smaller. Best guess: [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], [[Karakas]], and two goblin guides.
 
 The tracks end at a piton driven into stone. Attached: a knotted rope, descending into a pitch-black drop surrounded by pillars of ancient ruins.
 

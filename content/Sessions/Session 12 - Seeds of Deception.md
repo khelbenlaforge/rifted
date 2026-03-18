@@ -8,14 +8,14 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-16T18:09
+updated: 2026-03-18T13:30
 ---
 
 # Session 12 — Seeds of Deception
 
 > [!info] Session Details
 > **Date Played:** March 2026
-> **In-Game Date:** Year 222 PA, Marpenoth (continuous from Session 11)
+> **In-Game Date:** Year 222 PA, 16th Marpenoth (continuous from Session 11)
 > **Location:** [[Sunless Citadel]], Grove Level
 > **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
@@ -186,7 +186,7 @@ The session ended there, in the hum of violet-lit corridors and the smell of cut
 - **The northeast door** — Belak's supply route. What lies beyond it?
 - **The Sanctum's selective reveal** — [[Balsag]], [[Erky]], and [[Little Sister]] saw only the illusion. Only the five from Earth saw the truth. Why?
 - **[[Elmindaria L'Thorian]] on the case** — [[Luks Borg]] has called her in to analyze the Sanctum intel. What will she find?
-- **[[Sharwyn]] and [[Sir Braford]]** — still missing, deeper in the citadel. Still the mission.
+- **[[Sharwyn Hucrele]] and [[Sir Braford]]** — still missing, deeper in the citadel. Still the mission.
 - **PCs at Level 3** — new features, new capabilities, new decisions
 
 

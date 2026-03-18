@@ -8,14 +8,14 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T16:05
-updated: 2026-03-16T16:05
+updated: 2026-03-18T13:30
 ---
 
 # Session 08 — The War Beneath the War
 
 > [!info] Session Details
 > **Date Played:** January 2026
-> **In-Game Date:** Year 222 PA, Marpenoth
+> **In-Game Date:** Year 222 PA, 14th Marpenoth
 > **Location:** [[Sunless Citadel]], Upper Level
 > **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Meepo]]

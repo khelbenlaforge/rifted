@@ -9,14 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-03-17T21:05
+updated: 2026-03-18T12:57
 ---
 
 # Torm the Harper
 
 > [!infobox|right wikipedia]+
 > # Torm the Harper
-> ![[Torm the Harper Portrait.jpg]]
+> ![[Torm the Harper.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

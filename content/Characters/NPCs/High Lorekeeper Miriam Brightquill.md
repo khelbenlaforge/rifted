@@ -9,17 +9,18 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-03-18T12:45
 ---
 
 # High Lorekeeper Miriam Brightquill
 
 > [!infobox|right wikipedia]+
 > # High Lorekeeper Miriam Brightquill
+> ![[Miriam Brightquill (Halfling).png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Unknown |
+> | Race | Halfling |
 > | Class | Scholar / Divine Identifier |
 > | Location | [[Oghma's Temple — the Endless Library]] |
 > | Affiliation | [[Adamantine Guild]] |
@@ -43,7 +44,7 @@ Her assessments placed [[Lea]] under the tutelage of [[Elmindaria L'Thorian]] at
 ---
 ## Tags
 Location:: [[Oghma's Temple — the Endless Library]]
-Race:: Unknown
+Race:: Halfling
 Subrace::
 Pronouns::
 Class:: Scholar

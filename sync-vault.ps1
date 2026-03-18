@@ -48,3 +48,24 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
 }
 
 Write-Host "Done. Copied: $copied  |  Skipped (secret): $skipped" -ForegroundColor Green
+
+# Copy images from zzz_Attachments to content/zzz_Attachments
+$AttachmentsSource = "C:\Users\eugen\Dropbox\PKM\World Building\zzz_Attachments"
+$AttachmentsDest   = Join-Path $ContentPath "zzz_Attachments"
+
+if (-not (Test-Path $AttachmentsDest)) {
+    New-Item -ItemType Directory -Path $AttachmentsDest -Force | Out-Null
+}
+
+$imageExtensions = @('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg')
+$imgCopied = 0
+
+Get-ChildItem -Path $AttachmentsSource -File | Where-Object {
+    $imageExtensions -contains $_.Extension.ToLower()
+} | ForEach-Object {
+    $destFile = Join-Path $AttachmentsDest $_.Name
+    Copy-Item -Path $_.FullName -Destination $destFile -Force
+    $imgCopied++
+}
+
+Write-Host "Images copied: $imgCopied" -ForegroundColor Green

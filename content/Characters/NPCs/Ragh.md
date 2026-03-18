@@ -8,13 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-03-16T20:11
+updated: 2026-03-18T12:57
 ---
 
 # Ragh
 
 > [!infobox|right wikipedia]+
 > # Ragh
+> ![[Ragh.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -22,7 +23,7 @@ updated: 2026-03-16T20:11
 > | Class | Fighter |
 > | Location | [[Sunless Citadel]] |
 > | Affiliation | [[Ordahir Kobolds]] |
-> | Deity | [[Bahamut]] |
+> | Deity | — |
 
 Race:: Kobold
 Subrace::
@@ -30,7 +31,7 @@ Pronouns:: he/him
 Class:: Fighter
 Location:: [[Sunless Citadel]]
 Affiliation:: [[Ordahir Kobolds]]
-Deity:: [[Bahamut]]
+Deity::
 
 ## Appearance
 

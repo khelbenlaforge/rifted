@@ -10,13 +10,14 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-16T20:11
+updated: 2026-03-18T13:04
 ---
 
 # Talgen Hucrele Sr.
 
 > [!infobox|right wikipedia]+
 > # Talgen Hucrele Sr.
+> ![[Talgen SR.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -31,13 +32,13 @@ Talgen Hucrele Sr. is a graying human patriarch whose practical noble attire and
 ## Background
 Talgen relocated with his wife [[Keldara Hucrele]] and their children from [[Crystal]] to [[Sunhold]], investing both capital and labour into the frontier settlement's growth. He employs two family guards -- [[Sir Braford]] and [[Sir Garth]] -- to protect his household and support the settlement's security.
 
-When [[Goblin Merchants]] arrived in [[Sunhold]] two weeks prior, offering a magical healing fruit and an invitation to visit their stronghold beyond the marshes, Talgen's children [[Sharwyn]] and [[Talgen Hucrele Jr.]] were eager to go. Though initially hesitant, he consented and sent [[Sir Braford]] along with [[Karakas]], the settlement's sole woodsman, as escorts. The delegation was expected to return within ten days.
+When [[Goblin Merchants]] arrived in [[Sunhold]] two weeks prior, offering a magical healing fruit and an invitation to visit their stronghold beyond the marshes, Talgen's children [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] were eager to go. Though initially hesitant, he consented and sent [[Sir Braford]] along with [[Karakas]], the settlement's sole woodsman, as escorts. The delegation was expected to return within ten days.
 
 After twenty-four days of silence, Talgen offered a reward at the [[Hucrele Pavilion]] meeting: 500 gold pieces for each child returned alive, 200 gold for their signet rings if found dead, and a family heirloom as further incentive. His determination to see his children home safely has become the driving force behind the settlement's response to the crisis.
 
 ## Relationships
 - Husband of [[Keldara Hucrele]]
-- Father of [[Sharwyn]] and [[Talgen Hucrele Jr.]], both missing
+- Father of [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]], both missing
 - Employer of [[Sir Braford]] (missing) and [[Sir Garth]]
 - Hired [[Karakas]] to guide the delegation
 - Engaged with [[Harbin Wester]] and the [[Adamantine Guild]] during the crisis
