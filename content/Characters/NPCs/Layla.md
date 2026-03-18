@@ -6,9 +6,9 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state: alive
+state: missing
 created: 2026-03-16T04:22
-updated: 2026-03-18T12:45
+updated: 2026-03-19T03:14
 ---
 
 # Layla
@@ -21,7 +21,7 @@ updated: 2026-03-18T12:45
 > | ---- | --- |
 > | Race | Tiefling |
 > | Class | Mage / Researcher |
-> | Location | [[Jade Spire]], [[Crystal City]] |
+> | Location | Unknown |
 > | Affiliation | [[Corranor Council]] |
 
 ## Description
@@ -39,7 +39,7 @@ The full truth of what happened remains unclear, and Layla's role in the summoni
 
 ---
 ## Tags
-Location:: [[Jade Spire]], [[Crystal City]]
+Location:: Unknown
 Race:: Tiefling
 Subrace::
 Pronouns::

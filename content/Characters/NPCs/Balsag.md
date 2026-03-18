@@ -20,14 +20,14 @@ updated: 2026-03-17T22:00
 > | | |
 > | ---- | --- |
 > | Race | Bugbear |
-> | Class | Hunter |
+> | Class | — |
 > | Location | [[Sunless Citadel]] (with party) |
 > | Affiliation | Party companion |
 
 Race:: Bugbear
 Subrace::
 Pronouns:: he/him
-Class:: Hunter
+Class::
 Location:: [[Sunless Citadel]]
 Affiliation::
 Deity::

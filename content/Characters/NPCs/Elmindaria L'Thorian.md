@@ -23,7 +23,7 @@ updated: 2026-03-17T19:38
 > | ---- | --- |
 > | Race | Elf |
 > | Class | Wizard |
-> | Location | [[Crystal City]] |
+> | Location | [[Citrine District]], [[Crystal City]] |
 > | Affiliation | [[Adamantine Guild]], [[Ether Scryer's Academy]] |
 
 ## Description
@@ -50,7 +50,7 @@ With the [[Adamantine Guild]] severely understaffed -- only herself, [[Istar Sil
 
 ---
 ## Tags
-Location:: [[Crystal City]]
+Location:: [[Citrine District]], [[Crystal City]]
 Race:: Elf
 Subrace::
 Pronouns:: she/her

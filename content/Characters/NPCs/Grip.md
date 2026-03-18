@@ -1,5 +1,5 @@
 ﻿---
-title: "Grip"
+title: Grip
 aliases:
 tags:
   - npc
@@ -7,6 +7,8 @@ campaign: Rifted
 introduced:
 secret: false
 state: alive
+created: 2026-03-19T03:57
+updated: 2026-03-19T03:57
 ---
 
 # Grip
@@ -34,7 +36,7 @@ One of two giant rats kept by [[Balsag]] as hunting companions. When plant creat
 
 ## Role in the Story
 
-Fought alongside the party in the Lab Battle (Session 12) against a vine serpent and twig blight swarm in [[Durnn's Research Lab]]. Currently resting there with the rest of the company.
+Fought alongside the party in the Lab Battle (Session 12) against a [[Blightsnake]] and twig blight swarm in [[Durnn's Research Lab]]. Currently resting there with the rest of the company.
 
 ---
 Race:: Giant Rat

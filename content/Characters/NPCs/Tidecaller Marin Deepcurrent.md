@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-17T19:38
+updated: 2026-03-19T03:52
 ---
 
 # Tidecaller Marin Deepcurrent
@@ -23,7 +23,7 @@ updated: 2026-03-17T19:38
 > | ---- | --- |
 > | Race | Water Genasi |
 > | Class | Cleric (Arcana Domain) |
-> | Location | Diamond District, [[Crystal]] |
+> | Location | [[Tidecaller's Sanctuary]], [[Diamond District]], [[Crystal City]] |
 > | Affiliation | Church of [[Istishia]] |
 
 ## Description
@@ -41,7 +41,7 @@ He recognised [[Gill Bates]] as a kindred spirit the moment he saw the young fis
 
 ---
 ## Tags
-Location:: [[Crystal]]
+Location:: [[Tidecaller's Sanctuary]], [[Diamond District]], [[Crystal City]]
 Race:: Water Genasi
 Subrace::
 Pronouns:: he/him

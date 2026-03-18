@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-16T20:11
+updated: 2026-03-19T03:52
 ---
 # Tidecaller's Sanctuary
 
@@ -22,7 +22,7 @@ updated: 2026-03-16T20:11
 > | Region | [[Diamond District]], [[Crystal City]] |
 
 Region:: [[Diamond District]], [[Crystal City]]
-Controlled By:: [[Tidecaller Marin Deepcurrent]]
+Controlled By:: Church of [[Istishia]], [[Tidecaller Marin Deepcurrent]]
 Status:: Active
 
 ## Description

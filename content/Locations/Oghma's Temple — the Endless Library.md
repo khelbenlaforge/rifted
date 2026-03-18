@@ -10,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-16T16:13
+updated: 2026-03-19T03:52
 ---
 # Oghma's Temple — the Endless Library
 
@@ -22,8 +22,8 @@ updated: 2026-03-16T16:13
 > | Type | Temple / Library |
 > | Region | [[Diamond District]], [[Crystal City]] |
 
-Region:: [[Crystal City]]
-Controlled By:: [[High Lorekeeper Miriam Brightquill]]
+Region:: [[Diamond District]], [[Crystal City]]
+Controlled By:: Church of [[Oghma]], [[High Lorekeeper Miriam Brightquill]]
 Status:: Active
 
 ## Description
