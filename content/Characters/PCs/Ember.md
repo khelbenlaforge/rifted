@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-17T19:38
+updated: 2026-03-19T21:29
 ---
 
 # Ember
@@ -19,8 +19,8 @@ updated: 2026-03-17T19:38
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Tiefling (Erinyes heritage) |
-> | Class | Druid / Ranger |
+> | Race | Tiefling (Winged) |
+> | Class | Druid (Circle of the Moon) |
 > | Deity | [[Mielikki]] |
 > | Mentor | [[Sylvara Oakwhisper]] |
 
@@ -61,6 +61,69 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 - **[[Sylvara Oakwhisper]]** -- Ranger mentor at [[Mielikki]]'s Grove; teaches the balance of wild and civilised
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified her druidic essence; unwitting victim of the Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
+
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 3 |
+| **Class** | Druid (Circle of the Moon) |
+| **Race** | Tiefling (Variant; Winged) |
+| **Background** | Guide |
+| **HP (Max)** | 22 |
+| **AC** | 16 |
+| **Speed** | 30 ft. (walk), 30 ft. (fly) |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7 (−2) | 16 (+3) | 12 (+1) | 12 (+1) | 18 (+4) | 11 (+0) |
+
+### Saving Throws
+
+Intelligence +3 · Wisdom +6
+
+### Skills
+
+Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
+
+### Class Features
+
+- **Druidic** — secret language known only to druids
+- **Primal Order: Magician** — Arcana proficiency; add WIS to Arcana checks; one extra druid cantrip
+- **Wild Shape** (2/rest) — transform into a beast of CR 1 or lower (Circle of the Moon)
+- **Wild Companion** — expend a Wild Shape charge to cast Find Familiar
+- **Circle Forms** — Wild Shape into beasts up to CR 1; no swim/fly speed restriction
+
+### Race Features
+
+- **Darkvision** — 60 ft.
+- **Hellish Resistance** — resistance to fire damage
+- **Winged** — fly speed 30 ft.; cannot wear armor with back slots while flying
+
+### Spellcasting
+
+**Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
+
+**Spell Slots:** 1st ×4 · 2nd ×2
+
+**Spells:**
+- *Cantrips:* Druidcraft, Guidance, Primal Savagery, Starry Wisp, Thorn Whip
+- *1st:* Absorb Elements, Animal Friendship, Beast Bond, Charm Person, Create or Destroy Water, Cure Wounds, Detect Magic, Detect Poison and Disease, Earth Tremor, Entangle, Faerie Fire, Find Familiar, Fog Cloud, Goodberry, Healing Word, Ice Knife, Jump, Longstrider, Protection from Evil and Good, Purify Food and Drink, Snare, Speak with Animals, Thunderwave
+- *2nd:* Aid, Air Bubble, Animal Messenger, Augury, Barkskin, Beast Sense, Continual Flame, Darkvision, Dust Devil, Earthbind, Enhance Ability, Enlarge/Reduce, Find Traps, Flame Blade, Flaming Sphere, Gust of Wind, Healing Spirit, Heat Metal, Hold Person, Lesser Restoration, Locate Animals or Plants, Locate Object, Moonbeam\*, Pass without Trace, Protection from Poison, Skywrite, Spike Growth, Summon Beast, Warding Wind, Wither and Bloom
+
+\* *Always prepared via Circle of the Moon*
+
+### Inventory
+
+**Weapons (equipped):** Sickle, Shortbow, Arrows ×20
+**Armor (equipped):** Leather Armor, Shield
+**Magic Items:** Guild Bracers, Guild Brass Armlet
+**Consumables:** Potions of Healing ×2, Oil ×2, Rations ×10, Torches ×10
+**Tools:** Herbalism Kit, Cartographer's Tools
+**Gear:** Druidic Focus, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Quiver, Tent, Traveler's Clothes
 
 ---
 Race:: Tiefling

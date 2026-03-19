@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-18T20:39
+updated: 2026-03-19T21:38
 ---
 
 # Jonathan Jordan
@@ -21,7 +21,7 @@ updated: 2026-03-18T20:39
 > | | |
 > | ---- | --- |
 > | Race | Human |
-> | Class | Rogue |
+> | Class | Rogue (Soulknife) |
 > | Deity | -- |
 > | Mentor | [[Istar Silverlock]] |
 
@@ -64,7 +64,64 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - **[[Adamantine Guild]]** -- Member and apprentice; currently assigned to the [[Sunhold]] outpost
 - **[[Torm the Harper]]** -- Knight of Myth Drannor whose body JJ inhabited during the Session 13 Sanctum vision; whether this connection runs deeper remains an open question
 - **[[Michael C Jordan]]** — His rat from Earth. Followed him through the rift. Wears a tiny rogue outfit. Obeys orders. Somehow this is fine.
-- Has a **daughter** residing in [[Crystal City]]
+
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 3 |
+| **Class** | Rogue (Soulknife) |
+| **Race** | Human |
+| **Background** | Urchin |
+| **HP (Max)** | 20 |
+| **AC** | 14 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (−1) | 16 (+3) | 12 (+1) | 7 (−2) | 16 (+3) | 15 (+2) |
+
+### Saving Throws
+
+Dexterity +5 · Intelligence +0
+
+### Skills
+
+Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Persuasion +6★ · Sleight of Hand +5 · Stealth +5
+
+★ *Expertise (doubled proficiency)*
+
+### Class Features
+
+- **Expertise** — doubled proficiency in Perception and Persuasion
+- **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally adjacent to the target
+- **Thieves' Cant** — secret rogue language
+- **Weapon Mastery** — apply mastery property to 2 weapons per turn
+- **Cunning Action** — bonus action to Dash, Disengage, or Hide
+- **Steady Aim** — bonus action to gain advantage on next attack (can't move that turn)
+- **Psionic Energy Die** (d6, 2/rest): fuels Soulknife powers
+- **Psi-Bolstered Knack** — add Psionic Energy Die to a failed ability check (once expended)
+- **Psychic Whispers** — spend a die to establish telepathic link with up to 5 creatures for 1 hr
+- **Psychic Blades** — bonus action to manifest spectral daggers (1d6+DEX psychic; second blade 1d4)
+- **Feats:** Tavern Brawler, Crafter
+
+### Spells
+
+JJ has no spellcasting class feature. The following come from items:
+- *Hunter's Mark* (1st) — via item
+- *Animate Dead* (3rd) — via Night Caller
+
+### Inventory
+
+**Weapons (equipped):** Dagger ×4, Shortsword, Scimitar, Shortbow, Arrows ×20
+**Armor (equipped):** Leather Armor
+**Magic Items:** Night Caller, Guild Brass Armlet
+**Consumables:** Potions of Healing ×2, Candles ×10, Oil ×7, Rations ×5
+**Tools:** Thieves' Tools
+**Gear:** Backpack, Ball Bearings, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Quiver, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse Token
 
 ---
 Race:: Human

@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-17T19:38
+updated: 2026-03-19T21:32
 ---
 
 # Lea
@@ -19,8 +19,8 @@ updated: 2026-03-17T19:38
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Humanoid (partially changed) |
-> | Class | Wizard |
+> | Race | Elf (High Elf) |
+> | Class | Wizard (Chronurgy Magic) |
 > | Deity | -- |
 > | Mentor | [[Elmindaria L'Thorian]] |
 
@@ -64,6 +64,74 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
 - **[[Midnight]]** -- Avatar Series wizard whose body Lea inhabited during the Session 13 Sanctum vision; connection to her crossing vision (*"Midnight. ke-le."*) remains unexplained
+
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 3 |
+| **Class** | Wizard (Chronurgy Magic) |
+| **Race** | Elf (High Elf) |
+| **Background** | Orzhov Representative |
+| **HP (Max)** | 19 |
+| **AC** | 11 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (−1) | 13 (+1) | 13 (+1) | 17 (+3) | 15 (+2) | 15 (+2) |
+
+### Saving Throws
+
+Intelligence +5 · Wisdom +4
+
+### Skills
+
+Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +5
+
+★ *Expertise (doubled proficiency)*
+
+### Class Features
+
+- **Ritual Adept** — cast any spell in spellbook as a ritual without preparing it
+- **Arcane Recovery** — 1×/day (short rest), recover spell slots totalling up to 2 levels combined
+- **Scholar** — proficiency in two additional skills
+- **Feat: Skilled** — proficiency in three additional skills
+
+### Subclass Features (Chronurgy Magic)
+
+- **Chronal Shift** — 2×/day reaction; force a creature (including yourself) to reroll an attack, save, or check; you choose which roll to use
+- **Temporal Awareness** — add INT modifier (+3) to Initiative rolls
+
+### Race Features
+
+- **Darkvision** — 60 ft.
+- **Fey Ancestry** — advantage on saves vs. Charmed; can't be magically put to sleep
+- **Keen Senses** — proficiency in Perception
+- **Trance** — 4 hours trance replaces 8 hours sleep
+- **High Elf Lineage** — one extra wizard cantrip; proficiency in longsword, shortsword, shortbow, and longbow
+
+### Spellcasting
+
+**Ability:** Intelligence | **Save DC:** 13 | **Attack Bonus:** +5
+
+**Spell Slots:** 1st ×4 · 2nd ×2
+
+**Spells:**
+- *Cantrips:* Fire Bolt, Mage Hand, Mending, Prestidigitation
+- *1st:* Chromatic Orb, Command, Comprehend Languages, Detect Magic, Identify, Magic Missile, Shield, Silvery Barbs, Sleep, Unseen Servant
+- *2nd:* Alter Self, Knock
+
+### Inventory
+
+**Weapons (equipped):** Dagger ×2, Quarterstaff
+**Armor (equipped):** Robe (no armor)
+**Magic Items:** Guild Brass Armlet
+**Consumables:** Potions of Healing ×2, Ink, Oil ×10
+**Gear:** Backpack, Book, Ink Pen, Lamp, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments
 
 ---
 Race:: Humanoid (partially changed)
