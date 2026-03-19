@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /home/user/rifted && git fetch origin && git checkout claude/mobile-testing-nG10E && git pull origin claude/mobile-testing-nG10E && git status",
+            "statusMessage": "Syncing mobile-testing branch...",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
