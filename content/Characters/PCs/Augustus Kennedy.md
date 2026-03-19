@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-03-18T20:19
+updated: 2026-03-19T21:38
 ---
 
 # Augustus Kennedy
@@ -22,7 +22,7 @@ updated: 2026-03-18T20:19
 > | | |
 > | ---- | --- |
 > | Race | Half-Warforged |
-> | Class | Paladin |
+> | Class | Paladin (Oath of Glory) |
 > | Deity | [[Tyr]] (considering [[Helm]], [[Torm]]) |
 > | Mentor | [[Sir Gareth Ironhand]] / [[Luks Borg]] |
 
@@ -68,8 +68,69 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine essence; target of the memorable Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently staffing the [[Sunhold]] outpost
 
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 3 |
+| **Class** | Paladin (Oath of Glory) |
+| **Race** | Warforged |
+| **Background** | Guard |
+| **HP (Max)** | 27 |
+| **AC** | 20 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 8 (−1) | 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) |
+
+### Saving Throws
+
+Wisdom +4 · Charisma +5
+
+### Skills
+
+Athletics +6 · Insight +4 · Intimidation +5 · Perception +4 · Persuasion +5
+
+### Class Features
+
+- **Lay on Hands** — 15 HP pool; restore HP or cure one disease/poison per use
+- **Divine Sense** — 4×/day; detect celestials, fiends, and undead within 60 ft.
+- **Fighting Style: Defense** — +1 AC while wearing armor
+- **Divine Smite** — expend a spell slot on a melee hit for 2d8 radiant damage (+1d8 per slot level above 1st)
+- **Weapon Mastery** — apply mastery property to 2 weapons per turn
+- **Channel Divinity** (1/rest): *Inspiring Smite* (distribute temp HP after Divine Smite) · *Peerless Athlete* (advantage on STR/DEX checks, ×2 jump distance)
+- **Oath of Glory Spells** (always prepared): Guiding Bolt, Heroism
+
+### Race Features
+
+- **Constructed Resilience** — resistance to poison; advantage vs. poison saves; no need to eat, drink, or breathe; immune to disease; no resting exhaustion penalty
+- **Sentry's Rest** — 6 hours inactive replaces sleep; remain semiconscious
+- **Integrated Protection** — +1 to AC
+- **Specialized Design** — proficiency in one extra skill and one tool
+
+### Spellcasting
+
+**Ability:** Charisma | **Save DC:** 13 | **Attack Bonus:** +5
+
+**Spell Slots:** 1st ×3
+
+**Spells:**
+- *1st:* Bless, Ceremony, Command, Compelled Duel, Cure Wounds, Detect Evil and Good, Detect Magic, Detect Poison and Disease, Divine Favor, Divine Smite, Protection from Evil and Good, Purify Food and Drink, Searing Smite, Shield of Faith, Thunderous Smite, Wardaway, Wrathful Smite
+
+### Inventory
+
+**Weapons (equipped):** Longsword, Spear ×2, Javelin ×6, Light Crossbow, Bolts ×20
+**Armor (equipped):** Chain Mail, Shield
+**Magic Items:** [[Toothpick]] *(requires attunement)*, Guild Brass Armlet, Mysterious Potion
+**Consumables:** Potion of Healing, Holy Water, Rations ×7
+**Gear:** Holy Symbol, Backpack, Blanket, Lamp, Hooded Lantern, Tinderbox, Manacles, Quiver, Robe, Traveler's Clothes, Gaming Set
+
 ---
-Race:: Half-Warforged
+Race:: Warforged
 Subrace::
 Class:: Paladin
 Player::

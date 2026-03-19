@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-17T19:38
+updated: 2026-03-19T21:39
 ---
 
 # Gill Bates
@@ -20,7 +20,7 @@ updated: 2026-03-17T19:38
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Humanoid (partially changed) |
+> | Race | Human |
 > | Class | Cleric (Arcana Domain) |
 > | Deity | [[Istishia]] |
 > | Mentor | [[Tidecaller Marin Deepcurrent]] |
@@ -64,10 +64,63 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - **[[Adamantine Guild]]** -- Sworn member; stationed at the [[Sunhold]] outpost
 - **[[Adon]]** -- Cleric of Sune whose body Gill inhabited during the Session 13 Sanctum vision
 
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 3 |
+| **Class** | Cleric (Arcana Domain) |
+| **Race** | Human |
+| **Background** | Fisher |
+| **HP (Max)** | 33 |
+| **AC** | 17 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (−1) | 14 (+2) | 14 (+2) | 12 (+1) | 17 (+3) | 10 (+0) |
+
+### Saving Throws
+
+Wisdom +5 · Charisma +2
+
+### Skills
+
+History +3 · Insight +5 · Medicine +5 · Religion +6 · Survival +5
+
+### Class Features
+
+- **Divine Order: Thaumaturge** — proficiency in Arcana and Religion; add WIS to Arcana and Religion checks
+- **Arcana Domain** — subclass not yet configured in Foundry; features pending
+- **Channel Divinity** (1/rest): *Divine Spark* (2d8 healing or necrotic/radiant damage, WIS-based) · *Turn Undead*
+- **Feat: Tough** — +2 HP per character level
+
+### Spellcasting
+
+**Ability:** Wisdom | **Save DC:** 13 | **Attack Bonus:** +5
+
+**Spell Slots:** 1st ×4 · 2nd ×2
+
+**Spells:**
+- *Cantrips:* Resistance, Sword Burst, Thaumaturgy, Toll the Dead, True Strike
+- *1st:* Bane, Bless, Ceremony, Command, Create or Destroy Water, Cure Wounds, Detect Evil and Good, Detect Magic, Detect Poison and Disease, Fog Cloud, Guiding Bolt, Healing Word, Inflict Wounds, Protection from Evil and Good, Purify Food and Drink, Sanctuary, Shield of Faith, Wardaway
+- *2nd:* Aid, Augury, Blindness/Deafness, Borrowed Knowledge, Calm Emotions, Continual Flame, Deryan's Helpful Homunculi, Enhance Ability, Find Traps, Gentle Repose, Hold Person
+
+### Inventory
+
+**Weapons (equipped):** Mace, Net
+**Armor (equipped):** Chain Shirt, Shield
+**Magic Items:** Guild Brass Armlet, Potions of Fire Resistance ×2
+**Consumables:** Potions of Healing ×2, Holy Water, Rations ×7
+**Gear:** Holy Symbol, Backpack, Blanket, Lamp, Tinderbox, Fishing Tackle, Favorite Fishing Lure, Robe, Traveler's Clothes, Pouch
+
 ---
 Race:: Humanoid (partially changed)
 Subrace::
-Class:: Cleric (Arcana Domain)
+Class:: Cleric
 Player::
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
