@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-19T21:38
+updated: 2026-03-20T22:26
 ---
 
 # Jonathan Jordan
@@ -88,40 +88,78 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 
 Dexterity +5 · Intelligence +0
 
+### Resistances & Vulnerabilities
+
+None.
+
 ### Skills
 
 Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Persuasion +6★ · Sleight of Hand +5 · Stealth +5
 
 ★ *Expertise (doubled proficiency)*
 
-### Class Features
+**Languages:** Common
+**Tools:** Thieves' Tools
 
-- **Expertise** — doubled proficiency in Perception and Persuasion
-- **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally adjacent to the target
-- **Thieves' Cant** — secret rogue language
-- **Weapon Mastery** — apply mastery property to 2 weapons per turn
-- **Cunning Action** — bonus action to Dash, Disengage, or Hide
-- **Steady Aim** — bonus action to gain advantage on next attack (can't move that turn)
-- **Psionic Energy Die** (d6, 2/rest): fuels Soulknife powers
-- **Psi-Bolstered Knack** — add Psionic Energy Die to a failed ability check (once expended)
-- **Psychic Whispers** — spend a die to establish telepathic link with up to 5 creatures for 1 hr
-- **Psychic Blades** — bonus action to manifest spectral daggers (1d6+DEX psychic; second blade 1d4)
-- **Feats:** Tavern Brawler, Crafter
+---
 
-### Spells
+### Actions
 
-JJ has no spellcasting class feature. The following come from items:
-- *Hunter's Mark* (1st) — via item
-- *Animate Dead* (3rd) — via Night Caller
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Dagger** *(Nick)* | M/R +5 | 5 ft. / 20/60 ft. | 1d4+3 pierce | — | — | — |
+| **Shortsword** *(Vex)* | M +5 | 5 ft. | 1d6+3 pierce | — | — | — |
+| **Scimitar** *(Nick)* | M +5 | 5 ft. | 1d6+3 slash | — | — | — |
+| **Shortbow** *(Vex)* | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
+| **Psychic Blade** *(Vex†)* | M/R +5 | 5 ft. / 60 ft. | 1d6+3 psychic | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1d4−1 bludgeon | — | — | — |
+| **Ball Bearings** | DEX 10 | 10 ft. sq. | Scatter; DEX save or prone when moving through | — | — | 1 use |
+| **Psychic Whispers** | — | 30 ft. | Telepathic link ≤2 creatures; die-value hrs | — | — | 1 PED |
+
+*† Psychic Blade: Vex is free — doesn't count against the Weapon Mastery limit.*
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
+| **Steady Aim** | — | Self | Adv. on next atk; can't move this turn | — | — | — |
+| **Psychic Blade (2nd)** | M/R +5 | 5 ft. / 60 ft. | 1d4+3 psychic; only if no other weapons used | — | — | — |
+
+### Reactions
+
+*None at this level.*
+
+---
+
+### Features
+
+- **Expertise** — Perception and Persuasion at double proficiency (★ in Skills).
+- **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally is adjacent to the target.
+- **Thieves' Cant** — Secret rogue language and cipher.
+- **Weapon Mastery** — Apply mastery to 2 weapons per turn; properties shown in action table. Psychic Blade Vex is always free.
+- **Psionic Energy Die** (d6, 2/SR) — Fuels Soulknife abilities.
+- **Psi-Bolstered Knack** — When you fail a proficient ability check, roll PED and add it; die not expended if check still fails.
+- **Tavern Brawler** — Proficient with improvised weapons; unarmed strikes use d4.
+- **Crafter** — Proficiency with 3 Artisan's Tools; craft items at 50% cost; 20% discount at shops.
+
+---
+
+### Spellcasting
+
+*No class spellcasting. The following are item-granted:*
+
+- **Animate Dead** (Night Caller, 3rd) — 1 min cast, 10 ft. — Animate a corpse as skeleton or zombie; obeys commands for 24 hrs. Night Caller recharges at dawn.
+
+---
 
 ### Inventory
 
-**Weapons (equipped):** Dagger ×4, Shortsword, Scimitar, Shortbow, Arrows ×20
 **Armor (equipped):** Leather Armor
 **Magic Items:** Night Caller, Guild Brass Armlet
-**Consumables:** Potions of Healing ×2, Candles ×10, Oil ×7, Rations ×5
 **Tools:** Thieves' Tools
-**Gear:** Backpack, Ball Bearings, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Quiver, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse Token
+**Gear:** Quiver, Arrows ×20, Backpack, Ball Bearings, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token, Rations ×5, Candles ×10, Oil ×7
 
 ---
 Race:: Human

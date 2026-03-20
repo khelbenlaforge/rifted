@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-19T21:32
+updated: 2026-03-20T22:47
 ---
 
 # Lea
@@ -72,11 +72,12 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 | **Level** | 3 |
 | **Class** | Wizard (Chronurgy Magic) |
 | **Race** | Elf (High Elf) |
-| **Background** | Orzhov Representative |
+| **Background** | Crazy Rich Scion |
 | **HP (Max)** | 19 |
 | **AC** | 11 |
 | **Speed** | 30 ft. |
 | **Proficiency Bonus** | +2 |
+| **Vision** | Darkvision 60 ft. |
 
 ### Ability Scores
 
@@ -88,31 +89,74 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 Intelligence +5 · Wisdom +4
 
+### Resistances & Vulnerabilities
+
+None.
+
 ### Skills
 
 Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +5
 
 ★ *Expertise (doubled proficiency)*
 
-### Class Features
+**Languages:** Common · Elvish
+**Tools:** None
 
-- **Ritual Adept** — cast any spell in spellbook as a ritual without preparing it
-- **Arcane Recovery** — 1×/day (short rest), recover spell slots totalling up to 2 levels combined
-- **Scholar** — proficiency in two additional skills
-- **Feat: Skilled** — proficiency in three additional skills
+---
 
-### Subclass Features (Chronurgy Magic)
+### Actions
 
-- **Chronal Shift** — 2×/day reaction; force a creature (including yourself) to reroll an attack, save, or check; you choose which roll to use
-- **Temporal Awareness** — add INT modifier (+3) to Initiative rolls
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Dagger** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
+| **Quarterstaff** | M +1 | 5 ft. | 1d6−1 bludgeon (versatile 1d8−1) | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
+| **Fire Bolt** | R +5 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
+| **Mage Hand** | — | 30 ft. | Spectral hand; move/carry ≤10 lb. | Cantrip | V, S | — |
+| **Prestidigitation** | — | 10 ft. | Minor magical trick | Cantrip | V, S | — |
+| **Chromatic Orb** | R +5 | 90 ft. | 3d8 [chosen energy] | 1st | V, S, M† | — |
+| **Command** | WIS 13 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
+| **Comprehend Languages** | — | Self | Understand spoken/written language; 1 hr | 1st | V, S, M (soot+salt) | Ritual |
+| **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
+| **Identify** | — | Touch | Learn item properties or spell affecting target | 1st | V, S, M† | Ritual |
+| **Magic Missile** | — | 120 ft. | 3 darts × 1d4+1 force (auto-hit) | 1st | V, S | — |
+| **Sleep** | WIS 13 | 60 ft. | Unconscious ≤5d8 HP creatures; 1 min | 1st | V, S, M (sand) | Conc. |
+| **Unseen Servant** | — | 60 ft. | Invisible mindless servant; 1 hr | 1st | V, S, M (string+wood) | Ritual |
+| **Alter Self** | — | Self | Aquatic/nat wpns/appearance change; 1 hr | 2nd | V, S | Conc. |
+| **Knock** | — | 60 ft. | Unlock/open object; bang audible 300 ft. | 2nd | V | — |
 
-### Race Features
+*† Chromatic Orb: M = diamond worth 50+ gp*
+*† Identify: M = pearl worth 100+ gp*
 
-- **Darkvision** — 60 ft.
-- **Fey Ancestry** — advantage on saves vs. Charmed; can't be magically put to sleep
-- **Keen Senses** — proficiency in Perception
-- **Trance** — 4 hours trance replaces 8 hours sleep
-- **High Elf Lineage** — one extra wizard cantrip; proficiency in longsword, shortsword, shortbow, and longbow
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Shield** | — | Self | +5 AC until start of next turn; trigger: being hit or targeted by Magic Missile | 1st | V, S | — |
+| **Silvery Barbs** | — | 60 ft. | Force reroll atk/check/save; on fail, grant adv. to one creature within 60 ft. | 1st | V | — |
+| **Chronal Shift** | — | 60 ft. | Force reroll atk/check/save; must use new roll | — | — | 2×/LR |
+
+---
+
+### Features
+
+- **Arcane Recovery** — 1×/day after SR, recover spell slots totalling ≤2 levels (no slot above 5th).
+- **Ritual Adept** — Cast any spell in your spellbook as a ritual without preparing it.
+- **Scholar** — Proficiency in two additional skills.
+- **Skilled** — Proficiency in three additional skills.
+- **Temporal Awareness** — Add INT modifier (+3) to Initiative rolls.
+- **Fey Ancestry** — Advantage on saves vs. Charmed; immune to magical sleep.
+- **Trance** — 4 hours of trance replaces 8 hours sleep for a long rest.
+- **High Elf Lineage** — One extra wizard cantrip; proficiency in longsword, shortsword, shortbow, longbow.
+- **Keen Senses** — Proficiency in Perception.
+
+---
 
 ### Spellcasting
 
@@ -120,21 +164,25 @@ Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4
 
 **Spell Slots:** 1st ×4 · 2nd ×2
 
-**Spells:**
-- *Cantrips:* Fire Bolt, Mage Hand, Mending, Prestidigitation
-- *1st:* Chromatic Orb, Command, Comprehend Languages, Detect Magic, Identify, Magic Missile, Shield, Silvery Barbs, Sleep, Unseen Servant
-- *2nd:* Alter Self, Knock
+#### Ritual Spells
+
+- *Comprehend Languages* (1st) — 10 min cast — Understand any spoken or written language for 1 hr.
+- *Detect Magic* (1st) — 10 min cast — Sense magic auras and schools within 30 ft.
+- *Identify* (1st) — 10 min cast — Learn properties of a magic item or spell affecting a creature.
+- *Unseen Servant* (1st) — 10 min cast — Create an invisible mindless servant for 1 hr.
+
+*Also known: Mending (cantrip, 1 min cast) — repair a single break or tear in an object.*
+
+---
 
 ### Inventory
 
-**Weapons (equipped):** Dagger ×2, Quarterstaff
 **Armor (equipped):** Robe (no armor)
 **Magic Items:** Guild Brass Armlet
-**Consumables:** Potions of Healing ×2, Ink, Oil ×10
-**Gear:** Backpack, Book, Ink Pen, Lamp, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments
+**Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments
 
 ---
-Race:: Humanoid (partially changed)
+Race:: Elf (High Elf)
 Subrace::
 Class:: Wizard
 Player::
