@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-19T21:29
+updated: 2026-03-20T22:28
 ---
 
 # Ember
@@ -74,6 +74,7 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 | **AC** | 16 |
 | **Speed** | 30 ft. (walk), 30 ft. (fly) |
 | **Proficiency Bonus** | +2 |
+| **Vision** | Darkvision 60 ft. |
 
 ### Ability Scores
 
@@ -85,23 +86,108 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 
 Intelligence +3 · Wisdom +6
 
+### Resistances & Vulnerabilities
+
+Fire (resistance)
+
 ### Skills
 
 Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
-### Class Features
+**Languages:** Common · Infernal
+**Tools:** Cartographer's Tools · Herbalism Kit
 
-- **Druidic** — secret language known only to druids
-- **Primal Order: Magician** — Arcana proficiency; add WIS to Arcana checks; one extra druid cantrip
-- **Wild Shape** (2/rest) — transform into a beast of CR 1 or lower (Circle of the Moon)
-- **Wild Companion** — expend a Wild Shape charge to cast Find Familiar
-- **Circle Forms** — Wild Shape into beasts up to CR 1; no swim/fly speed restriction
+---
 
-### Race Features
+### Actions
 
-- **Darkvision** — 60 ft.
-- **Hellish Resistance** — resistance to fire damage
-- **Winged** — fly speed 30 ft.; cannot wear armor with back slots while flying
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Sickle** *(Nick)* | M +5 | 5 ft. | 1d4+3 slash | — | — | — |
+| **Shortbow** *(Vex)* | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
+| **Spear** *(Sap)* | M/R +0 | 5 ft. / 20/60 ft. | 1d6−2 pierce (versatile 1d8−2) | — | — | — |
+| **Unarmed Strike** | M +0 | 5 ft. | 1−2 bludgeon | — | — | — |
+| **Wild Shape** | — | Self | Transform into beast CR 1 or lower; no fly/swim restriction | — | — | 2×/SR |
+| **Druidcraft** | — | 30 ft. | Minor nature effects (weather, plants, sounds, fire) | 0 | V, S | — |
+| **Guidance** | — | Touch | Target +1d4 to one ability check; 1 min | 0 | V, S | Conc. |
+| **Primal Savagery** | M +6 | 5 ft. | 1d10 acid | 0 | S | — |
+| **Starry Wisp** | R +6 | 60 ft. | 1d8 radiant; target has disadv. on Conc. saves; 1 rnd | 0 | V, S | — |
+| **Thorn Whip** | M +6 | 30 ft. | 1d6 pierce; pull target 10 ft. | 0 | V, S, M (plant stem) | — |
+| **Animal Friendship** | WIS 14 | 30 ft. | Charm beast; 24 hrs | 1st | V, S, M (food) | — |
+| **Beast Bond** | — | Touch | Telepathic link with familiar; share senses; 10 min | 1st | V, S, M (fur) | Conc. |
+| **Charm Person** | WIS 14 | 30 ft. | Charm humanoid; 1 hr | 1st | V, S | — |
+| **Create or Destroy Water** | — | 30 ft. | Create or destroy 10 gallons of water | 1st | V, S, M (water+sand) | — |
+| **Cure Wounds** | — | Touch | 2d8+4 HP | 1st | V, S | — |
+| **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
+| **Detect Poison and Disease** | — | Self (30 ft.) | Sense poison/disease sources; 10 min | 1st | V, S, M (yew leaf) | Conc. · Ritual |
+| **Earth Tremor** | DEX 14 | 10 ft. | 1d12 bludgeon + prone (on fail) in 10-ft radius | 1st | V, S | — |
+| **Entangle** | STR 14 | 90 ft. | Restrained in 20-ft square; 1 min | 1st | V, S | Conc. |
+| **Faerie Fire** | DEX 14 | 60 ft. | Outline creatures in 20-ft cube; attacks vs. them have adv.; 1 min | 1st | V | Conc. |
+| **Fog Cloud** | — | 120 ft. | Heavily obscured 20-ft sphere; 1 hr | 1st | V, S | Conc. |
+| **Goodberry** | — | Touch | Up to 10 berries; each restores 1 HP and counts as food | 1st | V, S, M (mistletoe) | — |
+| **Ice Knife** | R +6 | 60 ft. | 1d10 pierce (hit); DEX 14 or 2d6 cold (5-ft burst) | 1st | S, M (ice) | — |
+| **Longstrider** | — | Touch | +10 ft. speed; 1 hr | 1st | V, S, M (dirt) | — |
+| **Protection from Evil and Good** | — | Touch | Protection vs. aligned creatures; 10 min | 1st | V, S, M† | Conc. |
+| **Purify Food and Drink** | — | 10 ft. | Purify 5-ft cube of food/drink | 1st | V, S | Ritual |
+| **Speak with Animals** | — | Self | Speak with beasts; 10 min | 1st | V, S | Ritual |
+| **Thunderwave** | CON 14 | Self (15-ft cube) | 2d8 thunder + push 10 ft. on fail | 1st | V, S | — |
+| **Aid** | — | 30 ft. | 3 targets +5 max/current HP; 8 hr | 2nd | V, S, M (cloth) | — |
+| **Animal Messenger** | — | 30 ft. | Send tiny beast with message up to 24 hr | 2nd | V, S, M (food) | Ritual |
+| **Beast Sense** | — | Touch | See/hear through beast's senses; 1 hr | 2nd | S | Conc. · Ritual |
+| **Continual Flame** | — | Touch | Permanent heatless flame on object | 2nd | V, S, M† | — |
+| **Darkvision** | — | Touch | 60 ft. darkvision; 8 hr | 2nd | V, S, M (carrot) | — |
+| **Dust Devil** | CON 14 | 60 ft. | 1d8 bludgeon + push 10 ft.; movable 5-ft devil; 1 min | 2nd | V, S, M (dust) | Conc. |
+| **Earthbind** | STR 14 | 300 ft. | Fly speed = 0; target falls; 1 min | 2nd | V | Conc. |
+| **Enhance Ability** | — | Touch | Advantage on chosen ability checks; 1 hr | 2nd | V, S, M (fur) | Conc. |
+| **Enlarge/Reduce** | CON 14 | 30 ft. | Target grows (adv. STR, +1d4 dmg) or shrinks (disadv. STR, −1d4 dmg); 1 min | 2nd | V, S, M (iron) | Conc. |
+| **Find Traps** | — | 120 ft. | Sense presence of traps | 2nd | V, S | — |
+| **Flaming Sphere** | DEX 14 | 60 ft. | 2d6 fire; movable 5-ft sphere; 1 min | 2nd | V, S, M (wax) | Conc. |
+| **Gust of Wind** | STR 14 | Self (60-ft line) | Push 15 ft.; difficult terrain; 1 min | 2nd | V, S, M (seed) | Conc. |
+| **Heat Metal** | CON 14 | 60 ft. | 2d8 fire; possibly disarm metal object; 1 min | 2nd | V, S, M (iron) | Conc. |
+| **Hold Person** | WIS 14 | 60 ft. | Paralyzed humanoid; 1 min | 2nd | V, S, M (iron) | Conc. |
+| **Locate Animals or Plants** | — | Self (1 mi.) | Sense nearest named creature or plant type | 2nd | V, S, M (fur) | Ritual |
+| **Locate Object** | — | Self (1000 ft.) | Sense familiar object; 10 min | 2nd | V, S, M (twig) | Conc. |
+| **Moonbeam** ★ | CON 14 | 120 ft. | 2d10 radiant in 5-ft cylinder; 1 min | 2nd | V, S, M (moonseed) | Conc. |
+| **Pass without Trace** | — | Self (30 ft.) | +10 Stealth, no tracks; 1 hr | 2nd | V, S, M (ashes) | Conc. |
+| **Protection from Poison** | — | Touch | Neutralize poison; adv. vs. Poisoned; 1 hr | 2nd | V, S | — |
+| **Spike Growth** | — | 150 ft. | 2d4 pierce per 5 ft. moved; 10 min | 2nd | V, S, M (thorns) | Conc. |
+| **Summon Beast** | — | 90 ft. | Summon CR 2 beast spirit; 1 hr | 2nd | V, S, M† | Conc. |
+| **Warding Wind** | — | Self (10-ft radius) | Deafened within; ranged atk disadv.; push gases/vapors; 10 min | 2nd | V | Conc. |
+
+*† Protection from Evil and Good: M = holy water worth 25+ gp (consumed)*
+*† Continual Flame: M = ruby dust worth 50+ gp (consumed)*
+*† Summon Beast: M = feather, tuft of fur, and fish tail worth 200+ gp (consumed)*
+★ *Moonbeam always prepared via Circle of the Moon*
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Healing Word** | — | 60 ft. | 2d4+4 HP | 1st | V | — |
+| **Jump** | — | Touch | Triple jump distance; 1 min | 1st | V, S, M (grasshopper leg) | — |
+| **Barkskin** | — | Touch | Target's AC can't be below 17; 1 hr | 2nd | V, S, M (oak bark) | — |
+| **Flame Blade** | M +6 | 5 ft. | 3d6 fire; re-summon as BA; 10 min | 2nd | V, S, M (sumac) | Conc. |
+| **Healing Spirit** | — | 60 ft. | Spirit heals 1d6 when creature ends turn in its space; 1 min | 2nd | V, S | Conc. |
+| **Lesser Restoration** | — | Touch | Cure one condition or disease | 2nd | V, S | — |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Absorb Elements** | — | Self | Absorb incoming elemental dmg; +1d6 of that type on next melee atk | 1st | S | — |
+
+---
+
+### Features
+
+- **Wild Shape** — 2×/SR; transform into beast CR 1 or lower; no fly/swim restriction (Circle Forms). See action table.
+- **Wild Companion** — Expend a Wild Shape charge to cast Find Familiar (no slot required).
+- **Druidic** — Secret language known only to druids.
+- **Primal Order: Magician** — Arcana proficiency; add WIS modifier to Arcana checks; one extra cantrip.
+- **Winged** — Fly speed 30 ft.
+
+---
 
 ### Spellcasting
 
@@ -109,21 +195,30 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 **Spell Slots:** 1st ×4 · 2nd ×2
 
-**Spells:**
-- *Cantrips:* Druidcraft, Guidance, Primal Savagery, Starry Wisp, Thorn Whip
-- *1st:* Absorb Elements, Animal Friendship, Beast Bond, Charm Person, Create or Destroy Water, Cure Wounds, Detect Magic, Detect Poison and Disease, Earth Tremor, Entangle, Faerie Fire, Find Familiar, Fog Cloud, Goodberry, Healing Word, Ice Knife, Jump, Longstrider, Protection from Evil and Good, Purify Food and Drink, Snare, Speak with Animals, Thunderwave
-- *2nd:* Aid, Air Bubble, Animal Messenger, Augury, Barkskin, Beast Sense, Continual Flame, Darkvision, Dust Devil, Earthbind, Enhance Ability, Enlarge/Reduce, Find Traps, Flame Blade, Flaming Sphere, Gust of Wind, Healing Spirit, Heat Metal, Hold Person, Lesser Restoration, Locate Animals or Plants, Locate Object, Moonbeam\*, Pass without Trace, Protection from Poison, Skywrite, Spike Growth, Summon Beast, Warding Wind, Wither and Bloom
+#### Ritual Spells
 
-\* *Always prepared via Circle of the Moon*
+- *Detect Magic* (1st) — 10 min cast — Sense magic auras and schools within 30 ft.
+- *Detect Poison and Disease* (1st) — 10 min cast — Sense poison/disease sources within 30 ft.
+- *Purify Food and Drink* (1st) — 1 min cast — Purify a 5-ft cube of nonmagical food and drink.
+- *Speak with Animals* (1st) — 1 min cast — Speak with beasts for 10 min.
+- *Find Familiar* (1st) — 1 hr cast — Summon familiar. Cast via Wild Companion (costs Wild Shape charge, no slot).
+- *Animal Messenger* (2nd) — 1 min cast — Send a tiny beast with a message up to 24 hr away.
+- *Beast Sense* (2nd) — 1 min cast — See/hear through a familiar or willing beast for 1 hr.
+- *Locate Animals or Plants* (2nd) — 1 min cast — Sense nearest named creature or plant type within 1 mile.
+- *Augury* (2nd) — 11 min cast (1 min + ritual) — Divine near-future outcome of an action.
+
+#### Long-Cast (Non-Ritual)
+
+- *Snare* (1st) — 1 min cast, M (25 ft. rope, consumed) — Create a trap; creature stepping in makes DEX 14 or is restrained.
+
+---
 
 ### Inventory
 
-**Weapons (equipped):** Sickle, Shortbow, Arrows ×20
 **Armor (equipped):** Leather Armor, Shield
 **Magic Items:** Guild Bracers, Guild Brass Armlet
-**Consumables:** Potions of Healing ×2, Oil ×2, Rations ×10, Torches ×10
 **Tools:** Herbalism Kit, Cartographer's Tools
-**Gear:** Druidic Focus, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Quiver, Tent, Traveler's Clothes
+**Gear:** Druidic Focus, Quiver, Arrows ×20, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Tent, Traveler's Clothes, Rations ×10, Torches ×10, Oil ×2
 
 ---
 Race:: Tiefling
