@@ -7,12 +7,15 @@ tags:
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
+created: 2026-03-22T03:24
+updated: 2026-03-22T03:24
 ---
 
 # Lyonsbane Panther
 
 > [!infobox|right wikipedia]+
 > # Lyonsbane Panther
+> ![[Lyonsbane Panther.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
