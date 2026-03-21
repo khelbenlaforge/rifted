@@ -1,5 +1,5 @@
 ﻿---
-title: "Elminster"
+title: Elminster
 aliases:
   - Elminster Aumar
   - The Old Mage
@@ -9,6 +9,8 @@ campaign: Rifted
 introduced:
 secret: false
 state: alive
+created: 2026-03-18T20:22
+updated: 2026-03-22T02:33
 ---
 
 # Elminster
@@ -37,7 +39,7 @@ One of the most powerful and longest-lived wizards in the known world. He makes 
 
 ## Role in the Story
 
-The destination of the party's prequel journey. Following [[Mystra]]'s destruction at the hands of [[Helm]], [[Torm the Harper]] relayed Helm's cryptic directive — *find the Tablets of Fate* — and the group turned toward Shadowdale. Elminster is their best hope for understanding what that means and what comes next.
+The destination of the party's prequel journey. Following [[Mystra]]'s destruction at the hands of [[Helm]], [[Torm of the Dales]] relayed Helm's cryptic directive — *find the Tablets of Fate* — and the group turned toward Shadowdale. Elminster is their best hope for understanding what that means and what comes next.
 
 ---
 Race:: Human

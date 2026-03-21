@@ -1,7 +1,7 @@
 ﻿---
-title: Kelemvor
+title: Kelemvor Lyonsbane
 aliases:
-  - Kelemvor Lyonsbane
+  - Kelemvor
 tags:
   - npc
 campaign: Rifted
@@ -9,13 +9,13 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-03-22T00:09
+updated: 2026-03-22T02:33
 ---
 
-# Kelemvor
+# Kelemvor Lyonsbane
 
 > [!infobox|right wikipedia]+
-> # Kelemvor
+> # Kelemvor Lyonsbane
 > ![[Kelemvor (Mortal Fighter).png]]
 > ###### Quick Reference
 > | | |
@@ -42,7 +42,7 @@ He revealed this at camp, during Session 13, after the party found him unconscio
 
 ## Background
 
-A fighter from Arabel who joined the party assembled around [[Caitlan Moonsong]]'s plea for help. He had worked with [[Midnight]], [[Torm the Harper]], [[Adon]], and [[Cyric]] before the Castle Kilgrave mission.
+A fighter from Arabel who joined the party assembled around [[Caitlan Moonsong]]'s plea for help. He had worked with [[Midnight]], [[Torm of the Dales]], [[Adon]], and [[Cyric]] before the Castle Kilgrave mission.
 
 ## Role in the Vision
 
