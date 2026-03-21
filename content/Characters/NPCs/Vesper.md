@@ -8,13 +8,14 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-03-22T00:00
+updated: 2026-03-22T02:46
 ---
 
 # Vesper
 
 > [!infobox|right wikipedia]+
 > # Vesper
+> ![[Vesper.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
