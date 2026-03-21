@@ -1,7 +1,7 @@
 ﻿---
-title: Torm the Harper
+title: Torm of the Dales
 aliases:
-  - Torm (Harper)
+  - Torm (adventurer)
 tags:
   - npc
 campaign: Rifted
@@ -9,14 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-03-18T12:57
+updated: 2026-03-22T02:33
 ---
 
-# Torm the Harper
+# Torm of the Dales
 
 > [!infobox|right wikipedia]+
-> # Torm the Harper
-> ![[Torm the Harper.jpg]]
+> # Torm of the Dales
+> ![[Torm of the Dales.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -27,11 +27,13 @@ updated: 2026-03-18T12:57
 > | Deity | — |
 
 > [!warning] Name Note
-> This is **Torm the mortal Harper**, a Knight of Myth Drannor operating undercover in Arabel. He is distinct from [[Torm]] the deity. The shared name is a coincidence of the Avatar era.
+> This is **Torm of the Dales**, a mortal rogue and Knight of Myth Drannor — distinct from [[Torm]] the deity. The shared name is a coincidence of the Avatar era. "Of the Dales" is a DM title; his canon name is simply *Torm*.
 
 ## Personality
 
 Undercover work suits him — he is comfortable with partial truths, skilled at watching without being watched. He has not told the party that he knows [[Elminster]] personally. He has reasons for this that he has not shared.
+
+Harper doctrine holds that agents never identify each other in the field — not even to allies. The network's strength is anonymity: Harpers can be *everywhere* precisely because no one knows who belongs. So when Torm passes another Harper, he does not acknowledge it. This is not deception. It is discipline.
 
 Flippant, deliberately outrageous, quick-witted and pranksome. Good-hearted in a way that doesn't always announce itself — the jokes are a layer, not the whole thing. Loyal to the Harpers and to what they stand for.
 

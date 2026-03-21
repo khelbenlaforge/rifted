@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-17T21:05
+updated: 2026-03-22T02:33
 ---
 
 # Adon
@@ -33,7 +33,7 @@ Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd leve
 
 ## Background
 
-A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party — [[Midnight]], [[Torm the Harper]], [[Cyric]], [[Kelemvor]] — as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
+A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party — [[Midnight]], [[Torm of the Dales]], [[Cyric]], [[Kelemvor]] — as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
 
 ## Role in the Vision
 

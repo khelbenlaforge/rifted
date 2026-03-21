@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-18T13:29
+updated: 2026-03-22T02:33
 ---
 
 # Campaign Timeline
@@ -314,7 +314,7 @@ The party took a long rest in the lab. Session ended.
 
 ### The Avatar Crisis, Arabel, Cormyr
 
-The vision transported them deeper into the past — before Aenath was made. The three PCs inhabited the bodies of [[Midnight]], [[Torm the Harper]], and [[Adon]], joining a company that also included [[Cyric]] and [[Kelemvor]]. The setting: Arabel, during the Night of the Storm, when [[AO]] cast all gods from the divine planes to walk Toril as avatars.
+The vision transported them deeper into the past — before Aenath was made. The three PCs inhabited the bodies of [[Midnight]], [[Torm of the Dales]], and [[Adon]], joining a company that also included [[Cyric]] and [[Kelemvor]]. The setting: Arabel, during the Night of the Storm, when [[AO]] cast all gods from the divine planes to walk Toril as avatars.
 
 Magic became unreliable from the moment the Storm ended. All spells were subject to wild effects. Clerics lost access to spells of 3rd level or higher.
 
@@ -344,7 +344,7 @@ The body of Caitlan Moonsong exploded. Castle Kilgrave's ruins were leveled for 
 
 Helm told the party: the gods now walk the Realms. The Tablets of Fate were stolen (by [[Bane]], Myrkul, and Bhaal). Their recovery is essential. He charged them — or anyone willing — to find the Tablets.
 
-The party decided to travel to [[Shadowdale]] to find Elminster. [[Torm the Harper]] said nothing about knowing him.
+The party decided to travel to [[Shadowdale]] to find Elminster. [[Torm of the Dales]] said nothing about knowing him.
 
 ### Kelemvor's Curse
 
@@ -368,7 +368,7 @@ The vision ended here. Next session: Shadowdale.
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]]) — partially confirmed: Kelemvor traveled with [[Midnight]] during the Avatar Crisis
-- The Avatar Crisis prequel — [[Midnight]], [[Torm the Harper]], [[Adon]], [[Cyric]], [[Kelemvor]] traveled together; story continues in [[Shadowdale]] (Session 14)
+- The Avatar Crisis prequel — [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor]] traveled together; story continues in [[Shadowdale]] (Session 14)
 - [[Kelemvor]]'s panther curse revealed to the party; his future role as god of death remains unseen
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
 - The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]

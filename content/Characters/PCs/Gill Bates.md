@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-20T23:01
+updated: 2026-03-22T02:33
 ---
 
 # Gill Bates
@@ -53,7 +53,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - Attended the [[Council Tent]] meeting; assigned to assist at [[Tymora's Shrine]] under [[Sister Garaele]]
 - Helped distribute healing potions and tend to the settlement's wounded
 - Remained in [[Sunhold]] with [[Luks]] while the rest of the party departed south to rescue the Hucrele children
-- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm the Harper]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
+- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
 
 ## Relationships
 - **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement

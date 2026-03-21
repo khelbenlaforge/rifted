@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-20T22:26
+updated: 2026-03-22T02:33
 ---
 
 # Jonathan Jordan
@@ -54,7 +54,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - Helped establish the [[Adamantine Guild]] post in [[Sunhold]]
 - Departed south with [[Lea]], [[Ember]], and [[Augustus Kennedy]] to rescue the Hucrele children
 - Traversed marshes and descended into a subterranean fortress
-- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Torm the Harper]] — a Knight of Myth Drannor and Harper operating undercover in Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and death at [[Helm]]'s hands; headed toward [[Shadowdale]] to find [[Elminster]]
+- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Torm of the Dales]] — a Knight of Myth Drannor and Harper operating undercover in Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and death at [[Helm]]'s hands; headed toward [[Shadowdale]] to find [[Elminster]]
 
 ## Relationships
 - **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** -- Fellow travellers from Earth; party members through shared danger
@@ -62,7 +62,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - **[[Elmindaria L'Thorian]]** -- Guild scholar; pranked him with Invisibility, then became the target of his heist test -- and respected him for it
 - **[[Luks Borg]]** -- Guild combatant; travelled together to [[Sunhold]]; Luks has a daughter in [[Crystal City]]
 - **[[Adamantine Guild]]** -- Member and apprentice; currently assigned to the [[Sunhold]] outpost
-- **[[Torm the Harper]]** -- Knight of Myth Drannor whose body JJ inhabited during the Session 13 Sanctum vision; whether this connection runs deeper remains an open question
+- **[[Torm of the Dales]]** -- Knight of Myth Drannor whose body JJ inhabited during the Session 13 Sanctum vision; whether this connection runs deeper remains an open question
 - **[[Michael C Jordan]]** — His rat from Earth. Followed him through the rift. Wears a tiny rogue outfit. Obeys orders. Somehow this is fine.
 
 ## Character Sheet

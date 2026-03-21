@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-17
 secret: false
 created: 2026-03-17T19:49
-updated: 2026-03-17T19:49
+updated: 2026-03-22T02:33
 ---
 
 # Session 13 - The Fall of the Weave
@@ -17,7 +17,7 @@ updated: 2026-03-17T19:49
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Arabel → Castle Kilgrave, Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
 > **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Lea]]
-> **Companions (in vision):** [[Midnight]], [[Torm the Harper]], [[Adon]], [[Cyric]], [[Kelemvor]]
+> **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor]]
 > **Source:** [[2026-03-17 - Session 13 Transcript (Raw)]]
 
 ---
@@ -58,7 +58,7 @@ They land in a tavern in Arabel, Cormyr. Not in their own bodies.
 
 [[Lea]] is [[Midnight]] — a raven-haired wizard of some reputation, carrying a blue-white star pendant seared into the skin of her collarbone. She met [[Mystra]] the night of the Storm and received her trust. The pendant grants her *pass without trace* at will, and one chosen spell — she has chosen *magic missile* — that she may cast four times without consuming a slot.
 
-[[Jonathan Jordan]] is [[Torm the Harper]] — a Knight of Myth Drannor, a Harper working undercover in Arabel. He knows things about this city and certain people within it that he has not yet disclosed to anyone in this room.
+[[Jonathan Jordan]] is [[Torm of the Dales]] — a Knight of Myth Drannor, a Harper working undercover in Arabel. He knows things about this city and certain people within it that he has not yet disclosed to anyone in this room.
 
 [[Gill Bates]] is [[Adon]] — a cleric of [[Sune]], devoted, good-hearted, and openly vain. He cares about his image in a way that is not cruel but is very, very consistent.
 
@@ -98,7 +98,7 @@ The mist shows them their desires. Some resist. Some do not. In the end, all of 
 
 On the second-floor landing, the party finds a magic circle inscribed into the stone. It is a complex working, layered. Through arcana and investigation checks, they determine: one layer controls the fog; another the hallucinations; a third and fourth control the seal and the magical trap on the door at the back of the hall.
 
-The door bears a symbol of [[Bane]]. When [[Kelemvor]] and [[Torm the Harper]] approached it, they were each given a saving throw — one of them takes necromantic damage. The trap is real.
+The door bears a symbol of [[Bane]]. When [[Kelemvor]] and [[Torm of the Dales]] approached it, they were each given a saving throw — one of them takes necromantic damage. The trap is real.
 
 They dismantle the circle layer by layer. The door opens.
 
@@ -158,7 +158,7 @@ At [[Midnight]]'s feet: the pendant. It will not let anyone else touch it. When 
 
 ## The Road North
 
-The party decides to go to Shadowdale. [[Torm the Harper]] does not mention that he knows [[Elminster]].
+The party decides to go to Shadowdale. [[Torm of the Dales]] does not mention that he knows [[Elminster]].
 
 They travel. Days pass. At a night camp, [[Kelemvor]] slips away from the fire, alone.
 
