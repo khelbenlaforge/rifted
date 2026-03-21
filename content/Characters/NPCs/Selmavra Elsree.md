@@ -9,13 +9,14 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-03-22T02:33
+updated: 2026-03-22T02:46
 ---
 
 # Selmavra Elsree
 
 > [!infobox|right wikipedia]+
 > # Selmavra Elsree
+> ![[Selmavra.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
