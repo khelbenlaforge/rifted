@@ -10,13 +10,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-18T20:22
-updated: 2026-03-22T03:52
+updated: 2026-03-22T15:57
 ---
 
 # Elminster
 
 > [!infobox|right wikipedia]+
 > # Elminster
+> ![[Elminster.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

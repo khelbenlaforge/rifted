@@ -1,5 +1,5 @@
 ﻿---
-title: "Little Sister"
+title: Little Sister
 aliases:
 tags:
   - npc
@@ -7,12 +7,15 @@ campaign: Rifted
 introduced:
 secret: false
 state: alive
+created: 2026-03-22T15:58
+updated: 2026-03-22T15:58
 ---
 
 # Little Sister
 
 > [!infobox|right wikipedia]+
 > # Little Sister
+> ![[Velvet Vulper.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
