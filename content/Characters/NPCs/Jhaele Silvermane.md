@@ -13,6 +13,7 @@ state: alive
 
 > [!infobox|right wikipedia]+
 > # Jhaele Silvermane
+> ![[Jhaele Silvermane.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

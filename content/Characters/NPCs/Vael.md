@@ -9,12 +9,15 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
+created: 2026-03-22T15:57
+updated: 2026-03-22T15:57
 ---
 
 # Vael
 
 > [!infobox|right wikipedia]+
 > # Vael
+> ![[Vael.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

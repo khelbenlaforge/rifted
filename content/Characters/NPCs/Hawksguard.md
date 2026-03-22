@@ -13,6 +13,7 @@ state: alive
 
 > [!infobox|right wikipedia]+
 > # Hawksguard
+> ![[Hawksguard.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
