@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-22T02:33
+updated: 2026-03-23T22:44
 ---
 
 # Campaign Timeline
@@ -399,8 +399,6 @@ Two rounds later, the panther burst out of Kelemvor on the cobblestones. [[Cyric
 Torm went down and was revived. All PCs leveled to 4 mid-combat (Deferred Level-Up). Midnight: INT now 18, spell DC 14.
 
 The Lyonsbane Panther held off killing for most of the fight, then finished the last remaining Tough. The curse broke. Kelemvor returned — naked, unconscious, blood on the cobblestones.
-
-**Session ended.** Elminster meeting, cipher note, [[Vael]] appearance, and loot deferred to Session 15.
 
 ---
 
