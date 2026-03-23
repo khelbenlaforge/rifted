@@ -8,7 +8,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T03:50
-updated: 2026-03-22T15:57
+updated: 2026-03-23T21:44
 ---
 
 # Rathan Thentraver
@@ -41,9 +41,9 @@ His faith in [[Tymora]] is experiential, not philosophical. Things work out for 
 
 A Knight of Myth Drannor and the longtime best friend of [[Torm of the Dales]] — Torm the halfling thief, not the god. Their friendship is the Knights' most storied partnership: drinking buddies, co-conspirators in bad ideas, and genuine anchors for each other. Rathan has followed Torm into worse situations than this one.
 
-Web: Born to Rathur and Ulla Thentraver, Rathan lost his parents at an early age to [cholera](https://forgottenrealms.fandom.com/wiki/Cholera "Cholera"), and was thrust into the [church of Tymora](https://forgottenrealms.fandom.com/wiki/Church_of_Tymora "Church of Tymora") by his greedy uncles in an effort to lay claim upon his family's wealth. Rathan was "officially" assigned to the temple in [Arabel](https://forgottenrealms.fandom.com/wiki/Arabel "Arabel"), by superior priest Segril, to spread the faith of Tymora among the travelers and adventurers who may need a little luck in their perilous journeys, though in all likelihood it was just to rid himself of the boisterous drunkard.[[1]](https://forgottenrealms.fandom.com/wiki/Rathan_Thentraver#cite_note-FRCS1e-DM-p29-1)
+Web: Born to Rathur and Ulla Thentraver, Rathan lost his parents at an early age to [cholera](https://forgottenrealms.fandom.com/wiki/Cholera "Cholera"), and was thrust into the [church of Tymora](https://forgottenrealms.fandom.com/wiki/Church_of_Tymora "Church of Tymora") by his greedy uncles in an effort to lay claim upon his family's wealth. Rathan was "officially" assigned to the temple in [Arabel](https://forgottenrealms.fandom.com/wiki/Arabel "Arabel"), by superior priest Segril, to spread the faith of Tymora among the travelers and adventurers who may need a little luck in their perilous journeys, though in all likelihood it was just to rid himself of the boisterous drunkard.
 
-In [1348 DR](https://forgottenrealms.fandom.com/wiki/1348_DR "1348 DR"), Rathan had a chance meeting with the [Swords of Eveningstar](https://forgottenrealms.fandom.com/wiki/Knights_of_Myth_Drannor "Knights of Myth Drannor"), who had been teleported to Arabel by a dungeon trap.[[5]](https://forgottenrealms.fandom.com/wiki/Rathan_Thentraver#cite_note-5) Shortly thereafter, he wandered to the [Dalelands](https://forgottenrealms.fandom.com/wiki/Dalelands "Dalelands") where he joined the Swords, who by then had renamed themselves the [Knights of Myth Drannor](https://forgottenrealms.fandom.com/wiki/Knights_of_Myth_Drannor "Knights of Myth Drannor").[[1]](https://forgottenrealms.fandom.com/wiki/Rathan_Thentraver#cite_note-FRCS1e-DM-p29-1)
+In [1348 DR](https://forgottenrealms.fandom.com/wiki/1348_DR "1348 DR"), Rathan had a chance meeting with the [Swords of Eveningstar](https://forgottenrealms.fandom.com/wiki/Knights_of_Myth_Drannor "Knights of Myth Drannor"), who had been teleported to Arabel by a dungeon trap. Shortly thereafter, he wandered to the [Dalelands](https://forgottenrealms.fandom.com/wiki/Dalelands "Dalelands") where he joined the Swords, who by then had renamed themselves the [Knights of Myth Drannor](https://forgottenrealms.fandom.com/wiki/Knights_of_Myth_Drannor "Knights of Myth Drannor").
 
 ## Role in the Story
 

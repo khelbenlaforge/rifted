@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-22T02:33
+updated: 2026-03-22T22:59
 ---
 
 # Adon
@@ -21,7 +21,7 @@ updated: 2026-03-22T02:33
 > | ---- | --- |
 > | Race | Human |
 > | Class | Cleric |
-> | Location | En route to [[Shadowdale]] |
+> | Location | [[Shadowdale]] |
 > | Affiliation | Church of Sune |
 > | Deity | [[Sune]] |
 
@@ -29,7 +29,9 @@ updated: 2026-03-22T02:33
 
 Devoted, good-hearted, and openly vain. His concern for his appearance is not concealment — it is sincere. He serves a goddess of beauty, and he takes the mandate personally. This makes him somewhat easier to underestimate than he deserves.
 
-Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd level or higher through prayer; Adon is unaffected since he's not yet casting at that level.
+Shadowdale did not meet his standards. He made this clear. Jhaele Silvermane served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
+
+Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd level or higher through prayer; Adon is unaffected since he's not yet casting at that level. The senior Sune clerics he left behind in Arabel were panicking over the loss of divine power — Adon departed untroubled. He can still hear Sune. He sees no problem.
 
 ## Background
 
@@ -44,7 +46,7 @@ Race:: Human
 Subrace::
 Pronouns:: he/him
 Class:: Cleric
-Location:: [[Shadowdale]] (en route)
+Location:: [[Shadowdale]]
 Affiliation:: Church of [[Sune]]
 Deity:: [[Sune]]
 

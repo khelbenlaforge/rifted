@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-03-22T02:33
+updated: 2026-03-22T22:58
 ---
 
 # Kelemvor Lyonsbane
@@ -22,7 +22,7 @@ updated: 2026-03-22T02:33
 > | ---- | --- |
 > | Race | Human |
 > | Class | Fighter |
-> | Location | En route to [[Shadowdale]] |
+> | Location | [[Shadowdale]] |
 > | Affiliation | None |
 > | Deity | None (yet) |
 
@@ -40,13 +40,15 @@ The [[Lyonsbane Panther]] *bursts out* of him. When the curse ends, he *bursts o
 
 He revealed this at camp, during Session 13, after the party found him unconscious in the dark with a dead deer nearby and black fur in the underbrush. He told them: *the reason I leave is that I don't want any of you in the way.*
 
+In Session 14, the transformation was witnessed for the first time by the full party — including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a Zhentarim Agent to save [[Midnight]] being dragged toward the gate — no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
+
 ## Background
 
-A fighter from Arabel who joined the party assembled around [[Caitlan Moonsong]]'s plea for help. He had worked with [[Midnight]], [[Torm of the Dales]], [[Adon]], and [[Cyric]] before the Castle Kilgrave mission.
+A fighter from [[Arabel]] who joined the party assembled around [[Caitlan Moonsong]]'s plea for help. He and [[Cyric]] are the oldest founding members of the group — both originally from Arabel, where they assembled one by one before the Avatar Crisis.
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). An NPC in the Session 13 prequel vision — no PC inhabited his body this session. His panther curse was revealed to the party at camp.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). [[Augustus Kennedy]] inhabits Kelemvor's body beginning in Session 14.
 
 ## Character Sheet
 
@@ -136,7 +138,7 @@ Race:: Human
 Subrace::
 Pronouns:: he/him
 Class:: Fighter
-Location:: [[Shadowdale]] (en route)
+Location:: [[Shadowdale]]
 Affiliation::
 Deity::
 

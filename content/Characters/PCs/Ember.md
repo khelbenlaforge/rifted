@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-20T22:28
+updated: 2026-03-22T23:01
 ---
 
 # Ember
@@ -55,6 +55,7 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 - Departed south with [[Lea]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and descended into the [[Sunless Citadel]], encountering dead goblins and signs of necromancy
 - **Session 11** — During the trial of the Sealed Door in the [[Sunless Citadel]], deity symbols of both nature and the lower planes gravitated toward her simultaneously, exposing her dual nature. Inside a spiritual battlefield, an echo of [[Mielikki]] urged her to accept both sides of herself. [[Asmodeus]]'s manifestation refused to leave her side even after the other infernal deities withdrew
+- **Session 14** — Cold open revealed her Earth backstory: she worked at an animal shelter. Chaos of an ordinary shift: a regular volunteer walked in with a pangolin. Animal Control was on the phone. Her assistant announced the pangolin to the room at full volume — and to the inspector on the other end of the line. She was watching herself from outside, just like the others. Rejoined JJ/Gill/Lea in the liminal void, then descended into the prequel to inhabit [[Selmavra Elsree]] — a Harper skirmish commander stationed in [[Shadowdale]] during the Avatar Crisis.
 
 ## Relationships
 - **[[Lea]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger

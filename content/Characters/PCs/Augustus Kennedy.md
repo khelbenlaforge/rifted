@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-03-20T22:26
+updated: 2026-03-22T23:01
 ---
 
 # Augustus Kennedy
@@ -59,6 +59,8 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - Departed south with [[Lea]], [[Ember]], and [[Jonathan Jordan]], leaving [[Luks]] and [[Gill Bates]] in [[Sunhold]]
 - Traversed marshes on Bogstride Salamandrels, followed tracks to a ravine, and descended into a subterranean fortress
 - Explored the ruins, encountering dead goblins and necromantic magic behind a trapped hidden door
+- **Session 13** — Touched the Sanctum mural in the Grove Level, triggering the prequel vision for all five. He and Ember floated in the liminal void while the other three experienced the Avatar Crisis as Midnight/Torm/Adon.
+- **Session 14** — Cold open revealed his Earth backstory: Brooklyn cop, ordinary morning. A friend drunk on the sidewalk outside his favourite bodega. His wife calling about a kid. A perfectly ordinary day. He was watching himself from outside. Rejoined the others in the void, then descended to inhabit [[Kelemvor Lyonsbane]] — the mercenary fighter whose hereditary curse transforms him into a panther on selfless acts. Witnessed the curse trigger and the courtyard battle at the [[Old Skull Inn]] in [[Shadowdale]].
 
 ## Relationships
 - **[[Lea]], [[Ember]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bonded through shared displacement and the trials of [[Aenath]]

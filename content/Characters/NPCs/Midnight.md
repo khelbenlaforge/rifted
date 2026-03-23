@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-03-18T13:18
+updated: 2026-03-22T22:59
 ---
 
 # Midnight
@@ -22,7 +22,7 @@ updated: 2026-03-18T13:18
 > | ---- | --- |
 > | Race | Human |
 > | Class | Wizard (Chronomancy) |
-> | Location | En route to [[Shadowdale]] |
+> | Location | [[Shadowdale]] |
 > | Affiliation | [[Mystra]] (chosen) |
 > | Deity | [[Mystra]] |
 
@@ -46,7 +46,9 @@ She joined the party of Torm, Adon, Cyric, and Kelemvor as the only reliable wiz
 
 The blue-white star pendant, entrusted by Mystra and returned after Mystra's destruction at the hands of [[Helm]], now carries a **shard of Mystra's broken power**. Midnight is the only person who can touch it. It marks her as something more than a wizard.
 
-She has been told — she simply knows — that she must find [[Elminster]] in Shadowdale.
+In Session 14, during the courtyard encounter, the pendant activated independently — a Chaos Magic Reverse Gravity effect sent her airborne, and the pendant responded to the genuine danger without her willing it, floating her safely back down. The power answers to danger, not to intention.
+
+She has been told — she simply knows — that she must find [[Elminster]] in Shadowdale. She leveled to 4 mid-combat; her Intelligence is now 18 (spell DC 14).
 
 ## Role in the Vision
 
@@ -57,7 +59,7 @@ Race:: Human
 Subrace::
 Pronouns:: she/her
 Class:: Wizard
-Location:: [[Shadowdale]] (en route)
+Location:: [[Shadowdale]]
 Affiliation:: [[Mystra]]
 Deity:: [[Mystra]]
 

@@ -9,7 +9,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-03-22T02:46
+updated: 2026-03-22T23:00
 ---
 
 # Selmavra Elsree
@@ -123,9 +123,17 @@ Selmavra has been a Harper long enough that the organization feels less like a c
 **Tools:** Disguise Kit · Musical Instrument
 **Gear:** Quiver · Sprig of Mistletoe · Backpack · Bedroll · Oil ×2 · Rations ×10 · Rope · Tinderbox · Torches ×10 · Waterskin · Costume · Grappling Hook · Traveler's Clothes
 
+## Session 14
+
+At the Shadowdale guard post, Selmavra clocked [[Torm of the Dales]]'s specific gait and posture from a mile out — she knew it was a Harper before the party arrived. Kept her face neutral.
+
+At the Old Skull Inn, using the nat 20 perception data from the guard post conversation, she confirmed that Torm was likely JJ and [[Midnight]] was likely Lea. She found a way to signal without breaking Harper doctrine — she mentioned she had almost named [[Vesper]] "Michael C. Jordan," having heard the name from someone who knew a "Michael B. Jordan" whose rat was named Michael C. Jordan. The players caught it. Torm confirmed by dropping "Augie would be a great name for a familiar. Gill also." [[Cyric]] concluded they were just being strange. Cover held.
+
+In the Zhentarim courtyard ambush, Selmavra cast *Hail of Thorns* — the Chaos Magic rebound hit her for 8 damage. She stayed in the fight.
+
 ## Relationships
 
-- **[[Vesper]]** — Her wolf. Found her in a Zhentarim cage and picked the lock. Vesper chose to stay.
+- **[[Vesper]]** — Her wolf. Found him injured in the hands of animal merchants and got him free. Vesper chose to stay.
 - **[[Torm of the Dales]]** — Fellow Harper. They pretend not to know each other. The performance is practiced and mutual.
 - **[[Storm Silverhand]]** — Knows Selmavra is a Harper. Will not blow her cover.
 - **[[Elminster]]** — Commander-adjacent. She follows his lead here without quite admitting it.

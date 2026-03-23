@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-18T20:37
-updated: 2026-03-22T02:33
+updated: 2026-03-22T23:01
 ---
 
 # Shadowdale
@@ -36,6 +36,8 @@ A small, quietly legendary settlement in the Dalelands. Shadowdale is not grand 
 ## Role in the Campaign
 
 The destination of the party's prequel journey. Following [[Mystra]]'s destruction at the hands of [[Helm]] and Helm's cryptic directive to *find the Tablets of Fate*, the group — inhabiting the bodies of [[Torm of the Dales]], [[Adon]], and [[Midnight]], with [[Cyric]] and [[Kelemvor]] in company — turned toward Shadowdale to find [[Elminster]].
+
+The party arrived in Session 14. [[Selmavra Elsree]] met them at the guard post; [[Jhaele Silvermane]] received them at the [[Old Skull Inn]]. **Zhentarim soldiers are already inside Shadowdale** — pre-positioned, confirmed by a nat 20 perception check in the inn — and ambushed the party in the inn courtyard. The attack was repelled. [[Mourngrym Amcathra]] is lord of the town. The Elminster meeting is deferred to Session 15.
 
 Once the prequel arc concludes, Shadowdale will recede into history. It exists in a different timeline, a different world — a place the party passed through in borrowed bodies, briefly, before the door closed behind them.
 

@@ -3,7 +3,7 @@
 # excluding the Session Prep folder and any note with `secret: true` in its frontmatter.
 
 param(
-    [string]$VaultPath = "C:\Users\eugen\Dropbox\PKM\World Building\Rifted Campaign\00_My Notes",
+    [string]$VaultPath = "D:\PKM\World Building\Rifted Campaign\00_My Notes",
     [string]$ContentPath = "$PSScriptRoot\content"
 )
 
@@ -50,7 +50,7 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
 Write-Host "Done. Copied: $copied  |  Skipped (secret): $skipped" -ForegroundColor Green
 
 # Copy images from zzz_Attachments to content/zzz_Attachments
-$AttachmentsSource = "C:\Users\eugen\Dropbox\PKM\World Building\zzz_Attachments"
+$AttachmentsSource = "D:\PKM\World Building\zzz_Attachments"
 $AttachmentsDest   = Join-Path $ContentPath "zzz_Attachments"
 
 if (-not (Test-Path $AttachmentsDest)) {
