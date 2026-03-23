@@ -356,6 +356,54 @@ The vision ended here. Next session: Shadowdale.
 
 ---
 
+## Year 222 PA — 17th Marpenoth (Session 14 — Prequel Vision, continued)
+
+### Cold Opens: Earth Lives
+
+The vision resumed with [[Augustus Kennedy]] and [[Ember]] observing their own Earth lives from outside. Augie watched himself on a routine Brooklyn cop shift — a friend drunk on a sidewalk, a wife's call about a kid, a perfectly ordinary day. Ember watched herself at an animal shelter in the middle of ordinary chaos — a pangolin discovered mid-shift, Animal Control on the phone, her assistant announcing it to the whole room at full volume. Both recognized the observer-remove the others had described.
+
+All five reconvened in the liminal void when the prequel party slept. Augie and Ember were briefed on the Avatar Crisis. The full party descended together: Augie into [[Kelemvor Lyonsbane]], Ember into [[Selmavra Elsree]].
+
+### The Campfire Aftermath
+
+At the morning campfire, [[Kelemvor]]'s curse origin was fully established: a Lyonsbane ancestor refused to help a dying hag; she cursed the entire bloodline against selfless acts. The mercenary detachment is a lifelong cage, not a personality. The party from [[Arabel]] assembled one by one — Kelemvor and [[Cyric]] founding, then [[Torm of the Dales]], then [[Adon]], then [[Midnight]] last.
+
+### Arrival at Shadowdale
+
+[[Selmavra Elsree]], Harper Skirmish commander and Shadowdale resident for ~10 years, met the party at the guard post. [[Riothar Irontongue]], the Guardscaptain, briefed her on dark-armored soldiers pillaging surrounding towns — identified as **[[Zhentarim]]**. The party arrived. Selmavra recognized [[Torm]]'s specific gait from a mile out and kept her face neutral. [[Hawksguard]] was assigned as escort.
+
+### Walk to the Old Skull Inn
+
+Shadowdale was preparing: the blacksmith on double shift, the Temple of [[Tymora]] clearing for a field hospital, provisions moving fast. An Arcana check (16) detected massive magical energy from a nearby tower. [[Torm]] revealed it was "my friend Elminster's" — the party was exasperated. [[Midnight]]'s *Command* spell confirmed the truth under compulsion; he was withholding depth, not facts. Hawksguard doubled his pace.
+
+### The Old Skull Inn
+
+[[Jhaele Silvermane]] received [[Selmavra]]'s unit and the party. She recognized Torm as a regular visitor (almost used his title). [[Kelemvor]] bought [[Hawksguard]] a drink transactionally to extract information; learned that [[Elminster]] is the reason Shadowdale is safe, and that [[Mourngrym Amcathra]] is lord of the town.
+
+[[Adon]] found the inn beneath his standards. Jhaele served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
+
+Selmavra signaled the other players without breaking Harper doctrine — dropping the name "Michael C. Jordan" as a near-name for Vesper. Torm confirmed by naming "Augie" and "Gill" as suitable familiar names. [[Cyric]] decided they were just being strange. Cover held.
+
+A nat 20 perception check spotted dark-armored Zhentarim soldiers already inside the inn. The net had been closing for longer than the party realized.
+
+### The Courtyard Encounter
+
+The party exited into the inn courtyard to walk to Elminster's tower. A supply cart barreled through at speed toward the stable boy — [[Midnight]] preempted [[Kelemvor]]'s instinct by shouting she'd give him a silver to save the boy. He saved him. Transaction intact. Curse did not trigger.
+
+The **Zhentarim were already pre-positioned in the courtyard.** Using the cart chaos as cover, they opened with a surprise round: the Agent grappled Midnight and dragged her toward the gate; the Commander blocked the exit; five Toughs swarmed Kelemvor.
+
+Kelemvor saw Midnight being taken. He attacked the Agent to save her. No transaction. That was the trigger.
+
+Two rounds later, the panther burst out of Kelemvor on the cobblestones. [[Cyric]] attacked it without knowing what it was — cold, immediate, threat-first. [[Torm]] killed the Agent with a crit crossbow bolt. [[Selmavra]] cast *Hail of Thorns*; Chaos rebound hit her for 8 damage. [[Jhaele Silvermane]] emerged from the inn on round 2 with a crossbow: *"Do not touch children in my presence."* The Commander grabbed the stable boy as a living shield; [[Midnight]]'s *Command* ("Release") freed him. A Reverse Gravity chaos effect launched Midnight into the air; her pendant activated independently and floated her safely down.
+
+Torm went down and was revived. All PCs leveled to 4 mid-combat (Deferred Level-Up). Midnight: INT now 18, spell DC 14.
+
+The Lyonsbane Panther held off killing for most of the fight, then finished the last remaining Tough. The curse broke. Kelemvor returned — naked, unconscious, blood on the cobblestones.
+
+**Session ended.** Elminster meeting, cipher note, [[Vael]] appearance, and loot deferred to Session 15.
+
+---
+
 ## Active Threads
 
 - [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn Hucrele]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
@@ -368,8 +416,9 @@ The vision ended here. Next session: Shadowdale.
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]]) — partially confirmed: Kelemvor traveled with [[Midnight]] during the Avatar Crisis
-- The Avatar Crisis prequel — [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor]] traveled together; story continues in [[Shadowdale]] (Session 14)
-- [[Kelemvor]]'s panther curse revealed to the party; his future role as god of death remains unseen
+- **Avatar Crisis prequel (continuing in Session 15):** party is in [[Shadowdale]] post-courtyard; Elminster meeting pending; Rathan + Storm arrive at tower (Event 3); Bane's war drums will sound (Event 5); cipher note, Vael appearance, and loot deferred
+- [[Cyric]] attacked the panther without knowing it was Kelemvor — unresolved in-party
+- [[Kelemvor]]'s panther curse now witnessed by the full party + Selmavra + Cyric; his future role as god of death remains unseen
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
 - The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness

@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-17T21:05
+updated: 2026-03-22T22:59
 ---
 
 # Cyric
@@ -22,7 +22,7 @@ updated: 2026-03-17T21:05
 > | ---- | --- |
 > | Race | Human |
 > | Class | Rogue (Assassin) |
-> | Location | En route to [[Shadowdale]] |
+> | Location | [[Shadowdale]] |
 > | Affiliation | Unknown |
 > | Deity | None (yet) |
 
@@ -32,9 +32,11 @@ Moves like he is always measuring exits. Useful in a fight, pleasant enough in c
 
 He was helpful at Castle Kilgrave in ways no one anticipated.
 
+In Session 14, the Lyonsbane Panther appeared in the Old Skull Inn courtyard during the Zhentarim ambush. Cyric didn't know what it was. He calculated it as a threat and attacked it immediately — twice, cold, silent. No hesitation and no cruelty. Pure assessment. He will need to reckon with what he stabbed once the dust settles.
+
 ## Background
 
-A rogue of unknown affiliation who was in Arabel when the Avatar Crisis began. He joined the party that responded to [[Caitlan Moonsong]]'s plea. His reasons are his own.
+A rogue and founding member of the group from [[Arabel]], where he and [[Kelemvor]] assembled the party that became the Avatar Crisis company. The others joined later — [[Torm of the Dales]], then [[Adon]], then [[Midnight]]. His reasons for everything he does are his own.
 
 He is a companion for now. What he becomes next is not yet written, or is written somewhere the party cannot read yet.
 
@@ -47,7 +49,7 @@ Race:: Human
 Subrace::
 Pronouns:: he/him
 Class:: Rogue (Assassin — suspected)
-Location:: [[Shadowdale]] (en route)
+Location:: [[Shadowdale]]
 Affiliation::
 Deity::
 
