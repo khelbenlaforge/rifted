@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T21:43
-updated: 2026-03-23T21:43
+updated: 2026-03-25T14:25
 ---
 
 # Session 14 - A Coin for the Curse
@@ -18,7 +18,7 @@ updated: 2026-03-23T21:43
 > **Location:** Liminal void (frame); Shadowdale outskirts, Old Skull Inn, Old Skull Inn courtyard (vision)
 > **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions (in vision):** [[Midnight]] (Lea), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
-> **Source:** [[2026-03-23 - Session 14 Transcript (Raw)]]
+> **Source:** Voice memo, processed 2026-03-23
 
 ---
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-18T13:30
+updated: 2026-03-25T14:25
 ---
 
 # Session 12 — Seeds of Deception
@@ -19,7 +19,7 @@ updated: 2026-03-18T13:30
 > **Location:** [[Sunless Citadel]], Grove Level
 > **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
-> **Source:** [[2026-03-16 - Session 12 Transcript (Raw)]]
+> **Source:** Brain dump, processed 2026-03-16
 
 ---
 
