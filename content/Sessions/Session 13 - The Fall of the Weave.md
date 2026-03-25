@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-17
 secret: false
 created: 2026-03-17T19:49
-updated: 2026-03-22T02:33
+updated: 2026-03-25T14:25
 ---
 
 # Session 13 - The Fall of the Weave
@@ -18,7 +18,7 @@ updated: 2026-03-22T02:33
 > **Location:** Arabel → Castle Kilgrave, Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
 > **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Lea]]
 > **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor]]
-> **Source:** [[2026-03-17 - Session 13 Transcript (Raw)]]
+> **Source:** Voice memo + module annotations, processed 2026-03-17
 
 ---
 
