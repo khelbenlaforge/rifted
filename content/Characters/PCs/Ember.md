@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-22T23:01
+updated: 2026-03-26T17:15
 ---
 
 # Ember
@@ -133,6 +133,7 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 | **Speak with Animals** | — | Self | Speak with beasts; 10 min | 1st | V, S | Ritual |
 | **Thunderwave** | CON 14 | Self (15-ft cube) | 2d8 thunder + push 10 ft. on fail | 1st | V, S | — |
 | **Aid** | — | 30 ft. | 3 targets +5 max/current HP; 8 hr | 2nd | V, S, M (cloth) | — |
+| **Air Bubble** *(AAG)* | — | 60 ft. | Up to 5 creatures breathe normally in water/vacuum; 24 hr | 2nd | S | — |
 | **Animal Messenger** | — | 30 ft. | Send tiny beast with message up to 24 hr | 2nd | V, S, M (food) | Ritual |
 | **Beast Sense** | — | Touch | See/hear through beast's senses; 1 hr | 2nd | S | Conc. · Ritual |
 | **Continual Flame** | — | Touch | Permanent heatless flame on object | 2nd | V, S, M† | — |
@@ -151,9 +152,11 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 | **Moonbeam** ★ | CON 14 | 120 ft. | 2d10 radiant in 5-ft cylinder; 1 min | 2nd | V, S, M (moonseed) | Conc. |
 | **Pass without Trace** | — | Self (30 ft.) | +10 Stealth, no tracks; 1 hr | 2nd | V, S, M (ashes) | Conc. |
 | **Protection from Poison** | — | Touch | Neutralize poison; adv. vs. Poisoned; 1 hr | 2nd | V, S | — |
+| **Skywrite** *(XGE)* | — | Sight | Write text visible in clouds; 1 hr | 2nd | V, S | Conc. |
 | **Spike Growth** | — | 150 ft. | 2d4 pierce per 5 ft. moved; 10 min | 2nd | V, S, M (thorns) | Conc. |
 | **Summon Beast** | — | 90 ft. | Summon CR 2 beast spirit; 1 hr | 2nd | V, S, M† | Conc. |
 | **Warding Wind** | — | Self (10-ft radius) | Deafened within; ranged atk disadv.; push gases/vapors; 10 min | 2nd | V | Conc. |
+| **Wither and Bloom** *(SCC)* | CON 14 | 60 ft. | 2d6 necrotic in 10-ft radius (save halves); one creature regains 1d6+4 HP | 2nd | V, S, M (vine) | — |
 
 *† Protection from Evil and Good: M = holy water worth 25+ gp (consumed)*
 *† Continual Flame: M = ruby dust worth 50+ gp (consumed)*

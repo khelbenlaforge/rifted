@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-03-22T22:59
+updated: 2026-03-26T17:50
 ---
 
 # Midnight
@@ -53,6 +53,116 @@ She has been told — she simply knows — that she must find [[Elminster]] in S
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the Sanctum mural, [[Lea]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Lea is not Midnight; no soul connection is implied (at this stage).
+
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 4 |
+| **Class** | Wizard (Abjurer) |
+| **Race** | Human |
+| **Background** | Scholar |
+| **HP (Max)** | 24 |
+| **AC** | 11 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+| **Vision** | Darkvision 60 ft. |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (−1) | 13 (+1) | 14 (+2) | 18 (+4) | 15 (+2) | 15 (+2) |
+
+### Saving Throws
+
+Intelligence +6 · Wisdom +4
+
+### Resistances & Vulnerabilities
+
+None.
+
+### Skills
+
+Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +6
+
+★ *Expertise (doubled proficiency)*
+
+**Languages:** Common · Elvish
+**Tools:** None
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Dagger** *(Nick)* | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
+| **Quarterstaff** *(Topple)* | M +1 | 5 ft. | 1d6−1 bludgeon (versatile 1d8−1) | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
+| **Fire Bolt** | R +6 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
+| **Mage Hand** | — | 30 ft. | Spectral hand; manipulate objects; 1 min | Cantrip | V, S | — |
+| **Prestidigitation** | — | 10 ft. | Minor magical effect | Cantrip | V, S | — |
+| **Chromatic Orb** | R +6 | 90 ft. | 3d8 (chosen element) | 1st | V, S, M† | — |
+| **Command** | WIS 14 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
+| **Comprehend Languages** | — | Self | Understand any language; 1 hr | 1st | V, S, M | Ritual |
+| **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
+| **Magic Missile** | — | 120 ft. | 3 darts × 1d4+1 force (auto-hit) | 1st | V, S | — |
+| **Sleep** | — | 60 ft. | 5d8 HP of creatures unconscious; 1 min | 1st | V, S, M | — |
+| **Unseen Servant** | — | 60 ft. | Invisible servant; 1 hr | 1st | V, S, M | Ritual |
+| **Alter Self** | — | Self | Change form: Aquatic, Natural Weapons, or Appearance; 1 hr | 2nd | V, S | Conc. |
+| **Knock** | — | 60 ft. | Open one locked, stuck, or barred object | 2nd | V | — |
+| **Tasha's Mind Whip** | INT 14 | 90 ft. | 2d6 psychic; atk or move only next turn | 2nd | V | — |
+
+*† Chromatic Orb: M = diamond worth 50+ gp (consumed)*
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Misty Step** | — | Self | Teleport up to 30 ft. to visible location | 2nd | V | — |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Shield** | — | Self | +5 AC until start of next turn | 1st | V, S | — |
+| **Silvery Barbs** | — | 60 ft. | Force reroll of atk/check/save; ally gains adv. on next roll | 1st | V | — |
+
+---
+
+### Features
+
+- **Arcana Expertise** — Arcana at double proficiency (★ in Skills).
+- **Arcane Recovery** — 1/LR after a Short Rest, regain spell slot levels up to 2 combined.
+- **Ritual Adept** — Cast ritual spells without a slot (takes extra 10 min).
+- **Abjuration Savant** — Copy abjuration spells into spellbook for half the gold and time.
+- **Arcane Ward** — Absorbs damage before you do; max HP 12 (2×level + INT); rebuilds when you cast abjuration spells.
+- **Darkvision** 60 ft.
+- **Fey Ancestry** — Advantage on saves vs Charmed.
+- **Trance** — Long Rest = 4 hours.
+
+---
+
+### Spellcasting
+
+**Ability:** Intelligence | **Save DC:** 14 | **Attack Bonus:** +6
+
+**Spell Slots:** 1st ×4 · 2nd ×3
+
+#### Ritual Spells
+
+- *Comprehend Languages* (1st) — 10 min cast — Understand any spoken language for 1 hr.
+- *Detect Magic* (1st) — 10 min cast — Sense magic auras and schools within 30 ft.
+- *Unseen Servant* (1st) — 10 min cast — Invisible servant performs simple tasks; 1 hr.
+
+---
+
+### Inventory
+
+**Armor (equipped):** Robe
+**Magic Items:** Guild Brass Armlet
+**Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Potions of Healing ×2
 
 ---
 Race:: Human

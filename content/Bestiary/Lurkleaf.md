@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-03-17T19:38
+updated: 2026-03-26T18:07
 ---
 
 # Lurkleaf

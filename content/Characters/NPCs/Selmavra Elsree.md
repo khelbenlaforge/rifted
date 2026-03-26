@@ -9,7 +9,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-03-22T23:00
+updated: 2026-03-26T17:51
 ---
 
 # Selmavra Elsree
@@ -48,73 +48,103 @@ Selmavra has been a Harper long enough that the organization feels less like a c
 
 ## Character Sheet
 
-| Level | Class | Race | Background | HP (Max) | AC | Speed | Prof Bonus |
-|-------|-------|------|------------|----------|----|-------|------------|
-| 4 | Ranger (Beast Master) | Wood Elf | Harper | 25 | 15 | 35 ft | +2 |
+| | |
+|---|---|
+| **Level** | 4 |
+| **Class** | Ranger (Beast Master) |
+| **Race** | Wood Elf |
+| **Background** | Harper |
+| **HP (Max)** | 25 |
+| **AC** | 15 |
+| **Speed** | 35 ft. |
+| **Proficiency Bonus** | +2 |
+| **Vision** | Darkvision 60 ft. |
 
-*Vision: Darkvision 60 ft.*
+### Ability Scores
 
 | STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 10 (+0) | 17 (+3) | 13 (+1) | 13 (+1) | 16 (+3) | 8 (−1) |
 
-**Saving Throws:** STR +2 · DEX +5
-**Resistances & Vulnerabilities:** None.
-**Skills:** Nature +3 · Perception +5 · Performance +1 · Sleight of Hand +5 · Stealth +7 · Survival +5
+### Saving Throws
+
+Strength +2 · Dexterity +5
+
+### Resistances & Vulnerabilities
+
+None.
+
+### Skills
+
+Nature +3 · Perception +5 · Performance +1 · Sleight of Hand +5 · Stealth +7★ · Survival +5
+
+★ *Expertise (doubled proficiency)*
+
 **Languages:** Common · Common Sign Language · Elvish · Sylvan · Thieves' Cant · Infernal
-**Tools:** Disguise Kit · Musical Instrument (Harper Agent)
+**Tools:** Disguise Kit · Musical Instrument
 
 ---
 
-**Actions**
+### Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Longbow** *(Slow)* | R +7 | 150/600 ft | 1d8+3 pierce; hit → target speed 0 | — | — | — |
-| **Scimitar** *(Nick)* | M +5 | 5 ft | 1d6+3 slash | — | — | — |
-| **Shortsword** *(Vex)* | M +5 | 5 ft | 1d6+3 pierce | — | — | — |
-| **Unarmed Strike** | M +5 | 5 ft | 4 bludgeoning | — | — | — |
-| Cure Wounds | — | Touch | 2d8+3 HP healed | 1 | V, S | — |
-| Fog Cloud | — | 120 ft | 20-ft radius heavily obscured | 1 | V, S | Conc. |
-| Speak with Animals | — | Self | Communicate with beasts 10 min | 1 | V, S | Ritual |
-| Longstrider | — | Touch | +10 ft speed, 1 hr | 1 | V, S, M (pinch of dirt) | 1/day |
-| Druidcraft | — | 30 ft | Minor nature effect (4 options) | C | V, S | — |
+| **Longbow** *(Slow)* | R +7 | 150/600 ft. | 1d8+3 pierce; hit → target speed 0 | — | — | — |
+| **Scimitar** *(Nick)* | M +5 | 5 ft. | 1d6+3 slash | — | — | — |
+| **Shortsword** *(Vex)* | M +5 | 5 ft. | 1d6+3 pierce | — | — | — |
+| **Unarmed Strike** | M +2 | 5 ft. | 1 bludgeon | — | — | — |
+| **Cure Wounds** | — | Touch | 2d8+3 HP | 1st | V, S | — |
+| **Druidcraft** | — | 30 ft. | Minor nature effect | Cantrip | V, S | — |
+| **Fog Cloud** | — | 120 ft. | 20-ft radius heavily obscured; 1 hr | 1st | V, S | Conc. |
+| **Longstrider** | — | Touch | +10 ft. speed; 1 hr | 1st | V, S, M (pinch of dirt) | 1/day |
+| **Speak with Animals** | — | Self | Communicate with beasts; 10 min | 1st | V, S | Ritual |
 
-**Bonus Actions**
+### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| Hunter's Mark | — | 90 ft | Mark creature; +1d6 dmg on hits; move on kill | 1 | V | Conc. · 2×/LR |
-| Ensnaring Strike | STR 13 | Self | Next hit: target restrained; STR 13 to escape | 1 | V | Conc. |
-| Hail of Thorns | STR 13 | Self | Next ranged hit: +1d10 pierce; 5-ft radius STR 13 | 1 | V | — |
+| **Hunter's Mark** | — | 90 ft. | Mark creature; +1d6 on hits; move on kill; 1 hr | 1st | V | Conc. · 2×/LR |
+| **Ensnaring Strike** | STR 13 | Self | Next weapon hit: target restrained; STR 13 to escape; 1 min | 1st | V | Conc. |
+| **Hail of Thorns** | STR 13 | Self | Next ranged hit: +1d10 pierce in 5-ft radius | 1st | V | — |
+| **Command [[Vesper]]** | — | 30 ft. | Direct Vesper to take an action | — | — | — |
 
-**Reactions**
+### Reactions
 
 *None at this level.*
 
 ---
 
-**Features**
-- **Favored Enemy (Humanoid):** Hunter's Mark always prepared; 2 free casts per Long Rest
-- **Weapon Mastery:** 2 weapons *(reassign on Long Rest)*
-- **Deft Explorer:** Expertise — Stealth; 2 bonus languages
-- **Fighting Style: Archery** — +2 to ranged attack rolls (included above)
-- **Primal Companion:** [[Vesper]] (Beast of the Land) — Bonus Action to command; or sacrifice one attack
-- **Harper Agent:** Thieves' Cant · Musical instrument proficiency · Distracting Melody (Help for ally attack range = 30 ft)
-- **Elven Lineage (Wood Elf):** Druidcraft cantrip · Longstrider 1/day free · Pass Without Trace 1/day at L5
-- **Fey Ancestry:** Advantage on saves vs Charmed
-- **Trance:** Long Rest = 4 hours
+### Features
+
+- **Favored Enemy (Humanoid)** — Hunter's Mark always prepared; 2 free casts per LR.
+- **Weapon Mastery** — Apply mastery to 2 weapons per turn; current: Longbow (Slow), Scimitar (Nick).
+- **Deft Explorer** — Expertise: Stealth (★); 2 bonus languages.
+- **Fighting Style: Archery** — +2 to ranged attack rolls (included above).
+- **Primal Companion** — [[Vesper]] (Beast of the Land); BA to command or sacrifice one attack.
+- **Harper Agent** — Thieves' Cant; musical instrument proficiency; Distracting Melody (Help for ally; range 30 ft.).
+- **Elven Lineage (Wood Elf)** — Druidcraft cantrip; Longstrider 1/day (no slot); Pass Without Trace 1/day at L5.
+- **Fey Ancestry** — Advantage on saves vs Charmed.
+- **Trance** — Long Rest = 4 hours.
 
 ---
 
-**Spellcasting:** WIS · DC 13 · +5 · 3 × 1st-level slots
+### Spellcasting
 
-*Always Prepared (free):* Hunter's Mark
-*Prepared:* Cure Wounds · Ensnaring Strike · Fog Cloud · Hail of Thorns · Speak with Animals
-*Wood Elf (always):* Druidcraft (cantrip) · Longstrider (1/day, no slot)
+**Ability:** Wisdom | **Save DC:** 13 | **Attack Bonus:** +5
 
-**Ritual Spells**
+**Spell Slots:** 1st ×3
+
+#### Ritual Spells
+
 - *Speak with Animals* (XPHB, 1st) — 10 min cast — Understand and speak with beasts for 10 min.
+
+---
+
+### Inventory
+
+**Armor (equipped):** Studded Leather
+**Tools:** Disguise Kit · Musical Instrument
+**Gear:** Quiver, Arrows ×20, Sprig of Mistletoe, Backpack, Bedroll, Oil ×2, Rations ×10, Rope, Tinderbox, Torches ×10, Waterskin, Costume, Grappling Hook, Traveler's Clothes
 
 ---
 

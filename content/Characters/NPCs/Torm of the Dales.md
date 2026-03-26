@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-03-22T22:59
+updated: 2026-03-26T17:47
 ---
 
 # Torm of the Dales
@@ -46,6 +46,104 @@ He knows [[Elminster]]. He told the party in Shadowdale — first casually dropp
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[Jonathan Jordan]] temporarily inhabited Torm's body. JJ is not Torm; the inhabiting is a vision mechanic, not a soul connection — though this may be revisited in the future.
+
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 4 |
+| **Class** | Rogue (Soulknife) |
+| **Race** | Human |
+| **Background** | Urchin |
+| **HP (Max)** | 22 |
+| **AC** | 14 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (−1) | 16 (+3) | 12 (+1) | 7 (−2) | 16 (+3) | 15 (+2) |
+
+### Saving Throws
+
+Dexterity +5 · Intelligence +0
+
+### Resistances & Vulnerabilities
+
+None.
+
+### Skills
+
+Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Persuasion +6★ · Sleight of Hand +5 · Stealth +5
+
+★ *Expertise (doubled proficiency)*
+
+**Languages:** Common
+**Tools:** Thieves' Tools
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Dagger** *(Nick)* | M/R +5 | 5 ft. / 20/60 ft. | 1d4+3 pierce | — | — | — |
+| **Scimitar** *(Nick)* | M +5 | 5 ft. | 1d6+3 slash | — | — | — |
+| **Shortsword** *(Vex)* | M +5 | 5 ft. | 1d6+3 pierce | — | — | — |
+| **Shortbow** *(Vex)* | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
+| **Psychic Blade** *(Vex†)* | M/R +5 | 5 ft. / 60 ft. | 1d6+3 psychic | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1d4−1 bludgeon | — | — | — |
+| **Psychic Whispers** | — | 30 ft. | Telepathic link ≤2 creatures; die-value hrs | — | — | 1 PED |
+
+*† Psychic Blade: Vex is free — doesn't count against the Weapon Mastery limit.*
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
+| **Steady Aim** | — | Self | Adv. on next atk; can't move this turn | — | — | — |
+| **Psychic Blade (2nd)** | M/R +5 | 5 ft. / 60 ft. | 1d4+3 psychic; only if no other weapons used | — | — | — |
+
+### Reactions
+
+*None at this level.*
+
+---
+
+### Features
+
+- **Expertise** — Perception and Persuasion at double proficiency (★ in Skills).
+- **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally is adjacent to the target.
+- **Thieves' Cant** — Secret rogue language and cipher.
+- **Weapon Mastery** — Apply mastery to 2 weapons per turn; properties shown in action table. Psychic Blade Vex is always free.
+- **Psionic Energy Die** (d6, 2/SR) — Fuels Soulknife abilities.
+- **Psi-Bolstered Knack** — When you fail a proficient ability check, roll PED and add it; die not expended if check still fails.
+- **Psychic Whispers** — Telepathic link with ≤2 creatures within 30 ft.; lasts hours equal to PED roll.
+- **Tavern Brawler** — Proficient with improvised weapons; unarmed strikes use d4.
+- **Crafter** — Proficiency with 3 Artisan's Tools; craft items at 50% cost; 20% discount at shops.
+- **Lucky** — 3 luck points/LR; before any roll you make or that targets you, roll an extra d20 and choose which to use.
+- **Human: Resourceful** — Gain Heroic Inspiration after each Long Rest.
+
+---
+
+### Spellcasting
+
+*No class spellcasting. The following are item-granted:*
+
+- **Animate Dead** (Night Caller, 3rd) — 1 min cast, 10 ft. — Animate a corpse as skeleton or zombie; obeys commands for 24 hrs. Night Caller recharges at dawn.
+
+---
+
+### Inventory
+
+**Armor (equipped):** Leather Armor
+**Magic Items:** Night Caller, Guild Brass Armlet
+**Tools:** Thieves' Tools
+**Gear:** Quiver, Arrows ×20, Backpack, Ball Bearings, Bell, Candles ×10, Crowbar, Hooded Lantern, Oil ×7, Rations ×5, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token
 
 ---
 Race:: Human
