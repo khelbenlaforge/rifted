@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-22T22:59
+updated: 2026-03-26T17:47
 ---
 
 # Cyric
@@ -43,6 +43,91 @@ He is a companion for now. What he becomes next is not yet written, or is writte
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). An NPC in the Session 13 prequel vision — the party interacted with him but no PC inhabited his body.
+
+## Character Sheet
+
+| | |
+|---|---|
+| **Level** | 4 |
+| **Class** | Rogue (Assassin) |
+| **Race** | Human |
+| **Background** | Charlatan |
+| **HP (Max)** | 29 |
+| **AC** | 15 |
+| **Speed** | 30 ft. |
+| **Proficiency Bonus** | +2 |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 18 (+4) | 14 (+2) | 14 (+2) | 8 (−1) | 15 (+2) |
+
+### Saving Throws
+
+Dexterity +6 · Intelligence +4
+
+### Resistances & Vulnerabilities
+
+None.
+
+### Skills
+
+Acrobatics +6 · Athletics +2 · Deception +6★ · Intimidation +4 · Investigation +4 · Perception +1 · Persuasion +4 · Sleight of Hand +6 · Stealth +8★
+
+★ *Expertise (doubled proficiency)*
+
+**Languages:** Common
+**Tools:** Thieves' Tools · Forgery Kit · Disguise Kit · Poisoner's Kit
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Dagger** *(Nick)* | M/R +6 | 5 ft. / 20/60 ft. | 1d4+4 pierce | — | — | — |
+| **Shortsword** *(Vex)* | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
+| **Shortbow** *(Slow)* | R +6 | 80/320 ft. | 1d6+4 pierce | — | — | — |
+| **Unarmed Strike** | M +2 | 5 ft. | 1 bludgeon | — | — | — |
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
+| **Steady Aim** | — | Self | Adv. on next atk; can't move this turn | — | — | — |
+
+### Reactions
+
+*None at this level.*
+
+---
+
+### Features
+
+- **Expertise** — Deception and Stealth at double proficiency (★ in Skills).
+- **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally is adjacent to the target.
+- **Thieves' Cant** — Secret rogue language and cipher.
+- **Weapon Mastery** — Apply mastery to 2 weapons per turn; properties shown in action table.
+- **Cunning Action** — Dash, Disengage, or Hide as a Bonus Action.
+- **Assassinate** — Advantage against creatures that haven't acted yet; critical hit on surprised creatures.
+- **Assassin's Tools** — Proficiency with Disguise Kit and Poisoner's Kit.
+- **Poisoner** — Ignore poison resistance; craft poison (2d8 poison + Poisoned 1 min, CON 14 save).
+- **Human: Resourceful** — Gain Heroic Inspiration after each Long Rest.
+
+---
+
+### Spellcasting
+
+*No class spellcasting.*
+
+---
+
+### Inventory
+
+**Armor (equipped):** Leather Armor
+**Gear:** Quiver, Arrows ×20, Backpack, Ball Bearings, Bell, Candles ×10, Crowbar, Hooded Lantern, Oil ×7, Rations ×5, Rope, Tinderbox, Waterskin, Forgery Kit, Costume, Fine Clothes
 
 ---
 Race:: Human
