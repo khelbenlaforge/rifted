@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-22T03:24
-updated: 2026-03-22T03:24
+updated: 2026-03-27T15:40
 ---
 
 # Lyonsbane Panther
