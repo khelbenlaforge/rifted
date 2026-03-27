@@ -10,7 +10,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-03-22T15:57
+updated: 2026-03-27T18:13
 ---
 
 # Vael
@@ -103,5 +103,79 @@ Class::
 Location:: [[Shadowdale]]
 Affiliation:: The Hells
 Deity::
+
+## Character Sheet
+
+| | |
+|---|---|
+| **CR** | 12 |
+| **Type** | Medium Fiend (Devil) |
+| **Alignment** | Lawful Evil |
+| **HP (Max)** | 178 (21d8 + 84) |
+| **AC** | 18 |
+| **Speed** | 30 ft., fly 60 ft. |
+| **Proficiency Bonus** | +4 |
+| **Initiative** | +7 |
+| **Vision** | Truesight 120 ft. |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
+
+### Saving Throws
+
+DEX +7 · CON +8 · WIS +6 · CHA +8
+
+### Resistances & Vulnerabilities
+
+Cold (resistance) · Bludgeon/Pierce/Slash from nonmagical non-silvered (resistance) · Fire (immune) · Poison (immune) · Poisoned (condition immune)
+
+### Skills
+
+Perception +6 · Persuasion +8
+
+**Languages:** Infernal; Telepathy 120 ft.
+**Passive Perception:** 16
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Multiattack** | — | — | 3 attacks (Withering Sword or Longbow) + Entangling Rope | — | — | — |
+| **Withering Sword** | M +8 | 5 ft. | 2d8+4 slash + 2d10 necrotic | — | — | — |
+| **Longbow** | R +7 | 150/600 ft. | 1d8+3 pierce + 3d8 poison; CON 14 or Poisoned | — | — | — |
+| **Entangling Rope** | STR 16 | 120 ft. | 4d6 force + Restrained on fail; rope: AC 20, 90 HP | — | — | — |
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Release Rope** | — | Self | Free Restrained target from Entangling Rope | — | — | — |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Parry** *(on melee hit while armed)* | — | Self | +4 AC against that attack; may cause miss | — | — | — |
+
+---
+
+### Features
+
+- **Diabolical Restoration** — If Vael dies outside the Nine Hells, her body disappears in sulfurous smoke and she revives instantly in the Nine Hells with full HP.
+- **Magic Resistance** — Advantage on saving throws against spells and other magical effects.
+- **Magic Rope** — Vael carries a magic rope (AC 20, HP 90; immune to Poison and Psychic damage). Turns to dust if reduced to 0 HP, 5+ feet from Vael for 1 hour, or if she dies. Fully restores on a Short or Long Rest.
+
+---
+
+### Inventory
+
+**Armor (equipped):** Plate Armor (AC 18)
+
+---
 
 
