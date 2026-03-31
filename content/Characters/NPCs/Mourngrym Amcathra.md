@@ -10,7 +10,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-03-22T15:57
+updated: 2026-03-30T17:47
 ---
 
 # Mourngrym Amcathra
@@ -45,12 +45,14 @@ His wife Shaerl keeps her own counsel — which is all that needs to be said abo
 
 ## Role in the Story
 
-The prequel party meets Mourngrym at the Twisted Tower (Event 4, Session 14). He has already heard about the beast at the Old Skull Inn — curious, not hostile. He offers the party the rank of "Sword" in Shadowdale's defense forces (above guardscaptains, below Knights), 20 gold per day per person, and the implicit weight of his trust.
+The prequel party met Mourngrym at a war council feast in Session 15. He had already heard about the beast at the Old Skull Inn — curious, not hostile. He laid out a map with three colored stones: three-front threat from the Zhentarim. Bloody Doom to the north (Tower Farm, militia holding). Claw of Voonlar to the east (crossroads, Harpers contesting). West Fang to the west (Ashaba Bridge, no full intel). He named [[Manshoon]] as the architect — legendary Zhentarim wizard, staying at Zhentil Keep, sent battle lords instead of coming himself.
 
-By Event 5, when the Zhentarim war drums are heard from the north, Mourngrym is already at the window.
+He offered the rank of Sword — above guardscaptains, below the Knights — at twenty gold per day per person. The party accepted.
 
 > [!quote]
 > *"Bane has come to Shadowdale. And it seems we're the only thing standing between him and the Temple. Will you stand?"*
+
+They stood. The party deployed to the Ashaba Bridge alongside [[Storm Silverhand]], [[Rathan Thentraver]], and "Torm."
 
 ---
 Race:: Human

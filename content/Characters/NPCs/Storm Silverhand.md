@@ -10,7 +10,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-03-27T16:43
+updated: 2026-03-30T17:46
 ---
 
 # Storm Silverhand
@@ -164,6 +164,14 @@ Performance +15 · Persuasion +15 · History +13 · Insight +13 · Athletics +8 
 **Armor (equipped):** Half Plate
 **Spellcasting Focus:** Silver harp (also serves as weapon focus per Martial Training)
 **Gear:** Traveler's Clothes · Component Pouch
+
+## Session 15
+
+At the tower, she was watching the treeline when the party arrived. Her eyes went straight to [[Midnight]] — no words, just a pointed look that Midnight's Insight check read as concealed grief.
+
+During [[Elminster]]'s speech, she raised her hand: silver fire from the palm. *"All of us have a piece of [[Mystra]]."* The confirmation that multiple fragment carriers exist, and that Storm is one, changed the weight of what the pendant means.
+
+Before the battle, she cast a song-spell on Midnight to block all scrying and divination targeting her. Then she fought. At the Ashaba Bridge, she took out nine infantry in a single exchange. She did not explain the song-spell afterward, and no one asked.
 
 ---
 Race:: Human

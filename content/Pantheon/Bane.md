@@ -8,6 +8,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-30T17:46
+updated: 2026-03-30T17:46
 ---
 
 # Bane

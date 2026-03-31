@@ -2,6 +2,7 @@
 title: Torm of the Dales
 aliases:
   - Torm (adventurer)
+  - Torm
 tags:
   - npc
 campaign: Rifted
@@ -9,7 +10,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-03-26T17:47
+updated: 2026-03-30T18:16
 ---
 
 # Torm of the Dales
@@ -144,6 +145,14 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 **Magic Items:** Night Caller, Guild Brass Armlet
 **Tools:** Thieves' Tools
 **Gear:** Quiver, Arrows ×20, Backpack, Ball Bearings, Bell, Candles ×10, Crowbar, Hooded Lantern, Oil ×7, Rations ×5, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token
+
+## Session 15
+
+[[Rathan Thentraver]] was at [[Elminster]]'s Tower when the party arrived. The reunion: *"Two silver, Torm."* A bear hug, then held at arm's length, grin wide. No suspicion — Rathan read [[Jonathan Jordan]] as Torm and saw what he expected to see. Later, at the war council: *"You're the only one who keeps this place lively."*
+
+Rathan explained to the others: Torm is a Knight of Myth Drannor, one of the Ninth regiment returning. He is also a Harper. Both identities were already known to the prequel party; hearing them named aloud, by his closest friend, to a room full of lords and Knights, settled the shape of who he is in this era.
+
+At the Ashaba Bridge, mid-battle, [[Illistyl Elventree]] found him between phases. *"You're alive."* Then she launched him back into the fray with a force spell and kissed him on the cheek as he flew. JJ had no idea who she was.
 
 ---
 Race:: Human

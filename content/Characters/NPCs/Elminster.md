@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-18T20:22
-updated: 2026-03-27T17:38
+updated: 2026-03-30T17:45
 ---
 
 # Elminster
@@ -41,6 +41,14 @@ One of the most powerful and longest-lived wizards in the known world. He makes 
 ## Role in the Story
 
 The destination of the party's prequel journey. Following [[Mystra]]'s destruction at the hands of [[Helm]], [[Torm of the Dales]] relayed Helm's cryptic directive — *find the Tablets of Fate* — and the group turned toward Shadowdale. Elminster is their best hope for understanding what that means and what comes next.
+
+In Session 15, the prequel party found him at the pond outside the tower — feet in water, pipe going, hat on. He greeted them with characteristic economy: *"Took ye long enough. Sit down, you're blocking the light."* He conjured a bench on the spot. To "Torm" (JJ): *"Did ye, at any point this evening, attempt to pick someone's pocket during an armed altercation?"* He explained the Avatar Crisis in full — [[AO]], the Tablets, the Celestial Stairway — and recruited the party to deny [[Bane]] its use.
+
+At the Temple of Lathander, he fought Bane in an arcane duel spanning four rounds: Time Stop, Wish for a third stop, Disintegrate, Power Word Kill, the full weight of four centuries of earned arsenal — while simultaneously working to seal the Stairway. He fell on Round 8. Dropped to one knee, smoke rising from his robes, eyes moving to [[Midnight]]'s pendant — blazing brilliant. *"Be brave lass, take him down."*
+
+He passed through the Celestial Stairway in the explosion that followed, along with Bane and Mystra's fragment. His hat, pipe, and staff were left on the Temple floor.
+
+He is not dead. Displaced.
 
 ## Character Sheet
 
