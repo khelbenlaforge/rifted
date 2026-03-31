@@ -1,6 +1,7 @@
 ﻿---
 title: Rathan Thentraver
 aliases:
+  - Rathan
 tags:
   - npc
 campaign: Rifted
@@ -8,7 +9,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T03:50
-updated: 2026-03-27T16:17
+updated: 2026-03-30T18:16
 ---
 
 # Rathan Thentraver
@@ -167,6 +168,12 @@ History +4 · Insight +6 · Medicine +6 · Persuasion +6 · Religion +4
 **Armor (equipped):** Chain Mail · Shield
 **Holy Symbol:** Tymora's coin (silver, worn around neck)
 **Gear:** Backpack · Bedroll · Rations ×5 · Waterskin · Rope · Torch ×5 · Vestments · Wine (good, 2 bottles) · Dice set · Playing card set · Crossbow bolts ×20
+
+## Session 15
+
+At the tower when the party arrived. First sight of "Torm" ([[Jonathan Jordan]]): *"Two silver, Torm"* — then a bear hug, held at arm's length, grin returning. He read JJ as Torm and found no reason to doubt it. He had the warmth of someone who has been quietly worried and is relieved not to need to be. Later, at the war council: *"You're the only one who keeps this place lively."*
+
+At the Ashaba Bridge crossroads, he used his Ring of the Ram to devastating effect on Zhentarim formations — methodical and high-impact, the way he fights when it actually matters.
 
 ---
 Race:: Human

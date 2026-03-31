@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-03-26T17:50
+updated: 2026-03-30T17:44
 ---
 
 # Midnight
@@ -49,6 +49,18 @@ The blue-white star pendant, entrusted by Mystra and returned after Mystra's des
 In Session 14, during the courtyard encounter, the pendant activated independently — a Chaos Magic Reverse Gravity effect sent her airborne, and the pendant responded to the genuine danger without her willing it, floating her safely back down. The power answers to danger, not to intention.
 
 She has been told — she simply knows — that she must find [[Elminster]] in Shadowdale. She leveled to 4 mid-combat; her Intelligence is now 18 (spell DC 14).
+
+In Session 15, at the Temple of Lathander, the pendant ignited. Midnight became something else entirely — wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know — I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky — and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside Arabel.
+
+She has been carrying something that was always bigger than her. Now she is not.
+
+## Session 15
+
+The cipher note from the Zhentarim commander, decoded jointly with [[Selmavra Elsree]]: Midnight was listed as the *pendant bearer* — *acquire or neutralize; carries fragment of divine intelligence, value: CRITICAL*. She read more than she shared with the group. What she kept back, and why, she has not said.
+
+At [[Elminster]]'s tower, [[Storm Silverhand]] cast a song-spell to block all scrying and divination targeting her. Midnight accepted this without comment.
+
+The pendant is empty now. She carried a goddess without knowing it. What she carries instead remains to be seen.
 
 ## Role in the Vision
 

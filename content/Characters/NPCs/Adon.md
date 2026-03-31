@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-26T17:27
+updated: 2026-03-30T17:44
 ---
 
 # Adon
@@ -191,6 +191,12 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 **Armor (equipped):** Chain Shirt, Shield
 **Magic Items:** Guild Brass Armlet
 **Gear:** Holy Symbol, Backpack, Blanket, Lamp, Tinderbox, Rations ×7, Fishing Tackle, Favorite Fishing Lure, Robe, Traveler's Clothes, Pouch
+
+## Session 15
+
+In the Temple of Lathander, during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
+
+The scar is permanent. For a cleric of [[Sune]] — the goddess of beauty — this is not a minor wound. How Adon reconciles a god of beauty's silence at the moment her chosen was permanently scarred is a question he has not yet had to face.
 
 ---
 Race:: Human

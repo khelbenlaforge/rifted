@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-23T22:44
+updated: 2026-03-30T18:23
 ---
 
 # Campaign Timeline
@@ -402,8 +402,121 @@ The Lyonsbane Panther held off killing for most of the fight, then finished the 
 
 ---
 
+## Year 222 PA — 17th Marpenoth (Session 15 — Prequel Vision, continued)
+
+### The Aftermath and the Cipher
+
+[[Kelemvor Lyonsbane|Kelemvor]] came back from the panther with no memory of the last ten minutes. Naked on the courtyard stones, [[Augustus Kennedy]] conscious and watching from the inside, he made do with two grain sacks.
+
+[[Vael]] dropped from the rooftop ledge without sound — tall, dark-haired, composed — and looked at [[Selmavra Elsree|Selmavra]] the way an architect looks at a building she is already redesigning. *"Jumping into danger for strangers? Fascinating."* She went invisible. She did not leave.
+
+Six Zhentarim bodies. One cipher note hidden in a Commander's coat lining: *Operation Shadowfall. Pendant bearer: acquire or neutralize. Carries fragment of divine intelligence. Value: CRITICAL. Lyonsbane Rider: do not engage — draw out and observe.* [[Midnight]] and [[Selmavra Elsree|Selmavra]] decoded it together. Midnight handed back a version of the note that was not the full version she read. She filed the remainder.
+
+In the liminal space between their original minds, all five PCs convened. History checks on the names they now carried: [[Elminster]] and [[Khelben Blackstaff]] as the twin poles of Faerûnian arcane power; [[Manshoon]] of [[Zhentil Keep]] as the dark counterweight. One of them rolled a natural 20. The name it surfaced: **Corran Blackstaff** — Khelben's son. In Aenath, that name belongs to the archmage who sacrificed himself to stabilize the world 222 years ago. The party carries this forward.
+
+### The Tower at the Pond
+
+The walk to [[Elminster]]'s tower was short. [[Vael]] made it at [[Selmavra Elsree|Selmavra]]'s shoulder, invisible, close enough to feel.
+
+[[Elminster]] at the edge of the pond: feet in the water, pipe lit, hat at a familiar angle. [[Storm Silverhand]] at the treeline, watching the shadows between the trees. [[Rathan Thentraver|Rathan]] on a garden wall eating an apple.
+
+Storm's eyes went straight to [[Midnight]] the moment the party rounded the hedge. No words. Just a look — and behind the deliberate stillness, Midnight's Insight caught something: old grief, the kind that has learned to stay quiet.
+
+Rathan dropped off the wall. *"Two silver, Torm."* [[Jonathan Jordan]] walked into the hug. Rathan held him at arm's length, grinned, and found nothing wrong.
+
+Elminster turned without standing. *"Took ye long enough. Sit down, you're blocking the light."* A bench assembled itself from the garden.
+
+### What Elminster Knows
+
+He laid it out efficiently. **Ao the Overgod** stripped the gods of their power — not diminished, removed. They walk mortal flesh now. Magic is unstable because its source is unstable. The **Tablets of Fate** were stolen; without them the divine compact cannot be restored. One tablet is in **Tantras**, Dragon Reach, to the east.
+
+Beneath the **Temple of Lathander**: a **Celestial Stairway**, invisible to most — a road out of Faerûn for gods. [[Bane]] is coming for it. The power in [[Midnight]]'s pendant is specifically what he wants to carry through. **[[Helm]]** alone retained his divine power.
+
+Storm raised her hand. Silver fire ran across her palm. Elminster did the same. *"All of us have a piece of Mystra."* Multiple carriers. The goddess scattered when she died; the shards landed in people who could hold them.
+
+The plan: neutralize Bane, do not kill him. Another dead god worsens the instability. [[Mystra]]'s death has already doubled chaos in the Weave.
+
+Storm's instrument came out without ceremony. The song was not for listening — a ward, precision-cast, closing around Midnight against every scrying eye currently reaching through the Weave for a specific pendant.
+
+[[Rathan Thentraver|Rathan]] explained [[Torm of the Dales|Torm]] while Torm pretended not to hear. Knight of Myth Drannor. The Ninth regiment on its way back from the east. *"He's the only one who keeps this place lively."*
+
+### The Lord's Table
+
+[[Mourngrym Amcathra]] ran his war council over a feast. Three colored stones on the map: **the Bloody Doom** pressing north on Tower Farm; **the Claw of Voonlar** at the crossroads, the [[The Harpers|Harpers]] contesting it; **the West Fang** moving toward Ashaba Bridge — Selmavra's Harpers had been watching it, but the intelligence was fragmentary.
+
+[[Manshoon]] — legendary wizard-lord of the [[Zhentarim]], author of the battle plan — was at [[Zhentil Keep]], not in the field. He had sent battle lords instead of coming himself.
+
+Mourngrym offered the party the rank of Sword — above guardscaptains — at twenty gold a day. They accepted. For [[Kelemvor Lyonsbane|Kelemvor]], the distinction mattered beyond coin: fighting under official orders, in service to a lord, was not the same as mercenary work. The curse took note.
+
+### The West Fang and the Ninth
+
+The drums came before the soldiers. Approximately fifty infantry plus a Battlelord crossed toward Ashaba Bridge. [[Selmavra Elsree|Selmavra]] dropped Hunter's Mark on the Battlelord and held it through the press. Storm took out nine in a single pass. Fog Cloud collapsed the enemy rear just long enough for the flanks to close. [[Vesper]] fought alongside [[Cyric]], two animals that didn't trust each other and were efficient for it. [[Midnight]] landed a Tasha's Mind Whip — twelve psychic, then the Chaos table fired and divided it. The cavalry arrived on the ninth phase. The West Fang broke and routed. The bridge held.
+
+Then a second large force appeared on the far side.
+
+The Knights of Myth Drannor arrived at speed behind their own banners — silver moon and harp — the Ninth regiment already converging on the sound of battle. [[Florin Falconhand]] grabbed [[Rathan Thentraver|Rathan]] by the collar and tossed him into the fray. [[Dove Falconhand]] flanked without being asked. [[Jhessail Silvertree]] dropped a Fireball that touched no allies. [[Lanseril Snowmantle]] called lightning down the column. [[Merith Strongbow]] found the officers.
+
+[[Illistyl Elventree]] found [[Torm of the Dales|Torm]]. *"You're alive."* She launched him into the second force with a force spell. Kissed him on the cheek as he flew. [[Jonathan Jordan]] had no idea who she was and played it as well as he could.
+
+### The Temple of Lathander
+
+Word came from a runner mid-battle: an elite Zhentarim force bearing down on the Temple of Lathander. Something within that force was not soldiers.
+
+The party retreated into the Temple. [[Elminster]] barred the doors. The Celestial Stairway — invisible before — glowed through the stone floor. [[Midnight]]'s pendant responded: warmth, recognition. Six turns of preparation. *"Now we wait."*
+
+The Zhentarim did not knock. Six infantry and a Battlelord poured through the shattered doors while Elminster stood near the Stairway in absolute concentration, working on something only he could see.
+
+Round five. A specific cold filled the room — the kind that is not temperature but is understood as temperature. The kneeling soldiers went flat. The Battlelord sheathed his sword. [[Bane]] teleported into the center of the Temple: eight feet tall, black plate, gauntlet symbol, red eyes in a mortal face. Halfway between the party and the Stairway. He looked at the Stairway. Then at Midnight. Then at Elminster.
+
+Nothing was said.
+
+### Two Time Stops and a Wish
+
+Bane opened with Meteor Swarm. Elminster was already moving: Time Stop — four extra moves — spending resources that took decades to accumulate as though they were infinite. Bane took his own Time Stop. Power Word Kill in the air. Elminster kept working. Wish bought a third. Disintegrate. Chains of light. The Stairway growing brighter with every exchange as whatever Elminster was trying to do fell incrementally further behind.
+
+[[Midnight]] was being pulled toward the Stairway. The pendant knew where it came from. The party held her — four sets of hands on her arms, her shoulders, her coat — anchoring her the way you anchor a door in a storm.
+
+Round eight. [[Elminster]] dropped to one knee, smoke rising from his coat. His eyes found Midnight's pendant, glowing brilliantly, filling the temple with light no eye could agree on the color of.
+
+*"Be brave, lass. Take him down."*
+
+### She Remembers
+
+The pendant ignited.
+
+[[Midnight]] became something else — or entirely herself, more than she had ever been: wild-haired, glowing, made of blue-white starmotes. The voice that came out of her was not only hers.
+
+*"You killed me once. I thought you should know — I remember."*
+
+She bound herself to [[Bane]]. Not a spell — something older. She wrapped around him and began to pull toward the Stairway, toward the door out of the world. She was smiling.
+
+A masonry shard from the crumbling east wall caught [[Adon]] across the face. He noticed the blood on his fingers only after. It will leave a scar: permanent, across the face of a cleric of [[Sune]], in the wreckage of a temple, in the moment a dead goddess chose to die again on purpose.
+
+The east wall blasted outward. The Stairway was gone. [[Bane]] was gone. [[Elminster]] was gone. [[Mystra]] was gone. All five PCs on the floor.
+
+The pendant in Midnight's hand: cold. For the first time since she found it, just a pendant — the fragment spent, the piece of a goddess given away.
+
+### The Accusation
+
+[[Sharantyr]] entered through the broken doors with Harpers behind her, swords drawn. She found strangers in the wreckage where Elminster had been. His hat on the floor. His pipe. His staff.
+
+*"You will stand trial for the murder of Elminster, Sage of Shadowdale."*
+
+She got to the word *Shadowdale* —
+
+### The Vision Ends
+
+— and the vision fractured.
+
+Five pairs of eyes, blinking in the dark. Stone walls. The mural no longer glowing. Durnn's Research Lab. The Sunless Citadel around them, unchanged.
+
+The prequel vision was complete. They carried with them what no one in Aenath should know: that the man who built their world was the son of one of Faerûn's greatest mages, that a dead goddess chose her ending deliberately, and that an old man burned everything he had so a young woman could finish the job.
+
+---
+
 ## Active Threads
 
+**Present (Sunless Citadel — Year 222 PA):**
 - [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn Hucrele]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
 - Kobold civil war resolved: [[Yusdrayl]] dead, [[Ragh]] leads [[Ordahir Kobolds]], [[Calcryx]] freed
 - The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
@@ -413,13 +526,20 @@ The Lyonsbane Panther held off killing for most of the fight, then finished the 
 - [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
-- The [[Mystra]]–[[Kelemvor]] history (love and betrayal sensed by [[Lea]]) — partially confirmed: Kelemvor traveled with [[Midnight]] during the Avatar Crisis
-- **Avatar Crisis prequel (continuing in Session 15):** party is in [[Shadowdale]] post-courtyard; Elminster meeting pending; Rathan + Storm arrive at tower (Event 3); Bane's war drums will sound (Event 5); cipher note, Vael appearance, and loot deferred
-- [[Cyric]] attacked the panther without knowing it was Kelemvor — unresolved in-party
-- [[Kelemvor]]'s panther curse now witnessed by the full party + Selmavra + Cyric; his future role as god of death remains unseen
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
 - The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
 - The PCs' missing essence and its slow regeneration
+
+**From the Prequel Vision (carried forward):**
+- [[Midnight]]'s pendant is cold and empty — what does she do with that?
+- Midnight withheld part of the cipher from the group — what did she keep back, and why?
+- [[Adon]]'s permanent scar — a cleric of [[Sune]] marked across the face; faith crisis incoming
+- **Tablets of Fate → Tantras** — one tablet in Dragon Reach, to the east; the party's eventual road
+- [[Elminster]]'s fate — not dead; displaced through the Celestial Stairway; somewhere past it
+- **Corran Blackstaff's lineage** — son of [[Khelben Blackstaff]], Archmage of Waterdeep; the founding mage of Aenath is Faerûnian by blood; no one in Aenath should know this
+- [[Cyric]] attacked the panther without knowing it was [[Kelemvor Lyonsbane|Kelemvor]] — unresolved
+- [[Kelemvor Lyonsbane|Kelemvor]]'s future as god of death — the party has now watched the arc from inside it
+- [[Illistyl Elventree]] is filing away the specific quality of "Torm's" confusion when she reached for him
 
 

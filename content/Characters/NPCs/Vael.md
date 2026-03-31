@@ -10,7 +10,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-03-27T18:13
+updated: 2026-03-30T17:47
 ---
 
 # Vael
@@ -93,7 +93,11 @@ This thread mirrors [[Ember]]'s established infernal duality. Asmodeus stayed be
 
 ## Role in the Story
 
-First appearance: Session 14 courtyard encounter. See DM Notes for timing.
+First appearance: Session 14 courtyard encounter (stable roof, watching — wings folded, then half-open, then folded again).
+
+In Session 15, she dropped to the cobblestones immediately after [[Kelemvor]] transformed back. She walked to [[Selmavra Elsree]]: *"Jumping into danger for strangers? Fascinating."* Then went invisible — but did not leave. She was at Selmavra's shoulder the entire walk to [[Elminster]]'s Tower. At the Ashaba Bridge, Selmavra caught her silhouette at the edge of her vision more than once during the fighting. No interference. She witnessed.
+
+This is Phase 3 committed. She attended Selmavra's most obviously heroic night and did it openly, in the company of Harpers and Knights of Myth Drannor, standing at her shoulder as if she belonged there. She does not know what to do with this.
 
 ---
 Race:: Devil (Erinyes)

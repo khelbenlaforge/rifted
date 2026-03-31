@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-03-22T22:58
+updated: 2026-03-30T17:45
 ---
 
 # Kelemvor Lyonsbane
@@ -41,6 +41,10 @@ The [[Lyonsbane Panther]] *bursts out* of him. When the curse ends, he *bursts o
 He revealed this at camp, during Session 13, after the party found him unconscious in the dark with a dead deer nearby and black fur in the underbrush. He told them: *the reason I leave is that I don't want any of you in the way.*
 
 In Session 14, the transformation was witnessed for the first time by the full party — including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a Zhentarim Agent to save [[Midnight]] being dragged toward the gate — no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
+
+In Session 15, he woke on those cobblestones with [[Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
+
+Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Whether this satisfies the curse's distinction between service and personal mercenary gain is a question the night did not answer.
 
 ## Background
 
