@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-26T17:17
+updated: 2026-04-01T18:51
 ---
 
 # Jonathan Jordan
@@ -55,6 +55,8 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - Departed south with [[Lea]], [[Ember]], and [[Augustus Kennedy]] to rescue the Hucrele children
 - Traversed marshes and descended into a subterranean fortress
 - **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Torm of the Dales]] — a Knight of Myth Drannor and Harper operating undercover in Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and death at [[Helm]]'s hands; headed toward [[Shadowdale]] to find [[Elminster]]
+- **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: JJ watches himself in a Los Angeles agent meeting — pitch is good, not a name yet, the pool won't clean itself. He is outside the moment, watching the gap he left. In the liminal void, debriefed the others on what he'd witnessed. Arrived in [[Shadowdale]] as Torm; [[Selmavra Elsree]] clocked his Harper walk from a mile out at the gate and said nothing. At the [[Old Skull Inn]], Selmavra played the password: she "almost named Vesper Michael C. Jordan." Torm's counter: *"Augie would be a great name for a familiar. Gill also, actually."* Cover held. In the courtyard, put a crossbow bolt through the Zhentarim Agent's throat — crit — and freed [[Midnight]]. Went down in the fighting; got revived; came back up
+- **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s pond, [[Rathan Thentraver]] dropped off the wall: *"Two silver, Torm."* An inside joke from a long time ago between people who have been in danger together — a door opening. Torm walked into the hug without hesitation. Elminster, without standing: *"Did ye, at any point this evening, attempt to pick someone's pocket during an armed altercation?"* Rathan explained Torm to the room while Torm pretended not to be listening — Knights of Myth Drannor, Ninth regiment, years of history in this town he mentioned to nobody. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. When the Ninth arrived, [[Illistyl Elventree]] found him: *"You're alive."* — said the way you say things held in one hand for a very long time. She raised the other and launched him into the fray with a force spell, and in the exact moment he left the ground, kissed him on the cheek. He flew. He was smiling. Held [[Midnight]] against the pull of the Celestial Stairway in the Temple of Lathander as [[Bane]] arrived. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
 - **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** -- Fellow travellers from Earth; party members through shared danger
@@ -62,7 +64,10 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - **[[Elmindaria L'Thorian]]** -- Guild scholar; pranked him with Invisibility, then became the target of his heist test -- and respected him for it
 - **[[Luks Borg]]** -- Guild combatant; travelled together to [[Sunhold]]; Luks has a daughter in [[Crystal City]]
 - **[[Adamantine Guild]]** -- Member and apprentice; currently assigned to the [[Sunhold]] outpost
-- **[[Torm of the Dales]]** -- Knight of Myth Drannor whose body JJ inhabited during the Session 13 Sanctum vision; whether this connection runs deeper remains an open question
+- **[[Torm of the Dales]]** -- Knight of Myth Drannor and Harper whose body JJ inhabited across three sessions of the prequel vision. The connection goes deeper than inhabitation: Torm's relationships, history, and identity in Shadowdale all moved through JJ's hands. Whether that leaves a mark on JJ himself remains an open question
+- **[[Rathan Thentraver]]** -- Cleric of Trickery and old friend of Torm's; greeted Torm with an inside joke the moment he arrived at Elminster's tower. The kind of man who holds people at arm's length after a hug and looks for what's wrong behind the eyes
+- **[[Illistyl Elventree]]** -- Knight of Myth Drannor; found Torm on the battlefield and kissed him on the cheek before launching him into the fray. Said "You're alive" the way you say something you've been carrying
+- **[[Elminster]]** -- The Sage of Shadowdale, who saw through Torm immediately and was not surprised by any of it. Held [[Bane]] in the Temple of Lathander until [[Midnight]] could finish the job
 - **[[Michael C Jordan]]** — His rat from Earth. Followed him through the rift. Wears a tiny rogue outfit. Obeys orders. Somehow this is fine.
 
 ## Character Sheet

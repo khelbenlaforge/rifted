@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-03-26T17:15
+updated: 2026-04-01T19:00
 ---
 
 # Ember
@@ -56,12 +56,15 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 - Traversed marshes and descended into the [[Sunless Citadel]], encountering dead goblins and signs of necromancy
 - **Session 11** — During the trial of the Sealed Door in the [[Sunless Citadel]], deity symbols of both nature and the lower planes gravitated toward her simultaneously, exposing her dual nature. Inside a spiritual battlefield, an echo of [[Mielikki]] urged her to accept both sides of herself. [[Asmodeus]]'s manifestation refused to leave her side even after the other infernal deities withdrew
 - **Session 14** — Cold open revealed her Earth backstory: she worked at an animal shelter. Chaos of an ordinary shift: a regular volunteer walked in with a pangolin. Animal Control was on the phone. Her assistant announced the pangolin to the room at full volume — and to the inspector on the other end of the line. She was watching herself from outside, just like the others. Rejoined JJ/Gill/Lea in the liminal void, then descended into the prequel to inhabit [[Selmavra Elsree]] — a Harper skirmish commander stationed in [[Shadowdale]] during the Avatar Crisis.
+- **Marpenoth, 222 PA (Session 15)** — After the courtyard battle, [[Vael]] dropped silently from the rooftop ledge and studied the aftermath. Her eyes moved to Selmavra: *"Jumping into danger for strangers? Fascinating."* Then she went invisible and did not leave. She walked the road to [[Elminster]]'s tower at Selmavra's shoulder — invisible, present, close enough to feel as a displacement in the air. At Elminster's tower, the shape of the crisis was laid out: Tablets of Fate, Celestial Stairway, [[Bane]] coming for [[Midnight]]'s pendant. At [[Mourngrym Amcathra]]'s war council, Selmavra's Harper intelligence on the West Fang was the weakest strand — movement sightings, no numbers. Commissioned as Sword of [[Shadowdale]]. Fought the West Fang at Ashaba Bridge: Hunter's Mark on the Battlelord through the press; cast Hail of Thorns and took the Chaos rebound herself — eight damage, shook it off; [[Vesper]] fought alongside [[Cyric]], two animals that didn't trust each other and were efficient because of it. When the Ninth arrived, the bridge held. In the Temple of Lathander, held Midnight against the pull of the Stairway as [[Bane]] arrived. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
 - **[[Lea]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger
 - **[[Sylvara Oakwhisper]]** -- Ranger mentor at [[Mielikki]]'s Grove; teaches the balance of wild and civilised
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified her druidic essence; unwitting victim of the Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
+- **[[Selmavra Elsree]]** -- Harper skirmish commander whose body Ember inhabited across two sessions of the prequel vision. Ten years in the Shadowdale region, a wolf named Vesper, and the specific competence of someone who has been watching for a very long time and found it useful
+- **[[Vael]]** -- Erinyes who appeared after the courtyard battle and has been watching ever since. Specifically watching Selmavra. *"Jumping into danger for strangers? Fascinating."* She walked invisible at Selmavra's shoulder all the way to Elminster's tower. What she wants is not yet clear
 
 ## Character Sheet
 

@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-03-30T17:45
+updated: 2026-04-01T19:05
 ---
 
 # Kelemvor Lyonsbane
@@ -44,7 +44,7 @@ In Session 14, the transformation was witnessed for the first time by the full p
 
 In Session 15, he woke on those cobblestones with [[Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
 
-Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Whether this satisfies the curse's distinction between service and personal mercenary gain is a question the night did not answer.
+Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Official orders. Service to a lord. For Shadowdale rather than for personal coin. That is not selflessness — that is employment, and the curse understands the distinction. He filed it away. He had not known that before.
 
 ## Background
 

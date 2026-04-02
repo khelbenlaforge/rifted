@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-20T22:47
+updated: 2026-04-01T18:49
 ---
 
 # Lea
@@ -56,6 +56,9 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - Traversed marshes and followed tracks to a ravine; descended into a subterranean fortress
 - Cast Detect Magic within the fortress, sensing necromantic magic behind a trapped hidden door; used Mage Hand to trigger the trap remotely
 - **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
+- **Marpenoth, 222 PA (Session 14)** — Arrived in [[Shadowdale]] as Midnight; clocked by [[Selmavra Elsree]] at the gate before entering. At the [[Old Skull Inn]], decoded the Zhentarim cipher recovered from the Commander's hidden lining — *Operation Shadowfall*, pendant bearer flagged as CRITICAL — and shared a version with the group that omitted certain details. She is not lying. She is editing. In the liminal space between her Earth-mind and Midnight, Lea shared the full text; the party pieced together [[Elminster]], [[Khelben Blackstaff]], and [[Manshoon]] — and on a natural 20, a name that landed wrong: *Corran Blackstaff*, son of the Archmage of Waterdeep. In the courtyard, Midnight was seized by a Zhentarim Agent and freed by [[Torm of the Dales]]'s crossbow bolt; cast *Command* on the Commander; when Reverse Gravity launched her into the air, the pendant activated on its own — a shard of [[Mystra]] reaching up to catch itself on the way down
+- **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower: learned the Tablets of Fate rest in Tantras, east; the Celestial Stairway lies beneath the Temple of Lathander; multiple people carry fragments of [[Mystra]], including Elminster and [[Storm Silverhand]]. Storm wove a warding song specifically around Midnight to close her off from Zhentarim scrying. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge — a Tasha's Mind Whip on the Battlelord fed the Chaos table and scattered the damage in directions it was not aimed. When [[Bane]] entered the Temple of Lathander, the pendant pulled toward the Stairway and the party held her back — four sets of hands against a divine current. [[Elminster]] dropped to one knee and found her eyes: *"Be brave, lass. Take him down."* The pendant ignited. Midnight became something older than herself — wild-haired, glowing, made of blue-white starmotes — and spoke in a voice that was not entirely hers: *"You killed me once. I thought you should know — I remember."* She bound herself to [[Bane]] and pulled him through the Stairway, smiling. The pendant went cold. For the first time since Castle Kilgrave, it was just a pendant. The vision fractured on [[Sharantyr]]'s mid-sentence accusation of Elminster's murder. All five returned to Durnn's Research Lab
+- **Crossing vision resolved** — The words heard crossing from Earth — *"Midnight. ke-le."* — were a name and a name: Midnight and [[Kelemvor Lyonsbane|Kelemvor]]. The campfire at the edge of a dark forest. The armoured warrior watching the fire. The moment glimpsed across two worlds is no longer a mystery
 
 ## Relationships
 - **[[Ember]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
@@ -63,7 +66,10 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - **[[Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
-- **[[Midnight]]** -- Avatar Series wizard whose body Lea inhabited during the Session 13 Sanctum vision; connection to her crossing vision (*"Midnight. ke-le."*) remains unexplained
+- **[[Midnight]]** -- The Avatar Series wizard whose body Lea inhabited across three sessions of the prequel vision. The connection to Lea's crossing vision is now resolved: *"Midnight. ke-le."* was Midnight's name and Kelemvor's. In the final moments, Midnight became the instrument of [[Mystra]]'s last act — and the pendant she carried went cold in her hand
+- **[[Elminster]]** -- The Sage of Shadowdale, who held [[Bane]] in the Temple of Lathander long enough for Midnight to end it. He did not survive the exchange in any conventional sense. His last words to Midnight, before dropping to one knee, were an instruction and a kindness
+- **[[Storm Silverhand]]** -- [[Mystra]]'s Chosen and Elminster's companion; wove a warding song around Midnight to close her off from Zhentarim scrying. Carries a fragment of Mystra's power, like Midnight. The grief behind her neutrality was visible to anyone paying attention
+- **[[Sharantyr]]** -- Harper who arrived at the Temple of Lathander to find five strangers in the wreckage where Elminster had been. She got as far as "murder of Elminster, Sage of Shadowdale" before the vision fractured. She does not know what happened. She does not know who they are
 
 ## Character Sheet
 

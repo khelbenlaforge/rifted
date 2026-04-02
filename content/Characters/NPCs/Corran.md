@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: dead
 created: 2026-03-16T04:22
-updated: 2026-03-18T12:45
+updated: 2026-04-01T19:05
 ---
 
 # Corran
@@ -35,11 +35,14 @@ The land itself bears his name. The [[Jade Spire]] of [[Crystal City]] memoriali
 
 His legacy intertwines with that of a rotund cleric -- a companion whose divine radiance merged with a colossal figure in battle -- suggesting that [[Corran]] did not act alone. A network of heroes stood with him, though his was the sacrifice that sealed the world's salvation.
 
+What [[Corranor]] does not know — what no one in Aenath should know — is where Corran came from. He was the son of [[Khelben Blackstaff]], the Archmage of Waterdeep and Chosen of [[Mystra]]. Faerûnian blood is the foundational stone of Aenath's arcane history. The party learned this through the prequel vision: a History check natural 20, in a quiet moment between battles, the name surfacing like a key fitting a lock they hadn't known was locked.
+
 ## Relationships
 - The people of [[Corranor]] revere him as the nation's founder and saviour
 - Linked to an unnamed rotund cleric who fought alongside him during the cataclysm
 - The party witnessed his sacrifice in shared visions upon arriving at the [[Jade Spire]]
 - [[Garm]] and the [[Corranor Council]] continue to study the implications of his containment ritual
+- Son of [[Khelben Blackstaff]] (Archmage of Waterdeep, Chosen of Mystra) — his Faerûnian blood built this world; no one in Aenath knows this
 
 ---
 ## Tags
