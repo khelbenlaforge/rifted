@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-03-22T02:33
+updated: 2026-04-01T18:58
 ---
 
 # Gill Bates
@@ -54,6 +54,8 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - Helped distribute healing potions and tend to the settlement's wounded
 - Remained in [[Sunhold]] with [[Luks]] while the rest of the party departed south to rescue the Hucrele children
 - **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
+- **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: Gill watches himself at the family table in Greece. His parents want him to call his cousin in Athens — the cousin who salted his fish when they were children. He wants the boats and the coast and none of this. He is outside the moment, watching himself refuse. In the liminal void, debriefed with the others. Arrived in [[Shadowdale]] as Adon; made no effort to conceal that the [[Old Skull Inn]] did not meet his standards. [[Jhaele Silvermane]] clocked his holy symbol — [[Sune]], goddess of beauty — and served him a crystal carafe of expensive wine without being asked: *"Your Majesty. Wine it is."* He accepted this as his due. Fought in the courtyard battle
+- **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower, learned the shape of the crisis: Tablets of Fate, Celestial Stairway, multiple Mystra fragment carriers. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, during [[Midnight]]'s final transformation — when the pendantignited and the east wall blew outward — a masonry shard from the crumbling wall caught Adon across the face. Under the radar. He noticed the blood on his fingers only after. It will leave a scar. Permanent. A cleric of [[Sune]] — the goddess of beauty — marked permanently across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
 - **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
@@ -62,7 +64,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine and celestial essence; enjoys his enthusiasm for ocean lore
 - **[[Sister Garaele]]** -- Half-elf cleric of [[Tymora]] at [[Tymora's Shrine]] in [[Sunhold]]; works alongside Gill in healing efforts
 - **[[Adamantine Guild]]** -- Sworn member; stationed at the [[Sunhold]] outpost
-- **[[Adon]]** -- Cleric of Sune whose body Gill inhabited during the Session 13 Sanctum vision
+- **[[Adon]]** -- Cleric of [[Sune]] whose body Gill inhabited across three sessions of the prequel vision. The arc ended with Adon taking a masonry shard across the face during Midnight's final act — a permanent scar on a man whose goddess is beauty, in the moment a dead goddess chose to die again. Nobody saw it happen
 
 ## Character Sheet
 

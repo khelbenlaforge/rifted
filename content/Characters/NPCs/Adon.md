@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-30T17:44
+updated: 2026-04-01T19:04
 ---
 
 # Adon
@@ -36,6 +36,14 @@ Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd leve
 ## Background
 
 A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party — [[Midnight]], [[Torm of the Dales]], [[Cyric]], [[Kelemvor]] — as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
+
+## The Scar
+
+At the Temple of Lathander in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation — when the east wall blew outward and the room was nothing but light — a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
+
+A cleric of [[Sune]] — the goddess of beauty — marked across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light.
+
+The weight of it will build slowly. Adon serves a goddess who holds beauty as sacred. He carries, now, an imperfection that no magic will fix and no faith will explain away.
 
 ## Role in the Vision
 

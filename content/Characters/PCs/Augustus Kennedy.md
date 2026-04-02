@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-03-22T23:01
+updated: 2026-04-01T18:59
 ---
 
 # Augustus Kennedy
@@ -61,6 +61,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - Explored the ruins, encountering dead goblins and necromantic magic behind a trapped hidden door
 - **Session 13** — Touched the Sanctum mural in the Grove Level, triggering the prequel vision for all five. He and Ember floated in the liminal void while the other three experienced the Avatar Crisis as Midnight/Torm/Adon.
 - **Session 14** — Cold open revealed his Earth backstory: Brooklyn cop, ordinary morning. A friend drunk on the sidewalk outside his favourite bodega. His wife calling about a kid. A perfectly ordinary day. He was watching himself from outside. Rejoined the others in the void, then descended to inhabit [[Kelemvor Lyonsbane]] — the mercenary fighter whose hereditary curse transforms him into a panther on selfless acts. Witnessed the curse trigger and the courtyard battle at the [[Old Skull Inn]] in [[Shadowdale]].
+- **Marpenoth, 222 PA (Session 15)** — Kelemvor woke naked on the courtyard stones with no memory of the last ten minutes. Augie was conscious inside — watching from behind Kelemvor's eyes as he found two grain sacks and made the best of it. [[Vael]] dropped silently from the rooftop, studied the aftermath, commented on [[Selmavra Elsree]], and went invisible without leaving. At [[Elminster]]'s tower, learned the shape of the crisis: the Tablets of Fate, the Celestial Stairway, Bane coming for [[Midnight]]'s pendant. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]] — and Kelemvor filed something away: fighting under official orders, in service to a lord, for a town rather than for personal gain is not the same as a mercenary taking coin for blood. The curse understands the distinction. He had not known that before. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, held Midnight against the pull of the Celestial Stairway — four sets of hands against a divine current — as [[Bane]] arrived and [[Elminster]] spent everything he had. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
 - **[[Lea]], [[Ember]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bonded through shared displacement and the trials of [[Aenath]]
@@ -69,6 +70,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **[[Istar Silverlock]]** -- Assistant Guildmaster of the [[Adamantine Guild]]; assigned the party to [[Sunhold]]
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine essence; target of the memorable Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently staffing the [[Sunhold]] outpost
+- **[[Kelemvor Lyonsbane|Kelemvor]]** -- The mercenary fighter whose body Augie inhabited across two sessions of the prequel vision. Through him, Augie learned something Kelemvor had never fully understood: that service to a cause, under lawful orders, is distinct from selfless personal sacrifice in the eyes of the curse. Kelemvor filed it away. So did Augie
 
 ## Character Sheet
 
