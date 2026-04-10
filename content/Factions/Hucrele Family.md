@@ -1,5 +1,5 @@
 ﻿---
-title: "Hucrele Family"
+title: Hucrele Family
 aliases:
   - Hucrele
 tags:
@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-18T20:20
+updated: 2026-04-10T18:13
 ---
 
 # Hucrele Family
@@ -38,7 +40,7 @@ A wealthy noble family from [[Crystal City]] who relocated to invest in [[Sunhol
 
 ## Operations
 
-The Hucreles funded and encouraged a delegation south to the [[Durbuluk Goblins]] after [[Goblin Merchants]] arrived in Sunhold with healing fruit and an invitation. The delegation — including both children and their retainers — failed to return within the expected ten days. Twenty-four days passed with no word before the [[Adamantine Guild]] took up the search.
+The Hucreles funded and encouraged a delegation south to the [[Durbuluk Goblins]] after Goblin Merchants arrived in Sunhold with healing fruit and an invitation. The delegation — including both children and their retainers — failed to return within the expected ten days. Twenty-four days passed with no word before the [[Adamantine Guild]] took up the search.
 
 **Reward posted:** 500 gold per child returned alive · 200 gold per signet ring if found deceased.
 

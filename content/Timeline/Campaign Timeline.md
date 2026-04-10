@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-03-30T18:23
+updated: 2026-04-10T18:13
 ---
 
 # Campaign Timeline
@@ -114,7 +114,7 @@ The party halted at a wrecked wagon on the road and was ambushed by [[Goblin Ban
 
 ### Arrival at Sunhold
 
-The party reached [[Sunhold]], a frontier mining settlement of roughly 60 people nestled in a caldera. They witnessed [[Keldara Hucrele]] publicly condemning [[Harbin Wester]] for inaction regarding her missing children. The party avoided the dispute and informed Harbin of their [[Adamantine Guild]] purpose; he escorted them to [[Barthen's Supplies]] and then [[The Stonehill Inn]], where locals shared rumors distinguishing civilized [[Goblin Merchants]] from [[Goblin Bandits]].
+The party reached [[Sunhold]], a frontier mining settlement of roughly 60 people nestled in a caldera. They witnessed [[Keldara Hucrele]] publicly condemning [[Harbin Wester]] for inaction regarding her missing children. The party avoided the dispute and informed Harbin of their [[Adamantine Guild]] purpose; he escorted them to [[Barthen's Supplies]] and then [[The Stonehill Inn]], where locals shared rumors distinguishing civilized Goblin Merchants from [[Goblin Bandits]].
 
 ### Council Meeting
 
@@ -124,7 +124,7 @@ The [[Miners' Council]] convened in the [[Council Tent]] with [[Harbin Wester]],
 
 The team split: [[Lea]], [[Ember]], and [[Augustus Kennedy]] went to the [[Hucrele Pavilion]] while [[Jonathan Jordan]] gathered rumors at [[The Stonehill Inn]].
 
-At the Pavilion, [[Talgen Hucrele Sr.]] explained that [[Goblin Merchants]] had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children — [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] — insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They were expected back in 10 days; 24 days had passed. [[Keldara Hucrele]] produced a half-eaten [[Goblin Fruit]] that remained fresh. [[Ember]] sensed its blood-like quality; [[Lea]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gp per child alive, 200 gp for signet rings if dead, plus a family heirloom.
+At the Pavilion, [[Talgen Hucrele Sr.]] explained that Goblin Merchants had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children — [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] — insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They were expected back in 10 days; 24 days had passed. [[Keldara Hucrele]] produced a half-eaten [[Goblin Fruit]] that remained fresh. [[Ember]] sensed its blood-like quality; [[Lea]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gp per child alive, 200 gp for signet rings if dead, plus a family heirloom.
 
 ### Preparations
 

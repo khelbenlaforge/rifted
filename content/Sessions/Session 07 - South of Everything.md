@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T00:00
-updated: 2026-03-18T13:04
+updated: 2026-04-10T18:13
 ---
 
 # Session 07 — South of Everything
@@ -33,7 +33,7 @@ The caldera smells of fresh-cut timber and cold ore. Pickaxes ring from the hill
 
 The party sidesteps the moment. They find [[Harbin Wester]] afterward, introduce themselves as [[Adamantine Guild]], and watch the relief move across his face like weather. He escorts them to [[Barthen's Supplies]] — where [[Elmar Barthen]], lean and spectacled, keeps careful count of what's been delivered and what's owed — and then to [[The Stonehill Inn]], where [[Toblen Stonehill]] feeds them and answers questions.
 
-What the locals know: there's a difference between the [[Goblin Bandits]] on the road and the [[Goblin Merchants]] who come from the deep south — clothed, Common-speaking, with a cart. The south beyond the marshes has druidic sites on old maps, possibly the Hucreles' own. Someone touched living-feeling roots in a deep shaft and was never heard from again. And the Hucreles, for their part, may have left [[Crystal City]] under a cloud.
+What the locals know: there's a difference between the [[Goblin Bandits]] on the road and the Goblin Merchants who come from the deep south — clothed, Common-speaking, with a cart. The south beyond the marshes has druidic sites on old maps, possibly the Hucreles' own. Someone touched living-feeling roots in a deep shaft and was never heard from again. And the Hucreles, for their part, may have left [[Crystal City]] under a cloud.
 
 Meanwhile, [[Jonathan Jordan]] and [[Luks Borg]] are still on the road. They come across a battle site — a warning note, Goblin Bandit tracks — and press on. They'll arrive the following day.
 
@@ -57,7 +57,7 @@ The team splits. [[Gill Bates]] is sent to [[Tymora's Shrine]] on the settlement
 
 [[Talgen Hucrele Sr.]] is not what his wife's public grief suggested. He is graying, careful, with calloused hands that don't quite fit the noble's ring on his finger. He explains the family's position: they came to [[Sunhold]] to invest capital and labor, to build something at the frontier. Two family guards, [[Sir Braford]] and [[Sir Gareth Ironhand]], have been supporting settlement security.
 
-Then: two weeks before the disappearance, [[Goblin Merchants]] arrived from the deep south. They brought a magical red fruit — healing, they claimed, beyond ordinary means — and an invitation to visit their stronghold past the marshes. [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] insisted on going. He sent [[Sir Braford]] and hired [[Karakas]], Sunhold's only woodsman and ranger, to escort them. They were expected back in ten days.
+Then: two weeks before the disappearance, Goblin Merchants arrived from the deep south. They brought a magical red fruit — healing, they claimed, beyond ordinary means — and an invitation to visit their stronghold past the marshes. [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] insisted on going. He sent [[Sir Braford]] and hired [[Karakas]], Sunhold's only woodsman and ranger, to escort them. They were expected back in ten days.
 
 Twenty-four days have passed.
 

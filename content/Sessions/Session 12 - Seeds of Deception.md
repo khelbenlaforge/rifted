@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-25T14:25
+updated: 2026-04-10T18:13
 ---
 
 # Session 12 — Seeds of Deception
@@ -181,7 +181,7 @@ The session ended there, in the hum of violet-lit corridors and the smell of cut
 
 ## Threads to Watch
 
-- **[[Goblin Fruit]]** — mechanism confirmed: seeds lie dormant in living hosts, sprout as twig blights after death. Every community that bought fruit from [[Goblin Merchants]] is a potential grove in waiting
+- **[[Goblin Fruit]]** — mechanism confirmed: seeds lie dormant in living hosts, sprout as twig blights after death. Every community that bought fruit from Goblin Merchants is a potential grove in waiting
 - **[[Belak]]'s endgame** — why does he want communities enticed south? Why twig blight armies? What is he building toward?
 - **The northeast door** — Belak's supply route. What lies beyond it?
 - **The Sanctum's selective reveal** — [[Balsag]], [[Erky]], and [[Little Sister]] saw only the illusion. Only the five from Earth saw the truth. Why?

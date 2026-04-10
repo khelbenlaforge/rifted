@@ -1,9 +1,11 @@
 ﻿---
-title: "Beast Master - Primal Companion Initiative"
+title: Beast Master - Primal Companion Initiative
 tags:
   - house-rule
 campaign: Rifted
 secret: false
+created: 2026-03-27T15:36
+updated: 2026-04-10T18:22
 ---
 
 ## Overview
@@ -25,10 +27,10 @@ If the ranger does not issue a command, the beast acts at the DM's discretion on
 ## Notes
 
 - The beast retains its independent movement and reactions regardless of whether it is commanded
-- Choosing beast-first order allows the beast to soften targets before the ranger acts; ranger-first allows setup (e.g. [[Hunter's Mark]]) before the beast strikes
+- Choosing beast-first order allows the beast to soften targets before the ranger acts; ranger-first allows setup (e.g. Hunter's Mark) before the beast strikes
 - The DM's discretion on uncontrolled turns reflects the beast as a partner, not a passive tool — commanding it is rewarded but never required
 - This rule applies to all three stat block options: Beast of the Land, Beast of the Sea, Beast of the Sky
 
 ## Source
 
-House rule. Base mechanic: [[XPHB]] Ranger, Beast Master subclass, Primal Companion feature (Level 3).
+House rule. Base mechanic: XPHB Ranger, Beast Master subclass, Primal Companion feature (Level 3).

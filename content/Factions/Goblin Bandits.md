@@ -7,7 +7,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-04-10T18:13
 ---
 
 # Goblin Bandits
@@ -26,7 +26,7 @@ Headquarters:: Wilderness around [[Sunhold]]
 
 ## Description
 
-A marauding band of 20-30 goblins operating in the wilderness surrounding [[Sunhold]]. Unlike the civilized [[Goblin Merchants]], these are opportunistic raiders — a mix of local inhabitants and immigrants from [[Corranor]] who target travelers and supply caravans along the roads.
+A marauding band of 20-30 goblins operating in the wilderness surrounding [[Sunhold]]. Unlike the civilized Goblin Merchants, these are opportunistic raiders — a mix of local inhabitants and immigrants from [[Corranor]] who target travelers and supply caravans along the roads.
 
 ## Operations
 

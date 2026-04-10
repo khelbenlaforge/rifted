@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-01T18:51
+updated: 2026-04-10T18:13
 ---
 
 # Jonathan Jordan
@@ -50,7 +50,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - Departed [[Crystal City]] a day after the main party with a second shipment; met [[Luks]] at the island jetty
 - Arrived at [[Sunhold]] with [[Luks]], leading a second wagon; encountered a battle site and a note warning of [[Goblin Bandits]]
 - Reported to [[Harbin Wester]] on behalf of the [[Adamantine Guild]]; visited [[Barthen's Supplies]]
-- Gathered intelligence at [[The Stonehill Inn]], collecting rumours about the settlement, the missing Hucrele children, and the [[Goblin Merchants]]
+- Gathered intelligence at [[The Stonehill Inn]], collecting rumours about the settlement, the missing Hucrele children, and the Goblin Merchants
 - Helped establish the [[Adamantine Guild]] post in [[Sunhold]]
 - Departed south with [[Lea]], [[Ember]], and [[Augustus Kennedy]] to rescue the Hucrele children
 - Traversed marshes and descended into a subterranean fortress
