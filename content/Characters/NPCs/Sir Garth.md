@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-03-18T13:04
+updated: 2026-04-10T18:13
 ---
 
 # Sir Garth
@@ -28,7 +28,7 @@ updated: 2026-03-18T13:04
 Sir Garth is a family guard in the employ of the [[Hucrele Family]], stationed at [[Sunhold]]. He is not to be confused with [[Sir Gareth Ironhand]], the paladin of [[Tyr]] who trains warriors at the [[Hall of Justice - Temple of Tyr]] in [[Crystal]] -- the two are entirely separate individuals.
 
 ## Background
-Garth serves alongside [[Sir Braford]] as one of the two guards retained by [[Talgen Hucrele Sr.]] to protect his household and support the security of the [[Sunhold]] settlement. When the delegation to the [[Goblin Merchants]] was organised, [[Sir Braford]] was chosen to escort the Hucrele children while Garth remained behind at [[Sunhold]] to maintain the family's protection in Braford's absence.
+Garth serves alongside [[Sir Braford]] as one of the two guards retained by [[Talgen Hucrele Sr.]] to protect his household and support the security of the [[Sunhold]] settlement. When the delegation to the Goblin Merchants was organised, [[Sir Braford]] was chosen to escort the Hucrele children while Garth remained behind at [[Sunhold]] to maintain the family's protection in Braford's absence.
 
 With Braford now missing alongside [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], and [[Karakas]], Garth stands as the sole armed protector of the [[Hucrele Family]] in the settlement.
 

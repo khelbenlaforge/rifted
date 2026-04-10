@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-03-16T20:11
+updated: 2026-04-10T18:13
 ---
 
 # Toblen Stonehill
@@ -30,12 +30,12 @@ Toblen Stonehill is a portly dwarf woman with a friendly face, perpetually wipin
 ## Background
 Toblen keeps the settlement's only proper inn, making her establishment the natural gathering place for travellers, miners, and adventurers passing through [[Sunhold]]. She welcomed the party with food and freely shared the latest gossip, offering her own blunt opinions alongside the ale.
 
-She expressed open disdain for the Hucrele children, suggesting they were ill-prepared for the dangers of the frontier. The [[Goblin Merchants]] unsettled her despite their civilised appearance and fluent Common -- something about them struck her as deeply wrong. She mentioned old maps indicating druidic sites in the unexplored territory south of [[Sunhold]] and told the tale of a cousin who vanished after touching strange roots deep in a shaft. Her knowledge of local legends, dangers, and gossip has proven valuable to anyone seeking to understand the settlement's troubles.
+She expressed open disdain for the Hucrele children, suggesting they were ill-prepared for the dangers of the frontier. The Goblin Merchants unsettled her despite their civilised appearance and fluent Common -- something about them struck her as deeply wrong. She mentioned old maps indicating druidic sites in the unexplored territory south of [[Sunhold]] and told the tale of a cousin who vanished after touching strange roots deep in a shaft. Her knowledge of local legends, dangers, and gossip has proven valuable to anyone seeking to understand the settlement's troubles.
 
 ## Relationships
 - Innkeeper of [[The Stonehill Inn]] in [[Sunhold]]
 - Source of local information and gossip for the party
-- Wary of the [[Goblin Merchants]]
+- Wary of the Goblin Merchants
 - Critical of the [[Hucrele Family]] children's readiness
 
 ---
