@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
+created: 2026-03-19T03:36
+updated: 2026-04-21T19:31
 ---
 
 # Toothpick
@@ -38,13 +40,13 @@ A chipped longsword fashioned from one of [[Ashardalon]]'s teeth. The blade is c
 
 **Rage (once per day).** While attuned and wielding *Toothpick*, the wielder may enter a **rage** as a bonus action once per day.
 
-**Ashardalon's Fragility.** Each time the rage feature is used, roll a 1d6. On a **1**, the sword **shatters** and permanently loses its magical properties. The blade becomes an ordinary broken longsword.
+**Ashardalon's Fragility.** Each time the rage feature is used, roll a 1d6. On a **1**, weilder fails to enter a **rage**. 
 
 ## Significance
 
 - Fashioned from [[Ashardalon]]'s tooth — companion relic to *Blight's Call* (made from the claw). Both items are pieces of Ashardalon, both held by the party.
 - A DC 15 Nature check identifies the material as a dragon's tooth
 - The rage feature makes it immediately useful for any martial character, but the fragility die is a session-ending threat that hangs over every use
-- Currently in [[Ember]]'s possession; its properties remain **unknown to the party**
+- Currently in [[Augustus Kennedy]]'s possession
 
 

@@ -7,9 +7,9 @@ tags:
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
-state: missing
+state: thrall
 created: 2026-03-16T04:22
-updated: 2026-04-10T18:13
+updated: 2026-04-20T21:09
 ---
 
 # Sir Braford
