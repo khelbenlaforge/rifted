@@ -1,5 +1,5 @@
 ﻿---
-title: "Gulthias Tree"
+title: Gulthias Tree
 aliases:
 tags:
   - lore
@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-04-18T12:57
+updated: 2026-04-18T12:57
 ---
 
 # Gulthias Tree
@@ -22,21 +24,33 @@ secret: false
 
 ## Description
 
-A massive, twisted tree growing at the heart of the Grove Level of the [[Sunless Citadel]], suffused with necromantic and draconic magical energy. It does not appear alive in any natural sense — it does not sway, does not rustle. It radiates a cold, patient malevolence. Everything [[Belak]] cultivates draws power from it.
+A massive, twisted tree growing at the heart of the Twilight Grove beneath the [[Sunless Citadel]], suffused with necromantic and draconic magical energy. It does not appear alive in any natural sense — it does not sway, does not rustle. It radiates a cold, patient malevolence. Everything [[Belak]] cultivates draws power from it.
 
-The tree is named for Gulthias, a vampire whose stake was planted here long ago. As the wood rotted and took root, the vampiric corruption passed into the tree and transformed it into something that belongs to neither the living nor the dead.
+The tree is the transformed remains of [[Gulthias]] — a vampire high priest who was staked to the ground in this grove centuries ago. The stake took root. The wood grew. The vampiric corruption passed into it, and what emerged belongs to neither the living nor the dead.
+
+## Origin
+
+[[Gulthias]] was the high priest of the Dragon Cult of [[Ashardalon]] — the intermediary between the great wyrm and his followers, a vampire wizard who dedicated his undeath to preparing for his master's return. He came to the [[Sunless Citadel]] from Nightfang Spire for reasons now lost. An adventurer found him in this grove and staked him to the ground.
+
+It should have destroyed him. Instead, the stake grew. The tree is what remained when vampiric corruption and the soil's deep necromantic saturation merged over centuries. The grove shaped itself around it.
 
 ## What It Produces
 
-**[[Goblin Fruit]]** — Fruit grown on the tree's branches. Heals the living on first consumption; on the second, the consumer begins to wither. Seeds from dead hosts sprout as twig blights. [[Belak]] distributes the fruit deliberately, using goblin networks to spread it into surface communities and draw people south.
+**[[Goblin Fruit]]** — Two types of fruit grow on the tree's branches:
+- *Red fruit* — Heals the living on first consumption. Sweet, almost overwhelmingly so.
+- *White fruit* — Poisonous. Seeds from hosts killed by white fruit sprout as twig blights.
 
-**Blights** — Twig blights and [[Blightsnake|Blightsnakes]] are creatures of the tree's making, animated from plant matter by the same necromantic signature. They serve Belak and defend the Grove Level.
+[[Belak]] distributes the red fruit deliberately, using goblin networks to spread it into surface communities. The healing properties draw people in; the second consumption begins the wither. The goal is reach — drawing people south and building thralls.
+
+**Blights** — Twig blights, [[Blightsnake|Blightsnakes]], and the more advanced cultivated variants ([[Gulthias Pale Vine Blight]], [[Gulthias Grave Tender]]) all draw from the tree's necromantic signature. They serve Belak and defend the Grove Level.
+
+**Thralls** — Those consumed by the tree's fruit become thralls: willing, contented, unable to leave. [[Sharwyn Hucrele]] and [[Sir Braford]] are in this state. They don't want to be rescued.
 
 ## Role in the Story
 
-The Gulthias Tree is the source of the Sunless Citadel's corruption. Its fruit is the mechanism behind the Goblin Fruit mystery — the thing Belak is using to extend his influence into the surface world. Understanding the tree is understanding Belak's agenda.
+The Gulthias Tree is the source of the Sunless Citadel's corruption and the mechanism behind the Goblin Fruit mystery. Understanding the tree is understanding Belak's agenda — and understanding what Belak's agenda actually serves.
 
-The party has not yet directly encountered the tree. They are resting on the Grove Level.
+Destroying the tree ends the blight spawning, frees thralls from compulsion, and kills [[Gork]] (whose life is bound to it). It also severs something larger. See DM Notes.
 
 ---
 

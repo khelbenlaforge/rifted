@@ -3,12 +3,13 @@ title: Balsag
 aliases:
 tags:
   - npc
+  - creature/fey
 campaign: Rifted
 introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:00
-updated: 2026-03-17T22:00
+updated: 2026-04-20T21:09
 ---
 
 # Balsag
@@ -31,6 +32,10 @@ Class::
 Location:: [[Sunless Citadel]]
 Affiliation::
 Deity::
+CR:: 2
+Size:: Medium
+Habitat:: Underdark
+Found In:: [[Sunless Citadel]]
 
 ## Appearance
 
@@ -56,5 +61,9 @@ He does not yet know that [[Calcryx]] was kidnapped, that the Upper Level tore i
 - Former keeper of [[Calcryx]] (the wyrmling dragon)
 - Traveling companion of the party; joined during the Grove Level encounter
 - Companion alongside [[Erky]], [[Little Sister]], and [[Grip]] (his remaining giant rat)
+
+## D&D 5e Stat Block
+
+
 
 

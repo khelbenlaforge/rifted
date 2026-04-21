@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-04-10T18:13
+updated: 2026-04-20T21:19
 ---
 
 # Campaign Timeline
