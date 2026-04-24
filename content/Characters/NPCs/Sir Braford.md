@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: thrall
 created: 2026-03-16T04:22
-updated: 2026-04-20T21:09
+updated: 2026-04-22T15:25
 ---
 
 # Sir Braford
@@ -22,7 +22,7 @@ updated: 2026-04-20T21:09
 > | ---- | --- |
 > | Race | Human |
 > | Class | Knight |
-> | Location | Unknown (missing) |
+> | **Location** | [[Sunless Citadel]] — Grove Level (Belak's prisoner cell) |
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
@@ -31,7 +31,7 @@ Sir Braford is a human knight in the service of the [[Hucrele Family]], known fo
 ## Background
 Alongside [[Sir Garth]], Braford serves as one of the two family guards employed by [[Talgen Hucrele Sr.]] in [[Sunhold]]. When the Goblin Merchants extended their invitation and the Hucrele children insisted on joining the delegation, Braford was assigned as their primary armed escort. He departed into the marshes with [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], and the ranger [[Karakas]].
 
-The delegation was expected to return in ten days. Twenty-four days have passed. Braford, along with the children and Karakas, has vanished without a trace. The [[Adamantine Guild]] party has since followed tracks believed to belong to the delegation into a vast subterranean fortress south of [[Sunhold]], where signs of conflict with goblins and traces of necromantic magic have been discovered. Braford's fate remains unknown.
+The delegation was expected to return in ten days. Braford's fate is now confirmed: he was taken by [[Belak]] and held as a prisoner in the [[Sunless Citadel]]'s Grove Level. A letter recovered by the party in Session 16 reveals that both he and [[Sharwyn Hucrele]] are **willing thralls** of the [[Gulthias Tree]] — not prisoners, but converts. He was observed standing rigidly upright in Belak's prisoner cell, unresponsive. [[Shen]] shared that cell for weeks and spoke to him; Braford never answered.
 
 ## Relationships
 - Guard in the service of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]]
@@ -41,7 +41,7 @@ The delegation was expected to return in ten days. Twenty-four days have passed.
 
 ---
 ## Tags
-Location:: Unknown
+Location:: [[Sunless Citadel]]
 Race:: Human
 Subrace::
 Pronouns:: he/him
