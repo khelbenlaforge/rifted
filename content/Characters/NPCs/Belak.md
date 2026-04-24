@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-04-10T18:13
+updated: 2026-04-22T15:25
 ---
 
 # Belak
@@ -50,7 +50,7 @@ Belak is the unseen hand behind the [[Goblin Fruit]]. He occupies the Grove Leve
 
 The fruit carries a dual magical signature — **necromantic and divine/draconic** — that has nothing to do with ordinary druidcraft. Whatever Belak is cultivating, it is not wild. It answers to something specific.
 
-The Hucrele delegation — [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — followed the Goblin Merchants' fruit trail south. [[Karakas]] is confirmed dead in the Upper Level. [[Talgen Hucrele Jr.]] is confirmed dead in the Grove Level. [[Sharwyn Hucrele]] and [[Sir Braford]] are still missing — somewhere in the depths that Belak calls home.
+The Hucrele delegation — [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — followed the Goblin Merchants' fruit trail south. [[Karakas]] is confirmed dead in the Upper Level. [[Talgen Hucrele Jr.]] is confirmed dead in the Grove Level. [[Sharwyn Hucrele]] and [[Sir Braford]] were taken by Belak and are now **willing thralls** of the [[Gulthias Tree]] — confirmed by a letter recovered by the party in Session 16 (2026-04-19). [[Shen]] was also held in Belak's grove prison before escaping to the party.
 
 ## The Fruit Mechanism (Session 12 — confirmed)
 
