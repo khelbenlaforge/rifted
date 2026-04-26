@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amethyst District
 aliases:
 tags:

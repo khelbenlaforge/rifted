@@ -1,4 +1,4 @@
-﻿---
+---
 title: Citrine District
 aliases:
   - Citrine District of Crystal

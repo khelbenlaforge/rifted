@@ -1,4 +1,4 @@
-﻿---
+---
 title: Talgen Hucrele Jr.
 aliases:
   - Talgen Jr.

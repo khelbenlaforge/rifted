@@ -1,4 +1,4 @@
-﻿---
+---
 title: Devran
 aliases:
 tags:

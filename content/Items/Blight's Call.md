@@ -1,4 +1,4 @@
-﻿---
+---
 title: Blight's Call
 aliases:
   - Blights Call

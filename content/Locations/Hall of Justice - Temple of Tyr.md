@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hall of Justice - Temple of Tyr
 aliases:
   - Hall of Justice

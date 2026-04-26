@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lolth
 aliases:
   - The Spider Queen

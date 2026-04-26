@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ashardalon
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rathan Thentraver
 aliases:
   - Rathan

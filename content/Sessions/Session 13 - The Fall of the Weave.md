@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 13 - The Fall of the Weave
 aliases:
 tags:

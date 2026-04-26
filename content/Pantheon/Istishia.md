@@ -1,4 +1,4 @@
-﻿---
+---
 title: Istishia
 aliases:
   - Lord of Water

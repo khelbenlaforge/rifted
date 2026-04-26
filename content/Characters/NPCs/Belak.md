@@ -1,4 +1,4 @@
-﻿---
+---
 title: Belak
 aliases:
   - Belak the Outcast
@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-04-22T15:25
+updated: 2026-04-25T23:25
 ---
 
 # Belak
@@ -70,5 +70,9 @@ Every person who has eaten the fruit and survived is carrying sleeping seeds.
 - Gifted [[Durnn]] the magic horn ***Blight's Call*** — fashioned from one of Ashardalon's claws; it summons prickle blights when blown and has been corrupting Durnn with growing bloodlust and nightmares
 - Not yet encountered — his threat is felt through evidence rather than presence
 - **Letter found (Session 09):** A letter from Belak to [[Ragh]] was recovered from a hidden compartment in the goblin prison. In it, Belak states he was still considering whether to bring Ragh "into the fold." He has eyes on the politics upstairs — and he's been thinking about who to recruit
+
+## Combat Profile
+
+
 
 

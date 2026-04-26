@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sharwyn Hucrele
 aliases:
   - Sharwyn
@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: thrall
 created: 2026-03-16T04:22
-updated: 2026-04-20T21:09
+updated: 2026-04-25T23:25
 ---
 
 # Sharwyn Hucrele
@@ -49,5 +49,9 @@ Alignment:: Unknown
 Class:: Noble
 Affiliation:: [[Hucrele Family]]
 Deity:: Unknown
+
+## Combat Profile
+
+
 
 

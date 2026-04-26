@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tymora
 aliases:
   - Lady Luck

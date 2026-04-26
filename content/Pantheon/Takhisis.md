@@ -1,4 +1,4 @@
-﻿---
+---
 title: Takhisis
 aliases:
   - The Dark Queen

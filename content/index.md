@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aenath — Rifted Campaign Wiki
 secret: false
 created: 2026-03-16T00:44

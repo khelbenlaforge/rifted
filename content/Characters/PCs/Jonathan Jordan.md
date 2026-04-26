@@ -1,7 +1,8 @@
-﻿---
+---
 title: Jonathan Jordan
 aliases:
   - JJ
+  - Jj
 tags:
   - pc
 campaign: Rifted
@@ -9,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-10T18:13
+updated: 2026-04-25T20:05
 ---
 
 # Jonathan Jordan
@@ -26,8 +27,7 @@ updated: 2026-04-10T18:13
 > | Mentor | [[Istar Silverlock]] |
 
 ## Description
-Jonathan Jordan -- known universally as JJ -- is a lanky human with a nimble frame and calloused hands that speak to a life of agility and hard-won resilience. Practical and sharp-eyed, he dresses for function over form, carrying himself with a rugged frontiersman's ease. His dagger is never far from his fingers. Among the five who crossed from Earth, JJ was the most hesitant to commit -- and the last to prove he belonged. He has a daughter who remains in [[Crystal City]], a bond that anchors him even as he ventures further into the unknown.
-
+Jonathan Jordan -- known universally as JJ -- is a lanky human with a nimble frame and calloused hands that speak to a life of agility and hard-won resilience. Practical and sharp-eyed, he dresses for function over form, carrying himself with a rugged frontiersman's ease. His dagger is never far from his fingers. Among the five who crossed from Earth, JJ was the most hesitant to commit -- and the last to prove he belonged.
 ## Origin
 JJ was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. Unlike three of his fellows, he retained his human appearance, though [[Elmindaria L'Thorian]]'s magical scan revealed heightened roguish abilities and the same loss of roughly half his essence. When [[Istar Silverlock]] offered the party membership in the [[Adamantine Guild]], JJ alone deferred his decision.
 

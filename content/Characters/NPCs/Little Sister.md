@@ -1,4 +1,4 @@
-﻿---
+---
 title: Little Sister
 aliases:
 tags:

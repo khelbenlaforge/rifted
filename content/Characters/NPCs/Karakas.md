@@ -1,4 +1,4 @@
-﻿---
+---
 title: Karakas
 aliases:
 tags:

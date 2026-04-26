@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sylvara Oakwhisper
 aliases:
   - Sylvara

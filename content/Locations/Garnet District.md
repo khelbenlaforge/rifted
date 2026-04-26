@@ -1,4 +1,4 @@
-﻿---
+---
 title: Garnet District
 aliases:
   - Commons District

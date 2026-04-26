@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sir Garth
 aliases:
   - Garth

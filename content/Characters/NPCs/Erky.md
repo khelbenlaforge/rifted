@@ -1,4 +1,4 @@
-﻿---
+---
 title: Erky
 aliases:
 tags:
@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-03-17T19:38
+updated: 2026-04-25T23:44
 ---
 
 # Erky
@@ -53,5 +53,9 @@ He was captured within the [[Durbuluk Goblins]]' section of the [[Sunless Citade
 - Ventured south to rescue the missing Hucrele children and was captured
 - Rescued by the party alongside [[Little Sister]]; now travels with them, [[Balsag]], and Grip
 - **Under observation:** [[Luks Borg]] gave [[Lea]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
+
+## D&D 5e Stat Block
+
+
 
 

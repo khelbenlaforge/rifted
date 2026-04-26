@@ -1,4 +1,4 @@
-﻿---
+---
 title: Torm of the Dales
 aliases:
   - Torm (adventurer)

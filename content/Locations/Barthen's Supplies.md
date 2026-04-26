@@ -1,4 +1,4 @@
-﻿---
+---
 title: Barthen's Supplies
 aliases:
 tags:

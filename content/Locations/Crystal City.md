@@ -1,4 +1,4 @@
-﻿---
+---
 title: Crystal City
 aliases:
   - Crystal

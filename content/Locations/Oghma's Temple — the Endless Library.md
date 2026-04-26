@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oghma's Temple — the Endless Library
 aliases:
   - Oghma's Temple

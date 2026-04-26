@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lyonsbane Panther
 aliases:
 tags:

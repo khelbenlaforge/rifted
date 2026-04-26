@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Knights of Myth Drannor"
 aliases:
   - The Knights of Myth Drannor

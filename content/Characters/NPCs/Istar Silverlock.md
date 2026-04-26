@@ -1,4 +1,4 @@
-﻿---
+---
 title: Istar Silverlock
 aliases:
   - Istar

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Goblin Fruit
 aliases:
 tags:

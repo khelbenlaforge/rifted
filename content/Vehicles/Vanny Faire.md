@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vanny Faire
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miners' Council
 aliases:
 tags:

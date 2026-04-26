@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adamantine Guild
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Battle of Shadowdale"
 aliases:
 tags:

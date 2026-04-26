@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ordahir Kobolds
 aliases:
   - Ordahir Colony

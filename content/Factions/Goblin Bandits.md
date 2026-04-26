@@ -1,4 +1,4 @@
-﻿---
+---
 title: Goblin Bandits
 aliases:
 tags:

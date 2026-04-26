@@ -1,4 +1,4 @@
-﻿---
+---
 title: Augustus Kennedy
 aliases:
   - Augie

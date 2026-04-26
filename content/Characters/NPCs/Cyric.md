@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cyric
 aliases:
   - Prince of Lies

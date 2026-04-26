@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gill Bates
 aliases:
   - Gill

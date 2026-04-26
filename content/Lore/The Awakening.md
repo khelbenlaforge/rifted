@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Awakening
 aliases:
   - Year 0 PA

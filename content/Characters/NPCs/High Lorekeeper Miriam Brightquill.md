@@ -1,4 +1,4 @@
-﻿---
+---
 title: High Lorekeeper Miriam Brightquill
 aliases:
   - Miriam Brightquill

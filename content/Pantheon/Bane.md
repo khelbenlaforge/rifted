@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bane
 aliases:
   - The Black Lord

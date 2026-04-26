@@ -1,4 +1,4 @@
-﻿---
+---
 title: Divination Fountain
 aliases:
 tags:

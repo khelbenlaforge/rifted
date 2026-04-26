@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Session 10 — What the Well Swallowed"
 aliases:
   - Session 10

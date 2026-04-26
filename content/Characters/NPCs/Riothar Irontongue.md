@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Riothar Irontongue"
 aliases:
 tags:

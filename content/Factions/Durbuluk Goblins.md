@@ -1,4 +1,4 @@
-﻿---
+---
 title: Durbuluk Goblins
 aliases:
   - Durbuluk

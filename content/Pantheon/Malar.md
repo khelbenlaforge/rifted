@@ -1,4 +1,4 @@
-﻿---
+---
 title: Malar
 aliases:
   - The Beastlord

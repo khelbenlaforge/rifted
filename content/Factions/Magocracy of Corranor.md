@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magocracy of Corranor
 aliases:
 tags:

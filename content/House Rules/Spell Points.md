@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spell Points
 aliases:
   - Spell Point System

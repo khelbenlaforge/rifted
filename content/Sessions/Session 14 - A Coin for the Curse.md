@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 14 - A Coin for the Curse
 aliases:
 tags:

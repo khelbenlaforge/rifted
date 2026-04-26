@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 12 — Seeds of Deception
 aliases:
   - Session 12

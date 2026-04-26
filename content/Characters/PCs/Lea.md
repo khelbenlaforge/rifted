@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lea
 aliases:
 tags:

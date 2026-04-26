@@ -1,4 +1,4 @@
-﻿---
+---
 title: Beast Master - Primal Companion Initiative
 tags:
   - house-rule

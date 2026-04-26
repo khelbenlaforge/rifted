@@ -1,4 +1,4 @@
-﻿---
+---
 title: Luks Borg
 aliases:
   - Luks

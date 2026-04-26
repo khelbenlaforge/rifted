@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tidecaller's Sanctuary
 aliases:
   - Temple of Istishia

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Old Skull Inn"
 aliases:
 tags:

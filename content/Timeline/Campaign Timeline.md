@@ -1,4 +1,4 @@
-﻿---
+---
 title: Campaign Timeline
 aliases:
   - Rifted Timeline

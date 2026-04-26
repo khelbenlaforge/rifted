@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adon
 aliases:
 tags:
