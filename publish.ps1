@@ -20,6 +20,10 @@ try {
     # Step 2: Stage all changes
     Write-Host "Step 2/3 -- Staging changes..." -ForegroundColor Yellow
     Set-Location $QuartzPath
+    $branch = git rev-parse --abbrev-ref HEAD
+    if ($branch -ne "main") {
+        throw "Not on main branch (currently '$branch'). Aborting to prevent accidental publish."
+    }
     $status = git status --porcelain
     if (-not $status) {
         Write-Host "No changes to publish." -ForegroundColor Green
@@ -28,7 +32,7 @@ try {
         $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
         exit 0
     }
-    git add -A
+    git add content/ quartz/static/
     Write-Host ""
 
     # Step 3: Commit and push

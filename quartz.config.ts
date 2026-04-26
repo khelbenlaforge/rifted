@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | Rifted",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "none",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "khelbenlaforge.github.io/rifted",
     ignorePatterns: ["private", "templates", ".obsidian"],

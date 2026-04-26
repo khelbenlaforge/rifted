@@ -1,15 +1,17 @@
 # sync-vault.ps1
 # Copies 00_My Notes/ from the Obsidian vault to Quartz content/,
 # excluding the Session Prep folder and any note with `secret: true` in its frontmatter.
+# Uses a temp staging dir for atomic swap — content/ is only cleared after a successful sync.
 
 param(
     [string]$VaultPath = "D:\PKM\World Building\Rifted Campaign\00_My Notes",
     [string]$ContentPath = "$PSScriptRoot\content"
 )
 
-# Clear existing content (keep .gitkeep)
-Write-Host "Clearing content folder..." -ForegroundColor Yellow
-Get-ChildItem -Path $ContentPath -Recurse -Exclude ".gitkeep" | Remove-Item -Force -Recurse
+# Stage into system temp to keep the working tree clean and ensure git never sees a half-sync
+$StagingPath = Join-Path ([System.IO.Path]::GetTempPath()) "quartz-rifted-staging"
+if (Test-Path $StagingPath) { Remove-Item $StagingPath -Recurse -Force }
+New-Item -ItemType Directory -Path $StagingPath -Force | Out-Null
 
 $copied = 0
 $skipped = 0
@@ -21,8 +23,9 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
     $file = $_
     $content = Get-Content $file.FullName -Raw -Encoding UTF8
 
-    # Check for `secret: true` in frontmatter
-    if ($content -match '(?m)^secret:\s*true\s*$') {
+    # Check for `secret: true` in YAML frontmatter only (between the opening --- delimiters)
+    $fmMatch = [regex]::Match($content, '(?s)^---\r?\n(.*?)\r?\n---')
+    if ($fmMatch.Success -and $fmMatch.Groups[1].Value -match '(?m)^secret:\s*true\s*$') {
         $skipped++
         return
     }
@@ -30,42 +33,53 @@ Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
     # Strip statblock codeblocks
     $content = $content -replace '(?s)```statblock\r?\n.*?```', ''
 
-    # Strip DM Notes section (heading + all content until next ## heading or end of file)
-    $content = $content -replace '(?ms)^## DM Notes\b.*?(?=^## |\z)', ''
+    # Strip DM Notes section — heading matched exactly at end-of-line, then everything until
+    # the next ## heading or EOF. The \s*$ prevents matching "## DM Notes on X" variants.
+    $content = $content -replace '(?ms)^## DM Notes\s*$.*?(?=^## |\z)', ''
 
-    # Build mirrored destination path
+    # Build mirrored destination path (into staging)
     $relativePath = $file.FullName.Substring($VaultPath.Length).TrimStart('\')
-    $destPath = Join-Path $ContentPath $relativePath
+    $destPath = Join-Path $StagingPath $relativePath
     $destDir = Split-Path $destPath -Parent
 
-    # Create destination directory if needed
     if (-not (Test-Path $destDir)) {
         New-Item -ItemType Directory -Path $destDir -Force | Out-Null
     }
 
-    Set-Content -Path $destPath -Value $content -Encoding UTF8
+    Set-Content -Path $destPath -Value $content -Encoding utf8NoBOM
     $copied++
 }
 
 Write-Host "Done. Copied: $copied  |  Skipped (secret): $skipped" -ForegroundColor Green
 
-# Copy images from zzz_Attachments to content/zzz_Attachments
+# Copy images from zzz_Attachments recursively, preserving subfolder structure
 $AttachmentsSource = "D:\PKM\World Building\zzz_Attachments"
-$AttachmentsDest   = Join-Path $ContentPath "zzz_Attachments"
-
-if (-not (Test-Path $AttachmentsDest)) {
-    New-Item -ItemType Directory -Path $AttachmentsDest -Force | Out-Null
-}
+$AttachmentsDest   = Join-Path $StagingPath "zzz_Attachments"
 
 $imageExtensions = @('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg')
 $imgCopied = 0
 
-Get-ChildItem -Path $AttachmentsSource -File | Where-Object {
+Get-ChildItem -Path $AttachmentsSource -File -Recurse | Where-Object {
     $imageExtensions -contains $_.Extension.ToLower()
 } | ForEach-Object {
-    $destFile = Join-Path $AttachmentsDest $_.Name
+    $relativePath = $_.FullName.Substring($AttachmentsSource.Length).TrimStart('\')
+    $destFile = Join-Path $AttachmentsDest $relativePath
+    $destDir = Split-Path $destFile -Parent
+    if (-not (Test-Path $destDir)) {
+        New-Item -ItemType Directory -Path $destDir -Force | Out-Null
+    }
     Copy-Item -Path $_.FullName -Destination $destFile -Force
     $imgCopied++
 }
 
 Write-Host "Images copied: $imgCopied" -ForegroundColor Green
+
+# Atomic swap: sync succeeded — now replace content/ with staging output
+Write-Host "Swapping content/..." -ForegroundColor Yellow
+Get-ChildItem -Path $ContentPath -Exclude ".gitkeep" | Remove-Item -Force -Recurse
+Get-ChildItem -Path $StagingPath | ForEach-Object {
+    Move-Item -Path $_.FullName -Destination $ContentPath -Force
+}
+Remove-Item $StagingPath -Recurse -Force
+
+Write-Host "Sync complete." -ForegroundColor Green
