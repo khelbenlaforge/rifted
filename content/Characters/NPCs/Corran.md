@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corran
 aliases:
   - The Archmage of Sacrifice

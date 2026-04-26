@@ -1,4 +1,4 @@
-﻿---
+---
 title: Torm
 aliases:
   - The True

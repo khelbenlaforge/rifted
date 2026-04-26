@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 09 — Debts in the Dark
 aliases:
   - Session 09

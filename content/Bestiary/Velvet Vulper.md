@@ -1,4 +1,4 @@
-﻿---
+---
 title: Velvet Vulper
 aliases:
   - Velvet Vulpers

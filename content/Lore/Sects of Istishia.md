@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sects of Istishia
 aliases:
   - Sacred Sea

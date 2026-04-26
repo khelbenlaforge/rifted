@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Zhentarim"
 aliases:
   - The Zhentarim

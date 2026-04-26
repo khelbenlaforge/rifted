@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 08 — The War Beneath the War
 aliases:
   - Session 08

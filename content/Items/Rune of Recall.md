@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rune of Recall
 aliases:
 tags:

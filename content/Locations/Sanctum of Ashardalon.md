@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sanctum of Ashardalon
 aliases:
   - Sanctum

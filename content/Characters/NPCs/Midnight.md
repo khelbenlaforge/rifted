@@ -1,4 +1,4 @@
-﻿---
+---
 title: Midnight
 aliases:
   - Midnight of Arabel

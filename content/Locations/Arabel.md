@@ -1,4 +1,4 @@
-﻿---
+---
 title: Arabel
 aliases:
   - Arabel

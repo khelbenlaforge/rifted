@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aenath
 aliases:
 tags:

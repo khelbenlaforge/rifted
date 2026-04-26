@@ -1,4 +1,4 @@
-﻿---
+---
 title: 2026-04-19 - The Sixth Earther
 aliases:
   - Session 16

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dwarven Bartender
 aliases:
   - Stout Bartender

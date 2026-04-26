@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 11 — Echoes of Divinity
 aliases:
   - Session 11

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hucrele Family
 aliases:
   - Hucrele

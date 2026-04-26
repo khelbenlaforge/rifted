@@ -1,4 +1,4 @@
-﻿---
+---
 title: Khelben Blackstaff
 aliases:
   - Khelben Arunsun

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Toothpick
 aliases:
 tags:

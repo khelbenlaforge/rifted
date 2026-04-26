@@ -1,4 +1,4 @@
-﻿---
+---
 title: Council Tent
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elminster
 aliases:
   - Elminster Aumar

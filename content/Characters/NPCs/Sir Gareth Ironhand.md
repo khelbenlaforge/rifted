@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sir Gareth Ironhand
 aliases:
   - Gareth Ironhand

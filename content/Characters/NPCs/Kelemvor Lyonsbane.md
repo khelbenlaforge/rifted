@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kelemvor Lyonsbane
 aliases:
   - Kelemvor

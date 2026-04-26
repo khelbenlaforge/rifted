@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gulthias Tree
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Jade Spire
 aliases:
   - Jade Spire of Crystal

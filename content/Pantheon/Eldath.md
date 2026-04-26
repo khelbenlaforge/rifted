@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eldath
 aliases:
   - Goddess of Peace

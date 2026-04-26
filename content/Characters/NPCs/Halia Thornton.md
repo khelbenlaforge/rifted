@@ -1,4 +1,4 @@
-﻿---
+---
 title: Halia Thornton
 aliases:
 tags:

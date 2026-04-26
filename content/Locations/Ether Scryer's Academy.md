@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ether Scryer's Academy
 aliases:
 tags:

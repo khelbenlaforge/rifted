@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corranor
 aliases:
   - Magocracy of Corranor

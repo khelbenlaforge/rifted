@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oghma
 aliases:
   - The Binder of Books

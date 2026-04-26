@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 07 — South of Everything
 aliases:
   - Session 07

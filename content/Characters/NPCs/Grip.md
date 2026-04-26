@@ -1,4 +1,4 @@
-﻿---
+---
 title: Grip
 aliases:
 tags:

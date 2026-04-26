@@ -1,4 +1,4 @@
-﻿---
+---
 title: Layla
 aliases:
 tags:

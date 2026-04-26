@@ -1,4 +1,4 @@
-﻿---
+---
 title: Frost
 aliases:
 tags:

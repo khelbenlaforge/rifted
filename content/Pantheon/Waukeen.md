@@ -1,4 +1,4 @@
-﻿---
+---
 title: Waukeen
 aliases:
   - Our Lady of Gold

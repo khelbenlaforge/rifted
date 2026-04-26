@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Waterdeep"
 aliases:
   - City of Splendors

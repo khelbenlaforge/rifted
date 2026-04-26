@@ -1,4 +1,4 @@
-﻿---
+---
 title: Blessing Pool
 aliases:
 tags:

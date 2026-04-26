@@ -1,4 +1,4 @@
-﻿---
+---
 title: Silvanus
 aliases:
   - The Wild Guardian

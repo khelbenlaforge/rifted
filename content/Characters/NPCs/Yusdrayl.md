@@ -1,4 +1,4 @@
-﻿---
+---
 title: Yusdrayl
 aliases:
 tags:

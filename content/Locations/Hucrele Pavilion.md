@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hucrele Pavilion
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Durnn's Research Lab
 aliases:
   - Durbuluk Research Lab

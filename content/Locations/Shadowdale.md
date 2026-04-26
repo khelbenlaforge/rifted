@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shadowdale
 aliases:
   - The Dale

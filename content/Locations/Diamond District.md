@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diamond District
 aliases:
   - Temple District

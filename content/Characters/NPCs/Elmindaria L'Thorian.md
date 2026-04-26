@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elmindaria L'Thorian
 aliases:
   - Elmindaria

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mystra
 aliases:
   - The Lady of Mysteries

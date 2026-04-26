@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ragh
 aliases:
 tags:

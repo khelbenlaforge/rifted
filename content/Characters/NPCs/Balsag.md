@@ -1,4 +1,4 @@
-﻿---
+---
 title: Balsag
 aliases:
 tags:

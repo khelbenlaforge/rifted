@@ -1,4 +1,4 @@
-﻿---
+---
 title: Helm
 aliases:
   - The Watcher

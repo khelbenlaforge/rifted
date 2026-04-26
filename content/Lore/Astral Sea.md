@@ -1,4 +1,4 @@
-﻿---
+---
 title: Astral Sea
 aliases:
 tags:

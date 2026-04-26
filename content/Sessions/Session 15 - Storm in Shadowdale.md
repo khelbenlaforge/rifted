@@ -1,4 +1,4 @@
-﻿---
+---
 title: Session 15 - Storm in Shadowdale
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sir Braford
 aliases:
   - Braford
@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: thrall
 created: 2026-03-16T04:22
-updated: 2026-04-22T15:25
+updated: 2026-04-25T23:25
 ---
 
 # Sir Braford
@@ -49,5 +49,9 @@ Alignment:: Unknown
 Class:: Knight
 Affiliation:: [[Hucrele Family]]
 Deity:: Unknown
+
+## Combat Profile
+
+
 
 

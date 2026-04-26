@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aenath Landmass Types
 aliases:
   - Terra Bound island

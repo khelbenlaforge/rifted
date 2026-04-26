@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shadow Creatures
 aliases:
 tags:

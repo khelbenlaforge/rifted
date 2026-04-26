@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corran's Spike
 aliases:
 tags:

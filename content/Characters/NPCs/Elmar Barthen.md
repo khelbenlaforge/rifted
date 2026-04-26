@@ -1,4 +1,4 @@
-﻿---
+---
 title: Elmar Barthen
 aliases:
   - Barthen

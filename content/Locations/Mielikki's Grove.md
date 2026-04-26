@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mielikki's Grove
 aliases:
 tags:

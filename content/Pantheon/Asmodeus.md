@@ -1,4 +1,4 @@
-﻿---
+---
 title: Asmodeus
 aliases:
   - Lord of the Nine Hells

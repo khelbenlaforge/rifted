@@ -1,4 +1,4 @@
-﻿---
+---
 title: Corranor Council
 aliases:
 tags:

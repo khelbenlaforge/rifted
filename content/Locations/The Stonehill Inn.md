@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Stonehill Inn
 aliases:
   - Stonehill Inn

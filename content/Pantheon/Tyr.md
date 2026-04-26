@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tyr
 aliases:
   - The Maimed God

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calcryx
 aliases:
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deferred Level-Up
 aliases:
   - Narrative Level-Up

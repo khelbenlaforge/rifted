@@ -1,4 +1,4 @@
-﻿---
+---
 title: Storm Silverhand
 aliases:
   - Ethena Astorma

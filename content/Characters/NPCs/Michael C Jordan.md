@@ -1,4 +1,4 @@
-﻿---
+---
 title: Michael C Jordan
 aliases:
   - Mike
