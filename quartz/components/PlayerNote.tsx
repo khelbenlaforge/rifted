@@ -14,9 +14,7 @@ const PlayerNote: QuartzComponent = ({ fileData, displayClass }: QuartzComponent
           src={tallyEmbedUrl}
           width="100%"
           height="520"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
+          frameBorder={0}
           title="Wiki Notes"
         />
       </div>
@@ -66,6 +64,23 @@ PlayerNote.css = `
 [saved-theme="dark"] .player-note-embed iframe {
   filter: invert(1) hue-rotate(180deg);
 }
+`
+
+PlayerNote.afterDOMLoaded = `
+  (function() {
+    function initPlayerNote() {
+      const checkbox = document.getElementById("player-note-toggle");
+      if (!checkbox) return;
+      const key = "player-note:" + document.location.pathname;
+      if (localStorage.getItem(key) === "open") checkbox.checked = true;
+      checkbox.addEventListener("change", function() {
+        if (this.checked) localStorage.setItem(key, "open");
+        else localStorage.removeItem(key);
+      });
+    }
+    document.addEventListener("nav", initPlayerNote);
+    initPlayerNote();
+  })();
 `
 
 export default (() => PlayerNote) satisfies QuartzComponentConstructor

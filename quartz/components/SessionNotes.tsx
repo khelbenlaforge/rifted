@@ -3,33 +3,16 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 const SessionNotes: QuartzComponent = () => {
   return (
     <div class="session-notes">
-      <button
-        class="session-notes-btn"
-        onclick="document.getElementById('session-notes-modal').style.display='flex'"
-      >
-        ✏️ Session Notes
-      </button>
+      <button class="session-notes-btn">✏️ Session Notes</button>
 
-      <div
-        id="session-notes-modal"
-        class="session-notes-modal"
-        onclick="if(event.target===this)this.style.display='none'"
-      >
+      <div id="session-notes-modal" class="session-notes-modal">
         <div class="session-notes-modal-content">
-          <button
-            class="session-notes-close"
-            onclick="document.getElementById('session-notes-modal').style.display='none'"
-            aria-label="Close"
-          >
-            ✕
-          </button>
+          <button class="session-notes-close" aria-label="Close">✕</button>
           <iframe
             src="https://tally.so/embed/xXZMBd?hideTitle=1"
             width="100%"
             height="680"
-            frameborder="0"
-            marginheight="0"
-            marginwidth="0"
+            frameBorder={0}
             title="Session Notes"
           />
         </div>
@@ -119,12 +102,22 @@ SessionNotes.css = `
 `
 
 SessionNotes.afterDOMLoaded = `
-  document.addEventListener("keydown", function(e) {
-    if (e.key === "Escape") {
-      const modal = document.getElementById("session-notes-modal");
-      if (modal) modal.style.display = "none";
-    }
-  });
+  (function() {
+    const btn = document.querySelector(".session-notes-btn");
+    const modal = document.getElementById("session-notes-modal");
+    const close = document.querySelector(".session-notes-close");
+    if (btn && modal) btn.addEventListener("click", function() { modal.style.display = "flex"; });
+    if (close && modal) close.addEventListener("click", function() { modal.style.display = "none"; });
+    if (modal) modal.addEventListener("click", function(e) {
+      if (e.target === this) this.style.display = "none";
+    });
+    document.addEventListener("keydown", function(e) {
+      if (e.key === "Escape") {
+        const m = document.getElementById("session-notes-modal");
+        if (m) m.style.display = "none";
+      }
+    });
+  })();
 `
 
 export default (() => SessionNotes) satisfies QuartzComponentConstructor
