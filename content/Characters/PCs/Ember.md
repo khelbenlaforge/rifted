@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-04-01T19:00
+updated: 2026-04-27T16:12
 ---
 
 # Ember
@@ -70,11 +70,11 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 
 | | |
 |---|---|
-| **Level** | 3 |
+| **Level** | 4 |
 | **Class** | Druid (Circle of the Moon) |
 | **Race** | Tiefling (Variant; Winged) |
 | **Background** | Guide |
-| **HP (Max)** | 22 |
+| **HP (Max)** | 29 |
 | **AC** | 16 |
 | **Speed** | 30 ft. (walk), 30 ft. (fly) |
 | **Proficiency Bonus** | +2 |
@@ -84,7 +84,7 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 7 (−2) | 16 (+3) | 12 (+1) | 12 (+1) | 18 (+4) | 11 (+0) |
+| 7 (−2) | 16 (+3) | 12 (+1) | 12 (+1) | 19 (+4) | 11 (+0) |
 
 ### Saving Throws
 
@@ -171,6 +171,7 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Summon/Dismiss Vesper** | — | Adjacent | Summon Wolf companion or dismiss to amulet | — | — | — |
 | **Healing Word** | — | 60 ft. | 2d4+4 HP | 1st | V | — |
 | **Jump** | — | Touch | Triple jump distance; 1 min | 1st | V, S, M (grasshopper leg) | — |
 | **Barkskin** | — | Touch | Target's AC can't be below 17; 1 hr | 2nd | V, S, M (oak bark) | — |
@@ -193,6 +194,8 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 - **Druidic** — Secret language known only to druids.
 - **Primal Order: Magician** — Arcana proficiency; add WIS modifier to Arcana checks; one extra cantrip.
 - **Winged** — Fly speed 30 ft.
+- **War Caster** — Advantage on CON saves to maintain concentration; somatic components with hands full; can cast a spell as an opportunity attack.
+- **Vesper's Amulet** — Fey Recall (passive): summon or dismiss Vesper (Wolf) as a Bonus Action. Nature's Alarm (passive): can't be surprised while Vesper is within 60 ft. Hunt as One (1/LR): after casting a single-target spell, Vesper makes one free attack against the same creature.
 
 ---
 
@@ -200,7 +203,7 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 **Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st ×4 · 2nd ×2
+**Spell Slots:** 1st ×4 · 2nd ×3
 
 #### Ritual Spells
 
@@ -223,9 +226,9 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 ### Inventory
 
 **Armor (equipped):** Leather Armor, Shield
-**Magic Items:** Guild Bracers, Guild Brass Armlet
+**Magic Items:** Vesper's Amulet, Blight's Call, Guild Brass Armlet
 **Tools:** Herbalism Kit, Cartographer's Tools
-**Gear:** Druidic Focus, Quiver, Arrows ×20, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Tent, Traveler's Clothes, Rations ×10, Torches ×10, Oil ×2
+**Gear:** Druidic Focus, Quiver, Arrows ×20, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Tent, Traveler's Clothes, Rations ×10, Torches ×10, Oil ×2, Spell Scroll (1st) ×2
 
 ---
 Race:: Tiefling

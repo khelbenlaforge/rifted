@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-04-20T21:19
+updated: 2026-04-27T16:38
 ---
 
 # Campaign Timeline
@@ -514,15 +514,105 @@ The prequel vision was complete. They carried with them what no one in Aenath sh
 
 ---
 
+## Year 222 PA — 18th Marpenoth (Session 16 — The Sixth Earther)
+
+### The Northeast Door
+
+The long rest had done what sleep is supposed to do. [[Augustus Kennedy|Augie]] and [[Gill Bates|Gill]] hadn't come back from wherever the prequel vision had put them — they breathed, they were warm, and that would have to be enough. [[Erky Timbers|Erky]] watched over them with the particular attentiveness of someone who is very carefully not being suspicious.
+
+Then the northeast door began to shake.
+
+He came through like something had thrown him — stumbling, one hand pressed to his side, eyes moving too fast over a room full of strangers. [[Jonathan Jordan|JJ]] pulled him through. [[Balsag]] leaned his full weight against the door. The scratching from the other side went on for a while, then stopped.
+
+His name was [[Shen]]. He was bleeding in three places and spoke no Common.
+
+Neither did they, as it turned out. The translation worked on the fly — Aenath's ambient magic threading Common into their minds and their English back out. But standing in a stone room with this man from Kunming who had clearly been through something terrible, all of them heard the seams. *He's from Earth.* The words didn't need to be said aloud.
+
+### The Sixth Earther
+
+Shen's story came out in pieces, the way stories do when someone has been alone with them for too long. A PhD student — Paleontology, Yunnan province — the junior on a team that treated him as furniture. On the day the others had been pulled from their lives into the light, he'd been walking the riverside in Kunming, the low afternoon sun on the water, trying to remember why any of it had mattered. The light found him mid-grief. Unlike the others, it hadn't delivered him to the [[Jade Spire]]. It had dropped him into rocky wilderness, far south, near a ruin he hadn't yet learned to fear.
+
+The [[Durbuluk Goblins|Durbuluk]] goblins found him before he found shelter. They handed him down to [[Belak]].
+
+For weeks he had shared a chamber in the Grove with two people who could not speak to him — a woman, vine-bound, her breathing shallow; a man in armor, standing upright in a way no sleeping man stands. Shen had talked to them anyway. He didn't know their names.
+
+He'd found his way out with help — a voice in his mind that spoke in the cadence of his professor, neutral and critically supportive, showing him how the power worked. A flash of strange light from his hands. A door. A corridor. And then the party.
+
+### Gork
+
+Healed, rested, and briefly lectured by [[Lea]] about running into unknown rooms, the group moved northeast under the cover of [[Ember]]'s Pass Without a Trace. The Garden Galleries were warm and fragrant and wrong. At the center of the room, [[Gork]] moved through her work with the mechanical rhythm of something that no longer had a choice.
+
+[[Balsag]] stopped when he saw her. He'd known her — a hunter, skilled, reliable, the kind of warrior whose absence goes noticed. She looked like herself except for the vines. They grew inside her, threading through skin and muscle, moving with her breath.
+
+[[Shen]] pressed deeper. *Detect Thoughts.* Her surface was silence. Underneath, barely — a single point of consciousness that hadn't been swallowed yet. *Kill me.* Not a demand. A plea. The only thing left with enough will to form words.
+
+They debated it in low voices and moved on.
+
+### Belak's Study
+
+A52 passed without incident. A53's lock gave way to patient work. The room breathed — soil floor, growing things, the smell of something studied obsessively for years. JJ found the desk. Letters. Three of them, and a note from someone called [[Droki]], referencing fruit shipments heading north to [[Sunhold]]. Every seeded community was a potential grove. The supply chain was already in motion.
+
+[[Lea]] found everything else — including a book she shouldn't have opened.
+
+The glyph of warding had been waiting for exactly this moment. Cold light erupted outward in a sphere. JJ took the blast alongside her. The sound it made didn't echo so much as announce.
+
+Somewhere in the Grove, something heard it.
+
+---
+
+## Year 222 PA — 18th Marpenoth (Session 17 — What She Asked For)
+
+### The Flight
+
+The glyph's echo was still ringing off the stone when the blights started moving.
+
+[[Jonathan Jordan|JJ]], [[Lea]], and [[Ember]] moved fast through the study, [[Balsag]] at the rear with [[Shen]] across his back — unconscious, breathing, dead weight. Ball bearings scattered across the corridor floors. Oil spread in careful pools behind them. The smell of it hung sharp in the cold air.
+
+The first patrol came: five twig blights, dry-sounding and deliberate. The party held their position, held their breath. JJ held longest — then didn't. A sound too small to name, a shift of shadow in the wrong place, and the blights turned as one.
+
+They ran.
+
+The oil caught. Something burned in the corridor behind them, fell, went quiet. They killed the first patrol in motion, in the dark, without slowing — the way you deal with a problem you can't afford to stop for.
+
+### Fair Catch
+
+In [[Durnn]]'s Research Lab, [[Gill Bates|Gill]] came to.
+
+Something was in his hand — a spear he had never touched before, shaft worn smooth, a rose carved just below the crossguard, warm in a way that stone-cold corridors had no business producing. [[Fair Catch]] had found its way to him. He held it for a moment in the dark, then set the question aside. The goblins told him what he needed: the others had gone northeast. He followed their trail, reading the scuffed stone the way a tracker reads disturbed grass.
+
+### What She Asked For
+
+They converged in a long narrow hallway. The main party came around one corner. Gill was behind [[Gork]] from the other direction — no time for signals or plans. He stepped into the light and made himself visible. Gave her something to look at that wasn't the others.
+
+She turned on him.
+
+The fight was wrong from the start — not mechanically, not tactically. The party had faced worse. But [[Gork]] had walked beside [[Balsag]] before the tree got into her. She came at them with that same flat determination as the blights, but her eyes were different. Something behind them. Something exhausted. Something that already knew how it ended and was, quietly, grateful.
+
+The ending fell to [[Balsag]].
+
+His blade connected, and something in his face was doing what faces do when they have to. He was crying. He had known what she was asking for since the moment she couldn't bring herself to ask it aloud, and now he gave it to her — because that was what you did for someone who had walked beside you, and the kindness of it was terrible.
+
+The silence after was particular.
+
+### The Sanctum
+
+There was no tactical discussion, exactly — it had the shape of one. Spell slots. [[Shen]]'s dead weight. [[Belak]] still waiting in the Grove below. But underneath the strategy was something rawer: the particular exhaustion that comes after you've done the right thing and it still cost something.
+
+North. Back the way they came.
+
+They closed the door to the room with the murals and the statues of the gods, and the gods watched them sleep.
+
+---
+
 ## Active Threads
 
 **Present (Sunless Citadel — Year 222 PA):**
-- [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn Hucrele]] and [[Sir Braford]] still missing in the [[Sunless Citadel]]
+- [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn Hucrele]] (vine-bound, willing thrall) and [[Sir Braford]] (enthralled) located in [[Belak]]'s Grove
 - Kobold civil war resolved: [[Yusdrayl]] dead, [[Ragh]] leads [[Ordahir Kobolds]], [[Calcryx]] freed
 - The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
 - Sanctum selective reveal: only the five PCs perceive the true chamber; companions see only the Ashardalon illusion
-- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; every seeded community is a potential grove
-- [[Belak]]'s endgame — distributes fruit freely to draw communities south; northeast door is his supply route
+- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s letters confirm shipments routed to [[Sunhold]]; every seeded community is a potential grove
+- [[Belak]]'s endgame — distributes fruit freely to draw communities south; [[Sharwyn Hucrele|Sharwyn]] and [[Sir Braford]] are willing thralls serving the Grove
 - [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
