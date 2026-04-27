@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-01T18:58
+updated: 2026-04-27T16:23
 ---
 
 # Gill Bates
@@ -70,11 +70,11 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 | | |
 |---|---|
-| **Level** | 3 |
+| **Level** | 4 |
 | **Class** | Cleric (Arcana Domain) |
 | **Race** | Human |
 | **Background** | Fisher |
-| **HP (Max)** | 33 |
+| **HP (Max)** | 35 |
 | **AC** | 17 |
 | **Speed** | 30 ft. |
 | **Proficiency Bonus** | +2 |
@@ -83,11 +83,11 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (−1) | 14 (+2) | 14 (+2) | 12 (+1) | 17 (+3) | 10 (+0) |
+| 8 (−1) | 14 (+2) | 14 (+2) | 12 (+1) | 19 (+4) | 10 (+0) |
 
 ### Saving Throws
 
-Wisdom +5 · Charisma +2
+Wisdom +6 · Charisma +2
 
 ### Resistances & Vulnerabilities
 
@@ -95,9 +95,9 @@ None.
 
 ### Skills
 
-Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Survival +5
+Arcana +7† · History +3 · Insight +6 · Medicine +6 · Religion +7† · Survival +6
 
-† *Arcana and Religion: +6 = INT +1 + Prof +2 + WIS +3 (Divine Order: Thaumaturge)*
+† *Arcana and Religion: +7 = INT +1 + Prof +2 + WIS +4 (Divine Order: Thaumaturge)*
 
 **Languages:** Common
 **Tools:** None
@@ -108,50 +108,53 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Mace** | M +1 | 5 ft. | 1d6−1 bludgeon | — | — | — |
-| **Net** | R +4 | 5/15 ft. | Restrained on hit (DC 10 STR/DEX to escape) | — | — | — |
+| **Mace** *(Sap)* | M +1 | 5 ft. | 1d6−1 bludgeon | — | — | — |
+| **Net** | R +4 | 5/15 ft. | Restrained on hit (DC 10 STR/DEX to escape) | — | — | 1 use |
 | **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
+| **Fair Catch** *(Sap)* | M/R +2 | 5 ft. / 20/60 ft. | 1d6 pierce | — | — | — |
 | **Holy Water** | R +4 | 20 ft. | 2d6 radiant (fiends/undead only) | — | — | 1 use |
-| **Turn Undead** | WIS 13 | 30 ft. | Undead turn 1 min; CR ≤ ½ destroyed | — | — | 1 CD |
-| **Divine Spark** | — | 30 ft. | Heal 2d8+3 HP OR deal 2d8+3 necrotic/radiant (CON save halves) | — | — | 1 CD |
-| **Arcane Abjuration** | WIS 13 | 30 ft. | Celestial/elemental/fey/fiend turned 1 min; CR ≤ ½ destroyed | — | — | 1 CD |
-| **Resistance** | — | Touch | +1d4 to one save; 1 min | Cantrip | V, S | Conc. |
-| **Sword Burst** | DEX 13 | Self (5-ft radius) | 1d6 force to each creature | Cantrip | V | — |
+| **Turn Undead** | WIS 14 | 30 ft. | Undead turn 1 min; CR ≤ ½ destroyed | — | — | 1 CD |
+| **Divine Spark** | — | 30 ft. | Heal 2d8+4 HP OR deal 2d8+4 necrotic/radiant (CON save halves) | — | — | 1 CD |
+| **Arcane Abjuration** | WIS 14 | 30 ft. | Celestial/elemental/fey/fiend turned 1 min; CR ≤ ½ destroyed | — | — | 1 CD |
+| **Friends** | WIS 14 | 10 ft. | Target Charmed; 1 min | Cantrip | S, M (makeup) | Conc. |
+| **Guidance** | — | Touch | +1d4 to checks with one skill; 1 min | Cantrip | V, S | Conc. |
+| **Lightning Lure** | STR 14 | 15 ft. | Pull 10 ft; 1d8 lightning if within 5 ft | Cantrip | V | — |
+| **Mind Sliver** | INT 14 | 60 ft. | 1d6 psychic; on fail −1d4 to next save | Cantrip | V | — |
 | **Thaumaturgy** | — | 30 ft. | Minor divine magical effect | Cantrip | V | — |
-| **Toll the Dead** | WIS 13 | 60 ft. | 1d8 necrotic (1d12 if target missing HP) | Cantrip | V, S | — |
-| **True Strike** | M +5 | 5 ft. | Weapon die + 3 psychic/radiant | Cantrip | S, M (weapon) | — |
-| **Bane** | CHA 13 | 30 ft. | 3 targets −1d4 atk/saves; 1 min | 1st | V, S, M (blood) | Conc. |
+| **Toll the Dead** | WIS 14 | 60 ft. | 1d8 necrotic (1d12 if target missing HP) | Cantrip | V, S | — |
+| **True Strike** | M +6 | 5 ft. | Weapon die +4 psychic/radiant | Cantrip | S, M (weapon) | — |
+| **Bane** | CHA 14 | 30 ft. | 3 targets −1d4 atk/saves; 1 min | 1st | V, S, M (blood) | Conc. |
 | **Bless** | — | 30 ft. | 3 targets +1d4 atk/saves; 1 min | 1st | V, S, M | Conc. |
-| **Command** | WIS 13 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
+| **Command** | WIS 14 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
 | **Create or Destroy Water** | — | 30 ft. | Create 10 gal. or destroy fog in 30-ft cube | 1st | V, S, M (water+sand) | — |
-| **Cure Wounds** | — | Touch | 2d8+3 HP | 1st | V, S | — |
+| **Cure Wounds** | — | Touch | 2d8+4 HP | 1st | V, S | — |
 | **Detect Evil and Good** | — | Self (30 ft.) | Sense aligned creature types; 10 min | 1st | V, S | Conc. |
 | **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
 | **Detect Poison and Disease** | — | Self (30 ft.) | Sense poison/disease sources; 10 min | 1st | V, S, M (yew leaf) | Conc. · Ritual |
-| **Guiding Bolt** | R +5 | 120 ft. | 4d6 radiant; next atk vs. target has adv. | 1st | V, S | — |
-| **Inflict Wounds** | M +5 | Touch | 2d10 necrotic | 1st | V, S | — |
+| **Guiding Bolt** | R +6 | 120 ft. | 4d6 radiant; next atk vs. target has adv. | 1st | V, S | — |
+| **Inflict Wounds** | M +6 | Touch | 2d10 necrotic | 1st | V, S | — |
 | **Magic Missile** | — | 120 ft. | 3 darts × 1d4+1 force (auto-hit) | 1st | V, S | 1/LR |
 | **Protection from Evil and Good** | — | Touch | Protection vs. aligned creatures; 10 min | 1st | V, S, M† | Conc. |
 | **Purify Food and Drink** | — | 10 ft. | Purify 5-ft cube of food/drink | 1st | V, S | Ritual |
-| **Wardaway** | CON 13 | 60 ft. | 2d4 force; ½ spd; atk or BA only next turn | 1st | V, S, M (clay hand) | — |
+| **Wardaway** | CON 14 | 60 ft. | 2d4 force; ½ spd; atk or BA only next turn | 1st | V, S, M (clay hand) | — |
 | **Aid** | — | 30 ft. | 3 targets +5 max/current HP; 8 hr | 2nd | V, S, M (cloth) | — |
-| **Blindness/Deafness** | CON 13 | 120 ft. | Target blinded or deafened; 1 min | 2nd | V | — |
+| **Blindness/Deafness** | CON 14 | 120 ft. | Target blinded or deafened; 1 min | 2nd | V | — |
 | **Borrowed Knowledge** | — | Self | Proficiency in one skill; 1 hr | 2nd | V, S, M† | — |
-| **Calm Emotions** | CHA 13 | 60 ft. (20-ft sphere) | Suppress fear/charm; make indifferent; 1 min | 2nd | V, S | Conc. |
+| **Calm Emotions** | CHA 14 | 60 ft. (20-ft sphere) | Suppress fear/charm; make indifferent; 1 min | 2nd | V, S | Conc. |
 | **Continual Flame** | — | Touch | Permanent heatless flame on object | 2nd | V, S, M† | — |
 | **Deryan's Helpful Homunculi** | — | Self | Homebrew — see DM Notes | 2nd | — | — |
 | **Enhance Ability** | — | Touch | Adv. on chosen ability checks; 1 hr | 2nd | V, S, M (fur/feather) | Conc. |
 | **Find Traps** | — | 120 ft. | Sense presence of traps | 2nd | V, S | — |
 | **Gentle Repose** | — | Touch | Preserve corpse for 10 days | 2nd | V, S, M† | Ritual |
-| **Hold Person** | WIS 13 | 60 ft. | Paralyzed humanoid; 1 min | 2nd | V, S, M (iron) | Conc. |
+| **Hold Person** | WIS 14 | 60 ft. | Paralyzed humanoid; 1 min | 2nd | V, S, M (iron) | Conc. |
 | **Locate Object** | — | Self (1000 ft.) | Sense familiar object; 10 min | 2nd | V, S, M (twig) | Conc. |
 | **Nystul's Magic Aura** | — | Touch | Disguise magic aura/creature type; 24 hr | 2nd | V, S, M (silk) | — |
 | **Protection from Poison** | — | Touch | Neutralize poison; adv. vs. Poisoned; 1 hr | 2nd | V, S | — |
 | **Silence** | — | 120 ft. (20-ft sphere) | No sound; no verbal spells; 10 min | 2nd | V, S | Conc. · Ritual |
 | **Warding Bond** | — | Touch | Resistance all dmg; share dmg taken; 1 hr | 2nd | V, S, M† | — |
-| **Zone of Truth** | CHA 13 | 60 ft. (15-ft sphere) | Can't lie; 10 min | 2nd | V, S | — |
+| **Zone of Truth** | CHA 14 | 60 ft. (15-ft sphere) | Can't lie; 10 min | 2nd | V, S | — |
 | **Augury** *(1 min)* | — | Self | Foresee outcome of a course of action | 2nd | V, S, M† | Ritual |
-| **Prayer of Healing** *(10 min)* | — | 30 ft. | Up to 5 targets 2d8+3 HP | 2nd | V | — |
+| **Prayer of Healing** *(10 min)* | — | 30 ft. | Up to 5 targets 2d8+4 HP | 2nd | V | — |
 | **Ceremony** *(1 hr)* | — | Touch | 6 uses: Blessing, Coming of Age, Dedication, Funeral, Investiture, Wedding | 1st | V, S, M† | Ritual |
 
 *† Protection from Evil and Good: M = holy water worth 25+ gp (consumed)*
@@ -168,12 +171,12 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
 | **Potion of Fire Resistance (×2)** | — | Self | Fire resistance 1 hr (administer: Action) | — | — | 1 use |
-| **Healing Word** | — | 60 ft. | 2d4+3 HP | 1st | V | — |
+| **Healing Word** | — | 60 ft. | 2d4+4 HP | 1st | V | — |
 | **Lesser Restoration** | — | Touch | Cure one condition or disease | 2nd | V, S | — |
 | **Magic Weapon** | — | Touch | Weapon becomes +1 magic; 1 hr | 2nd | V, S | — |
-| **Sanctuary** | WIS 13 | 30 ft. | Protected: attackers save or choose new target; 1 min | 1st | V, S, M (mirror shard) | — |
+| **Sanctuary** | WIS 14 | 30 ft. | Protected: attackers save or choose new target; 1 min | 1st | V, S, M (mirror shard) | — |
 | **Shield of Faith** | — | 60 ft. | +2 AC; 10 min | 1st | V, S, M (prayer scroll) | Conc. |
-| **Spiritual Weapon** | M +5 | 60 ft. | 1d8+3 force; BA to move 20 ft. + atk; 1 min | 2nd | V, S | Conc. |
+| **Spiritual Weapon** | M +6 | 60 ft. | 1d8+4 force; BA to move 20 ft. + atk; 1 min | 2nd | V, S | Conc. |
 
 ### Reactions
 
@@ -183,12 +186,13 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 
 ### Features
 
-- **Divine Order: Thaumaturge** — Proficiency in Arcana and Religion; add WIS modifier to both (Arcana +6, Religion +6 in Skills).
-- **Arcane Initiate** — Two wizard cantrips (Sword Burst, True Strike) added as cleric cantrips.
+- **Divine Order: Thaumaturge** — Proficiency in Arcana and Religion; add WIS modifier to both (Arcana +7, Religion +7 in Skills).
+- **Arcane Initiate** — Two wizard cantrips added as cleric cantrips; current picks: Lightning Lure, True Strike.
 - **Arcana Domain Spells** — Always prepared (don't count against prepared total): Magic Missile, Magic Weapon, Nystul's Magic Aura.
 - **Channel Divinity** — Pool 2/SR. Options: Turn Undead, Divine Spark, Arcane Abjuration (see Actions table).
 - **Magic Initiate: Wizard** — Magic Missile free 1×/LR without slot (1/LR in Actions); can also cast using spell slots.
-- **Tough** — +2 HP per level (included in HP 33).
+- **Fair Catch** — +1 returning spear (Sap mastery). Returns: when thrown, returns to hand at start of next turn. Reel In (1/turn on hit): STR 14 save or pulled 10 ft toward Gill. Sune's Grace (passive): on Reel In failure, target has disadv. on next atk vs. Gill before Gill's next turn. Adon's Murmur (1/LR): on atk roll of 1, reroll and use new result.
+- **Tough** — +2 HP per level (included in HP 35).
 - **Human: Resourceful** — Gain Heroic Inspiration after each Long Rest.
 - **Human: Skillful** — Proficiency in one additional skill.
 - **Human: Versatile** — One Origin Feat at character creation.
@@ -197,9 +201,9 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 
 ### Spellcasting
 
-**Ability:** Wisdom | **Save DC:** 13 | **Attack Bonus:** +5
+**Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st ×4 · 2nd ×2
+**Spell Slots:** 1st ×4 · 2nd ×3
 
 #### Ritual Spells
 
@@ -216,7 +220,7 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 ### Inventory
 
 **Armor (equipped):** Chain Shirt, Shield
-**Magic Items:** Guild Brass Armlet
+**Magic Items:** Fair Catch, Guild Brass Armlet
 **Gear:** Holy Symbol, Backpack, Blanket, Lamp, Tinderbox, Rations ×7, Fishing Tackle, Favorite Fishing Lure, Robe, Traveler's Clothes, Pouch
 
 ---

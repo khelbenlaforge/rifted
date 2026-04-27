@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-25T20:05
+updated: 2026-04-27T16:09
 ---
 
 # Jonathan Jordan
@@ -74,12 +74,12 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 
 | | |
 |---|---|
-| **Level** | 3 |
+| **Level** | 4 |
 | **Class** | Rogue (Soulknife) |
 | **Race** | Human |
 | **Background** | Urchin |
-| **HP (Max)** | 20 |
-| **AC** | 14 |
+| **HP (Max)** | 29 |
+| **AC** | 15 |
 | **Speed** | 30 ft. |
 | **Proficiency Bonus** | +2 |
 
@@ -87,11 +87,11 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (−1) | 16 (+3) | 12 (+1) | 7 (−2) | 16 (+3) | 15 (+2) |
+| 8 (−1) | 18 (+4) | 12 (+1) | 7 (−2) | 16 (+3) | 15 (+2) |
 
 ### Saving Throws
 
-Dexterity +5 · Intelligence +0
+Dexterity +6 · Intelligence +0
 
 ### Resistances & Vulnerabilities
 
@@ -99,7 +99,7 @@ None.
 
 ### Skills
 
-Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Persuasion +6★ · Sleight of Hand +5 · Stealth +5
+Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Persuasion +6★ · Sleight of Hand +6 · Stealth +6
 
 ★ *Expertise (doubled proficiency)*
 
@@ -112,13 +112,12 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Dagger** *(Nick)* | M/R +5 | 5 ft. / 20/60 ft. | 1d4+3 pierce | — | — | — |
-| **Shortsword** *(Vex)* | M +5 | 5 ft. | 1d6+3 pierce | — | — | — |
-| **Scimitar** *(Nick)* | M +5 | 5 ft. | 1d6+3 slash | — | — | — |
-| **Shortbow** *(Vex)* | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
-| **Psychic Blade** *(Vex†)* | M/R +5 | 5 ft. / 60 ft. | 1d6+3 psychic | — | — | — |
+| **Dagger** *(Nick)* | M/R +6 | 5 ft. / 20/60 ft. | 1d4+4 pierce | — | — | — |
+| **Shortsword** *(Vex)* | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
+| **Scimitar** *(Nick)* | M +6 | 5 ft. | 1d6+4 slash | — | — | — |
+| **Shortbow** *(Vex)* | R +6 | 80/320 ft. | 1d6+4 pierce | — | — | — |
+| **Psychic Blade** *(Vex†)* | M/R +6 | 5 ft. / 60 ft. | 1d6+4 psychic | — | — | — |
 | **Unarmed Strike** | M +1 | 5 ft. | 1d4−1 bludgeon | — | — | — |
-| **Ball Bearings** | DEX 10 | 10 ft. sq. | Scatter; DEX save or prone when moving through | — | — | 1 use |
 | **Psychic Whispers** | — | 30 ft. | Telepathic link ≤2 creatures; die-value hrs | — | — | 1 PED |
 
 *† Psychic Blade: Vex is free — doesn't count against the Weapon Mastery limit.*
@@ -127,14 +126,16 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
 | **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
 | **Steady Aim** | — | Self | Adv. on next atk; can't move this turn | — | — | — |
-| **Psychic Blade (2nd)** | M/R +5 | 5 ft. / 60 ft. | 1d4+3 psychic; only if no other weapons used | — | — | — |
+| **Psychic Blade (2nd)** | M/R +6 | 5 ft. / 60 ft. | 1d4+4 psychic; only if no other weapons used | — | — | — |
 
 ### Reactions
 
-*None at this level.*
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Coin's Edge** | — | Self | Atk roll exactly matches AC → flip to a miss | — | — | 1/SR |
 
 ---
 
@@ -143,11 +144,12 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 - **Expertise** — Perception and Persuasion at double proficiency (★ in Skills).
 - **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally is adjacent to the target.
 - **Thieves' Cant** — Secret rogue language and cipher.
-- **Weapon Mastery** — Apply mastery to 2 weapons per turn; properties shown in action table. Psychic Blade Vex is always free.
+- **Weapon Mastery** — Apply mastery to 2 weapons per turn; Psychic Blade Vex is always free.
 - **Psionic Energy Die** (d6, 2/SR) — Fuels Soulknife abilities.
 - **Psi-Bolstered Knack** — When you fail a proficient ability check, roll PED and add it; die not expended if check still fails.
 - **Tavern Brawler** — Proficient with improvised weapons; unarmed strikes use d4.
 - **Crafter** — Proficiency with 3 Artisan's Tools; craft items at 50% cost; 20% discount at shops.
+- **Rathan's Symbol of Tymora** — 1 Luck Point/LR: spend for adv. on a d20 test OR impose disadv. on one atk roll against you. Lady Luck's Favor (passive): natural 20 on any d20 test → regain expended Luck Point.
 
 ---
 
@@ -162,9 +164,9 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 ### Inventory
 
 **Armor (equipped):** Leather Armor
-**Magic Items:** Night Caller, Guild Brass Armlet
+**Magic Items:** Night Caller, Rathan's Symbol of Tymora, Guild Brass Armlet
 **Tools:** Thieves' Tools
-**Gear:** Quiver, Arrows ×20, Backpack, Ball Bearings, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token, Rations ×5, Candles ×10, Oil ×7
+**Gear:** Quiver, Arrows ×20, Backpack, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token, Rations ×5, Candles ×10, Oil ×5
 
 ---
 Race:: Human

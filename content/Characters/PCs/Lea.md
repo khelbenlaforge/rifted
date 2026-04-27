@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-01T18:49
+updated: 2026-04-27T16:09
 ---
 
 # Lea
@@ -75,11 +75,11 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 | | |
 |---|---|
-| **Level** | 3 |
+| **Level** | 4 |
 | **Class** | Wizard (Chronurgy Magic) |
 | **Race** | Elf (High Elf) |
-| **Background** | Crazy Rich Scion |
-| **HP (Max)** | 19 |
+| **Background** | Orzhov Representative |
+| **HP (Max)** | 28 |
 | **AC** | 11 |
 | **Speed** | 30 ft. |
 | **Proficiency Bonus** | +2 |
@@ -89,11 +89,11 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (−1) | 13 (+1) | 13 (+1) | 17 (+3) | 15 (+2) | 15 (+2) |
+| 8 (−1) | 13 (+1) | 14 (+2) | 18 (+4) | 15 (+2) | 15 (+2) |
 
 ### Saving Throws
 
-Intelligence +5 · Wisdom +4
+Intelligence +6 · Wisdom +4
 
 ### Resistances & Vulnerabilities
 
@@ -101,7 +101,7 @@ None.
 
 ### Skills
 
-Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +5
+Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +6
 
 ★ *Expertise (doubled proficiency)*
 
@@ -117,19 +117,21 @@ Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4
 | **Dagger** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
 | **Quarterstaff** | M +1 | 5 ft. | 1d6−1 bludgeon (versatile 1d8−1) | — | — | — |
 | **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
-| **Fire Bolt** | R +5 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
+| **Fire Bolt** | R +6 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
 | **Mage Hand** | — | 30 ft. | Spectral hand; move/carry ≤10 lb. | Cantrip | V, S | — |
 | **Prestidigitation** | — | 10 ft. | Minor magical trick | Cantrip | V, S | — |
-| **Chromatic Orb** | R +5 | 90 ft. | 3d8 [chosen energy] | 1st | V, S, M† | — |
-| **Command** | WIS 13 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
+| **Chromatic Orb** | R +6 | 90 ft. | 3d8 [chosen energy] | 1st | V, S, M† | — |
+| **Command** | WIS 14 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
 | **Comprehend Languages** | — | Self | Understand spoken/written language; 1 hr | 1st | V, S, M (soot+salt) | Ritual |
 | **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
 | **Identify** | — | Touch | Learn item properties or spell affecting target | 1st | V, S, M† | Ritual |
 | **Magic Missile** | — | 120 ft. | 3 darts × 1d4+1 force (auto-hit) | 1st | V, S | — |
-| **Sleep** | WIS 13 | 60 ft. | Unconscious ≤5d8 HP creatures; 1 min | 1st | V, S, M (sand) | Conc. |
+| **Sleep** | WIS 14 | 60 ft. | Unconscious ≤5d8 HP creatures; 1 min | 1st | V, S, M (sand) | Conc. |
 | **Unseen Servant** | — | 60 ft. | Invisible mindless servant; 1 hr | 1st | V, S, M (string+wood) | Ritual |
 | **Alter Self** | — | Self | Aquatic/nat wpns/appearance change; 1 hr | 2nd | V, S | Conc. |
+| **Cloud of Daggers** | — | 60 ft. | 4d4 slash/turn in 5-ft cube; 1 min | 2nd | V, S, M (glass) | Conc. |
 | **Knock** | — | 60 ft. | Unlock/open object; bang audible 300 ft. | 2nd | V | — |
+| **Tasha's Mind Whip** | INT 14 | 90 ft. | 3d6 psychic; on fail, forgo move, action, or BA next turn | 2nd | V | — |
 
 *† Chromatic Orb: M = diamond worth 50+ gp*
 *† Identify: M = pearl worth 100+ gp*
@@ -138,7 +140,7 @@ Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
 
 ### Reactions
 
@@ -153,10 +155,10 @@ Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4
 ### Features
 
 - **Arcane Recovery** — 1×/day after SR, recover spell slots totalling ≤2 levels (no slot above 5th).
-- **Ritual Adept** — Cast any spell in your spellbook as a ritual without preparing it.
+- **Ritual Adept** — Cast any ritual-tagged spell in your spellbook without preparing it.
 - **Scholar** — Proficiency in two additional skills.
 - **Skilled** — Proficiency in three additional skills.
-- **Temporal Awareness** — Add INT modifier (+3) to Initiative rolls.
+- **Temporal Awareness** — Add INT modifier (+4) to Initiative rolls.
 - **Fey Ancestry** — Advantage on saves vs. Charmed; immune to magical sleep.
 - **Trance** — 4 hours of trance replaces 8 hours sleep for a long rest.
 - **High Elf Lineage** — One extra wizard cantrip; proficiency in longsword, shortsword, shortbow, longbow.
@@ -166,9 +168,9 @@ Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4
 
 ### Spellcasting
 
-**Ability:** Intelligence | **Save DC:** 13 | **Attack Bonus:** +5
+**Ability:** Intelligence | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st ×4 · 2nd ×2
+**Spell Slots:** 1st ×4 · 2nd ×3
 
 #### Ritual Spells
 
@@ -184,8 +186,8 @@ Arcana +7★ · Insight +4 · Intimidation +4 · Investigation +5 · Medicine +4
 ### Inventory
 
 **Armor (equipped):** Robe (no armor)
-**Magic Items:** Guild Brass Armlet
-**Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments
+**Magic Items:** Elminster's Spellbook, Guild Brass Armlet
+**Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments, Gems ×4
 
 ---
 Race:: Elf (High Elf)
