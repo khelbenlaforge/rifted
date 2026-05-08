@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-04-26
 secret: false
 created: 2026-04-25T20:00
-updated: 2026-04-25T20:00
+updated: 2026-05-08T14:43
 ---
 
 # Twilight Grove
@@ -35,6 +35,7 @@ The air smells of cold stone and something sweeter beneath it. The same sweetnes
 
 - **The Gulthias Tree** — the chamber's center and controlling intelligence. Not mobile. Extremely dangerous to approach. See Scene Features for mechanical details.
 - **Root Network** — exposed roots spread 30 ft from the trunk in every direction, creating difficult terrain and a kill zone for anything that ventures close.
+- **Root Anchors (×3)** — three exposed root clusters visible in the clearing, equidistant around the trunk. AC 13, HP 20 each. Destroying one permanently removes one lair action from rotation. See DM Notes.
 - **Briar Ring** — dense pale briars encircle the clearing but pull back from the tree itself. They mark the edge of the grove's direct influence.
 - **Ruined Towers** — collapsed upper stories; intact ground floors; briars press through every opening. Can be used as cover (3/4) during combat.
 - **Violet Pulse** — the tree's light pulses every few seconds in a slow heartbeat rhythm. Passive Perception 14: it travels outward through the roots in visible waves.
@@ -59,28 +60,28 @@ The air smells of cold stone and something sweeter beneath it. The same sweetnes
 
 - **Dim Light throughout** — the Gulthias Tree's violet luminescence provides dim light to the entire chamber; no area is fully dark, none is bright.
 - **Difficult Terrain (30 ft radius from trunk)** — the exposed root network is dense and unpredictable underfoot. Movement costs double within this zone.
-- **Necrotic Bleed** — any creature that starts its turn grappled or restrained within 60 ft of the tree takes 3 (1d6) necrotic damage as the roots feed.
+- **Gulthias Bond (Belak)** — while Belak is alive and within 120 ft., the tree regains 10 HP at the start of each of its turns.
 - **Fire Sensitivity** — the Gulthias Tree takes double damage from fire. Any fire-damage spell or effect within 30 ft of the trunk triggers a wail audible throughout the Grove Level.
 
 ### Lair Actions *(initiative count 20 — choose one; can't repeat same action two rounds in a row)*
 
-- *Root Surge.* The ground in a 15 ft radius centered on a point within 60 ft of the tree erupts with roots. Each creature in the area makes a DC 14 Strength saving throw or takes 7 (2d6) piercing damage and is restrained until the start of the next initiative count 20. A restrained creature or an adjacent ally can end the restraint with a DC 14 Athletics or Acrobatics check (action).
+- *Blight Spawn* **[Anchor A].** One Twig Blight erupts from the soil in an unoccupied space within 30 ft of the tree and acts immediately on this initiative count. **Removed when Anchor A is destroyed.**
 
-- *Gulthias Pulse.* The tree pulses with necromantic energy. Each creature within 30 ft of the tree that is grappled, restrained, or incapacitated takes 7 (2d6) necrotic damage, and [[Belak]] regains 10 HP (the bond feeds him, not the other way around).
+- *Root Surge* **[Anchor B].** The ground in a 15 ft radius centered on a point within 60 ft of the tree erupts with roots. Each creature in the area makes a DC 14 Strength saving throw or takes 7 (2d6) piercing damage and is restrained until the start of the next initiative count 20. A restrained creature or an adjacent ally can end the restraint with a DC 14 Athletics or Acrobatics check (action). **Removed when Anchor B is destroyed.**
 
-- *Blight Spawn.* One Twig Blight erupts from the soil in an unoccupied space within 30 ft of the tree and acts immediately on this initiative count.
+- *Gulthias Pulse* **[Anchor C].** The tree pulses with necromantic energy. Each creature within 30 ft of the tree that is grappled, restrained, or incapacitated takes 7 (2d6) necrotic damage, and [[Belak]] regains 10 HP. **Removed when Anchor C is destroyed.**
 
-- *Spore Cloud.* The tree releases spores in a 20 ft radius centered on itself. Each creature in the area makes a DC 14 Constitution saving throw or is poisoned until the end of its next turn. While poisoned this way, the creature's speed is halved.
+- *Spore Cloud* **[always available — cannot be removed by anchors].** The tree releases spores in a 20 ft radius centered on itself. Each creature in the area makes a DC 14 Constitution saving throw or is poisoned until the end of its next turn. While poisoned this way, the creature's speed is halved.
 
 > *Which PC does the grove single out — whose presence is it most aware of, and why?*
 
 ### Triggered Effects
 
-- *When the tree is destroyed (reaches 0 HP or narrative milestone).* All blights in the Grove Level collapse. [[Sir Braford]] is incapacitated for 1 hour, then wakes as himself. [[Sharwyn Hucrele]] is freed if not already. [[Belak]] takes 20 psychic damage and must make a DC 15 Wisdom saving throw or be stunned until the end of his next turn. [[Gork]] in A49 dies — released from the last fragment of will that was keeping her asking. The violet light dies slowly, like an exhalation.
+- *When the tree goes Dormant (all three anchors destroyed, or Belak dies).* All blights in the Grove Level collapse. [[Sir Braford]] is incapacitated for 1 hour, then wakes as himself. [[Sharwyn Hucrele]] is freed if not already. [[Belak]] takes 20 psychic damage and must make a DC 15 Wisdom saving throw or be stunned until the end of his next turn. [[Gork]] dies — freed from the last fragment of will keeping her alive. The violet light dies slowly, like an exhalation.
 
 - *When a fire-damage effect strikes within 30 ft of the trunk.* The tree emits an audible wail. Each creature within 60 ft makes a DC 13 Wisdom saving throw or is frightened of the tree until the end of their next turn.
 
-- *When a creature moves within 10 ft of the trunk.* At the end of that creature's turn, it makes a DC 16 Constitution saving throw or takes 22 (4d10) necrotic damage and is grappled by roots (escape DC 16). While grappled, it takes 22 (4d10) necrotic damage at the start of each of its turns.
+- *When a creature moves within 10 ft of the trunk.* At the end of that creature's turn, it makes a **DC 18 Constitution saving throw** or takes 14 (2d6+7) necrotic damage and is **grappled** by roots (escape DC 17). While grappled: Restrained + **14 (4d6) necrotic** at the start of each of that creature's turns. HP maximum decreases by necrotic taken; tree regains equal HP. Up to 6 creatures grappled simultaneously.
 
 > *The tree is not defending itself — it's feeding. What does a creature feel in the moment the roots find them?*
 
