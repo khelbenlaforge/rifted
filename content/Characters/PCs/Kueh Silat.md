@@ -3,7 +3,7 @@ tags:
   - player-character
   - one-shot
 created: 2026-05-07T00:00
-updated: 2026-05-07T19:07
+updated: 2026-05-09T19:04
 ---
 
 # Kueh Silat
@@ -79,10 +79,10 @@ Acrobatics +6 · Insight +6 · Medicine +6 · Perception +6 · Religion +2
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
 | **Unarmed Strike** | M +7 | 5 ft | 1d8+4 bludgeon | — | — | — |
-| **Hand of Harm** | CON 14 | — | On unarmed hit: +1d8+3 necrotic (1 FP); once/turn | — | — | 1 FP |
+| **Hand of Harm** | CON 14 | — | On unarmed hit: +1d8+4 necrotic (1 FP); once/turn | — | — | 1 FP |
 | **Stunning Strike** | CON 14 | — | On monk weapon/unarmed hit: Stunned until your next turn on fail (1 FP); once/turn | — | — | 1 FP |
-| **Quarterstaff** *(Topple)* | M +6 | 5 ft | 1d6+3 bludgeon (1d8+3 two-handed); on hit: CON 14 or Prone | — | — | — |
-| **Hand of Healing** | — | Touch | Magic action: 1d8+3 HP restored (1 FP); or replace 1 Flurry of Blows strike | — | — | 1 FP |
+| **Quarterstaff** *(Topple)* | M +6 | 5 ft | 1d8+3 bludgeon (1d8+3 two-handed); on hit: CON 14 or Prone | — | — | — |
+| **Hand of Healing** | — | Touch | Magic action: 1d8+4 HP restored (1 FP); or replace 1 Flurry of Blows strike | — | — | 1 FP |
 | **Healer (Battle Medic)** | — | 5 ft | Utilize action + Healer's Kit use: target expends 1 HD → HD + 3 HP | — | — | 1×/SR per target |
 | **Druidcraft** | — | 30 ft | Minor magical effects (lights, sounds, odors, symbols) | Cantrip | V, S | — |
 | **Longstrider** | — | Touch | +10 ft speed to 1 creature; 1 hr | 1st | V, S, M (pinch of dirt) | 1/LR |
@@ -101,7 +101,7 @@ Acrobatics +6 · Insight +6 · Medicine +6 · Perception +6 · Religion +2
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Deflect Attacks** | — | Self | Reduce B/P/S damage by 1d10+8; if 0, spend 1 FP: redirect as R +7 atk, 20/60 ft, 1d10+8 same type | — | — | — |
+| **Deflect Attacks** | — | Self | Reduce B/P/S damage by 1d10+8; if 0, spend 1 FP: redirect as R +6 atk, 20/60 ft, 1d10+8 same type | — | — | — |
 | **Slow Fall** | — | Self | Reduce fall damage by 25 | — | — | — |
 
 ---
