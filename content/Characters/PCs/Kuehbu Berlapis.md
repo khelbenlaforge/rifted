@@ -3,7 +3,7 @@ tags:
   - player-character
   - one-shot
 created: 2026-04-29T09:56
-updated: 2026-05-07T19:23
+updated: 2026-05-10T16:56
 ---
 
 # Kuehbu Berlapis
@@ -46,7 +46,7 @@ updated: 2026-05-07T19:23
 | **Class** | Paladin 2 (Oath of Devotion) / Sorcerer 3 (Wild Magic) |
 | **Race** | Goliath (Cloud Giant Ancestry) |
 | **Background** | Merchant |
-| **HP (Max)** | 53 |
+| **HP (Max)** | 53 + 10 |
 | **AC** | 20 |
 | **Speed** | 35 ft |
 | **Proficiency Bonus** | +3 |
@@ -127,7 +127,7 @@ Animal Handling +2 · Athletics +5 · Intimidation +6 · Persuasion +6
 - **Metamagic: Quickened Spell** — spend 2 SP: change a spell's casting time from Action to Bonus Action
 - **Wild Magic Surge** — once per turn, after casting a Sorcerer spell with a slot, roll d20; on 20, roll on the Wild Magic Surge table
 - **Tides of Chaos** — 1×/LR: Advantage on one D20 Test before rolling; recharges when you cast a Sorcerer spell with a slot (also auto-triggers a Wild Magic Surge)
-- **Lucky** — 3 Luck Points/LR: spend 1 to gain Advantage on a D20 Test, OR impose Disadvantage on an attack roll against you
+- **Lucky** — 3 Luck Points/LR: spend 1 to gain Advantage on a D20 Test, OR impose Disadvantage on an attack roll against you 2 left
 
 ---
 
@@ -137,7 +137,7 @@ Animal Handling +2 · Athletics +5 · Intimidation +6 · Persuasion +6
 
 **Sorcery Points:** 3/LR
 
-**Spell Slots:** 4 × 1st | 3 × 2nd
+**Spell Slots:** 4 × 1st | 3 × 2nd 2/2
 
 #### Ritual Spells
 
@@ -154,7 +154,7 @@ None prepared.
 - Sun Blade (rare; requires attunement — *see DM Notes*)
 - Holy Symbol
 
-**Gear:** Backpack · Blanket · Holy Water ×1 · Lamp · Rations ×7 · Robe · Tinderbox · Navigator's Tools · Pouch · Traveler's Clothes
+**Gear:** Backpack · Blanket · Holy Water ×1 · Lamp · Rations ×7 · Robe · Tinderbox · Navigator's Tools · Pouch · Traveler's Clothes · 2x Potions
 
 **Backup (unequipped):** Chain Mail · Shield · Longsword
 
