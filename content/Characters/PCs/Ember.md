@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-04-27T16:12
+updated: 2026-05-15T23:36
 ---
 
 # Ember
@@ -72,7 +72,7 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 |---|---|
 | **Level** | 4 |
 | **Class** | Druid (Circle of the Moon) |
-| **Race** | Tiefling (Variant; Winged) |
+| **Race** | Tiefling (Winged Variant) |
 | **Background** | Guide |
 | **HP (Max)** | 29 |
 | **AC** | 16 |
@@ -98,7 +98,7 @@ Fire (resistance)
 
 Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
-**Languages:** Common · Infernal
+**Languages:** Common · Infernal · Druidic
 **Tools:** Cartographer's Tools · Herbalism Kit
 
 ---
@@ -107,95 +107,56 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Sickle** *(Nick)* | M +5 | 5 ft. | 1d4+3 slash | — | — | — |
-| **Shortbow** *(Vex)* | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
-| **Spear** *(Sap)* | M/R +0 | 5 ft. / 20/60 ft. | 1d6−2 pierce (versatile 1d8−2) | — | — | — |
-| **Unarmed Strike** | M +0 | 5 ft. | 1−2 bludgeon | — | — | — |
-| **Wild Shape** | — | Self | Transform into beast CR 1 or lower; no fly/swim restriction | — | — | 2×/SR |
-| **Druidcraft** | — | 30 ft. | Minor nature effects (weather, plants, sounds, fire) | 0 | V, S | — |
-| **Guidance** | — | Touch | Target +1d4 to one ability check; 1 min | 0 | V, S | Conc. |
-| **Primal Savagery** | M +6 | 5 ft. | 1d10 acid | 0 | S | — |
-| **Starry Wisp** | R +6 | 60 ft. | 1d8 radiant; target has disadv. on Conc. saves; 1 rnd | 0 | V, S | — |
-| **Thorn Whip** | M +6 | 30 ft. | 1d6 pierce; pull target 10 ft. | 0 | V, S, M (plant stem) | — |
-| **Animal Friendship** | WIS 14 | 30 ft. | Charm beast; 24 hrs | 1st | V, S, M (food) | — |
-| **Beast Bond** | — | Touch | Telepathic link with familiar; share senses; 10 min | 1st | V, S, M (fur) | Conc. |
-| **Charm Person** | WIS 14 | 30 ft. | Charm humanoid; 1 hr | 1st | V, S | — |
-| **Create or Destroy Water** | — | 30 ft. | Create or destroy 10 gallons of water | 1st | V, S, M (water+sand) | — |
+| **Unarmed Strike** | M +0 | 5 ft. | 1 bludgeon; or grapple/shove (escape DC 10) | — | — | — |
+| **Sickle** | M +0 | 5 ft. | 1d4−2 slash | — | — | — |
+| **Shortbow** | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
+| **Blight's Call** | WIS 15 | 60 ft. | Blights/undead frightened on fail; user rolls curse | — | — | 1/day |
+| **Wild Shape** | — | Self | Transform into CR ≤1 beast (Action) | — | — | 2×/SR |
+| **Druidcraft** | — | 30 ft. | Minor nature effects (weather, plants, sounds, fire) | Cantrip | V, S | — |
+| **Guidance** | — | Touch | Target +1d4 to one ability check; 1 min | Cantrip | V, S | Conc. |
+| **Primal Savagery** | M +6 | 5 ft. | 1d10 acid | Cantrip | S | — |
+| **Spare the Dying** | — | 15 ft. | Stabilize creature with 0 HP | Cantrip | V, S | — |
+| **Starry Wisp** | R +6 | 60 ft. | 1d8 radiant; target has disadv. on Conc. saves; 1 rnd | Cantrip | V, S | — |
+| **Thorn Whip** | M +6 | 30 ft. | 1d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
 | **Cure Wounds** | — | Touch | 2d8+4 HP | 1st | V, S | — |
-| **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
-| **Detect Poison and Disease** | — | Self (30 ft.) | Sense poison/disease sources; 10 min | 1st | V, S, M (yew leaf) | Conc. · Ritual |
-| **Earth Tremor** | DEX 14 | 10 ft. | 1d12 bludgeon + prone (on fail) in 10-ft radius | 1st | V, S | — |
-| **Entangle** | STR 14 | 90 ft. | Restrained in 20-ft square; 1 min | 1st | V, S | Conc. |
 | **Faerie Fire** | DEX 14 | 60 ft. | Outline creatures in 20-ft cube; attacks vs. them have adv.; 1 min | 1st | V | Conc. |
-| **Fog Cloud** | — | 120 ft. | Heavily obscured 20-ft sphere; 1 hr | 1st | V, S | Conc. |
-| **Goodberry** | — | Touch | Up to 10 berries; each restores 1 HP and counts as food | 1st | V, S, M (mistletoe) | — |
-| **Ice Knife** | R +6 | 60 ft. | 1d10 pierce (hit); DEX 14 or 2d6 cold (5-ft burst) | 1st | S, M (ice) | — |
-| **Longstrider** | — | Touch | +10 ft. speed; 1 hr | 1st | V, S, M (dirt) | — |
-| **Protection from Evil and Good** | — | Touch | Protection vs. aligned creatures; 10 min | 1st | V, S, M† | Conc. |
-| **Purify Food and Drink** | — | 10 ft. | Purify 5-ft cube of food/drink | 1st | V, S | Ritual |
 | **Speak with Animals** | — | Self | Speak with beasts; 10 min | 1st | V, S | Ritual |
+| **Find Familiar** | — | 10 ft. | 30 min ritual via Wild Companion; summon familiar | 1st | V, S, M† | Ritual |
 | **Thunderwave** | CON 14 | Self (15-ft cube) | 2d8 thunder + push 10 ft. on fail | 1st | V, S | — |
-| **Aid** | — | 30 ft. | 3 targets +5 max/current HP; 8 hr | 2nd | V, S, M (cloth) | — |
-| **Air Bubble** *(AAG)* | — | 60 ft. | Up to 5 creatures breathe normally in water/vacuum; 24 hr | 2nd | S | — |
-| **Animal Messenger** | — | 30 ft. | Send tiny beast with message up to 24 hr | 2nd | V, S, M (food) | Ritual |
-| **Beast Sense** | — | Touch | See/hear through beast's senses; 1 hr | 2nd | S | Conc. · Ritual |
-| **Continual Flame** | — | Touch | Permanent heatless flame on object | 2nd | V, S, M† | — |
-| **Darkvision** | — | Touch | 60 ft. darkvision; 8 hr | 2nd | V, S, M (carrot) | — |
-| **Dust Devil** | CON 14 | 60 ft. | 1d8 bludgeon + push 10 ft.; movable 5-ft devil; 1 min | 2nd | V, S, M (dust) | Conc. |
-| **Earthbind** | STR 14 | 300 ft. | Fly speed = 0; target falls; 1 min | 2nd | V | Conc. |
-| **Enhance Ability** | — | Touch | Advantage on chosen ability checks; 1 hr | 2nd | V, S, M (fur) | Conc. |
 | **Enlarge/Reduce** | CON 14 | 30 ft. | Target grows (adv. STR, +1d4 dmg) or shrinks (disadv. STR, −1d4 dmg); 1 min | 2nd | V, S, M (iron) | Conc. |
-| **Find Traps** | — | 120 ft. | Sense presence of traps | 2nd | V, S | — |
-| **Flaming Sphere** | DEX 14 | 60 ft. | 2d6 fire; movable 5-ft sphere; 1 min | 2nd | V, S, M (wax) | Conc. |
-| **Gust of Wind** | STR 14 | Self (60-ft line) | Push 15 ft.; difficult terrain; 1 min | 2nd | V, S, M (seed) | Conc. |
-| **Heat Metal** | CON 14 | 60 ft. | 2d8 fire; possibly disarm metal object; 1 min | 2nd | V, S, M (iron) | Conc. |
-| **Hold Person** | WIS 14 | 60 ft. | Paralyzed humanoid; 1 min | 2nd | V, S, M (iron) | Conc. |
-| **Locate Animals or Plants** | — | Self (1 mi.) | Sense nearest named creature or plant type | 2nd | V, S, M (fur) | Ritual |
-| **Locate Object** | — | Self (1000 ft.) | Sense familiar object; 10 min | 2nd | V, S, M (twig) | Conc. |
-| **Moonbeam** ★ | CON 14 | 120 ft. | 2d10 radiant in 5-ft cylinder; 1 min | 2nd | V, S, M (moonseed) | Conc. |
+| **Moonbeam** | CON 14 | 120 ft. | 2d10 radiant in 5-ft cylinder; move as Action; 1 min | 2nd | V, S, M (moonseed) | Conc. |
 | **Pass without Trace** | — | Self (30 ft.) | +10 Stealth, no tracks; 1 hr | 2nd | V, S, M (ashes) | Conc. |
-| **Protection from Poison** | — | Touch | Neutralize poison; adv. vs. Poisoned; 1 hr | 2nd | V, S | — |
-| **Skywrite** *(XGE)* | — | Sight | Write text visible in clouds; 1 hr | 2nd | V, S | Conc. |
-| **Spike Growth** | — | 150 ft. | 2d4 pierce per 5 ft. moved; 10 min | 2nd | V, S, M (thorns) | Conc. |
-| **Summon Beast** | — | 90 ft. | Summon CR 2 beast spirit; 1 hr | 2nd | V, S, M† | Conc. |
-| **Warding Wind** | — | Self (10-ft radius) | Deafened within; ranged atk disadv.; push gases/vapors; 10 min | 2nd | V | Conc. |
-| **Wither and Bloom** *(SCC)* | CON 14 | 60 ft. | 2d6 necrotic in 10-ft radius (save halves); one creature regains 1d6+4 HP | 2nd | V, S, M (vine) | — |
+| **Summon Beast** | — | 90 ft. | Summon beast spirit; 1 hr | 2nd | V, S, M† | Conc. |
 
-*† Protection from Evil and Good: M = holy water worth 25+ gp (consumed)*
-*† Continual Flame: M = ruby dust worth 50+ gp (consumed)*
-*† Summon Beast: M = feather, tuft of fur, and fish tail worth 200+ gp (consumed)*
-★ *Moonbeam always prepared via Circle of the Moon*
+*† Find Familiar: M = burning incense worth 10+ gp (consumed)*
+*† Summon Beast: M = feather, fur, and fish tail in gilded acorn worth 200+ gp*
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
-| **Summon/Dismiss Vesper** | — | Adjacent | Summon Wolf companion or dismiss to amulet | — | — | — |
+| **Summon/Dismiss Vesper** | — | Adjacent | Summon wolf companion or dismiss to amulet | — | — | — |
 | **Healing Word** | — | 60 ft. | 2d4+4 HP | 1st | V | — |
 | **Jump** | — | Touch | Triple jump distance; 1 min | 1st | V, S, M (grasshopper leg) | — |
-| **Barkskin** | — | Touch | Target's AC can't be below 17; 1 hr | 2nd | V, S, M (oak bark) | — |
 | **Flame Blade** | M +6 | 5 ft. | 3d6 fire; re-summon as BA; 10 min | 2nd | V, S, M (sumac) | Conc. |
-| **Healing Spirit** | — | 60 ft. | Spirit heals 1d6 when creature ends turn in its space; 1 min | 2nd | V, S | Conc. |
-| **Lesser Restoration** | — | Touch | Cure one condition or disease | 2nd | V, S | — |
 
 ### Reactions
 
-| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Absorb Elements** | — | Self | Absorb incoming elemental dmg; +1d6 of that type on next melee atk | 1st | S | — |
+*None at this level.*
 
 ---
 
 ### Features
 
-- **Wild Shape** — 2×/SR; transform into beast CR 1 or lower; no fly/swim restriction (Circle Forms). See action table.
-- **Wild Companion** — Expend a Wild Shape charge to cast Find Familiar (no slot required).
+- **Wild Shape** — 2×/SR; transform into beast CR 1 or lower as an Action. See action table.
+- **Circle Forms** — Moon Druid Wild Shape can use CR 1 beast forms at this level.
+- **Wild Companion** — Expend a Wild Shape charge to cast *Find Familiar* as a 30-minute ritual with no spell slot.
 - **Druidic** — Secret language known only to druids.
-- **Primal Order: Magician** — Arcana proficiency; add WIS modifier to Arcana checks; one extra cantrip.
-- **Winged** — Fly speed 30 ft.
+- **Winged Tiefling** — Fly speed 30 ft.; Darkvision 60 ft.; Fire resistance. Does not grant Infernal Legacy spells.
 - **War Caster** — Advantage on CON saves to maintain concentration; somatic components with hands full; can cast a spell as an opportunity attack.
-- **Vesper's Amulet** — Fey Recall (passive): summon or dismiss Vesper (Wolf) as a Bonus Action. Nature's Alarm (passive): can't be surprised while Vesper is within 60 ft. Hunt as One (1/LR): after casting a single-target spell, Vesper makes one free attack against the same creature.
+- **Blight's Call** — Frightens blights and undead, but the user must also make the horn's curse save after blowing it.
+- **Vesper's Amulet** — Fey Recall lets Ember summon/dismiss Vesper as a Bonus Action; Nature's Alarm prevents surprise while Vesper is within 60 ft.; The Hunt as One (1/LR) lets Vesper make one free attack after Ember casts a single-target spell.
 
 ---
 
@@ -207,27 +168,15 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 #### Ritual Spells
 
-- *Detect Magic* (1st) — 10 min cast — Sense magic auras and schools within 30 ft.
-- *Detect Poison and Disease* (1st) — 10 min cast — Sense poison/disease sources within 30 ft.
-- *Purify Food and Drink* (1st) — 1 min cast — Purify a 5-ft cube of nonmagical food and drink.
-- *Speak with Animals* (1st) — 1 min cast — Speak with beasts for 10 min.
-- *Find Familiar* (1st) — 1 hr cast — Summon familiar. Cast via Wild Companion (costs Wild Shape charge, no slot).
-- *Animal Messenger* (2nd) — 1 min cast — Send a tiny beast with a message up to 24 hr away.
-- *Beast Sense* (2nd) — 1 min cast — See/hear through a familiar or willing beast for 1 hr.
-- *Locate Animals or Plants* (2nd) — 1 min cast — Sense nearest named creature or plant type within 1 mile.
-- *Augury* (2nd) — 11 min cast (1 min + ritual) — Divine near-future outcome of an action.
-
-#### Long-Cast (Non-Ritual)
-
-- *Snare* (1st) — 1 min cast, M (25 ft. rope, consumed) — Create a trap; creature stepping in makes DEX 14 or is restrained.
+- *Speak with Animals* (XPHB, 1st) — Action cast — Speak with beasts for 10 min.
+- *Find Familiar* (XPHB, 1st) — 30 min cast via Wild Companion — Summon a familiar; costs one Wild Shape use.
 
 ---
 
 ### Inventory
 
 **Armor (equipped):** Leather Armor, Shield
-**Magic Items:** Vesper's Amulet, Blight's Call, Guild Brass Armlet
-**Tools:** Herbalism Kit, Cartographer's Tools
+**Magic Items (equipped):** Blight's Call, Vesper's Amulet
 **Gear:** Druidic Focus, Quiver, Arrows ×20, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Tent, Traveler's Clothes, Rations ×10, Torches ×10, Oil ×2, Spell Scroll (1st) ×2
 
 ---

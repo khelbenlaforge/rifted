@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-27T16:09
+updated: 2026-05-15T23:17
 ---
 
 # Lea
@@ -89,7 +89,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (−1) | 13 (+1) | 14 (+2) | 18 (+4) | 15 (+2) | 15 (+2) |
+| 8 (-1) | 13 (+1) | 14 (+2) | 18 (+4) | 15 (+2) | 15 (+2) |
 
 ### Saving Throws
 
@@ -115,47 +115,40 @@ Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Dagger** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
-| **Quarterstaff** | M +1 | 5 ft. | 1d6−1 bludgeon (versatile 1d8−1) | — | — | — |
-| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
+| **Quarterstaff** | M +1 | 5 ft. | 1d6-1 bludgeon (versatile 1d8-1) | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 0 bludgeon; or Grapple/Shove (STR/DEX 14) | — | — | — |
 | **Fire Bolt** | R +6 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
-| **Mage Hand** | — | 30 ft. | Spectral hand; move/carry ≤10 lb. | Cantrip | V, S | — |
-| **Prestidigitation** | — | 10 ft. | Minor magical trick | Cantrip | V, S | — |
-| **Chromatic Orb** | R +6 | 90 ft. | 3d8 [chosen energy] | 1st | V, S, M† | — |
-| **Command** | WIS 14 | 60 ft. | One-word command; 1 rnd | 1st | V | — |
-| **Comprehend Languages** | — | Self | Understand spoken/written language; 1 hr | 1st | V, S, M (soot+salt) | Ritual |
-| **Detect Magic** | — | Self (30 ft.) | Sense magic auras and schools; 10 min | 1st | V, S | Conc. · Ritual |
-| **Identify** | — | Touch | Learn item properties or spell affecting target | 1st | V, S, M† | Ritual |
+| **Mage Hand** | — | 30 ft. | Spectral hand; move/carry ≤10 lb.; 1 min | Cantrip | V, S | — |
+| **Mending** | — | Touch | 1 min cast; repair one break/tear | Cantrip | V, S, M (lodestones) | — |
+| **Prestidigitation** | — | 10 ft. | Minor magical trick; up to 1 hr | Cantrip | V, S | — |
+| **Command** | WIS 14 | 60 ft. | One-word command; fail obeys next turn | 1st | V | — |
 | **Magic Missile** | — | 120 ft. | 3 darts × 1d4+1 force (auto-hit) | 1st | V, S | — |
-| **Sleep** | WIS 14 | 60 ft. | Unconscious ≤5d8 HP creatures; 1 min | 1st | V, S, M (sand) | Conc. |
-| **Unseen Servant** | — | 60 ft. | Invisible mindless servant; 1 hr | 1st | V, S, M (string+wood) | Ritual |
-| **Alter Self** | — | Self | Aquatic/nat wpns/appearance change; 1 hr | 2nd | V, S | Conc. |
-| **Cloud of Daggers** | — | 60 ft. | 4d4 slash/turn in 5-ft cube; 1 min | 2nd | V, S, M (glass) | Conc. |
-| **Knock** | — | 60 ft. | Unlock/open object; bang audible 300 ft. | 2nd | V | — |
-| **Tasha's Mind Whip** | INT 14 | 90 ft. | 3d6 psychic; on fail, forgo move, action, or BA next turn | 2nd | V | — |
-
-*† Chromatic Orb: M = diamond worth 50+ gp*
-*† Identify: M = pearl worth 100+ gp*
+| **Sleep** | WIS 14 | 60 ft. | 5-ft sphere; fail Incap.; fail 2nd save Unconscious; 1 min | 1st | V, S, M (sand) | Conc. |
+| **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn; move 30 ft. with Magic action | 2nd | V, S, M (glass) | Conc. |
+| **Suggestion** | WIS 14 | 30 ft. | Fail Charmed; follows ≤25-word suggestion; 8 hr | 2nd | V, M (honey) | Conc. |
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Expeditious Retreat** | — | Self | Dash as BA for duration; 10 min | 1st | V, S | Conc. |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Shield** | — | Self | +5 AC until start of next turn; trigger: being hit or targeted by Magic Missile | 1st | V, S | — |
-| **Silvery Barbs** | — | 60 ft. | Force reroll atk/check/save; on fail, grant adv. to one creature within 60 ft. | 1st | V | — |
-| **Chronal Shift** | — | 60 ft. | Force reroll atk/check/save; must use new roll | — | — | 2×/LR |
+| **Silvery Barbs** | — | 60 ft. | Trigger: seen creature succeeds atk/check/save; reroll, use lower; grant adv. | 1st | V | — |
+| **Chronal Shift** | — | 30 ft. | Trigger: seen creature makes atk/check/save; force reroll, use new roll | — | — | 2×/LR |
 
 ---
 
 ### Features
 
 - **Arcane Recovery** — 1×/day after SR, recover spell slots totalling ≤2 levels (no slot above 5th).
-- **Ritual Adept** — Cast any ritual-tagged spell in your spellbook without preparing it.
+- **Ritual Adept** — Cast any Wizard ritual in your spellbook without preparing it.
+- **Elminster's Spellbook** — Can read and prepare any spell in the book of a level she can currently cast; cantrip remains locked until unlocked through play. Transcription requires time, quiet, and materials outside the dungeon.
+- **Detect Magic (Elven Lineage)** — Cast Detect Magic 1/LR without a spell slot.
 - **Scholar** — Proficiency in two additional skills.
 - **Skilled** — Proficiency in three additional skills.
 - **Temporal Awareness** — Add INT modifier (+4) to Initiative rolls.
@@ -175,18 +168,15 @@ Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4
 #### Ritual Spells
 
 - *Comprehend Languages* (1st) — 10 min cast — Understand any spoken or written language for 1 hr.
-- *Detect Magic* (1st) — 10 min cast — Sense magic auras and schools within 30 ft.
 - *Identify* (1st) — 10 min cast — Learn properties of a magic item or spell affecting a creature.
 - *Unseen Servant* (1st) — 10 min cast — Create an invisible mindless servant for 1 hr.
-
-*Also known: Mending (cantrip, 1 min cast) — repair a single break or tear in an object.*
 
 ---
 
 ### Inventory
 
 **Armor (equipped):** Robe (no armor)
-**Magic Items:** Elminster's Spellbook, Guild Brass Armlet
+**Magic Items:** [[Elminster's Spellbook]], Guild Brass Armlet
 **Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments, Gems ×4
 
 ---
