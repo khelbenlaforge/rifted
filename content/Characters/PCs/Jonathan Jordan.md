@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-04-27T16:09
+updated: 2026-05-15T22:38
 ---
 
 # Jonathan Jordan
@@ -87,7 +87,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (−1) | 18 (+4) | 12 (+1) | 7 (−2) | 16 (+3) | 15 (+2) |
+| 8 (-1) | 18 (+4) | 12 (+1) | 7 (-2) | 16 (+3) | 15 (+2) |
 
 ### Saving Throws
 
@@ -103,7 +103,7 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 
 ★ *Expertise (doubled proficiency)*
 
-**Languages:** Common
+**Languages:** Common, Thieves' Cant
 **Tools:** Thieves' Tools
 
 ---
@@ -112,15 +112,15 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Dagger** *(Nick)* | M/R +6 | 5 ft. / 20/60 ft. | 1d4+4 pierce | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
+| **Dagger ×4** *(Nick)* | M/R +6 | 5 ft. / 20/60 ft. | 1d4+4 pierce | — | — | — |
 | **Shortsword** *(Vex)* | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
-| **Scimitar** *(Nick)* | M +6 | 5 ft. | 1d6+4 slash | — | — | — |
-| **Shortbow** *(Vex)* | R +6 | 80/320 ft. | 1d6+4 pierce | — | — | — |
-| **Psychic Blade** *(Vex†)* | M/R +6 | 5 ft. / 60 ft. | 1d6+4 psychic | — | — | — |
-| **Unarmed Strike** | M +1 | 5 ft. | 1d4−1 bludgeon | — | — | — |
-| **Psychic Whispers** | — | 30 ft. | Telepathic link ≤2 creatures; die-value hrs | — | — | 1 PED |
+| **Shortbow** | R +6 | 80/320 ft. | 1d6+4 pierce | — | — | — |
+| **Scimitar** | M +6 | 5 ft. | 1d6+4 slash | — | — | — |
+| **Psychic Blade** *(Vex†)* | M/R +6 | 5 ft. / 60 ft. | 1d6+4 psychic; no material blade | — | — | — |
+| **Animate Dead** *(Night Caller, 1 min)* | — | 10 ft. | Animate corpse as skeleton/zombie; obeys 24 hr | 3rd | V, S, M (blood/flesh/bone dust) | 1/week |
 
-*† Psychic Blade: Vex is free — doesn't count against the Weapon Mastery limit.*
+*† Psychic Blade: Vex is free and doesn't count against the Weapon Mastery feat choices.*
 
 ### Bonus Actions
 
@@ -128,43 +128,48 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
 | **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
-| **Steady Aim** | — | Self | Adv. on next atk; can't move this turn | — | — | — |
-| **Psychic Blade (2nd)** | M/R +6 | 5 ft. / 60 ft. | 1d4+4 psychic; only if no other weapons used | — | — | — |
+| **Steady Aim** | — | Self | Adv. on next attack this turn; speed becomes 0 | — | — | — |
+| **Psychic Blade (offhand)** | M/R +6 | 5 ft. / 60 ft. | 1d4+4 psychic; after Psychic Blade attack | — | — | — |
+| **Hunter's Mark** *(item)* | — | 90 ft. | Mark target; +1d6 weapon dmg; track adv.; 1 hr | 1st | V | Conc. · 1/LR |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Coin's Edge** | — | Self | Atk roll exactly matches AC → flip to a miss | — | — | 1/SR |
+| **Coin's Edge** | — | Self | Attack roll exactly matches AC → attack misses | — | — | 1/SR |
 
 ---
 
 ### Features
 
-- **Expertise** — Perception and Persuasion at double proficiency (★ in Skills).
-- **Sneak Attack** — 2d6 extra damage once per turn when you have advantage or an ally is adjacent to the target.
+- **Expertise** — Perception and Persuasion at double proficiency (included above).
+- **Sneak Attack** — 2d6 extra damage once per turn with a finesse/ranged weapon when you have advantage or an ally is adjacent to the target.
 - **Thieves' Cant** — Secret rogue language and cipher.
-- **Weapon Mastery** — Apply mastery to 2 weapons per turn; Psychic Blade Vex is always free.
-- **Psionic Energy Die** (d6, 2/SR) — Fuels Soulknife abilities.
-- **Psi-Bolstered Knack** — When you fail a proficient ability check, roll PED and add it; die not expended if check still fails.
-- **Tavern Brawler** — Proficient with improvised weapons; unarmed strikes use d4.
-- **Crafter** — Proficiency with 3 Artisan's Tools; craft items at 50% cost; 20% discount at shops.
-- **Rathan's Symbol of Tymora** — 1 Luck Point/LR: spend for adv. on a d20 test OR impose disadv. on one atk roll against you. Lady Luck's Favor (passive): natural 20 on any d20 test → regain expended Luck Point.
+- **Weapon Mastery** — Dagger *(Nick)*: extra Light-weapon attack can be part of the Attack action instead of a Bonus Action, 1/turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Shortsword *(Vex)*: on hit and damage, gain adv. on your next attack against that target before the end of your next turn; can swap assignment on Long Rest.
+- **Psychic Blade Vex** — On hit and damage, gain adv. on your next attack against that target before the end of your next turn; free, does not count against mastery choices.
+- **Psionic Energy Dice** — d6 pool, 4/LR. Fuels Soulknife abilities.
+- **Psi-Bolstered Knack** — When you fail an ability check using a proficient skill or tool, roll one Psionic Energy Die and add it; expend the die only if the roll succeeds.
+- **Psychic Whispers** — Telepathic link with up to 2 creatures for die-roll hours; 1/LR free or expend one Psionic Energy Die.
+- **Rathan's Symbol of Tymora** — 1 Luck Point/LR. Spend for adv. on a d20 test or impose disadv. on one attack roll against JJ.
+- **Lady Luck's Favor** — When JJ rolls a natural 20 on any d20 test, regain the expended Luck Point.
 
 ---
 
 ### Spellcasting
 
-*No class spellcasting. The following are item-granted:*
+*No class spellcasting. Item-granted spells appear in the action tables above.*
 
-- **Animate Dead** (Night Caller, 3rd) — 1 min cast, 10 ft. — Animate a corpse as skeleton or zombie; obeys commands for 24 hrs. Night Caller recharges at dawn.
+#### Ritual Spells
+
+*None.*
 
 ---
 
 ### Inventory
 
 **Armor (equipped):** Leather Armor
-**Magic Items:** Night Caller, Rathan's Symbol of Tymora, Guild Brass Armlet
+**Magic Items:** Night Caller, Rathan's Symbol of Tymora (attuned), Guild Brass Armlet
 **Tools:** Thieves' Tools
 **Gear:** Quiver, Arrows ×20, Backpack, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token, Rations ×5, Candles ×10, Oil ×5
 

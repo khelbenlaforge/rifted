@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-04-27T15:26
+updated: 2026-05-15T23:36
 ---
 
 # Shen
@@ -91,7 +91,7 @@ None.
 
 Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perception +4
 
-**Languages:** Common
+**Languages:** Common · one additional language
 **Tools:** Calligrapher's Supplies
 
 ---
@@ -100,19 +100,25 @@ Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perce
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Eldritch Blast** | R +6 | 120 ft. | 1d10+4 force; push 10 ft on hit (Repelling Blast) | Cantrip | V, S | — |
+| **Unarmed Strike** | M +3 | 5 ft. | 2 bludgeon; or grapple/shove (escape DC 11) | — | — | — |
+| **Sickle** | M +3 | 5 ft. | 1d4+1 slash | — | — | — |
+| **Dagger (×2)** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
 | **Chill Touch** | M +6 | Touch | 1d10 necrotic; target can't regain HP until your next turn | Cantrip | V, S | — |
+| **Eldritch Blast** | R +6 | 120 ft. | 2 beams × 1d10+4 force; push 10 ft. on hit | Cantrip | V, S | — |
 | **Infestation** | CON 14 | 30 ft. | 1d6 poison; move 5 ft random direction on fail | Cantrip | V, S, M (living flea) | — |
-| **Dissonant Whispers** | WIS 14 | 60 ft. | 3d6 psychic; flee reaction on fail, ½ dmg & no flee on save | 1st | V | — |
+| **Dissonant Whispers** | WIS 14 | 60 ft. | 4d6 psychic; flee reaction on fail, ½ dmg/no flee on save | 1st | V | — |
 | **Tasha's Hideous Laughter** | WIS 14 | 30 ft. | Prone + incapacitated 1 min; repeat WIS save each turn | 1st | V, S, M (tart & feather) | Conc. |
 | **Detect Thoughts** | WIS 14 | Self | Read surface thoughts; probe deeper with WIS save | 2nd | V, S, M (copper piece) | Conc. |
 | **Hold Person** | WIS 14 | 60 ft. | Paralyzed 1 min; repeat WIS save each turn | 2nd | V, S, M (iron piece) | Conc. |
 | **Mirror Image** | — | Self | 3 illusions; atks may hit duplicate instead | 2nd | V, S | — |
-| **Phantasmal Force** | INT 14 | 60 ft. | 2d8 psychic/turn while affected; INT save each turn to disbelieve | 2nd | V, S, M (fleece) | Conc. |
+| **Phantasmal Force** | INT 14 | 60 ft. | Illusion may deal 2d8 psychic/turn; INT save to end | 2nd | V, S, M (fleece) | Conc. |
 | **Suggestion** | WIS 14 | 30 ft. | Target follows reasonable suggestion for 8 hr | 2nd | V, M (honey) | Conc. |
-| **Sickle** *(Nick)* | M +3 | 5 ft. | 1d4+1 slash | — | — | — |
-| **Dagger** *(Nick)* | M/R +3 | 20/60 ft. | 1d4+1 pierce | — | — | — |
-| **Unarmed Strike** | M +3 | 5 ft. | 2 bludgeon | — | — | — |
+| **Find Familiar** | — | 10 ft. | Summon/resummon familiar; Pact of Chain options | 1st | V, S, M† | Ritual |
+| **Specimen: Classify** | — | Sight | Learn type, CR bracket, one immunity/resistance; party crits on 19-20 vs target until next turn | — | — | 1/LR |
+| **Specimen: Strata** | CON 13 | Touch | 6-sec psychic flash of key event; fail = stunned until end next turn | — | — | 1/LR |
+| **Specimen: Speak with Dead** | — | 10 ft. | Ask corpse 5 questions; patron answers through conduit | 3rd | — | 1/LR |
+
+*† Find Familiar: M = burning incense worth 10+ gp (consumed)*
 
 ### Bonus Actions
 
@@ -129,21 +135,22 @@ Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perce
 
 ### Features
 
-- **Weapon Mastery:** Sickle (Nick), Dagger (Nick) — Nick folds the Light-property bonus atk into the Attack action, freeing the Bonus Action
-- **Alert:** +5 initiative; immune to Surprised; once per combat, swap initiative with a willing visible creature
-- **Keen Mind:** INT +1; recall any information you've experienced; learn 2 languages
-- **Skilled:** Proficiency in 3 additional skills or tools
-- **Resourceful (Human):** Gain Heroic Inspiration at end of each Long Rest
-- **Skillful (Human):** Gain proficiency in one additional skill
-- **Versatile (Human):** Gain one Origin feat (Alert)
+- **Alert** — +5 initiative; cannot be surprised.
+- **Keen Mind** — Always know north and time of day; accurately recall anything seen or heard within the last 30 days.
+- **Resourceful (Human)** — Gain Heroic Inspiration at the end of each Long Rest.
+- **Skillful (Human)** — Gain proficiency in one additional skill.
+- **Versatile (Human)** — Gain one Origin feat (Alert).
 - **Pact Magic:** 2 Pact Slots (2nd level); recover on Short or Long Rest
 - **Magical Cunning:** Once per Long Rest, expend all remaining Pact Slots to regain half the total expended (rounded up)
-- **Pact of the Chain:** Cast *Find Familiar* as a ritual; familiar may take Reactions; can forgo one Attack action attack to have familiar use its Reaction
-- **Agonizing Blast (Invocation):** Add CHA modifier to Eldritch Blast damage
-- **Repelling Blast (Invocation):** Push target 10 ft on each Eldritch Blast hit
-- **Awakened Mind:** Telepathically speak to any visible creature within 30 ft (no shared language needed)
-- **Psychic Spells:** Cast Warlock concentration spells without V/S components; add CHA modifier to concentration saves for Warlock spells
-- **Always Prepared (Great Old One):** Detect Thoughts, Phantasmal Force
+- **Pact of the Chain** — Cast *Find Familiar* as a ritual; familiar may take Reactions; can forgo one Attack action attack to have familiar use its Reaction.
+- **Agonizing Blast** — Add CHA modifier to each *Eldritch Blast* beam's damage.
+- **Repelling Blast** — Push target 10 ft. on each *Eldritch Blast* hit.
+- **Awakened Mind** — Telepathically speak to any visible creature within 30 ft. without sharing a language.
+- **Psychic Spells** — Can use INT for Enchantment/Illusion spells.
+- **Always Prepared (Great Old One)** — *Dissonant Whispers*, *Tasha's Hideous Laughter*, *Detect Thoughts*, and *Phantasmal Force*.
+- **Unclassified Specimen: Deep Time** — Sense the approximate age of any object or surface Shen touches.
+- **Unclassified Specimen: Ancient Repository** — Advantage on INT (History) and INT (Arcana) checks about ancient, extinct, or undead creatures.
+- **Unclassified Specimen: Active Use** — 1/LR choose *Speak with Dead*, Classify, or Strata. See Actions table.
 
 ---
 
@@ -155,17 +162,15 @@ Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perce
 
 #### Ritual Spells
 
-- *Find Familiar* (PHB, 1st) — 1 hr cast — M†. Summon or resummon a familiar; Pact of the Chain expands available forms and allows familiar to take Reactions.
-
-*† Find Familiar: M = burning incense worth 10+ gp (consumed)*
+- *Find Familiar* (XPHB, 1st) — 1 hr cast — Summon or resummon a familiar; Pact of the Chain expands available forms and allows familiar to take Reactions.
 
 ---
 
 ### Inventory
 
 **Armor (equipped):** Leather Armor
-**Magic Items:** None
-**Gear:** Orb (arcane focus) · Calligrapher's Supplies · Books ×2 · Fine Clothes · Backpack · Tinderbox · Ink Pen · Lamp ×2 · Ink · Oil ×10 · Parchment ×10
+**Magic Items (equipped):** Unclassified Specimen
+**Gear:** Orb (arcane focus) · Calligrapher's Supplies · Books ×2 · Fine Clothes · Backpack · Ink · Pen · Parchment
 
 ---
 Race:: Human
