@@ -6,9 +6,9 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-state: alive
+state: dismissed/revealed
 created: 2026-03-22T15:58
-updated: 2026-03-22T15:58
+updated: 2026-05-26T16:23
 ---
 
 # Little Sister
@@ -19,9 +19,9 @@ updated: 2026-03-22T15:58
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Velvet Vulper |
-> | Location | [[Sunless Citadel]] |
-> | Affiliation | Party companion |
+> | Race | Illusory duplicate ([[Velvet Vulper]] disguise) |
+> | Location | Dismissed/revealed |
+> | Affiliation | [[Erky]] / [[Adamantine Guild]] |
 
 ## Appearance
 
@@ -40,12 +40,12 @@ Found caged in [[Durbuluk Goblins]] territory within the [[Sunless Citadel]], he
 A companion who joined the party in Session 10 and has since become quietly integral to it. Like [[Balsag]] and [[Erky]], she cannot perceive the [[Sanctum]]'s true contents — only the Ashardalon illusion and the ancient elven architecture. Why the Sanctum reveals itself only to the five from Earth remains an open question.
 
 ---
-Race:: [[Velvet Vulper]]
+Race:: Illusory duplicate ([[Velvet Vulper]] disguise)
 Subrace::
 Pronouns::
 Class::
-Location:: [[Sunless Citadel]]
-Affiliation::
+Location:: Dismissed/revealed
+Affiliation:: [[Erky]] / [[Adamantine Guild]]
 Deity::
 
 

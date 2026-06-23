@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-04-01T19:05
+updated: 2026-06-20T18:11
 ---
 
 # Kelemvor Lyonsbane
@@ -145,5 +145,11 @@ Class:: Fighter
 Location:: [[Shadowdale]]
 Affiliation::
 Deity::
+
+## Session 19 Lore
+
+Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls go to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane.
+
+His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that knowledge without responsibility creates wild magic that destabilizes the cosmos. Kelemvor once possessed great emotion, but what stripped it away is unknown. His symbol is a man sitting on a chair holding scales.
 
 

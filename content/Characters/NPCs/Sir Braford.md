@@ -7,9 +7,9 @@ tags:
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
-state: thrall
+state: alive (recovering)
 created: 2026-03-16T04:22
-updated: 2026-04-25T23:25
+updated: 2026-05-26T16:23
 ---
 
 # Sir Braford
@@ -22,7 +22,7 @@ updated: 2026-04-25T23:25
 > | ---- | --- |
 > | Race | Human |
 > | Class | Knight |
-> | **Location** | [[Sunless Citadel]] — Grove Level (Belak's prisoner cell) |
+> | **Location** | [[Sunhold]] (recovering) |
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
@@ -31,7 +31,7 @@ Sir Braford is a human knight in the service of the [[Hucrele Family]], known fo
 ## Background
 Alongside [[Sir Garth]], Braford serves as one of the two family guards employed by [[Talgen Hucrele Sr.]] in [[Sunhold]]. When the Goblin Merchants extended their invitation and the Hucrele children insisted on joining the delegation, Braford was assigned as their primary armed escort. He departed into the marshes with [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], and the ranger [[Karakas]].
 
-The delegation was expected to return in ten days. Braford's fate is now confirmed: he was taken by [[Belak]] and held as a prisoner in the [[Sunless Citadel]]'s Grove Level. A letter recovered by the party in Session 16 reveals that both he and [[Sharwyn Hucrele]] are **willing thralls** of the [[Gulthias Tree]] — not prisoners, but converts. He was observed standing rigidly upright in Belak's prisoner cell, unresponsive. [[Shen]] shared that cell for weeks and spoke to him; Braford never answered.
+The delegation was expected to return in ten days. Braford was taken by [[Belak]] and held in the [[Sunless Citadel]]'s Grove Level. He was observed standing rigidly upright in Belak's prisoner cell, unresponsive, with the [[Gulthias Tree]]'s influence overtaking him. [[Shen]] shared that cell for weeks and spoke to him; Braford never answered. He survived and is recovering after the tree went dormant in Session 18.
 
 ## Relationships
 - Guard in the service of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]]
@@ -41,7 +41,7 @@ The delegation was expected to return in ten days. Braford's fate is now confirm
 
 ---
 ## Tags
-Location:: [[Sunless Citadel]]
+Location:: [[Sunhold]]
 Race:: Human
 Subrace::
 Pronouns:: he/him

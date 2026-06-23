@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-17T19:38
+updated: 2026-06-20T18:11
 ---
 
 # Garm
@@ -52,5 +52,9 @@ Alignment:: Neutral Good
 Class:: Wizard
 Affiliation:: [[Corranor Council]]
 Deity::
+
+## Session 19
+
+Working through the [[Corranor Council]], Garm found [[Layla]]'s magical signature on the transit event that brought the party to Aenath. He is actively working to reverse the spell.
 
 

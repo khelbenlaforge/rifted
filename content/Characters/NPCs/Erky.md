@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-04-25T23:44
+updated: 2026-06-20T18:11
 ---
 
 # Erky
@@ -20,27 +20,27 @@ updated: 2026-04-25T23:44
 > | | |
 > | ---- | --- |
 > | Race | Gnome |
-> | Class | Acolyte |
+> | Class | Trickery Cleric |
 > | Location | [[Sunless Citadel]] (with party) |
-> | Affiliation | [[Tymora's Shrine]] |
+> | Affiliation | [[Adamantine Guild]] |
 
 Race:: Gnome
 Subrace::
 Pronouns::
-Class:: Acolyte
+Class:: Trickery Cleric
 Location:: [[Sunless Citadel]]
-Affiliation:: [[Tymora's Shrine]]
+Affiliation:: [[Adamantine Guild]]
 Deity:: [[Tymora]]
 
 ## Description
 
-A gnome of small stature with the devotion of someone who has been tested by captivity and come out still willing to help. He serves as an acolyte of [[Tymora]]'s Shrine under [[Sister Garaele]], and his willingness to venture into danger on behalf of others speaks to a courage that belies his size. His spirits have recovered from his ordeal with an irrepressible cheerfulness that cuts through the citadel's gloom.
+Erky is Erkaniel Timbers, guildmaster of the [[Adamantine Guild]], traveling under the appearance and cover of a gnome acolyte. To the party before Session 18, he appeared to be a gnome of small stature with the devotion of someone who had been tested by captivity and come out still willing to help. He serves as an acolyte of [[Tymora]]'s Shrine under [[Sister Garaele]], and his willingness to venture into danger on behalf of others speaks to a courage that belies his size. His spirits have recovered from his ordeal with an irrepressible cheerfulness that cuts through the citadel's gloom.
 
 ## Background
 
-[[Erky]] served faithfully at [[Tymora's Shrine]] in [[Sunhold]] under [[Sister Garaele]]. When the Hucrele children went missing, he volunteered to travel south to find them — a brave act for an acolyte more accustomed to prayer than peril.
+[[Erky]] is the cover identity of Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]. He posed as an acolyte tied to [[Tymora's Shrine]] while operating in and around [[Sunhold]].
 
-He was captured within the [[Durbuluk Goblins]]' section of the [[Sunless Citadel]] and held in a cage alongside a Velvet Vulper called [[Little Sister]]. The party found and rescued both of them in Session 10. He now travels with the party, providing healing support.
+He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sunless Citadel]] and held in a cage alongside a Velvet Vulper called [[Little Sister]]. The party found and rescued both of them in Session 10. In Session 18, [[Luks Borg]] and [[Elmindaria L'Thorian]] arrived and addressed him as guildmaster, revealing his full identity to the party.
 
 ## Key Events
 
@@ -49,13 +49,16 @@ He was captured within the [[Durbuluk Goblins]]' section of the [[Sunless Citade
 
 ## Relationships
 
-- Acolyte under [[Sister Garaele]] at [[Tymora's Shrine]]
+- Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]
 - Ventured south to rescue the missing Hucrele children and was captured
-- Rescued by the party alongside [[Little Sister]]; now travels with them, [[Balsag]], and Grip
+- Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and Grip
 - **Under observation:** [[Luks Borg]] gave [[Lea]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
 
 ## D&D 5e Stat Block
 
 
 
+## Session 19
+
+Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster reveal. At [[Elmindaria L'Thorian|Daria]]'s request, he attempted Banishment on [[Shen]]'s patron; the spell failed because the patron was too powerful.
 

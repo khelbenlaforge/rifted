@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-05-15T23:40
+updated: 2026-06-20T18:11
 ---
 
 # Nanuk
@@ -22,7 +22,7 @@ updated: 2026-05-15T23:40
 > | **Race** | Firbolg (Inuvialuk) |
 > | **Class** | Ranger (Beastmaster) |
 > | **Background** | Guide |
-> | **Affiliation** | [[Adamantine Guild]] |
+> | **Affiliation** | Party / [[Adamantine Guild]] |
 
 ## Description
 
@@ -54,7 +54,7 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 ## Key Events
 
-- Pulled from the western Canadian Arctic and transported to Aenath — exact circumstances and entry point TBD with DM
+- Pulled from the western Canadian Arctic by blue-light transport and deposited in A56 ([[Twilight Grove]]) during Session 18
 
 ## Character Sheet
 
@@ -170,7 +170,12 @@ Race:: Firbolg
 Subrace::
 Class:: Ranger
 Pronouns:: he/him
-Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunless Citadel]]
+Affiliation:: Party / [[Adamantine Guild]]
+Location:: En route to [[Crystal City]]
 Deity::
+## Session 19
+
+Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[Jonathan Jordan]] to intimidate Perrin.
+
+Nanuk earned 12 gp, vehicle (riding) proficiency, and free flights anywhere for one month.
 

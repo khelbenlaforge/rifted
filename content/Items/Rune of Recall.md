@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T15:41
-updated: 2026-03-16T20:11
+updated: 2026-05-26T16:23
 ---
 
 # Rune of Recall

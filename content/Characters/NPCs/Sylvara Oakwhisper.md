@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-17T19:38
+updated: 2026-06-20T18:11
 ---
 
 # Sylvara Oakwhisper
@@ -52,5 +52,9 @@ Alignment:: Neutral Good
 Class:: Ranger
 Affiliation:: [[Mielikki's Grove]]
 Deity:: [[Mielikki]]
+
+## Session 19
+
+Sylvara confirmed to [[Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]].
 
 

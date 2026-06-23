@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-17T19:38
+updated: 2026-06-20T18:11
 ---
 
 # Perrin Quickquill
@@ -51,5 +51,15 @@ Alignment:: Unknown
 Class:: Rogue
 Affiliation:: [[Corranor Council]]
 Deity:: Unknown
+
+## D&D 5e Stat Block
+
+*Source: Homebrew — Rifted Campaign (L8 Arcane Trickster, Garm's assistant and bodyguard)*
+
+
+
+## Session 19
+
+[[Torem]] of the [[Azure Tamers]] confirmed that Perrin was a close friend of [[Layla]] and her co-apprentice under [[Garm]]. Perrin was intimidated by [[Jonathan Jordan]] and [[Nanuk]] during downtime.
 
 

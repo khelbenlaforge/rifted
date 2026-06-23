@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-04-27T16:38
+updated: 2026-06-20T17:43
 ---
 
 # Campaign Timeline
@@ -604,22 +604,89 @@ They closed the door to the room with the murals and the statues of the gods, an
 
 ---
 
+## Year 222 PA — 19th Marpenoth (Session 18 — Into the Roots)
+
+### The Last Morning in the Sanctum
+
+The violet pulse from below was faster when they woke — not the slow patience of something that could afford to wait, but a stutter-beat, like a tree that had been counting breaths all night and run out of courtesy. [[Balsag]] had not slept. He was already standing, axe in hand, watching the door to the south the way you watch the last door before something happens.
+
+[[Augustus Kennedy|Augie]] woke to a room that had grown while he was unconscious — a bugbear, a gnome performing drunk in the corner with professional precision, and a rat in a tiny rogue outfit that made eye contact and declined to look away. Two items found their bearers before their bearers found them: [[Kelemvor Lyonsbane|Kelemvor]]'s Brand settling against Augie in the night with the weight of a god's claim made while he was somewhere else, and the Unclassified Specimen already in [[Shen]]'s hands when he registered reaching for it, his patron's voice arriving clipped and barely containing its interest. Through the Brand's enhanced senses, Augie smelled the power from A56 before anyone spoke of moving.
+
+### Into the Grove
+
+The plan was to send [[Shen]] ahead openly — [[Belak]] knew his face — while the rest of the party stealthed through the briars. Belak had already figured it out. He addressed the hidden members by their approximate positions when the party arrived, his voice carrying the particular patience of someone naming a thing they'd known all along. [[Jonathan Jordan|JJ]] fired a crossbow bolt before the speech could continue.
+
+The fight was not clean. Belak was everything the party had spent weeks approaching — quiet, certain, with the Grove behind him and years of its service in every movement. [[Sir Braford]] advanced without hesitation. Blights came when called. The party managed it, not comfortably. What cut through the calculus was [[Balsag]]: he saw [[Gork]] at the roots the moment he entered the clearing, half-absorbed and barely breathing, and he did not stop walking. He went through whatever was between him and her and dragged her free.
+
+### The New Hunter
+
+Mid-battle, the story made room for someone new.
+
+[[Nanuk]] arrived in three pieces: a kitchen table in an Inuvialuit home, his mother explaining with exhausted pragmatism why the energy corporation's trades made sense while the [[Ancestor's Quiver]] hung on the wall and he disapproved and said nothing; an arctic afternoon, an adolescent polar bear approaching with the calm of something unafraid, and Nanuk raising bear spray just before the blue light found him first; and then the stone chamber itself, before the party arrived, waking cold on the floor near a vine-bound woman who spent her last coherent breath on two words — *escape* — before he lost consciousness again. He woke mid-battle and joined the fight without preamble. There was nothing else to do.
+
+### A Word and a Door
+
+[[Lea]] ended it — not with force, but with a word placed precisely in the right mind at the right moment. *Suggestion*, landed clean: stop attacking, let everyone go. [[Belak]] complied. Then he cast Travel Through Plants and stepped into the [[Gulthias Tree]]'s trunk.
+
+The bond broke the moment he was through. Blights stilled. Braford went quiet, then slowly himself again. [[Sharwyn Hucrele]] could breathe. The tree went dormant — its root network silent, its caretaker through a door no one could follow. Belak's location: unknown. The clock on whatever comes next started in that silence.
+
+### The Guildmaster
+
+A flash of silver-and-copper light: [[Luks Borg]] mid-stride, [[Elmindaria L'Thorian]] adjusting her robes, and [[Erky]] held at arm's length by the scruff of his collar. Luks had burned [[Rune of Recall]] charges — rare, non-renewable, the kind of resource you don't spend on a hunch unless the hunch is very good — on the theory that their guildmaster was somewhere in the ruin. He was right. [[Erkaniel Timbers]], guildmaster of the [[Adamantine Guild]], accepted Elmindaria's accounting of what he owed with the resignation of a man who had always known the bill was coming. [[Little Sister]] — the Velvet Vulper companion who had traveled with them through every level of the citadel — resolved into nothing: Erky's Invoke Duplicity, maintained for weeks, a trickery cleric's sustained illusion worn as a companion.
+
+They came out of the citadel, collected their payment from the [[Hucrele Family]] in [[Sunhold]], and heard [[Balsag]]'s promise — *when you call* — before two weeks of northward road stretched open toward [[Crystal City]].
+
+---
+
+## Year 222 PA — 19th Marpenoth to 3rd Uktar (Session 19 — Seven Doors)
+
+### Return
+
+The party came back to [[Crystal City]] two weeks after the [[Sunless Citadel]], with [[Balsag]] and [[Gork]] gone south into the underground and a crate of marsh snappers in the wagon. The [[Adamantine Guild]]'s common room was as they'd left it, except for two things: a floating disc producing beverages on demand, and two new doors at the far end of the curve — [[Shen]] and [[Nanuk]] had rooms now, quietly, without ceremony.
+
+[[Istar Silverlock]] was somewhere in the building cleaning things. [[Elmindaria L'Thorian|Daria]], on learning that [[Shen]]'s patron had been present during the Sunless Citadel's events, asked [[Erky]] to attempt Banishment. The spell produced a brief blue light, then did not. The patron was not removable. She said it was not supposed to exist in this universe, and then stopped saying things about it.
+
+### The Council's Report
+
+The [[Corranor Council]] had found what it could. [[Layla]] — [[Garm]]'s own apprentice — had left her magical signature on the transit event; she had cast something powerful enough to move six people between worlds, and Garm was working to understand how to undo it. Wards now protected the [[Jade Spire]] from the [[Shadow Creatures]]' attacks; the attackers had not withdrawn, but the wards had closed the avenue. A separate Corranor contingent was returning with news of found land. The party was promised a bastion in the city.
+
+On the matter of their souls: the missing half was growing back. They had noticed — probably — that they were thinking in Common more than English. Two weeks, the Council added, and the [[Gulthias Tree|Gulthias]] island would resurface. [[Belak]]'s own notes had suggested a week for a potential vampiric resurrection if the conditions were right.
+
+### A Month in the City
+
+Six people, six threads, one month.
+
+[[Nanuk]] found the [[Azure Tamers]] in the western wall towers — a ranger collective responsible for transportation and communications, with griffins and eagles that were comfortable with him before introductions were finished. A senior member named [[Torem]] ran the network and knew something useful: [[Layla]] had been close, very close, with her co-apprentice [[Perrin Quickquill]]. Nanuk joined the Tamers and brought [[Jonathan Jordan]] with him when he went to find Perrin. [[Ember]] came too, via Torem's eagle, to a wilderness clearing where the [[Ancients of Lava]] lived. Elder [[Jess]] and the circle spoke freely until they didn't — Belak's name closed the conversation. *He was one of our best.* [[Sylvara Oakwhisper]] at the Temple of [[Mielikki]] filled the rest in: forty years since Belak had left the Lavaliths — the old name for the Ancients of Lava.
+
+[[Jonathan Jordan]] followed threads to the [[The Low Flagon|Low Flagon]] and [[Tavia Orn]] with a Claret ring. Thirty-five gold got him Layla's location (the [[Garnet District]], buying illegal spell components, a valued [[The Claret|Claret]] client) and a meeting with someone above Tavia's station — who would come to him when ready. He took bar shifts at the [[Griffin's Hat]] and, from [[Istar Silverlock]] still scrubbing guild stone, received his next task: steal the mithral scales from the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue, forty feet up.
+
+[[Lea]] went to the Alchemist Guild and a tattooed elf named [[Veyris Thantorn]], who explained the Weave as a three-dimensional tapestry and offered a theory: Layla was tiefling, and tieflings carry planar echoes, and the shifting spell may have run along a current she was born with. Planar Mechanics and Alchemy track now open. The [[Hucrele Manor]] came after — [[Sorelle]] at the door, [[Soral Vayne]] at the table — and Soral spoke about the city's first family. The Blackstaffs. A scion on the Council of Seven. A family of wizards, careful and durable.
+
+[[Gill Bates]] sat with death for a month: [[Tidecaller Marin Deepcurrent]]'s water philosophy by day, the Temple of [[Kelemvor Lyonsbane|Kelemvor]] by evening. Three factions inside — Monks of the Long Death, Priesthood, Knights (who guard cross-planar exits) — and a question he couldn't stop turning over: the god had been a man first, the man had felt things, and somewhere in between, the feeling had gone. The Church of Kelemvor held a feud with [[Mystra]]'s and [[Oghma]]'s temples. In the [[Diamond District]], a shrine to [[Cyric]] stood alone, tended by city workers who would not say they attended it.
+
+---
+
 ## Active Threads
 
-**Present (Sunless Citadel — Year 222 PA):**
-- [[Talgen Hucrele Jr.]] and [[Karakas]] confirmed dead — [[Sharwyn Hucrele]] (vine-bound, willing thrall) and [[Sir Braford]] (enthralled) located in [[Belak]]'s Grove
-- Kobold civil war resolved: [[Yusdrayl]] dead, [[Ragh]] leads [[Ordahir Kobolds]], [[Calcryx]] freed
+**Present (Crystal City — Year 222 PA, ~3rd Uktar):**
+- [[Belak]] escaped into the [[Gulthias Tree]] via Travel Through Plants — location unknown; Gulthias island resurfaces ~2 weeks from 3rd Uktar; vampiric resurrection possible within a week of resurfacing; the dual necromantic/draconic signature in the tree predates him
+- [[Layla]] confirmed in [[Crystal City]] — tiefling; buying illegal spell components in the [[Garnet District]]; valued [[The Claret|Claret]] client; [[Garm]] has her magical signature and is trying to reverse the transit spell; [[Veyris Thantorn]] theorizes a fey/planar connection
+- [[Jonathan Jordan]] × [[The Claret]]: meeting with [[Tavia Orn]]'s boss pending; someone will contact JJ in the coming weeks
+- [[Jonathan Jordan]] × [[Istar Silverlock]]: tasked to steal the mithral scales from the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue (40 ft up); Istar training JJ for a month; reward if done well: half-proficiency in Deception
+- [[Azure Tamers]] network ([[Nanuk]] + [[Ember]]) searching for Layla via [[Torem]]; [[Perrin Quickquill]] intimidated as a point of contact
+- Council bastion being arranged for the party in [[Crystal City]]
+- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s supply chain to [[Sunhold]] ongoing; "the Wren" named as a contact in the chain
 - The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
-- Sanctum selective reveal: only the five PCs perceive the true chamber; companions see only the Ashardalon illusion
-- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s letters confirm shipments routed to [[Sunhold]]; every seeded community is a potential grove
-- [[Belak]]'s endgame — distributes fruit freely to draw communities south; [[Sharwyn Hucrele|Sharwyn]] and [[Sir Braford]] are willing thralls serving the Grove
-- [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side
+- Sanctum selective reveal: only the five original PCs perceive the true chamber; [[Nanuk]], [[Balsag]], and [[Erky]] see only the Ashardalon illusion and ancient elven architecture
+- [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side; the Gulthias Tree singled her out in battle; the [[Ancients of Lava]] counted Belak among their best before he disappeared
+- [[Nanuk]]'s storyline — energy corporation coercion, lost love; now established in Crystal City; joined [[Azure Tamers]]
+- [[Balsag]] pledged to aid the party when called
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
-- The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]]
+- The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]] — [[Jade Spire]] wards now in place; threat not withdrawn
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
-- The PCs' missing essence and its slow regeneration
+- The PCs' missing essence growing back; speaking Common more than English; [[Shen]]'s patron confirmed "not supposed to exist in this universe" — [[Elmindaria L'Thorian]]'s Banishment attempt failed
 
 **From the Prequel Vision (carried forward):**
 - [[Midnight]]'s pendant is cold and empty — what does she do with that?
