@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-03-19T03:14
+updated: 2026-06-20T18:11
 ---
 
 # Layla
@@ -47,5 +47,11 @@ Alignment:: Unknown
 Class:: Mage
 Affiliation:: [[Corranor Council]]
 Deity:: Unknown
+
+## Session 19
+
+Layla is confirmed to be a tiefling who remains in [[Crystal City]] rather than having fled. [[Veyris Thantorn]] theorizes that she may have tapped a fey or planar connection to cast the shifting spell because tieflings carry residual planar energy.
+
+The [[Corranor Council]], through [[Garm]], detected Layla's magical signature on the transit event that brought the party to Aenath. Garm is actively working to reverse the spell. Layla has been buying illegal spell components in the [[Garnet District]] and is a valued client of [[The Claret]]. She was close friends and co-apprentices with [[Perrin Quickquill]] under Garm.
 
 

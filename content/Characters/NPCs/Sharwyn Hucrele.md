@@ -7,9 +7,9 @@ tags:
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
-state: thrall
+state: alive (recovering)
 created: 2026-03-16T04:22
-updated: 2026-04-25T23:25
+updated: 2026-06-20T18:11
 ---
 
 # Sharwyn Hucrele
@@ -22,7 +22,7 @@ updated: 2026-04-25T23:25
 > | ---- | --- |
 > | Race | Human |
 > | Class | Noble |
-> | Location | [[Sunless Citadel]] (missing) |
+> | Location | [[Sunhold]] (recovering) |
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
@@ -31,17 +31,17 @@ Sharwyn is the daughter of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]], a you
 ## Background
 Raised in [[Crystal]], Sharwyn grew up restless under the comforts of noble life. When Goblin Merchants visited [[Sunhold]] bearing a magical healing fruit and an invitation to their stronghold beyond the marshes, she jumped at the chance to join the delegation alongside her brother [[Talgen Hucrele Jr.]] Their father consented, sending [[Sir Braford]] and [[Karakas]] as escorts.
 
-The delegation was expected to return within ten days. Twenty-four days have now passed without a single word. Sharwyn's disappearance has thrown the [[Hucrele Family]] into crisis. Her mother [[Keldara Hucrele]] has publicly demanded action and offered a substantial reward -- 500 gold for each child returned alive, 200 gold for their signet rings if found deceased -- while the [[Adamantine Guild]] has taken up the search. Her fate, and her brother's, remain unknown.
+The delegation was expected to return within ten days. Twenty-four days have now passed without a single word. Sharwyn's disappearance has thrown the [[Hucrele Family]] into crisis. Her mother [[Keldara Hucrele]] has publicly demanded action and offered a substantial reward -- 500 gold for each child returned alive, 200 gold for their signet rings if found deceased -- while the [[Adamantine Guild]] has taken up the search. Her brother [[Talgen Hucrele Jr.]] was confirmed dead. Sharwyn survived the [[Sunless Citadel]] and is recovering after the [[Gulthias Tree]] went dormant in Session 18.
 
 ## Relationships
 - Daughter of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]]
-- Sister of [[Talgen Hucrele Jr.]], also missing
-- Escorted by [[Sir Braford]] and [[Karakas]], both also missing
+- Sister of [[Talgen Hucrele Jr.]], confirmed dead
+- Escorted by [[Sir Braford]] and [[Karakas]]; Braford survived and Karakas is confirmed dead
 - Her disappearance is the catalyst for the party's current mission
 
 ---
 ## Tags
-Location:: [[Sunless Citadel]]
+Location:: [[Sunhold]]
 Race:: Human
 Subrace::
 Pronouns:: she/her
@@ -53,5 +53,9 @@ Deity:: Unknown
 ## Combat Profile
 
 
+
+## Session 18 Outcome
+
+Sharwyn was freed from the [[Gulthias Tree]]'s influence in Session 18. Before being freed, she was in a rage state and wanted to kill [[Belak]] even at the cost of her own life. She is now free and recovering.
 
 

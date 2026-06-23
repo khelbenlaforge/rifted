@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-03-26T17:47
+updated: 2026-06-20T18:11
 ---
 
 # Cyric
@@ -138,4 +138,7 @@ Location:: [[Shadowdale]]
 Affiliation::
 Deity::
 
+## Session 19 Lore
+
+Cyric is the God of Strife, Tyranny, and Murder. His lone shrine in the [[Diamond District]] of Crystal City is lonely and menacing. City workers tend it, and no one openly worships Cyric.
 

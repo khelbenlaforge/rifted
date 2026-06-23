@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-26T17:55
+updated: 2026-06-20T18:11
 ---
 
 # Istar Silverlock
@@ -171,5 +171,9 @@ Alignment:: Chaotic Good
 Class:: Bard/Rogue
 Affiliation:: [[Adamantine Guild]]
 Deity::
+
+## Session 19
+
+Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[Jonathan Jordan]] stole from [[Elmindaria L'Thorian]]. Istar tasked Jonathan with stealing the recently installed mithral scales from the great statue at the [[Hall of Justice - Temple of Tyr]], forty feet above the floor. Istar will train him for a month; if he performs the theft well, the reward is half-proficiency in Deception.
 
 

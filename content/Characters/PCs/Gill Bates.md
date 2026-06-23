@@ -9,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-05-15T22:39
+updated: 2026-06-20T18:11
 ---
 
 # Gill Bates
@@ -208,4 +208,9 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: [[Istishia]]
+## Session 19
+
+Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
+
+Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely and menacing. City workers tend it, and no one openly worships Cyric. He later went fishing on a rough boat in the [[Citrine District]] and earned 7 gp.
 

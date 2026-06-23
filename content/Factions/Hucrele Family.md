@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-18T20:20
-updated: 2026-04-10T18:13
+updated: 2026-05-26T16:56
 ---
 
 # Hucrele Family
@@ -24,6 +24,7 @@ updated: 2026-04-10T18:13
 
 Leader:: [[Keldara Hucrele]]
 Headquarters:: [[Hucrele Pavilion]], [[Sunhold]]
+Estate:: [[Hucrele Manor]], [[Sapphire District]]
 
 ## Description
 

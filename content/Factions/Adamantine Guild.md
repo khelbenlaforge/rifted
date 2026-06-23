@@ -7,7 +7,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-06-20T18:11
 ---
 
 # Adamantine Guild
@@ -42,5 +42,9 @@ The guild was once well-staffed, but [[Shadow Creatures]] attacks and frontier d
 ## Current Status
 
 Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere. The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.
+
+## Session 19
+
+[[Shen]] and [[Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
 
 

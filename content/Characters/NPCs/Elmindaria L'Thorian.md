@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-26T17:54
+updated: 2026-06-20T18:11
 ---
 
 # Elmindaria L'Thorian
@@ -191,4 +191,7 @@ Class:: Wizard
 Affiliation:: [[Adamantine Guild]], [[Ether Scryer's Academy]]
 Deity:: Unknown
 
+## Session 19
+
+Elmindaria asked [[Erky]] to cast Banishment on [[Shen]]'s patron. The spell produced a brief blue light and then failed completely: the patron was too powerful and was not supposed to exist in this universe. She is now apprehensive about Shen going forward.
 

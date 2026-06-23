@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-05-15T23:17
+updated: 2026-06-20T18:11
 ---
 
 # Lea
@@ -188,4 +188,9 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: --
+## Session 19
+
+Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.
+
+Lea then visited [[Hucrele Manor]] in the [[Sapphire District]], where she met [[Sorelle]], the maid, and [[Soral Vayne]], the steward. Soral told her that the Blackstaff family is [[Crystal City]]'s first family, that its scion sits on the Council of Seven, and that it is a family of wizards. Lea earned 24 gp.
 

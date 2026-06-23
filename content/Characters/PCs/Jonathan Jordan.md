@@ -10,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-05-15T22:38
+updated: 2026-06-20T18:11
 ---
 
 # Jonathan Jordan
@@ -182,4 +182,12 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: --
+## Session 19
+
+During downtime, Jonathan followed threads from the [[Garnet District]] to the [[Citrine District]] and easily stopped a pickpocket. At [[The Low Flagon]], he met [[Tavia Orn]], recognized the CLARET symbol, and paid 10 gp for intelligence on [[Layla]] plus 25 gp to arrange a meeting with Tavia's boss. [[The Claret]] will contact Jonathan in the coming weeks.
+
+Jonathan now works as a bartender at [[Griffin's Hat]] on the Citrine District docks. [[Istar Silverlock]] tasked him with stealing the recently installed mithral scales from the great statue at the [[Hall of Justice - Temple of Tyr]], forty feet up. Istar will train Jonathan for a month, with half-proficiency in Deception as the reward for doing well. Jonathan also accompanied [[Nanuk]] to intimidate [[Perrin Quickquill]].
+
+Jonathan earned 19 gp and spent 35 gp with Tavia, for a net change of -16 gp.
+
 

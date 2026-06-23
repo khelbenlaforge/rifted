@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-05-15T23:36
+updated: 2026-06-20T18:11
 ---
 
 # Ember
@@ -188,4 +188,9 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: [[Mielikki]]
+## Session 19
+
+Through [[Nanuk]]'s [[Azure Tamers]] connection, [[Torem]] flew Ember on an eagle to meet the [[Ancients of Lava]] in a wilderness clearing. Elder [[Jess]] leads the circle. The druids went quiet when Ember mentioned [[Belak]], saying that he had been one of their best before disappearing forty years ago.
+
+Ember also joined the Azure Tamers alongside Nanuk. She visited the Temple of [[Mielikki]], where [[Sylvara Oakwhisper]] confirmed that Belak left the Ancients of Lava forty years ago. Ember earned 23 gp and free transport anywhere for one month.
 
