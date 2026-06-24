@@ -40,6 +40,8 @@ A wide, low-ceilinged tavern that has been in the same building on the same corn
 
 Business as usual. The Low Flagon has been busier since the [[Citrine District]] docks reopened — more off-shift workers moving through the neighbourhood, more strangers asking questions. The barkeep has been more selective about who gets pointed toward the back. [[Tavia Orn]] has asked for a second table in the reserved section; she hasn't said why.
 
+Daily [[The Claret]] handoffs are confirmed: bosses collect stolen goods from street-level associates each afternoon. The code phrase for walking in is four litres of blood to sell. [[Tinny]] is the street-level Claret contact who directed the party here.
+
 ## Scene Features
 
 **Atmosphere:** *A place where everyone is minding their own business — including the people who aren't.*

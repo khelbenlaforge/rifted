@@ -62,4 +62,12 @@ Deity:: Unknown
 
 [[Torem]] of the [[Azure Tamers]] confirmed that Perrin was a close friend of [[Layla]] and her co-apprentice under [[Garm]]. Perrin was intimidated by [[Jonathan Jordan]] and [[Nanuk]] during downtime.
 
+## Session 20
+
+Perrin and [[Layla]] ran a months-long teleportation circle project for [[Garm]], placing a circle in the northeast harbour. They sent a test stone through; it appeared for 3 seconds, then vanished with no destination. They are not sending people through it.
+
+On the High Harvestide arrival day, Layla was supposed to be in the Sanctum floor below, adjusting runic circle angles rather than casting a transit spell. Locate Person within 1000 ft. produced no result. [[Jonathan Jordan]] implied Layla was acting illegally; Perrin felt betrayed because she was his only friend and cannot believe she made a stupid mistake.
+
+The party may come to Perrin and [[Garm]] for teleportation or shifting information.
+
 

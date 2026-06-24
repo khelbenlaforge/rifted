@@ -38,6 +38,7 @@ When [[Augustus Kennedy]] sought the path of paladinhood, it was Sir Gareth who 
 - Paladin mentor to [[Augustus Kennedy]]
 - Trains aspiring paladins at the [[Hall of Justice - Temple of Tyr]]
 - Devoted servant of [[Tyr]]
+- Maintains an active cross-temple relationship between [[Hall of Justice - Temple of Tyr]] and [[Temple of Kelemvor]]
 
 ---
 ## Tags

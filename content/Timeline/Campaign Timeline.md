@@ -1,4 +1,5 @@
 ---
+
 title: Campaign Timeline
 aliases:
   - Rifted Timeline
@@ -8,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-06-24T16:57
+updated: 2026-06-24T19:00:16
 ---
 
 # Campaign Timeline
@@ -668,14 +669,41 @@ Six people, six threads, one month.
 
 ---
 
+## Year 222 PA — 3rd–23rd Uktar (Session 20 — Strange Peace)
+
+### The God Who Was a Man
+
+[[Sir Gareth Ironhand]] had been waiting for [[Augustus Kennedy|Augie]] to come back and understand it. He walked him to the [[Temple of Kelemvor]]. [[The Gravelords]] assessed the signature in [[Kelemvor's Brand|the Brand]], said *adherent*, gave him library access, and left him with one of their quieter number. The Brand settled. The panther energy — which had always been a hum — went home.
+
+The library holds accounts of Gravelord clerics who have plane-shifted into the Nine Hells to police soul trafficking. Most of it is beyond Augie's current vocabulary. He read it anyway. He also met the [[Monks of the Long Death]], who occupy the eastern ambulatory with the specific stillness of people who have looked at death enough times that the dread stopped preceding the observation. They are against resurrection — not furiously, but with the considered grief of people watching a structural error be repeated. Death is not something to fear, or to reverse. It is something to understand.
+
+Augie left an adherent, with an extra Turn Undead once a day as if the god had answered while the paperwork was still being processed. Gareth gave him eighteen gold and opened the city's enforcement network to him. The [[Knights of the Eternal Order]] were already expecting him — a paladin with that Brand does not need to argue his affiliation.
+
+### The Jade Spire, Two Weeks On
+
+[[Jonathan Jordan|JJ]] and [[Nanuk]] arrived at a tower with fresh rune-work and barely-dry paint. [[Perrin Quickquill]] explained: while the party was in [[Sunhold]], the [[Shadow Creatures]] had found the Spire. The assault halved the city guard. The mages had rebuilt the wards. [[Garm]] believed the creatures were extraplanar — not from any recognised plane. The problem had been contained. The problem had not been solved.
+
+Perrin also explained the teleportation project: he and [[Layla]] had spent months building a circle to link cities, sent a test stone through, watched it appear for three seconds and vanish without arriving anywhere. They had not sent people through it. They would not. And on the day the party arrived — High Harvestide — Layla had been supposed to be in the Sanctum below the Spire's top floor, adjusting runic circle angles. Not casting a transit spell. Adjusting angles.
+
+JJ implied Layla had done something criminal. Perrin's face went somewhere it did not fully come back from. She had been his only friend. They had cast Locate Person; she was not within a thousand feet. The party left with an open invitation to bring planar questions back, extended by a man who was still cooperating out of something that had stopped being goodwill.
+
+### Blood in the Garnet District
+
+[[Tinny]] was running the same move that had gotten him caught the first time. Augie recognised him and the purse went back to its owner without ceremony. Tinny had four hours until his bosses came to collect at the [[The Low Flagon|Low Flagon]]. The [[The Claret|Claret]]'s supply chain came from outside the city. The code phrase for walking in was four litres of blood to sell.
+
+[[Lea]] messaged [[Luks Borg]] about whether the Blackstaff family was involved in illegal trade. Luks said no. The Low Flagon was next.
+
+---
+
 ## Active Threads
 
-**Present (Crystal City — Year 222 PA, ~3rd Uktar):**
+**Present (Crystal City — Year 222 PA, ~23rd Uktar):**
 - [[Belak]] escaped into the [[Gulthias Tree]] via Travel Through Plants — location unknown; Gulthias island resurfaces ~2 weeks from 3rd Uktar; vampiric resurrection possible within a week of resurfacing; the dual necromantic/draconic signature in the tree predates him
-- [[Layla]] confirmed in [[Crystal City]] — tiefling; buying illegal spell components in the [[Garnet District]]; valued [[The Claret|Claret]] client; [[Garm]] has her magical signature and is trying to reverse the transit spell; [[Veyris Thantorn]] theorizes a fey/planar connection
-- [[Jonathan Jordan]] × [[The Claret]]: meeting with [[Tavia Orn]]'s boss pending; someone will contact JJ in the coming weeks
-- [[Jonathan Jordan]] × [[Istar Silverlock]]: tasked to steal the mithral scales from the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue (40 ft up); Istar training JJ for a month; reward if done well: half-proficiency in Deception
-- [[Azure Tamers]] network ([[Nanuk]] + [[Ember]]) searching for Layla via [[Torem]]; [[Perrin Quickquill]] intimidated as a point of contact
+- [[Layla]] confirmed in [[Crystal City]] — tiefling; buying illegal spell components in the [[Garnet District]]; valued [[The Claret|Claret]] client; [[Garm]] has her magical signature and is trying to reverse the transit spell; [[Veyris Thantorn]] theorizes a fey/planar connection; was supposed to be adjusting runic circles in the Sanctum below the party's arrival point on High Harvestide — not casting the transit spell; Jade Spire's Locate Person (1,000 ft) cannot find her
+- [[Jonathan Jordan]] × [[The Claret]]: Low Flagon infiltration — code phrase established ("four litres of blood to sell"); [[Tinny]] is a street-level Claret contact; supply chain confirmed coming from outside Crystal City; next step is the Low Flagon handoff meeting
+- [[Jonathan Jordan]] × [[Istar Silverlock]]: tasked to steal the mithral scales from the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue (40 ft up); Istar training JJ; reward if done well: half-proficiency in Deception
+- [[Azure Tamers]] network ([[Nanuk]] + [[Ember]]) searching for Layla via [[Torem]]; [[Perrin Quickquill]] confirmed as key source on Layla's movements and the teleportation project
+- [[Augustus Kennedy]] — Adherent of [[The Gravelords]] (Priesthood of Kelemvor); joining [[Knights of the Eternal Order]]; holds dual law enforcement role (Tyr judiciary + Kelemvor temple)
 - Council bastion being arranged for the party in [[Crystal City]]
 - [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s supply chain to [[Sunhold]] ongoing; "the Wren" named as a contact in the chain
 - The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
@@ -686,7 +714,7 @@ Six people, six threads, one month.
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
-- The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]] — [[Jade Spire]] wards now in place; threat not withdrawn
+- The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]] — [[Jade Spire]] wards holding; Garm confirms extraplanar origin, not from any recognised plane; city guard was halved during the worst of the Spire attacks; threat not withdrawn
 - The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
 - The PCs' missing essence growing back; speaking Common more than English; [[Shen]]'s patron confirmed "not supposed to exist in this universe" — [[Elmindaria L'Thorian]]'s Banishment attempt failed
 
