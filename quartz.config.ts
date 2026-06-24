@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Aenath — Rifted Campaign Wiki",
-    pageTitleSuffix: " | Rifted",
+    pageTitle: "The Exodus",
+    pageTitleSuffix: " | The Exodus",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
