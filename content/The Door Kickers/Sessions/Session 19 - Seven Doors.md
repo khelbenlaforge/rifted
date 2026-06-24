@@ -9,7 +9,7 @@ date: 2026-06-20
 session: 19
 secret: false
 created: 2026-06-20T00:00
-updated: 2026-06-20T00:00
+updated: 2026-06-24T16:41
 ---
 
 # Session 19 — Seven Doors
@@ -97,6 +97,18 @@ The [[The Low Flagon|Low Flagon]] was on that border. [[Tavia Orn]] was there �
 Ten gold for confirmation: [[Layla]] was in the city. Buying things in the [[Garnet District]] that weren't being sold openly. She was a valued client. Twenty-five more for a meeting with someone above Tavia's position — someone she wouldn't name, who would contact JJ when they were ready.
 
 He took shifts behind the bar at the [[Griffin's Hat]] down at the docks. The work was straightforward. He kept his ear at the right level of background noise. [[Istar Silverlock]], when he had finished cleaning one more section of the guild, gave JJ his next problem: mithral scales on the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue, forty feet up, recently installed. Istar would train him. If done right, the work would teach him something you can't quite teach directly.
+
+### August — Two Doors, One Threshold
+
+[[August]] went to the [[Hall of Justice - Temple of Tyr|Temple of Tyr]] to see his mentor. The meeting started the way those meetings always do — familiar shorthand, the shared language of someone who trained you — and then his mentor stopped talking and looked at his tattoo with the careful attention of a man who has just heard a note in the wrong key.
+
+He didn't name the panther. He didn't have to. What he said was: *those aren't Tyr's energies*. And then he took August across the city.
+
+The [[Temple of Kelemvor]] already knew the Brand for what it was. The paladins and clerics didn't debate it; they didn't ask him to explain himself. They welcomed him, and the welcome had the particular quality of something that had been waiting to happen, like a door that had always been unlocked. August left the Church of Tyr with the grace you use when you have genuinely loved a thing and it has turned out to point somewhere else.
+
+The departure didn't last long. Tyr's people ran the judiciary — not in the abstract, but in the actual way, with actual patrols and case dockets and a structure that had been laid over the city's bones long enough to become part of them. August showed up again with his NPYC background and no ceremony. They gave him a junior position. The work was familiar. The city had different crimes, mostly the same human patterns behind them.
+
+He now belonged, technically, to two temples. The city did not appear to find this unusual.
 
 ### Lea — Weave and Writ
 
