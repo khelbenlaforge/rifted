@@ -1,20 +1,17 @@
 ---
-title: Aenath — Rifted Campaign Wiki
+title: The Exodus Wiki
 secret: false
 created: 2026-03-16T00:44
-updated: 2026-04-01T18:12
+updated: 2026-06-24T17:22
 ---
 
 # Welcome to Aenath
 
-This is the player-facing wiki for the **Rifted** campaign, set in the world of **Aenath** — a realm reeling from a cataclysm known as [[The Awakening]] 222 years ago.
+This is the player-facing wiki for **The Exodus** — a shared world set in **Aenath**, a realm still reeling from a cataclysm known as [[The Awakening]] 222 years ago. Ancient powers stir, forgotten histories resurface, and every campaign leaves its mark on the same living world.
 
-You find yourselves in **[[Corranor]]**, a magocracy of floating islands — members of the **[[Adamantine Guild]]**, drawn south and east toward ancient ruins and stranger truths.
-
-## Browse the Wiki
+## World Content
 
 - [[Characters/NPCs/|NPCs]]
-- [[Characters/PCs/|Player Characters]]
 - [[Locations/|Locations]]
 - [[Factions/|Factions]]
 - [[Lore/|Lore]]
@@ -22,6 +19,11 @@ You find yourselves in **[[Corranor]]**, a magocracy of floating islands — mem
 - [[Items/|Items]]
 - [[Bestiary/|Bestiary]]
 - [[Vehicles/|Vehicles]]
-- [[Sessions/|Sessions]]
 - [[Campaign Timeline]]
+
+## By Table
+
+### The Door Kickers
+- [[Characters/PCs/The Door Kickers/|Player Characters]]
+- [[The Door Kickers/Sessions/|Sessions]]
 
