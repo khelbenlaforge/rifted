@@ -38,16 +38,18 @@ At the far end of the Knights' hall, three archways stand taller than the surrou
 
 ## Residents
 
-- **The Monks of the Long Death** — Ascetics who study the moment of death as a subject of contemplative discipline. No emotional investment in the outcome; that's the point.
-- **The Priesthood of Kelemvor** — Clerics who administer the domain: assessments, records, planar processing. They run the temple's daily operations.
-- **The Knights of the Eternal Order** — Paladins whose specific charge is the cross-planar gates. They prevent unauthorized transit in either direction and ensure the dead arrive where they're supposed to.
-- **[[Augustus Kennedy]]** — Joined as a member during Session 19 downtime after [[Sir Gareth Ironhand]] recognized the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought him here. The temple did not debate it.
+- **[[Monks of the Long Death]]** — Ascetics who study the moment of death as a subject of contemplative discipline. No emotional investment in the outcome; that's the point.
+- **[[The Gravelords]]** (Priesthood of Kelemvor) — Clerics who administer the domain: assessments, records, planar processing. They run the temple's daily operations.
+- **[[Knights of the Eternal Order]]** — Paladins whose specific charge is the cross-planar gates. They prevent unauthorized transit in either direction and ensure the dead arrive where they're supposed to.
+- **[[Augustus Kennedy]]** — Joined as an adherent during Session 19 downtime after [[Sir Gareth Ironhand]] recognized the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought him here. The temple did not debate it. He is now joining the [[Knights of the Eternal Order]].
 
 ## Current Events
 
 [[Sir Gareth Ironhand]] of the [[Hall of Justice - Temple of Tyr]] recently brought [[Augustus Kennedy]] to the temple after identifying the panther energies in his Brand as Kelemvorian in origin. The clerics and paladins accepted the transfer without ceremony — the divine signature spoke clearly. Augustus has since taken on junior duties while maintaining his law enforcement role with Tyr's judiciary.
 
 The institutional feud with the churches of [[Mystra]] and [[Oghma]] is not currently active in an overt sense, but the position has never softened: knowledge without responsibility destabilizes the Weave, wild magic disrupts planar transit, and Kelemvor's people have watched it happen enough times to regard the other two churches with permanent structural skepticism.
+
+Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, and he began joining the [[Knights of the Eternal Order]]. The three internal orders now have standalone faction notes: [[The Gravelords]], [[Knights of the Eternal Order]], and [[Monks of the Long Death]].
 
 ## Scene Features
 

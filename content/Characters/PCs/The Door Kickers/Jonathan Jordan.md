@@ -182,6 +182,10 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: --
+PassivePerception:: 17
+PassiveInsight:: 13
+PassiveInvestigation:: 10
+PassiveStealth:: 16
 ## Session 19
 
 During downtime, Jonathan followed threads from the [[Garnet District]] to the [[Citrine District]] and easily stopped a pickpocket. At [[The Low Flagon]], he met [[Tavia Orn]], recognized the CLARET symbol, and paid 10 gp for intelligence on [[Layla]] plus 25 gp to arrange a meeting with Tavia's boss. [[The Claret]] will contact Jonathan in the coming weeks.

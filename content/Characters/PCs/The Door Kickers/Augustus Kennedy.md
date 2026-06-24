@@ -39,6 +39,8 @@ During the crossing between worlds, Augustus experienced vivid visions: he witne
 ## Abilities
 Augustus wields divine power aligned with justice. He trains in weaponry and shield techniques with a focus on defense, disarming, and one-handed sword work. His warforged physiology grants him exceptional resilience. [[Elmindaria L'Thorian]]'s scan identified a strong divine signature within him, marking him as a paladin in the making. He has yet to swear a formal oath, but his conviction grows with each challenge.
 
+Extra Turn Undead 1/day (gained Session 20 via [[Kelemvor's Brand]] / adherent recognition).
+
 ## Mentorship
 Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the [[Adamantine Guild]], teaches him combat -- weapons, shield techniques, and the practical realities of battle. [[Sir Gareth Ironhand]], a one-armed human paladin of [[Tyr]] at the [[Hall of Justice - Temple of Tyr]], guides his spiritual path. Gareth has pressed Augustus to find a personal calling beyond mere duty, instructing him to train his body, question his mind, and examine his heart. Augustus has deferred choosing between [[Tyr]], [[Helm]], and [[Torm]], though his training at the Temple of [[Tyr]] continues to shape his understanding of justice and redemption.
 
@@ -72,7 +74,10 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine essence; target of the memorable Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently staffing the [[Sunhold]] outpost
 - **[[Temple of Kelemvor]]** -- Joined as a full member during Session 19 downtime; the Brand's panther energies identified him before he arrived
+- **[[The Gravelords]]** -- Adherent of [[The Gravelords]] (Priesthood of Kelemvor); granted library access and formal standing
+- **[[Knights of the Eternal Order]]** -- Joining as a paladin of Kelemvor; [[Kelemvor's Brand]] made the affiliation clear
 - **[[Hall of Justice - Temple of Tyr]]** -- Returned as junior law enforcement after joining Kelemvor's church; leverages NPYC background for judicial duties
+- **Law Enforcement Access** -- Opened Session 20 through City Guard, [[Jade Spire]] soldiers, Watchmen of the [[Citrine District]], and guards of the [[Sapphire District]]; earned 18 gp from Tyr judiciary work
 - **[[Kelemvor Lyonsbane|Kelemvor]]** -- The mercenary fighter whose body Augie inhabited across two sessions of the prequel vision. Through him, Augie learned something Kelemvor had never fully understood: that service to a cause, under lawful orders, is distinct from selfless personal sacrifice in the eyes of the curse. Kelemvor filed it away. So did Augie
 
 ## Character Sheet
@@ -198,4 +203,8 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]], [[Temple of Kelemvor]], [[Hall of Justice - Temple of Tyr|Hall of Justice]]
 Location:: [[Crystal City]]
 Deity:: [[Kelemvor Lyonsbane|Kelemvor]]
+PassivePerception:: 14
+PassiveInsight:: 14
+PassiveInvestigation:: 11
+PassiveStealth:: 9
 

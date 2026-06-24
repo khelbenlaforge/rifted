@@ -175,6 +175,10 @@ Pronouns:: he/him
 Affiliation:: Party / [[Adamantine Guild]]
 Location:: En route to [[Crystal City]]
 Deity::
+PassivePerception:: 15
+PassiveInsight:: 13
+PassiveInvestigation:: 11
+PassiveStealth:: 17
 ## Session 19
 
 Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[Jonathan Jordan]] to intimidate Perrin.

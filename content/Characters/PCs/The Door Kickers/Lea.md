@@ -188,6 +188,10 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: --
+PassivePerception:: 12
+PassiveInsight:: 14
+PassiveInvestigation:: 16
+PassiveStealth:: 11
 ## Session 19
 
 Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.

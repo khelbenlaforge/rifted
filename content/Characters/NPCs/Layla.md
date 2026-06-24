@@ -54,4 +54,6 @@ Layla is confirmed to be a tiefling who remains in [[Crystal City]] rather than 
 
 The [[Corranor Council]], through [[Garm]], detected Layla's magical signature on the transit event that brought the party to Aenath. Garm is actively working to reverse the spell. Layla has been buying illegal spell components in the [[Garnet District]] and is a valued client of [[The Claret]]. She was close friends and co-apprentices with [[Perrin Quickquill]] under Garm.
 
+On High Harvestide, Year 222 PA, Layla was supposed to be in the Sanctum adjusting runic circle angles one floor below where the party materialised, not casting a transit spell. The [[Jade Spire]] cast Locate Person within 1000 ft. and could not find her.
+
 

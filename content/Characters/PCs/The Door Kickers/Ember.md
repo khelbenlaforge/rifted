@@ -188,6 +188,10 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: [[Mielikki]]
+PassivePerception:: 16
+PassiveInsight:: 14
+PassiveInvestigation:: 11
+PassiveStealth:: 15
 ## Session 19
 
 Through [[Nanuk]]'s [[Azure Tamers]] connection, [[Torem]] flew Ember on an eagle to meet the [[Ancients of Lava]] in a wilderness clearing. Elder [[Jess]] leads the circle. The druids went quiet when Ember mentioned [[Belak]], saying that he had been one of their best before disappearing forty years ago.

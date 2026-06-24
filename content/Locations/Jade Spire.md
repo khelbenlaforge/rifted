@@ -40,4 +40,6 @@ The tallest structure in [[Corranor]], the Jade Spire rises above [[Crystal City
 
 The Spire has become a target for [[Shadow Creatures]], whose attacks have rendered the upper levels unsafe. [[Perrin Quickquill]] declared the area dangerous and evacuated the newcomers to the [[Adamantine Guild]] in the [[Citrine District]]. The ongoing threat has diverted resources and deepened the guild's staffing crisis.
 
+The shadow creature attack sites are now walled off with fresh runes and paint; the ward-work took weeks. The attacks were worse while the party was in [[Sunhold]], with the city guard halved during the worst assault. [[Garm]] assesses the shadow creatures as extraplanar, but not from any recognized plane. Purple moss recovered from [[Sunhold]] has been turned into a nutritious drink as a [[Perrin Quickquill]] project.
+
 

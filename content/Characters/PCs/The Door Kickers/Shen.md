@@ -181,4 +181,8 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Sunless Citadel]]
 Deity:: --
+PassivePerception:: 14
+PassiveInsight:: 12
+PassiveInvestigation:: 16
+PassiveStealth:: 10
 
