@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-06-20T17:43
+updated: 2026-06-24T16:57
 ---
 
 # Campaign Timeline
@@ -663,6 +663,8 @@ Six people, six threads, one month.
 [[Lea]] went to the Alchemist Guild and a tattooed elf named [[Veyris Thantorn]], who explained the Weave as a three-dimensional tapestry and offered a theory: Layla was tiefling, and tieflings carry planar echoes, and the shifting spell may have run along a current she was born with. Planar Mechanics and Alchemy track now open. The [[Hucrele Manor]] came after — [[Sorelle]] at the door, [[Soral Vayne]] at the table — and Soral spoke about the city's first family. The Blackstaffs. A scion on the Council of Seven. A family of wizards, careful and durable.
 
 [[Gill Bates]] sat with death for a month: [[Tidecaller Marin Deepcurrent]]'s water philosophy by day, the Temple of [[Kelemvor Lyonsbane|Kelemvor]] by evening. Three factions inside — Monks of the Long Death, Priesthood, Knights (who guard cross-planar exits) — and a question he couldn't stop turning over: the god had been a man first, the man had felt things, and somewhere in between, the feeling had gone. The Church of Kelemvor held a feud with [[Mystra]]'s and [[Oghma]]'s temples. In the [[Diamond District]], a shrine to [[Cyric]] stood alone, tended by city workers who would not say they attended it.
+
+[[Augustus Kennedy]] went to see [[Sir Gareth Ironhand]] and left belonging somewhere he hadn't expected. Gareth detected the Lyonsbane panther energies in the Brand — not Tyr's, clearly not Tyr's — and brought him to the [[Temple of Kelemvor]]. The clerics and paladins didn't need long. Augustus left the Church of Tyr with the grace of someone who has genuinely loved a thing and found it pointed elsewhere, and then — because he was still himself — went back to the [[Hall of Justice - Temple of Tyr|Hall of Justice]] and signed up with Tyr's law enforcement arm as a junior officer. The city now has him filed in two temples. It appears unconcerned.
 
 ---
 
