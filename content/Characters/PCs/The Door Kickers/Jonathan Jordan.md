@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Jonathan Jordan
 aliases:
   - JJ
@@ -10,7 +13,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-06-20T18:11
+updated: 2026-06-25T00:59:49
 ---
 
 # Jonathan Jordan
@@ -23,8 +26,9 @@ updated: 2026-06-20T18:11
 > | ---- | --- |
 > | Race | Human |
 > | Class | Rogue (Soulknife) |
-> | Deity | -- |
-> | Mentor | [[Istar Silverlock]] |
+> | Background | Urchin |
+> | Player | Jonathan |
+> | Affiliation | [[Adamantine Guild]] |
 
 ## Description
 Jonathan Jordan -- known universally as JJ -- is a lanky human with a nimble frame and calloused hands that speak to a life of agility and hard-won resilience. Practical and sharp-eyed, he dresses for function over form, carrying himself with a rugged frontiersman's ease. His dagger is never far from his fingers. Among the five who crossed from Earth, JJ was the most hesitant to commit -- and the last to prove he belonged.
@@ -177,10 +181,10 @@ Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Per
 Race:: Human
 Subrace::
 Class:: Rogue
-Player::
+Player:: Jonathan
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunless Citadel]]
+Location:: [[Crystal City]]
 Deity:: --
 PassivePerception:: 17
 PassiveInsight:: 13

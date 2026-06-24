@@ -1,4 +1,5 @@
 ---
+
 title: Nanuk
 aliases: []
 tags:
@@ -8,7 +9,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-06-20T18:11
+updated: 2026-06-25T00:59:53
 ---
 
 # Nanuk
@@ -173,7 +174,7 @@ Class:: Ranger
 Player:: Francis
 Pronouns:: he/him
 Affiliation:: Party / [[Adamantine Guild]]
-Location:: En route to [[Crystal City]]
+Location:: [[Crystal City]]
 Deity::
 PassivePerception:: 15
 PassiveInsight:: 13

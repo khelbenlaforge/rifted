@@ -1,4 +1,6 @@
 ---
+
+
 title: Augustus Kennedy
 aliases:
   - Augie
@@ -10,7 +12,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-06-24T16:53
+updated: 2026-06-25T00:58:34
 ---
 
 # Augustus Kennedy
@@ -23,8 +25,9 @@ updated: 2026-06-24T16:53
 > | ---- | --- |
 > | Race | Half-Warforged |
 > | Class | Paladin (Oath of Glory) |
-> | Deity | [[Kelemvor Lyonsbane\|Kelemvor]] (formerly [[Tyr]]) |
-> | Mentor | [[Sir Gareth Ironhand]] / [[Luks Borg]] |
+> | Background | Guard |
+> | Player | Justin |
+> | Affiliation | [[Adamantine Guild]] |
 
 ## Description
 Augustus -- known to his companions as Augie -- is a half-warforged paladin, a formidable blend of metal and flesh. His humanoid frame retains recognizable features from his former life on Earth, yet his construct nature grants him an imposing, resilient presence. Gleaming eyes spark with sentience beneath an aura of quiet determination and martial resolve.
@@ -198,7 +201,7 @@ Athletics +6 · Insight +4 · Intimidation +8★ · Perception +4 · Persuasion 
 Race:: Warforged
 Subrace::
 Class:: Paladin
-Player::
+Player:: Justin
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]], [[Temple of Kelemvor]], [[Hall of Justice - Temple of Tyr|Hall of Justice]]
 Location:: [[Crystal City]]

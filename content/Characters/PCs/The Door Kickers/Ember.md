@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Ember
 aliases:
 tags:
@@ -8,7 +11,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-06-20T18:11
+updated: 2026-06-25T00:59:48
 ---
 
 # Ember
@@ -21,8 +24,9 @@ updated: 2026-06-20T18:11
 > | ---- | --- |
 > | Race | Tiefling (Winged) |
 > | Class | Druid (Circle of the Moon) |
-> | Deity | [[Mielikki]] |
-> | Mentor | [[Sylvara Oakwhisper]] |
+> | Background | Guide |
+> | Player | Dora |
+> | Affiliation | [[Adamantine Guild]] |
 
 ## Description
 Ember is a seeker of knowledge and a kindred spirit of the wild. Hints of fiendish ancestry mark her appearance -- reminiscent of an Erinyes or Succubus -- lending her a striking presence that contrasts with the naturalist's attire she favours. A loyal wolf companion walks at her side, enhancing the aura of strength and grace she carries through the wilds of [[Aenath]]. She possesses a keen awareness of the natural world, able to identify plants, sense magical properties in organic matter, and communicate a deep respect for the cycle of life and death.
@@ -183,10 +187,10 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 Race:: Tiefling
 Subrace::
 Class:: Druid
-Player::
+Player:: Dora
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunless Citadel]]
+Location:: [[Crystal City]]
 Deity:: [[Mielikki]]
 PassivePerception:: 16
 PassiveInsight:: 14

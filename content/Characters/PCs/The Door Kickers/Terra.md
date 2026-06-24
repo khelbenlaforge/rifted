@@ -1,7 +1,5 @@
 ---
 
-created: 2026-06-24T22:30:14
-
 title: Terra
 aliases: []
 tags:
@@ -10,7 +8,8 @@ campaign: Rifted
 introduced:
 secret: false
 state: alive
-updated: 2026-06-24T22:32:35
+created: 2026-06-24T22:30:14
+updated: 2026-06-25T00:54:18
 ---
 
 # Terra

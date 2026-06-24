@@ -1,7 +1,5 @@
 ---
 
-
-created: 2026-06-24T00:00:00
 title: Sadiah Ispahani
 aliases: []
 tags:
@@ -10,7 +8,8 @@ campaign: Rifted
 introduced:
 secret: false
 state: alive
-updated: 2026-06-24T22:42:42
+created: 2026-06-24T00:00:00
+updated: 2026-06-25T00:54:20
 ---
 
 # Sadiah Ispahani

@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Lea
 aliases:
 tags:
@@ -8,7 +11,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-06-20T18:11
+updated: 2026-06-25T00:59:53
 ---
 
 # Lea
@@ -21,8 +24,9 @@ updated: 2026-06-20T18:11
 > | ---- | --- |
 > | Race | Elf (High Elf) |
 > | Class | Wizard (Chronurgy Magic) |
-> | Deity | -- |
-> | Mentor | [[Elmindaria L'Thorian]] |
+> | Background | Orzhov Representative |
+> | Player | Ming |
+> | Affiliation | [[Adamantine Guild]] |
 
 ## Description
 Lea carries herself with the quiet determination of someone who has accepted the weight of responsibility before fully understanding its shape. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She is protective by nature -- the first to step between danger and her companions -- yet equally at home poring over arcane theory. There is a regal quality to her bearing that she may not yet recognise for what it is.
@@ -183,10 +187,10 @@ Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4
 Race:: Elf (High Elf)
 Subrace::
 Class:: Wizard
-Player::
+Player:: Ming
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunless Citadel]]
+Location:: [[Crystal City]]
 Deity:: --
 PassivePerception:: 12
 PassiveInsight:: 14

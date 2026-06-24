@@ -1,4 +1,9 @@
 ---
+
+
+
+
+
 title: Gill Bates
 aliases:
   - Gill
@@ -9,7 +14,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-06-20T18:11
+updated: 2026-06-25T01:00:55
 ---
 
 # Gill Bates
@@ -22,8 +27,9 @@ updated: 2026-06-20T18:11
 > | ---- | --- |
 > | Race | Human |
 > | Class | Cleric (Arcana Domain) |
-> | Deity | [[Istishia]] |
-> | Mentor | [[Tidecaller Marin Deepcurrent]] |
+> | Background | Fisher |
+> | Player | Chian |
+> | Affiliation | [[Adamantine Guild]] |
 
 ## Description
 Gill Bates carries himself with an unassuming practicality suited to frontier life. Though no longer fully human after his crossing to [[Aenath]], he retains recognizable features of his former self, dressed and equipped for the challenges ahead. A fisher by background and a healer by calling, Gill exudes a steadfast warmth. He is the kind of man who will talk your ear off about ocean currents, marine life, and fishing methods -- and mean every word of it. Beneath that earnest enthusiasm lies a soul deeply connected to the spiritual realm, a beacon of hope amid chaos.
@@ -200,13 +206,13 @@ Arcana +7† · History +3 · Insight +6 · Medicine +6 · Religion +7† · Sur
 **Gear:** Holy Symbol, Backpack, Blanket, Lamp, Tinderbox, Rations ×7, Fishing Tackle, Favorite Fishing Lure, Robe, Traveler's Clothes, Pouch
 
 ---
-Race:: Humanoid (partially changed)
+Race:: Human
 Subrace::
 Class:: Cleric
-Player::
+Player:: Chian
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunless Citadel]]
+Location:: [[Crystal City]]
 Deity:: [[Istishia]]
 PassivePerception:: 14
 PassiveInsight:: 16

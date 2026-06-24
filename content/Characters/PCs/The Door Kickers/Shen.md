@@ -1,4 +1,6 @@
 ---
+
+
 title: Shen
 aliases: []
 tags:
@@ -8,7 +10,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-05-15T23:36
+updated: 2026-06-25T00:59:52
 ---
 
 # Shen
@@ -21,7 +23,8 @@ updated: 2026-05-15T23:36
 > | ---- | --- |
 > | Race | Human |
 > | Class | Warlock (Great Old One) |
-> | Patron | Unknown (professor-voiced) |
+> | Background | Scribe |
+> | Player | Avinaash |
 > | Affiliation | [[Adamantine Guild]] |
 
 ## Description
@@ -179,7 +182,7 @@ Class:: Warlock
 Player:: Avinaash
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
-Location:: [[Sunless Citadel]]
+Location:: [[Crystal City]]
 Deity:: --
 PassivePerception:: 14
 PassiveInsight:: 12
