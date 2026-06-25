@@ -1,5 +1,7 @@
 ---
 
+
+
 title: Terra
 aliases: []
 tags:
@@ -9,7 +11,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-06-25T00:54:18
+updated: 2026-06-25T16:50:11
 ---
 
 # Terra
@@ -98,7 +100,7 @@ She was in a shelter in California when the light took her.
 - **Spellcasting** — WIS-based. See spell slots below.
 - **Weapon Mastery** — Mastery property with two chosen weapons; swap on Long Rest.
 - **Deft Explorer** — Expertise in one Ranger skill; one additional language.
-- **Fighting Style** — TBD (player's choice).
+- **Fighting Style** — Archery. +2 bonus to attack rolls with ranged weapons.
 
 **Fey Wanderer (Level 3)**
 - **Dreadful Strikes** — On a weapon hit, deal an extra 1d4 Psychic damage. A given target can take this extra damage only once per turn.
@@ -115,6 +117,12 @@ She was in a shelter in California when the light took her.
 **Spell Slots:** 1st ×2
 
 *Prepared spells TBD.*
+
+---
+
+### Items
+
+- **[[Hollowstone]]** — naturally holed granite stone from Cerro Gordo; Tier 1 (current)
 
 ---
 
