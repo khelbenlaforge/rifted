@@ -1,4 +1,6 @@
 ---
+created: 2026-06-25T16:16:49
+
 title: Asmodeus
 aliases:
   - Lord of the Nine Hells
@@ -8,6 +10,7 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+updated: 2026-06-25T16:16:49
 ---
 
 # Asmodeus
