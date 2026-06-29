@@ -1,7 +1,9 @@
 ---
+
 title: Elmindaria L'Thorian
 aliases:
   - Elmindaria
+  - Daria
   - The Guild's Subtle Mind
 tags:
   - npc
@@ -10,7 +12,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-06-20T18:11
+updated: 2026-06-29T19:00:17
 ---
 
 # Elmindaria L'Thorian

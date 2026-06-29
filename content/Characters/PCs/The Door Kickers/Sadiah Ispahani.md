@@ -110,13 +110,24 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 ---
 
+## Session 21
+
+- Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 3rd Nightal)
+- Shared the Calamity vision on arrival
+- Now in [[Crystal City]], staying at the [[Adamantine Guild]]
+- Has two glowing sickles; in Session 21 the DM called them Jukun and Sukun, but existing notes elsewhere use Sukoon and Junoon. Name discrepancy pending confirmation; existing names not changed.
+- PvP test: landed a sneak attack on [[Nanuk]] for 20 piercing damage, also hit [[Lea]], and used Steady Aim
+- Level 4 after leveling during the session; Level 5 may also have been granted and is pending confirmation
+
+---
+
 Race:: Wood Elf
 Subrace::
 Class:: Rogue
 Player:: Veronica
 Pronouns:: she/her
 Affiliation:: Party
-Location::
+Location:: Crystal City
 Deity::
 PassivePerception::
 PassiveInsight::

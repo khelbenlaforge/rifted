@@ -1,5 +1,6 @@
 ---
 
+
 title: Nanuk
 aliases: []
 tags:
@@ -9,7 +10,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-06-25T00:59:53
+updated: 2026-06-26T17:26:22
 ---
 
 # Nanuk
@@ -75,7 +76,7 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 21 (+5) | 14 (+2) | 12 (+1) | 16 (+3) | 9 (−1) |
+| 12 (+1) | 21 (+5) | 14 (+2) | 12 (+1) | 16 (+3) | 9 (-1) |
 
 ### Saving Throws
 
@@ -87,9 +88,7 @@ None.
 
 ### Skills
 
-Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7★
-
-★ *Expertise (doubled proficiency)*
+Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7 (expertise)
 
 **Languages:** Common · Elvish · Giant
 **Tools:** Cartographer's Tools
@@ -100,16 +99,18 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7★
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +3 | 5 ft. | 2 bludgeon; or grapple/shove (escape DC 11) | — | — | — |
+| **Unarmed Strike** | M +3 | 5 ft. | 2 bludgeon; grapple/shove (DC 11) | — | — | — |
 | **Scimitar** *(Nick)* | M +7 | 5 ft. | 1d6+5 slash | — | — | — |
 | **Shortsword** | M +7 | 5 ft. | 1d6+5 pierce | — | — | — |
-| **Longbow** *(Slow)* | R +9 | 150/600 ft. | 1d8+5 pierce; target −10 ft. speed | — | — | — |
+| **Longbow** *(Slow)* | R +9 | 150/600 ft. | 1d8+5 pierce; target -10 ft. speed | — | — | — |
 | **Shortbow** | R +9 | 80/320 ft. | 1d6+5 pierce | — | — | — |
 | **Message** | — | 120 ft. | Whisper to target; target may reply; 1 rnd | Cantrip | S, M (copper wire) | — |
 | **Thorn Whip** | M +5 | 30 ft. | 1d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
 | **Alarm** | — | 30 ft. | Ward 20-ft cube/door/window; mental/audible alarm; 8 hr | 1st | V, S, M (bell & wire) | Ritual |
+| **Detect Magic** | — | Self (30-ft radius) | Sense magic; identify school as Magic action; 10 min | 1st | V, S | 1/SR |
+| **Disguise Self** | — | Self | Illusory appearance change; 1 hr | 1st | V, S | 1/SR |
 | **Entangle** | STR 13 | 90 ft. | Restrained in 20-ft square; repeat STR save; 1 min | 1st | V, S | Conc. |
-| **Snare** | DEX 13 | Touch | 1 min cast; trap restrains creature upside down; 8 hr | 1st | S, M† | — |
+| **Snare** | DEX 13 | Touch | 1 min cast; rope trap restrains target; 8 hr | 1st | S, M† | — |
 
 *† Snare: M = 25 ft. of rope (consumed)*
 
@@ -119,28 +120,28 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7★
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Hidden Step** | — | Self | Invisible until start of next turn or until atk/cast | — | — | 1/SR |
 | **Healing Word** | — | 60 ft. | 1d4+3 HP | 1st | V | 1/LR |
-| **Hail of Thorns** | DEX 13 | Self | After ranged hit: target/nearby creatures take 1d10 pierce, save half | 1st | V | — |
-| **Hunter's Mark** | — | 90 ft. | Mark target; +1d6 dmg per weapon hit; move on drop; 1 hr | 1st | V | Conc. · 3/LR no slot |
+| **Hail of Thorns** | DEX 13 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
+| **Hunter's Mark** | — | 90 ft. | Mark target; +1d6 force per hit; move on drop; 1 hr | 1st | V | Conc. · 3/LR |
 | **Mark the Prey** | — | 90 ft. | Cast *Hunter's Mark* without slot or Conc. | 1st | V | 1/LR |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Absorb Elements** | — | Self | Resist triggering acid/cold/fire/lightning/thunder; +1d6 next melee hit | 1st | S | — |
+| **Absorb Elements** | — | Self | Resist trigger dmg; next melee hit +1d6 | 1st | S | — |
 
 ---
 
 ### Features
 
 - **Fighting Style: Archery** — +2 bonus to ranged weapon attack rolls.
-- **Weapon Mastery** — Scimitar *(Nick)*: make the Light-property extra attack as part of the Attack action instead of a Bonus Action, once per turn; can swap assignment on Long Rest.
-- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, reduce target's Speed by 10 ft. until the start of Nanuk's next turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Scimitar *(Nick)*: make the Light-property extra attack as part of the Attack action instead of as a Bonus Action, once per turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, reduce target's Speed by 10 feet until the start of Nanuk's next turn; can swap assignment on Long Rest.
 - **Sharpshooter** — Ignore half and three-quarters cover; attacking at long range does not impose disadvantage.
-- **Primal Companion** — Polar bear companion (*irinaliutiit*) acts independently or follows Nanuk's Bonus Action command; do not track companion attacks here. Revives at Nanuk's feet on a Long Rest if it dies.
-- **Favored Enemy** — *Hunter's Mark* is always prepared and can be cast without a spell slot 3×/LR.
+- **Primal Companion** — Polar bear companion (*irinaliutiit*). **[House Rule]** Rolls initiative with Nanuk (shared count, separate turns); Nanuk chooses beast-first or ranger-first each round. Commanded via Bonus Action or by sacrificing one attack; if not commanded, acts at DM discretion. Revives at Nanuk's feet on Long Rest.
+- **Favored Enemy** — *Hunter's Mark* is always prepared and can be cast without a spell slot 3x/LR.
 - **Deft Explorer** — Expertise in Survival; gained one additional language.
-- **Firbolg Magic** — Cast *Detect Magic* and *Disguise Self* 1/SR without a spell slot. Racial features, not ranger spell-table entries.
+- **Firbolg Magic** — Cast *Detect Magic* and *Disguise Self* 1/SR without a spell slot.
 - **Hidden Step** — Turn invisible as a Bonus Action 1/SR. See Bonus Actions table.
 - **Alert** — +5 initiative; cannot be surprised.
 - **Ancestor's Quiver: Inexhaustible Arrows** — The quiver always contains mundane arrows; Nanuk does not track ammo.
@@ -153,7 +154,7 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7★
 
 **Ability:** Wisdom | **Save DC:** 13 | **Attack Bonus:** +5
 
-**Spell Slots:** 1st ×3
+**Spell Slots:** 1st x3
 
 #### Ritual Spells
 
@@ -165,7 +166,7 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7★
 
 **Armor (equipped):** Studded Leather Armor
 **Magic Items (equipped):** [[Ancestor's Quiver]]
-**Gear:** Sprig of Mistletoe, Backpack, Bedroll, Rope, Tinderbox, Torch ×10, Waterskin, Cartographer's Tools, Tent, Traveler's Clothes, Rations ×10, Oil ×2
+**Gear:** Sprig of Mistletoe · Backpack · Bedroll · Cartographer's Tools · Rope · Tent · Tinderbox · Traveler's Clothes · Waterskin
 
 ---
 Race:: Firbolg
@@ -185,4 +186,20 @@ PassiveStealth:: 17
 Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[Jonathan Jordan]] to intimidate Perrin.
 
 Nanuk earned 12 gp, vehicle (riding) proficiency, and free flights anywhere for one month.
+
+## Session 21
+
+Session 21 downtime:
+- Aerial recon with [[Torem]] on Little Bella (griffin): alabaster highway northeast from [[Crystal City]] floats above ground
+- Magical creature blood flows east-to-west toward [[Crystal City]] and goes to the Academy and Alchemist's Guild; Torem does not know who buys it after arrival
+- [[Colford]] and [[Stormburg]] confirmed as regional cities to the north
+- [[Azure Tamers]] patrol the eastern road and watch for creature attacks on settlements
+- Work track: paired with an unruly giant eagle and could not go far; earned +11 gp
+- Relationship track: no roll
+
+PvP test:
+- Went down first after [[Sadiah Ispahani]]'s sneak attack for 20 damage
+- Healed by [[Gill Bates]], then brought Gill down before the DM called it
+
+Level: 5
 

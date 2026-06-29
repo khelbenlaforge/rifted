@@ -1,5 +1,6 @@
 ---
 
+
 title: Campaign Timeline
 aliases:
   - Rifted Timeline
@@ -9,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-06-24T19:00:16
+updated: 2026-06-29T17:19:43
 ---
 
 # Campaign Timeline
@@ -695,28 +696,51 @@ JJ implied Layla had done something criminal. Perrin's face went somewhere it di
 
 ---
 
+## Year 222 PA — 3rd to 13th Nightal (Session 21 — Three More)
+
+### The Circle at the Spike
+
+Three strangers arrived at [[Corran's Spike]] in the failing light of 3rd Nightal. [[Layla]] was already there — crouched over chalk measurement grids extending twenty feet from a runic circle she had built independent of the [[Jade Spire]]'s project, her compass instrument reading the circle's residual energy with the focus of someone checking results, not maintaining infrastructure. She counted three. She had three [[Adamantine Guild]] bracers already prepared. She told them to find [[Perrin Quickquill]], and she told them the [[The Claret|Claret]] code phrase as if she'd been carrying it for a long time, and she stayed to finish her readings while [[Shadow Creatures]] gathered at the far edge of the clearing — ignoring her, tracking the newcomers. The arrivals: [[Erwina Lesmana]] (tiefling bard, Indonesia), [[Terra]] (aasimar ranger, California), [[Sadiah Ispahani]] (wood elf rogue, Pakistan). All three had seen the same vision on arrival: Corran pressing his hands into the earth, the Spike rising where he had stood. All three made it to [[Crystal City]] a week later without fully understanding what they'd witnessed.
+
+The shadow creatures followed to the city walls and stopped. They did not leave.
+
+### Two Weeks in the City
+
+While the newcomers traveled the alabaster highway east-to-west, the city's threads pulled tighter. [[Nanuk]] took an aerial survey with [[Torem]] on griffin-back and saw the regional supply chain from above: magical creature blood flowing in from eastern settlements, disappearing somewhere between the road and the [[Ether Scryer's Academy|Academy]]. [[Gill Bates]] received his water mastery path from his [[Temple of Istishia]] mentor — four levels beginning with Sacred Sea — and instructions to spend two downtime tracks in meditation before the next chapter opens. [[Lea]] found the gap: a week before her own arrival in Crystal City, a massive shipment of magical creature blood had been bought out entirely, leaving the city low on healing potions. [[Veyris Thantorn]] mapped the cosmological structure underneath the problem — echoes, a stuck astral barrier, wolf bone from [[Arborea]] carrying a through-line to a wild plane — and confirmed that something was systematically consuming the material the Alchemists needed to keep people alive.
+
+### Three More
+
+The newcomers arrived at the [[Adamantine Guild]] with Layla's metal and Perrin's name and no context for either. [[Istar Silverlock]], still serving punishment in an apron, pulled [[Nanuk]] aside and argued that the Claret was a better path to Layla than a chase east — a position that landed on a man who didn't trust him and was convincing anyway. [[Erky]] ran the testing: three pairs, a pocket arena, a standing order not to kill each other. [[Terra]] flew. [[Sadiah Ispahani]]'s sneak attack opened Nanuk's neck for twenty damage on the first round. [[Erwina Lesmana]] healed the people she was supposed to be fighting, because it was the only mode she had. Everyone was restored to full by the end. Everyone leveled to five.
+
+By session's end, Erwina was a silhouette in direct light. Her keris — [[Nyala]] — did not fade with her. The guild had a stranger's blade on the table and no instructions for what to do with it.
+
+---
+
 ## Active Threads
 
-**Present (Crystal City — Year 222 PA, ~23rd Uktar):**
-- [[Belak]] escaped into the [[Gulthias Tree]] via Travel Through Plants — location unknown; Gulthias island resurfaces ~2 weeks from 3rd Uktar; vampiric resurrection possible within a week of resurfacing; the dual necromantic/draconic signature in the tree predates him
-- [[Layla]] confirmed in [[Crystal City]] — tiefling; buying illegal spell components in the [[Garnet District]]; valued [[The Claret|Claret]] client; [[Garm]] has her magical signature and is trying to reverse the transit spell; [[Veyris Thantorn]] theorizes a fey/planar connection; was supposed to be adjusting runic circles in the Sanctum below the party's arrival point on High Harvestide — not casting the transit spell; Jade Spire's Locate Person (1,000 ft) cannot find her
-- [[Jonathan Jordan]] × [[The Claret]]: Low Flagon infiltration — code phrase established ("four litres of blood to sell"); [[Tinny]] is a street-level Claret contact; supply chain confirmed coming from outside Crystal City; next step is the Low Flagon handoff meeting
-- [[Jonathan Jordan]] × [[Istar Silverlock]]: tasked to steal the mithral scales from the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue (40 ft up); Istar training JJ; reward if done well: half-proficiency in Deception
-- [[Azure Tamers]] network ([[Nanuk]] + [[Ember]]) searching for Layla via [[Torem]]; [[Perrin Quickquill]] confirmed as key source on Layla's movements and the teleportation project
-- [[Augustus Kennedy]] — Adherent of [[The Gravelords]] (Priesthood of Kelemvor); joining [[Knights of the Eternal Order]]; holds dual law enforcement role (Tyr judiciary + Kelemvor temple)
+**Present (Crystal City — Year 222 PA, ~13th Nightal):**
+- [[Belak]] escaped into the [[Gulthias Tree]] via Travel Through Plants — location unknown; Gulthias island resurfaces ~2 weeks from 3rd Uktar; vampiric resurrection possible; the dual necromantic/draconic signature in the tree predates him
+- [[Layla]] operating a second runic circle near [[Corran's Spike]], independent of the [[Jade Spire]] project — said *"This time, three"* when newcomers arrived; had 3 bracers pre-loaded; knows the [[The Claret|Claret]] code phrase; [[Shadow Creatures]] intrinsically ignore her; told newcomers to find [[Perrin Quickquill]] (doesn't know JJ soured that friendship); location outside city as of 3rd Nightal; Locate Person (1,000 ft) cannot find her
+- Magical creature blood buyout — large shipment sold out before reaching the Alchemist's Guild; city running low on healing potions; eastern road is the supply line; buyer unknown; Claret connection suspected
+- [[Nyala]] — [[Erwina Lesmana]]'s keris; stayed behind when she faded at session end; potential legacy relic; unclaimed
+- [[Jonathan Jordan]] × [[The Claret]]: Low Flagon infiltration — code phrase established; [[Tinny]] is street contact; JJ absent Session 21, sent on task by [[Istar Silverlock]] (party suspects via Insight: stealing mithral scales from [[Hall of Justice - Temple of Tyr|Temple of Tyr]] statue, 40 ft up)
+- [[Azure Tamers]] network ([[Nanuk]] + [[Ember]]) — Torem gave aerial recon of regional supply chain; blood flow from east confirmed; who's buying it before it reaches the Alchemists?
+- [[Gill Bates]] — beginning Temple of [[Istishia]] mastery path (Sacred Sea); 2 downtime tracks required next session for initiation
+- [[Augustus Kennedy]] — Adherent of [[The Gravelords]]; joining [[Knights of the Eternal Order]]; dual law enforcement role; absent Session 21
+- Three new Earthers integrated: [[Terra]] and [[Sadiah Ispahani]] now Level 5 guild members; [[Erwina Lesmana]] faded by session end
 - Council bastion being arranged for the party in [[Crystal City]]
-- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s supply chain to [[Sunhold]] ongoing; "the Wren" named as a contact in the chain
-- The Sanctum's revelations: featureless figure, divine exodus, [[Bahamut]] and [[Takhisis]] as allies, [[Aenath]]'s true shape — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
-- Sanctum selective reveal: only the five original PCs perceive the true chamber; [[Nanuk]], [[Balsag]], and [[Erky]] see only the Ashardalon illusion and ancient elven architecture
-- [[Ember]]'s dual nature — drawn to both nature and infernal powers; [[Asmodeus]] would not leave her side; the Gulthias Tree singled her out in battle; the [[Ancients of Lava]] counted Belak among their best before he disappeared
-- [[Nanuk]]'s storyline — energy corporation coercion, lost love; now established in Crystal City; joined [[Azure Tamers]]
+- [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s supply chain to [[Sunhold]] ongoing; "the Wren" named as contact
+- The Sanctum's revelations — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
+- Sanctum selective reveal: only the five original PCs perceive the true chamber; [[Nanuk]], [[Balsag]], and [[Erky]] see only the Ashardalon illusion
+- [[Ember]]'s dual nature — nature and infernal; [[Asmodeus]] would not leave her side; the [[Gulthias Tree]] singled her out in battle; absent Session 21
+- [[Nanuk]]'s storyline — energy corporation coercion, lost love; Azure Tamers embedded
 - [[Balsag]] pledged to aid the party when called
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
-- The nature and origins of the [[Shadow Creatures]] threatening [[Corranor]] — [[Jade Spire]] wards holding; Garm confirms extraplanar origin, not from any recognised plane; city guard was halved during the worst of the Spire attacks; threat not withdrawn
-- The [[Adamantine Guild]]'s struggle against understaffing and the encroaching darkness
-- The PCs' missing essence growing back; speaking Common more than English; [[Shen]]'s patron confirmed "not supposed to exist in this universe" — [[Elmindaria L'Thorian]]'s Banishment attempt failed
+- [[Shadow Creatures]] — confirmed tracking Earthers, not Layla; stopped at city walls; [[Jade Spire]] wards holding; city guard halved; threat not withdrawn
+- The [[Adamantine Guild]]'s understaffing — three new members now integrated
+- The PCs' missing essence growing back; speaking Common more than English; [[Shen]]'s patron confirmed "not supposed to exist in this universe" — Banishment attempt failed
 
 **From the Prequel Vision (carried forward):**
 - [[Midnight]]'s pendant is cold and empty — what does she do with that?

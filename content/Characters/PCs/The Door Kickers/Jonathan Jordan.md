@@ -76,120 +76,103 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 4 |
-| **Class** | Rogue (Soulknife) |
-| **Race** | Human |
-| **Background** | Urchin |
-| **HP (Max)** | 29 |
-| **AC** | 15 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
+| Level | 5 |
+| Class | Rogue (Soulknife) |
+| Race | Human |
+| Background | Urchin |
+| HP (Max) | 39 |
+| AC | 15 (Leather Armor) |
+| Speed | 30 ft |
+| Proficiency Bonus | +3 |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1) | 18 (+4) | 12 (+1) | 7 (-2) | 16 (+3) | 15 (+2) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 8 | -1 |
+| DEX | 18 | +4 |
+| CON | 12 | +1 |
+| INT | 7 | -2 |
+| WIS | 16 | +3 |
+| CHA | 15 | +2 |
 
-### Saving Throws
+**Saving Throws:** STR -1 . DEX +2 . CON +1 . WIS +3 . CHA +2 . **DEX +7** . **INT +1**
 
-Dexterity +6 · Intelligence +0
+**Resistances and Vulnerabilities:** None.
 
-### Resistances & Vulnerabilities
-
-None.
-
-### Skills
-
-Intimidation +4 · Investigation +0 · Perception +7★ · Performance +4 · Persuasion +6★ · Sleight of Hand +6 · Stealth +6
-
-★ *Expertise (doubled proficiency)*
-
-**Languages:** Common, Thieves' Cant
-**Tools:** Thieves' Tools
+**Skills:** Intimidation +5 . Investigation +1 . **Perception +9** *(expertise)* . Performance +5 . **Persuasion +8** *(expertise)* . Sleight of Hand +7 . Stealth +7
+**Languages:** Common, Thieves Cant
+**Tools:** Thieves Tools
 
 ---
 
 ### Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
-| **Dagger ×4** *(Nick)* | M/R +6 | 5 ft. / 20/60 ft. | 1d4+4 pierce | — | — | — |
-| **Shortsword** *(Vex)* | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
-| **Shortbow** | R +6 | 80/320 ft. | 1d6+4 pierce | — | — | — |
-| **Scimitar** | M +6 | 5 ft. | 1d6+4 slash | — | — | — |
-| **Psychic Blade** *(Vex†)* | M/R +6 | 5 ft. / 60 ft. | 1d6+4 psychic; no material blade | — | — | — |
-| **Animate Dead** *(Night Caller, 1 min)* | — | 10 ft. | Animate corpse as skeleton/zombie; obeys 24 hr | 3rd | V, S, M (blood/flesh/bone dust) | 1/week |
+|---|---|---|---|---|---|---|
+| **Dagger** *(Nick)* | M/R +7 | 20/60 | 1d4+4 pierce | - | - | - |
+| **Shortsword** *(Vex)* | M +7 | 5 ft | 1d6+4 pierce; on hit target Vexed -- your next atk vs it has adv. until your next turn | - | - | - |
+| **Scimitar** *(Nick)* | M +7 | 5 ft | 1d6+4 slash | - | - | - |
+| **Shortbow** *(Vex)* | R +7 | 80/320 | 1d6+4 pierce; on hit target Vexed -- your next atk vs it has adv. until your next turn | - | - | - |
+| **Psychic Blade** *(Vex)* | M/R +7 | 60 ft | 1d6 psychic; on hit target Vexed -- your next atk vs it has adv. until your next turn; manifest free on Attack action or OA | - | - | - |
+| **Unarmed Strike** | M +2 | 5 ft | 1 bludgeon (min 1) | - | - | - |
+| **Night Caller** *(magic whistle)* | - | 10 ft | Animate one corpse as Animate Dead; 1-min cast; darkness or night sky only | - | - | 1/7 days |
 
-*† Psychic Blade: Vex is free and doesn't count against the Weapon Mastery feat choices.*
+*Sneak Attack: once per turn, +3d6 damage when attacking with advantage OR when an ally is adjacent to the target.*
+*Nick mastery: when you use the Attack action with a Light weapon, make one extra attack with a different Light weapon as part of that action (no Bonus Action needed).*
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
-| **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
-| **Steady Aim** | — | Self | Adv. on next attack this turn; speed becomes 0 | — | — | — |
-| **Psychic Blade (offhand)** | M/R +6 | 5 ft. / 60 ft. | 1d4+4 psychic; after Psychic Blade attack | — | — | — |
-| **Hunter's Mark** *(item)* | — | 90 ft. | Mark target; +1d6 weapon dmg; track adv.; 1 hr | 1st | V | Conc. · 1/LR |
+|---|---|---|---|---|---|---|
+| **Cunning Action** | - | Self | Dash, Disengage, or Hide | - | - | - |
+| **Steady Aim** | - | Self | Gain adv. on next attack this turn; Speed becomes 0 until end of turn | - | - | - |
+| **Psychic Blade (second)** | M/R +7 | 60 ft | 1d4 psychic; requires free hand; only when Psychic Blade used on Attack action | - | - | - |
+| **Psychic Whispers** | - | - | Expend 1-5 Psionic dice to link that many willing creatures telepathically for 8 hrs | - | - | 1/LR free |
+| **Regain Psionic Die** | - | Self | Regain 1 Psionic Energy Die | - | - | 1/day |
+| **Potion of Healing** | - | Self | Drink a Potion of Healing (2d4+2 HP) | - | - | - |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Coin's Edge** | — | Self | Attack roll exactly matches AC → attack misses | — | — | 1/SR |
+|---|---|---|---|---|---|---|
+| **Uncanny Dodge** | - | Self | Halve damage from one attack that hits you (attacker must be visible) | - | - | - |
+| **Coin's Edge** *(Symbol)* | - | Self | When you miss an attack, reroll it; must use the new result | - | - | 1/SR |
 
 ---
 
 ### Features
 
-- **Expertise** — Perception and Persuasion at double proficiency (included above).
-- **Sneak Attack** — 2d6 extra damage once per turn with a finesse/ranged weapon when you have advantage or an ally is adjacent to the target.
-- **Thieves' Cant** — Secret rogue language and cipher.
-- **Weapon Mastery** — Dagger *(Nick)*: extra Light-weapon attack can be part of the Attack action instead of a Bonus Action, 1/turn; can swap assignment on Long Rest.
-- **Weapon Mastery** — Shortsword *(Vex)*: on hit and damage, gain adv. on your next attack against that target before the end of your next turn; can swap assignment on Long Rest.
-- **Psychic Blade Vex** — On hit and damage, gain adv. on your next attack against that target before the end of your next turn; free, does not count against mastery choices.
-- **Psionic Energy Dice** — d6 pool, 4/LR. Fuels Soulknife abilities.
-- **Psi-Bolstered Knack** — When you fail an ability check using a proficient skill or tool, roll one Psionic Energy Die and add it; expend the die only if the roll succeeds.
-- **Psychic Whispers** — Telepathic link with up to 2 creatures for die-roll hours; 1/LR free or expend one Psionic Energy Die.
-- **Rathan's Symbol of Tymora** — 1 Luck Point/LR. Spend for adv. on a d20 test or impose disadv. on one attack roll against JJ.
-- **Lady Luck's Favor** — When JJ rolls a natural 20 on any d20 test, regain the expended Luck Point.
-
----
-
-### Spellcasting
-
-*No class spellcasting. Item-granted spells appear in the action tables above.*
-
-#### Ritual Spells
-
-*None.*
+- **Sneak Attack (3d6):** once per turn, add 3d6 damage when attacking with advantage OR when an ally is adjacent to the target
+- **Cunning Action:** Dash, Disengage, or Hide as a Bonus Action
+- **Steady Aim:** Bonus Action to gain advantage on your next attack this turn; Speed becomes 0 until end of turn
+- **Cunning Strike (L5):** expend 1d6 of Sneak Attack for one of: Poison (CON DC 14 or Poisoned 1 min), Trip (DEX DC 14 or Prone), Withdraw (move up to 5 ft without triggering OA)
+- **Uncanny Dodge:** use your Reaction to halve damage from one attack (attacker must be visible)
+- **Psionic Energy Dice (3xd6/LR):**
+  - *Psi-Bolstered Knack:* when you fail an ability check, expend 1 die and add its result to the check; if it passes, you succeed
+  - *Psychic Whispers:* expend 1-5 dice to establish telepathic communication with that many willing creatures for 8 hrs; 1/LR free without spending dice
+- **Weapon Mastery (2 assignments -- swap on LR):** Dagger *(Nick)* and Shortsword *(Vex)* default; can swap Dagger for Scimitar *(Nick)* or Shortsword for Shortbow *(Vex)*; Psychic Blade Vex is always free and never counts against assignments
+  - *Nick:* when you use the Attack action with a Light weapon, make one extra attack with a different Light weapon as part of that action (no Bonus Action needed)
+  - *Vex:* on hit, target is Vexed until the start of your next turn; your next attack roll against that target has advantage
+- **Thieves Cant:** secret language and cipher system known by Rogues
+- **Rathan's Symbol of Tymora (prequel item):**
+  - *Luck Point (1/LR):* when you roll a 1 on a d20 test, expend the point to reroll; use the new result
+  - *Coin's Edge (Reaction, 1/SR):* when you miss an attack, reroll it; must use the new result
 
 ---
 
 ### Inventory
 
-**Armor (equipped):** Leather Armor
-**Magic Items:** Night Caller, Rathan's Symbol of Tymora (attuned), Guild Brass Armlet
-**Tools:** Thieves' Tools
-**Gear:** Quiver, Arrows ×20, Backpack, Bell, Crowbar, Hooded Lantern, Rope, Tinderbox, Waterskin, Common Clothes, Pouch, Small Knife, City Map, Pet Mouse, Parent's Token, Rations ×5, Candles ×10, Oil ×5
-
----
-Race:: Human
-Subrace::
-Class:: Rogue
-Player:: Jonathan
-Pronouns:: he/him
-Affiliation:: [[Adamantine Guild]]
-Location:: [[Crystal City]]
-Deity:: --
-PassivePerception:: 17
-PassiveInsight:: 13
-PassiveInvestigation:: 10
-PassiveStealth:: 16
+- Leather Armor (equipped)
+- Rathan's Symbol of Tymora (equipped magic item)
+- Night Caller (magic whistle -- wondrous, uncommon)
+- Guild Brass Armlet (equipped)
+- Potion of Healing
+- Thieves Tools
+- Quiver + 13 arrows
+- Standard Urchin gear (hooded lantern, tinderbox, rope, oil x5, rations x5, candles, bell, crowbar, waterskin, common clothes, pouch)
 ## Session 19
 
 During downtime, Jonathan followed threads from the [[Garnet District]] to the [[Citrine District]] and easily stopped a pickpocket. At [[The Low Flagon]], he met [[Tavia Orn]], recognized the CLARET symbol, and paid 10 gp for intelligence on [[Layla]] plus 25 gp to arrange a meeting with Tavia's boss. [[The Claret]] will contact Jonathan in the coming weeks.

@@ -105,10 +105,7 @@ None.
 
 ### Skills
 
-Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +6
-
-★ *Expertise (doubled proficiency)*
-
+Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +6
 **Languages:** Common · Elvish
 **Tools:** None
 
@@ -118,48 +115,55 @@ Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Dagger** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
-| **Quarterstaff** | M +1 | 5 ft. | 1d6-1 bludgeon (versatile 1d8-1) | — | — | — |
-| **Unarmed Strike** | M +1 | 5 ft. | 0 bludgeon; or Grapple/Shove (STR/DEX 14) | — | — | — |
-| **Fire Bolt** | R +6 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
-| **Mage Hand** | — | 30 ft. | Spectral hand; move/carry ≤10 lb.; 1 min | Cantrip | V, S | — |
-| **Mending** | — | Touch | 1 min cast; repair one break/tear | Cantrip | V, S, M (lodestones) | — |
-| **Prestidigitation** | — | 10 ft. | Minor magical trick; up to 1 hr | Cantrip | V, S | — |
-| **Command** | WIS 14 | 60 ft. | One-word command; fail obeys next turn | 1st | V | — |
-| **Magic Missile** | — | 120 ft. | 3 darts × 1d4+1 force (auto-hit) | 1st | V, S | — |
-| **Sleep** | WIS 14 | 60 ft. | 5-ft sphere; fail Incap.; fail 2nd save Unconscious; 1 min | 1st | V, S, M (sand) | Conc. |
-| **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn; move 30 ft. with Magic action | 2nd | V, S, M (glass) | Conc. |
-| **Suggestion** | WIS 14 | 30 ft. | Fail Charmed; follows ≤25-word suggestion; 8 hr | 2nd | V, M (honey) | Conc. |
+| **Dagger** *(Nick)* | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
+| **Quarterstaff** *(Topple)* | M +1 | 5 ft. | 1d6-1 bludgeon; vers. 1d8-1 | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon; or Grapple/Shove | — | — | — |
+| **Fire Bolt** | R +6 | 120 ft. | 1d10 fire | Cantrip | V/S | — |
+| **Mage Hand** | — | 30 ft. | Spectral hand; carry 10 lb.; 1 min | Cantrip | V/S | — |
+| **Mending** | — | Touch | 1 min cast; mend one break or tear | Cantrip | V/S/M | — |
+| **Prestidigitation** | — | 10 ft. | Minor magical trick; lasts up to 1 hr | Cantrip | V/S | — |
+| **Command** | WIS 14 | 60 ft. | 1-word command; fail obeys next turn | 1st | V | — |
+| **Detect Magic** | — | Self | Sense magic within 30 ft.; 10 min | 1st | V/S | 1/LR |
+| **Magic Missile** | — | 120 ft. | 3 darts, 1d4+1 force each; auto-hit | 1st | V/S | — |
+| **Sleep** | WIS 14 | 60 ft. | Fail Incap.; 2nd fail Uncon.; 1 min | 1st | V/S/M | Conc. |
+| **Comprehend Languages** | — | Self | Understand spoken/written language; 1 hr | 1st | V/S/M | Ritual |
+| **Identify** | — | Touch | Learn magic item's or spell's properties | 1st | V/S/M† | Ritual |
+| **Unseen Servant** | — | 60 ft. | Invisible servant; simple tasks for 1 hr | 1st | V/S/M | Ritual |
+| **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn | 2nd | V/S/M | Conc. |
+| **Suggestion** | WIS 14 | 30 ft. | Fail Charmed; follows brief suggestion | 2nd | V/M | Conc. |
+
+† Material component has a listed cost and is not consumed.
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
-| **Expeditious Retreat** | — | Self | Dash as BA for duration; 10 min | 1st | V, S | Conc. |
+| **Potion of Healing** | — | Self | 2d4+2 HP; to another creature = Action | — | — | 1 use |
+| **Expeditious Retreat** | — | Self | Dash as BA for duration; 10 min | 1st | V/S | Conc. |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Silvery Barbs** | — | 60 ft. | Trigger: seen creature succeeds atk/check/save; reroll, use lower; grant adv. | 1st | V | — |
-| **Chronal Shift** | — | 30 ft. | Trigger: seen creature makes atk/check/save; force reroll, use new roll | — | — | 2×/LR |
+| **Silvery Barbs** | — | 60 ft. | Reroll success; use lower; ally gains adv. | 1st | V | — |
+| **Chronal Shift** | — | 30 ft. | Force reroll of atk/check/save | — | — | 2×/LR |
 
 ---
 
 ### Features
 
-- **Arcane Recovery** — 1×/day after SR, recover spell slots totalling ≤2 levels (no slot above 5th).
-- **Ritual Adept** — Cast any Wizard ritual in your spellbook without preparing it.
-- **Elminster's Spellbook** — Can read and prepare any spell in the book of a level she can currently cast; cantrip remains locked until unlocked through play. Transcription requires time, quiet, and materials outside the dungeon.
-- **Detect Magic (Elven Lineage)** — Cast Detect Magic 1/LR without a spell slot.
-- **Scholar** — Proficiency in two additional skills.
-- **Skilled** — Proficiency in three additional skills.
-- **Temporal Awareness** — Add INT modifier (+4) to Initiative rolls.
-- **Fey Ancestry** — Advantage on saves vs. Charmed; immune to magical sleep.
-- **Trance** — 4 hours of trance replaces 8 hours sleep for a long rest.
-- **High Elf Lineage** — One extra wizard cantrip; proficiency in longsword, shortsword, shortbow, longbow.
+- **Arcane Recovery** — 1/LR after a short rest, recover spell slots totaling 2 levels.
+- **Ritual Adept** — Can cast Wizard ritual spells from her spellbook without preparing them.
+- **Elminster's Spellbook** — Contains 1st-2nd level spells Lea can read and prepare; *Elminster's Footnote* remains locked until unlocked through play.
+- **Detect Magic (Elven Lineage)** — Cast *Detect Magic* 1/LR without a spell slot.
+- **Temporal Awareness** — Add Intelligence modifier to initiative rolls.
+- **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.
+- **Trance** — Four hours of trance grants the benefits of a long rest.
+- **High Elf Lineage** — Extra wizard cantrip; weapon training in longsword, shortsword, shortbow, and longbow.
 - **Keen Senses** — Proficiency in Perception.
+- **Scholar** — Gain proficiency in two additional skills.
+- **Skilled** — Gain proficiency in three additional skills.
+- **Weapon Mastery Assignments** — Dagger (Nick), Quarterstaff (Topple).
 
 ---
 
@@ -171,31 +175,36 @@ Arcana +8★ · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4
 
 #### Ritual Spells
 
-- *Comprehend Languages* (1st) — 10 min cast — Understand any spoken or written language for 1 hr.
-- *Identify* (1st) — 10 min cast — Learn properties of a magic item or spell affecting a creature.
-- *Unseen Servant* (1st) — 10 min cast — Create an invisible mindless servant for 1 hr.
+- *Comprehend Languages*
+- *Identify*
+- *Unseen Servant*
 
 ---
 
 ### Inventory
 
-**Armor (equipped):** Robe (no armor)
-**Magic Items:** [[Elminster's Spellbook]], Guild Brass Armlet
-**Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Fine Clothes, Pouch, Spellbook, Orzhov Insignia, Chain of Ten Gold Coins, Vestments, Gems ×4
+**Armor:** Robe (no armor)
+**Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet
+**Gear:** Backpack · Book · Fine Clothes · Gems ×4 · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Chain of Ten Gold Coins
+## Session 21
 
----
-Race:: Elf (High Elf)
-Subrace::
-Class:: Wizard
-Player:: Ming
-Pronouns:: she/her
-Affiliation:: [[Adamantine Guild]]
-Location:: [[Crystal City]]
-Deity:: --
-PassivePerception:: 12
-PassiveInsight:: 14
-PassiveInvestigation:: 16
-PassiveStealth:: 11
+Session 21 downtime:
+- Investigation at the Alchemist's Guild with [[Veyris Thantorn]] (Arcana 19)
+- Cosmological data: the Feywild and Negative Plane are echoes; the astral barrier is stuck; tieflings, celestials, and related beings act as through-lines
+- Beholder bone is far-astral and useless for teleportation
+- Wolf bone from [[Arborea]] is not evil; a whole wolf could create a through-line to Arborea
+- Theory: planar items from living magical creatures may break the astral barrier
+- Ledger review: the week before Lea arrived, a huge blood shipment came through and sold out; margin note said creature blood; the city is low on healing potions
+- Learned that an old senile ancient dragon flew out of the northern reaches and died in the land, not in combat
+- Work track: 2 more successes needed for half-proficiency in alchemist's tools
+- Relationship track: no roll
+
+PvP test:
+- Cast *Suggestion* on [[Sadiah Ispahani]]; the Wisdom save failed
+- Silenced by [[Nanuk]]'s quiver arrow
+- Cast *Fireball* hitting [[Nanuk]] and [[Gill Bates]]
+
+Level: 5
 ## Session 19
 
 Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.

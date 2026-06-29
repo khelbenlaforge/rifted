@@ -74,55 +74,120 @@ She was in a shelter in California when the light took her.
 
 | | |
 |---|---|
-| **Level** | 3 |
+| **Level** | 5 |
 | **Class** | Ranger (Fey Wanderer) |
 | **Race** | Aasimar (Small) |
-| **Background** | TBD |
-| **HP (Max)** | TBD |
-| **AC** | TBD |
+| **Background** | Acolyte |
+| **HP (Max)** | 27 |
+| **AC** | 15 |
 | **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
+| **Proficiency Bonus** | +3 |
+| **Vision** | Darkvision 60 ft. |
+
+### Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 15 (+2) | 16 (+3) | 9 (-1) | 12 (+1) | 20 (+5) | 12 (+1) |
+
+### Saving Throws
+
+Strength +5 · Dexterity +6
+
+### Resistances & Vulnerabilities
+
+Necrotic (resistance) · Radiant (resistance)
+
+### Skills
+
+Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 · Persuasion +6 · Religion +4 · Stealth +6
+
+**Languages:** Common · Celestial
+**Tools:** Calligrapher's Supplies
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Unarmed Strike** | M +5 | 5 ft. | 1 bludgeon; grapple/shove (DC 13) | — | — | — |
+| **Scimitar** *(Nick)* | M +6 | 5 ft. | 1d6+3 slash | — | — | — |
+| **Shortsword** | M +6 | 5 ft. | 1d6+3 pierce | — | — | — |
+| **Longbow** *(Slow)* | R +8 | 150/600 ft. | 1d8+3 pierce; target -10 ft. speed | — | — | — |
+| **Charm Person** | WIS 16 | 30 ft. | Humanoid charmed 1 hr; ends if harmed | 1st | V, S | — |
+| **Entangle** | STR 16 | 90 ft. | 20-ft square; Restrained, repeat save; 1 min | 1st | V, S | Conc. |
+| **Goodberry** | — | Touch | Create 10 berries; 1 HP each, 1 day food | 1st | V, S, M (mistletoe) | — |
+| **Gust of Wind** | STR 16 | Self (60-ft line) | Push 15 ft.; line is difficult terrain; 1 min | 2nd | V, S, M (seed) | Conc. |
+| **Alarm** | — | 30 ft. | Ward door/window/20-ft cube; 8 hr alarm | 1st | V, S, M (bell & wire) | Ritual |
+| **Healing Hands** | — | Touch | Restore 3 HP | — | — | 1/LR |
+| **Light** | — | Touch | Object sheds 20/20 light; 1 hr | Cantrip | V, M (firefly or moss) | — |
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Hail of Thorns** | DEX 16 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
+| **Hunter's Mark** | — | 90 ft. | +1d6 force per hit; adv. to track/find; 1 hr | 1st | V | Conc. |
+| **Misty Step** | — | Self | Teleport up to 30 ft. | 2nd | V | — |
+| **Zephyr Strike** | — | Self | No OA; next atk has adv. +1d8 force; 1 min | 1st | V | Conc. |
+| **Celestial Revelation** | CHA 12 | Self | 1 min transform; Wings, Radiance, or Shroud | — | — | 1/LR |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|------|------------|-------|-----------------|-----|-------|----------|
+| **Absorb Elements** | — | Self | Resist trigger dmg; next melee hit +1d6 | 1st | S | — |
+
+---
 
 ### Features
 
-**Aasimar**
-- **Celestial Resistance** — Resistance to Necrotic and Radiant damage.
-- **Darkvision** — 60 ft.
-- **Healing Hands** — Magic action: touch a creature and roll a number of d4s equal to your Proficiency Bonus; target regains that many HP. 1/LR.
-- **Light Bearer** — Know the *Light* cantrip. CHA is the spellcasting ability.
-- **Celestial Revelation** — At character level 3, transform as a Bonus Action 1/LR (choose each time). Lasts 1 minute or dismissed. Once per turn on a hit (attack or spell), deal extra damage equal to PB (type varies by form):
-  - *Heavenly Wings* — Radiant extra damage; gain Fly Speed equal to Speed.
-  - *Inner Radiance* — Radiant extra damage; shed Bright Light 10 ft. / Dim Light 10 ft.; creatures within 10 ft. take PB Radiant at end of each of Terra's turns.
-  - *Necrotic Shroud* — Necrotic extra damage; creatures other than allies within 10 ft. must succeed on a CHA save (DC 8 + CHA mod + PB) or be Frightened until end of Terra's next turn.
-
-**Ranger (Levels 1–3)**
-- **Favored Enemy** — *Hunter's Mark* always prepared; cast without a spell slot 3×/LR.
-- **Spellcasting** — WIS-based. See spell slots below.
-- **Weapon Mastery** — Mastery property with two chosen weapons; swap on Long Rest.
-- **Deft Explorer** — Expertise in one Ranger skill; one additional language.
-- **Fighting Style** — Archery. +2 bonus to attack rolls with ranged weapons.
-
-**Fey Wanderer (Level 3)**
-- **Dreadful Strikes** — On a weapon hit, deal an extra 1d4 Psychic damage. A given target can take this extra damage only once per turn.
-- **Fey Wanderer Spells** — *Charm Person* always prepared. Additional spells unlock at higher levels.
-- **Otherworldly Glamour** — Add WIS modifier (min +1) to all CHA checks. Gain proficiency in Deception, Performance, or Persuasion (player's choice).
-- **Feywild Gift** — TBD (player's choice).
+- **Extra Attack** — Make two attacks when you take the Attack action.
+- **Dreadful Strikes** — Once per turn, a weapon hit deals an extra 1d4 psychic damage.
+- **Otherworldly Glamour** — Add Wisdom modifier to Deception, Intimidation, and Persuasion checks.
+- **Fey Wanderer Spells** — *Charm Person* and *Misty Step* are always prepared.
+- **Favored Enemy** — Advantage on Survival checks to track creatures and Intelligence checks to recall them.
+- **Deft Explorer** — Expertise in Perception; one additional language.
+- **Fighting Style: Archery** — +2 bonus to ranged weapon attack rolls.
+- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, reduce target's Speed by 10 feet until the start of your next turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Scimitar *(Nick)*: make the Light-property extra attack as part of the Attack action instead of as a Bonus Action, once per turn; can swap assignment on Long Rest.
+- **Celestial Resistance** — Resistance to necrotic and radiant damage.
+- **Darkvision** — See in dim light as bright light and darkness as dim light within 60 feet.
+- **Light Bearer** — Know the *Light* cantrip.
+- **Healing Hands** — 1/LR; restore Hit Points equal to your Proficiency Bonus. See Actions table.
+- **Celestial Revelation** — 1/LR transformation. See Bonus Actions table.
 
 ---
 
 ### Spellcasting
 
-**Ability:** Wisdom | **Save DC:** TBD | **Attack Bonus:** TBD
+**Ability:** Wisdom | **Save DC:** 16 | **Attack Bonus:** +8
 
-**Spell Slots:** 1st ×2
+**Spell Slots:** 1st x4 · 2nd x2
 
-*Prepared spells TBD.*
+#### Ritual Spells
+
+- *Alarm* (XPHB, 1st) — 1 min cast — Ward a door, window, or 20-ft cube for 8 hours.
 
 ---
 
-### Items
+### Inventory
 
-- **[[Hollowstone]]** — naturally holed granite stone from Cerro Gordo; Tier 1 (current)
+**Armor (equipped):** Studded Leather
+**Magic Items:** Hollowstone
+**Gear:** Sprig of Mistletoe · Backpack · Bedroll · Calligrapher's Supplies · Quiver · Robe · Rope (50 ft.) · Tinderbox · Waterskin
+
+---
+
+## Session 21
+
+- Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 3rd Nightal)
+- Shared the Calamity vision on arrival: [[Corran]] pressing his hands to the earth as the Spike rose
+- Now in [[Crystal City]], staying at the [[Adamantine Guild]]
+- Pendant glowed with multiple types of magic
+- PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[Nanuk]]
+- Level 5
 
 ---
 
@@ -132,7 +197,7 @@ Class:: Ranger
 Player:: Simar
 Pronouns:: she/her
 Affiliation:: Party
-Location::
+Location:: Crystal City
 Deity::
 PassivePerception::
 PassiveInsight::

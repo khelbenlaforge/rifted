@@ -74,94 +74,79 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 4 |
-| **Class** | Cleric (Arcana Domain) |
-| **Race** | Human |
-| **Background** | Fisher |
-| **HP (Max)** | 35 |
-| **AC** | 17 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
+| Level | 5 |
+| Class | Cleric (Arcana Domain) |
+| Race | Human |
+| Background | Fisher |
+| HP (Max) | 49 |
+| AC | 17 (Chain Shirt + Shield) |
+| Speed | 30 ft |
+| Proficiency Bonus | +3 |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1) | 14 (+2) | 14 (+2) | 12 (+1) | 19 (+4) | 10 (+0) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 8 | -1 |
+| DEX | 14 | +2 |
+| CON | 14 | +2 |
+| INT | 12 | +1 |
+| WIS | 19 | +4 |
+| CHA | 10 | +0 |
 
-### Saving Throws
+**Saving Throws:** STR -1 . DEX +2 . CON +2 . INT +1 . **WIS +7** . **CHA +3**
 
-Wisdom +6 · Charisma +2
+**Resistances and Vulnerabilities:** None.
 
-### Resistances & Vulnerabilities
-
-None.
-
-### Skills
-
-Arcana +7† · History +3 · Insight +6 · Medicine +6 · Religion +7† · Survival +6
-
-† *Arcana and Religion: +7 = INT +1 + Prof +2 + WIS +4 (Divine Order: Thaumaturge)*
-
-**Languages:** Common + one additional language
-**Tools:** Fishing Tackle
+**Skills:** Arcana +8 . History +4 . Insight +7 . Medicine +7 . Religion +8 . Survival +7
+**Languages:** Common + 2 (check file)
+**Tools:** None
 
 ---
 
 ### Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon | — | — | — |
-| **Mace** | M +1 | 5 ft. | 1d6-1 bludgeon | — | — | — |
-| **Net** | R +4 | 5/15 ft. | Restrained on hit (DC 10 STR/DEX to escape) | — | — | 1 use |
-| **Fair Catch** | M/R +2 | 5 ft. / 20/60 ft. | 1d6 pierce; Reel In STR 14 or pull 10 ft. | — | — | — |
-| **Holy Water** | R +4 | 20 ft. | 2d6 radiant vs. fiend/undead | — | — | 1 use |
-| **Turn Undead** | WIS 14 | 30 ft. | Undead turn 1 min; CR ≤ 1/2 destroyed | — | — | 1 CD |
-| **Divine Spark** | CON 14 | 30 ft. | Heal 2d8+4 HP or 2d8+4 necrotic/radiant; save half | — | — | 1 CD |
-| **Arcane Abjuration** | WIS 14 | 30 ft. | Celestial/elemental/fey/fiend turned 1 min; CR ≤ 1/2 destroyed | — | — | 1 CD |
-| **Friends** | WIS 14 | 10 ft. | Target Charmed by you; 1 min | Cantrip | S, M (makeup) | Conc. |
-| **Guidance** | — | Touch | Target adds 1d4 to one ability check; 1 min | Cantrip | V, S | Conc. |
-| **Lightning Lure** | STR 14 | 15 ft. | Pull 10 ft.; 1d8 lightning if within 5 ft. | Cantrip | V | — |
-| **Mind Sliver** | INT 14 | 60 ft. | 1d6 psychic; -1d4 from next save | Cantrip | V | — |
-| **Thaumaturgy** | — | 30 ft. | Minor divine magical effect; up to 1 min | Cantrip | V | — |
-| **Toll the Dead** | WIS 14 | 60 ft. | 1d8 necrotic; 1d12 if target missing HP | Cantrip | V, S | — |
-| **True Strike** | M/R +6 | Self | Weapon atk with WIS; weapon dmg +4 radiant | Cantrip | S, M† | — |
-| **Word of Radiance** | CON 14 | 5-ft eman. | 1d6 radiant to chosen creatures | Cantrip | V, M (sunburst token) | — |
-| **Bless** | — | 30 ft. | 3 targets add 1d4 to atk/saves; 1 min | 1st | V, S, M† | Conc. |
-| **Command** | WIS 14 | 60 ft. | One-word command; target obeys next turn | 1st | V | — |
-| **Fog Cloud** *(MI: Wizard)* | — | 120 ft. | Heavily obscured 20-ft radius fog; 1 hr | 1st | V, S | Conc. · 1/LR |
-| **Magic Missile** *(MI: Wizard)* | — | 120 ft. | 3 darts × 1d4+1 force; auto-hit | 1st | V, S | 1/LR or slot |
-| **Aid** | — | 30 ft. | 3 targets +5 max/current HP; 8 hr | 2nd | V, S, M (cloth) | — |
-| **Blindness/Deafness** | CON 14 | 120 ft. | Target blinded or deafened; repeats save; 1 min | 2nd | V | — |
-| **Borrowed Knowledge** | — | Self | Gain one skill proficiency; 1 hr | 2nd | V, S, M† | — |
-| **Calm Emotions** | CHA 14 | 60 ft. | Suppress charm/fear or hostility; 1 min | 2nd | V, S | Conc. |
-| **Hold Person** | WIS 14 | 60 ft. | Humanoid Paralyzed; repeats save; 1 min | 2nd | V, S, M (iron) | Conc. |
-| **Nystul's Magic Aura** | — | Touch | Disguise aura or creature type; 24 hr | 2nd | V, S, M (silk) | — |
-| **Prayer of Healing** *(10 min)* | — | 30 ft. | Up to 5 creatures regain 2d8+4 HP | 2nd | V | — |
-| **Silence** | — | 120 ft. | 20-ft sphere no sound/verbal spells; 10 min | 2nd | V, S | Conc. · Ritual |
-| **Warding Bond** | — | Touch | +1 AC/saves, resist all dmg; Gill shares dmg; 1 hr | 2nd | V, S, M† | — |
-| **Zone of Truth** | CHA 14 | 60 ft. | 15-ft sphere; creatures can't lie; 10 min | 2nd | V, S | — |
+|---|---|---|---|---|---|---|
+| **Fair Catch** *(Sap)* | M/R +3 | 20/60 | 1d6+0 pierce (versatile 1d8+0) | - | - | - |
+| **Mace** *(Sap)* | M +2 | 5 ft | 1d6-1 bludgeon | - | - | - |
+| **Net** | R +2 | 5/15 ft | Large or smaller restrained; STR DC 10 to escape | - | - | - |
+| **Unarmed Strike** | M +2 | 5 ft | 1 bludgeon (min 1) | - | - | - |
+| **Friends** | - | 10 ft | Target charmed 1 min (conc.); hostile after | Cntrp | S M | Conc. |
+| **Guidance** | - | Touch | Ally adds 1d4 to one ability check within 1 min | Cntrp | V S | Conc. |
+| **Lightning Lure** | STR DC 15 | 15 ft | Pulled 10 ft; 1d8 lightning if pulled into range | Cntrp | V | - |
+| **Mind Sliver** | INT DC 15 | 60 ft | 1d6 psychic + -1d4 on next save before your next turn | Cntrp | V | - |
+| **Thaumaturgy** | - | 30 ft | Minor magical effect for 1 min | Cntrp | V | - |
+| **Toll the Dead** | WIS DC 15 | 60 ft | 1d8 necrotic (1d12 if target missing HP) | Cntrp | V S | - |
+| **True Strike** | - | Melee | 1d6+4 force (WIS mod; uses weapon) | Cntrp | S M | - |
+| **Word of Radiance** | CON DC 15 | 5 ft radius | 1d6 radiant per adjacent creature | Cntrp | V M | - |
+| **Command** | WIS DC 15 | 60 ft | Obey one-word command for 1 turn | L1 | V | - |
+| **Guiding Bolt** | M/R +7 | 120 ft | 4d6 radiant; next atk vs target has adv. | L1 | V S | - |
+| **Fog Cloud** *(1/LR free)* | - | 120 ft | 20 ft sphere heavily obscured, conc. 1 hr | L1 | V S | 1/LR |
+| **Magic Missile** *(1/LR free)* | - | 120 ft | 3 darts x 1d4+1 force, auto-hit | L1 | V S | 1/LR |
+| **Augury** | - | Self | Divine omen for action within 30 min | L2 | V S M | Ritual |
+| **Nystul's Magic Aura** | - | Touch | Mask magical aura for 24 hrs | L2 | V S M | - |
+| **Dispel Magic** | - | 120 ft | End one spell (auto L3 or lower; roll for higher) | L3 | V S | - |
+| **Magic Circle** | - | 10 ft cylinder | Barrier vs extraplanar creatures for 1 hr | L3 | V S M | - |
+| **Revivify** | - | Touch | Revive creature dead 1 min or less with 1 HP | L3 | V S M | - |
+| **Water Walk** | - | 30 ft | Up to 10 creatures walk on liquid for 1 hr | L3 | V S M | Ritual |
+| **Turn Undead** *(CD)* | WIS DC 15 | 30 ft | Undead flee 1 min; turned undead take 1 radiant (min 1) | - | V S | 2/SR |
+| **Divine Spark** *(CD)* | CON DC 15 | 30 ft | Heal 2d8+4 OR deal 2d8+4 radiant/necrotic (save for half) | - | V S | 2/SR |
+| **Arcane Abjuration** *(CD)* | WIS DC 15 | 30 ft | Aberr/Celest/Elem/Fey/Fiend/Undead CR 1/2 or less banished 1 min; CR 1/2-3 turned | - | V S | 2/SR |
 
-*† True Strike: M = proficient weapon worth 1+ CP*
-*† Bless: M = Holy Symbol worth 5+ GP*
-*† Borrowed Knowledge: M = book worth at least 25 gp*
-*† Warding Bond: M = pair of platinum rings worth 50+ gp each, worn by both*
+*Augury, Magic Circle, and Revivify require costly material components. True Strike uses a weapon you are proficient with.*
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
-| **Potion of Fire Resistance (×2)** | — | Self | Fire resistance 1 hr (administer: Action) | — | — | 1 use |
-| **Healing Word** | — | 60 ft. | Target regains 2d4+4 HP | 1st | V | — |
-| **Sanctuary** | WIS 14 | 30 ft. | Attackers save or choose new target; 1 min | 1st | V, S, M (mirror shard) | — |
-| **Shield of Faith** | — | 60 ft. | +2 AC; 10 min | 1st | V, S, M (prayer scroll) | Conc. |
-| **Lesser Restoration** | — | Touch | End Blinded, Deafened, Paralyzed, Poisoned, or disease | 2nd | V, S | — |
-| **Magic Weapon** | — | Touch | Nonmagical weapon becomes +1 magic; 1 hr | 2nd | V, S | — |
-| **Spiritual Weapon** | M +6 | 60 ft. | 1d8+4 force; BA move 20 ft. + atk; 1 min | 2nd | V, S | Conc. |
+|---|---|---|---|---|---|---|
+| **Healing Word** | - | 60 ft | 1d4+4 heal (upcast: +1d4 per slot level above L1) | L1 | V | - |
+| **Sanctuary** | WIS DC 15 | 30 ft | Attackers must pass save or choose new target until your next turn or you attack/cast | L1 | V S M | - |
+| **Shield of Faith** | - | 60 ft | +2 AC to one creature, conc. 10 min | L1 | V S M | Conc. |
+| **Magic Weapon** | - | Touch | Weapon becomes +1 magical for 1 hr | L2 | V S | - |
+| **Mass Healing Word** | - | 60 ft | Up to 6 creatures each heal 2d4+4 | L3 | V | - |
 
 ### Reactions
 
@@ -171,53 +156,57 @@ Arcana +7† · History +3 · Insight +6 · Medicine +6 · Religion +7† · Sur
 
 ### Features
 
-- **Divine Order: Thaumaturge** — Proficiency in Arcana and Religion; add WIS modifier to both (included above).
-- **Arcane Initiate** — Two wizard cantrips count as cleric cantrips; current picks: Lightning Lure, True Strike.
-- **Arcana Domain Spells** — Magic Missile and Magic Weapon are always prepared and don't count against prepared spells.
-- **Channel Divinity** — 2/SR. Options: Turn Undead, Divine Spark, Arcane Abjuration (see Actions table).
-- **Magic Initiate: Wizard** — Fog Cloud 1/LR and Magic Missile 1/LR; Magic Missile can also use spell slots.
-- **Fair Catch** — +1 returning spear. Returns to Gill's hand at the start of his next turn after being thrown.
-- **Fair Catch: Reel In** — 1/turn on hit, target makes STR 14 save or is pulled 10 ft. toward Gill.
-- **Fair Catch: Sune's Grace** — If target fails its Reel In save, it has disadv. on its next attack against Gill before Gill's next turn.
-- **Fair Catch: Adon's Murmur** — 1/LR, when Gill rolls a 1 on an attack roll with Fair Catch, reroll and use the new result.
-- **Tough** — +2 HP per level (included in HP 35).
-- **Human: Resourceful** — Gain Heroic Inspiration after each Long Rest.
-- **Human: Skillful** — Proficiency in one additional skill.
-- **Human: Versatile** — One Origin Feat at character creation.
+- **Divine Order: Thaumaturge** -- proficiency in Arcana and Religion; add WIS to those checks; know one wizard cantrip and cast one L1 wizard spell 1/LR without a slot (Magic Initiate: Wizard)
+- **Channel Divinity (2/SR):** Turn Undead, Divine Spark, Arcane Abjuration
+- **Sear Undead:** when you Turn Undead, turned undead take CHA mod (min 1) radiant damage
+- **Magic Initiate: Wizard (feat):** Fog Cloud + Magic Missile each 1/LR free (no slot required); cantrips always available
+- **Tough (feat):** +2 HP per level (already factored into HP 49)
+- **Weapon Mastery (2 assignments -- swap on LR):** Fair Catch/Spear *(Sap)* and Mace *(Sap)*: on hit, target has disadvantage on its next attack roll until the start of your next turn
+- **Fair Catch -- Reel In:** on hit with Fair Catch, target makes STR DC 15 or is pulled 10 ft toward you; on failed save, target also has disadvantage on its next attack against you (Sune's Grace)
+- **Fair Catch -- Adon's Murmur (1/LR):** when you roll 1 on an attack roll with Fair Catch, reroll and use the new result
 
 ---
 
 ### Spellcasting
 
-**Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
+**Ability:** WIS . **DC:** 15 . **Attack Bonus:** +7
 
-**Spell Slots:** 1st ×4 · 2nd ×3
+| Slot Level | Slots |
+|---|---|
+| 1st | 4 |
+| 2nd | 3 |
+| 3rd | 2 |
 
-#### Ritual Spells
-
-- *Silence* (2nd) — 10 min cast — No sound in a 20-ft sphere; verbal spells impossible within.
+**Ritual Spells:** Augury (L2), Water Walk (L3)
 
 ---
 
 ### Inventory
 
-**Armor (equipped):** Chain Shirt, Shield
-**Magic Items:** Fair Catch (attuned), Guild Brass Armlet (unattuned)
-**Gear:** Holy Symbol, Backpack, Blanket, Lamp, Tinderbox, Rations ×7, Fishing Tackle, Favorite Fishing Lure, Robe, Traveler's Clothes, Pouch
+- Chain Shirt + Shield (equipped)
+- 2x Potion of Healing
+- 2x Potion of Fire Resistance
+- Guild Brass Armlet (magic item -- guild membership token)
+- Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch)
+## Session 21
 
----
-Race:: Human
-Subrace::
-Class:: Cleric
-Player:: Chian
-Pronouns:: he/him
-Affiliation:: [[Adamantine Guild]]
-Location:: [[Crystal City]]
-Deity:: [[Istishia]]
-PassivePerception:: 14
-PassiveInsight:: 16
-PassiveInvestigation:: 11
-PassiveStealth:: 12
+Session 21 downtime:
+- Fishing work: earned +12 gp; captain noted Gill seemed distracted; brought the catch to the [[Temple of Istishia]]
+- Relationship track: served sashimi to mentor [[Tidecaller Marin Deepcurrent]]
+- Learned four levels of Temple of [[Istishia]] water mastery:
+1. Sacred Sea: acceptance, letting things flow without controlling
+2. Paths of Water: directing flow to a specific place
+3. Storm: chaos in water
+4. Eternal Transformation
+- To begin the Sacred Sea path: spend 2 downtime tracks next session in meditation; may be bumped if he rolls well
+- Mentor note: elemental gods work closely with gods of justice; the [[Kelemvor Lyonsbane|Kelemvor]] and [[The Gravelords|Gravelords]] relationship is worth maintaining
+
+PvP test:
+- Cast *Magic Missile*
+- Healed [[Nanuk]] for 9 HP with *Healing Word*
+- Brought down by Nanuk after healing him
+
+Level: 5
 ## Session 19
 
 Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
