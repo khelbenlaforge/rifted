@@ -84,118 +84,121 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **[[Kelemvor Lyonsbane|Kelemvor]]** -- The mercenary fighter whose body Augie inhabited across two sessions of the prequel vision. Through him, Augie learned something Kelemvor had never fully understood: that service to a cause, under lawful orders, is distinct from selfless personal sacrifice in the eyes of the curse. Kelemvor filed it away. So did Augie
 
 ## Character Sheet
-
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 4 |
-| **Class** | Paladin (Oath of Glory) |
-| **Race** | Warforged |
-| **Background** | Guard |
-| **HP (Max)** | 35 |
-| **AC** | 20 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
+| Level | 5 |
+| Class | Paladin (Oath of Glory) |
+| Race | Warforged |
+| Background | Guard |
+| HP (Max) | 43 |
+| AC | 20 (Chain Mail + Shield + Defense + Warforged Integrated Protection) |
+| Speed | 30 ft |
+| Proficiency Bonus | +3 |
 
-### Ability Scores
+---
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 18 | +4 |
+| DEX | 8 | -1 |
+| CON | 14 | +2 |
+| INT | 12 | +1 |
+| WIS | 14 | +2 |
+| CHA | 18 | +4 |
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 8 (-1) | 14 (+2) | 12 (+1) | 14 (+2) | 18 (+4) |
+**Saving Throws:** STR +4, DEX -1, CON +2, INT +1, **WIS +5**, **CHA +7**
 
-### Saving Throws
+**Resistances & Vulnerabilities:** None.
 
-Wisdom +4 · Charisma +6
-
-### Resistances & Vulnerabilities
-
-Poison (resistance)
-
-### Skills
-
-Athletics +6 · Insight +4 · Intimidation +8★ · Perception +4 · Persuasion +6
-
-★ *Expertise (doubled proficiency)*
-
-**Languages:** Common · one language (Guard background)
+**Skills:** Athletics +7, Insight +5, Intimidation +10 *(expertise)*, Perception +5, Persuasion +7
+**Languages:** Common, one language (Guard background)
 **Tools:** Gaming Set
 
 ---
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|---|---|---|---|---|---|---|
+| **Longsword** *(Sap)* | M +7 | 5 ft | 1d8+4 slash (1d10+4 versatile); on hit, target disadv. on their next atk roll before your next turn | -- | -- | -- |
+| **Spear** *(Sap)* | M/R +7 | 20/60 ft | 1d6+4 pierce (1d8+4 versatile); on hit, target disadv. on their next atk roll before your next turn | -- | -- | -- |
+| **Javelin** *(Slow)* | M/R +7 | 30/120 ft | 1d6+4 pierce; on hit, target speed -10 ft until your next turn starts | -- | -- | -- |
+| **Toothpick** *(Sap)* | M +5 | 5 ft | 1d8+3 slash (1d10+3 versatile); on hit, target disadv. on their next atk roll | -- | -- | -- |
+| **Light Crossbow** *(Slow)* | R +2 | 80/320 ft | 1d8-1 pierce; on hit, target speed -10 ft until your next turn starts | -- | -- | -- |
+| Unarmed Strike (Warforged) | M +7 | 5 ft | 1d4+4 bludgeon | -- | -- | -- |
+| Holy Water (flask) | -- | 5 ft | 2d8 radiant vs undead/fiends (Action to splash) | -- | -- | -- |
+| **Command** | WIS DC 15 | 60 ft | One creature obeys one-word command (flee, grovel, halt, etc.) | 1 | V | -- |
+| **Cure Wounds** | -- | Touch | Heal 2d8+4 HP (L1; +1d8/slot above L1) | 1 | V S | -- |
+| **Find Steed** | -- | 30 ft | Summon celestial/fey/fiend steed | 2 | V S | -- |
+| **Guiding Bolt** *(Oath)* | R +7 | 120 ft | 4d6 radiant; next atk vs target has adv. | 1 | V S | -- |
+| **Heroism** *(Oath)* | -- | Touch | +4 temp HP at start of each turn; immune to Frightened | 1 | V S | Conc. |
+| **Enhance Ability** *(Oath)* | -- | Touch | Advantage on one ability checks + bonus effect for 1 hr | 2 | V S M | Conc. |
+| **Protection from Evil and Good** | -- | Touch | Protect creature from specified types for 10 min | 1 | V S M+ | Conc. |
+| **Divine Sense** | -- | 60 ft | Sense celestials/fiends/undead within 60 ft until end of next turn | -- | -- | 5/LR |
 
-### Actions
+*M+ = Holy Water 25+ gp consumed*
+
+**Bonus Actions**
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +6 | 5 ft. | 5 bludgeon; or Grapple/Shove (STR/DEX 14) | — | — | — |
-| **Longsword** *(Sap)* | M +6 | 5 ft. | 1d8+4 slash (versatile 1d10+4) | — | — | — |
-| **Toothpick** *(Sap)* | M +5 | 5 ft. | 1d8+3 slash (versatile 1d10+3) | — | — | — |
-| **Javelin ×6** *(Slow)* | M/R +6 | 5 ft. / 30/120 ft. | 1d6+4 pierce | — | — | — |
-| **Spear ×2** | M/R +6 | 5 ft. / 20/60 ft. | 1d6+4 pierce (versatile 1d8+4) | — | — | — |
-| **Light Crossbow** | R +1 | 80/320 ft. | 1d8-1 pierce | — | — | — |
-| **Holy Water** | R +4 | 20/40 ft. | 2d6 radiant (fiends/undead only) | — | — | 1 use |
-| **Lay on Hands** | — | Touch | Restore HP from pool; cure disease/poison (5 HP) | — | — | Pool 20/LR |
-| **Divine Sense** | — | Self (60 ft.) | Locate celestials, fiends, undead | — | — | 5×/LR |
-| **Peerless Athlete** | — | Self | Adv. Athletics/Acrobatics; carry ×2; +10 ft. jump; 10 min | — | — | Channel 2/SR |
-| **Command** | WIS 14 | 60 ft. | One-word command; fail obeys next turn | 1st | V | — |
-| **Cure Wounds** | — | Touch | 2d8+4 HP (+2d8/slot above 1st) | 1st | V, S | — |
-| **Guiding Bolt** | R +6 | 120 ft. | 4d6 radiant; next atk vs. target has adv. | 1st | V, S | — |
-| **Heroism** | — | Touch | Immune Frightened; +4 temp HP/turn; 1 min | 1st | V, S | — |
-| **Protection from Evil and Good** | — | Touch | Protection vs. aligned creature types; 10 min | 1st | V, S, M† | Conc. |
+|---|---|---|---|---|---|---|
+| **Divine Smite** | -- | Self | After hitting with weapon: +2d8 radiant (L1); +1d8/slot above L1; +1d8 vs undead/fiends | 1+ | V | -- |
+| **Divine Favor** | -- | Self | Weapon attacks deal +1d4 radiant for 1 min | 1 | V S | -- |
+| **Magic Weapon** *(Oath)* | -- | Touch | Weapon becomes magical +1 (L2); no concentration | 2 | V S | -- |
+| **Shield of Faith** | -- | 60 ft | Target gains +2 AC for 10 min | 1 | V S M | Conc. |
+| **Shining Smite** | -- | Self | Next weapon hit: +2d8 radiant; target sheds 5-ft bright, disadv. Hide; CON save each turn to end | 2 | V | Conc. |
+| **Peerless Athlete** *(Channel Divinity)* | -- | Self | 1 hr: adv. Athletics/Acrobatics; carry/push/drag x2; jump x2 | -- | -- | 2/LR |
+| **Activate Brand** | -- | Self | Speed +10 ft, Keen Smell, +1d8 slash on melee hits; no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest; deactivates on kill (2 charges/LR) | -- | -- | 2/LR |
+| **Brand: Bite** *(Pounce only)* | M +7 | 5 ft | 1d6+4 pierce -- after Pounce hits and target is prone | -- | -- | -- |
+| Lay on Hands -- Cure | -- | Touch | Spend 5 HP from pool to cure one disease or poison | -- | -- | Pool |
+| Potion of Healing (self) | -- | Self | Restore 2d4+2 HP | -- | -- | -- |
 
-*† Protection from Evil and Good: M = holy water worth 25+ gp (consumed)*
-
-### Bonus Actions
+**Reactions**
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
-| **Kelemvor's Brand** | WIS 12 | Self | Awaken brand: +10 ft. spd, melee +1d6 slash; start turn save or atk nearest enemy; ends on kill | — | — | 1/LR |
-| **Toothpick Rage** | — | Self | Enter Rage; roll d6, on 1 rage fails | — | — | 1/LR |
-| **Divine Smite** | — | Self | After melee hit: +2d8 radiant (+1d8/slot; +1d8 vs. undead/fiend) | 1st+ | V | — |
-| **Inspiring Smite** | — | 30 ft. | After Divine Smite, distribute 2d8+4 temp HP | — | — | Channel 2/SR |
-| **Divine Favor** | — | Self | Weapon atks +1d4 radiant; 1 min | 1st | V, S | — |
-| **Shield of Faith** | — | 60 ft. | +2 AC; 10 min | 1st | V, S, M (prayer scroll) | Conc. |
-
-### Reactions
-
-*None at this level.*
+|---|---|---|---|---|---|---|
+| **Inspiring Smite** *(no action -- after Divine Smite)* | -- | 30 ft | Distribute 2d8 temp HP among yourself and creatures within 30 ft | -- | -- | 2/LR |
 
 ---
 
-### Features
+**Features**
 
-- **Weapon Mastery** — Apply mastery to 2 weapons. Current: Longsword *(Sap)* and Javelin *(Slow)*; can swap assignments on Long Rest.
-- **Weapon Mastery** — Longsword/Toothpick *(Sap)*: on hit, target has disadv. on its next attack roll before the start of your next turn.
-- **Weapon Mastery** — Javelin *(Slow)*: on hit and damage, reduce target Speed by 10 ft. until the start of your next turn; reduction doesn't stack beyond 10 ft.
-- **Oath of Glory Spells** — Guiding Bolt and Heroism always prepared; don't count against prepared total.
-- **Channel Divinity** — 2/SR shared by Peerless Athlete and Inspiring Smite.
-- **Paladin's Smite** — Once per turn when you hit with a melee weapon or Unarmed Strike, expend a spell slot for Divine Smite damage.
-- **Kelemvor's Brand** — Tier 1, 1 extinction charge/LR. While active: +10 ft. Speed, adv. Perception relying on scent/hearing, melee attacks +1d6 slash, cannot cast 2nd+ level spells, disadv. Persuasion. At start of each turn, WIS 12 or attack nearest visible enemy. Deactivates when you reduce a creature to 0 HP; Speed becomes 0 until end of next turn.
-- **Constructed Resilience** — Resistance to poison; adv. vs. Poisoned; no need to eat/drink/breathe; immune to disease; no resting exhaustion penalty.
-- **Sentry's Rest** — 6 hours inactive = long rest; remain semiconscious and aware.
-- **Integrated Protection** — +1 AC built in; always considered armored (included in AC 20).
-- **Specialized Design** — Proficiency in 1 extra skill and 1 tool.
-- **Fighting Style: Defense** — +1 AC while armored (included in AC 20).
-- **Lay on Hands Pool** — 20 HP/LR. Each use: restore any amount from pool, or expend 5 HP to cure 1 disease or neutralize 1 poison.
+- **Extra Attack:** Make 2 attacks when you take the Attack action.
+- **Fighting Style: Defense:** +1 AC while wearing armor (included in AC 20).
+- **Alert:** +5 Initiative. Cannot be surprised. Hidden creatures do not gain adv. on attacks against you.
+- **Lay on Hands (pool: 25 HP/LR):** Action -- restore HP from pool to a touched creature. Or spend 5 HP to cure disease/poison.
+- **Divine Sense (5/LR):** Action -- sense celestials, fiends, undead within 60 ft until end of next turn.
+- **Divine Health:** Immune to disease.
+- **Channel Divinity (2/LR):** *Inspiring Smite* (immediately after Divine Smite, distribute 2d8 temp HP to self + creatures in 30 ft; no action) or *Peerless Athlete* (BA; 1 hr adv. Athletics/Acrobatics, carry x2, jump x2).
+- **Oath of Glory Always-Prepared:** Guiding Bolt, Heroism (L1); Enhance Ability, Magic Weapon (L2) -- always prepared.
+- **Weapon Mastery:** Longsword/Spear/Toothpick *(Sap):* on hit, target disadv. on its next atk roll. Javelin/Light Crossbow *(Slow):* on hit, target speed -10 ft.
+- **Kelemvor's Brand (Tier 2 -- Pounce):** BA (2 extinction charges/LR). Active: Speed +10, Keen Smell, Claw Strike (+1d8 slash); no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest. Pounce: 20+ ft straight + melee hit = target STR DC 15 or prone; BA Bite (1d6+4 pierce). Extinction: deactivates on kill (1 charge); Backlash: disadv. all atk rolls and saves until end of next turn.
+- **Warforged Integrated Protection:** AC includes armor + shield + fighting style. Unarmed Strikes: 1d4+4 bludgeoning.
 
 ---
 
-### Spellcasting
+**Spellcasting**
 
-**Ability:** Charisma | **Save DC:** 14 | **Attack Bonus:** +6
+**Ability:** CHA | **Save DC:** 15 | **Attack Bonus:** +7
 
-**Spell Slots:** 1st ×3
+| Level | Slots Total | Slots Used |
+|---|---|---|
+| 1st | 4 | -- |
+| 2nd | 2 | -- |
 
-#### Ritual Spells
+**Prepared Spells:** Command, Cure Wounds, Divine Favor, Divine Smite, Guiding Bolt*, Heroism*, Protection from Evil and Good, Shield of Faith (L1); Enhance Ability*, Find Steed, Magic Weapon*, Shining Smite (L2)
+*Always prepared (Oath of Glory) -- does not count against prepared limit.*
 
+**Ritual Spells**
 *None.*
 
 ---
 
-### Inventory
+**Inventory**
 
-**Armor (equipped):** Chain Mail, Shield
-**Magic Items:** [[Kelemvor's Brand]] *(bound)*, [[Toothpick]] *(requires attunement)*, Guild Brass Armlet *(equipped, unattuned)*
-**Gear:** Holy Symbol, Backpack, Blanket, Lamp, Hooded Lantern, Tinderbox, Manacles, Quiver, Crossbow Bolts ×20, Robe, Traveler's Clothes, Gaming Set, Rations ×7, Rat Rations ×2, Mysterious Potion
+**Armor:** Chain Mail + Shield (equipped)
+
+**Magic Items:**
+- Kelemvor's Brand (tattoo -- always active, not removable)
+- Guild Brass Armlet
+
+**Gear:** Toothpick (see Actions) · Potion of Healing · Mysterious Potion · Holy Water · Rat Rations x2 · Rations x7 · Javelin x6 · Bolts x20 · Backpack · Lamp · Tinderbox · Robe · Traveler's Clothes · Manacles · Hooded Lantern
 
 ---
 Race:: Warforged

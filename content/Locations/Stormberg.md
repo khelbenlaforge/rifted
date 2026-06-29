@@ -29,6 +29,11 @@ Status:: Active
 
 A northern port settlement on the [[Corranor]] mainland, buffeted by brisk coastal winds and unpredictable weather. [[Stormberg]] serves as a maritime hub for trade and travel, its docks hosting merchants and sailors who navigate the waters between [[Corranor]]'s scattered landmasses. Local tales and warnings about the island's wilds circulate freely among its residents.
 
+- Confirmed regional city north of [[Crystal City]]
+- [[Azure Tamers]] operate in the region
+- Mines the northern region's resources as its primary regional role
+- Mentioned alongside [[Colford]] in the Session 21 geographic survey
+
 ## Notable Residents
 
 - **[[Devran]]** — A dwarf who resides here; brother of the [[Dwarven Bartender]] in [[Crystal City]]'s [[Garnet District]]

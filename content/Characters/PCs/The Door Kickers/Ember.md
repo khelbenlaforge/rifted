@@ -88,7 +88,7 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 7 (−2) | 16 (+3) | 12 (+1) | 12 (+1) | 19 (+4) | 11 (+0) |
+| 7 (-2) | 16 (+3) | 12 (+1) | 12 (+1) | 19 (+4) | 11 (+0) |
 
 ### Saving Throws
 
@@ -102,7 +102,7 @@ Fire (resistance)
 
 Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
-**Languages:** Common · Infernal · Druidic
+**Languages:** Common · Druidic · Infernal
 **Tools:** Cartographer's Tools · Herbalism Kit
 
 ---
@@ -111,25 +111,24 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +0 | 5 ft. | 1 bludgeon; or grapple/shove (escape DC 10) | — | — | — |
-| **Sickle** | M +0 | 5 ft. | 1d4−2 slash | — | — | — |
+| **Unarmed Strike** | M +0 | 5 ft. | 1 bludgeon; grapple/shove (DC 10) | — | — | — |
+| **Sickle** | M +0 | 5 ft. | 1d4-2 slash | — | — | — |
 | **Shortbow** | R +5 | 80/320 ft. | 1d6+3 pierce | — | — | — |
-| **Blight's Call** | WIS 15 | 60 ft. | Blights/undead frightened on fail; user rolls curse | — | — | 1/day |
-| **Wild Shape** | — | Self | Transform into CR ≤1 beast (Action) | — | — | 2×/SR |
+| **Blight's Call** | WIS 15 | 60 ft. | Blights/undead frightened; user saves vs. curse | — | — | 1/day |
 | **Druidcraft** | — | 30 ft. | Minor nature effects (weather, plants, sounds, fire) | Cantrip | V, S | — |
 | **Guidance** | — | Touch | Target +1d4 to one ability check; 1 min | Cantrip | V, S | Conc. |
 | **Primal Savagery** | M +6 | 5 ft. | 1d10 acid | Cantrip | S | — |
 | **Spare the Dying** | — | 15 ft. | Stabilize creature with 0 HP | Cantrip | V, S | — |
-| **Starry Wisp** | R +6 | 60 ft. | 1d8 radiant; target has disadv. on Conc. saves; 1 rnd | Cantrip | V, S | — |
+| **Starry Wisp** | R +6 | 60 ft. | 1d8 radiant; target glows, no Invisible | Cantrip | V, S | — |
 | **Thorn Whip** | M +6 | 30 ft. | 1d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
 | **Cure Wounds** | — | Touch | 2d8+4 HP | 1st | V, S | — |
-| **Faerie Fire** | DEX 14 | 60 ft. | Outline creatures in 20-ft cube; attacks vs. them have adv.; 1 min | 1st | V | Conc. |
+| **Faerie Fire** | DEX 14 | 60 ft. | 20-ft cube; outlined, no Invis., atk adv.; 1 min | 1st | V | Conc. |
 | **Speak with Animals** | — | Self | Speak with beasts; 10 min | 1st | V, S | Ritual |
-| **Find Familiar** | — | 10 ft. | 30 min ritual via Wild Companion; summon familiar | 1st | V, S, M† | Ritual |
+| **Find Familiar** | — | 10 ft. | 1 hr ritual via Wild Companion; summon familiar | 1st | V, S, M† | Ritual |
 | **Thunderwave** | CON 14 | Self (15-ft cube) | 2d8 thunder + push 10 ft. on fail | 1st | V, S | — |
-| **Enlarge/Reduce** | CON 14 | 30 ft. | Target grows (adv. STR, +1d4 dmg) or shrinks (disadv. STR, −1d4 dmg); 1 min | 2nd | V, S, M (iron) | Conc. |
-| **Moonbeam** | CON 14 | 120 ft. | 2d10 radiant in 5-ft cylinder; move as Action; 1 min | 2nd | V, S, M (moonseed) | Conc. |
-| **Pass without Trace** | — | Self (30 ft.) | +10 Stealth, no tracks; 1 hr | 2nd | V, S, M (ashes) | Conc. |
+| **Enlarge/Reduce** | CON 14 | 30 ft. | Grow/shrink target; +/-1d4 dmg; 1 min | 2nd | V, S, M (iron) | Conc. |
+| **Moonbeam** | CON 14 | 120 ft. | 2d10 radiant; move beam as Action; 1 min | 2nd | V, S, M (moonseed) | Conc. |
+| **Pass without Trace** | — | Self (30-ft em.) | +10 Stealth, no tracks; 1 hr | 2nd | V, S, M (ashes) | Conc. |
 | **Summon Beast** | — | 90 ft. | Summon beast spirit; 1 hr | 2nd | V, S, M† | Conc. |
 
 *† Find Familiar: M = burning incense worth 10+ gp (consumed)*
@@ -139,10 +138,11 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Potion of Healing (×2)** | — | Self | 2d4+2 HP (administer to another: Action) | — | — | 1 use |
+| **Potion of Healing (x2)** | — | Self | 2d4+2 HP (admin. to another: Action) | — | — | 1 use |
 | **Summon/Dismiss Vesper** | — | Adjacent | Summon wolf companion or dismiss to amulet | — | — | — |
+| **Wild Shape** | — | Self | Moon Druid beast form (CR 1 max) | — | — | 2x/SR |
 | **Healing Word** | — | 60 ft. | 2d4+4 HP | 1st | V | — |
-| **Jump** | — | Touch | Triple jump distance; 1 min | 1st | V, S, M (grasshopper leg) | — |
+| **Jump** | — | Touch | Jump 30 ft. by spending 10 ft. move; 1 min | 1st | V, S, M (grasshopper leg) | — |
 | **Flame Blade** | M +6 | 5 ft. | 3d6 fire; re-summon as BA; 10 min | 2nd | V, S, M (sumac) | Conc. |
 
 ### Reactions
@@ -153,9 +153,9 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 ### Features
 
-- **Wild Shape** — 2×/SR; transform into beast CR 1 or lower as an Action. See action table.
-- **Circle Forms** — Moon Druid Wild Shape can use CR 1 beast forms at this level.
-- **Wild Companion** — Expend a Wild Shape charge to cast *Find Familiar* as a 30-minute ritual with no spell slot.
+- **Wild Shape** — 2x/SR; Bonus Action to assume a beast form of CR 1 or lower.
+- **Circle Forms** — Moon Druid Wild Shape uses CR 1 beast forms at this level.
+- **Wild Companion** — Expend a Wild Shape use to cast *Find Familiar* as a ritual with no spell slot.
 - **Druidic** — Secret language known only to druids.
 - **Winged Tiefling** — Fly speed 30 ft.; Darkvision 60 ft.; Fire resistance. Does not grant Infernal Legacy spells.
 - **War Caster** — Advantage on CON saves to maintain concentration; somatic components with hands full; can cast a spell as an opportunity attack.
@@ -168,20 +168,20 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 
 **Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st ×4 · 2nd ×3
+**Spell Slots:** 1st x4 · 2nd x3
 
 #### Ritual Spells
 
 - *Speak with Animals* (XPHB, 1st) — Action cast — Speak with beasts for 10 min.
-- *Find Familiar* (XPHB, 1st) — 30 min cast via Wild Companion — Summon a familiar; costs one Wild Shape use.
+- *Find Familiar* (XPHB, 1st) — 1 hr cast via Wild Companion — Summon a familiar; costs one Wild Shape use.
 
 ---
 
 ### Inventory
 
-**Armor (equipped):** Leather Armor, Shield
-**Magic Items (equipped):** Blight's Call, Vesper's Amulet
-**Gear:** Druidic Focus, Quiver, Arrows ×20, Backpack, Bedroll, Rope, Tinderbox, Waterskin, Tent, Traveler's Clothes, Rations ×10, Torches ×10, Oil ×2, Spell Scroll (1st) ×2
+**Armor (equipped):** Leather Armor · Shield
+**Magic Items (equipped):** Blight's Call · Vesper's Amulet
+**Gear:** Druidic Focus · Backpack · Bedroll · Rope · Tent · Tinderbox · Traveler's Clothes · Waterskin
 
 ---
 Race:: Tiefling

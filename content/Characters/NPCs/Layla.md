@@ -85,4 +85,15 @@ Location:: Unknown
 Affiliation:: [[Corranor Council]]
 Deity:: [[Asmodeus]]
 
+## Session 21 Update
+
+- Confirmed operating a second runic circle near [[Corran's Spike]], independent of the [[Jade Spire]] circle and not authorized by [[Garm]]
+- Chalk grids extended 20 feet from the circle; Layla was studying the site rather than merely maintaining it
+- Said "This time, three" when the newcomers arrived; she appeared to be counting and expecting exactly three arrivals
+- Had exactly three brass [[Adamantine Guild]] bracers pre-loaded before the circle opened
+- Knows the [[The Claret|Claret]] code phrase, "four litres of blood to sell"; connection to the Claret runs further than previously confirmed
+- [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
+- Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
+- Location as of approximately 3rd Nightal: outside [[Crystal City]], near [[Corran's Spike]]
+
 
