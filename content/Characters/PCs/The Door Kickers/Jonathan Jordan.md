@@ -139,7 +139,9 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
 | **Uncanny Dodge** | - | Self | Halve damage from one attack that hits you (attacker must be visible) | - | - | - |
-| **Coin's Edge** *(Symbol)* | - | Self | When you miss an attack, reroll it; must use the new result | - | - | 1/SR |
+| **Coin's Edge** *(Symbol)* | - | Self | When a hit against JJ exactly matches his AC, use Reaction to flip it to a miss | - | - | 1/SR |
+| **Luck Point — Intercept** *(Symbol)* | — | Self | When an attack roll is made against JJ: spend 1 Luck Point to impose Disadvantage on that roll (no action required) | — | — | Pool 2/LR |
+| **Luck Point — Fortune** *(Symbol)* | — | Self | When JJ makes a D20 Test: spend 1 Luck Point to grant himself Advantage on the roll, even if Disadvantage applies (no action required) | — | — | Pool 2/LR |
 
 ---
 
@@ -157,16 +159,14 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
   - *Nick:* when you use the Attack action with a Light weapon, make one extra attack with a different Light weapon as part of that action (no Bonus Action needed)
   - *Vex:* on hit, target is Vexed until the start of your next turn; your next attack roll against that target has advantage
 - **Thieves Cant:** secret language and cipher system known by Rogues
-- **Rathan's Symbol of Tymora (prequel item):**
-  - *Luck Point (1/LR):* when you roll a 1 on a d20 test, expend the point to reroll; use the new result
-  - *Coin's Edge (Reaction, 1/SR):* when you miss an attack, reroll it; must use the new result
+- **[[Rathan's Symbol of Tymora]] (Tier 2, prequel item, attunement required):** Each Luck Point can be spent to grant yourself **Advantage** on one D20 Test (attack roll, ability check, or saving throw), or impose **Disadvantage** on one attack roll made against you; 2 Luck Points per Long Rest. **Lady Luck's Favor** *(passive)*: When JJ rolls a natural 20 on any d20 test, he regains his expended Luck Point. **Coin's Edge** *(1/Short Rest)*: When an attack roll against JJ exactly matches his AC — the hit that just barely lands — he can use his Reaction to flip the result. The attack misses instead. **Double Down:** When JJ spends a Luck Point on a d20 roll and the result is a success, roll a d6. On a 4–6, regain the Luck Point. Tymora rewards those who bet on themselves.
 
 ---
 
 ### Inventory
 
 - Leather Armor (equipped)
-- Rathan's Symbol of Tymora (equipped magic item)
+- [[Rathan's Symbol of Tymora]] (equipped magic item)
 - Night Caller (magic whistle -- wondrous, uncommon)
 - Guild Brass Armlet (equipped)
 - Potion of Healing

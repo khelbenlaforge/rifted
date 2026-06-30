@@ -147,6 +147,8 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7 (e
 - **Ancestor's Quiver: Inexhaustible Arrows** — The quiver always contains mundane arrows; Nanuk does not track ammo.
 - **Ancestor's Quiver: Coordinated Strike** — Advantage on ranged attack rolls against a creature currently in melee with Nanuk's beast companion.
 - **Ancestor's Quiver: Mark the Prey** — 1/LR cast *Hunter's Mark* without a spell slot and without Concentration. See Bonus Actions table.
+- **Ancestor's Quiver: Special Arrows** — The quiver generates 3 charges of special arrows per Long Rest. Nanuk chooses the type as he draws: *Tracking:* The target is revealed through walls and obstacles for 1 hour. *Silence:* The target is Silenced until the end of its next turn (CON save, DC = 8 + proficiency bonus + WIS modifier). *Cold:* The arrow deals an extra 1d6 cold damage and the target's speed is reduced by 10 ft until the end of its next turn.
+- **Ancestor's Quiver: The Bear Watches** *(passive)* — Nanuk cannot be surprised while the quiver is worn.
 
 ---
 
