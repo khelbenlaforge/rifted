@@ -154,7 +154,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 
 - **Arcane Recovery** — 1/LR after a short rest, recover spell slots totaling 2 levels.
 - **Ritual Adept** — Can cast Wizard ritual spells from her spellbook without preparing them.
-- **Elminster's Spellbook** — Contains 1st-2nd level spells Lea can read and prepare; *Elminster's Footnote* remains locked until unlocked through play.
+- **[[Elminster's Spellbook]]** — Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon; *Elminster's Footnote* remains locked until unlocked through play.
 - **Detect Magic (Elven Lineage)** — Cast *Detect Magic* 1/LR without a spell slot.
 - **Temporal Awareness** — Add Intelligence modifier to initiative rolls.
 - **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.

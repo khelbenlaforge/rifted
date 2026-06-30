@@ -168,7 +168,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **Channel Divinity (2/LR):** *Inspiring Smite* (immediately after Divine Smite, distribute 2d8 temp HP to self + creatures in 30 ft; no action) or *Peerless Athlete* (BA; 1 hr adv. Athletics/Acrobatics, carry x2, jump x2).
 - **Oath of Glory Always-Prepared:** Guiding Bolt, Heroism (L1); Enhance Ability, Magic Weapon (L2) -- always prepared.
 - **Weapon Mastery:** Longsword/Spear/Toothpick *(Sap):* on hit, target disadv. on its next atk roll. Javelin/Light Crossbow *(Slow):* on hit, target speed -10 ft.
-- **Kelemvor's Brand (Tier 2 -- Pounce):** BA (2 extinction charges/LR). Active: Speed +10, Keen Smell, Claw Strike (+1d8 slash); no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest. Pounce: 20+ ft straight + melee hit = target STR DC 15 or prone; BA Bite (1d6+4 pierce). Extinction: deactivates on kill (1 charge); Backlash: disadv. all atk rolls and saves until end of next turn.
+- **Kelemvor's Brand (Tier 2 -- Pounce):** BA (2 extinction charges/LR). Active: Speed +10, Keen Smell, Claw Strike (+1d8 slash); no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest. Pounce: 20+ ft straight + melee hit = target STR DC 15 or prone; BA Bite (1d6+4 pierce). Extinction: deactivates on kill (1 charge); Backlash: disadv. all atk rolls and saves until end of next turn. The brand cannot be voluntarily deactivated at Tiers 1–2 — if combat ends without a kill, transformation persists (loss of control saves continue) until the extinction clause fires or a long rest.
 - **Warforged Integrated Protection:** AC includes armor + shield + fighting style. Unarmed Strikes: 1d4+4 bludgeoning.
 
 ---
@@ -195,7 +195,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 **Armor:** Chain Mail + Shield (equipped)
 
 **Magic Items:**
-- Kelemvor's Brand (tattoo -- always active, not removable)
+- [[Kelemvor's Brand]] (tattoo -- always active, not removable)
 - Guild Brass Armlet
 
 **Gear:** Toothpick (see Actions) · Potion of Healing · Mysterious Potion · Holy Water · Rat Rations x2 · Rations x7 · Javelin x6 · Bolts x20 · Backpack · Lamp · Tinderbox · Robe · Traveler's Clothes · Manacles · Hooded Lantern
