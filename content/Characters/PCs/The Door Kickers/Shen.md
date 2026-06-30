@@ -64,37 +64,34 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 - **[[Sharwyn Hucrele]] & [[Sir Braford]]** — Shared captivity in the Grove Level; last seen as willing thralls, not freed
 
 ## Character Sheet
-
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 4 |
-| **Class** | Warlock (Great Old One) |
-| **Race** | Human |
-| **Background** | Scribe |
-| **HP (Max)** | 28 |
-| **AC** | 11 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
+| Level | 5 |
+| Class | Warlock (Great Old One), Pact of the Chain |
+| Race | Human |
+| Background | Scribe |
+| HP (Max) | 35 |
+| AC | 11 (Leather Armor) |
+| Speed | 30 ft |
+| Prof Bonus | +3 |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 10 (+0) | 15 (+2) | 19 (+4) | 15 (+2) | 18 (+4) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 12 | +1 |
+| DEX | 10 | +0 |
+| CON | 15 | +2 |
+| INT | 19 | +4 |
+| WIS | 17 | +3 |
+| CHA | 18 | +4 |
 
-### Saving Throws
+**Saving Throws:** STR +1 . DEX +0 . CON +2 . INT +4 . **WIS +6** . **CHA +7**
 
-Wisdom +4 · Charisma +6
+**Resistances & Vulnerabilities:** None.
 
-### Resistances & Vulnerabilities
-
-None.
-
-### Skills
-
-Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perception +4
-
-**Languages:** Common · one additional language
+**Skills:** Arcana +7 . History +7 . Investigation +7 . Medicine +6 . Nature +7 . Perception +6
+**Languages:** Common + Human extras
 **Tools:** Calligrapher's Supplies
 
 ---
@@ -102,33 +99,33 @@ Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perce
 ### Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +3 | 5 ft. | 2 bludgeon; or grapple/shove (escape DC 11) | — | — | — |
-| **Sickle** | M +3 | 5 ft. | 1d4+1 slash | — | — | — |
-| **Dagger (×2)** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
-| **Chill Touch** | M +6 | Touch | 1d10 necrotic; target can't regain HP until your next turn | Cantrip | V, S | — |
-| **Eldritch Blast** | R +6 | 120 ft. | 2 beams × 1d10+4 force; push 10 ft. on hit | Cantrip | V, S | — |
-| **Infestation** | CON 14 | 30 ft. | 1d6 poison; move 5 ft random direction on fail | Cantrip | V, S, M (living flea) | — |
-| **Dissonant Whispers** | WIS 14 | 60 ft. | 4d6 psychic; flee reaction on fail, ½ dmg/no flee on save | 1st | V | — |
-| **Tasha's Hideous Laughter** | WIS 14 | 30 ft. | Prone + incapacitated 1 min; repeat WIS save each turn | 1st | V, S, M (tart & feather) | Conc. |
-| **Detect Thoughts** | WIS 14 | Self | Read surface thoughts; probe deeper with WIS save | 2nd | V, S, M (copper piece) | Conc. |
-| **Hold Person** | WIS 14 | 60 ft. | Paralyzed 1 min; repeat WIS save each turn | 2nd | V, S, M (iron piece) | Conc. |
-| **Mirror Image** | — | Self | 3 illusions; atks may hit duplicate instead | 2nd | V, S | — |
-| **Phantasmal Force** | INT 14 | 60 ft. | Illusion may deal 2d8 psychic/turn; INT save to end | 2nd | V, S, M (fleece) | Conc. |
-| **Suggestion** | WIS 14 | 30 ft. | Target follows reasonable suggestion for 8 hr | 2nd | V, M (honey) | Conc. |
-| **Find Familiar** | — | 10 ft. | Summon/resummon familiar; Pact of Chain options | 1st | V, S, M† | Ritual |
-| **Specimen: Classify** | — | Sight | Learn type, CR bracket, one immunity/resistance; party crits on 19-20 vs target until next turn | — | — | 1/LR |
-| **Specimen: Strata** | CON 13 | Touch | 6-sec psychic flash of key event; fail = stunned until end next turn | — | — | 1/LR |
-| **Specimen: Speak with Dead** | — | 10 ft. | Ask corpse 5 questions; patron answers through conduit | 3rd | — | 1/LR |
-
-*† Find Familiar: M = burning incense worth 10+ gp (consumed)*
+|---|---|---|---|---|---|---|
+| **Sickle** *(Nick)* | M +4 | 5 ft | 1d4+1 slashing; Light | - | - | - |
+| **Dagger** *(Nick)* | M +4 | 5 ft | 1d4+1 piercing; Finesse, Light | - | - | - |
+| **Dagger** *(Nick)* | R +4 | 20/60 ft | 1d4+1 piercing; Thrown | - | - | - |
+| **Unarmed Strike** | M +4 | 5 ft | 2 bludgeoning | - | - | - |
+| **Chill Touch** | M +7 | Touch | 2d10 necrotic; target can't regain HP until your next turn | 0 | V S | - |
+| **Eldritch Blast** | R +7 | 120 ft | 2 beams, each 1d10+4 force; push 10 ft per hit | 0 | V S | - |
+| **Infestation** | CON 15 | 30 ft | 2d6 poison; failed save also moves target 5 ft randomly | 0 | V S M | - |
+| **Dissonant Whispers** | WIS 15 | 60 ft | 3d6 psychic; failed save forces movement using Reaction | 1 | V | - |
+| **Tasha's Hideous Laughter** | WIS 15 | 30 ft | Prone and Incapacitated up to 1 minute; repeat save | 1 | V S M | Conc. |
+| **Find Familiar** | - | 10 ft | Summon or resummon familiar; Pact of the Chain expands forms | 1 | V S M | Ritual |
+| **Detect Thoughts** | WIS 15 | Self | Read surface thoughts; deeper probe allows WIS save | 2 | V S M | Conc. |
+| **Hold Person** | WIS 15 | 60 ft | Paralyzed up to 1 minute; repeat save | 2 | V S M | Conc. |
+| **Mirror Image** | - | Self | Three illusory duplicates defend you for 1 minute | 2 | V S | - |
+| **Phantasmal Force** | INT 15 | 60 ft | Illusion in target's mind; can deal 2d8 psychic per turn | 2 | V S M | Conc. |
+| **Suggestion** | WIS 15 | 30 ft | Target follows a reasonable course of action for up to 8 hours | 2 | V M | Conc. |
+| **Clairvoyance** | - | 1 mile | Create an invisible sensor for sight or hearing up to 10 minutes | 3 | V S M | Conc. |
+| **Hunger of Hadar** | DEX 15 | 150 ft | 20-ft sphere of magical darkness; cold and acid damage in area | 3 | V S M | Conc. |
+| **Remove Curse** | - | Touch | End one curse affecting a creature or object | 3 | V S | - |
+| **Magical Cunning** | - | Self | 1-minute rite; regain 1 expended Pact Magic slot | - | - | 1/LR |
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Hex** | — | 90 ft. | Curse target; +1d6 necrotic per hit; disadv. on chosen ability checks | 1st | V, S, M (petrified newt's eye) | Conc. |
-| **Misty Step** | — | Self | Teleport up to 30 ft to visible unoccupied space | 2nd | V | — |
+|---|---|---|---|---|---|---|
+| **Hex** | - | 90 ft | Curse target; your hits deal +1d6 necrotic; disadvantage on one ability's checks | 1 | V S M | Conc. |
+| **Misty Step** | - | Self | Teleport up to 30 ft to a visible unoccupied space | 2 | V | - |
 
 ### Reactions
 
@@ -138,44 +135,44 @@ Arcana +6 · History +6 · Investigation +6 · Medicine +4 · Nature +6 · Perce
 
 ### Features
 
-- **Alert** — +5 initiative; cannot be surprised.
-- **Keen Mind** — Always know north and time of day; accurately recall anything seen or heard within the last 30 days.
-- **Resourceful (Human)** — Gain Heroic Inspiration at the end of each Long Rest.
-- **Skillful (Human)** — Gain proficiency in one additional skill.
-- **Versatile (Human)** — Gain one Origin feat (Alert).
-- **Pact Magic:** 2 Pact Slots (2nd level); recover on Short or Long Rest
-- **Magical Cunning:** Once per Long Rest, expend all remaining Pact Slots to regain half the total expended (rounded up)
-- **Pact of the Chain** — Cast *Find Familiar* as a ritual; familiar may take Reactions; can forgo one Attack action attack to have familiar use its Reaction.
-- **Agonizing Blast** — Add CHA modifier to each *Eldritch Blast* beam's damage.
-- **Repelling Blast** — Push target 10 ft. on each *Eldritch Blast* hit.
-- **Awakened Mind** — Telepathically speak to any visible creature within 30 ft. without sharing a language.
-- **Psychic Spells** — Can use INT for Enchantment/Illusion spells.
-- **Always Prepared (Great Old One)** — *Dissonant Whispers*, *Tasha's Hideous Laughter*, *Detect Thoughts*, and *Phantasmal Force*.
-- **Unclassified Specimen: Deep Time** — Sense the approximate age of any object or surface Shen touches.
-- **Unclassified Specimen: Ancient Repository** — Advantage on INT (History) and INT (Arcana) checks about ancient, extinct, or undead creatures.
-- **Unclassified Specimen: Active Use** — 1/LR choose *Speak with Dead*, Classify, or Strata. See Actions table.
+- **Pact Magic:** 2 Pact Magic slots at 3rd level; recover on Short Rest.
+- **Pact of the Chain:** You can cast *Find Familiar* as a ritual; your familiar can take its own action instead of yours; special forms include imp, pseudodragon, quasit, and sprite.
+- **Awakened Mind:** You can telepathically speak to a creature you can see within 30 feet; no shared language is needed.
+- **Psychic Spells:** When you cast a Warlock spell that deals damage, you can change its damage type to Psychic; your Enchantment and Illusion Warlock spells can be cast without Verbal or Somatic components.
+- **Psychic Spells, always prepared:** *Dissonant Whispers*, *Tasha's Hideous Laughter*, *Detect Thoughts*, *Phantasmal Force*, *Clairvoyance*, and *Hunger of Hadar*.
+- **Agonizing Blast:** Add your CHA modifier (+4) to each *Eldritch Blast* beam's damage.
+- **Repelling Blast:** Each *Eldritch Blast* hit can push the target 10 feet away from you.
+- **Magical Cunning:** Perform a 1-minute esoteric rite to regain up to half your expended Pact Magic slots (round up); 1/LR.
+- **Alert:** +5 initiative, you can't be surprised, and hidden creatures don't gain advantage on attack rolls against you.
+- **Skilled:** Gain proficiency in three additional skills; already included in the skills line.
+- **Keen Mind:** Always know north, always know time elapsed, and perfectly recall what you have seen or heard recently.
+- **Sickle Mastery - Nick:** When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action; once per turn.
+- **Dagger Mastery - Nick:** When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action; once per turn.
 
 ---
 
 ### Spellcasting
 
-**Ability:** Charisma | **Save DC:** 14 | **Attack Bonus:** +6
+**Ability:** CHA . **DC:** 15 . **Attack Bonus:** +7
 
-**Pact Slots:** 2 × 2nd level (recover on Short or Long Rest)
+**Pact Magic:** 2 slots at 3rd level, recover on Short Rest
+
+**Cantrips:** *Chill Touch*, *Eldritch Blast*, *Infestation*
+**1st Level:** *Dissonant Whispers* (always prepared), *Hex*, *Tasha's Hideous Laughter* (always prepared), *Find Familiar*
+**2nd Level:** *Detect Thoughts* (always prepared), *Hold Person*, *Mirror Image*, *Misty Step*, *Phantasmal Force* (always prepared), *Suggestion*
+**3rd Level:** *Clairvoyance* (always prepared), *Hunger of Hadar* (always prepared), *Remove Curse*
 
 #### Ritual Spells
 
-- *Find Familiar* (XPHB, 1st) — 1 hr cast — Summon or resummon a familiar; Pact of the Chain expands available forms and allows familiar to take Reactions.
+- *Find Familiar*
 
 ---
 
 ### Inventory
 
-**Armor (equipped):** Leather Armor
-**Magic Items (equipped):** Unclassified Specimen
-**Gear:** Orb (arcane focus) · Calligrapher's Supplies · Books ×2 · Fine Clothes · Backpack · Ink · Pen · Parchment
-
----
+- **Armor:** Leather Armor
+- **Magic Items:** Unclassified Specimen
+- **Gear:** Orb, Backpack, Ink Pen, Lamp, Tinderbox, Fine Clothes, Books x2
 Race:: Human
 Subrace::
 Class:: Warlock
@@ -188,4 +185,11 @@ PassivePerception:: 14
 PassiveInsight:: 12
 PassiveInvestigation:: 16
 PassiveStealth:: 10
+## Session 22
+
+Shen completed two retroactive weeks of downtime.
+
+- Relationship track (DC 5, rolled 21): joined the herbalist society at the [[Ether Scryer's Academy]]; gained Herbalism Kit and proficiency in Herbalism.
+- Work track (DC 5 + DC 10, advantage from Academy employment, rolled 21 total): earned 64 gold. Employed at the [[Ether Scryer's Academy]].
+- Investigation track (DC 15, rolled 25 combined with [[Lea]]): helped reverse-engineer the teleportation formula. Described the [[Sunless Citadel]] murals to the Director of Antiquities and became a collaborator in the antiquities department's project to recover [[Aenath]]'s missing 200-year history.
 

@@ -3,6 +3,9 @@
 
 
 
+
+
+
 title: Le Fil
 aliases:
   - The Thread
@@ -13,7 +16,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-06-29T00:00:00
-updated: 2026-06-29T19:04:48
+updated: 2026-07-01T00:02:41
 ---
 
 > [!infobox]
@@ -46,14 +49,14 @@ Le Fil grows in power as Regius levels.
 
 | Tier | Level | New Abilities |
 |------|-------|---------------|
-| 1 | 5 (current) | +1 · Echo's Grip · Present Absence · One Opening |
-| 2 | 7 | +2 · Split Strike · E's Direction |
+| 1 | 4 | +1 · Echo's Grip · Present Absence · One Opening |
+| 2 | 5 (current) | +2 · Split Strike · E's Direction |
 | 3 | 9 | +3 · Both Hands · The Bearing |
 | 4 | 13+ | TBD |
 
 ---
 
-### Tier 1 — What Was Kept *(L5, current)*
+### Tier 1 — What Was Kept *(L4)*
 
 **+1** to attack and damage rolls with the designated weapon.
 
@@ -65,7 +68,7 @@ Le Fil grows in power as Regius levels.
 
 ---
 
-### Tier 2 — The Distance *(L7)*
+### Tier 2 — The Distance *(L5, current)*
 
 **+2** to attack and damage rolls.
 

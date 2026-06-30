@@ -8,6 +8,7 @@
 
 
 
+
 created: 2026-06-29T17:14:45
 
 title: "Regius"
@@ -18,7 +19,7 @@ campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
-updated: 2026-06-29T17:50:37
+updated: 2026-06-30T22:19:10
 ---
 
 # Regius
@@ -55,7 +56,7 @@ Regius fights the way he does everything else — efficiently and without wasted
 
 ## Key Events
 
-- *Session 21 — joins the party*
+- *Session 22 — arrives via Layla's runic circle at the Jade Spire; goes down in shadow creature attack; Shen drags him out; guild intro complete*
 
 ## Relationships
 
@@ -64,10 +65,97 @@ Regius fights the way he does everything else — efficiently and without wasted
 - **"E"** — his absent mother; known only by an initial; the wound at the centre of everything
 
 ## Character Sheet
-
-*Pending — run the `character-sheet-sync` skill when Foundry VTT is available to populate this section.*
+| Stat | Value |
+|---|---|
+| Level | 5 |
+| Class | Fighter (Echo Knight) |
+| Race | Custom Lineage (Tiefling) |
+| Background | Noble |
+| HP (Max) | 48 |
+| AC | 15 (Scale Mail) |
+| Speed | 30 ft |
+| Prof Bonus | +3 |
 
 ---
+
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 20 | +5 |
+| DEX | 12 | +1 |
+| CON | 16 | +3 |
+| INT | 9 | -1 |
+| WIS | 11 | +0 |
+| CHA | 18 | +4 |
+
+**Saving Throws:** **STR +8** . DEX +1 . **CON +6** . INT -1 . WIS +0 . CHA +4
+
+**Resistances & Vulnerabilities:** None.
+
+**Skills:** Athletics +8 . Deception +7 . History +2 . Intimidation +7 . Perception +3 . Persuasion +7 . Survival +3
+**Languages:** Common, French
+**Tools:** One Gaming Set (Noble)
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|---|---|---|---|---|---|---|
+| **Glaive** *(Graze)* | M +8 | 10 ft | 1d10+5 slashing; Heavy, Reach, Two-Handed | - | - | - |
+| **Flail** *(Sap)* | M +8 | 5 ft | 1d8+5 bludgeoning | - | - | - |
+| **Javelin** *(Slow)* | M +8 | 5 ft | 1d6+5 piercing | - | - | - |
+| **Javelin** *(Slow)* | R +8 | 30/120 ft | 1d6+5 piercing; Thrown | - | - | - |
+| **Unarmed Strike** | M +8 | 5 ft | 6 bludgeoning | - | - | - |
+| **Action Surge** | - | Self | Take one additional action on your turn; not the Magic action | - | - | 1/SR |
+| **Unleash Incarnation** | - | Echo space | When you take the Attack action, make one extra melee attack from the echo's position | - | - | 3/LR |
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|---|---|---|---|---|---|---|
+| **Second Wind** | - | Self | Regain 1d10+5 HP | - | - | Pool 2/LR |
+| **Pole Strike** | M +8 | 5 ft | 1d4+5 bludgeoning with the butt end of your glaive after the Attack action | - | - | - |
+| **Manifest Echo** | - | 15 ft | Create an echo in an unoccupied space you can see | - | - | - |
+| **Swap with Echo** | - | Echo space | Teleport by swapping places with your echo; costs 15 ft of movement | - | - | - |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|---|---|---|---|---|---|---|
+| **Opportunity Attack** | M +8 | Reach varies | One melee attack when a creature leaves your reach; on hit, speed becomes 0 for the turn | - | - | - |
+| **Reactive Strike** | M +8 | 10 ft | One glaive attack against a creature that enters your reach | - | - | - |
+| **Sentinel** | M +8 | 5 ft | Opportunity Attack when a creature within 5 ft Disengages or hits a target other than you | - | - | - |
+
+---
+
+### Features
+
+- **Great Weapon Fighting:** When you roll damage with a melee weapon wielded in two hands, treat any 1 or 2 on a damage die as a 3 if the weapon has the Two-Handed or Versatile property.
+- **Second Wind:** You have 2 uses; as a Bonus Action, regain 1d10+5 HP. Regain 1 use on a Short Rest and all uses on a Long Rest.
+- **Action Surge:** On your turn, take one additional action, except the Magic action; 1/SR.
+- **Extra Attack:** You attack twice whenever you take the Attack action on your turn.
+- **Tactical Mind:** When you fail an ability check, you can expend a use of Second Wind to add 1d10 to the check; if the check still fails, the use isn't expended.
+- **Tactical Shift:** Whenever you activate Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
+- **Manifest Echo:** Create an echo within 15 feet as a Bonus Action. The echo has AC 14, 1 HP, immunity to conditions, uses your saving throw bonuses, and vanishes if dismissed or if you are incapacitated.
+- **Echo Mobility:** You can move the echo up to 30 feet, make your attacks from its space, and swap places with it as a Bonus Action.
+- **Echo Opportunity Attack:** When a creature you can see within 5 feet of your echo moves at least 5 feet away from it, you can make an Opportunity Attack as if you were in the echo's space.
+- **Unleash Incarnation:** When you take the Attack action, you can make one additional melee attack from the echo's position; 3/LR.
+- **Sentinel - Guardian:** A creature within 5 feet of you provokes an Opportunity Attack if it Disengages or hits a target other than you.
+- **Sentinel - Halt:** When you hit with an Opportunity Attack, the target's Speed becomes 0 for the rest of the turn.
+- **Polearm Master - Pole Strike:** After attacking with your glaive, you can make a butt-end attack as a Bonus Action that deals 1d4 bludgeoning damage.
+- **Polearm Master - Reactive Strike:** While holding your glaive, you can use your Reaction to make a melee attack against a creature that enters your reach.
+- **Glaive Mastery - Graze:** If your attack roll misses, deal damage equal to the ability modifier used for the attack.
+- **Flail Mastery - Sap:** On a hit, the target has disadvantage on its next attack roll before the start of your next turn.
+- **Javelin Mastery - Slow:** On a hit that deals damage, reduce the target's Speed by 10 feet until the start of your next turn.
+- **Le Fil:** While this silk cord is attached to a held weapon, that weapon counts as magical.
+
+---
+
+### Inventory
+
+- **Armor:** Scale Mail
+- **Magic Items:** Le Fil
+- **Gear:** Backpack, Rope, Tinderbox, Fine Clothes, Caltrops, Crowbar, Waterskin, Perfume
 
 Race:: Tiefling
 Subrace:: Custom Lineage
@@ -81,4 +169,13 @@ Affiliation:: [[The Door Kickers]]
 Location:: [[Crystal City]]
 Deity::
 
+## Session 22
+
+Regius arrived in Aenath on 13th Nightal, Year 222 PA, materializing at the top of the [[Jade Spire]] tower via [[Layla]]'s runic circle, which [[Perrin Quickquill]] had accidentally reactivated.
+
+He was immediately caught in a [[Shadow Creatures|shadow creature]] assault and went unconscious (0 HP) during the encounter. [[Shen]] dragged him down the tower stairwell.
+
+After the short rest outside, he was brought to the [[Adamantine Guild]] and introduced by [[Istar Silverlock]]. He is now an official guild member.
+
+His echo had been appearing as a faceless flickering silhouette in Crystal City's [[Garnet District]] for weeks before his arrival.
 

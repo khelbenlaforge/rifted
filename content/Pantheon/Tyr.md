@@ -48,4 +48,10 @@ Tyr's faithful include paladins, judges, magistrates, and those who have sworn o
 
 [[Augustus Kennedy]] is closely aligned with Tyr's principles of protection and duty, and his training reflects the god's emphasis on disciplined strength in service of the law. Tyr's teachings form a cornerstone of Augustus's developing identity as a protector, alongside the complementary influences of [[Helm]] and [[Torm]].
 
+## Session 22
+
+The great statue of Tyr in the main hall of the [[Hall of Justice - Temple of Tyr]] holds scales of justice in his left hand. These scales are [[Jonathan Jordan]]'s active heist target, assigned by [[Istar Silverlock]].
+
+The Church of Tyr constitutes Crystal City's entire law enforcement apparatus: every paladin, cleric, and monk of Tyr serves as law enforcement. [[Augustus Kennedy]] is a junior officer in this apparatus.
+
 

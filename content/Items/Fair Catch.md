@@ -31,14 +31,14 @@ The spear grows in power as Gill levels. The weapon returns to Gill's hand at th
 
 | Tier | Level | New Abilities |
 |------|-------|---------------|
-| 1 | 4 (current) | +1, Returns, Reel In, Sune's Grace, Adon's Murmur |
-| 2 | 5 | +2, Barbed, Adon's Counsel |
+| 1 | 4 | +1, Returns, Reel In, Sune's Grace, Adon's Murmur |
+| 2 | 5 (current) | +2, Barbed, Adon's Counsel |
 | 3 | 9 | +3, The Long Cast, Deep Current, Adon's Echo |
 | 4 | 13+ | TBD |
 
 ---
 
-### Tier 1 — The Barbed Hook *(current)*
+### Tier 1 — The Barbed Hook *(L4)*
 
 **+1** to attack and damage rolls.
 
@@ -52,7 +52,7 @@ The spear grows in power as Gill levels. The weapon returns to Gill's hand at th
 
 ---
 
-### Tier 2 — The Long Line *(L5)*
+### Tier 2 — The Long Line *(L5 — current)*
 
 **+2** to attack and damage rolls.
 

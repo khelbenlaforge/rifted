@@ -42,4 +42,10 @@ The Spire has become a target for [[Shadow Creatures]], whose attacks have rende
 
 The shadow creature attack sites are now walled off with fresh runes and paint; the ward-work took weeks. The attacks were worse while the party was in [[Sunhold]], with the city guard halved during the worst assault. [[Garm]] assesses the shadow creatures as extraplanar, but not from any recognized plane. Purple moss recovered from [[Sunhold]] has been turned into a nutritious drink as a [[Perrin Quickquill]] project.
 
+## Session 22
+
+[[Layla]] kept a reagent drawer at the [[Jade Spire]] containing her teleportation circle components: magic item scraps, humanoid blood (dried), and bone fragments.
+
+[[Perrin Quickquill]] found this drawer on 13th Nightal and used the contents to redraw her circle. He did not direct it at anyone. The circle opened and pulled [[Regius]] through by infernal resonance.
+
 

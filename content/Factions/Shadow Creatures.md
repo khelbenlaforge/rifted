@@ -36,4 +36,15 @@ The Shadow Creatures emerged during High Harvestide of Year 222, coinciding with
 
 An ongoing and escalating threat. Their attacks have caused severe staffing shortages in the [[Adamantine Guild]], as resources are diverted to confront or flee from them. Their origins, motivations, and the nature of their connection to the newcomers' arrival are among the campaign's central mysteries.
 
+## Session 22
+
+Earther-exclusive targeting is now confirmed: shadow creatures completely ignored [[Perrin Quickquill]] during the full [[Jade Spire]] assault, going only for Earthers.
+
+Combat mechanics established:
+- Only magical attacks cause damage; nonmagical weapons pass through harmlessly.
+- Radiant damage is especially effective and triggers paralysis in smaller forms.
+- Cold damage from magical sources works.
+- Psychic damage works.
+- Light effects can paralyze them.
+
 

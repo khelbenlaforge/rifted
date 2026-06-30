@@ -2,6 +2,11 @@
 
 
 
+
+
+
+
+
 title: Sukoon and Junoon
 aliases:
   - Sukoon
@@ -12,7 +17,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-06-25T00:00:00
-updated: 2026-06-25T16:26:58
+updated: 2026-07-01T00:23:54
 ---
 
 > [!infobox]
@@ -40,26 +45,26 @@ The sickles grow in power as Sadiah levels.
 
 | Tier | Level | New Abilities |
 |------|-------|---------------|
-| 1 | 4 (current) | +1, Still Point, The Named Weight, Junoon's Word |
-| 2 | 5 | +2, The Invisible Third, Debt Paid |
+| 1 | 4 | +1, Still Point, The Named Weight, Junoon's Word |
+| 2 | 5 (current) | +2, The Invisible Third, Debt Paid |
 | 3 | 9 | +3, The Long Stillness, Redistribution |
 | 4 | 13+ | TBD |
 
 ---
 
-### Tier 1 — The Work *(current)*
+### Tier 1 — The Work *(L4)*
 
 **+1** to attack and damage rolls with both sickles.
 
 **Still Point *(passive)*:** Using Steady Aim does not reduce Sadiah's speed to 0 — she may still move up to half her speed this turn. When she uses Steady Aim before attacking with Sukoon or Junoon, she also adds 1d6 to her Sneak Attack damage roll on that turn. The breath held. The calculation completed. The outcome already decided.
 
-**The Named Weight *(passive)*:** When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target cannot take Reactions until the start of their next turn. The specificity of the target. The weight of the name.
+**The Named Weight *(passive)*:** When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target must succeed on a Constitution saving throw (DC = Sadiah's spell save DC) or be unable to take Reactions until the start of its next turn. The specificity of the target. The weight of the name.
 
 **Junoon's Word *(1/Short Rest)*:** When Sadiah rolls a 1 on any d20 roll — attack, saving throw, or ability check — Junoon disagrees. She may reroll and must use the new result.
 
 ---
 
-### Tier 2 — The Invisible Practice *(L5)*
+### Tier 2 — The Invisible Practice *(L5 — current)*
 
 **+2** to attack and damage rolls.
 

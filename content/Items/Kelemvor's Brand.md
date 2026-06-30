@@ -45,7 +45,7 @@ The brand vanishes the instant he kills. Not fades — vanishes. Whatever lives 
 
 ---
 
-### Tier 1 — The First Pull *(L4 — current)*
+### Tier 1 — The First Pull *(L4)*
 
 **Extinction Charges:** 1 per long rest.
 
@@ -67,7 +67,7 @@ The brand vanishes the instant he kills. Not fades — vanishes. Whatever lives 
 
 ---
 
-### Tier 2 — The Pounce *(L5)*
+### Tier 2 — The Pounce *(L5 — current)*
 
 **Extinction Charges:** 2 per long rest.
 

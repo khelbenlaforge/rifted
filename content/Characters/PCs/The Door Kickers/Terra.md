@@ -189,6 +189,15 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 - PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[Nanuk]]
 - Level 5
 
+## Session 22
+
+- Went unconscious (0 HP) during the [[Jade Spire]] shadow creature encounter.
+- Stabilized via death saving throws (rolled 19 on the decisive roll).
+- Carried out by [[Inukshuk]], [[Nanuk]]'s bear companion.
+- Woke with 10 HP after healing.
+- During the battle, stood in the center of the combat room and activated Inner Radiance, dealing radiant damage to multiple shadows simultaneously; paralyzed two of the smaller forms and allowed the party to extract.
+- Received heroic inspiration from the DM.
+
 ---
 
 Race:: Aasimar

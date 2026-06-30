@@ -152,4 +152,10 @@ Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Deat
 
 His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that knowledge without responsibility creates wild magic that destabilizes the cosmos. Kelemvor once possessed great emotion, but what stripped it away is unknown. His symbol is a man sitting on a chair holding scales.
 
+## Session 22 Lore
+
+The Church of Kelemvor was named as the authority that polices interplanar soul movement. The god of death arbitrates where souls go and prevents souls from being pulled across planes without sanction.
+
+[[Gill Bates]] and [[Augustus Kennedy]] both have established paths into the Church, making them the party's natural contacts for this thread.
+
 

@@ -28,15 +28,15 @@ Summoning Vesper requires an Action unless a tier ability specifies otherwise. V
 
 | Tier | Level | Form | New Abilities |
 |------|-------|------|---------------|
-| 1 | 3 (current) | Wolf | Fey Recall · Nature's Alarm · The Hunt as One |
-| 2 | 5 | Bonded Wolf | Echo of the Pack · In Harmony |
+| 1 | 3 | Wolf | Fey Recall · Nature's Alarm · The Hunt as One |
+| 2 | 5 (current) | Bonded Wolf | Echo of the Pack · In Harmony |
 | 3 | 9 | Dire Wolf | Apex Howl · Nature's Warden |
 | 4 | 13 | Dire Wolf Ascendant | TBD |
 | 5 | 17+ | Beyond | TBD |
 
 ---
 
-### Tier 1 — The Crystal Bond *(current, L3)*
+### Tier 1 — The Crystal Bond *(L3)*
 
 **Wolf.** Use the standard Wolf stat block (XMM).
 
@@ -48,9 +48,11 @@ Summoning Vesper requires an Action unless a tier ability specifies otherwise. V
 
 ---
 
-### Tier 2 — The Bonded Wolf *(L5)*
+### Tier 2 — The Bonded Wolf *(L5 — current)*
 
-**Bonded Wolf.** Custom stat block — TBD. Larger and stronger than a standard wolf; first visible signs of the magical bond (faint crystal light in the eyes, slightly translucent in low light).
+**Bonded Wolf.** Larger and stronger than a standard wolf. Faint crystal light in the eyes; slightly translucent in low light.
+
+
 
 **Echo of the Pack *(passive)*:** Vesper's attacks deal an extra 1d6 force damage.
 
