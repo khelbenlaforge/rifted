@@ -70,4 +70,10 @@ On the High Harvestide arrival day, Layla was supposed to be in the Sanctum floo
 
 The party may come to Perrin and [[Garm]] for teleportation or shifting information.
 
+## Session 22
+
+Perrin confessed to finding [[Layla]]'s reagent pouch in a drawer at the [[Jade Spire]] and using it to redraw her teleportation circle. He was not trying to pull anyone through. He was trying to recreate her work because he missed her.
+
+The circle opened and pulled [[Regius]] through by infernal resonance. Perrin was crying and shell-shocked when [[Elmindaria L'Thorian]] dragged him to the [[Ether Scryer's Academy]] to explain himself.
+
 

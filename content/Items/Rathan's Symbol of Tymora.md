@@ -28,14 +28,14 @@ Each Luck Point can be spent to: grant yourself **Advantage** on one D20 Test (a
 
 | Tier | Level | New Abilities |
 |------|-------|---------------|
-| 1 | 3 (current) | 1 Luck Point · Coin's Edge · Lady Luck's Favor |
-| 2 | 5 | 2 Luck Points · Double Down |
+| 1 | 3 | 1 Luck Point · Coin's Edge · Lady Luck's Favor |
+| 2 | 5 (current) | 2 Luck Points · Double Down |
 | 3 | 9 | Luck Points = Prof Bonus · The Long Odds |
 | 4 | 13 | Tymora's Gamble · Fortune's Reversal |
 
 ---
 
-### Tier 1 — The Coin's Toss *(current, L3)*
+### Tier 1 — The Coin's Toss *(L3)*
 
 **1 Luck Point per Long Rest.**
 
@@ -45,7 +45,7 @@ Each Luck Point can be spent to: grant yourself **Advantage** on one D20 Test (a
 
 ---
 
-### Tier 2 — The Loaded Die *(L5)*
+### Tier 2 — The Loaded Die *(L5 — current)*
 
 **2 Luck Points per Long Rest.**
 

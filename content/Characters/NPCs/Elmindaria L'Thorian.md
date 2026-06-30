@@ -197,3 +197,9 @@ Deity:: Unknown
 
 Elmindaria asked [[Erky]] to cast Banishment on [[Shen]]'s patron. The spell produced a brief blue light and then failed completely: the patron was too powerful and was not supposed to exist in this universe. She is now apprehensive about Shen going forward.
 
+## Session 22
+
+Daria dragged [[Perrin Quickquill]] to the [[Ether Scryer's Academy]] to confess. She identified the contents of [[Layla]]'s reagent pouch: magic item scraps (remnants of a planar-attuned item used as the anchor), humanoid blood (dried and powdered), and humanoid bone fragments.
+
+Transit spell: 7th-level, requires a planar-attuned magic item plus living humanoid blood, bone, and consciousness. Her conclusion: the city's reagent shortage is not coincidence.
+

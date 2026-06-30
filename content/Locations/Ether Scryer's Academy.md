@@ -1,6 +1,7 @@
 ---
 title: Ether Scryer's Academy
 aliases:
+  - Aether Spires Academy
 tags:
   - location
   - location/building

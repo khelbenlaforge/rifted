@@ -27,14 +27,14 @@ The quiver never runs empty.
 
 | Tier | Level | New Abilities |
 |------|-------|---------------|
-| 1 | 4 (current) | Inexhaustible Arrows · Coordinated Strike · Mark the Prey |
-| 2 | 5 | Special Arrows · The Bear Watches |
+| 1 | 4 | Inexhaustible Arrows · Coordinated Strike · Mark the Prey |
+| 2 | 5 (current) | Special Arrows · The Bear Watches |
 | 3 | 9 | Phantom Volley · Spirit Sight |
 | 4 | 13 | Spirit Arrow · Death Mark |
 
 ---
 
-### Tier 1 — The Endless Hunt *(current)*
+### Tier 1 — The Endless Hunt *(L4)*
 
 **Inexhaustible Arrows:** The quiver always contains mundane arrows. Nanuk never tracks ammo.
 
@@ -44,7 +44,7 @@ The quiver never runs empty.
 
 ---
 
-### Tier 2 — Voice of the Bear *(L5)*
+### Tier 2 — Voice of the Bear *(L5 — current)*
 
 **Special Arrows:** The quiver generates 3 charges of special arrows per Long Rest. Nanuk chooses the type as he draws:
 - *Tracking:* The target is revealed through walls and obstacles for 1 hour.

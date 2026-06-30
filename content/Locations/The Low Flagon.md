@@ -58,4 +58,9 @@ Region:: [[Garnet District]]
 Controlled By:: [[The Claret]]
 Status:: active
 
+## Session 22
+
+The party finalized their approach. [[Jonathan Jordan]], [[Shen]], and [[Regius]] will enter as sellers. Password: "I have four litres of blood to sell."
+
+[[Nanuk]] will serve as outside lookout on a nearby rooftop; [[Inukshuk]] is cavalry within eyeline. Physical intel: one known entrance, shuttered wooden windows all day, bruisers inside. A blood-supply deal will draw a mid-level [[The Claret|Claret]] contact down to the table.
 

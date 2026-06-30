@@ -28,14 +28,14 @@ When held up to the eye and looked through, the view on the other side is slight
 
 | Tier | Level | New Abilities |
 |------|-------|---------------|
-| 1 | 4 (current) | Listening · The Gap · Threshold |
-| 2 | 5 | Fey Echo · Fault Finding · First Signal |
+| 1 | 4 | Listening · The Gap · Threshold |
+| 2 | 5 (current) | Fey Echo · Fault Finding · First Signal |
 | 3 | 9 | Threshold (upgraded) · Unveiled · The Knock |
 | 4 | 13+ | TBD |
 
 ---
 
-### Tier 1 — The Thin Place *(current)*
+### Tier 1 — The Thin Place *(L4)*
 
 **Listening *(passive)*:** Terra cannot be surprised while the stone is worn. She has Advantage on Perception checks that rely on hearing. The stone reads the room before she consciously does.
 
@@ -45,7 +45,7 @@ When held up to the eye and looked through, the view on the other side is slight
 
 ---
 
-### Tier 2 — The Adjacent *(L5)*
+### Tier 2 — The Adjacent *(L5 — current)*
 
 **Fey Echo *(passive, 1/turn)*:** After Terra deals Psychic damage to a creature (from Dreadful Strikes or any source), that creature is Rattled until the start of her next turn — they have Disadvantage on their next attack roll. The wound in the mind lingers a half-moment longer than the wound in the flesh.
 

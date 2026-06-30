@@ -1,6 +1,8 @@
 ---
 
 
+
+
 title: Campaign Timeline
 aliases:
   - Rifted Timeline
@@ -10,7 +12,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:56
-updated: 2026-06-29T17:19:43
+updated: 2026-06-30T21:59:00
 ---
 
 # Campaign Timeline
@@ -716,31 +718,63 @@ By session's end, Erwina was a silhouette in direct light. Her keris — [[Nyala
 
 ---
 
+## Year 222 PA — 13th–23rd Nightal (Session 22 — Blood and Bone)
+
+### The Echo at the Top of the Tower
+
+[[Regius]] arrived on the top of the [[Jade Spire]] tower in a waiter's uniform, because [[Perrin Quickquill]] had found [[Layla]]'s reagent drawer and tried to reconstruct her work. The circle had opened. It had found Regius the way a signal finds the receiver built for it — his echo had been flickering in [[Crystal City]]'s Garnet District for weeks before his body arrived, a faceless silhouette the locals had learned to pretend not to see.
+
+The [[Shadow Creatures]] came through the ceiling and did what they always do: straight for the Earthers, ignoring everything else. Perrin threw torches from the upper floors and screamed at the party to evacuate. [[Terra]] stepped into the center of the room and let her inner radiance burn at the cost of her own body — paralyzing two shadow masses, setting a third apart in light — until [[Nanuk]]'s bear could carry her out. [[Shen]] dragged Regius down the stairwell. The party extracted floor by floor, and by the time [[Luks Borg]]'s mages had sealed the tower in ritual-cast glyphs, everyone was outside and breathing.
+
+### The Shape of a Circle
+
+At the [[Ether Scryer's Academy]], [[Elmindaria L'Thorian]] put [[Perrin Quickquill]] in front of the assembled party and told him to explain himself. He did. The reagents in Layla's drawer — a handful of metal scraps, dark red powder, fragments of bone — had been enough to redraw the circle and open a path. He had not directed it at anyone. The circle had found Regius.
+
+Daria named what was in the pouch. Metal: the splintered remnants of a magic item attuned to another plane, the anchor that gave the transit spell its direction. Powder: humanoid blood, dried. Bone: humanoid, small fragments. The transit spell — seventh level — required two things: a planar-attuned anchor and the matter of living consciousness. Blood and bone and the mind behind it. The city's reagent shortage was not coincidence. Something was consuming the material of people in order to move between worlds.
+
+The [[Church of Kelemvor]] tracks cross-planar soul movement by divine mandate. [[Gill Bates]] and [[Augustus Kennedy]] had paths into that institution. Those paths had just become relevant in a new way.
+
+[[Shen]], in the two weeks since his arrival, had embedded himself in the Academy's herbalist society and its antiquities department, earning sixty-four gold in the process and giving the department's tall gray-skinned director a full description of the [[Sunless Citadel]]'s Sanctum murals. The department exists to answer one question: why does no one in Aenath remember anything from before the Awakening? They now have a collaborator who was there.
+
+### The Maimed God's Scales
+
+With the transit spell's components understood and the [[The Low Flagon|Low Flagon]] meeting ten days away, [[Jonathan Jordan]] laid out his open obligation to Istar. The scales of justice held in the [[Hall of Justice - Temple of Tyr|Temple of Tyr]]'s great statue — the actual scales, in the main hall of the church that ran the city's entire law enforcement apparatus. [[Istar Silverlock]] heard the party's version of this proposal, let the silence sit, and smiled. He offered proficiency training to anyone who helped.
+
+### Open Sesame
+
+The party formed their approach to the Low Flagon: JJ, [[Shen]], and [[Regius]] as sellers — *I have four litres of blood to sell* — with [[Nanuk]] on the roof and Inukshuk within eyeline as cavalry. The goal was to pull down a mid-level [[The Claret|Claret]] contact, learn who was buying and why, and avoid becoming the product themselves.
+
+The plan was complete. The meeting had not happened yet.
+
+---
+
 ## Active Threads
 
-**Present (Crystal City — Year 222 PA, ~13th Nightal):**
+**Present (Crystal City — Year 222 PA, ~23rd Nightal):**
 - [[Belak]] escaped into the [[Gulthias Tree]] via Travel Through Plants — location unknown; Gulthias island resurfaces ~2 weeks from 3rd Uktar; vampiric resurrection possible; the dual necromantic/draconic signature in the tree predates him
-- [[Layla]] operating a second runic circle near [[Corran's Spike]], independent of the [[Jade Spire]] project — said *"This time, three"* when newcomers arrived; had 3 bracers pre-loaded; knows the [[The Claret|Claret]] code phrase; [[Shadow Creatures]] intrinsically ignore her; told newcomers to find [[Perrin Quickquill]] (doesn't know JJ soured that friendship); location outside city as of 3rd Nightal; Locate Person (1,000 ft) cannot find her
-- Magical creature blood buyout — large shipment sold out before reaching the Alchemist's Guild; city running low on healing potions; eastern road is the supply line; buyer unknown; Claret connection suspected
+- [[Layla]] operating a second runic circle near [[Corran's Spike]], independent of the [[Jade Spire]] project; [[Perrin Quickquill]] used her reagent drawer at the Jade Spire to accidentally pull [[Regius]] through — formula now exposed; [[Shadow Creatures]] intrinsically ignore her; location unknown; Locate Person (1,000 ft) cannot find her
+- Teleportation components confirmed — 7th-level transit spell requires a planar-attuned magic item (anchor) + living humanoid blood, bone, and consciousness; Perrin's accidental casting confirmed the formula; the reagent shortage is not coincidence; [[Church of Kelemvor]] tracks cross-planar soul movement — [[Gill Bates]] and [[Augustus Kennedy]] have ins
+- Magical creature blood buyout — large shipment sold out before reaching Alchemist's Guild; city low on healing potions; eastern road is the supply line; buyer unknown; Claret connection suspected
 - [[Nyala]] — [[Erwina Lesmana]]'s keris; stayed behind when she faded at session end; potential legacy relic; unclaimed
-- [[Jonathan Jordan]] × [[The Claret]]: Low Flagon infiltration — code phrase established; [[Tinny]] is street contact; JJ absent Session 21, sent on task by [[Istar Silverlock]] (party suspects via Insight: stealing mithral scales from [[Hall of Justice - Temple of Tyr|Temple of Tyr]] statue, 40 ft up)
+- [[Jonathan Jordan]] × [[The Claret]]: Low Flagon infiltration — **actively planned, next session**; JJ + [[Shen]] + [[Regius]] going in as sellers (*four litres of blood to sell*); [[Nanuk]] as outside lookout; mid-level Claret boss expected to appear for this deal
+- Tyr statue heist — [[Istar Silverlock]] tasked JJ to steal the scales of justice from the [[Hall of Justice - Temple of Tyr|Temple of Tyr]] main hall statue; now partially public; Ishtar reward = proficiency training for all who help
 - [[Azure Tamers]] network ([[Nanuk]] + [[Ember]]) — Torem gave aerial recon of regional supply chain; blood flow from east confirmed; who's buying it before it reaches the Alchemists?
-- [[Gill Bates]] — beginning Temple of [[Istishia]] mastery path (Sacred Sea); 2 downtime tracks required next session for initiation
-- [[Augustus Kennedy]] — Adherent of [[The Gravelords]]; joining [[Knights of the Eternal Order]]; dual law enforcement role; absent Session 21
-- Three new Earthers integrated: [[Terra]] and [[Sadiah Ispahani]] now Level 5 guild members; [[Erwina Lesmana]] faded by session end
+- [[Gill Bates]] — beginning Temple of [[Istishia]] mastery path (Sacred Sea); 2 downtime tracks required for initiation
+- [[Augustus Kennedy]] — Adherent of [[The Gravelords]]; joining [[Knights of the Eternal Order]]; dual law enforcement role
+- Four new Earthers integrated: [[Terra]], [[Sadiah Ispahani]], and [[Regius]] now Level 5 guild members; [[Erwina Lesmana]] faded Session 21
 - Council bastion being arranged for the party in [[Crystal City]]
 - [[Goblin Fruit]] mechanism confirmed — seeds sprout as twig blights in dead hosts; [[Droki]]'s supply chain to [[Sunhold]] ongoing; "the Wren" named as contact
 - The Sanctum's revelations — intel sent to [[Luks Borg]]; [[Elmindaria L'Thorian]] called in to analyze
 - Sanctum selective reveal: only the five original PCs perceive the true chamber; [[Nanuk]], [[Balsag]], and [[Erky]] see only the Ashardalon illusion
-- [[Ember]]'s dual nature — nature and infernal; [[Asmodeus]] would not leave her side; the [[Gulthias Tree]] singled her out in battle; absent Session 21
+- [[Ember]]'s dual nature — nature and infernal; [[Asmodeus]] would not leave her side; the [[Gulthias Tree]] singled her out in battle
 - [[Nanuk]]'s storyline — energy corporation coercion, lost love; Azure Tamers embedded
 - [[Balsag]] pledged to aid the party when called
 - The incandescent "Other" — a force beyond alignment that threatened to consume the deities
 - What lies on the other side of [[Aenath]]?
 - [[Lea]]'s mysterious connection to [[Corran]] ("my Lady")
-- [[Shadow Creatures]] — confirmed tracking Earthers, not Layla; stopped at city walls; [[Jade Spire]] wards holding; city guard halved; threat not withdrawn
-- The [[Adamantine Guild]]'s understaffing — three new members now integrated
-- The PCs' missing essence growing back; speaking Common more than English; [[Shen]]'s patron confirmed "not supposed to exist in this universe" — Banishment attempt failed
+- [[Shadow Creatures]] — Earther-exclusive targeting confirmed (ignored [[Perrin Quickquill]] entirely during Jade Tower assault); only magical attacks work; radiant = extra damage + paralysis; cold and psychic (magical) effective; stopped at city walls; [[Jade Spire]] wards holding; city guard halved
+- The [[Adamantine Guild]]'s understaffing — four new members now integrated
+- The PCs' missing essence growing back; speaking Common more than English; [[Shen]]'s patron confirmed "not supposed to exist in this universe" — Banishment attempt failed; Shen now embedded at [[Ether Scryer's Academy]] (herbalism, antiquities)
 
 **From the Prequel Vision (carried forward):**
 - [[Midnight]]'s pendant is cold and empty — what does she do with that?
