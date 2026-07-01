@@ -121,7 +121,7 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 | **Gust of Wind** | STR 16 | Self (60-ft line) | Push 15 ft.; line is difficult terrain; 1 min | 2nd | V, S, M (seed) | Conc. |
 | **Alarm** | — | 30 ft. | Ward door/window/20-ft cube; 8 hr alarm | 1st | V, S, M (bell & wire) | Ritual |
 | **Healing Hands** | — | Touch | Restore 3 HP | — | — | 1/LR |
-| **First Signal** *(Hollowstone)* | — | Self | Hold stone and ask one question; The Unbound (or something wearing his pattern) answers once — always knows more than it says | — | — | 1/day |
+| **First Signal** ([[Hollowstone]]) | — | Self | Hold stone and ask one question; The Unbound (or something wearing his pattern) answers once — always knows more than it says | — | — | 1/day |
 | **Light** | — | Touch | Object sheds 20/20 light; 1 hr | Cantrip | V, M (firefly or moss) | — |
 
 ### Bonus Actions
@@ -133,7 +133,7 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 | **Misty Step** | — | Self | Teleport up to 30 ft. | 2nd | V | — |
 | **Zephyr Strike** | — | Self | No OA; next atk has adv. +1d8 force; 1 min | 1st | V | Conc. |
 | **Celestial Revelation** | CHA 12 | Self | 1 min transform; Wings, Radiance, or Shroud | — | — | 1/LR |
-| **Threshold** *(Hollowstone)* | — | Self | Teleport up to 15 ft. to an unoccupied space Terra can see (no obstacle pass-through) | — | — | 1/LR |
+| **Threshold** ([[Hollowstone]]) | — | Self | Teleport up to 15 ft. to an unoccupied space Terra can see (no obstacle pass-through) | — | — | 1/LR |
 
 ### Reactions
 
@@ -160,12 +160,12 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 - **Healing Hands** — 1/LR; restore Hit Points equal to your Proficiency Bonus. See Actions table.
 - **Celestial Revelation** — 1/LR transformation. See Bonus Actions table.
 - **[[Hollowstone]] (Tier 2 — Earth-life carry, attunement required):**
-- *Listening (passive):* Terra cannot be surprised while the stone is worn. Advantage on Perception checks that rely on hearing.
-- *The Gap (passive):* Terra ignores half cover and three-quarters cover on all ranged weapon attacks.
-- *Threshold (1/LR — see Bonus Actions):* Bonus Action teleport up to 15 ft. to an unoccupied space she can see.
-- *Fey Echo (Tier 2 — passive, 1/turn):* After Terra deals Psychic damage (from Dreadful Strikes or any source), the target is Rattled until start of her next turn — Disadvantage on their next attack roll.
-- *Fault Finding (Tier 2 — passive, 1/turn):* When Terra hits with a ranged weapon attack, target makes STR save (DC = 8 + Prof + WIS mod) or is pushed 5 ft. in any direction Terra chooses.
-- *First Signal (Tier 2 — 1/day — see Actions):* Ask one question through the stone; The Unbound — or something wearing his pattern — answers once.
+- **Listening** *(passive)* — Terra cannot be surprised while the stone is worn. Advantage on Perception checks that rely on hearing.
+- **The Gap** *(passive)* — Terra ignores half cover and three-quarters cover on all ranged weapon attacks.
+- **Threshold** — 1/LR; see Bonus Actions table.
+- **Fey Echo** *(passive, 1/turn)* — After Terra deals Psychic damage, the target is Rattled until the start of her next turn.
+- **Fault Finding** *(passive, 1/turn)* — When Terra hits with a ranged weapon attack, the target makes STR 16 or is pushed 5 ft. in any direction Terra chooses.
+- **First Signal** — 1/day; see Actions table.
 
 ---
 

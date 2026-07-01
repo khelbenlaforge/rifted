@@ -122,7 +122,7 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7 (e
 | **Healing Word** | — | 60 ft. | 1d4+3 HP | 1st | V | 1/LR |
 | **Hail of Thorns** | DEX 13 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
 | **Hunter's Mark** | — | 90 ft. | Mark target; +1d6 force per hit; move on drop; 1 hr | 1st | V | Conc. · 3/LR |
-| **Mark the Prey** | — | 90 ft. | Cast *Hunter's Mark* without slot or Conc. | 1st | V | 1/LR |
+| **Mark the Prey** ([[Ancestor's Quiver|Quiver]]) | — | 90 ft. | Cast *Hunter's Mark* without slot or Conc. | 1st | V | 1/LR |
 
 ### Reactions
 
@@ -144,11 +144,10 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7 (e
 - **Firbolg Magic** — Cast *Detect Magic* and *Disguise Self* 1/SR without a spell slot.
 - **Hidden Step** — Turn invisible as a Bonus Action 1/SR. See Bonus Actions table.
 - **Alert** — +5 initiative; cannot be surprised.
-- **Ancestor's Quiver: Inexhaustible Arrows** — The quiver always contains mundane arrows; Nanuk does not track ammo.
-- **Ancestor's Quiver: Coordinated Strike** — Advantage on ranged attack rolls against a creature currently in melee with Nanuk's beast companion.
-- **Ancestor's Quiver: Mark the Prey** — 1/LR cast *Hunter's Mark* without a spell slot and without Concentration. See Bonus Actions table.
-- **Ancestor's Quiver: Special Arrows** — The quiver generates 3 charges of special arrows per Long Rest. Nanuk chooses the type as he draws: *Tracking:* The target is revealed through walls and obstacles for 1 hour. *Silence:* The target is Silenced until the end of its next turn (CON save, DC = 8 + proficiency bonus + WIS modifier). *Cold:* The arrow deals an extra 1d6 cold damage and the target's speed is reduced by 10 ft until the end of its next turn.
-- **Ancestor's Quiver: The Bear Watches** *(passive)* — Nanuk cannot be surprised while the quiver is worn.
+- **[[Ancestor's Quiver]]** — **Inexhaustible Arrows:** The quiver always contains mundane arrows; Nanuk does not track ammo.
+- **Coordinated Strike** — Advantage on ranged attack rolls against a creature currently in melee with Nanuk's beast companion.
+- **Special Arrows** — The quiver generates 3 charges of special arrows per Long Rest. Nanuk chooses the type as he draws: *Tracking:* The target is revealed through walls and obstacles for 1 hour. *Silence:* The target is Silenced until the end of its next turn (CON save, DC = 8 + proficiency bonus + WIS modifier). *Cold:* The arrow deals an extra 1d6 cold damage and the target's speed is reduced by 10 ft until the end of its next turn.
+- **Bear Watches** *(passive)* — Nanuk cannot be surprised while the quiver is worn.
 
 ---
 

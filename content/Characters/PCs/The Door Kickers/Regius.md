@@ -108,7 +108,7 @@ Regius fights the way he does everything else — efficiently and without wasted
 | **Unarmed Strike** | M +8 | 5 ft | 6 bludgeoning | - | - | - |
 | **Action Surge** | - | Self | Take one additional action on your turn; not the Magic action | - | - | 1/SR |
 | **Unleash Incarnation** | - | Echo space | When you take the Attack action, make one extra melee attack from the echo's position | - | - | 3/LR |
-| **E's Direction** *(Le Fil)* | — | Self | Hold Le Fil and focus; cord tilts toward anyone of Regius's mother's bloodline — sense direction and range (1 mi / 10 mi / farther; non-combat) | — | — | 1/day |
+| **E's Direction** ([[Le Fil]]) | — | Self | Hold Le Fil and focus; cord tilts toward anyone of Regius's mother's bloodline — sense direction and range (1 mi / 10 mi / farther; non-combat) | — | — | 1/day |
 
 ### Bonus Actions
 
@@ -126,7 +126,7 @@ Regius fights the way he does everything else — efficiently and without wasted
 | **Opportunity Attack** | M +8 | Reach varies | One melee attack when a creature leaves your reach; on hit, speed becomes 0 for the turn | - | - | - |
 | **Reactive Strike** | M +8 | 10 ft | One glaive attack against a creature that enters your reach | - | - | - |
 | **Sentinel** | M +8 | 5 ft | Opportunity Attack when a creature within 5 ft Disengages or hits a target other than you | - | - | - |
-| **One Opening** *(Le Fil)* | — | Self | When Regius rolls a 1 on an attack roll, reroll and use the new result | — | — | 1/LR |
+| **One Opening** ([[Le Fil]]) | — | Self | When Regius rolls a 1 on an attack roll, reroll and use the new result | — | — | 1/LR |
 
 ---
 
@@ -149,7 +149,7 @@ Regius fights the way he does everything else — efficiently and without wasted
 - **Glaive Mastery - Graze:** If your attack roll misses, deal damage equal to the ability modifier used for the attack.
 - **Flail Mastery - Sap:** On a hit, the target has disadvantage on its next attack roll before the start of your next turn.
 - **Javelin Mastery - Slow:** On a hit that deals damage, reduce the target's Speed by 10 feet until the start of your next turn.
-- **[[Le Fil]] (Tier 2, Earth-life carry, attunement required):** When Regius attunes to Le Fil, he designates one weapon he is holding. That weapon gains all of Le Fil's mechanical benefits for as long as he remains attuned and holds it. If the weapon is lost or destroyed, Regius can designate a new weapon during a Short or Long Rest. **+2** to attack and damage rolls with the designated weapon. **Echo's Grip** *(passive)*: When Regius makes an attack from his Manifest Echo's position (Unleash Incarnation), that attack deals an extra 1d6 force damage. The echo holds the same weapon. Le Fil does not distinguish between the hands. **Present Absence** *(passive)*: While Regius's Manifest Echo is active within 30 ft, he gains a +1 bonus to AC. Enemies cannot determine which silhouette is the real threat. The cord is on the weapon; the echo holds the copy. Neither answer is wrong. **One Opening** *(1/Long Rest)*: When Regius rolls a 1 on an attack roll, he may reroll and must use the new result. **Split Strike** *(passive)*: When Regius swaps places with his Manifest Echo, his first attack with the designated weapon before the end of his turn deals an extra 1d8 damage. The real one arrives. The echo was already there. **E's Direction** *(1/day)*: Regius holds the free end of Le Fil and focuses. The cord tightens fractionally, then tilts — pulled toward something he cannot yet name. He learns whether anyone connected to his mother's bloodline is currently within 1 mile (tightens sharply), 10 miles (tightens slightly), or farther (barely moves). He also senses a direction. The information is always accurate. He does not know how.
+- **[[Le Fil]] (Tier 2, Earth-life carry, attunement required):** When Regius attunes to Le Fil, he designates one weapon he is holding. That weapon gains all of Le Fil's mechanical benefits for as long as he remains attuned and holds it. If the weapon is lost or destroyed, Regius can designate a new weapon during a Short or Long Rest. **+2** to attack and damage rolls with the designated weapon. **Echo's Grip** *(passive)*: When Regius makes an attack from his Manifest Echo's position (Unleash Incarnation), that attack deals an extra 1d6 force damage. **Present Absence** *(passive)*: While Regius's Manifest Echo is active within 30 ft, he gains a +1 bonus to AC. **Split Strike** *(passive)*: When Regius swaps places with his Manifest Echo, his first attack with the designated weapon before the end of his turn deals an extra 1d8 damage.
 
 ---
 

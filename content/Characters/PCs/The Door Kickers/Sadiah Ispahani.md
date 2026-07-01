@@ -77,18 +77,25 @@ She was redirecting a private art collection to a family of displaced farmers wh
 | **Speed** | 35 ft. |
 | **Proficiency Bonus** | +2 |
 
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+|---|---|---|---|---|---|---|
+| **Sukoon** ([[Sukoon and Junoon|Sickles]]) | M +? | 5 ft. | 1d4+? slash, +2 item bonus | — | — | — |
+| **Junoon** ([[Sukoon and Junoon|Sickles]]) | M +? | 5 ft. | 1d4+? slash, +2 item bonus; TWF off-hand | — | — | — |
+
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Invisible Third** *(Sickles)* | — | 30 ft. | Position Mage Hand holding a sickle; make TWF off-hand attack from Hand's location (uses normal attack modifier); Sneak Attack applies if conditions met from Hand's position | — | — | — |
+| **Invisible Third** ([[Sukoon and Junoon|Sickles]]) | — | 30 ft. | Position Mage Hand holding a sickle; make TWF off-hand attack from Hand's location (uses normal attack modifier); Sneak Attack applies if conditions met from Hand's position | — | — | — |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Junoon's Word** *(Sickles)* | — | Self | When Sadiah rolls a 1 on any d20 roll (attack, save, or check), reroll and use the new result | — | — | 1/SR |
-| **Debt Paid** *(Sickles)* | WIS ? | Self | After dealing Sneak Attack damage: target makes WIS save (DC = spell save DC) or Frightened of Sadiah until end of their next turn | — | — | 1/day |
+| **Junoon's Word** ([[Sukoon and Junoon|Sickles]]) | — | Self | When Sadiah rolls a 1 on any d20 roll (attack, save, or check), reroll and use the new result | — | — | 1/SR |
+| **Debt Paid** ([[Sukoon and Junoon|Sickles]]) | WIS ? | Self | After dealing Sneak Attack damage: target makes WIS save or is Frightened of Sadiah until end of their next turn | — | — | 1/day |
 
 ### Features
 
@@ -110,7 +117,7 @@ She was redirecting a private art collection to a family of displaced farmers wh
 **Arcane Trickster (Level 3)**
 - **Spellcasting** — INT-based. Wizard spell list. 3 cantrips (*Mage Hand* + 2 Wizard). 2 × 1st-level spell slots (LR recovery). 3 prepared spells (Wizard; can change one per Rogue level gained). Spellcasting Focus: Arcane Focus.
 - **Mage Hand Legerdemain** — Cast *Mage Hand* as a Bonus Action; the hand can be Invisible. Control the hand as a Bonus Action; through it, make Dexterity (Sleight of Hand) checks.
-- **[[Sukoon and Junoon]] (Tier 2, Earth-life carry; +2 sickles, attunement required):** Tier 1 — **Still Point** *(passive)*: Using Steady Aim does not reduce Sadiah's speed to 0 — she may still move up to half her speed this turn. When she uses Steady Aim before attacking with Sukoon or Junoon, she also adds 1d6 to her Sneak Attack damage roll on that turn. **The Named Weight** *(passive)*: When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target must succeed on a Constitution saving throw (DC = Sadiah's spell save DC) or be unable to take Reactions until the start of its next turn. **Junoon's Word** *(1/Short Rest)*: When Sadiah rolls a 1 on any d20 roll — attack, saving throw, or ability check — Junoon disagrees. She may reroll and must use the new result. Tier 2 — **The Invisible Third** *(passive)*: Sadiah's Mage Hand can hold and position one sickle. She can make her off-hand attack (Two-Weapon Fighting bonus action) from the Hand's location rather than her own. The attack uses her normal attack modifier. Sneak Attack applies if its conditions are met from the Hand's position. The Hand can be up to 30 ft away. **Debt Paid** *(1/day)*: Immediately after dealing Sneak Attack damage, Sadiah may name (silently) one person she has ever stolen for. The target makes a Wisdom saving throw (DC = Sadiah's spell save DC). On a failure, they are Frightened of Sadiah until the end of their next turn. They do not see her clearly. They see the weight of what they owe.
+- **[[Sukoon and Junoon]] (Tier 2, Earth-life carry; +2 sickles, attunement required):** **Still Point** *(passive)*: Using Steady Aim does not reduce Sadiah's speed to 0 — she may still move up to half her speed this turn. When she uses Steady Aim before attacking with Sukoon or Junoon, she also adds 1d6 to her Sneak Attack damage roll on that turn. **The Named Weight** *(passive)*: When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target must succeed on a Constitution saving throw (DC = Sadiah's spell save DC) or be unable to take Reactions until the start of its next turn.
 
 ---
 

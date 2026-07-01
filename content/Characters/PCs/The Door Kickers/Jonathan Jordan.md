@@ -139,19 +139,16 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
 | **Uncanny Dodge** | - | Self | Halve damage from one attack that hits you (attacker must be visible) | - | - | - |
-| **Coin's Edge** *(Symbol)* | - | Self | When a hit against JJ exactly matches his AC, use Reaction to flip it to a miss | - | - | 1/SR |
-| **Luck Point — Intercept** *(Symbol)* | — | Self | When an attack roll is made against JJ: spend 1 Luck Point to impose Disadvantage on that roll (no action required) | — | — | Pool 2/LR |
-| **Luck Point — Fortune** *(Symbol)* | — | Self | When JJ makes a D20 Test: spend 1 Luck Point to grant himself Advantage on the roll, even if Disadvantage applies (no action required) | — | — | Pool 2/LR |
+| **Coin's Edge** ([[Rathan's Symbol of Tymora|Symbol]]) | - | Self | When a hit against JJ exactly matches his AC, use Reaction to flip it to a miss | - | - | 1/SR |
+| **Luck Point — Intercept** ([[Rathan's Symbol of Tymora|Symbol]]) | — | Self | When an attack roll is made against JJ: spend 1 Luck Point to impose Disadvantage on that roll (no action required) | — | — | Pool 2/LR |
+| **Luck Point — Fortune** ([[Rathan's Symbol of Tymora|Symbol]]) | — | Self | When JJ makes a D20 Test: spend 1 Luck Point to grant himself Advantage on the roll, even if Disadvantage applies (no action required) | — | — | Pool 2/LR |
 
 ---
 
 ### Features
 
 - **Sneak Attack (3d6):** once per turn, add 3d6 damage when attacking with advantage OR when an ally is adjacent to the target
-- **Cunning Action:** Dash, Disengage, or Hide as a Bonus Action
-- **Steady Aim:** Bonus Action to gain advantage on your next attack this turn; Speed becomes 0 until end of turn
 - **Cunning Strike (L5):** expend 1d6 of Sneak Attack for one of: Poison (CON DC 14 or Poisoned 1 min), Trip (DEX DC 14 or Prone), Withdraw (move up to 5 ft without triggering OA)
-- **Uncanny Dodge:** use your Reaction to halve damage from one attack (attacker must be visible)
 - **Psionic Energy Dice (3xd6/LR):**
   - *Psi-Bolstered Knack:* when you fail an ability check, expend 1 die and add its result to the check; if it passes, you succeed
   - *Psychic Whispers:* expend 1-5 dice to establish telepathic communication with that many willing creatures for 8 hrs; 1/LR free without spending dice
@@ -159,7 +156,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
   - *Nick:* when you use the Attack action with a Light weapon, make one extra attack with a different Light weapon as part of that action (no Bonus Action needed)
   - *Vex:* on hit, target is Vexed until the start of your next turn; your next attack roll against that target has advantage
 - **Thieves Cant:** secret language and cipher system known by Rogues
-- **[[Rathan's Symbol of Tymora]] (Tier 2, prequel item, attunement required):** Each Luck Point can be spent to grant yourself **Advantage** on one D20 Test (attack roll, ability check, or saving throw), or impose **Disadvantage** on one attack roll made against you; 2 Luck Points per Long Rest. **Lady Luck's Favor** *(passive)*: When JJ rolls a natural 20 on any d20 test, he regains his expended Luck Point. **Coin's Edge** *(1/Short Rest)*: When an attack roll against JJ exactly matches his AC — the hit that just barely lands — he can use his Reaction to flip the result. The attack misses instead. **Double Down:** When JJ spends a Luck Point on a d20 roll and the result is a success, roll a d6. On a 4–6, regain the Luck Point. Tymora rewards those who bet on themselves.
+- **[[Rathan's Symbol of Tymora]] (Tier 2, prequel item, attunement required):** **Lady Luck's Favor** *(passive)*: When JJ rolls a natural 20 on any d20 test, he regains his expended Luck Point. **Double Down:** When JJ spends a Luck Point on a d20 roll and the result is a success, roll a d6. On a 4–6, regain the Luck Point. Tymora rewards those who bet on themselves.
 
 ---
 
