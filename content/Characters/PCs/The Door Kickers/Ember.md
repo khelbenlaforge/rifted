@@ -139,19 +139,18 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing (x2)** | — | Self | 2d4+2 HP (admin. to another: Action) | — | — | 1 use |
-| **Summon/Dismiss Vesper** | — | Adjacent | Summon wolf companion or dismiss to amulet | — | — | — |
+| **Summon/Dismiss Vesper** ([[Vesper's Amulet|Amulet]]) | — | Adjacent | Summon wolf companion or dismiss to amulet | — | — | — |
 | **Wild Shape** | — | Self | Moon Druid beast form (CR 1 max) | — | — | 2x/SR |
 | **Healing Word** | — | 60 ft. | 2d4+4 HP | 1st | V | — |
 | **Jump** | — | Touch | Jump 30 ft. by spending 10 ft. move; 1 min | 1st | V, S, M (grasshopper leg) | — |
 | **Flame Blade** | M +6 | 5 ft. | 3d6 fire; re-summon as BA; 10 min | 2nd | V, S, M (sumac) | Conc. |
-| **Fey Recall** *(Amulet)* | — | Self | Summon or dismiss Vesper | — | — | — |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **The Hunt as One** *(Amulet)* | — | Self | After Ember casts a single-target spell: Vesper makes one free attack against that same creature | — | — | 1/LR |
-| **In Harmony** *(Amulet)* | — | Self | When Vesper hits a creature: Ember may cast one cantrip targeting that creature (free — no BA cost) | — | — | 1/round |
+| **The Hunt as One** ([[Vesper's Amulet|Amulet]]) | — | Self | After Ember casts a single-target spell: Vesper makes one free attack against that same creature | — | — | 1/LR |
+| **In Harmony** ([[Vesper's Amulet|Amulet]]) | — | Self | When Vesper hits a creature: Ember may cast one cantrip targeting that creature (free — no BA cost) | — | — | 1/round |
 
 ---
 
@@ -164,7 +163,7 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 - **Winged Tiefling** — Fly speed 30 ft.; Darkvision 60 ft.; Fire resistance. Does not grant Infernal Legacy spells.
 - **War Caster** — Advantage on CON saves to maintain concentration; somatic components with hands full; can cast a spell as an opportunity attack.
 - **Blight's Call** — Frightens blights and undead, but the user must also make the horn's curse save after blowing it.
-- **[[Vesper's Amulet]] (Tier 2, Bonded Wolf):** Tier 1 — **Fey Recall** *(passive)*: Ember can summon or dismiss Vesper as a Bonus Action instead of an Action. **Nature's Alarm** *(passive)*: While Vesper is within 60 ft, Ember cannot be surprised. Vesper's instincts flow through the crystal before Ember's mind registers the threat. **The Hunt as One** *(1/Long Rest)*: When Ember casts a spell that targets a single creature, Vesper can make one attack against the same creature as a free action immediately after. No action cost. Tier 2 — **Bonded Wolf:** Vesper is Large, AC 13, HP 19, Speed 45 ft., with **Pack Tactics** and **Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) Piercing damage plus 3 (1d6) Force damage. If the target is Large or smaller, it has the Prone condition. **Echo of the Pack** *(passive)*: Vesper's attacks deal an extra 1d6 force damage. **In Harmony** *(passive)*: Once per round, when Vesper successfully hits a creature with an attack, Ember may cast a cantrip targeting that same creature as a free action. No Bonus Action cost.
+- **[[Vesper's Amulet]] (Tier 2, Bonded Wolf):** **Fey Recall** *(passive)*: Ember can summon or dismiss Vesper as a Bonus Action instead of an Action. **Nature's Alarm** *(passive)*: While Vesper is within 60 ft, Ember cannot be surprised. **Crystal Bond** *(passive)*: While within 60 ft, Vesper cannot be Charmed or Frightened; when Ember takes damage, Vesper senses it immediately regardless of distance. **Echo of the Pack** *(passive)*: Vesper's attacks deal an extra 1d6 force damage.
 
 ---
 

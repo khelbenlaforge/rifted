@@ -131,6 +131,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 | **Unseen Servant** | — | 60 ft. | Invisible servant; simple tasks for 1 hr | 1st | V/S/M | Ritual |
 | **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn | 2nd | V/S/M | Conc. |
 | **Suggestion** | WIS 14 | 30 ft. | Fail Charmed; follows brief suggestion | 2nd | V/M | Conc. |
+| **Elminster's Inquiry** ([[Elminster's Spellbook|Spellbook]]) | — | 60 ft. | Ask one yes/no question of creature, object, or location seen in last 1 min | 1st | V, S | — |
 
 † Material component has a listed cost and is not consumed.
 
@@ -140,6 +141,8 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing** | — | Self | 2d4+2 HP; to another creature = Action | — | — | 1 use |
 | **Expeditious Retreat** | — | Self | Dash as BA for duration; 10 min | 1st | V/S | Conc. |
+| **Elminster's Misdirection** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Until next turn, 1st atk vs Lea has disadv.; Lea's 1st save has adv. | 2nd | V | — |
+| **Elminster's Parting Gift** ([[Elminster's Spellbook|Spellbook]]) | DEX 14 | Touch | Conjure bead; ally squeezes for 3d6+4 HP or adv. on save, or throws 20/60 for 6d6 force, save half | 3rd | V, S | — |
 
 ### Reactions
 
@@ -147,6 +150,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Silvery Barbs** | — | 60 ft. | Reroll success; use lower; ally gains adv. | 1st | V | — |
 | **Chronal Shift** | — | 30 ft. | Force reroll of atk/check/save | — | — | 2×/LR |
+| **Elminster's Word of Unmaking** ([[Elminster's Spellbook|Spellbook]]) | CON 14 | 60 ft. | Trigger: creature casts Conc. spell; fail = spell fizzles before effect | 2nd | V | — |
 
 ---
 
@@ -154,7 +158,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 
 - **Arcane Recovery** — 1/LR after a short rest, recover spell slots totaling 2 levels.
 - **Ritual Adept** — Can cast Wizard ritual spells from her spellbook without preparing them.
-- **[[Elminster's Spellbook]]** — Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon; *Elminster's Footnote* remains locked until unlocked through play.
+- **[[Elminster's Spellbook]]** — Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* remains locked until Lea has successfully cast 3 spells from the book in play.
 - **Detect Magic (Elven Lineage)** — Cast *Detect Magic* 1/LR without a spell slot.
 - **Temporal Awareness** — Add Intelligence modifier to initiative rolls.
 - **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.

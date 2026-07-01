@@ -119,9 +119,10 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 | **Hunger of Hadar** | DEX 15 | 150 ft | 20-ft sphere of magical darkness; cold and acid damage in area | 3 | V S M | Conc. |
 | **Remove Curse** | - | Touch | End one curse affecting a creature or object | 3 | V S | - |
 | **Magical Cunning** | - | Self | 1-minute rite; regain 1 expended Pact Magic slot | - | - | 1/LR |
-| **Classify** *(Specimen)* | — | 30 ft. | Observe creature 1 round: learn type, CR bracket, 1 immunity/resistance, 1 behavioral fact; crit 19–20 until start of Shen's 2nd next turn; relay via Awakened Mind (free) | — | — | Pool 2/LR |
-| **Excavation** *(Specimen)* | — | Touch | 1-min contact with surface/object; ask patron 3 yes/no questions about events at this location; answers appear as marginalia in Shen's notes | — | — | Pool 2/LR |
-| **Speak with Dead** *(Specimen)* | — | Touch | As 3rd-level spell (1 min cast); voice sounds older than the individual | 3rd | — | Pool 2/LR |
+| **Classify** ([[Unclassified Specimen|Specimen]]) | — | 30 ft. | Observe creature 1 round: learn type, CR bracket, 1 immunity/resistance, 1 behavioral fact; crit 19–20 until start of Shen's 2nd next turn; relay via Awakened Mind (free) | — | — | Pool 2/LR |
+| **Excavation** ([[Unclassified Specimen|Specimen]]) | — | Touch | 1-min contact with surface/object; ask patron 3 yes/no questions about events at this location; answers appear as marginalia in Shen's notes | — | — | Pool 2/LR |
+| **Speak with Dead** ([[Unclassified Specimen|Specimen]]) | — | Touch | As 3rd-level spell (1 min cast); voice sounds older than the individual | 3rd | — | Pool 2/LR |
+| **Strata** ([[Unclassified Specimen|Specimen]]) | CON 13 | Touch | Receive a 6-sec psychic flash of the site's most significant event; fail save = Stunned until end of next turn | — | — | Pool 2/LR |
 
 ### Bonus Actions
 
@@ -151,7 +152,7 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 - **Keen Mind:** Always know north, always know time elapsed, and perfectly recall what you have seen or heard recently.
 - **Sickle Mastery - Nick:** When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action; once per turn.
 - **Dagger Mastery - Nick:** When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action; once per turn.
-- **[[Unclassified Specimen]] (Tier 2, prequel item, attunement required):** **Deep Time** *(passive)*: Shen senses the approximate age of any object or surface he touches. **Ancient Repository** *(passive)*: Advantage on Intelligence (History) and Intelligence (Arcana) checks relating to ancient, extinct, or undead creatures. **Active (2/Long Rest — choose one):** **Speak with Dead:** As the 3rd-level spell. The patron provides the conduit. The voice that answers sounds older than the corpse — not just the individual, but the species. **Classify:** Shen observes a creature for one round. He learns: creature type, CR bracket, one immunity or resistance, and one behavioral fact. He may relay this to all allies within 30 ft via Awakened Mind as a free action. The crit window on 19–20 extends until the start of Shen's *second* next turn. The patron chooses which behavioral fact to share. It is always accurate. It is not always the most immediately useful one. **Excavation:** Shen spends 1 minute in contact with a surface or object. He may ask the patron three yes/no questions about what occurred at this location. The patron answers in marginalia that appear in Shen's notes. Answers are accurate. They are not always immediately legible.
+- **[[Unclassified Specimen]] (Tier 2, prequel item, attunement required):** **Deep Time** *(passive)*: Shen senses the approximate age of any object or surface he touches. **Ancient Repository** *(passive)*: Advantage on Intelligence (History) and Intelligence (Arcana) checks relating to ancient, extinct, or undead creatures. **Strata:** active use; see Actions table.
 
 ---
 

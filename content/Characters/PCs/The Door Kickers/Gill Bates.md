@@ -135,7 +135,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | **Turn Undead** *(CD)* | WIS DC 15 | 30 ft | Undead flee 1 min; turned undead take 1 radiant (min 1) | - | V S | 2/SR |
 | **Divine Spark** *(CD)* | CON DC 15 | 30 ft | Heal 2d8+4 OR deal 2d8+4 radiant/necrotic (save for half) | - | V S | 2/SR |
 | **Arcane Abjuration** *(CD)* | WIS DC 15 | 30 ft | Aberr/Celest/Elem/Fey/Fiend/Undead CR 1/2 or less banished 1 min; CR 1/2-3 turned | - | V S | 2/SR |
-| **Adon's Counsel** *(Fair Catch)* | — | Self | Ask Fair Catch a question — Adon answers (non-combat; will comment on local water quality first) | — | — | 1/day |
+| **Adon's Counsel** ([[Fair Catch]]) | — | Self | Ask Fair Catch a question — Adon answers (non-combat; will comment on local water quality first) | — | — | 1/day |
 
 *Augury, Magic Circle, and Revivify require costly material components. True Strike uses a weapon you are proficient with.*
 
@@ -153,7 +153,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Adon's Murmur** *(Fair Catch)* | — | Self | When Gill rolls a 1 on an attack roll with Fair Catch, reroll and use the new result | — | — | 1/LR |
+| **Adon's Murmur** ([[Fair Catch]]) | — | Self | When Gill rolls a 1 on an attack roll with Fair Catch, reroll and use the new result | — | — | 1/LR |
 
 ---
 
@@ -164,8 +164,8 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - **Sear Undead:** when you Turn Undead, turned undead take CHA mod (min 1) radiant damage
 - **Magic Initiate: Wizard (feat):** Fog Cloud + Magic Missile each 1/LR free (no slot required); cantrips always available
 - **Tough (feat):** +2 HP per level (already factored into HP 49)
-- **Weapon Mastery (2 assignments -- swap on LR):** Fair Catch/Spear *(Sap)* and Mace *(Sap)*: on hit, target has disadvantage on its next attack roll until the start of your next turn
-- **[[Fair Catch]] (Tier 2, prequel item, attunement required):** Tier 1 — **Returns:** When thrown, the spear returns to Gill's hand at the start of his next turn. **Reel In:** Once per turn, when the spear hits a creature, Gill can pull them up to 10 ft toward him. The creature makes a Strength saving throw (DC = 8 + proficiency bonus + Wisdom modifier). On a failure, they are pulled. On a success, they hold. **Sune's Grace** *(passive)*: A creature that fails its Reel In save is briefly transfixed by something inexplicably beautiful about the moment — a flash of rose-gold light, a whiff of something floral in a dungeon that has no flowers. They have disadvantage on their next attack roll against Gill before the start of his next turn. **Adon's Murmur** *(1/Long Rest)*: When Gill rolls a 1 on an attack roll with the spear, Adon's voice whispers in his ear. Not ominously — just resigned, the way a fisherman sounds when the line goes slack. Gill can reroll the attack and must use the new roll. Tier 2 — **+2** to attack and damage rolls. **Barbed:** A creature that fails its Reel In save is also Grappled (escape DC = 8 + proficiency + WIS mod) until the start of Gill's next turn. The grapple ends if the spear leaves Gill's hand. **Adon's Counsel** *(1/day)*: Gill can ask the spear a question. Adon answers. He has been carrying knowledge from the prequel for a while and is not entirely at peace with all of it. He answers honestly. He will usually comment on the local water quality before getting to the point.
+- **Weapon Mastery (2 assignments -- swap on LR):** [[Fair Catch]] *(Sap)* and Mace *(Sap)*: on hit, target has disadvantage on its next attack roll until the start of your next turn
+- **[[Fair Catch]] (Tier 2, prequel item, attunement required):** **Returns:** When thrown, the spear returns to Gill's hand at the start of his next turn. **Reel In:** Once per turn, when the spear hits a creature, Gill can pull them up to 10 ft toward him. The creature makes a Strength saving throw (DC = 8 + proficiency bonus + Wisdom modifier). On a failure, they are pulled. On a success, they hold. **Sune's Grace** *(passive)*: A creature that fails its Reel In save is briefly transfixed by something inexplicably beautiful about the moment and has disadvantage on its next attack roll against Gill before the start of his next turn. **Barbed:** A creature that fails its Reel In save is also Grappled (escape DC = 8 + proficiency + WIS mod) until the start of Gill's next turn. The grapple ends if the spear leaves Gill's hand.
 
 ---
 

@@ -144,7 +144,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 | **Shield of Faith** | -- | 60 ft | Target gains +2 AC for 10 min | 1 | V S M | Conc. |
 | **Shining Smite** | -- | Self | Next weapon hit: +2d8 radiant; target sheds 5-ft bright, disadv. Hide; CON save each turn to end | 2 | V | Conc. |
 | **Peerless Athlete** *(Channel Divinity)* | -- | Self | 1 hr: adv. Athletics/Acrobatics; carry/push/drag x2; jump x2 | -- | -- | 2/LR |
-| **Activate Brand** | -- | Self | Speed +10 ft, Keen Smell, +1d8 slash on melee hits; no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest; deactivates on kill (2 charges/LR) | -- | -- | 2/LR |
+| **Activate Brand** ([[Kelemvor's Brand|Brand]]) | -- | Self | Speed +10 ft, Keen Smell, +1d8 slash on melee hits; no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest; charge spent when brand deactivates on kill | -- | -- | 2/LR |
 | **Brand: Bite** *(Pounce only)* | M +7 | 5 ft | 1d6+4 pierce -- after Pounce hits and target is prone | -- | -- | -- |
 | Lay on Hands -- Cure | -- | Touch | Spend 5 HP from pool to cure one disease or poison | -- | -- | Pool |
 | Potion of Healing (self) | -- | Self | Restore 2d4+2 HP | -- | -- | -- |
@@ -168,7 +168,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **Channel Divinity (2/LR):** *Inspiring Smite* (immediately after Divine Smite, distribute 2d8 temp HP to self + creatures in 30 ft; no action) or *Peerless Athlete* (BA; 1 hr adv. Athletics/Acrobatics, carry x2, jump x2).
 - **Oath of Glory Always-Prepared:** Guiding Bolt, Heroism (L1); Enhance Ability, Magic Weapon (L2) -- always prepared.
 - **Weapon Mastery:** Longsword/Spear/Toothpick *(Sap):* on hit, target disadv. on its next atk roll. Javelin/Light Crossbow *(Slow):* on hit, target speed -10 ft.
-- **Kelemvor's Brand (Tier 2 -- Pounce):** BA (2 extinction charges/LR). Active: Speed +10, Keen Smell, Claw Strike (+1d8 slash); no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest. Pounce: 20+ ft straight + melee hit = target STR DC 15 or prone; BA Bite (1d6+4 pierce). Extinction: deactivates on kill (1 charge); Backlash: disadv. all atk rolls and saves until end of next turn. The brand cannot be voluntarily deactivated at Tiers 1–2 — if combat ends without a kill, transformation persists (loss of control saves continue) until the extinction clause fires or a long rest.
+- **[[Kelemvor's Brand]] (Tier 2 -- Pounce):** BA (2 extinction charges/LR). Active: Speed +10, Keen Smell, Claw Strike (+1d8 slash); no L2+ spells; disadv. Persuasion; WIS DC 12/turn or must atk nearest. Pounce: 20+ ft straight + melee hit = target STR DC 15 or prone; BA Bite (1d6+4 pierce). Extinction: deactivates on kill (1 charge); Backlash: disadv. all atk rolls and saves until end of next turn. The brand cannot be voluntarily deactivated at Tiers 1–2 — if combat ends without a kill, transformation persists (loss of control saves continue) until the extinction clause fires or a long rest.
 - **Warforged Integrated Protection:** AC includes armor + shield + fighting style. Unarmed Strikes: 1d4+4 bludgeoning.
 
 ---
