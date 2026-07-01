@@ -9,6 +9,8 @@
 
 
 
+
+
 created: 2026-06-29T17:14:45
 
 title: "Regius"
@@ -19,7 +21,7 @@ campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
-updated: 2026-06-30T22:19:10
+updated: 2026-07-01T18:00:12
 ---
 
 # Regius
@@ -48,7 +50,7 @@ Life in Ukraine was never easy, and it grew harder. His father remarried and was
 
 He has a younger stepsister he is ferociously protective of. She has grown up too fast — street-smart and self-sufficient in ways that impress and worry him in equal measure. He sends whatever he can manage and urges her constantly to find a way out before the war takes more from them. Returning himself is not an option. If he crosses the border, he will be drafted.
 
-So he stays on Saint Barthélemy. He secured a long-term work visa through hard work and a well-cultivated friendship with a resort manager, and now spends his days as a waiter, poolside server, and occasional concierge — smiling, charming, making wealthy guests feel seen. The tips are exceptional, especially from the women who respond to his attention. It is a calculated game, and he is good at it, and it hollows him out a little more each season. Somewhere beneath all of it, he is hunting: for the woman who signed that note with a single letter, for whatever she owes him, and for a version of his life that doesn't feel like constant triage.
+So he stays on Saint Barthélemy. He secured a long-term work visa through hard work and a well-cultivated friendship with a resort manager, and has spent nearly four seasons as a waiter, bellboy, poolside server, and occasional concierge — smiling, charming, making wealthy guests feel seen. The tips are exceptional, especially from the women who respond to his attention. It is a calculated game, and he is good at it, and it hollows him out a little more each season. Somewhere beneath all of it, he is hunting: for the woman who signed that note with a single letter, for whatever she owes him, and for a version of his life that doesn't feel like constant triage.
 
 ## Abilities
 
@@ -60,7 +62,7 @@ Regius fights the way he does everything else — efficiently and without wasted
 
 ## Relationships
 
-- **Stepsister** — younger, fiercely protected; he sends money home and urges her to leave Ukraine
+- **Katya** — younger stepsister, fiercely protected; he sends money home and urges her to leave Ukraine
 - **Father** — Ukrainian farmer, alcoholic, liver cancer; Regius loves him and is exhausted by him
 - **"E"** — his absent mother; known only by an initial; the wound at the centre of everything
 
