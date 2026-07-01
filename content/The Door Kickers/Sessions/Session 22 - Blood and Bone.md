@@ -1,4 +1,8 @@
 ---
+
+
+
+
 created: 2026-06-30T21:57:57
 
 title: "Session 22 — Blood and Bone"
@@ -8,7 +12,7 @@ campaign: Rifted
 session: 22
 date: 2026-06-29
 in-world-date: "13th–23rd Nightal, Year 222 PA"
-updated: 2026-06-30T21:57:57
+updated: 2026-07-01T18:00:39
 ---
 
 # Session 22 — Blood and Bone
@@ -43,6 +47,10 @@ The picture resolved. The transit spell — seventh level, the kind of working t
 
 The [[Church of Kelemvor]] — the god of death, arbiter of where souls go — tracks cross-planar soul movement. They police it. [[Gill Bates]] and [[Augustus Kennedy]] have paths into that institution. Those paths just became relevant.
 
+One further note: the circle is not complete. Daria's read of the residue was clear on that — the formula is directed, it has a target, but where Layla intended it to land is not legible in what Perrin scattered. A question, not an answer.
+
+The two weeks of downtime also surfaced the [[Azure Tamers]] — the faction that runs aerial transport out of Crystal City, griffins primarily. Worth knowing if options for moving fast narrow.
+
 [[Shen]] had not wasted his two weeks in the city. The Ether Scryer's Academy had taken him in before he finished introducing himself — a herbalist society that gave him a kit and a proficiency; an antiquities department head who crossed the room when Shen mentioned the murals in the [[Sunless Citadel]]. The antiquities department exists to answer a question that has been open for two hundred and twenty-two years: why does no one in Aenath remember anything before the Awakening? Shen gave them an eyewitness account of a chamber full of deity statues and a mural depicting a primordial exodus. They made him an employee. The Academy paid thirty-two gold a week; he earned sixty-four in the two weeks of tracking.
 
 ## The Maimed God's Scales
@@ -55,7 +63,7 @@ The statue in the main hall holds scales of justice. JJ had been tasked by Istar
 
 [[Istar Silverlock]] heard the proposal explained to the party and let a moment of silence sit before the cheeky smile arrived. *It could be fun.* The reward he offered: half-proficiency — or full, in his specialties — in any skill, for anyone who helped pull it off. He has proficiency in everything. In deception, insight, investigation, perception, sleight of hand, and stealth, he has double proficiency. He would not be helping directly.
 
-The party's enthusiasm varied. Their participation was still being negotiated when the next deadline asserted itself.
+The party's enthusiasm varied. [[Regius]] agreed on the condition he would be compensated — or permitted to pocket something from the church's own coffers. He then talked [[Lea Silverhand|Lea]] into joining. Their participation was settled when the next deadline asserted itself.
 
 ## Open Sesame
 
@@ -63,9 +71,9 @@ The [[The Low Flagon|Low Flagon]] meeting had a ten-day window. The window was c
 
 The code phrase — *I have four litres of blood to sell* — was [[Tinny]]'s intelligence from the previous month. It would get someone into the negotiation, not just past the door. The working theory: go in as sellers. Present as people with product and a need for distribution. JJ had the street credibility. [[Shen]] had the academic vocabulary to speak convincingly about what the material was worth. [[Regius]] was new enough to Crystal City that the [[The Claret|Claret]] had no record of him, and persuasive enough to carry a room.
 
-[[Nanuk]] would be on the roof. Inukshuk within eyeline. The bear, when needed, would go in fast.
+[[Lea Silverhand|Lea]] would go in separately — in disguise, a different table, a different drink, a second set of eyes at ground level. [[Terra]] would stay outside: sole lookout, with sight lines on the only entrance. Where [[Nanuk]] stood was still under consideration: on the roof with Inukshuk for rapid response, or inside in disguise at his own table. Both options remained when the session closed.
 
-The plan was formed before the session closed. The meeting had not yet happened.
+The meeting had not yet happened.
 
 ---
 
