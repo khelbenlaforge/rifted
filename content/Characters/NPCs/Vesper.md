@@ -1,14 +1,21 @@
 ---
+
+
+
+
+
+
 title: Vesper
 aliases:
 tags:
   - npc
+  - creature/beast
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-03-22T23:00
+updated: 2026-07-02T16:00:33
 ---
 
 # Vesper
@@ -19,9 +26,9 @@ updated: 2026-03-22T23:00
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Wolf (Primal Companion) |
-> | Location | [[Shadowdale]] (with Selmavra) |
-> | Affiliation | [[Selmavra Elsree]] |
+> | Race | Wolf (Bonded Companion) |
+> | Location | With [[Ember]] |
+> | Affiliation | [[Ember]] (formerly [[Selmavra Elsree]]) |
 
 ## Description
 
@@ -41,21 +48,69 @@ The guards at the Shadowdale post have accepted him as a permanent fixture. Some
 
 In Session 14, Vesper fought in his first combat — the Zhentarim ambush at the Old Skull Inn courtyard. He took significant damage and spent most of the fight protecting the stable boy.
 
-## Stat Block
+When [[Ember]] carried [[Vesper's Amulet|a crystal amulet]] back from that same Shadowdale vision (Session 16), Vesper's bond crossed with it. He no longer runs at Selmavra's side in the Dalelands — he steps out of the crystal's light at Ember's call, into Aenath, into a world he has never smelled before. He has not forgotten Selmavra. He simply belongs to someone else now.
+
+## Role in the Story
+
+Ember's summoned companion. Fights at her side when called; otherwise rests in the amulet. Currently Tier 2 (Bonded Wolf, Level 5).
+
+## D&D 5e Stat Block
 
 
+
+*Current as of Tier 2 (Level 5). Full tier progression and passive abilities (Fey Recall, Nature's Alarm, The Hunt as One, Echo of the Pack, In Harmony) live on [[Vesper's Amulet]].*
+
+## Historical Stat Block — Session 14 (Selmavra's Ranger Level 4)
+
+Kept for reference only. Not used in current play — Vesper's active stats are the Tier 2 block above. (Plain code block, not `statblock` — kept out of Initiative Tracker and Foundry import pickup on purpose.)
+
+```yaml
+name: Vesper (Prequel Vision)
+size: Medium
+type: Beast
+subtype: Primal Companion
+alignment: Neutral
+ac: 16
+hp: 25
+hit_dice: 4d8+8
+speed: "40 ft., climb 40 ft."
+stats: [14, 14, 15, 8, 14, 11]
+saves:
+  - str: 4
+  - dex: 4
+  - con: 4
+  - int: 1
+  - wis: 4
+  - cha: 2
+senses: "Darkvision 60 ft., passive Perception 12"
+languages: "Understands the languages Selmavra knows"
+cr: "—"
+traits:
+  - name: Primal Bond
+    desc: "Vesper adds +2 (Selmavra's Proficiency Bonus) to any ability check or saving throw he makes."
+  - name: Primal Markings
+    desc: "Vesper bears faint glowing markings along his flanks, indicating his mystical origin."
+actions:
+  - name: Beast's Strike (Bite)
+    desc: "_Melee Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1d8+5 piercing damage. If Vesper moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 piercing damage and must succeed on a DC 12 Strength saving throw or have the Prone condition (Large or smaller creatures only)."
+```
 
 ## Relationships
 
-- **[[Selmavra Elsree]]** — His ranger. Found him injured, got him free, never asked for anything in return. Vesper has decided this is sufficient.
+- **[[Ember]]** — His current bond, formed through [[Vesper's Amulet]]. She calls, he comes.
+- **[[Selmavra Elsree]]** — His first ranger. Found him injured, got him free, never asked for anything in return. Vesper has decided this is sufficient, and has not stopped being true even though he no longer runs beside her.
 
 ---
 Race:: Wolf
-Subrace:: Primal Companion
+Subrace:: Bonded Companion
 Pronouns:: he/him
 Class::
-Affiliation:: [[Selmavra Elsree]]
-Location:: [[Shadowdale]]
+CR:: 1
+Size:: Large (Tier 2) / Medium (prequel)
+Habitat::
+Found In::
+Affiliation:: [[Ember]]
+Location:: With [[Ember]]
 Deity::
 
 
