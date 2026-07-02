@@ -1,4 +1,6 @@
 ---
+
+
 title: Vesper's Amulet
 aliases:
   - Crystal Amulet
@@ -8,7 +10,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-26T03:47
-updated: 2026-06-24T17:03
+updated: 2026-07-02T15:29:49
 ---
 > [!infobox]
 > # Vesper's Amulet
@@ -24,7 +26,7 @@ Clear crystal, roughly teardrop-shaped, set in a simple wire frame. In certain l
 **Carrier:** [[Ember]]
 **Attunement:** Required (Ember only)
 
-Summoning Vesper requires an Action unless a tier ability specifies otherwise. Vesper acts on Ember's initiative, obeys Ember's commands, and is loyal to the party. If reduced to 0 HP, she returns to the amulet and cannot be summoned again until after a Long Rest.
+Summoning Vesper requires an Action unless a tier ability specifies otherwise. Vesper acts on Ember's initiative, obeys Ember's commands, and is loyal to the party. If reduced to 0 HP, he returns to the amulet and cannot be summoned again until after a Long Rest.
 
 | Tier | Level | Form | New Abilities |
 |------|-------|------|---------------|
@@ -64,7 +66,7 @@ Summoning Vesper requires an Action unless a tier ability specifies otherwise. V
 
 **Dire Wolf.** Use the standard Dire Wolf stat block (XMM).
 
-**Apex Howl *(1/summon)*:** Vesper uses her Action to howl. All creatures of Ember's choice within 30 ft make a Wisdom saving throw (DC = Ember's spell save DC) or are Frightened for 1 minute. A frightened creature may repeat the save at the end of each of its turns.
+**Apex Howl *(1/summon)*:** Vesper uses his Action to howl. All creatures of Ember's choice within 30 ft make a Wisdom saving throw (DC = Ember's spell save DC) or are Frightened for 1 minute. A frightened creature may repeat the save at the end of each of its turns.
 
 **Nature's Warden *(passive)*:** While Vesper is active, any creature that moves through difficult terrain created by one of Ember's spells takes 1d6 piercing damage. Vesper's presence intensifies the natural hazards.
 
