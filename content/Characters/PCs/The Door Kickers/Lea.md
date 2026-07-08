@@ -2,6 +2,9 @@
 
 
 
+
+
+
 title: Lea
 aliases:
 tags:
@@ -11,7 +14,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-06-25T00:59:53
+updated: 2026-07-09T01:19:59
 ---
 
 # Lea
@@ -79,7 +82,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 | | |
 |---|---|
-| **Level** | 4 |
+| **Level** | 5 |
 | **Class** | Wizard (Chronurgy Magic) |
 | **Race** | Elf (High Elf) |
 | **Background** | Orzhov Representative |
@@ -150,7 +153,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Silvery Barbs** | — | 60 ft. | Reroll success; use lower; ally gains adv. | 1st | V | — |
 | **Chronal Shift** | — | 30 ft. | Force reroll of atk/check/save | — | — | 2×/LR |
-| **Elminster's Word of Unmaking** ([[Elminster's Spellbook|Spellbook]]) | CON 14 | 60 ft. | Trigger: creature casts Conc. spell; fail = spell fizzles before effect | 2nd | V | — |
+| **Elminster's Rebuke** ([[Elminster's Spellbook|Spellbook]]) | CON 14 | 60 ft. | Trigger: hit by atk/forced save; fail = 3d8 force dmg + disadv. next atk/save; ½ dmg on save | 2nd | V | — |
 
 ---
 
@@ -175,7 +178,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 
 **Ability:** Intelligence | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st ×4 · 2nd ×3
+**Spell Slots:** 1st ×4 · 2nd ×3 · 3rd ×2
 
 #### Ritual Spells
 
