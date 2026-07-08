@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 title: Elminster's Spellbook
 aliases: []
 tags:
@@ -7,7 +13,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-06-24T17:03
+updated: 2026-07-09T01:02:43
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -36,9 +42,9 @@ All are Elminster originals — his own devising, codified over four centuries.
 |---|---|---|---|---|
 | Elminster's Footnote | Cantrip | Divination | Bonus Action | Touch text; read it instantly. **Locked** — see below. |
 | Elminster's Inquiry | 1st | Divination | Action | Ask a yes/no question; Weave answers in ≤3 words |
-| Elminster's Word of Unmaking | 2nd | Abjuration | Reaction | CON save or Conc. spell fails before taking effect |
+| Elminster's Rebuke | 2nd | Abjuration | Reaction | CON save vs. force dmg + disadv. next atk/save; ½ dmg on save (upcast +1d8/slot) |
 | Elminster's Misdirection | 2nd | Illusion | Bonus Action | First atk vs. caster has disadv.; first save has adv.; until next turn |
-| Elminster's Parting Gift | 3rd | Conjuration | Bonus Action | Bead in ally's palm: heal 3d6+mod, adv. on save, or 6d6 force throw |
+| Elminster's Parting Gift | 3rd | Conjuration | Bonus Action | Bead in ally's palm: heal 3d6+mod, adv. on save, or 6d6 force throw (upcast: heal + dmg each +1d6/slot) |
 | Elminster's Whispered Doom | 4th | Enchantment | Action | Conc. 1 hr · WIS save · disadv. on all atks + saves vs. caster |
 | Elminster's Echo | 5th | Transmutation | Reaction | Ally repeats action free; hostile: WIS save or repeat vs. caster's target |
 | Elminster's Arcane Erasure | 6th | Abjuration | Action | INT save · target forgets one named spell for 24h |
@@ -62,11 +68,11 @@ Choose a creature, object, or location you can see or have touched in the last m
 
 ---
 
-**Elminster's Word of Unmaking** — 2nd-level Abjuration · Reaction (trigger: a creature within 60 ft. casts a spell requiring Concentration) · V · The caster makes a CON save (DC = spellcaster's DC) or the spell fails before taking effect. *A whispered syllable. Their concentration unravels before it can form.*
+**Elminster's Rebuke** — 2nd-level Abjuration · Reaction (trigger: a creature within 60 ft. hits Elminster with an attack or forces him to make a saving throw) · V · The triggering creature makes a CON save (DC = spellcaster's DC). On a failure, it takes 3d8 force damage and has disadvantage on its next attack roll or saving throw before the end of its next turn. On a success, it takes half damage and suffers no other effect. *At Higher Levels:* the damage increases by 1d8 for each spell slot level above 2nd. *A word spoken back into the world, undoing the courtesy of restraint.*
 
 **Elminster's Misdirection** — 2nd-level Illusion · Bonus Action · V · Until the start of the caster's next turn, the first attack roll made against them has disadvantage, and the first saving throw they make has advantage. *The old wizard isn't quite where you think he is.*
 
-**Elminster's Parting Gift** — 3rd-level Conjuration · Bonus Action · V, S · Touch a willing creature; conjure a bead of compressed magic into their palm (lasts 1 hour). The holder can use a Bonus Action to activate it: **squeeze** to regain 3d6 + spellcasting modifier HP, or to gain advantage on one saving throw of their choice; or **throw** at a point within 20/60 ft. — creatures within 5 ft. make a DEX save (DC = creator's DC) or take 6d6 force damage (half on save). The bead is consumed on use. *He slips it into your hand without explanation. You'll know when to use it.*
+**Elminster's Parting Gift** — 3rd-level Conjuration · Bonus Action · V, S · Touch a willing creature; conjure a bead of compressed magic into their palm (lasts 1 hour). The holder can use a Bonus Action to activate it: **squeeze** to regain 3d6 + spellcasting modifier HP, or to gain advantage on one saving throw of their choice; or **throw** at a point within 20/60 ft. — creatures within 5 ft. make a DEX save (DC = creator's DC) or take 6d6 force damage (half on save). The bead is consumed on use. *At Higher Levels:* the healing and the throw's damage each increase by 1d6 for each spell slot level above 3rd. *He slips it into your hand without explanation. You'll know when to use it.*
 
 **Elminster's Whispered Doom** — 4th-level Enchantment · Action · V · Concentration, up to 1 hour · One creature within 60 ft. makes a WIS save (DC = caster's DC). On a fail, they have disadvantage on all attack rolls and saving throws against the caster for the duration. *Just words. Just certainty.*
 

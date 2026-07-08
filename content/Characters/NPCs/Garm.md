@@ -1,14 +1,19 @@
 ---
+
+
+
+
 title: Garm
 aliases:
 tags:
   - npc
+  - creature/humanoid
 campaign: Rifted
 introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-06-20T18:11
+updated: 2026-07-08T17:04:50
 ---
 
 # Garm
@@ -42,6 +47,12 @@ When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Y
 - **[[Corranor Council]]** — Fellow archmage among the seven governing members
 - **Theorem** — His pet raven and message courier
 
+## D&D 5e Stat Block
+
+*Reference-only — Garm is an ally, not an intended combat encounter. Base math reskinned from the Archmage (XMM, CR 12); orc racial traits layered on top per the reskinning framework. Wizard school: Abjurer — his doctoral work on planar* boundaries *maps directly onto Abjuration's wards, banishments, and dispels, and the Archmage's existing Magic Resistance / Protective Magic traits already read as Abjurer's Spell Resistance and Spell Breaker capstones. Spell list swapped for boundary/warding themes; Teleport dropped per the setting's teleportation-is-dangerous rule and replaced with Forcecage.*
+
+
+
 ---
 ## Tags
 Location:: [[Jade Spire]], [[Crystal City]]
@@ -52,6 +63,10 @@ Alignment:: Neutral Good
 Class:: Wizard
 Affiliation:: [[Corranor Council]]
 Deity::
+CR:: 12
+Size:: Medium
+Habitat:: Urban
+Found In:: [[Jade Spire]]
 
 ## Session 19
 

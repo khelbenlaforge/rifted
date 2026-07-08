@@ -1,4 +1,11 @@
 ---
+
+
+
+
+
+
+
 title: Elminster
 aliases:
   - Elminster Aumar
@@ -10,7 +17,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-18T20:22
-updated: 2026-03-30T17:45
+updated: 2026-07-09T01:02:33
 ---
 
 # Elminster
@@ -131,14 +138,14 @@ Arcana +19 · Investigation +19 · History +13 · Insight +12 · Perception +12 
 | **Elminster's Misdirection** | — | Self | 1st atk vs. him has disadv.; 1st save has adv.; until next turn | 2nd | V | — |
 | **Elminster's Parting Gift** | — | Touch | Press bead into ally's palm; they activate it as BA (see ‡); 1h | 3rd | V, S | — |
 
-*‡ Parting Gift bead — holder uses as BA: squeeze → regain 3d6+3 HP or gain adv. on 1 save; or throw 20/60 ft. → DEX 21, 6d6 force (½ on save)*
+*‡ Parting Gift bead — holder uses as BA: squeeze → regain 3d6+3 HP or gain adv. on 1 save; or throw 20/60 ft. → DEX 21, 6d6 force (½ on save). Upcast: heal and throw damage each +1d6/slot above 3rd.*
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Shield** | — | Self | +5 AC until start of next turn; immune to Magic Missile | 1st | V, S | — |
-| **Elminster's Word of Unmaking** *(on Conc. spell)* | CON 21 | 60 ft. | Caster's Conc. spell fails on failed save | 2nd | V | — |
+| **Elminster's Rebuke** *(on hit/forced save)* | CON 21 | 60 ft. | 3d8 force + disadv. next atk/save; ½ dmg on save (upcast +1d8/slot) | 2nd | V | — |
 | **Counterspell** | CON 21 | 60 ft. | Caster makes CON save or spell fails | 3rd | S | Sig. |
 | **Elminster's Echo** *(on action completed)* | WIS 21 | 60 ft. | Creature repeats action; hostile: Elminster picks target | 5th | V | — |
 | **Projected Ward** | — | 30 ft. | Arcane Ward absorbs damage for an ally within 30 ft. | — | — | — |
@@ -160,7 +167,7 @@ Arcana +19 · Investigation +19 · History +13 · Insight +12 · Perception +12 
 - **Expertise** — Double PB in Arcana (+19) and Investigation (+19).
 - **Cunning Action** — Dash, Disengage, or Hide as a Bonus Action.
 - **Chosen of Mystra** — Truesight 60 ft. · Immune: Charmed, Frightened · Weave Sense: automatically senses all magical effects and other Chosen within 120 ft. · Knows Midnight's pendant for what it is on approach.
-- **Elminster Originals** — *Whispered Doom · Arcane Erasure · Unmooring · Misdirection · Parting Gift · Word of Unmaking · Echo* — spells of his own devising, codified over four centuries. Lea will receive a copy of these in his spellbook; she may scribe each when she can cast spells of that level.
+- **Elminster Originals** — *Whispered Doom · Arcane Erasure · Unmooring · Misdirection · Parting Gift · Rebuke · Echo* — spells of his own devising, codified over four centuries. Lea will receive a copy of these in his spellbook; she may scribe each when she can cast spells of that level.
 
 ---
 

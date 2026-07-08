@@ -1,4 +1,5 @@
 ---
+
 title: Aenath
 aliases:
 tags:
@@ -8,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-03-16T20:11
+updated: 2026-07-08T19:13:22
 ---
 
 # Aenath
