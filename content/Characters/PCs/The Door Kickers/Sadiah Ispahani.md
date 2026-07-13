@@ -141,7 +141,7 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 ## Session 21
 
-- Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 3rd Nightal)
+- Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 12th Uktar)
 - Shared the Calamity vision on arrival
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Has two glowing sickles; in Session 21 the DM called them Jukun and Sukun, but existing notes elsewhere use Sukoon and Junoon. Name discrepancy pending confirmation; existing names not changed.

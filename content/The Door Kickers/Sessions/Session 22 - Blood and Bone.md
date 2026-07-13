@@ -11,7 +11,7 @@ tags:
 campaign: Rifted
 session: 22
 date: 2026-06-29
-in-world-date: "13th–23rd Nightal, Year 222 PA"
+in-world-date: "21st-30th Uktar, Year 222 PA"
 updated: 2026-07-01T18:00:39
 ---
 

@@ -9,6 +9,7 @@ tags:
 campaign: Rifted
 date: 2026-06-24
 session: 20
+in-world-date: "3rd-12th Uktar, Year 222 PA"
 secret: false
 created: 2026-06-24T00:00
 updated: 2026-06-24T21:01:20

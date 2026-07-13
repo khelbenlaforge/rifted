@@ -191,7 +191,7 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 
 ## Session 21
 
-- Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 3rd Nightal)
+- Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 12th Uktar)
 - Shared the Calamity vision on arrival: [[Corran]] pressing his hands to the earth as the Spike rose
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Pendant glowed with multiple types of magic

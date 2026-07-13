@@ -175,7 +175,7 @@ Deity::
 
 ## Session 22
 
-Regius arrived in Aenath on 13th Nightal, Year 222 PA, materializing at the top of the [[Jade Spire]] tower via [[Layla]]'s runic circle, which [[Perrin Quickquill]] had accidentally reactivated.
+Regius arrived in Aenath on 21st Uktar, Year 222 PA, materializing at the top of the [[Jade Spire]] tower via [[Layla]]'s runic circle, which [[Perrin Quickquill]] had accidentally reactivated.
 
 He was immediately caught in a [[Shadow Creatures|shadow creature]] assault and went unconscious (0 HP) during the encounter. [[Shen]] dragged him down the tower stairwell.
 

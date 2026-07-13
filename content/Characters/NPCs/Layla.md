@@ -94,6 +94,6 @@ Deity:: [[Asmodeus]]
 - Knows the [[The Claret|Claret]] code phrase, "four litres of blood to sell"; connection to the Claret runs further than previously confirmed
 - [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
 - Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
-- Location as of approximately 3rd Nightal: outside [[Crystal City]], near [[Corran's Spike]]
+- Location as of approximately 12th Uktar: outside [[Crystal City]], near [[Corran's Spike]]
 
 
