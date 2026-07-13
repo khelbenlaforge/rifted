@@ -23,6 +23,6 @@ She introduced herself as "Erwin." She healed people she was supposed to be figh
 
 Race:: Tiefling
 Class:: Bard (College of Swords)
-Location:: Faded (Crystal City, 13th Nightal, Year 222 PA)
+Location:: Faded (Crystal City, 21st Uktar, Year 222 PA)
 Affiliation:: [[Adamantine Guild]] (guest)
 

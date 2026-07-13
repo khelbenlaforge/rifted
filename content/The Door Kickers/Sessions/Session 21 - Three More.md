@@ -16,7 +16,7 @@ updated: 2026-06-29T19:02:44
 
 # Session 21 — Three More
 
-*~3rd Nightal to 13th Nightal, Year 222 PA*
+*~12th Uktar to 21st Uktar, Year 222 PA*
 
 **Present:** [[Gill Bates]] · [[Lea]] · [[Nanuk]] · [[Terra]] · [[Sadiah Ispahani]] · [[Erwina Lesmana]] (guest)
 **Absent:** [[Jonathan Jordan]] · [[Augustus Kennedy]] · [[Ember]] · [[Shen]]

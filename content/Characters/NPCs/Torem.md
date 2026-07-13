@@ -20,7 +20,7 @@ Race:: Birdfolk
 Location:: Azure Tamers Tower, [[Crystal City]]
 Affiliation:: [[Azure Tamers]]
 
-- Took [[Nanuk]] on aerial scouting aboard Little Bella during approximately 13th Nightal downtime
+- Took [[Nanuk]] on aerial scouting aboard Little Bella during approximately 21st Uktar downtime
 - Showed Nanuk the supply chain: magical creature blood flows east to [[Crystal City]] via the alabaster highway and then to the Academy and Alchemist's Guild
 - Does not track who buys the blood after it arrives
 - Aware of the [[Azure Tamers]] patrol network covering the eastern road and frontier communities
