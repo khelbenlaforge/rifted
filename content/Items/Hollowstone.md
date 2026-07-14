@@ -21,6 +21,12 @@ When held up to the eye and looked through, the view on the other side is slight
 
 *It does not glow. It does not hum. It listens.*
 
+## Recent Discoveries
+
+When Terra studied the stone more closely, she felt a personality inside it that was not exactly the [[The Unbound|Unbound]] himself but something like a fragment of his soul or consciousness lodged within the granite. The recognition struck close to her own worldview: a self carried through darkness, not erased by it, and meaning formed out of what remains.
+
+She tested the stone physically and struck it hard enough to matter, but nothing changed beyond a rebuke. A voice — or something wearing the shape of the Unbound's voice without fully convincing her it was truly him — answered: "Seek the light, especially in darkness." The sensation felt less like an outside message breaking in and more like something inside Terra pushing back.
+
 ## Mechanics
 
 **Carrier:** [[Terra]]

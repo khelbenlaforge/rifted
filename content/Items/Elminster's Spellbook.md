@@ -24,6 +24,12 @@ A battered spellbook carried back from the prequel vision of Shadowdale. Its pag
 
 The cover is worn leather, cracked at the spine, with no title or marking. Inside, every page is covered in dense notation — diagrams, marginalia, crossed-out attempts. It smells faintly of ozone and old paper.
 
+## Recent Discoveries
+
+During the week before the party's meeting with the Claret, the group compared their strange carried items and discovered that the spellbook is not entirely material. In the right light it appears faintly translucent, as though parts of it are only partially in this world. Through that investigation, Lea came to understand that the book holds a fragment of [[Mystra]]'s own essence and functions as her personal anchor — a realization that echoed [[Terra]]'s parallel understanding of the [[Hollowstone]].
+
+When [[Lady Blackstaff]] examined the book at [[Blackstaff Mansion]], she recognized spells written in a script only very advanced wizards would know. Her conclusion was blunt: whatever the Blackstaff family remembers of its own arcane inheritance, this book is older than that knowledge.
+
 ## Mechanics
 
 **Carrier:** [[Lea]]

@@ -203,3 +203,7 @@ Daria dragged [[Perrin Quickquill]] to the [[Ether Scryer's Academy]] to confess
 
 Transit spell: 7th-level, requires a planar-attuned magic item plus living humanoid blood, bone, and consciousness. Her conclusion: the city's reagent shortage is not coincidence.
 
+## Session 23
+
+Elmindaria, usually called Daria, spoke of the Blackstaff family with unusually personal respect, regarding them as the oldest and most storied family in [[Crystal City]]. She and [[Garm]] are also the only two people who have briefed [[Lady Blackstaff]] on the [[Sunless Citadel]] so far.
+

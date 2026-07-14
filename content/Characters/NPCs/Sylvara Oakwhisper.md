@@ -57,4 +57,8 @@ Deity:: [[Mielikki]]
 
 Sylvara confirmed to [[Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]].
 
+## Session 23
+
+[[Istar Silverlock]] directed [[Terra]] to formally serve under Sylvara at the temple. Sylvara assigned her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
+
 

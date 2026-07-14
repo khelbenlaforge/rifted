@@ -45,3 +45,5 @@ A temple that is less a building than a piece of the forest itself, transplanted
 
 [[Ember]] trained here under [[Sylvara Oakwhisper]], learning druidic philosophy and the balance between nature and civilization. Sylvara taught that serving [[Mielikki]] does not mean rejecting the works of mortals, but rather protecting the wild places while embracing sustainable coexistence.
 
+[[Terra]] has now begun serving here under [[Sylvara Oakwhisper]] after [[Istar Silverlock]] directed her to the grove. While touching the earth within the temple, she sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects acknowledging her presence.
+

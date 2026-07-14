@@ -212,6 +212,18 @@ PvP test:
 - Cast *Fireball* hitting [[Nanuk]] and [[Gill Bates]]
 
 Level: 5
+
+## Session 23
+
+Session 23 downtime:
+- Earned 17 gp from work the prior week.
+- Compared the party's strange items and came to understand that [[Elminster's Spellbook]] holds a fragment of [[Mystra]]'s essence and serves as her personal anchor.
+- That realization corroborated [[Terra]]'s parallel discovery about the [[Hollowstone]].
+- Asked [[Garm]] and [[Elmindaria L'Thorian|Daria]] to secure a meeting with the Blackstaff family about the party's magical items.
+- Met Lady Blackstaff at [[Blackstaff Mansion]] rather than the family's absent formal head.
+- Described her landing vision of [[Corran Blackstaff]] to Lady Blackstaff, who was moved by finally hearing what Corran looked like.
+- Showed [[Elminster's Spellbook]] to Lady Blackstaff, who judged its script older than the Blackstaff family's own knowledge and decided the [[Sunless Citadel]] expedition had become more urgent.
+- Learned that the Blackstaffs intend to travel to the citadel with the Director of Antiquities after the Feast of the Moon, two days after the Claret meeting.
 ## Session 19
 
 Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.

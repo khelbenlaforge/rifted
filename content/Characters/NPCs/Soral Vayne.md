@@ -52,3 +52,7 @@ Affiliation:: [[Hucrele Family]]
 
 Soral met [[Lea]] during Session 19 downtime at [[Hucrele Manor]]. He told her that the Blackstaff family is [[Crystal City]]'s first family, that their scion sits on the Council of Seven, and that they are a family of wizards.
 
+## Session 23
+
+When [[Regius|Reggie]] and [[Lea]] asked Soral whether any noble houses needed a discreet fixer, he ruled out the Blackstaffs as too scrupulously above board for that kind of hire. Instead he pointed them toward House Verenthal's steward, [[Ostrin Feld]], and told Reggie he could say Soral sent him as a favor for a favor.
+
