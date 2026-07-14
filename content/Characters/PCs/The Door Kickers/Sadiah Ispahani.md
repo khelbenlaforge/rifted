@@ -148,6 +148,8 @@ She was redirecting a private art collection to a family of displaced farmers wh
 - PvP test: landed a sneak attack on [[Nanuk]] for 20 piercing damage, also hit [[Lea]], and used Steady Aim
 - Level 4 after leveling during the session; Level 5 may also have been granted and is pending confirmation
 
+Session 23: Did not appear. Per [[Shen]], she remained in her room, traumatized.
+
 ---
 
 Race:: Wood Elf

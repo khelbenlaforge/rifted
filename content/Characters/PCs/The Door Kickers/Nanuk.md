@@ -204,3 +204,8 @@ PvP test:
 
 Level: 5
 
+## Session 23
+
+- Joined the session late via Discord and came in for the tail end of the meeting at [[Blackstaff Mansion]].
+- Says he is on a dream quest, but is beginning to doubt that framing.
+

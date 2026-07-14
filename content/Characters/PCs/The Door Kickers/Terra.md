@@ -207,6 +207,17 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 - During the battle, stood in the center of the combat room and activated Inner Radiance, dealing radiant damage to multiple shadows simultaneously; paralyzed two of the smaller forms and allowed the party to extract.
 - Received heroic inspiration from the DM.
 
+## Session 23
+
+- Investigated the [[Hollowstone]] and sensed what felt like a fragment of the [[The Unbound|Unbound]]'s soul or consciousness inside it, distinct from the Unbound himself.
+- Recognized that revelation as paralleling her own beliefs about gods, darkness, and meaning formed from what remains in the dark.
+- Struck the stone against its apparent AC 17 and got no physical reaction, only a rebuke: something wearing the Unbound's voice told her, "Seek the light, especially in darkness."
+- [[Istar Silverlock]] assigned her to serve at [[Mielikki's Grove]] under [[Sylvara Oakwhisper]].
+- Sylvara gave her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
+- While touching the earth at the grove, Terra sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects responding to her.
+- Earned 26 gp from this work.
+- Attended the meeting at [[Blackstaff Mansion]] with [[Lea]], [[Nanuk]], and [[Regius]].
+
 ---
 
 Race:: Aasimar

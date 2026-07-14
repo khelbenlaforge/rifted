@@ -183,3 +183,13 @@ After the short rest outside, he was brought to the [[Adamantine Guild]] and int
 
 His echo had been appearing as a faceless flickering silhouette in Crystal City's [[Garnet District]] for weeks before his arrival.
 
+## Session 23
+
+Regius spent the session chasing work, leverage, and answers.
+
+- He and [[Lea]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
+- House Verenthal hired him to discreetly trail [[Sellas Verenthal]] at night without making contact unless she was in danger.
+- Pay for the Verenthal work came to 51 gp, and the house handed him 10 crystal glyphs to break if Sellas needs emergency help.
+- A second job at the docks paid another 10 gp and unlocked access to [[Azure Tamers]] resources, including their sky tower and the use of one airship.
+- At [[Blackstaff Mansion]], he presented [[Le Fil]] to the unnamed [[Blackstaff Brother]], who identified it as soul matter and reacted as though it had been materialized out of Regius's own body.
+

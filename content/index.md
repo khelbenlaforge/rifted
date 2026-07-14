@@ -1,13 +1,14 @@
 ---
+
 title: The Exodus Wiki
 secret: false
 created: 2026-03-16T00:44
-updated: 2026-06-24T17:22
+updated: 2026-07-14T19:21:53
 ---
 
 # Welcome to Aenath
 
-This is the player-facing wiki for **The Exodus** — a shared world set in **Aenath**, a realm still reeling from a cataclysm known as [[The Awakening]] 222 years ago. Ancient powers stir, forgotten histories resurface, and every campaign leaves its mark on the same living world.
+This is the player-facing wiki for **The Exodus** — a shared setting whose current campaign, Rifted, takes place on **Aenath**, a realm still reeling from a cataclysm known as [[The Awakening]] 222 years ago. Ancient powers stir, forgotten histories resurface, and every campaign leaves its mark on the same living world.
 
 ## World Content
 

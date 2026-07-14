@@ -38,6 +38,10 @@ Wrapped around a weapon's grip, it seats itself. The loop cinches without being 
 
 *Le fil* — French for the thread, the edge of a blade, the line of descent. He didn't know this until Aenath. He still isn't sure which meaning applies.
 
+## Recent Discoveries
+
+Regius tried speaking directly to Le Fil and got nothing back. But when he brought it to [[Blackstaff Mansion]], the unnamed [[Blackstaff Brother]] handled it and immediately sensed that the cord was soul matter rather than ordinary physical matter. He asked Regius how he had materialized something like that out of his own body, implying that Le Fil may originate from within Regius himself instead of coming purely from his mother's side of the family.
+
 ## Mechanics
 
 **Carrier:** [[Regius]]

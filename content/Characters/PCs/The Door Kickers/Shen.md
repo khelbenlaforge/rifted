@@ -198,3 +198,15 @@ Shen completed two retroactive weeks of downtime.
 - Work track (DC 5 + DC 10, advantage from Academy employment, rolled 21 total): earned 64 gold. Employed at the [[Ether Scryer's Academy]].
 - Investigation track (DC 15, rolled 25 combined with [[Lea]]): helped reverse-engineer the teleportation formula. Described the [[Sunless Citadel]] murals to the Director of Antiquities and became a collaborator in the antiquities department's project to recover [[Aenath]]'s missing 200-year history.
 
+## Session 23
+
+- Had a major vision while drifting to sleep: he was present without a physical body beside a vast, unafraid-inducing presence in a colorful, misty starfield.
+- Traveled with other formless things toward a burning red rectangular light that seemed to be a primordial version of [[Aenath]], surrounded by countless scintillating lights like souls.
+- Saw many people repeatedly casting spells there, trying and failing to force magical energies to coalesce.
+- Watched dark shadows race toward the plane, ignore him completely, and crack a barrier around it.
+- Heard a voice call him by a name that did not register and tell him to "go meet the diplomats."
+- Three frantic, formless lights that smelled of familiar mortal souls rushed him, saying he had come just in time and that the barrier needed reinforcement.
+- One of the gods present grew impatient, and the presence beside Shen — the same immense "Boss" voice he already knows through his stone and patron connection — screamed back on a cosmic scale that if a god needed his help, they could speak to him one on one.
+- Shen is still hearing that same big black entity through his patron connection.
+- He also noted that [[Sadiah Ispahani]] remained in her room, traumatized, and found himself wondering whether Earth had ever truly been his soul's home now that everyone is speaking more Common than English.
+
