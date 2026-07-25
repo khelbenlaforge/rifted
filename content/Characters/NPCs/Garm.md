@@ -74,6 +74,6 @@ Working through the [[Corranor Council]], Garm found [[Layla]]'s magical signatu
 
 ## Session 23
 
-Garm arranged a meeting at [[Blackstaff Mansion]] for [[Lea]], joined by [[Nanuk]], [[Terra]], and [[Regius]], and made clear beforehand that they were meeting Lady Blackstaff and her brother rather than the family head. He escorted them to the warded entrance, announced them at the blank wall that served as the mansion's door, and reminded them to be respectful. As one of the archmages on the [[Corranor Council]], Garm remains one of the Council of Seven.
+Garm arranged a meeting at [[Blackstaff Mansion]] for [[The Exodus/The Door Kickers/PCs/Lea]], joined by [[The Exodus/The Door Kickers/PCs/Nanuk]], [[Terra]], and [[The Exodus/The Door Kickers/PCs/Regius]], and made clear beforehand that they were meeting Lady Blackstaff and her brother rather than the family head. He escorted them to the warded entrance, announced them at the blank wall that served as the mansion's door, and reminded them to be respectful. As one of the archmages on the [[Corranor Council]], Garm remains one of the Council of Seven.
 
 

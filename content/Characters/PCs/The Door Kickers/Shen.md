@@ -10,7 +10,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-06-25T00:59:52
+updated: 2026-07-15T02:31:15
 ---
 
 # Shen
@@ -21,11 +21,11 @@ updated: 2026-06-25T00:59:52
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Human |
-> | Class | Warlock (Great Old One) |
-> | Background | Scribe |
-> | Player | Avinaash |
-> | Affiliation | [[Adamantine Guild]] |
+> | **Race** | Human |
+> | **Class** | Warlock (Great Old One) |
+> | **Background** | Scribe |
+> | **Player** | Avinaash |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 
@@ -41,7 +41,7 @@ Shen was transported from Earth on High Harvestide, Year 222 PA — the same cro
 
 He spent weeks imprisoned there — long enough to witness Belak's operations up close: the [[Gulthias Tree]], the vine-thralls, the slow conversion of the willing and unwilling alike. He shared that captivity with [[Sharwyn Hucrele]] and [[Sir Braford]], both of whom were already too far gone to want out. When the party's advance into the Grove Level created enough chaos, Shen escaped.
 
-He found them at the worst possible moment. [[Lea]] had just triggered a glyph of warding, a patrol was incoming, and five strangers he had never met were the most viable option available.
+He found them at the worst possible moment. [[The Exodus/The Door Kickers/PCs/Lea]] had just triggered a glyph of warding, a patrol was incoming, and five strangers he had never met were the most viable option available.
 
 From Kunming, Yunnan — though his academic years were spent abroad, first in the UK and later briefly in Singapore. There is a possibility he crossed paths with one of the party on Earth before the transport; if so, neither has placed it yet.
 
@@ -58,7 +58,7 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 
 ## Relationships
 
-- **[[Lea]], [[Jonathan Jordan]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** — Fellow Earthers; strangers he chose to stay with when better options were unavailable
+- **[[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]]** — Fellow Earthers; strangers he chose to stay with when better options were unavailable
 - **[[Adamantine Guild]]** — Member by association; the party vouched for him
 - **[[Belak]]** — Captor during the weeks of Grove Level imprisonment; observed his methods at close range
 - **[[Sharwyn Hucrele]] & [[Sir Braford]]** — Shared captivity in the Grove Level; last seen as willing thralls, not freed
@@ -178,25 +178,27 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 - **Armor:** Leather Armor
 - **Magic Items:** [[Unclassified Specimen]]
 - **Gear:** Orb, Backpack, Ink Pen, Lamp, Tinderbox, Fine Clothes, Books x2
+
 Race:: Human
 Subrace::
-Class:: Warlock
+Class:: Warlock (Great Old One)
 Player:: Avinaash
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
-Deity:: --
+Deity::
 PassivePerception:: 14
-PassiveInsight:: 12
+PassiveInsight:: 13
 PassiveInvestigation:: 16
 PassiveStealth:: 10
+
 ## Session 22
 
 Shen completed two retroactive weeks of downtime.
 
 - Relationship track (DC 5, rolled 21): joined the herbalist society at the [[Ether Scryer's Academy]]; gained Herbalism Kit and proficiency in Herbalism.
 - Work track (DC 5 + DC 10, advantage from Academy employment, rolled 21 total): earned 64 gold. Employed at the [[Ether Scryer's Academy]].
-- Investigation track (DC 15, rolled 25 combined with [[Lea]]): helped reverse-engineer the teleportation formula. Described the [[Sunless Citadel]] murals to the Director of Antiquities and became a collaborator in the antiquities department's project to recover [[Aenath]]'s missing 200-year history.
+- Investigation track (DC 15, rolled 25 combined with [[The Exodus/The Door Kickers/PCs/Lea]]): helped reverse-engineer the teleportation formula. Described the [[Sunless Citadel]] murals to the Director of Antiquities and became a collaborator in the antiquities department's project to recover [[Aenath]]'s missing 200-year history.
 
 ## Session 23
 

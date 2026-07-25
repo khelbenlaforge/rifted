@@ -15,7 +15,7 @@ updated: 2026-07-14T19:31:09
 
 ## What the Stone Remembers
 
-[[Shen]] felt it first as color — a night sky that was not the one he'd grown up under, mists moving without wind, a presence beside him too large to be afraid of. He had no body there, only attention. Others traveled with him, formless, headed the same direction he was.
+[[The Exodus/The Door Kickers/PCs/Shen]] felt it first as color — a night sky that was not the one he'd grown up under, mists moving without wind, a presence beside him too large to be afraid of. He had no body there, only attention. Others traveled with him, formless, headed the same direction he was.
 
 The light ahead was red and horizontal, burning at the edges, and as it neared it resolved into something rectangular — a plane, flat and vast, lava spilling on either side of it, scattered across its surface with millions of scintillating lights rising and falling like static. It was Aenath. Not this Aenath — an older one, eons gone, where people were casting the same spells over and over, trying to make magic hold together and failing. Dark shadows raced toward the plane in waves, ignoring Shen entirely, striking a barrier that cracked further with every pass.
 
@@ -62,7 +62,7 @@ By the time they left the mansion, the 28th of Uktar had arrived — the Feast o
 ---
 
 ## Related
-- [[Shen]] · [[Terra]] · [[Regius]] · [[Lea]]
+- [[The Exodus/The Door Kickers/PCs/Shen]] · [[Terra]] · [[The Exodus/The Door Kickers/PCs/Regius]] · [[The Exodus/The Door Kickers/PCs/Lea]]
 - [[Elminster's Spellbook]] · [[Hollowstone]] · [[Le Fil]]
 - [[Mielikki's Grove]] · [[Sylvara Oakwhisper]] · [[Azure Tamers]]
 - [[Ostrin Feld]] · [[House Verenthal]] · [[Sellas Verenthal]]

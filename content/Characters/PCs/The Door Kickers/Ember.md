@@ -2,6 +2,9 @@
 
 
 
+
+
+
 title: Ember
 aliases:
 tags:
@@ -11,7 +14,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-06-25T00:59:48
+updated: 2026-07-15T02:44:14
 ---
 
 # Ember
@@ -22,11 +25,11 @@ updated: 2026-06-25T00:59:48
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Tiefling (Winged) |
-> | Class | Druid (Circle of the Moon) |
-> | Background | Guide |
-> | Player | Dora |
-> | Affiliation | [[Adamantine Guild]] |
+> | **Race** | Tiefling (Winged) |
+> | **Class** | Druid (Circle of the Moon) |
+> | **Background** | Guide |
+> | **Player** | Dora |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 Ember is a seeker of knowledge and a kindred spirit of the wild. Hints of fiendish ancestry mark her appearance -- reminiscent of an Erinyes or Succubus -- lending her a striking presence that contrasts with the naturalist's attire she favours. A loyal wolf companion walks at her side, enhancing the aura of strength and grace she carries through the wilds of [[Aenath]]. She possesses a keen awareness of the natural world, able to identify plants, sense magical properties in organic matter, and communicate a deep respect for the cycle of life and death.
@@ -43,27 +46,27 @@ Ember wields druidic magic rooted in her connection to nature. She can manipulat
 Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at [[Mielikki]]'s Grove in the [[Diamond District]] of [[Crystal City]]. The grove is a living temple where ancient trees form natural archways that blend with the architecture, housing a Healing Grove, a Wild Nursery for orphaned creatures, and the Ranger's Rest. Sylvara teaches through observation and immersion, emphasizing the balance between wilderness and civilization that defines [[Mielikki]]'s philosophy. She has counselled Ember to protect, to teach, to plant after death, and to truly listen while walking the woods. Ember initially considered [[Silvanus]] and [[Eldath]] as well, but has settled into [[Mielikki]]'s path.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Augustus Kennedy]], [[Gill Bates]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the hunter in the forest and the winged rescuer struck down
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
-- **4th Marpenoth** -- Cast a skunk-like stench and Fog Cloud in the Pantry Heist to cover [[Jonathan Jordan]]'s theft from [[Elmindaria L'Thorian]]
+- **4th Marpenoth** -- Cast a skunk-like stench and Fog Cloud in the Pantry Heist to cover [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s theft from [[Elmindaria L'Thorian]]
 - **1st-6th Marpenoth** -- Trained at [[Mielikki]]'s Grove under [[Sylvara Oakwhisper]]
 - **6th Marpenoth** -- Fell during [[Corranor]]'s descent to [[Aenath]]
 - **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Terra Bound island]]
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] during the wagon ambush
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the [[Keldara Hucrele]] and [[Harbin Wester]] confrontation
-- Examined the [[Goblin Fruit]] at the [[Hucrele Pavilion]], sensing its red, blood-like nature; [[Lea]]'s Detect Magic confirmed necromantic and divine/draconic energies
+- Examined the [[Goblin Fruit]] at the [[Hucrele Pavilion]], sensing its red, blood-like nature; [[The Exodus/The Door Kickers/PCs/Lea]]'s Detect Magic confirmed necromantic and divine/draconic energies
 - Spotted a Lurkleaf near [[Tymora's Shrine]]
 - Collected several [[Pebbletoads]] before the marsh crossing
-- Departed south with [[Lea]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
+- Departed south with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and descended into the [[Sunless Citadel]], encountering dead goblins and signs of necromancy
 - **Session 11** — During the trial of the Sealed Door in the [[Sunless Citadel]], deity symbols of both nature and the lower planes gravitated toward her simultaneously, exposing her dual nature. Inside a spiritual battlefield, an echo of [[Mielikki]] urged her to accept both sides of herself. [[Asmodeus]]'s manifestation refused to leave her side even after the other infernal deities withdrew
 - **Session 14** — Cold open revealed her Earth backstory: she worked at an animal shelter. Chaos of an ordinary shift: a regular volunteer walked in with a pangolin. Animal Control was on the phone. Her assistant announced the pangolin to the room at full volume — and to the inspector on the other end of the line. She was watching herself from outside, just like the others. Rejoined JJ/Gill/Lea in the liminal void, then descended into the prequel to inhabit [[Selmavra Elsree]] — a Harper skirmish commander stationed in [[Shadowdale]] during the Avatar Crisis.
 - **Marpenoth, 222 PA (Session 15)** — After the courtyard battle, [[Vael]] dropped silently from the rooftop ledge and studied the aftermath. Her eyes moved to Selmavra: *"Jumping into danger for strangers? Fascinating."* Then she went invisible and did not leave. She walked the road to [[Elminster]]'s tower at Selmavra's shoulder — invisible, present, close enough to feel as a displacement in the air. At Elminster's tower, the shape of the crisis was laid out: Tablets of Fate, Celestial Stairway, [[Bane]] coming for [[Midnight]]'s pendant. At [[Mourngrym Amcathra]]'s war council, Selmavra's Harper intelligence on the West Fang was the weakest strand — movement sightings, no numbers. Commissioned as Sword of [[Shadowdale]]. Fought the West Fang at Ashaba Bridge: Hunter's Mark on the Battlelord through the press; cast Hail of Thorns and took the Chaos rebound herself — eight damage, shook it off; [[Vesper]] fought alongside [[Cyric]], two animals that didn't trust each other and were efficient because of it. When the Ninth arrived, the bridge held. In the Temple of Lathander, held Midnight against the pull of the Stairway as [[Bane]] arrived. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
-- **[[Lea]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger
+- **[[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger
 - **[[Sylvara Oakwhisper]]** -- Ranger mentor at [[Mielikki]]'s Grove; teaches the balance of wild and civilised
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified her druidic essence; unwitting victim of the Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
@@ -72,36 +75,34 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 4 |
-| **Class** | Druid (Circle of the Moon) |
-| **Race** | Tiefling (Winged Variant) |
-| **Background** | Guide |
-| **HP (Max)** | 29 |
-| **AC** | 16 |
-| **Speed** | 30 ft. (walk), 30 ft. (fly) |
-| **Proficiency Bonus** | +2 |
-| **Vision** | Darkvision 60 ft. |
+| Level | 5 |
+| Class | Druid (Circle of the Moon) |
+| Race | Tiefling (Winged Variant) |
+| Background | Guide |
+| HP (Max) | 36 |
+| AC | 16 |
+| Speed | 30 ft. (walk), 30 ft. (fly) |
+| Prof Bonus | +3 |
+| Vision | Darkvision 60 ft. |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 7 (-2) | 16 (+3) | 12 (+1) | 12 (+1) | 19 (+4) | 11 (+0) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 7 | -2 |
+| DEX | 16 | +3 |
+| CON | 12 | +1 |
+| INT | 12 | +1 |
+| WIS | 20 | +5 |
+| CHA | 11 | +0 |
 
-### Saving Throws
+**Saving Throws:** STR -2 · DEX +3 · CON +1 · **INT +4** · **WIS +8** · CHA +0
 
-Intelligence +3 · Wisdom +6
+**Resistances & Vulnerabilities:** Fire (resistance)
 
-### Resistances & Vulnerabilities
-
-Fire (resistance)
-
-### Skills
-
-Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
-
+**Skills:** Animal Handling +8 · Perception +8 · Stealth +6 · Survival +8
 **Languages:** Common · Druidic · Infernal
 **Tools:** Cartographer's Tools · Herbalism Kit
 
@@ -189,19 +190,20 @@ Animal Handling +6 · Perception +6 · Stealth +5 · Survival +6
 ---
 Race:: Tiefling
 Subrace::
-Class:: Druid
+Class:: Druid (Circle of the Moon)
 Player:: Dora
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity:: [[Mielikki]]
-PassivePerception:: 16
-PassiveInsight:: 14
+PassivePerception:: 18
+PassiveInsight:: 15
 PassiveInvestigation:: 11
-PassiveStealth:: 15
+PassiveStealth:: 16
+
 ## Session 19
 
-Through [[Nanuk]]'s [[Azure Tamers]] connection, [[Torem]] flew Ember on an eagle to meet the [[Ancients of Lava]] in a wilderness clearing. Elder [[Jess]] leads the circle. The druids went quiet when Ember mentioned [[Belak]], saying that he had been one of their best before disappearing forty years ago.
+Through [[The Exodus/The Door Kickers/PCs/Nanuk]]'s [[Azure Tamers]] connection, [[Torem]] flew Ember on an eagle to meet the [[Ancients of Lava]] in a wilderness clearing. Elder [[Jess]] leads the circle. The druids went quiet when Ember mentioned [[Belak]], saying that he had been one of their best before disappearing forty years ago.
 
 Ember also joined the Azure Tamers alongside Nanuk. She visited the Temple of [[Mielikki]], where [[Sylvara Oakwhisper]] confirmed that Belak left the Ancients of Lava forty years ago. Ember earned 23 gp and free transport anywhere for one month.
 

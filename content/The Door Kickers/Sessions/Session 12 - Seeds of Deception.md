@@ -17,7 +17,7 @@ updated: 2026-04-10T18:13
 > **Date Played:** March 2026
 > **In-Game Date:** Year 222 PA, 16th Marpenoth (continuous from Session 11)
 > **Location:** [[Sunless Citadel]], Grove Level
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
 > **Source:** Brain dump, processed 2026-03-16
 
@@ -47,7 +47,7 @@ The Sanctum had revealed itself only to the five from Earth.
 
 ## Hang Tight
 
-[[Lea]] reached for the Sending Stone.
+[[The Exodus/The Door Kickers/PCs/Lea]] reached for the Sending Stone.
 
 She spoke quickly and precisely — a wizard's habit — relaying everything: the door, the trials, the statues, the shape of [[Aenath]], the mural and the featureless figure leading the divine exodus, the gods of the lower planes at the rearguard. Everything they had seen and failed to decode, compressed into the tight syllable-budget of a Sending spell.
 
@@ -63,13 +63,13 @@ The Sanctum's secrets were no longer only theirs.
 
 ## Northeast
 
-With the Sanctum offering no more immediate answers, the party made a choice. [[Gill Bates]] had wanted southwest. [[Augustus Kennedy]] had wanted northeast since before the door. The vote wasn't close — the Sealed Door had taken the southern route off the table for now, and Augie's impatience was contagious.
+With the Sanctum offering no more immediate answers, the party made a choice. [[The Exodus/The Door Kickers/PCs/Gill Bates]] had wanted southwest. [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] had wanted northeast since before the door. The vote wasn't close — the Sealed Door had taken the southern route off the table for now, and Augie's impatience was contagious.
 
 Northeast it was.
 
 They returned through the Grove Level's violet bioluminescent corridors, tracking back past the geological fault line that had rent the citadel's lower sections apart, and approached the door they had passed by in Session 11. Through it, they had already clocked the sound: small feet, moving fast. Possibly goblinoid. Possibly kobold.
 
-[[Jonathan Jordan]] put the question to rest.
+[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] put the question to rest.
 
 With the kind of stealth roll that makes the table go quiet, JJ slipped through the door and into the dark — and came back with a map in his head.
 
@@ -83,9 +83,9 @@ The goblins had no idea the party was watching.
 
 ## Freeze
 
-[[Augustus Kennedy]] had a plan.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] had a plan.
 
-He held up the horn stolen from [[Durnn]] during the revel — the one [[Ember]] had lifted while the goblin warlord was celebrating with his warriors, too drunk to notice his own pockets being emptied. Durnn's goblins should recognize it. That horn was authority. That horn was *Durnn*, and Durnn was the reason this whole lab existed.
+He held up the horn stolen from [[Durnn]] during the revel — the one [[The Exodus/The Door Kickers/PCs/Ember]] had lifted while the goblin warlord was celebrating with his warriors, too drunk to notice his own pockets being emptied. Durnn's goblins should recognize it. That horn was authority. That horn was *Durnn*, and Durnn was the reason this whole lab existed.
 
 Augie's logic: walk in, hold up the horn, claim to be an envoy. Everyone takes their positions for when it goes wrong.
 
@@ -111,7 +111,7 @@ They did not help during the battle that followed. When Augie asked them afterwa
 
 ## The Battle
 
-The vine serpent hit differently than the twig blight swarms they had fought before. The swarm of twig blights was a problem of volume — dozens of snapping, scratching limbs converging at once — but the serpent was a problem of specificity. It *grappled*. It *paralyzed*. When it wrapped around [[Augustus Kennedy]] and held him fast, the paladin who had been directing the entire engagement suddenly became the problem the rest of the party had to solve first.
+The vine serpent hit differently than the twig blight swarms they had fought before. The swarm of twig blights was a problem of volume — dozens of snapping, scratching limbs converging at once — but the serpent was a problem of specificity. It *grappled*. It *paralyzed*. When it wrapped around [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] and held him fast, the paladin who had been directing the entire engagement suddenly became the problem the rest of the party had to solve first.
 
 [[Erky]] was not decorative. The gnome acolyte came through with healing at pressure moments — not tentative half-measures but decisive, powerful interventions, the kind of clerical instinct that saves the turn. [[Little Sister]] was in the fight properly for the first time — not lurking, not waiting to see what happened, but engaged. Something had shifted in her since the party had descended to the Grove Level. She was choosing them now.
 

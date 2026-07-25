@@ -2,6 +2,12 @@
 
 
 
+
+
+
+
+
+
 title: Terra
 aliases: []
 tags:
@@ -11,7 +17,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-06-25T16:50:11
+updated: 2026-07-15T02:41:55
 ---
 
 # Terra
@@ -24,9 +30,9 @@ updated: 2026-06-25T16:50:11
 > | ---- | --- |
 > | **Race** | Aasimar (Small) |
 > | **Class** | Ranger (Fey Wanderer) |
-> | **Background** | TBD |
+> | **Background** | Acolyte |
 > | **Player** | Simar |
-> | **Affiliation** | Party |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 
@@ -72,36 +78,34 @@ She was in a shelter in California when the light took her.
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 5 |
-| **Class** | Ranger (Fey Wanderer) |
-| **Race** | Aasimar (Small) |
-| **Background** | Acolyte |
-| **HP (Max)** | 27 |
-| **AC** | 15 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +3 |
-| **Vision** | Darkvision 60 ft. |
+| Level | 5 |
+| Class | Ranger (Fey Wanderer) |
+| Race | Aasimar (Small) |
+| Background | Acolyte |
+| HP (Max) | 27 |
+| AC | 15 |
+| Speed | 30 ft. |
+| Prof Bonus | +3 |
+| Vision | Darkvision 60 ft. |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 15 (+2) | 16 (+3) | 9 (-1) | 12 (+1) | 20 (+5) | 12 (+1) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 15 | +2 |
+| DEX | 16 | +3 |
+| CON | 9 | -1 |
+| INT | 12 | +1 |
+| WIS | 20 | +5 |
+| CHA | 12 | +1 |
 
-### Saving Throws
+**Saving Throws:** **STR +5** · **DEX +6** · CON -1 · INT +1 · WIS +5 · CHA +1
 
-Strength +5 · Dexterity +6
+**Resistances & Vulnerabilities:** Necrotic (resistance) · Radiant (resistance)
 
-### Resistances & Vulnerabilities
-
-Necrotic (resistance) · Radiant (resistance)
-
-### Skills
-
-Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 · Persuasion +6 · Religion +4 · Stealth +6
-
+**Skills:** Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 · Persuasion +6 · Religion +4 · Stealth +6
 **Languages:** Common · Celestial
 **Tools:** Calligrapher's Supplies
 
@@ -195,14 +199,14 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 - Shared the Calamity vision on arrival: [[Corran]] pressing his hands to the earth as the Spike rose
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Pendant glowed with multiple types of magic
-- PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[Nanuk]]
+- PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[The Exodus/The Door Kickers/PCs/Nanuk]]
 - Level 5
 
 ## Session 22
 
 - Went unconscious (0 HP) during the [[Jade Spire]] shadow creature encounter.
 - Stabilized via death saving throws (rolled 19 on the decisive roll).
-- Carried out by [[Inukshuk]], [[Nanuk]]'s bear companion.
+- Carried out by [[Inukshuk]], [[The Exodus/The Door Kickers/PCs/Nanuk]]'s bear companion.
 - Woke with 10 HP after healing.
 - During the battle, stood in the center of the combat room and activated Inner Radiance, dealing radiant damage to multiple shadows simultaneously; paralyzed two of the smaller forms and allowed the party to extract.
 - Received heroic inspiration from the DM.
@@ -216,20 +220,21 @@ Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 �
 - Sylvara gave her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
 - While touching the earth at the grove, Terra sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects responding to her.
 - Earned 26 gp from this work.
-- Attended the meeting at [[Blackstaff Mansion]] with [[Lea]], [[Nanuk]], and [[Regius]].
+- Attended the meeting at [[Blackstaff Mansion]] with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Regius]].
 
 ---
 
 Race:: Aasimar
 Subrace::
-Class:: Ranger
+Class:: Ranger (Fey Wanderer)
 Player:: Simar
 Pronouns:: she/her
-Affiliation:: Party
-Location:: Crystal City
+Affiliation:: [[Adamantine Guild]]
+Location:: [[Crystal City]]
 Deity::
-PassivePerception::
-PassiveInsight::
-PassiveInvestigation::
-PassiveStealth::
+PassivePerception:: 18
+PassiveInsight:: 18
+PassiveInvestigation:: 11
+PassiveStealth:: 16
+
 

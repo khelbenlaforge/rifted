@@ -11,7 +11,7 @@ secret: false
 > [!infobox]
 > # Griffin's Hat
 
-The Griffin's Hat is a tavern at the [[Citrine District]] docks where [[Jonathan Jordan]] works as a bartender.
+The Griffin's Hat is a tavern at the [[Citrine District]] docks where [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] works as a bartender.
 
 ---
 

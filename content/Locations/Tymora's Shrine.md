@@ -34,5 +34,5 @@ Perched on a small rise at the edge of [[Sunhold]], this humble shrine is built 
 
 ## Current Events
 
-[[Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the Hucrele children and had not returned. The party received healing potions before departing on their own rescue mission.
+[[The Exodus/The Door Kickers/PCs/Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the Hucrele children and had not returned. The party received healing potions before departing on their own rescue mission.
 

@@ -20,5 +20,5 @@ Headquarters:: Western Wall Towers, [[Crystal City]]
 
 ## Current Notes
 
-[[Regius|Reggie]]'s second job at the docks unlocked access to Azure Tamers resources, including their sky tower and the use of one airship.
+[[The Exodus/The Door Kickers/PCs/Regius|Reggie]]'s second job at the docks unlocked access to Azure Tamers resources, including their sky tower and the use of one airship.
 

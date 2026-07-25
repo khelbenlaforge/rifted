@@ -33,7 +33,7 @@ His cheerful, slightly scatter-brained public persona conceals a sharp intellect
 ## Background
 Fifteen years ago, Perrin corrected a mistranslation in one of [[Garm]]'s research requests and was promptly transferred to the orc wizard's personal staff. He has served as [[Garm]]'s indispensable assistant, bodyguard, and confidant ever since, operating from the [[Jade Spire]] in [[Crystal]].
 
-When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], and [[Lea]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the Citrine District. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
+When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Lea]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the Citrine District. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
 
 ## Relationships
 - Personal assistant and bodyguard to [[Garm]], orc wizard of the [[Corranor Council]]
@@ -60,13 +60,13 @@ Deity:: Unknown
 
 ## Session 19
 
-[[Torem]] of the [[Azure Tamers]] confirmed that Perrin was a close friend of [[Layla]] and her co-apprentice under [[Garm]]. Perrin was intimidated by [[Jonathan Jordan]] and [[Nanuk]] during downtime.
+[[Torem]] of the [[Azure Tamers]] confirmed that Perrin was a close friend of [[Layla]] and her co-apprentice under [[Garm]]. Perrin was intimidated by [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] during downtime.
 
 ## Session 20
 
 Perrin and [[Layla]] ran a months-long teleportation circle project for [[Garm]], placing a circle in the northeast harbour. They sent a test stone through; it appeared for 3 seconds, then vanished with no destination. They are not sending people through it.
 
-On the High Harvestide arrival day, Layla was supposed to be in the Sanctum floor below, adjusting runic circle angles rather than casting a transit spell. Locate Person within 1000 ft. produced no result. [[Jonathan Jordan]] implied Layla was acting illegally; Perrin felt betrayed because she was his only friend and cannot believe she made a stupid mistake.
+On the High Harvestide arrival day, Layla was supposed to be in the Sanctum floor below, adjusting runic circle angles rather than casting a transit spell. Locate Person within 1000 ft. produced no result. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] implied Layla was acting illegally; Perrin felt betrayed because she was his only friend and cannot believe she made a stupid mistake.
 
 The party may come to Perrin and [[Garm]] for teleportation or shifting information.
 
@@ -74,6 +74,6 @@ The party may come to Perrin and [[Garm]] for teleportation or shifting informat
 
 Perrin confessed to finding [[Layla]]'s reagent pouch in a drawer at the [[Jade Spire]] and using it to redraw her teleportation circle. He was not trying to pull anyone through. He was trying to recreate her work because he missed her.
 
-The circle opened and pulled [[Regius]] through by infernal resonance. Perrin was crying and shell-shocked when [[Elmindaria L'Thorian]] dragged him to the [[Ether Scryer's Academy]] to explain himself.
+The circle opened and pulled [[The Exodus/The Door Kickers/PCs/Regius]] through by infernal resonance. Perrin was crying and shell-shocked when [[Elmindaria L'Thorian]] dragged him to the [[Ether Scryer's Academy]] to explain himself.
 
 

@@ -42,5 +42,5 @@ A grand courthouse-temple dedicated to [[Tyr]], the God of Justice. Impressive m
 
 ## Current Events
 
-[[Augustus Kennedy]] trained here under [[Sir Gareth Ironhand]] and began his paladin path through Tyr's teachings. During the Session 19 downtime, Gareth recognized the Lyonsbane panther energies of Augustus's Brand and redirected him to the [[Temple of Kelemvor]], where he formally converted. Augustus subsequently returned to the Hall and enlisted with Tyr's law enforcement arm as a junior officer, taking on patrol and judicial duties using his background as an NPYC cop.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] trained here under [[Sir Gareth Ironhand]] and began his paladin path through Tyr's teachings. During the Session 19 downtime, Gareth recognized the Lyonsbane panther energies of Augustus's Brand and redirected him to the [[Temple of Kelemvor]], where he formally converted. Augustus subsequently returned to the Hall and enlisted with Tyr's law enforcement arm as a junior officer, taking on patrol and judicial duties using his background as an NPYC cop.
 

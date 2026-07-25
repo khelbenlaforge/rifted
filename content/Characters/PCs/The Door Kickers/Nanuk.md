@@ -1,6 +1,11 @@
 ---
 
 
+
+
+
+
+
 title: Nanuk
 aliases: []
 tags:
@@ -10,7 +15,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-06-26T17:26:22
+updated: 2026-07-15T02:43:03
 ---
 
 # Nanuk
@@ -25,7 +30,7 @@ updated: 2026-06-26T17:26:22
 > | **Class** | Ranger (Beastmaster) |
 > | **Background** | Guide |
 > | **Player** | Francis |
-> | **Affiliation** | Party / [[Adamantine Guild]] |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 
@@ -61,35 +66,33 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 4 |
-| **Class** | Ranger (Beastmaster) |
-| **Race** | Firbolg |
-| **Background** | Guide |
-| **HP (Max)** | 39 |
-| **AC** | 17 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
+| Level | 5 |
+| Class | Ranger (Beastmaster) |
+| Race | Firbolg |
+| Background | Guide |
+| HP (Max) | 49 |
+| AC | 17 |
+| Speed | 30 ft. |
+| Prof Bonus | +3 |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 21 (+5) | 14 (+2) | 12 (+1) | 16 (+3) | 9 (-1) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 12 | +1 |
+| DEX | 21 | +5 |
+| CON | 14 | +2 |
+| INT | 12 | +1 |
+| WIS | 16 | +3 |
+| CHA | 9 | -1 |
 
-### Saving Throws
+**Saving Throws:** **STR +4** · **DEX +8** · CON +2 · INT +1 · WIS +3 · CHA -1
 
-Strength +3 · Dexterity +7
+**Resistances & Vulnerabilities:** None.
 
-### Resistances & Vulnerabilities
-
-None.
-
-### Skills
-
-Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7 (expertise)
-
+**Skills:** Animal Handling +6 · Nature +4 · Perception +6 · Stealth +8 · **Survival +9** *(expertise)*
 **Languages:** Common · Elvish · Giant
 **Tools:** Cartographer's Tools
 
@@ -172,19 +175,20 @@ Animal Handling +5 · Nature +3 · Perception +5 · Stealth +7 · Survival +7 (e
 ---
 Race:: Firbolg
 Subrace::
-Class:: Ranger
+Class:: Ranger (Beastmaster)
 Player:: Francis
 Pronouns:: he/him
-Affiliation:: Party / [[Adamantine Guild]]
+Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
-PassivePerception:: 15
+PassivePerception:: 16
 PassiveInsight:: 13
 PassiveInvestigation:: 11
-PassiveStealth:: 17
+PassiveStealth:: 18
+
 ## Session 19
 
-Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[Jonathan Jordan]] to intimidate Perrin.
+Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] to intimidate Perrin.
 
 Nanuk earned 12 gp, vehicle (riding) proficiency, and free flights anywhere for one month.
 
@@ -200,7 +204,7 @@ Session 21 downtime:
 
 PvP test:
 - Went down first after [[Sadiah Ispahani]]'s sneak attack for 20 damage
-- Healed by [[Gill Bates]], then brought Gill down before the DM called it
+- Healed by [[The Exodus/The Door Kickers/PCs/Gill Bates]], then brought Gill down before the DM called it
 
 Level: 5
 

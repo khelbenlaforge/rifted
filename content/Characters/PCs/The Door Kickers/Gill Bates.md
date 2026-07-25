@@ -2,8 +2,6 @@
 
 
 
-
-
 title: Gill Bates
 aliases:
   - Gill
@@ -14,7 +12,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-06-25T01:00:55
+updated: 2026-07-15T02:39:26
 ---
 
 # Gill Bates
@@ -25,11 +23,11 @@ updated: 2026-06-25T01:00:55
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Human |
-> | Class | Cleric (Arcana Domain) |
-> | Background | Fisher |
-> | Player | Chian |
-> | Affiliation | [[Adamantine Guild]] |
+> | **Race** | Human |
+> | **Class** | Cleric (Arcana Domain) |
+> | **Background** | Fisher |
+> | **Player** | Chian |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 Gill Bates carries himself with an unassuming practicality suited to frontier life. Though no longer fully human after his crossing to [[Aenath]], he retains recognizable features of his former self, dressed and equipped for the challenges ahead. A fisher by background and a healer by calling, Gill exudes a steadfast warmth. He is the kind of man who will talk your ear off about ocean currents, marine life, and fishing methods -- and mean every word of it. Beneath that earnest enthusiasm lies a soul deeply connected to the spiritual realm, a beacon of hope amid chaos.
@@ -46,7 +44,7 @@ Gill's power flows from [[Istishia]], the Lord of Water -- one of the four Primo
 Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[Istishia]] (Arcana Domain), at the [[Tidecaller's Sanctuary]] in the [[Diamond District]] of [[Crystal City]]. The Sanctuary is built over a natural underground spring, its interior adorned with ocean mosaics, a central spring-fed pool, and features including the [[Blessing Pool]], [[Divination Fountain]], and [[Rainfall Chamber]]. Marin teaches through water-based exercises and metaphors -- instructing Gill to stop resisting the current, to observe water closely for hidden patterns, and to let his calling surface naturally. He has presented four sects of [[Istishia]]'s faith: the [[Sacred Sea]], [[Watery Paths]], [[Magnificent Storm]], and [[Eternal Transformation]]. Gill supplements his temple study with combat training under [[Luks Borg]] at the [[Adamantine Guild]].
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the astral procession and the prayer circle crushed by falling land
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
@@ -59,12 +57,12 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - Attended the [[Council Tent]] meeting; assigned to assist at [[Tymora's Shrine]] under [[Sister Garaele]]
 - Helped distribute healing potions and tend to the settlement's wounded
 - Remained in [[Sunhold]] with [[Luks]] while the rest of the party departed south to rescue the Hucrele children
-- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
+- **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
 - **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: Gill watches himself at the family table in Greece. His parents want him to call his cousin in Athens — the cousin who salted his fish when they were children. He wants the boats and the coast and none of this. He is outside the moment, watching himself refuse. In the liminal void, debriefed with the others. Arrived in [[Shadowdale]] as Adon; made no effort to conceal that the [[Old Skull Inn]] did not meet his standards. [[Jhaele Silvermane]] clocked his holy symbol — [[Sune]], goddess of beauty — and served him a crystal carafe of expensive wine without being asked: *"Your Majesty. Wine it is."* He accepted this as his due. Fought in the courtyard battle
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower, learned the shape of the crisis: Tablets of Fate, Celestial Stairway, multiple Mystra fragment carriers. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, during [[Midnight]]'s final transformation — when the pendantignited and the east wall blew outward — a masonry shard from the crumbling wall caught Adon across the face. Under the radar. He noticed the blood on his fingers only after. It will leave a scar. Permanent. A cleric of [[Sune]] — the goddess of beauty — marked permanently across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
-- **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
+- **[[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
 - **[[Tidecaller Marin Deepcurrent]]** -- Primary mentor; teaches the ways of [[Istishia]] through water and patience
 - **[[Luks Borg]]** -- Combat trainer at the [[Adamantine Guild]]
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine and celestial essence; enjoys his enthusiasm for ocean lore
@@ -83,7 +81,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | HP (Max) | 49 |
 | AC | 17 (Chain Shirt + Shield) |
 | Speed | 30 ft |
-| Proficiency Bonus | +3 |
+| Prof Bonus | +3 |
 
 ---
 
@@ -98,7 +96,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 **Saving Throws:** STR -1 . DEX +2 . CON +2 . INT +1 . **WIS +7** . **CHA +3**
 
-**Resistances and Vulnerabilities:** None.
+**Resistances & Vulnerabilities:** None.
 
 **Skills:** Arcana +8 . History +4 . Insight +7 . Medicine +7 . Religion +8 . Survival +7
 **Languages:** Common + 2 (check file)
@@ -179,17 +177,21 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | 2nd | 3 |
 | 3rd | 2 |
 
-**Ritual Spells:** Augury (L2), Water Walk (L3)
+#### Ritual Spells
+
+- *Augury* (L2) — 1 min cast — Cast a divination sensing the near-future outcome of a course of action.
+- *Water Walk* (L3) — 1 min cast — Grants water walking to willing creatures for up to 1 hour.
 
 ---
 
 ### Inventory
 
-- Chain Shirt + Shield (equipped)
-- 2x Potion of Healing
-- 2x Potion of Fire Resistance
-- Guild Brass Armlet (magic item -- guild membership token)
-- Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch)
+- **Armor:** Chain Shirt + Shield (equipped)
+- **Magic Items:** Guild Brass Armlet (guild membership token)
+- **Gear:** 2x Potion of Healing, 2x Potion of Fire Resistance, Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch)
+
+---
+
 ## Session 21
 
 Session 21 downtime:
@@ -205,10 +207,26 @@ Session 21 downtime:
 
 PvP test:
 - Cast *Magic Missile*
-- Healed [[Nanuk]] for 9 HP with *Healing Word*
+- Healed [[The Exodus/The Door Kickers/PCs/Nanuk]] for 9 HP with *Healing Word*
 - Brought down by Nanuk after healing him
 
 Level: 5
+
+---
+
+Race:: Human
+Subrace::
+Class:: Cleric (Arcana Domain)
+Player:: Chian
+Pronouns:: he/him
+Affiliation:: [[Adamantine Guild]]
+Location:: [[Crystal City]]
+Deity:: [[Istishia]]
+PassivePerception:: 14
+PassiveInsight:: 17
+PassiveInvestigation:: 11
+PassiveStealth:: 12
+
 ## Session 19
 
 Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.

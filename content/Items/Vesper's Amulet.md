@@ -15,7 +15,7 @@ updated: 2026-07-02T15:29:49
 > [!infobox]
 > # Vesper's Amulet
 
-A small crystal amulet carried back from the prequel vision of Shadowdale. When held and called upon, it summons [[Vesper]] — [[Ember]]'s wolf companion — who steps out of the crystal's light and into the world.
+A small crystal amulet carried back from the prequel vision of Shadowdale. When held and called upon, it summons [[Vesper]] — [[The Exodus/The Door Kickers/PCs/Ember]]'s wolf companion — who steps out of the crystal's light and into the world.
 
 ## Description
 
@@ -23,7 +23,7 @@ Clear crystal, roughly teardrop-shaped, set in a simple wire frame. In certain l
 
 ## Mechanics
 
-**Carrier:** [[Ember]]
+**Carrier:** [[The Exodus/The Door Kickers/PCs/Ember]]
 **Attunement:** Required (Ember only)
 
 Summoning Vesper requires an Action unless a tier ability specifies otherwise. Vesper acts on Ember's initiative, obeys Ember's commands, and is loyal to the party. If reduced to 0 HP, he returns to the amulet and cannot be summoned again until after a Long Rest.
@@ -84,7 +84,7 @@ Custom — TBD. Intentionally open. Design when approaching Level 17.
 
 ---
 Rarity:: Unique
-Owner:: [[Ember]]
+Owner:: [[The Exodus/The Door Kickers/PCs/Ember]]
 Origin:: Shadowdale (prequel vision, Session 15)
 
 

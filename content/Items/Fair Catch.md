@@ -24,7 +24,7 @@ Iron-tipped and barbed like a gaff hook, the shaft worn smooth where a hand has 
 
 ## Mechanics
 
-**Carrier:** [[Gill Bates]]
+**Carrier:** [[The Exodus/The Door Kickers/PCs/Gill Bates]]
 **Attunement:** Required (Gill only)
 
 The spear grows in power as Gill levels. The weapon returns to Gill's hand at the start of his next turn after being thrown, always.
@@ -80,7 +80,7 @@ TBD.
 
 ---
 Rarity:: Unique
-Owner:: [[Gill Bates]]
+Owner:: [[The Exodus/The Door Kickers/PCs/Gill Bates]]
 Origin:: Shadowdale (prequel vision, Session 15)
 
 

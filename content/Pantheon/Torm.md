@@ -46,6 +46,6 @@ His nature is deeply martial, yet tempered by compassion. Torm does not glorify 
 ## Followers & Influence
 Torm's faithful are paladins, clerics, knights, and soldiers who define themselves by their oaths of service. His worship is closely intertwined with that of [[Tyr]] and [[Helm]], the three deities forming an allied triad that emphasises justice, vigilance, and loyal duty.
 
-[[Augustus Kennedy]], a warforged grappling with questions of identity and purpose, considers Torm among his potential patron deities. Augustus's combat training and growing commitment to the role of protector align naturally with Torm's teachings, and his deliberation over which of the three allied gods to follow reflects the depth with which he approaches his divine calling. His journey of self-discovery — balancing martial discipline with a search for meaning — embodies the kind of earnest, duty-bound devotion that Torm values most.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], a warforged grappling with questions of identity and purpose, considers Torm among his potential patron deities. Augustus's combat training and growing commitment to the role of protector align naturally with Torm's teachings, and his deliberation over which of the three allied gods to follow reflects the depth with which he approaches his divine calling. His journey of self-discovery — balancing martial discipline with a search for meaning — embodies the kind of earnest, duty-bound devotion that Torm values most.
 
 

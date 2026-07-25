@@ -93,7 +93,7 @@ Deity:: [[Asmodeus]]
 - Had exactly three brass [[Adamantine Guild]] bracers pre-loaded before the circle opened
 - Knows the [[The Claret|Claret]] code phrase, "four litres of blood to sell"; connection to the Claret runs further than previously confirmed
 - [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
-- Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
+- Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
 - Location as of approximately 12th Uktar: outside [[Crystal City]], near [[Corran's Spike]]
 
 

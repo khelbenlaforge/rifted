@@ -62,8 +62,8 @@ He offered the party a guide to goblin territory to find the Hucrele party — o
 - Secret ally of [[Durnn]]; has brokered a fragile cross-faction peace deal
 - Will help the party reach the Hucrele delegation if they don't cross him
 - The party found his weapons suspiciously clean for claimed skirmish frequency
-- *Toothpick* — his named blade — was stolen by [[Ember]] during Durnn's victory revel while Ragh was intoxicated
-- [[Augustus Kennedy]] angered him by making light of [[Calcryx]] — his devotion is not to be tested
+- *Toothpick* — his named blade — was stolen by [[The Exodus/The Door Kickers/PCs/Ember]] during Durnn's victory revel while Ragh was intoxicated
+- [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] angered him by making light of [[Calcryx]] — his devotion is not to be tested
 - **Correspondence with [[Belak]]:** A letter from Belak to Ragh was found in the goblin prison — Belak was considering bringing Ragh "into the fold." What that means is unknown, but it places Ragh in Belak's orbit and suggests the druid sees something useful in him
 - **Letters confirmed:** Hidden compartment in the goblin prison contained letters between Durnn and Ragh confirming their cross-faction conspiracy in writing — the party now holds this evidence
 

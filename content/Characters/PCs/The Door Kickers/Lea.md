@@ -5,6 +5,8 @@
 
 
 
+
+
 title: Lea
 aliases:
 tags:
@@ -14,7 +16,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-09T01:19:59
+updated: 2026-07-15T02:41:30
 ---
 
 # Lea
@@ -25,11 +27,11 @@ updated: 2026-07-09T01:19:59
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Elf (High Elf) |
-> | Class | Wizard (Chronurgy Magic) |
-> | Background | Orzhov Representative |
-> | Player | Ming |
-> | Affiliation | [[Adamantine Guild]] |
+> | **Race** | Elf (High Elf) |
+> | **Class** | Wizard (Chronurgy Magic) |
+> | **Background** | Orzhov Representative |
+> | **Player** | Ming |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 Lea carries herself with the quiet determination of someone who has accepted the weight of responsibility before fully understanding its shape. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She is protective by nature -- the first to step between danger and her companions -- yet equally at home poring over arcane theory. There is a regal quality to her bearing that she may not yet recognise for what it is.
@@ -46,7 +48,7 @@ Lea is a wizard in training, wielding arcane magic with growing proficiency. She
 Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizard, at the [[Ether Scryer's Academy]] in the [[Amethyst District]] of [[Crystal City]]. Elmindaria determined that unsupervised wizardry was too dangerous and whisked Lea to the Academy for formal instruction. Her training covers the disciplined study of incantations, gestures, and components; spell preparation and ritual casting; and the philosophical underpinnings of wizardry -- that a wizard earns power through study, sacrifice, and understanding of the Weave, not through innate gifts or divine favour. Elmindaria has warned her of wizardry's costs: the fragility of the spellbook, the physical vulnerability of a wizard in combat, and the peril of obsessive knowledge-seeking that can lead to dark paths.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Ember]], [[Augustus Kennedy]], [[Gill Bates]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the campfire with the dark-haired woman and the spectral exchange with [[Corran]], who addressed her as "my Lady"
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
@@ -59,16 +61,16 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - Attended the [[Council Tent]] meeting and accepted [[Adamantine Guild]] duties
 - At the [[Hucrele Pavilion]], cast Detect Magic on the [[Goblin Fruit]], revealing necromantic and divine/draconic energies; spoke with [[Talgen Hucrele Sr.]] and accepted the rescue mission
 - Obtained healing potions from [[Tymora's Shrine]]; received Bogstride Salamandrel mounts for marsh travel
-- Departed south with [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
+- Departed south with [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and followed tracks to a ravine; descended into a subterranean fortress
 - Cast Detect Magic within the fortress, sensing necromantic magic behind a trapped hidden door; used Mage Hand to trigger the trap remotely
-- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
+- **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
 - **Marpenoth, 222 PA (Session 14)** — Arrived in [[Shadowdale]] as Midnight; clocked by [[Selmavra Elsree]] at the gate before entering. At the [[Old Skull Inn]], decoded the Zhentarim cipher recovered from the Commander's hidden lining — *Operation Shadowfall*, pendant bearer flagged as CRITICAL — and shared a version with the group that omitted certain details. She is not lying. She is editing. In the liminal space between her Earth-mind and Midnight, Lea shared the full text; the party pieced together [[Elminster]], [[Khelben Blackstaff]], and [[Manshoon]] — and on a natural 20, a name that landed wrong: *Corran Blackstaff*, son of the Archmage of Waterdeep. In the courtyard, Midnight was seized by a Zhentarim Agent and freed by [[Torm of the Dales]]'s crossbow bolt; cast *Command* on the Commander; when Reverse Gravity launched her into the air, the pendant activated on its own — a shard of [[Mystra]] reaching up to catch itself on the way down
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower: learned the Tablets of Fate rest in Tantras, east; the Celestial Stairway lies beneath the Temple of Lathander; multiple people carry fragments of [[Mystra]], including Elminster and [[Storm Silverhand]]. Storm wove a warding song specifically around Midnight to close her off from Zhentarim scrying. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge — a Tasha's Mind Whip on the Battlelord fed the Chaos table and scattered the damage in directions it was not aimed. When [[Bane]] entered the Temple of Lathander, the pendant pulled toward the Stairway and the party held her back — four sets of hands against a divine current. [[Elminster]] dropped to one knee and found her eyes: *"Be brave, lass. Take him down."* The pendant ignited. Midnight became something older than herself — wild-haired, glowing, made of blue-white starmotes — and spoke in a voice that was not entirely hers: *"You killed me once. I thought you should know — I remember."* She bound herself to [[Bane]] and pulled him through the Stairway, smiling. The pendant went cold. For the first time since Castle Kilgrave, it was just a pendant. The vision fractured on [[Sharantyr]]'s mid-sentence accusation of Elminster's murder. All five returned to Durnn's Research Lab
 - **Crossing vision resolved** — The words heard crossing from Earth — *"Midnight. ke-le."* — were a name and a name: Midnight and [[Kelemvor Lyonsbane|Kelemvor]]. The campfire at the edge of a dark forest. The armoured warrior watching the fire. The moment glimpsed across two worlds is no longer a mystery
 
 ## Relationships
-- **[[Ember]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
+- **[[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
 - **[[Elmindaria L'Thorian]]** -- Mentor and instructor at the [[Ether Scryer's Academy]]; a demanding teacher who sees Lea's potential and its dangers
 - **[[Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
@@ -80,35 +82,34 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 5 |
-| **Class** | Wizard (Chronurgy Magic) |
-| **Race** | Elf (High Elf) |
-| **Background** | Orzhov Representative |
-| **HP (Max)** | 28 |
-| **AC** | 11 |
-| **Speed** | 30 ft. |
-| **Proficiency Bonus** | +2 |
-| **Vision** | Darkvision 60 ft. |
+| Level | 5 |
+| Class | Wizard (Chronurgy Magic) |
+| Race | Elf (High Elf) |
+| Background | Orzhov Representative |
+| HP (Max) | 28 |
+| AC | 11 |
+| Speed | 30 ft. |
+| Prof Bonus | +3 |
+| Vision | Darkvision 60 ft. |
 
-### Ability Scores
+---
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1) | 13 (+1) | 14 (+2) | 18 (+4) | 15 (+2) | 15 (+2) |
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 8 | -1 |
+| DEX | 13 | +1 |
+| CON | 14 | +2 |
+| INT | 18 | +4 |
+| WIS | 15 | +2 |
+| CHA | 15 | +2 |
 
-### Saving Throws
+**Saving Throws:** STR -1 · DEX +1 · CON +2 · **INT +7** · **WIS +5** · CHA +2
 
-Intelligence +6 · Wisdom +4
+**Resistances & Vulnerabilities:** None.
 
-### Resistances & Vulnerabilities
-
-None.
-
-### Skills
-
-Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 · Performance +4 · Persuasion +4 · Religion +6
+**Skills:** **Arcana +10** *(expertise)* · Insight +5 · Intimidation +5 · Investigation +7 · Medicine +5 · Performance +5 · Persuasion +5 · Religion +7
 **Languages:** Common · Elvish
 **Tools:** None
 
@@ -176,7 +177,7 @@ Arcana +8 · Insight +4 · Intimidation +4 · Investigation +6 · Medicine +4 ·
 
 ### Spellcasting
 
-**Ability:** Intelligence | **Save DC:** 14 | **Attack Bonus:** +6
+**Ability:** Intelligence | **Save DC:** 15 | **Attack Bonus:** +7
 
 **Spell Slots:** 1st ×4 · 2nd ×3 · 3rd ×2
 
@@ -208,8 +209,8 @@ Session 21 downtime:
 
 PvP test:
 - Cast *Suggestion* on [[Sadiah Ispahani]]; the Wisdom save failed
-- Silenced by [[Nanuk]]'s quiver arrow
-- Cast *Fireball* hitting [[Nanuk]] and [[Gill Bates]]
+- Silenced by [[The Exodus/The Door Kickers/PCs/Nanuk]]'s quiver arrow
+- Cast *Fireball* hitting [[The Exodus/The Door Kickers/PCs/Nanuk]] and [[The Exodus/The Door Kickers/PCs/Gill Bates]]
 
 Level: 5
 
@@ -224,6 +225,22 @@ Session 23 downtime:
 - Described her landing vision of [[Corran Blackstaff]] to Lady Blackstaff, who was moved by finally hearing what Corran looked like.
 - Showed [[Elminster's Spellbook]] to Lady Blackstaff, who judged its script older than the Blackstaff family's own knowledge and decided the [[Sunless Citadel]] expedition had become more urgent.
 - Learned that the Blackstaffs intend to travel to the citadel with the Director of Antiquities after the Feast of the Moon, two days after the Claret meeting.
+
+---
+
+Race:: Elf (High Elf)
+Subrace::
+Class:: Wizard (Chronurgy Magic)
+Player:: Ming
+Pronouns:: she/her
+Affiliation:: [[Adamantine Guild]]
+Location:: [[Crystal City]]
+Deity::
+PassivePerception:: 12
+PassiveInsight:: 15
+PassiveInvestigation:: 17
+PassiveStealth:: 11
+
 ## Session 19
 
 Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.

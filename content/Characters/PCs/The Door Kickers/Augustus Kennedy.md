@@ -1,6 +1,11 @@
 ---
 
 
+
+
+
+
+
 title: Augustus Kennedy
 aliases:
   - Augie
@@ -12,7 +17,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-06-25T00:58:34
+updated: 2026-07-15T02:21:04
 ---
 
 # Augustus Kennedy
@@ -23,11 +28,11 @@ updated: 2026-06-25T00:58:34
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Half-Warforged |
-> | Class | Paladin (Oath of Glory) |
-> | Background | Guard |
-> | Player | Justin |
-> | Affiliation | [[Adamantine Guild]] |
+> | **Race** | Half-Warforged |
+> | **Class** | Paladin (Oath of Glory) |
+> | **Background** | Guard |
+> | **Player** | Justin |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 Augustus -- known to his companions as Augie -- is a half-warforged paladin, a formidable blend of metal and flesh. His humanoid frame retains recognizable features from his former life on Earth, yet his construct nature grants him an imposing, resilient presence. Gleaming eyes spark with sentience beneath an aura of quiet determination and martial resolve.
@@ -48,20 +53,20 @@ Extra Turn Undead 1/day (gained Session 20 via [[Kelemvor's Brand]] / adherent r
 Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the [[Adamantine Guild]], teaches him combat -- weapons, shield techniques, and the practical realities of battle. [[Sir Gareth Ironhand]], a one-armed human paladin of [[Tyr]] at the [[Hall of Justice - Temple of Tyr]], guides his spiritual path. Gareth has pressed Augustus to find a personal calling beyond mere duty, instructing him to train his body, question his mind, and examine his heart. Augustus has deferred choosing between [[Tyr]], [[Helm]], and [[Torm]], though his training at the Temple of [[Tyr]] continues to shape his understanding of justice and redemption.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Ember]], [[Gill Bates]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] after [[Shadow Creatures]] rendered the Spire unsafe
 - Experienced visions of the Cataclysm, including the sealing of [[Corran's Spike]]
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment and was decisively defeated alongside companions
 - Visited the [[Garnet District]] and learned of [[Stormberg]], [[Devran]], and the coming descent of [[Corranor]]
-- **4th Marpenoth** -- Participated in the Pantry Heist, body-checking [[Elmindaria L'Thorian]] to create chaos as cover for [[Jonathan Jordan]]'s test
+- **4th Marpenoth** -- Participated in the Pantry Heist, body-checking [[Elmindaria L'Thorian]] to create chaos as cover for [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s test
 - **1st-6th Marpenoth** -- Trained under [[Luks Borg]] and [[Sir Gareth Ironhand]] during downtime in [[Crystal City]]
 - **6th Marpenoth** -- Remained standing during [[Corranor]]'s descent to [[Aenath]]
 - **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Terra Bound island]]
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] who ambushed the party at a wrecked wagon site
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the confrontation between [[Keldara Hucrele]] and [[Harbin Wester]]; reported to [[Harbin Wester]] on behalf of the [[Adamantine Guild]]
 - Attended the [[Council Tent]] meeting and accepted duties for safety, exploration, and outreach
-- Traveled to the [[Hucrele Pavilion]] with [[Lea]] and [[Ember]]; learned of the missing Hucrele children and accepted the rescue mission
-- Departed south with [[Lea]], [[Ember]], and [[Jonathan Jordan]], leaving [[Luks]] and [[Gill Bates]] in [[Sunhold]]
+- Traveled to the [[Hucrele Pavilion]] with [[The Exodus/The Door Kickers/PCs/Lea]] and [[The Exodus/The Door Kickers/PCs/Ember]]; learned of the missing Hucrele children and accepted the rescue mission
+- Departed south with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], leaving [[Luks]] and [[The Exodus/The Door Kickers/PCs/Gill Bates]] in [[Sunhold]]
 - Traversed marshes on Bogstride Salamandrels, followed tracks to a ravine, and descended into a subterranean fortress
 - Explored the ruins, encountering dead goblins and necromantic magic behind a trapped hidden door
 - **Session 13** — Touched the Sanctum mural in the Grove Level, triggering the prequel vision for all five. He and Ember floated in the liminal void while the other three experienced the Avatar Crisis as Midnight/Torm/Adon.
@@ -70,7 +75,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **~3rd Uktar, 222 PA (Session 19)** — During downtime in [[Crystal City]], [[Sir Gareth Ironhand]] detected the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought Augustus to the [[Temple of Kelemvor]]. The clerics and paladins welcomed him without deliberation — the Brand had already named him. He left the Church of [[Tyr]] gracefully and joined the Church of [[Kelemvor Lyonsbane|Kelemvor]]. Shortly after, he returned to the [[Hall of Justice - Temple of Tyr]] to sign up with Tyr's law enforcement arm, taking a junior position in the judiciary using his NPYC background.
 
 ## Relationships
-- **[[Lea]], [[Ember]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bonded through shared displacement and the trials of [[Aenath]]
+- **[[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; bonded through shared displacement and the trials of [[Aenath]]
 - **[[Sir Gareth Ironhand]]** -- Paladin mentor at the Temple of [[Tyr]]; teaches the weight and meaning of an oath; recognized the Brand's panther energies and brought Augustus to the Temple of Kelemvor
 - **[[Luks Borg]]** -- Combat trainer; practical and demanding
 - **[[Istar Silverlock]]** -- Assistant Guildmaster of the [[Adamantine Guild]]; assigned the party to [[Sunhold]]
@@ -93,7 +98,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 | HP (Max) | 43 |
 | AC | 20 (Chain Mail + Shield + Defense + Warforged Integrated Protection) |
 | Speed | 30 ft |
-| Proficiency Bonus | +3 |
+| Prof Bonus | +3 |
 
 ---
 | Ability | Score | Modifier |
@@ -114,6 +119,9 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 **Tools:** Gaming Set
 
 ---
+
+### Actions
+
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
 | **Longsword** *(Sap)* | M +7 | 5 ft | 1d8+4 slash (1d10+4 versatile); on hit, target disadv. on their next atk roll before your next turn | -- | -- | -- |
@@ -134,7 +142,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 
 *M+ = Holy Water 25+ gp consumed*
 
-**Bonus Actions**
+### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
@@ -149,7 +157,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 | Lay on Hands -- Cure | -- | Touch | Spend 5 HP from pool to cure one disease or poison | -- | -- | Pool |
 | Potion of Healing (self) | -- | Self | Restore 2d4+2 HP | -- | -- | -- |
 
-**Reactions**
+### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
@@ -157,7 +165,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 
 ---
 
-**Features**
+### Features
 
 - **Extra Attack:** Make 2 attacks when you take the Attack action.
 - **Fighting Style: Defense:** +1 AC while wearing armor (included in AC 20).
@@ -173,7 +181,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 
 ---
 
-**Spellcasting**
+### Spellcasting
 
 **Ability:** CHA | **Save DC:** 15 | **Attack Bonus:** +7
 
@@ -185,12 +193,12 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 **Prepared Spells:** Command, Cure Wounds, Divine Favor, Divine Smite, Guiding Bolt*, Heroism*, Protection from Evil and Good, Shield of Faith (L1); Enhance Ability*, Find Steed, Magic Weapon*, Shining Smite (L2)
 *Always prepared (Oath of Glory) -- does not count against prepared limit.*
 
-**Ritual Spells**
+#### Ritual Spells
 *None.*
 
 ---
 
-**Inventory**
+### Inventory
 
 **Armor:** Chain Mail + Shield (equipped)
 
@@ -203,7 +211,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 ---
 Race:: Warforged
 Subrace::
-Class:: Paladin
+Class:: Paladin (Oath of Glory)
 Player:: Justin
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]], [[Temple of Kelemvor]], [[Hall of Justice - Temple of Tyr|Hall of Justice]]
@@ -213,4 +221,5 @@ PassivePerception:: 14
 PassiveInsight:: 14
 PassiveInvestigation:: 11
 PassiveStealth:: 9
+
 

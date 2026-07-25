@@ -23,11 +23,11 @@ updated: 2026-03-17T00:00
 > | ---- | --- |
 > | Race | Rat (Earth) |
 > | Location | [[Sunless Citadel]] (with JJ) |
-> | Affiliation | [[Jonathan Jordan]] |
+> | Affiliation | [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] |
 
 ## Description
 
-A perfectly ordinary brown rat from Earth — except for the tiny leather vest, the miniature hood, and the little belt that holds a toothpick dagger no bigger than a splinter. Michael C Jordan followed [[Jonathan Jordan]] through the dimensional rift with absolutely no hesitation, which says something either profound about loyalty or deeply worrying about rat decision-making.
+A perfectly ordinary brown rat from Earth — except for the tiny leather vest, the miniature hood, and the little belt that holds a toothpick dagger no bigger than a splinter. Michael C Jordan followed [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] through the dimensional rift with absolutely no hesitation, which says something either profound about loyalty or deeply worrying about rat decision-making.
 
 He is the size of a rat because he is a rat. He has the intelligence of a rat. He wears rogue clothes because JJ dressed him in rogue clothes. He follows JJ's orders because he has been extensively trained, bribed with cheese, and apparently shares a bond that transcends worlds.
 
@@ -47,14 +47,14 @@ He is not in the prequel vision. He is resting in [[Durnn's Research Lab]], prob
 
 ## Relationships
 
-- **[[Jonathan Jordan]]** — His person. Will follow him anywhere, including apparently into a different dimension.
+- **[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** — His person. Will follow him anywhere, including apparently into a different dimension.
 
 ---
 Race:: Rat
 Subrace::
 Pronouns:: he/him
 Class::
-Affiliation:: [[Jonathan Jordan]]
+Affiliation:: [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 Location:: [[Sunless Citadel]]
 Deity::
 

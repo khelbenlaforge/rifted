@@ -41,5 +41,5 @@ A towering repository of knowledge dedicated to [[Oghma]], the Binder of Books. 
 
 ## Current Events
 
-The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Lea]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.
+The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[The Exodus/The Door Kickers/PCs/Lea]] with [[Elmindaria L'Thorian]], [[The Exodus/The Door Kickers/PCs/Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] toward the gods of justice.
 

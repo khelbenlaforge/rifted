@@ -1,5 +1,10 @@
 ---
 
+
+
+
+
+
 title: Sadiah Ispahani
 aliases: []
 tags:
@@ -9,7 +14,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-06-25T00:54:20
+updated: 2026-07-15T02:33:34
 ---
 
 # Sadiah Ispahani
@@ -22,9 +27,9 @@ updated: 2026-06-25T00:54:20
 > | ---- | --- |
 > | **Race** | Wood Elf |
 > | **Class** | Rogue (Arcane Trickster) |
-> | **Background** | TBD |
+> | **Background** | Entertainer |
 > | **Player** | Veronica |
-> | **Affiliation** | Party |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 
@@ -66,76 +71,125 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 ## Character Sheet
 
-| | |
+| Stat | Value |
 |---|---|
-| **Level** | 3 |
-| **Class** | Rogue (Arcane Trickster) |
-| **Race** | Wood Elf |
-| **Background** | TBD |
-| **HP (Max)** | TBD |
-| **AC** | TBD |
-| **Speed** | 35 ft. |
-| **Proficiency Bonus** | +2 |
+| Level | 4 |
+| Class | Rogue (Arcane Trickster) |
+| Race | Wood Elf |
+| Background | Entertainer |
+| HP (Max) | 22 |
+| AC | 15 |
+| Speed | 35 ft. |
+| Prof Bonus | +2 |
+| Vision | Darkvision 60 ft. |
+
+---
+
+| Ability | Score | Modifier |
+|---|---|---|
+| STR | 9 | -1 |
+| DEX | 18 | +4 |
+| CON | 11 | +0 |
+| INT | 15 | +2 |
+| WIS | 14 | +2 |
+| CHA | 16 | +3 |
+
+**Saving Throws:** STR -1 · **DEX +6** · CON +0 · **INT +4** · WIS +2 · CHA +3
+
+**Resistances & Vulnerabilities:** None.
+
+**Skills:** Acrobatics +8 (expertise) · Animal Handling +2 · Arcana +2 · Athletics +1 (prof) · Deception +3 · History +2 · Insight +2 · Intimidation +7 (expertise) · Investigation +2 · Medicine +2 · Nature +2 · Perception +2 · Performance +5 (prof) · Religion +2 · Sleight of Hand +6 (prof) · Stealth +4 · Survival +4 (prof)
+**Languages:** Common · Elvish · Thieves' Cant
+**Tools:** Thieves' Tools
+
+---
 
 ### Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Sukoon** ([[Sukoon and Junoon|Sickles]]) | M +? | 5 ft. | 1d4+? slash, +2 item bonus | — | — | — |
-| **Junoon** ([[Sukoon and Junoon|Sickles]]) | M +? | 5 ft. | 1d4+? slash, +2 item bonus; TWF off-hand | — | — | — |
+| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon; grapple/shove (DC 9) | — | — | — |
+| **Dagger** *(Nick)* | M/R +6 | 20/60 ft. | 1d4+4 pierce | — | — | — |
+| **Shortsword** | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
+| **Shortbow** *(Vex)* | R +6 | 80/320 ft. | 1d6+4 pierce; next atk vs target has adv. | — | — | — |
+| **Sukoon** ([[Sukoon and Junoon]]) | M +8 | 5 ft. | 1d4+6 slash | — | — | — |
+| **Junoon** ([[Sukoon and Junoon]]) | M +8 | 5 ft. | 1d4+6 slash; light off-hand 1d4+2 | — | — | — |
+| **Dancing Lights** | — | 120 ft. | Four lights; move 60 ft.; 1 min | Cantrip | V, S, M (phosphorus) | Conc. |
+| **Druidcraft** | — | 30 ft. | Minor nature effect; instant/predict weather | Cantrip | V, S | — |
+| **Fire Bolt** | R +4 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
+| **Mage Hand** | — | 30 ft. | Spectral hand manipulates 10 lb; 1 min | Cantrip | V, S | — |
+| **Message** | — | 120 ft. | Whisper to target; target may reply; 1 rnd | Cantrip | S, M (copper wire) | — |
+| **Sword Burst** | DEX 12 | Self (5-ft radius) | Creatures within 5 ft take 1d6 force | Cantrip | V | — |
+| **Chromatic Orb** | R +4 | 90 ft. | 3d8 acid/cold/fire/lightning/poison/thunder | 1st | V, S, M† | — |
+| **Color Spray** | — | Self (15-ft cone) | Blind by 6d10 HP pool; until end of next turn | 1st | V, S, M (pinch of sand) | — |
+| **Disguise Self** | — | Self | Illusory appearance change; 1 hr | 1st | V, S | — |
+| **Longstrider** | — | Touch | Speed +10 ft. for 1 hr | 1st | V, S, M (pinch of dirt) | — |
+
+*† Chromatic Orb: M = diamond worth 50+ GP*
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Invisible Third** ([[Sukoon and Junoon|Sickles]]) | — | 30 ft. | Position Mage Hand holding a sickle; make TWF off-hand attack from Hand's location (uses normal attack modifier); Sneak Attack applies if conditions met from Hand's position | — | — | — |
+| **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
+| **Steady Aim** | — | Self | Next atk this turn has adv.; speed becomes 0 | — | — | — |
+| **Mage Hand Legerdemain** | — | 30 ft. | Cast/control invisible *Mage Hand*; use tools/Sleight of Hand through it | Cantrip | V, S | — |
+| **The Invisible Third** ([[Sukoon and Junoon]]) | M +8 | 30 ft. | Off-hand Junoon atk from Hand's location; 1d4+2 slash | — | — | — |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Junoon's Word** ([[Sukoon and Junoon|Sickles]]) | — | Self | When Sadiah rolls a 1 on any d20 roll (attack, save, or check), reroll and use the new result | — | — | 1/SR |
-| **Debt Paid** ([[Sukoon and Junoon|Sickles]]) | WIS ? | Self | After dealing Sneak Attack damage: target makes WIS save or is Frightened of Sadiah until end of their next turn | — | — | 1/day |
+| **Shield** | — | Self | +5 AC vs trigger; no *Magic Missile* dmg | 1st | V, S | — |
+| **Silvery Barbs** | — | 60 ft. | Reroll success; grant adv. to another creature | 1st | V | — |
+| **Junoon's Word** ([[Sukoon and Junoon]]) | — | Self | When you roll a 1 on a d20 Test, reroll it | — | — | 1/SR |
+| **Debt Paid** ([[Sukoon and Junoon]]) | WIS 12 | Triggering target | After Sneak Attack: Frightened until end of next turn | — | — | 1/day |
+
+---
 
 ### Features
 
-**Wood Elf**
-- **Darkvision** — 60 ft.
-- **Elven Lineage (Wood Elf)** — Speed is 35 ft. Know *Druidcraft* cantrip. At level 3: *Longstrider* 1/LR (also castable with spell slots). At level 5: *Pass without Trace* 1/LR. Spellcasting ability: INT, WIS, or CHA (choose when lineage selected).
+- **Darkvision** — See in dim light as bright light and darkness as dim light within 60 feet.
+- **Elven Lineage (Wood Elf)** — Speed 35 ft.; know *Druidcraft*; cast *Longstrider* 1/LR without a slot and also with spell slots.
 - **Fey Ancestry** — Advantage on saving throws to avoid or end the Charmed condition.
-- **Keen Senses** — Proficiency in Insight, Perception, or Survival (choose one).
-- **Trance** — No sleep needed. Long Rest in 4 hours of trancelike meditation; retains consciousness throughout.
-
-**Rogue (Levels 1–3)**
-- **Expertise** — Expertise in two skill proficiencies of choice. (Sleight of Hand and Stealth recommended.)
-- **Sneak Attack** — Once per turn, +2d6 damage on a hit with a Finesse or Ranged weapon when you have Advantage, or when an unincapacitated ally is within 5 ft. of the target and you don't have Disadvantage.
-- **Thieves' Cant** — Knows Thieves' Cant + one additional language of choice.
-- **Weapon Mastery** — Mastery property with two chosen weapons; swap on Long Rest.
-- **Cunning Action** — Bonus Action: Dash, Disengage, or Hide.
-- **Steady Aim** — Bonus Action: grant yourself Advantage on your next attack roll this turn. Requires no movement this turn; Speed becomes 0 until end of turn.
-
-**Arcane Trickster (Level 3)**
-- **Spellcasting** — INT-based. Wizard spell list. 3 cantrips (*Mage Hand* + 2 Wizard). 2 × 1st-level spell slots (LR recovery). 3 prepared spells (Wizard; can change one per Rogue level gained). Spellcasting Focus: Arcane Focus.
-- **Mage Hand Legerdemain** — Cast *Mage Hand* as a Bonus Action; the hand can be Invisible. Control the hand as a Bonus Action; through it, make Dexterity (Sleight of Hand) checks.
-- **[[Sukoon and Junoon]] (Tier 2, Earth-life carry; +2 sickles, attunement required):** **Still Point** *(passive)*: Using Steady Aim does not reduce Sadiah's speed to 0 — she may still move up to half her speed this turn. When she uses Steady Aim before attacking with Sukoon or Junoon, she also adds 1d6 to her Sneak Attack damage roll on that turn. **The Named Weight** *(passive)*: When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target must succeed on a Constitution saving throw (DC = Sadiah's spell save DC) or be unable to take Reactions until the start of its next turn.
+- **Keen Senses** — Proficiency in Survival.
+- **Trance** — Long Rest in 4 hours of trancelike meditation; remain conscious during it.
+- **Expertise** — Acrobatics and Intimidation.
+- **Sneak Attack** — Once per turn, deal +2d6 on a hit with a Finesse or Ranged weapon if you have adv., or if an ally is within 5 ft. of the target and you don't have disadv.
+- **Thieves' Cant** — Secret rogue cant and cipher system.
+- **Weapon Mastery** — Dagger *(Nick)*: make the Light-property extra attack as part of the Attack action instead of as a Bonus Action, once per turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Shortbow *(Vex)*: on hit, your next attack roll against that target has Advantage before the end of your next turn; can swap assignment on Long Rest.
+- **Mage Hand Legerdemain** — Your *Mage Hand* can be invisible and manipulate objects, tools, and locks at range; see Bonus Actions table for cast/control.
+- **Magic Initiate: Wizard** — Two Wizard cantrips and one 1st-level Wizard spell. The feat spell can be cast 1/LR without a slot and also with spell slots; the source notes do not distinguish which listed 1st-level spell is the feat pick.
+- **Sukoon and Junoon** — +2 sickles; attunement required.
+- **Sukoon and Junoon: Still Point** — Using Steady Aim does not reduce Sadiah's speed to 0; she may still move up to half her speed that turn. If she used Steady Aim before attacking with Sukoon or Junoon, add 1d6 to Sneak Attack damage that turn.
+- **Sukoon and Junoon: The Named Weight** — When Sadiah deals Sneak Attack damage, add her Intelligence modifier to the total. The target then makes CON 12 or can't take Reactions until the start of its next turn.
 
 ---
 
 ### Spellcasting
 
-**Ability:** Intelligence | **Save DC:** TBD | **Attack Bonus:** TBD
+**Ability:** Intelligence | **Save DC:** 12 | **Attack Bonus:** +4
 
-**Spell Slots:** 1st ×2
+**Spell Slots:** 1st x3
 
-*Prepared spells TBD — 3 Wizard spells of 1st level (Charm Person, Disguise Self, and Fog Cloud recommended by XPHB).*
+**Cantrips:** *Dancing Lights* · *Druidcraft* · *Fire Bolt* · *Mage Hand* · *Message* · *Sword Burst*
+
+**1st-Level Spells:** *Chromatic Orb* · *Color Spray* · *Disguise Self* · *Longstrider* · *Shield* · *Silvery Barbs*
+
+**Magic Initiate Note:** One listed 1st-level Wizard spell is also Sadiah's Magic Initiate pick and can be cast 1/LR without a spell slot; the source notes do not identify which one.
+
+#### Ritual Spells
+
+None.
 
 ---
 
 ### Inventory
 
-**Magic Items (equipped):** [[Sukoon and Junoon]] (equipped, +2 sickles, Finesse, Light, attuned)
-**Armor:** TBD
-**Gear:** TBD
+**Armor (equipped):** Leather Armor
+**Magic Items (equipped):** [[Sukoon and Junoon]]
+**Gear:** Thieves' Tools · Backpack · Ball Bearings · Bell · Candle x10 · Crowbar · Hooded Lantern · Mirror · Oil x7 · Perfume · Quiver · Rations x5 · Rope · Tinderbox · Traveler's Clothes · Waterskin · Costume x2
 
 ---
 
@@ -145,23 +199,24 @@ She was redirecting a private art collection to a family of displaced farmers wh
 - Shared the Calamity vision on arrival
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Has two glowing sickles; in Session 21 the DM called them Jukun and Sukun, but existing notes elsewhere use Sukoon and Junoon. Name discrepancy pending confirmation; existing names not changed.
-- PvP test: landed a sneak attack on [[Nanuk]] for 20 piercing damage, also hit [[Lea]], and used Steady Aim
+- PvP test: landed a sneak attack on [[The Exodus/The Door Kickers/PCs/Nanuk]] for 20 piercing damage, also hit [[The Exodus/The Door Kickers/PCs/Lea]], and used Steady Aim
 - Level 4 after leveling during the session; Level 5 may also have been granted and is pending confirmation
 
-Session 23: Did not appear. Per [[Shen]], she remained in her room, traumatized.
+Session 23: Did not appear. Per [[The Exodus/The Door Kickers/PCs/Shen]], she remained in her room, traumatized.
 
 ---
 
 Race:: Wood Elf
 Subrace::
-Class:: Rogue
+Class:: Rogue (Arcane Trickster)
 Player:: Veronica
 Pronouns:: she/her
-Affiliation:: Party
-Location:: Crystal City
+Affiliation:: [[Adamantine Guild]]
+Location:: [[Crystal City]]
 Deity::
-PassivePerception::
-PassiveInsight::
-PassiveInvestigation::
-PassiveStealth::
+PassivePerception:: 12
+PassiveInsight:: 12
+PassiveInvestigation:: 12
+PassiveStealth:: 14
+
 

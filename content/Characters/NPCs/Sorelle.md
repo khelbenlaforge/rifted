@@ -12,7 +12,7 @@ state: alive
 > [!infobox]
 > # Sorelle
 
-Sorelle is the maid at [[Hucrele Manor]] in the [[Sapphire District]] who admitted [[Lea]] and summoned [[Soral Vayne]] on her behalf.
+Sorelle is the maid at [[Hucrele Manor]] in the [[Sapphire District]] who admitted [[The Exodus/The Door Kickers/PCs/Lea]] and summoned [[Soral Vayne]] on her behalf.
 
 ---
 

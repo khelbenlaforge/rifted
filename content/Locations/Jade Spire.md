@@ -46,6 +46,6 @@ The shadow creature attack sites are now walled off with fresh runes and paint; 
 
 [[Layla]] kept a reagent drawer at the [[Jade Spire]] containing her teleportation circle components: magic item scraps, humanoid blood (dried), and bone fragments.
 
-[[Perrin Quickquill]] found this drawer on 21st Uktar and used the contents to redraw her circle. He did not direct it at anyone. The circle opened and pulled [[Regius]] through by infernal resonance.
+[[Perrin Quickquill]] found this drawer on 21st Uktar and used the contents to redraw her circle. He did not direct it at anyone. The circle opened and pulled [[The Exodus/The Door Kickers/PCs/Regius]] through by infernal resonance.
 
 

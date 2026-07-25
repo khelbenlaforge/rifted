@@ -89,7 +89,7 @@ Two systems that look like cruelty from close up and like order from far enough 
 
 The middle ground they move toward — much later, neither of them reformed — is *recognition*: *we are both the mechanism that keeps the larger thing alive. We simply disagree on what the larger thing is.*
 
-This thread mirrors [[Ember]]'s established infernal duality. Asmodeus stayed beside her at the Sealed Door. Vael attends Selmavra's heroic moments. The infernal is not the corruption of the natural — it may be its shadow. Its other face.
+This thread mirrors [[The Exodus/The Door Kickers/PCs/Ember]]'s established infernal duality. Asmodeus stayed beside her at the Sealed Door. Vael attends Selmavra's heroic moments. The infernal is not the corruption of the natural — it may be its shadow. Its other face.
 
 ## Role in the Story
 

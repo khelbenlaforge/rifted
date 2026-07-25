@@ -1,19 +1,7 @@
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-created: 2026-06-29T17:14:45
-
-title: "Regius"
+title: Regius
 aliases: []
 tags:
   - pc
@@ -21,7 +9,8 @@ campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
-updated: 2026-07-01T18:00:12
+created: 2026-06-29T17:14:45
+updated: 2026-07-15T02:07:15
 ---
 
 # Regius
@@ -36,7 +25,7 @@ updated: 2026-07-01T18:00:12
 > | **Class** | Fighter (Echo Knight) |
 > | **Background** | Noble |
 > | **Player** | Clarissa |
-> | **Affiliation** | [[The Door Kickers]] |
+> | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
 
@@ -161,23 +150,27 @@ Regius fights the way he does everything else — efficiently and without wasted
 - **Magic Items:** [[Le Fil]]
 - **Gear:** Backpack, Rope, Tinderbox, Fine Clothes, Caltrops, Crowbar, Waterskin, Perfume
 
+---
+
 Race:: Tiefling
 Subrace:: Custom Lineage
-Class:: Fighter
-Subclass:: Echo Knight
-Level:: 5
-Background:: Noble
+Class:: Fighter (Echo Knight)
 Player:: Clarissa
 Pronouns:: he/him
-Affiliation:: [[The Door Kickers]]
+Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+PassivePerception:: 13
+PassiveInsight:: 10
+PassiveInvestigation:: 9
+PassiveStealth:: 11
+
 
 ## Session 22
 
 Regius arrived in Aenath on 21st Uktar, Year 222 PA, materializing at the top of the [[Jade Spire]] tower via [[Layla]]'s runic circle, which [[Perrin Quickquill]] had accidentally reactivated.
 
-He was immediately caught in a [[Shadow Creatures|shadow creature]] assault and went unconscious (0 HP) during the encounter. [[Shen]] dragged him down the tower stairwell.
+He was immediately caught in a [[Shadow Creatures|shadow creature]] assault and went unconscious (0 HP) during the encounter. [[The Exodus/The Door Kickers/PCs/Shen]] dragged him down the tower stairwell.
 
 After the short rest outside, he was brought to the [[Adamantine Guild]] and introduced by [[Istar Silverlock]]. He is now an official guild member.
 
@@ -187,7 +180,7 @@ His echo had been appearing as a faceless flickering silhouette in Crystal City'
 
 Regius spent the session chasing work, leverage, and answers.
 
-- He and [[Lea]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
+- He and [[The Exodus/The Door Kickers/PCs/Lea]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
 - House Verenthal hired him to discreetly trail [[Sellas Verenthal]] at night without making contact unless she was in danger.
 - Pay for the Verenthal work came to 51 gp, and the house handed him 10 crystal glyphs to break if Sellas needs emergency help.
 - A second job at the docks paid another 10 gp and unlocked access to [[Azure Tamers]] resources, including their sky tower and the use of one airship.

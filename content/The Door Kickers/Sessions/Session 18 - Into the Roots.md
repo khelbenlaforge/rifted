@@ -22,9 +22,9 @@ The violet pulse from below was faster when they woke. Not the slow patience of 
 
 The murals hadn't changed. The same gods watched from the same walls. Somewhere below, the [[Gulthias Tree]] had stopped being patient.
 
-[[Augustus Kennedy|Augie]] woke to a room that had grown while he was unconscious — a bugbear he didn't recognize, a gnome in the corner performing drunk with the precision of someone who had done it many times for many audiences, and a rat in a tiny rogue outfit that made eye contact and declined to look away.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augie]] woke to a room that had grown while he was unconscious — a bugbear he didn't recognize, a gnome in the corner performing drunk with the precision of someone who had done it many times for many audiences, and a rat in a tiny rogue outfit that made eye contact and declined to look away.
 
-The items found their bearers before their bearers found them. Something had settled against Augie in the night — not a physical weight, exactly, or not only that. The mark of [[Kelemvor Lyonsbane|Kelemvor]]'s attention, pressed into him from a ceremony he hadn't been present for. A god's claim made while he was somewhere else, with the particular form of patience that doesn't explain itself: a hand on the shoulder that doesn't quite lift. He didn't get a manual. He got the weight of it. The Unclassified Specimen was already in [[Shen]]'s hands when he registered reaching for it, his patron arriving in the clipped, barely-contained tone it uses when something has caught its interest and it is choosing not to say why yet.
+The items found their bearers before their bearers found them. Something had settled against Augie in the night — not a physical weight, exactly, or not only that. The mark of [[Kelemvor Lyonsbane|Kelemvor]]'s attention, pressed into him from a ceremony he hadn't been present for. A god's claim made while he was somewhere else, with the particular form of patience that doesn't explain itself: a hand on the shoulder that doesn't quite lift. He didn't get a manual. He got the weight of it. The Unclassified Specimen was already in [[The Exodus/The Door Kickers/PCs/Shen]]'s hands when he registered reaching for it, his patron arriving in the clipped, barely-contained tone it uses when something has caught its interest and it is choosing not to say why yet.
 
 Through the Brand's enhanced senses, Augie smelled the power from A56 before anyone spoke of moving. Something south. Something waiting. The violet pulse agreed.
 
@@ -32,9 +32,9 @@ Through the Brand's enhanced senses, Augie smelled the power from A56 before any
 
 ## Into the Grove
 
-The plan made sense on its face: [[Shen]] walking openly — [[Belak]] knew him, had kept him for weeks — while the rest of the party moved through the briars under stealth. A familiar face at the front. Some room to breathe before the conversation became something else.
+The plan made sense on its face: [[The Exodus/The Door Kickers/PCs/Shen]] walking openly — [[Belak]] knew him, had kept him for weeks — while the rest of the party moved through the briars under stealth. A familiar face at the front. Some room to breathe before the conversation became something else.
 
-Belak had already figured it out. He addressed the hidden members by their approximate positions when the party arrived at the clearing, his voice carrying the particular patience of someone who has been naming a thing they've known all along and choosing courtesy over accuracy until now. [[Jonathan Jordan|JJ]] fired a crossbow bolt before the speech could continue. Some things cannot be endured further.
+Belak had already figured it out. He addressed the hidden members by their approximate positions when the party arrived at the clearing, his voice carrying the particular patience of someone who has been naming a thing they've known all along and choosing courtesy over accuracy until now. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] fired a crossbow bolt before the speech could continue. Some things cannot be endured further.
 
 The fight in the clearing was not clean. Belak was everything the party had spent weeks approaching — quiet, certain, with the Grove behind him and years of its service in every movement. [[Sir Braford]] advanced immediately, the way walls don't negotiate. Blights came when called. The party managed it, not comfortably.
 
@@ -46,7 +46,7 @@ What cut through the calculus was [[Balsag]]. He saw [[Gork]] the moment he cros
 
 Mid-battle. Something arrived that was not through a door.
 
-His name was [[Nanuk]]. He came in three pieces, each bleeding through in sequence like memory reassembling itself from the wrong end of a fall.
+His name was [[The Exodus/The Door Kickers/PCs/Nanuk]]. He came in three pieces, each bleeding through in sequence like memory reassembling itself from the wrong end of a fall.
 
 A kitchen table in an Inuvialuit home. His mother explaining, with the exhausted pragmatism of someone who has run the numbers too many times, why the energy corporation's trades made sense — convenient goods for village relics, locally-sourced wildlife, the usual accounting of a community that has run out of alternatives. The [[Ancestor's Quiver]] hung on the wall behind her. He disapproved. He was powerless. Both were true at the same time, and there was no version of that truth that resolved cleanly.
 
@@ -60,7 +60,7 @@ He woke mid-battle and joined the fight without introduction. There was nothing 
 
 ## A Word and a Door
 
-[[Lea]] ended it — not with force, but with a word placed precisely in the right mind at the right moment.
+[[The Exodus/The Door Kickers/PCs/Lea]] ended it — not with force, but with a word placed precisely in the right mind at the right moment.
 
 *Suggestion*, landed clean: stop attacking the party, let everyone go. [[Belak]] considered this. Complied. His expression held something that might have been acknowledgment — not surprise, exactly, but the look of a man who knows when a negotiation has moved past his position. He had never been afraid to lose. He had always been afraid of something else.
 
