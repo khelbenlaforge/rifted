@@ -34,7 +34,7 @@ Frost is fiercely loyal to [[Sylvara Oakwhisper]] and rarely strays far from her
 ## Relationships
 
 - **[[Sylvara Oakwhisper]]** — His ranger companion and lifelong partner in guarding [[Mielikki's Grove]]
-- **[[Ember]]** — Present during Ember's training sessions at the Grove
+- **[[The Exodus/The Door Kickers/PCs/Ember]]** — Present during Ember's training sessions at the Grove
 
 ---
 ## Tags

@@ -47,7 +47,7 @@ The weight of it will build slowly. Adon serves a goddess who holds beauty as sa
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[Gill Bates]] temporarily inhabited Adon's body.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[The Exodus/The Door Kickers/PCs/Gill Bates]] temporarily inhabited Adon's body.
 
 ## Character Sheet
 

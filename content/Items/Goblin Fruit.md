@@ -31,7 +31,7 @@ A vibrant red fruit that remains impossibly fresh long after being picked, its s
 
 ## Properties
 
-When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-like quality. [[Lea]]'s Detect Magic revealed a dual signature of **necromantic** and **divine/draconic** energies — a deeply troubling combination for a fruit marketed as a simple healer.
+When [[The Exodus/The Door Kickers/PCs/Ember]] examined a half-eaten specimen, she sensed its unsettling blood-like quality. [[The Exodus/The Door Kickers/PCs/Lea]]'s Detect Magic revealed a dual signature of **necromantic** and **divine/draconic** energies — a deeply troubling combination for a fruit marketed as a simple healer.
 
 **The fruit heals.** Eating it while alive suppresses whatever lies within. The seeds enter the body with the flesh and *wait*.
 

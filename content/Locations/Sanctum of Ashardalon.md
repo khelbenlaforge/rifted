@@ -52,6 +52,6 @@ The mural loops endlessly around the walls. Its full meaning has not yet been un
 
 ## Current Events
 
-[[Augustus Kennedy]] touched the mural during Session 13, triggering a vision of the Avatar Crisis that pulled [[Jonathan Jordan]], [[Gill Bates]], and [[Lea]] into the bodies of [[Torm of the Dales]], [[Adon]], and [[Midnight]]. The party remains in the prequel vision. The real-world party rests in [[Durnn's Research Lab]], the mural behind them still.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the mural during Session 13, triggering a vision of the Avatar Crisis that pulled [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Lea]] into the bodies of [[Torm of the Dales]], [[Adon]], and [[Midnight]]. The party remains in the prequel vision. The real-world party rests in [[Durnn's Research Lab]], the mural behind them still.
 
 

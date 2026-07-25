@@ -1,12 +1,13 @@
 ---
 title: The Low Flagon
-aliases:
+aliases: null
 tags:
-  - location
-  - location/building
+- location
+- location/building
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
+updated: 2026-07-20T16:18:54
 ---
 
 # The Low Flagon
@@ -21,7 +22,7 @@ secret: false
 
 ## Description
 
-A wide, low-ceilinged tavern that has been in the same building on the same corner of the [[Garnet District]] for longer than anyone can remember. The floors are worn smooth, half the tables are sticky, and the sign outside is missing a letter — no one has fixed it in twenty years. It serves the cheapest ale in [[Crystal City]] and, inexplicably, the best fried fish. Off-shift dockworkers, miners, and locals fill it every night. The crowd is not dangerous. The back room is not public.
+A wide, low-ceilinged tavern that has been in the same building on the same corner of the [[Garnet District]] for longer than anyone can remember — close enough to the [[Citrine District]] line that off-shift dockworkers treat it as their local, even though the address is Garnet. The floors are worn smooth, half the tables are sticky, and the sign outside is missing a letter — no one has fixed it in twenty years. It serves the cheapest ale in [[Crystal City]] and, inexplicably, the best fried fish. Off-shift dockworkers, miners, and locals fill it every night. The crowd is not dangerous. The back room is not public.
 
 [[The Claret]] has operated out of the Low Flagon for at least three generations. The owner — a silent partner who has never been identified — is Claret-affiliated. The staff knows what the back room is for and has been well compensated to forget.
 
@@ -60,7 +61,7 @@ Status:: active
 
 ## Session 22
 
-The party finalized their approach. [[Jonathan Jordan]], [[Shen]], and [[Regius]] will enter as sellers. Password: "I have four litres of blood to sell."
+The party finalized their approach. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], and [[The Exodus/The Door Kickers/PCs/Regius]] will enter as sellers. Password: "I have four litres of blood to sell."
 
-[[Nanuk]] will serve as outside lookout on a nearby rooftop; [[Inukshuk]] is cavalry within eyeline. Physical intel: one known entrance, shuttered wooden windows all day, bruisers inside. A blood-supply deal will draw a mid-level [[The Claret|Claret]] contact down to the table.
+[[The Exodus/The Door Kickers/PCs/Nanuk]] will serve as outside lookout on a nearby rooftop; [[Inukshuk]] is cavalry within eyeline. Physical intel: one known entrance, shuttered wooden windows all day, bruisers inside. A blood-supply deal will draw a mid-level [[The Claret|Claret]] contact down to the table.
 

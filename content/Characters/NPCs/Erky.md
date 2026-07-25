@@ -52,7 +52,7 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 - Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]
 - Ventured south to rescue the missing Hucrele children and was captured
 - Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and Grip
-- **Under observation:** [[Luks Borg]] gave [[Lea]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
+- **Under observation:** [[Luks Borg]] gave [[The Exodus/The Door Kickers/PCs/Lea]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
 
 ## D&D 5e Stat Block
 
@@ -60,5 +60,5 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 
 ## Session 19
 
-Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster reveal. At [[Elmindaria L'Thorian|Daria]]'s request, he attempted Banishment on [[Shen]]'s patron; the spell failed because the patron was too powerful.
+Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster reveal. At [[Elmindaria L'Thorian|Daria]]'s request, he attempted Banishment on [[The Exodus/The Door Kickers/PCs/Shen]]'s patron; the spell failed because the patron was too powerful.
 

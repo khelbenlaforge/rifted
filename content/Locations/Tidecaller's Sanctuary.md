@@ -39,9 +39,9 @@ At the heart of the sanctuary lies a spring-fed pool with an altar that appears 
 
 ## Notable Residents
 
-- **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]] who mentors [[Gill Bates]], teaching patience, adaptability, and the philosophy that water flows rather than fights
+- **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]] who mentors [[The Exodus/The Door Kickers/PCs/Gill Bates]], teaching patience, adaptability, and the philosophy that water flows rather than fights
 
 ## Current Events
 
-[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
+[[The Exodus/The Door Kickers/PCs/Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
 

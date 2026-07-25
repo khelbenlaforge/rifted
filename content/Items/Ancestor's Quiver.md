@@ -12,7 +12,7 @@ updated: 2026-06-24T17:03
 > [!infobox]
 > # Ancestor's Quiver
 
-A hunter's quiver carried by [[Nanuk]], worn smooth from generations of use. Embedded in the frame near the mouth is a small carved ivory bear — an *irinaliutiit*, a spirit helper passed down through his line. The carving is old. Older than Nanuk. Older than anyone he could name. The bear inside it is older still.
+A hunter's quiver carried by [[The Exodus/The Door Kickers/PCs/Nanuk]], worn smooth from generations of use. Embedded in the frame near the mouth is a small carved ivory bear — an *irinaliutiit*, a spirit helper passed down through his line. The carving is old. Older than Nanuk. Older than anyone he could name. The bear inside it is older still.
 
 ## Description
 
@@ -22,7 +22,7 @@ The quiver never runs empty.
 
 ## Mechanics
 
-**Carrier:** [[Nanuk]]
+**Carrier:** [[The Exodus/The Door Kickers/PCs/Nanuk]]
 **Attunement:** Required (Nanuk only)
 
 | Tier | Level | New Abilities |
@@ -71,7 +71,7 @@ The quiver never runs empty.
 
 ---
 Rarity:: Unique
-Owner:: [[Nanuk]]
+Owner:: [[The Exodus/The Door Kickers/PCs/Nanuk]]
 Origin:: Carried into the campaign (prequel item, session 0)
 
 

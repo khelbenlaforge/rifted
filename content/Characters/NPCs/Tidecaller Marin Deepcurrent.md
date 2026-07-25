@@ -32,10 +32,10 @@ Marin Deepcurrent is the embodiment of his element. His blue-tinged skin ripples
 ## Background
 Marin serves as a cleric of [[Istishia]], the primordial being of water who predates the gods themselves. He resides in the Diamond District of [[Crystal]] and is a familiar figure at the city's docks, where he fishes with genuine enthusiasm. His philosophy centres on the belief that every action creates ripples, and that understanding water is akin to understanding life.
 
-He recognised [[Gill Bates]] as a kindred spirit the moment he saw the young fisher's calloused hands. Taking Gill under his guidance, Marin introduced him to the Arcana Domain and the teachings of [[Istishia]] -- dawn prayers, meditation on cycles, and the observation of water to perceive hidden patterns. He presented the four sects of [[Istishia]]'s faith and encouraged Gill to find his own path within them naturally. During the celebratory descent of [[Corranor]] into the oceans of [[Aenath]], Marin joined Gill in fishing from the docks, marking the occasion with quiet joy.
+He recognised [[The Exodus/The Door Kickers/PCs/Gill Bates]] as a kindred spirit the moment he saw the young fisher's calloused hands. Taking Gill under his guidance, Marin introduced him to the Arcana Domain and the teachings of [[Istishia]] -- dawn prayers, meditation on cycles, and the observation of water to perceive hidden patterns. He presented the four sects of [[Istishia]]'s faith and encouraged Gill to find his own path within them naturally. During the celebratory descent of [[Corranor]] into the oceans of [[Aenath]], Marin joined Gill in fishing from the docks, marking the occasion with quiet joy.
 
 ## Relationships
-- Mentor to [[Gill Bates]] in the ways of [[Istishia]] and the Arcana Domain
+- Mentor to [[The Exodus/The Door Kickers/PCs/Gill Bates]] in the ways of [[Istishia]] and the Arcana Domain
 - Cleric of [[Istishia]], stationed in [[Crystal]]'s Diamond District
 - Participated in the celebration of [[Corranor]]'s landing alongside the party
 

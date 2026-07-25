@@ -17,20 +17,20 @@ updated: 2026-03-18T13:30
 > **Date Played:** January 2026
 > **In-Game Date:** Year 222 PA, 14th Marpenoth
 > **Location:** [[Sunless Citadel]], Upper Level
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
 > **Companions:** [[Meepo]]
 
 ---
 
 ## Reunion in the Dark
 
-The Rune of Recall was a small thing — flat as a river stone, warm as a coal, etched with a single glyph that pulsed once a day with [[Jonathan Jordan]]'s heartbeat. [[Luks Borg]] had carried it since the party departed [[Sunhold]], and for days he had justified leaving it unused. The cleric was needed at the frontier. The post needed stability.
+The Rune of Recall was a small thing — flat as a river stone, warm as a coal, etched with a single glyph that pulsed once a day with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s heartbeat. [[Luks Borg]] had carried it since the party departed [[Sunhold]], and for days he had justified leaving it unused. The cleric was needed at the frontier. The post needed stability.
 
 Then he looked at the roster again. A rogue, a druid, a paladin, a wizard. No healer.
 
-He crossed the guild post in three strides, found [[Gill Bates]], and said: *Pack your gear.*
+He crossed the guild post in three strides, found [[The Exodus/The Door Kickers/PCs/Gill Bates]], and said: *Pack your gear.*
 
-The snap-crack of the Rune breaking traveled several hundred miles in an instant. [[Gill Bates]] arrived in the Collapsed Tower of the [[Sunless Citadel]] in a column of water-light — there one moment, here the next, smelling of salt and startling everyone within ten feet. [[Jonathan Jordan]] was particularly unsettled; it was his heartbeat the magic had followed.
+The snap-crack of the Rune breaking traveled several hundred miles in an instant. [[The Exodus/The Door Kickers/PCs/Gill Bates]] arrived in the Collapsed Tower of the [[Sunless Citadel]] in a column of water-light — there one moment, here the next, smelling of salt and startling everyone within ten feet. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] was particularly unsettled; it was his heartbeat the magic had followed.
 
 The party was whole again.
 
@@ -38,11 +38,11 @@ The party was whole again.
 
 ## Three Doors
 
-The Collapsed Tower offered choices. A northwest door carried faint, regular footsteps — a patrol. The southwest door yielded scraping and scurrying — something small, nervous, and numerous. A hidden southern door, found by [[Jonathan Jordan]]'s careful hands, exhaled necromantic energy like a cold breath.
+The Collapsed Tower offered choices. A northwest door carried faint, regular footsteps — a patrol. The southwest door yielded scraping and scurrying — something small, nervous, and numerous. A hidden southern door, found by [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s careful hands, exhaled necromantic energy like a cold breath.
 
 They chose northwest.
 
-A long hallway. Three more doors. The northern room held rubble and silence. The southern door bore a stone relief: a dragon-like creature sinuous as a fish, swimming through currents or clouds. [[Gill Bates]] named it — a water elemental, rendered by someone who understood the real thing rather than the icon. The door was locked. [[Jonathan Jordan]]'s picks found nothing. They moved on.
+A long hallway. Three more doors. The northern room held rubble and silence. The southern door bore a stone relief: a dragon-like creature sinuous as a fish, swimming through currents or clouds. [[The Exodus/The Door Kickers/PCs/Gill Bates]] named it — a water elemental, rendered by someone who understood the real thing rather than the icon. The door was locked. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s picks found nothing. They moved on.
 
 The western room stopped them.
 
@@ -84,11 +84,11 @@ That evening they met [[Ragh]] at his western post.
 
 The post opened into tunnels running toward the [[Underdark]], and it was stocked accordingly — weapons against the things that came up from below and against goblin raiders. But the weapons were clean. Too clean for the frequency of raids Ragh described.
 
-Ragh was a different creature than Yusdrayl. Thick-necked, steady-voiced, the kind of kobold who had chosen something to believe in and never once reconsidered. He repeated Yusdrayl's briefing, but with tactical precision — positions, patrol patterns, the goblins' pressure points. Then [[Ember]] told him the truth: the party didn't trust Yusdrayl.
+Ragh was a different creature than Yusdrayl. Thick-necked, steady-voiced, the kind of kobold who had chosen something to believe in and never once reconsidered. He repeated Yusdrayl's briefing, but with tactical precision — positions, patrol patterns, the goblins' pressure points. Then [[The Exodus/The Door Kickers/PCs/Ember]] told him the truth: the party didn't trust Yusdrayl.
 
 He absorbed it. He looked at them for a long moment.
 
-[[Augustus Kennedy]] made a remark about the wyrmling — something light, careless. Ragh's eyes went cold. The wyrmling was not a subject for lightness.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] made a remark about the wyrmling — something light, careless. Ragh's eyes went cold. The wyrmling was not a subject for lightness.
 
 When they pressed him — really pressed — Ragh told them everything.
 

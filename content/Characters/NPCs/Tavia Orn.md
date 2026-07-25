@@ -2,13 +2,13 @@
 title: Tavia Orn
 aliases: []
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-06-20T18:11
+updated: 2026-07-20T16:50:51
 ---
 
 > [!infobox|right wikipedia]+
@@ -17,7 +17,7 @@ updated: 2026-06-20T18:11
 > | | |
 > | ---- | --- |
 > | Race | Half-Orc |
-> | Location | [[The Low Flagon]], [[Garnet District]] |
+> | Location | [[The Low Flagon]], [[Garnet District]]/[[Citrine District]] border |
 > | Affiliation | [[The Claret]] |
 
 ## Appearance
@@ -32,9 +32,9 @@ Her code is simple: she does not lie to people she's doing business with, she do
 
 ## Background
 
-Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. She became a Claret associate at seventeen — vouched by a woman she will not name — and made her second stud by twenty-five. She has been offered advancement three times and declined each time. She likes her territory, she knows her people, and she trusts no one above her in the chain enough to get any closer to the centre.
+Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. She became a Claret associate at seventeen — vouched by a woman she will not name — and made her second stud by twenty-five. She has been offered *public* advancement three times and declined each time — visibly, on the record, the kind of thing the rest of the Claret notices and gossips about. What most of them don't know: her real standing with Corvin Adder, the Claret's old-guard lieutenant, is Rank 3 (Warden) in every practical sense — she's just never been given the third stud that would make it official. Two studs is what she wears, and Rank 2 (Made) is what the Claret's own records say. Neither is what she's actually trusted with.
 
-She has been running collections in the same three-block radius for eleven years. Every shopkeeper, barkeep, and landlord in that territory knows her schedule. Most of them consider her more reliable than the city watch.
+She's been running collections for eleven years, and the territory has grown well past what her rank would suggest — a wide stretch straddling the [[Garnet District]]/[[Citrine District]] line, anchored on [[The Low Flagon]] itself, which sits right on that border. Every shopkeeper, barkeep, dockhand, and landlord in it knows her schedule. Most of them consider her more reliable than the city watch. Corvin gave her that reach precisely because the seam between two districts is exactly the kind of post you don't hand to someone who might get ambitious with it — and she never has.
 
 ## Role in the Story
 
@@ -43,10 +43,10 @@ Tavia is the party's point of entry into [[The Claret]] — not a friendly, a bu
 ---
 Race:: Half-Orc
 Pronouns:: she/her
-Location:: [[The Low Flagon]], [[Garnet District]]
+Location:: [[The Low Flagon]], [[Garnet District]]/[[Citrine District]] border
 Affiliation:: [[The Claret]]
 
 ## Session 19
 
-[[Jonathan Jordan]] met Tavia at [[The Low Flagon]] during Session 19 downtime, and she confirmed that [[Layla]] is still in the city. He paid 10 gp for intelligence that Layla was buying illegal spell components in the [[Garnet District]] and is a valued Claret client. He paid another 25 gp to arrange a meeting with Tavia's boss; someone from [[The Claret]] will contact him in the coming weeks.
+[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] met Tavia at [[The Low Flagon]] during Session 19 downtime, and she confirmed that [[Layla]] is still in the city. He paid 10 gp for intelligence that Layla was buying illegal spell components in the [[Garnet District]] and is a valued Claret client. He paid another 25 gp to arrange a meeting with Tavia's boss; someone from [[The Claret]] will contact him in the coming weeks.
 

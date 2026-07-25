@@ -171,7 +171,7 @@ History +4 · Insight +6 · Medicine +6 · Persuasion +6 · Religion +4
 
 ## Session 15
 
-At the tower when the party arrived. First sight of "Torm" ([[Jonathan Jordan]]): *"Two silver, Torm"* — then a bear hug, held at arm's length, grin returning. He read JJ as Torm and found no reason to doubt it. He had the warmth of someone who has been quietly worried and is relieved not to need to be. Later, at the war council: *"You're the only one who keeps this place lively."*
+At the tower when the party arrived. First sight of "Torm" ([[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]): *"Two silver, Torm"* — then a bear hug, held at arm's length, grin returning. He read JJ as Torm and found no reason to doubt it. He had the warmth of someone who has been quietly worried and is relieved not to need to be. Later, at the war council: *"You're the only one who keeps this place lively."*
 
 At the Ashaba Bridge crossroads, he used his Ring of the Ram to devastating effect on Zhentarim formations — methodical and high-impact, the way he fights when it actually matters.
 

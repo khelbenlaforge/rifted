@@ -33,7 +33,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Istar Silverlock]]** — Reluctant Assistant Guildmaster managing day-to-day operations
 - **[[Elmindaria L'Thorian]]** — Ancient elf scholar and remaining senior member
 - **[[Luks Borg]]** — Senior Adventurer, currently establishing the [[Sunhold]] outpost
-- **[[Jonathan Jordan]]**, **[[Gill Bates]]**, **[[Ember]]**, **[[Augustus Kennedy]]**, **[[Lea]]** — Newest recruits, transported from Earth
+- **[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]**, **[[The Exodus/The Door Kickers/PCs/Gill Bates]]**, **[[The Exodus/The Door Kickers/PCs/Ember]]**, **[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]**, **[[The Exodus/The Door Kickers/PCs/Lea]]** — Newest recruits, transported from Earth
 
 ## Operations
 
@@ -45,6 +45,6 @@ Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[
 
 ## Session 19
 
-[[Shen]] and [[Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
+[[The Exodus/The Door Kickers/PCs/Shen]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
 
 

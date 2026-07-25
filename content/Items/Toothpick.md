@@ -22,7 +22,7 @@ updated: 2026-04-21T19:31
 > | Rarity | Uncommon |
 > | Attunement | Yes |
 > | Found At | Taken from [[Ragh]] |
-> | Current Holder | [[Ember]] |
+> | Current Holder | [[The Exodus/The Door Kickers/PCs/Ember]] |
 
 Rarity:: Uncommon
 Attunement:: Yes
@@ -32,7 +32,7 @@ Found At:: [[Sunless Citadel]]
 
 A chipped longsword fashioned from one of [[Ashardalon]]'s teeth. The blade is clearly broken — a huge, jagged weapon that looks like it shouldn't work and somehow does. [[Ragh]] called it his most prized possession and carried it everywhere. It is, like its former owner, scrappy, dangerous, and always one bad roll away from falling apart.
 
-[[Ember]] stole it from Ragh during the victory revel in Session 10, along with *Blight's Call*.
+[[The Exodus/The Door Kickers/PCs/Ember]] stole it from Ragh during the victory revel in Session 10, along with *Blight's Call*.
 
 ## Properties
 
@@ -47,6 +47,6 @@ A chipped longsword fashioned from one of [[Ashardalon]]'s teeth. The blade is c
 - Fashioned from [[Ashardalon]]'s tooth — companion relic to *Blight's Call* (made from the claw). Both items are pieces of Ashardalon, both held by the party.
 - A DC 15 Nature check identifies the material as a dragon's tooth
 - The rage feature makes it immediately useful for any martial character, but the fragility die is a session-ending threat that hangs over every use
-- Currently in [[Augustus Kennedy]]'s possession
+- Currently in [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]'s possession
 
 

@@ -48,6 +48,6 @@ Helm's faithful include bodyguards, city watch members, treasury guards, and any
 
 The [[Adamantine Guild]] currently struggles with severe understaffing and a shortage of healers following attacks by shadow creatures, making Helm's call to vigilance more urgent than ever. The Guild actively recruits capable individuals to bolster the defence of the [[Jade Spire]].
 
-[[Augustus Kennedy]], a warforged seeker of purpose, has recognised Helm as a potential patron deity. His combat training at the [[Adamantine Guild]] under [[Luks Borg]] aligns closely with Helm's ideals of strength and unwavering protection, though Augustus also contemplates allegiance to [[Tyr]] or [[Torm]].
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], a warforged seeker of purpose, has recognised Helm as a potential patron deity. His combat training at the [[Adamantine Guild]] under [[Luks Borg]] aligns closely with Helm's ideals of strength and unwavering protection, though Augustus also contemplates allegiance to [[Tyr]] or [[Torm]].
 
 

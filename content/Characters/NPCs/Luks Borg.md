@@ -43,7 +43,7 @@ As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luk
 - Works alongside [[Istar Silverlock]] and [[Elmindaria L'Thorian]]
 - Met with [[Harbin Wester]] to establish the Guild post in [[Sunhold]]
 - Arranged supplies through [[Elmar Barthen]] at [[Barthen's Supplies]]
-- Mentor to [[Jonathan Jordan]] and other Guild recruits
+- Mentor to [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] and other Guild recruits
 
 ## Character Sheet
 
