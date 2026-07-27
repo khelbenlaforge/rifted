@@ -1,23 +1,14 @@
 ---
-
-
-
-
-
-
-
-
-
 title: Terra
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-07-15T02:41:55
+updated: 2026-07-27T10:35:17
 ---
 
 # Terra
@@ -221,6 +212,12 @@ She was in a shelter in California when the light took her.
 - While touching the earth at the grove, Terra sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects responding to her.
 - Earned 26 gp from this work.
 - Attended the meeting at [[Blackstaff Mansion]] with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Regius]].
+
+## Session 24
+
+- Served as rooftop lookout during the [[The Low Flagon]] approach.
+- Failed her stealth check on a natural 1 and was spotted outright; [[Tavia Orn]] noticed her directly and the party told her to go home.
+- Her player was absent this session, so Terra withdrew to the [[Adamantine Guild]] rather than continue in the scene.
 
 ---
 

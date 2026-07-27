@@ -1,20 +1,14 @@
 ---
-
-
-
-
-
-
 title: Sadiah Ispahani
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-07-15T02:33:34
+updated: 2026-07-27T10:35:20
 ---
 
 # Sadiah Ispahani
@@ -73,7 +67,7 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 | Stat | Value |
 |---|---|
-| Level | 4 |
+| Level | 5 |
 | Class | Rogue (Arcane Trickster) |
 | Race | Wood Elf |
 | Background | Entertainer |
@@ -203,6 +197,13 @@ None.
 - Level 4 after leveling during the session; Level 5 may also have been granted and is pending confirmation
 
 Session 23: Did not appear. Per [[The Exodus/The Door Kickers/PCs/Shen]], she remained in her room, traumatized.
+
+## Session 24
+
+- Leveled up to 5.
+- Returned to active participation after trauma-related absence in Session 23.
+- Led the morning reconnaissance of [[The Low Flagon]] disguised, not stealthed, alongside [[The Exodus/The Door Kickers/PCs/Nanuk]], helping discover the hidden pocket-dimension vault and the trapped window.
+- Held position near the city wall during the night's meeting, unlike [[Terra]], and went completely unnoticed by [[Tavia Orn]] the entire night; did not enter the Claret's inner sanctum.
 
 ---
 

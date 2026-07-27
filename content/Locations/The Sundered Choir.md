@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-18T00:00:00
-updated: 2026-07-18T07:33:21
+updated: 2026-07-27T10:58:51
 ---
 
 # The Sundered Choir
@@ -23,12 +23,12 @@ updated: 2026-07-18T07:33:21
 > | Access | Airborne only |
 
 Region:: [[Corranor]]
-Controlled By:: Unknown
+Controlled By:: Formerly a temple of [[Lathander]]
 Status:: ruined
 
 ## Description
 
-Something tore this temple out of the ground whole, and it never came back down. What's left drifts in slow, silent orbit over the wild country east of Crystal City — a broken ring of consecrated stone hanging in the cloud, visible from the ground only as a smudge against the sky that doesn't move like weather should.
+Something tore this temple out of the ground whole, and it never came back down. What's left drifts in slow, silent orbit over the main [[Corranor]] continent to the northeast, nearer to [[Stormberg]] than [[Crystal City]] — a broken ring of consecrated stone hanging in the cloud, visible from the ground only as a smudge against the sky that doesn't move like weather should.
 
 The heart of it is a great rose window, cracked clean through, its stone tracery still holding a disc of pale blue crystal that was never glass — it doesn't shatter, doesn't dull, and it hasn't stopped glowing since whatever broke this place first broke it. A stairway climbs to what was once the sanctuary door, flanked by two carved figures worn past recognition, robes and faces alike sanded to suggestion by however many centuries of wind. Beyond the window's ring, the rest of the temple didn't survive the fall in one piece: smaller shelves of stone and rubble hang loose around the central mass, threaded through with the same veins of blue crystal, connected back to the heart of the ruin — and to each other — only by narrow, half-collapsed causeways of the original temple floor. Step off the stone and there is nothing beneath you but cloud.
 
@@ -44,6 +44,12 @@ Moss and creeping vine have taken the parts sunlight still reaches. The parts it
 ## Current Events
 
 On a normal day, nothing happens here at all — no one has lived on the Sundered Choir in longer than anyone alive remembers, and it drifts far enough from any trade route that it's more rumor than landmark. That changes the day something on the other side of the Choir Window answers a pull from somewhere else entirely, and the temple becomes, briefly, a door.
+
+### Session 1 Update (The Understudies)
+
+- 29th Uktar, Year 222 PA: confirmed in play to be a previously undiscovered, abandoned temple to [[Lathander]], rather than merely an unidentified ruined temple.
+- 29th Uktar, Year 222 PA: four Understudies PCs — !D'bleh, Esca, Fern, and Kili — were pulled here and survived a Shadow Creature ambush.
+- 29th Uktar, Year 222 PA: Regius and Lea of the Door Kickers arrived as reinforcements during the ambush.
 
 ## Scene Features
 

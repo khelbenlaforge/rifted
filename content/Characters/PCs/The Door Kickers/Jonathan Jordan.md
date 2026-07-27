@@ -1,18 +1,16 @@
 ---
-
-
 title: Jonathan Jordan
 aliases:
-  - JJ
-  - Jj
+- JJ
+- Jj
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-15T02:39:42
+updated: 2026-07-27T10:34:46
 ---
 
 # Jonathan Jordan
@@ -187,5 +185,13 @@ During downtime, Jonathan followed threads from the [[Garnet District]] to the [
 Jonathan now works as a bartender at [[Griffin's Hat]] on the Citrine District docks. [[Istar Silverlock]] tasked him with stealing the recently installed mithral scales from the great statue at the [[Hall of Justice - Temple of Tyr]], forty feet up. Istar will train Jonathan for a month, with half-proficiency in Deception as the reward for doing well. Jonathan also accompanied [[The Exodus/The Door Kickers/PCs/Nanuk]] to intimidate [[Perrin Quickquill]].
 
 Jonathan earned 19 gp and spent 35 gp with Tavia, for a net change of -16 gp.
+
+## Session 24
+
+- Recapped for the table how he first infiltrated the Claret: intimidation in the [[Garnet District]] led to an introduction to [[Tavia Orn]].
+- Led negotiations with Tavia Orn at [[The Low Flagon]], offering blood vials and rare reagents as leverage.
+- Was honest with Tavia about the party's goal of getting home and their suspicion of [[Layla]]'s involvement.
+- Tavia offered him a future position under her.
+- Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]].
 
 

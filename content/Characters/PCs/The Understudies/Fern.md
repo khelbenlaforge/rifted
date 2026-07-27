@@ -163,4 +163,9 @@ Affiliation::
 Location::
 Deity::
 
+## Session 1 Update
+
+- 29th Uktar, Year 222 PA: the played cold open diverged from the prep note; Fern landed a clean punch on the landowner's son at the exact moment the teleportation pull hit.
+- 29th Uktar, Year 222 PA: the argument was over the sanctuary's land rights outside Ürgüp.
+
 

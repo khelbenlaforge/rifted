@@ -1,21 +1,14 @@
 ---
-
-
-
-
-
-
-
 title: Nanuk
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-07-15T02:43:03
+updated: 2026-07-27T10:52:43
 ---
 
 # Nanuk
@@ -212,4 +205,14 @@ Level: 5
 
 - Joined the session late via Discord and came in for the tail end of the meeting at [[Blackstaff Mansion]].
 - Says he is on a dream quest, but is beginning to doubt that framing.
+
+## Session 24
+
+Before anything else, Nanuk was a polar bear — no name, no hands, nothing familiar left of himself but the certainty of a body he'd never worn before. Wolves ran beside him, raptors and eagles overhead, all of them driving toward a wave of dire wolves and dark panthers led by something equally huge: a many-antlered shape whose face wouldn't settle, cycling antelope, tiger, lion. Above his own side, a hundred-foot protector planted its hand in the ground and called up a wall of vine to hold the line. He felt the protector's power close enough to take. He didn't take it — some instinct said it would cost the protector something to give it. He fought as what he was instead: claws through twenty or thirty of the enemy's beasts, watching thin lights rise out of each one and drift toward the enemy's shape like something being fed. Then the enemy condensed into a single killing blow and his protector went down in the same instant its own strike landed. Both of them, gone together. No god's name attached to either side.
+
+He woke sure it wasn't a dream. Nobody at the table needed convincing — the grief was still sitting in him hours later, and the checks the others rolled agreed: whatever he'd seen, it happened.
+
+- Present, disguised and stealthed, for the morning recon of [[The Low Flagon]] alongside [[Sadiah Ispahani]] — found the hidden pocket-dimension window (arcana), disarmed a needle-trapped window (thieves' tools), and located an unexplained corridor running from the tavern into the city wall itself.
+- That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Lea]] as cover.
+- Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]], and [[The Exodus/The Door Kickers/PCs/Lea]].
 

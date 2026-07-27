@@ -1,18 +1,15 @@
 ---
-
-
-
 title: Gill Bates
 aliases:
-  - Gill
+- Gill
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-15T02:39:26
+updated: 2026-07-27T10:34:56
 ---
 
 # Gill Bates
@@ -232,4 +229,10 @@ PassiveStealth:: 12
 Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
 
 Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely and menacing. City workers tend it, and no one openly worships Cyric. He later went fishing on a rough boat in the [[Citrine District]] and earned 7 gp.
+
+## Session 24
+
+- Held back two streets with [[The Exodus/The Door Kickers/PCs/Regius]] as backup during [[Sadiah Ispahani|Sadiah]] and [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
+- That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Nanuk]] and [[The Exodus/The Door Kickers/PCs/Lea]] as cover — a "fisherman" contact — while [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] negotiated with [[Tavia Orn]].
+- Entered the Claret's inner sanctum alongside [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]].
 

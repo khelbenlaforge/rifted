@@ -1,16 +1,14 @@
 ---
-
-
 title: Shen
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-07-15T02:31:15
+updated: 2026-07-27T10:58:18
 ---
 
 # Shen
@@ -211,4 +209,11 @@ Shen completed two retroactive weeks of downtime.
 - One of the gods present grew impatient, and the presence beside Shen — the same immense "Boss" voice he already knows through his stone and patron connection — screamed back on a cosmic scale that if a god needed his help, they could speak to him one on one.
 - Shen is still hearing that same big black entity through his patron connection.
 - He also noted that [[Sadiah Ispahani]] remained in her room, traumatized, and found himself wondering whether Earth had ever truly been his soul's home now that everyone is speaking more Common than English.
+
+## Session 24
+
+- Used telepathy (30 ft., 5-minute duration) to stay in contact with allies outside during the operation.
+- Successfully persuaded an [[Alchemist's Guild]] contact (roll of 21) to provide rare reagents for the Claret deal and now owes that contact a future favor.
+- Part of the talking group with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] and [[The Exodus/The Door Kickers/PCs/Regius]] that negotiated with [[Tavia Orn]].
+- Entered the Claret's inner sanctum.
 

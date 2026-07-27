@@ -1,16 +1,14 @@
 ---
-
-
 title: Regius
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-07-15T02:07:15
+updated: 2026-07-27T10:35:06
 ---
 
 # Regius
@@ -185,4 +183,14 @@ Regius spent the session chasing work, leverage, and answers.
 - Pay for the Verenthal work came to 51 gp, and the house handed him 10 crystal glyphs to break if Sellas needs emergency help.
 - A second job at the docks paid another 10 gp and unlocked access to [[Azure Tamers]] resources, including their sky tower and the use of one airship.
 - At [[Blackstaff Mansion]], he presented [[Le Fil]] to the unnamed [[Blackstaff Brother]], who identified it as soul matter and reacted as though it had been materialized out of Regius's own body.
+
+## Session 24
+
+- Recapped a patrol with [[The Exodus/The Door Kickers/PCs/Lea]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
+- Fought alongside those newcomers against unusually solid and resistant shadow creatures.
+- Left for the Claret meeting before the aftermath fully settled, watching the four newcomers routed toward [[Stormberg]].
+- Held back two streets with [[The Exodus/The Door Kickers/PCs/Gill Bates]] as backup during [[Sadiah Ispahani|Sadiah]] and [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
+- Donated a vial of blood as leverage for the Claret deal.
+- Part of the talking group with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] and [[The Exodus/The Door Kickers/PCs/Shen]].
+- Entered the Claret's inner sanctum.
 

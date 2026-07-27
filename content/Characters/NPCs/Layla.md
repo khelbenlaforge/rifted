@@ -1,19 +1,14 @@
 ---
-
-
-
-
-
 title: Layla
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-06-25T16:28:20
+updated: 2026-07-26T23:44:24
 ---
 
 # Layla
@@ -95,5 +90,14 @@ Deity:: [[Asmodeus]]
 - [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
 - Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
 - Location as of approximately 12th Uktar: outside [[Crystal City]], near [[Corran's Spike]]
+
+## Session 1 Update (The Understudies)
+
+- 29th Uktar, Year 222 PA: appeared at [[The Sundered Choir]], taking notes, ahead of a Shadow Creature ambush on four newly arrived Understudies PCs.
+- 29th Uktar, Year 222 PA: warned the four to run, then dove off the platform into the clouds below and was gone before the ambush itself began — did not engage directly, and left before Regius and Lea arrived as reinforcements partway through the fight.
+- 29th Uktar, Year 222 PA: the Shadow Creatures present were more solid, more humanoid, and more resistant than previous encounters, consistent with her creatures growing stronger.
+- 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport (hired goblin-riders on giant eagles) before leaving, rerouting them to Stormberg with no destination offered.
+- 29th Uktar, Year 222 PA: independently arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant eagles, giving them no choice of destination.
+- Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to a trio of radiant-charged figures at the ruin.
 
 

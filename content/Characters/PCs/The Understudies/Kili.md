@@ -41,11 +41,12 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 
 ## Key Events
 
-*(To be filled in as the campaign progresses.)*
+- One-shot debut — Session Prep 2026-07-18
+- Session 1 (29th Uktar, Year 222 PA): pulled to Aenath mid-gig in Singapore; landed at [[The Sundered Choir]] and survived a Shadow Creature ambush alongside !D'bleh, Esca, and Fern.
 
 ## Relationships
 
-*(To be filled in as the campaign progresses.)*
+- *(none established yet — the other three Understudies are new acquaintances as of Session 1)*
 
 ## Character Sheet
 
@@ -147,5 +148,10 @@ Pronouns::
 Affiliation::
 Location::
 Deity::
+
+## Session 1 Update
+
+- 29th Uktar, Year 222 PA: the played cold open diverged from the prep note; Kili's cover held long enough for her to be brought into the kitchen.
+- 29th Uktar, Year 222 PA: before the pull hit, she got to show off genuine cooking skill to the family's aunties rather than having her cover tested only at the door.
 
 

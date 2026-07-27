@@ -1,22 +1,14 @@
 ---
-
-
-
-
-
-
-
-
 title: Lea
-aliases:
+aliases: null
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-15T02:41:30
+updated: 2026-07-27T10:52:41
 ---
 
 # Lea
@@ -225,6 +217,15 @@ Session 23 downtime:
 - Described her landing vision of [[Corran Blackstaff]] to Lady Blackstaff, who was moved by finally hearing what Corran looked like.
 - Showed [[Elminster's Spellbook]] to Lady Blackstaff, who judged its script older than the Blackstaff family's own knowledge and decided the [[Sunless Citadel]] expedition had become more urgent.
 - Learned that the Blackstaffs intend to travel to the citadel with the Director of Antiquities after the Feast of the Moon, two days after the Claret meeting.
+
+## Session 24
+
+- Recapped a patrol with [[The Exodus/The Door Kickers/PCs/Regius]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
+- Helped fight off unusually solid and resistant shadow creatures there.
+- Flew back to [[Crystal City]] in time for the Claret meeting.
+- Spent the morning copying spells rather than joining the [[The Low Flagon]] reconnaissance.
+- That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] as cover.
+- Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Nanuk]].
 
 ---
 

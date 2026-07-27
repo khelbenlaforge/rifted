@@ -157,4 +157,10 @@ Affiliation::
 Location::
 Deity::
 
+## Session 1 Update
+
+- 29th Uktar, Year 222 PA: in his played cold open, Aunt Ounooi Petro gave the entitled university-kid customer her padkos for free rather than negotiating down.
+- 29th Uktar, Year 222 PA: Ounooi then scolded !D'bleh for causing trouble.
+- 29th Uktar, Year 222 PA: the pull hit mid-laugh as !D'bleh walked her stall shutter down.
+
 
