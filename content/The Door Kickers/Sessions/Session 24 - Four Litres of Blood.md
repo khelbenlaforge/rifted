@@ -7,7 +7,7 @@ campaign: Rifted
 session: 24
 date: 2026-07-27
 in-world-date: 30th Uktar, Year 222 PA
-updated: 2026-07-27T14:04:30
+updated: 2026-07-28T00:26:52
 ---
 
 # Session 24 — Four Litres of Blood
@@ -24,7 +24,7 @@ He woke certain of one thing that the others, when he described enough of it to 
 
 Morning of the 30th, Feast of the Moon a day out, the Claret meeting hours away. [[Sadiah Ispahani|Sadiah]] came down to breakfast for the first time since Session 23 — no explanation needed, none offered.
 
-[[The Exodus/The Door Kickers/PCs/Regius|Regius]] and [[The Exodus/The Door Kickers/PCs/Lea|Lea]] had a story the rest of the table hadn't heard yet. Routine patrol, the day before, out over the Corranor mainland to the northeast, nearer Stormberg than Crystal City — until a blue flash cracked a floating ruin open above the clouds, and four strangers were fighting shadow creatures that had never looked like this before: solid, humanoid, resistant to fire in a way the old ones weren't. A trio of armored figures nearby carried radiant energy that scattered the shadows outright when the fight reached them. Regius and Lea helped where they could, then had to leave — the Claret clock doesn't wait for anyone — and watched the four strangers get routed toward Stormberg instead of home. Whoever's pulling people through anymore, she's gotten better at it. She summoned four this time, not one.
+[[The Exodus/The Door Kickers/PCs/Regius|Regius]] and [[The Exodus/The Door Kickers/PCs/Lea|Lea]] had a story the rest of the table hadn't heard yet. Routine patrol, the day before, out over the Corranor mainland to the northeast, nearer Stormberg than Crystal City — until a blue flash cracked a floating ruin open above the clouds, and four strangers were fighting shadow creatures that had never looked like this before: solid, humanoid, resistant to fire in a way the old ones weren't. The ruin's three braziers were the answer — unlit, somehow wired to the magic circle at its heart. Once that link was cut they lit, and the radiant light scattered the shadows outright. Regius and Lea helped where they could, then had to leave — the Claret clock doesn't wait for anyone — and watched the four strangers get routed toward Stormberg instead of home. Whoever's pulling people through anymore, she's gotten better at it. She summoned four this time, not one.
 
 The morning's other business: [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] walked the table back through how he'd gotten this deep with the Claret in the first place — a Garnet district shakedown that turned into an introduction. A group investigation check, rolled well past anything the table expected, confirmed what they'd suspected: the Claret has eyes on most of them already. Six faces clocked, JJ's chief among them, tied to the party since before they knew they were being watched.
 

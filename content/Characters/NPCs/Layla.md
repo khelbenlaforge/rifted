@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-07-26T23:44:24
+updated: 2026-07-28T00:55:26
 ---
 
 # Layla
@@ -98,6 +98,6 @@ Deity:: [[Asmodeus]]
 - 29th Uktar, Year 222 PA: the Shadow Creatures present were more solid, more humanoid, and more resistant than previous encounters, consistent with her creatures growing stronger.
 - 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport (hired goblin-riders on giant eagles) before leaving, rerouting them to Stormberg with no destination offered.
 - 29th Uktar, Year 222 PA: independently arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant eagles, giving them no choice of destination.
-- Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to a trio of radiant-charged figures at the ruin.
+- Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
 
