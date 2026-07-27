@@ -1,16 +1,16 @@
 ---
 title: Luks Borg
 aliases:
-  - Luks
-  - Borg the Unbreakable
+- Luks
+- Borg the Unbreakable
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-05-26T16:23
+updated: 2026-07-26T23:05:33
 ---
 
 # Luks Borg
@@ -23,7 +23,7 @@ updated: 2026-05-26T16:23
 > | ---- | --- |
 > | Race | Half-Orc |
 > | Class | Barbarian (Level 6) |
-> | Location | [[Sunhold]] |
+> | Location | [[Crystal City]] |
 > | Affiliation | [[Adamantine Guild]] |
 
 ## Description
@@ -138,7 +138,7 @@ Athletics +7 · Intimidation +3 · Perception +4 · Survival +4
 
 ---
 ## Tags
-Location:: [[Sunhold]]
+Location:: [[Crystal City]]
 Race:: Half-Orc
 Subrace::
 Pronouns:: he/him
@@ -147,4 +147,9 @@ Class:: Barbarian
 Affiliation:: [[Adamantine Guild]]
 Deity:: Unknown
 
+## Session 1 Update (The Understudies)
+
+- 29th Uktar, Year 222 PA: Lea contacted Luks remotely for guidance on what to do with four newly arrived Understudies PCs stranded near [[The Sundered Choir]]; he advised getting them to the nearest [[Adamantine Guild]] presence.
+
+Location updated to [[Crystal City]] (2026-07-26, DM confirmed) — has since returned from establishing the Guild post in [[Sunhold]] (see Background).
 

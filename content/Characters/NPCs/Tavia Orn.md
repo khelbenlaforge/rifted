@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-07-20T16:50:51
+updated: 2026-07-27T10:58:20
 ---
 
 > [!infobox|right wikipedia]+
@@ -22,7 +22,7 @@ updated: 2026-07-20T16:50:51
 
 ## Appearance
 
-Broad-shouldered and compact, with close-cropped dark hair and the kind of stillness that comes from a lifetime of watching exits. A single garnet chip in her left ear — one stud. She dresses practically: dark clothes, no ornamentation, perpetually damp coin purse from a habit of counting in her lap under tables. Her hands are scarred in the specific way of someone who learned the hard way that debt collection is not a desk job.
+Broad-shouldered and compact, with close-cropped dark hair and the kind of stillness that comes from a lifetime of watching exits. Three garnet studs as of Session 24 (30th Uktar) — Corvin's long-deliberate gap between her real standing and her public rank has closed. She dresses practically: dark clothes, no ornamentation, perpetually damp coin purse from a habit of counting in her lap under tables. Her hands are scarred in the specific way of someone who learned the hard way that debt collection is not a desk job.
 
 ## Personality
 
@@ -32,7 +32,7 @@ Her code is simple: she does not lie to people she's doing business with, she do
 
 ## Background
 
-Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. She became a Claret associate at seventeen — vouched by a woman she will not name — and made her second stud by twenty-five. She has been offered *public* advancement three times and declined each time — visibly, on the record, the kind of thing the rest of the Claret notices and gossips about. What most of them don't know: her real standing with Corvin Adder, the Claret's old-guard lieutenant, is Rank 3 (Warden) in every practical sense — she's just never been given the third stud that would make it official. Two studs is what she wears, and Rank 2 (Made) is what the Claret's own records say. Neither is what she's actually trusted with.
+Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. She became a Claret associate at seventeen — vouched by a woman she will not name — and made her second stud by twenty-five. She had been offered *public* advancement three times and declined each time — visibly, on the record, the kind of thing the rest of the Claret notices and gossips about. For years, her real standing with Corvin Adder, the Claret's old-guard lieutenant, was Rank 3 (Warden) in every practical sense while she wore only two studs and the Claret's own records still read Rank 2 (Made) — a deliberate gap on Corvin's side. As of Session 24 (30th Uktar), that gap has closed: she now wears the third stud openly, Rank 3 made official.
 
 She's been running collections for eleven years, and the territory has grown well past what her rank would suggest — a wide stretch straddling the [[Garnet District]]/[[Citrine District]] line, anchored on [[The Low Flagon]] itself, which sits right on that border. Every shopkeeper, barkeep, dockhand, and landlord in it knows her schedule. Most of them consider her more reliable than the city watch. Corvin gave her that reach precisely because the seam between two districts is exactly the kind of post you don't hand to someone who might get ambitious with it — and she never has.
 
@@ -49,4 +49,12 @@ Affiliation:: [[The Claret]]
 ## Session 19
 
 [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] met Tavia at [[The Low Flagon]] during Session 19 downtime, and she confirmed that [[Layla]] is still in the city. He paid 10 gp for intelligence that Layla was buying illegal spell components in the [[Garnet District]] and is a valued Claret client. He paid another 25 gp to arrange a meeting with Tavia's boss; someone from [[The Claret]] will contact him in the coming weeks.
+
+## Session 24
+
+- Accepted two vials of planar-touched blood (from [[The Exodus/The Door Kickers/PCs/Terra]] and [[The Exodus/The Door Kickers/PCs/Regius]]) plus rare reagents talked out of an [[Alchemist's Guild]] contact (via [[The Exodus/The Door Kickers/PCs/Shen]]) as a gift/leverage package from the party.
+- Agreed the blood vials were the real prize, not the reagents.
+- Offered [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|Jonathan Jordan (JJ)]] a future position under her if the deal with her boss goes through.
+- Noticed [[The Exodus/The Door Kickers/PCs/Terra|Terra]] on the roof outright (a natural 1); the party sent her home rather than risk it. Never noticed [[Sadiah Ispahani|Sadiah]] holding position near the city wall all night.
+- Escorted the party — JJ, [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
 
