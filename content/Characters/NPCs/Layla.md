@@ -100,4 +100,8 @@ Deity:: [[Asmodeus]]
 - 29th Uktar, Year 222 PA: independently arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant eagles, giving them no choice of destination.
 - Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
+## Session 25 Update
+
+- In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[The Exodus/The Door Kickers/PCs/Lea|Lea]] cast *Elminster's Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
+
 
