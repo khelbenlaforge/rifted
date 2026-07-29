@@ -58,3 +58,7 @@ Affiliation:: [[The Claret]]
 - Noticed [[The Exodus/The Door Kickers/PCs/Terra|Terra]] on the roof outright (a natural 1); the party sent her home rather than risk it. Never noticed [[Sadiah Ispahani|Sadiah]] holding position near the city wall all night.
 - Escorted the party — JJ, [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
 
+## Session 25 Update
+
+- Confirmed she had tipped Corvin off in advance that the party might be paying him a visit.
+
