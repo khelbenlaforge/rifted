@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-07-27T10:52:43
+updated: 2026-07-31T16:27:41
 ---
 
 # Nanuk
@@ -95,18 +95,18 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Unarmed Strike** | M +3 | 5 ft. | 2 bludgeon; grapple/shove (DC 11) | — | — | — |
-| **Scimitar** *(Nick)* | M +7 | 5 ft. | 1d6+5 slash | — | — | — |
-| **Shortsword** | M +7 | 5 ft. | 1d6+5 pierce | — | — | — |
-| **Longbow** *(Slow)* | R +9 | 150/600 ft. | 1d8+5 pierce; target -10 ft. speed | — | — | — |
-| **Shortbow** | R +9 | 80/320 ft. | 1d6+5 pierce | — | — | — |
+| **Unarmed Strike** | M +4 | 5 ft. | 2 bludgeon; grapple/shove (DC 12) | — | — | — |
+| **Scimitar** *(Nick)* | M +8 | 5 ft. | 1d6+5 slash | — | — | — |
+| **Shortsword** | M +8 | 5 ft. | 1d6+5 pierce | — | — | — |
+| **Longbow** *(Slow)* | R +10 | 150/600 ft. | 1d8+5 pierce; target -10 ft. speed | — | — | — |
+| **Shortbow** | R +10 | 80/320 ft. | 1d6+5 pierce | — | — | — |
 | **Message** | — | 120 ft. | Whisper to target; target may reply; 1 rnd | Cantrip | S, M (copper wire) | — |
-| **Thorn Whip** | M +5 | 30 ft. | 1d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
+| **Thorn Whip** | M +6 | 30 ft. | 2d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
 | **Alarm** | — | 30 ft. | Ward 20-ft cube/door/window; mental/audible alarm; 8 hr | 1st | V, S, M (bell & wire) | Ritual |
 | **Detect Magic** | — | Self (30-ft radius) | Sense magic; identify school as Magic action; 10 min | 1st | V, S | 1/SR |
 | **Disguise Self** | — | Self | Illusory appearance change; 1 hr | 1st | V, S | 1/SR |
-| **Entangle** | STR 13 | 90 ft. | Restrained in 20-ft square; repeat STR save; 1 min | 1st | V, S | Conc. |
-| **Snare** | DEX 13 | Touch | 1 min cast; rope trap restrains target; 8 hr | 1st | S, M† | — |
+| **Entangle** | STR 14 | 90 ft. | Restrained in 20-ft square; repeat STR save; 1 min | 1st | V, S | Conc. |
+| **Snare** | DEX 14 | Touch | 1 min cast; rope trap restrains target; 8 hr | 1st | S, M† | — |
 
 *† Snare: M = 25 ft. of rope (consumed)*
 
@@ -116,7 +116,7 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Hidden Step** | — | Self | Invisible until start of next turn or until atk/cast | — | — | 1/SR |
 | **Healing Word** | — | 60 ft. | 1d4+3 HP | 1st | V | 1/LR |
-| **Hail of Thorns** | DEX 13 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
+| **Hail of Thorns** | DEX 14 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
 | **Hunter's Mark** | — | 90 ft. | Mark target; +1d6 force per hit; move on drop; 1 hr | 1st | V | Conc. · 3/LR |
 | **Mark the Prey** ([[Ancestor's Quiver|Quiver]]) | — | 90 ft. | Cast *Hunter's Mark* without slot or Conc. | 1st | V | 1/LR |
 
@@ -130,11 +130,12 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 ### Features
 
+- **Extra Attack** — Attack twice instead of once when taking the Attack action on your turn.
 - **Fighting Style: Archery** — +2 bonus to ranged weapon attack rolls.
 - **Weapon Mastery** — Scimitar *(Nick)*: make the Light-property extra attack as part of the Attack action instead of as a Bonus Action, once per turn; can swap assignment on Long Rest.
-- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, reduce target's Speed by 10 feet until the start of Nanuk's next turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, may reduce target's Speed by 10 feet until the start of Nanuk's next turn; can swap assignment on Long Rest.
 - **Sharpshooter** — Ignore half and three-quarters cover; attacking at long range does not impose disadvantage.
-- **Primal Companion** — Polar bear companion (*irinaliutiit*). **[House Rule]** Rolls initiative with Nanuk (shared count, separate turns); Nanuk chooses beast-first or ranger-first each round. Commanded via Bonus Action or by sacrificing one attack; if not commanded, acts at DM discretion. Revives at Nanuk's feet on Long Rest.
+- **Primal Companion** — Beastmaster feature (XPHB, Lvl 3): summons one of three stat blocks (Beast of the Land/Sea/Sky), reselectable each Long Rest. Currently using **Beast of the Land**, reflavored as his polar bear companion (*irinaliutiit*). On Foundry, all three forms are wired for AC/HP/attack/damage/Primal Bond to auto-scale live off Nanuk's own stats via a Summon Activity — confirmed working for all three forms (Land/Sea/Sky). Shared-initiative house rule (applies to all three forms): see [[Beast Master - Primal Companion Initiative]]. Full stat blocks: [[Beast of the Land, Sea, and Sky]].
 - **Favored Enemy** — *Hunter's Mark* is always prepared and can be cast without a spell slot 3x/LR.
 - **Deft Explorer** — Expertise in Survival; gained one additional language.
 - **Firbolg Magic** — Cast *Detect Magic* and *Disguise Self* 1/SR without a spell slot.
@@ -149,9 +150,9 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 ### Spellcasting
 
-**Ability:** Wisdom | **Save DC:** 13 | **Attack Bonus:** +5
+**Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st x3
+**Spell Slots:** 1st x4 · 2nd x2
 
 #### Ritual Spells
 
