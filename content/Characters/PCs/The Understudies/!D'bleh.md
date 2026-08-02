@@ -7,6 +7,8 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
+created: 2026-07-18T00:00:00
+updated: 2026-08-02T00:00:00
 ---
 
 # !D'bleh
@@ -25,21 +27,21 @@ state: alive
 
 ## Description
 
-Fur the color of banked ash, a mane that never sits still — windblown even indoors, like it remembers being caught mid-transit between worlds. !D'bleh's eyes have gone pale, near-luminous blue, the kind of glow that makes people forget to finish their sentences when the stare lands on them. They favor a low, coiled stance, weight forward on the balls of the feet, claws always half-bared — less a threat than a habit, the readiness of someone who has learned new places rarely announce their dangers in advance.
+Fur the color of banked ash, a mane that never sits still, windblown even indoors as if it remembers being caught mid-transit between worlds. !D'bleh's eyes have gone pale, near-luminous blue, the kind of glow that makes people forget to finish their sentences when the stare lands on them. They favor a low, coiled stance, weight forward on the balls of the feet, claws always half-bared. It reads less as aggression and more as habit: the readiness of someone who learned that new places rarely announce their dangers in advance.
 
-Ornate dark armor, all silver filigree and deep-set jewels, sits over them like it was tailored by someone who understood ceremony as much as combat. A long blue cloak trails and billows around them even at rest, threaded through with something that catches the light like starfield — a leftover, maybe, of whatever crossing brought them here. When !D'bleh draws their blades, they don't reach for a sheath: twin edges of raw psychic light gather into their hands from nothing, humming faint and cold, gone again the instant the fight ends.
+Ornate dark armor, all silver filigree and deep-set jewels, sits over them like it was tailored by someone who understood ceremony as much as combat. A long blue cloak trails and billows around them even at rest, threaded through with something that catches the light like starfield, maybe a leftover of whatever crossing brought them here. When !D'bleh draws their blades, they don't reach for a sheath: twin edges of raw psychic light gather into their hands from nothing, humming faint and cold, gone again the instant the fight ends.
 
 ## Origin
 
 Back on Earth, !D'bleh's other life was a lawyer's life — Stellenbosch, South Africa, a 9-to-5 that filed itself into years without ever quite becoming a life. The passport gathered dust. The wish, when it came, was simple and childish: to snap their fingers and simply *be* somewhere else, anywhere else, on any given day.
 
-What people saw was a person who traveled for the food, the culture, the postcards. What they didn't see was the other half of it — a habit formed at five years old, in an alley, at the hands of a gang of ruthless six-year-olds who took a child's wallet and left behind something harder to name. Since then, every city !D'bleh has passed through has gotten the same quiet audit: who here preys on the innocent, and what can be done about it before I leave. Growing up, they'd learned how safe a city could feel when it was looked after properly — and they never stopped chasing that feeling for other people, one street at a time.
+People assumed the travel was about food, culture, postcards. Underneath that was a habit formed at five years old, in an alley, at the hands of a gang of ruthless six-year-olds who took a child's wallet and left behind something harder to name. Since then, every city !D'bleh has passed through has gotten the same quiet audit: who here preys on the innocent, and what can be done about it before I leave. Growing up, they'd learned how safe a city could feel when it was looked after properly — and they never stopped chasing that feeling for other people, one street at a time.
 
 Whatever pulled them across into Aenath didn't ask permission any more than the wish did. !D'bleh woke up leonin — claws that were already theirs in some truer sense, a mane, a body built for the kind of quiet, decisive violence their Earth self never had the leverage to deliver. The purpose held. It just finally has teeth.
 
 ## Abilities
 
-A Soulknife rogue in the truest sense — !D'bleh's blades are as much mind as metal, psychic energy given a killing edge. Sneak Attack turns a moment's distraction into a decisive strike; Cunning Action keeps them a half-step ahead of anyone trying to pin them down; Psychic Blades let them draw a weapon out of nothing but focus when steel isn't at hand or isn't subtle enough. Expertise sharpens what they're already good at into something closer to certainty. It's a fighting style built for exactly the kind of work they came looking for — get close, solve the problem, disappear before anyone's sure what happened.
+!D'bleh is a Soulknife rogue in the truest sense: their blades are as much mind as metal, psychic energy given a killing edge. Sneak Attack turns a moment's distraction into a decisive strike. Cunning Action keeps them a half-step ahead of anyone trying to pin them down, and Psychic Blades let them draw a weapon out of nothing but focus when steel isn't at hand or isn't subtle enough. Expertise sharpens what they're already good at into something closer to certainty. The whole style is built for the kind of work they came looking for: get close, solve the problem, disappear before anyone's sure what happened.
 
 ## Key Events
 

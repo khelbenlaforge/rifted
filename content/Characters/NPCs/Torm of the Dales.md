@@ -1,16 +1,16 @@
 ---
 title: Torm of the Dales
 aliases:
-  - Torm (adventurer)
-  - Torm
+- Torm (adventurer)
+- Torm
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-03-30T18:16
+updated: 2026-08-02T14:01:09
 ---
 
 # Torm of the Dales
@@ -34,7 +34,7 @@ updated: 2026-03-30T18:16
 
 Undercover work suits him — he is comfortable with partial truths, skilled at watching without being watched. He has not told the party that he knows [[Elminster]] personally. He has reasons for this that he has not shared.
 
-Harper doctrine holds that agents never identify each other in the field — not even to allies. The network's strength is anonymity: Harpers can be *everywhere* precisely because no one knows who belongs. So when Torm passes another Harper, he does not acknowledge it. This is not deception. It is discipline.
+Harper doctrine holds that agents never identify each other in the field — not even to allies. The network's strength is anonymity: Harpers can be *everywhere* precisely because no one knows who belongs. So when Torm passes another Harper, he does not acknowledge it — discipline, not deception.
 
 Flippant, deliberately outrageous, quick-witted and pranksome. Good-hearted in a way that doesn't always announce itself — the jokes are a layer, not the whole thing. Loyal to the Harpers and to what they stand for.
 

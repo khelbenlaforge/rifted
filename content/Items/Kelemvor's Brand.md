@@ -1,16 +1,16 @@
 ---
 title: Kelemvor's Brand
 aliases:
-  - Lyonsbane Mark
-  - The Brand
+- Lyonsbane Mark
+- The Brand
 tags:
-  - item
-  - item/magic
+- item
+- item/magic
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-05-08
-updated: 2026-06-24T17:03
+updated: 2026-08-02T13:59:59
 ---
 
 # Kelemvor's Brand
@@ -31,7 +31,7 @@ It appeared the morning after [[The Exodus/The Door Kickers/PCs/Augustus Kennedy
 
 When activated, the lines deepen. The metal around them hums faintly. Something behind Augie's eyes goes very still, as if a much older thing has noticed it is being asked to wake.
 
-The brand vanishes the instant he kills. Not fades — vanishes. Whatever lives in it does not countenance death. It will return after a long rest, traced back into the plating like it was always there.
+The brand vanishes the instant he kills, all at once, with no fade to it. Whatever lives in it does not countenance death. It will return after a long rest, traced back into the plating like it was always there.
 
 ## Properties
 
@@ -142,7 +142,7 @@ The warforged plating doesn't break — it flows. Augie becomes a Large metal pa
 
 ## Significance
 
-[[Kelemvor Lyonsbane]]'s hereditary curse was never a weapon — it was a weight his bloodline carried as punishment for selfishness given flesh. Augie did not inherit it. He inhabited the man who bore it, felt the predatory instinct flood a body that was not his, watched himself pursue an enemy he could not stop himself from hunting. He understood something in that courtyard that Kelemvor had only just learned: that the curse does not care about intent. It cares about the act.
+[[Kelemvor Lyonsbane]]'s hereditary curse was never a weapon. His bloodline carried it as punishment for selfishness given flesh. Augie did not inherit it. He inhabited the man who bore it, felt the predatory instinct flood a body that was not his, watched himself pursue an enemy he could not stop himself from hunting. He understood something in that courtyard that Kelemvor had only just learned: that the curse does not care about intent. It cares about the act.
 
 The brand chose him anyway. It does not explain itself.
 

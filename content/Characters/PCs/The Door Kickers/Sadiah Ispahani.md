@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-07-27T10:35:20
+updated: 2026-08-02T13:59:25
 ---
 
 # Sadiah Ispahani
@@ -27,21 +27,21 @@ updated: 2026-07-27T10:35:20
 
 ## Description
 
-Sadiah is the kind of still that happens after years of refusing to be still. She holds herself with a precision that reads, at first glance, as composure — the long-practiced alignment of someone who has spent a lot of time teaching other bodies to find their centre — but the stillness has a coil in it. She is waiting. She is always waiting for something to require her.
+Sadiah is the kind of still that happens after years of refusing to be still. At first glance her precision reads as composure, the practiced alignment of someone who's spent a lot of time teaching other bodies to find their centre. But there's a coil under the stillness. She's waiting — always waiting for something to need her.
 
-Her Wood Elf heritage has the quality of high-altitude trees: not soft, not ornamental, built for pressure and cold and endurance. There is something in her posture that speaks of mountains. Of distances that have to be crossed on foot. Of knowing exactly how long a day's walk is and refusing to lie about it.
+Her Wood Elf heritage has the quality of high-altitude trees: not soft, not ornamental, built to take pressure and cold. Something in her posture speaks of mountains, of distances covered on foot, of knowing exactly how long a day's walk is and refusing to lie about it.
 
-She does not perform warmth, but she is not cold. When she looks at you, she is actually looking — and when something strikes her as unjust (which is often, and quickly), the stillness ends. The coil releases. She will say the thing directly, sometimes at the wrong moment, sometimes at the exact right moment, and she is almost never wrong about which one it is.
+She doesn't perform warmth, but she isn't cold either. When she looks at you, she's actually looking. And when something strikes her as unjust, which happens often and fast, the stillness ends and the coil releases. She'll say the thing directly. Sometimes it's the wrong moment. Sometimes it's the exact right one. She's rarely wrong about which.
 
-Her temper runs close to the surface. This is not carelessness. It is a precision instrument, poorly regulated — she has always had more feeling than the situation officially calls for, and has spent most of her life learning to calibrate it, with mixed results. The feeling is usually correct. The timing is a work in progress.
+Her temper runs close to the surface, and that's not carelessness — it's a precision instrument that's poorly regulated. She's always felt more than the situation officially called for, and has spent most of her life learning to calibrate that, with mixed results. The feeling is usually correct. The timing is still a work in progress.
 
 ## Origin
 
-Sadiah was left at the edge of a farming village in the northern highlands as an infant and raised by the couple who found her — practical people, attentive people, people who taught her that land does not lie and that bodies do not lie and that most of the suffering in the world comes from pretending otherwise.
+Sadiah was left at the edge of a farming village in the northern highlands as an infant and raised by the couple who found her: practical, attentive people who taught her that land doesn't lie, bodies don't lie, and most suffering comes from pretending otherwise.
 
-She grew up in Skardu, in the shadow of mountains so large they functioned as weather systems, and she absorbed from that landscape a sense of proportion that she has never lost: the recognition that human hierarchies, however elaborate, are very small and very temporary, and that most of the arrangements people accept as fixed are only fixed because not enough people have decided to move them yet.
+She grew up in Skardu, in the shadow of mountains so large they functioned as their own weather systems, and absorbed a sense of proportion from that landscape she's never lost — that human hierarchies, however elaborate, are small and temporary, and most arrangements people treat as fixed are only fixed because nobody's bothered moving them yet.
 
-She moved to Lahore to teach yoga — the practice had come to her in her early twenties as a way of understanding the same things she had learned from farming and altitude, now articulated through the body's architecture — and found a city full of people who had made their peace with arrangements she could not make her peace with. She was a good teacher. Her students trusted her. She was also, quietly, learning other things: which locks yielded to which pressures, which guards were positioned to be blind to the right doorway, which wealthy households sent their excess outward to the wrong people when the right people were standing three streets away hungry.
+She moved to Lahore to teach yoga (the practice had found her in her early twenties, a way of understanding through the body what she'd already learned from farming and altitude) and found a city full of people who'd made peace with arrangements she couldn't accept. She was a good teacher. Her students trusted her. Quietly, she was also learning other things — which locks gave under which pressure, which guards were positioned to miss the right doorway, which wealthy households sent their excess to the wrong people while the right ones stood hungry three streets over.
 
 She told herself she was borrowing. She knew she was not borrowing.
 

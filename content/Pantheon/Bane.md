@@ -1,15 +1,15 @@
 ---
 title: Bane
 aliases:
-  - The Black Lord
-  - The Lord of Darkness
+- The Black Lord
+- The Lord of Darkness
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-30T17:46
-updated: 2026-03-30T17:46
+updated: 2026-08-02T13:59:38
 ---
 
 # Bane
@@ -31,7 +31,7 @@ Symbol:: Upright black hand, fingers together
 
 ## Description
 
-Bane is the god of tyranny, strife, and hatred — the dark mirror of lawful order. Where [[Tyr]] holds that law exists to protect, Bane holds that law exists to dominate. He is not chaos; he is control without mercy, hierarchy without justice, strength exercised purely as an end in itself. His followers do not merely follow him — they fear him, and he considers that appropriate.
+Bane is the god of tyranny, strife, and hatred, order's cruelest inversion. Where [[Tyr]] holds that law exists to protect, Bane holds that law exists to dominate — control with no mercy attached, hierarchy that answers to nothing but itself. His followers don't just follow him; they fear him, and he considers that appropriate.
 
 He is depicted as a figure of absolute authority draped in darkness, his symbol the black gauntlet that crushes rather than upholds. His church is rigidly hierarchical and viciously competitive — advancement comes through demonstrating dominance, and weakness in any form is punished.
 

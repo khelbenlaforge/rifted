@@ -1,15 +1,15 @@
 ---
-title: Session 19 — Seven Doors
+title: "Session 19 \u2014 Seven Doors"
 aliases:
-  - Session 19
+- Session 19
 tags:
-  - session
+- session
 campaign: Rifted
 date: 2026-06-20
 session: 19
 secret: false
 created: 2026-06-20T00:00
-updated: 2026-06-24T16:41
+updated: 2026-08-02T14:03:45
 ---
 
 # Session 19 — Seven Doors
@@ -74,9 +74,9 @@ Forty years is a long time to be tending something in the dark.
 
 ### Gill — The Weight of Scales
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] studied with [[Tidecaller Marin Deepcurrent]], and in between the water philosophy he went to the Temple of [[Kelemvor Lyonsbane|Kelemvor]] — not because anyone told him to, but because you study water long enough and you start thinking about what happens when it stops moving.
+[[The Exodus/The Door Kickers/PCs/Gill Bates]] studied with [[Tidecaller Marin Deepcurrent]], and in between the water philosophy he went to the Temple of [[Kelemvor Lyonsbane|Kelemvor]] on his own initiative — you study water long enough, you start thinking about what happens when it stops moving.
 
-The temple moved with purpose and without affect. Three factions sharing the floor: the Monks of the Long Death, the Priesthood, and the Knights — paladins who guarded the cross-planar exits as much as the living, because Kelemvor's domain is not just death but transit. Chaotic evil goes to the Abyss. Lawful evil to the Nine Hells. Neutral, the godless, the genuinely unaffiliated — the Outplane, which the priesthood described as complete neutrality. He doesn't keep anyone. He doesn't hold.
+The temple moved with purpose and without affect. Three factions sharing the floor: the Monks of the Long Death, the Priesthood, and the Knights — paladins who guarded the cross-planar exits as much as the living, since Kelemvor's domain covers transit as much as death. Chaotic evil goes to the Abyss. Lawful evil to the Nine Hells. Neutral, the godless, the genuinely unaffiliated — the Outplane, which the priesthood described as complete neutrality. He doesn't keep anyone. He doesn't hold.
 
 There was a feud with [[Mystra]]'s church and with [[Oghma]]'s: knowledge without responsibility creates wild magic, and wild magic destabilizes the cosmos, and Kelemvor's people had watched it happen often enough to have formed an institutional opinion. Gill thought about that.
 
@@ -114,7 +114,7 @@ He now belonged, technically, to two temples. The city did not appear to find th
 
 [[The Exodus/The Door Kickers/PCs/Lea]] went where the knowledge was. The Alchemist Guild occupied a factory smell — sulphur, acids, the sharp sparkle of controlled reactions — and the woman she'd been brought to meet was worth the smell. [[Veyris Thantorn]]: tattooed elf, sleeveless, quiver in hand, the kind of person who wears expertise like a garment they've had long enough to stop thinking about it.
 
-She explained the [[Weave]] as a tapestry in three dimensions, filling everything — and what alchemists do to it, and what teleportation requires, and what a tiefling carries in their blood that someone with training might be able to pull on. If Layla was tiefling, if she had even a thread of connection to an adjacent plane, it was possible that she hadn't done the shifting spell so much as redirected a current that was already running through her.
+She explained the [[Weave]] as something woven through three dimensions at once, filling everything — and what alchemists do to it, and what teleportation requires, and what a tiefling carries in their blood that someone with training might be able to pull on. If Layla was tiefling, if she had even a thread of connection to an adjacent plane, it was possible that she hadn't done the shifting spell so much as redirected a current that was already running through her.
 
 Planar Mechanics division, now open. Alchemy track, now open.
 

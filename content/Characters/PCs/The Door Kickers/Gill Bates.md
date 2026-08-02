@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-27T10:34:56
+updated: 2026-08-02T13:58:20
 ---
 
 # Gill Bates
@@ -27,7 +27,7 @@ updated: 2026-07-27T10:34:56
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Gill Bates carries himself with an unassuming practicality suited to frontier life. Though no longer fully human after his crossing to [[Aenath]], he retains recognizable features of his former self, dressed and equipped for the challenges ahead. A fisher by background and a healer by calling, Gill exudes a steadfast warmth. He is the kind of man who will talk your ear off about ocean currents, marine life, and fishing methods -- and mean every word of it. Beneath that earnest enthusiasm lies a soul deeply connected to the spiritual realm, a beacon of hope amid chaos.
+Gill Bates carries himself with an unassuming practicality suited to frontier life. Though no longer fully human after his crossing to [[Aenath]], he retains recognizable features of his former self, dressed and equipped for the challenges ahead. A fisher by background and a healer by calling, Gill is warm without trying to be. He'll talk your ear off about ocean currents, marine life, and fishing methods, and mean every word of it. Under the enthusiasm is someone genuinely tied to the spiritual side of things — steady, even when nothing else is.
 
 ## Origin
 Gill was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] with four companions. A magical scan by [[Elmindaria L'Thorian]] revealed divine power and celestial affiliations within him, along with the loss of roughly half his essence -- slowly regenerating.

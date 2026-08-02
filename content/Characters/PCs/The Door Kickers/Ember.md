@@ -1,20 +1,14 @@
 ---
-
-
-
-
-
-
 title: Ember
-aliases:
+aliases: null
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-07-15T02:44:14
+updated: 2026-08-02T13:58:12
 ---
 
 # Ember
@@ -32,7 +26,7 @@ updated: 2026-07-15T02:44:14
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Ember is a seeker of knowledge and a kindred spirit of the wild. Hints of fiendish ancestry mark her appearance -- reminiscent of an Erinyes or Succubus -- lending her a striking presence that contrasts with the naturalist's attire she favours. A loyal wolf companion walks at her side, enhancing the aura of strength and grace she carries through the wilds of [[Aenath]]. She possesses a keen awareness of the natural world, able to identify plants, sense magical properties in organic matter, and communicate a deep respect for the cycle of life and death.
+Ember is a seeker of knowledge and a kindred spirit of the wild. Hints of fiendish ancestry mark her appearance -- reminiscent of an Erinyes or Succubus -- a striking contrast to the naturalist's clothes she actually wears. A loyal wolf walks at her side. She reads the natural world fluently: she can identify plants, sense magic in organic matter, and she treats the cycle of life and death as something to respect rather than fear.
 
 ## Origin
 Ember arrived on [[Aenath]] during High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. She was one of three who underwent partial non-human physical changes during the crossing from Earth. A magical scan by [[Elmindaria L'Thorian]] revealed a strong druidic connection within her, along with the revelation that approximately half of her essence was missing -- though slowly regenerating.

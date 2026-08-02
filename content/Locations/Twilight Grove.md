@@ -1,14 +1,14 @@
 ---
 title: Twilight Grove
-aliases:
+aliases: null
 tags:
-  - location
-  - location/dungeon
+- location
+- location/dungeon
 campaign: Rifted
 introduced: 2026-04-26
 secret: false
 created: 2026-04-25T20:00
-updated: 2026-05-08T14:43
+updated: 2026-08-02T13:59:14
 ---
 
 # Twilight Grove
@@ -27,7 +27,7 @@ updated: 2026-05-08T14:43
 
 The Twilight Grove occupies the lowest and largest chamber of the [[Sunless Citadel]]'s Grove Level — a vast natural cavern that should not exist this deep underground, yet does. The ceiling is lost above the violet light. Ruined towers lean out of the growth at angles that should not hold. The briars that fill the approach pull back from the clearing around the tree as if they know better than to crowd it.
 
-The [[Gulthias Tree]] stands at the center: enormous, skeletal, its bark black and cracked, its bare branches reaching at angles that suggest arms more than wood. Its roots are exposed — thick as a person's torso, spreading across the ground in every direction before plunging back in. The violet light doesn't illuminate this chamber. It *comes from* the tree, pulsing outward through the roots, through the soil, through the briars in slow waves — a heartbeat rhythm that has been running since long before [[Belak]] arrived.
+The [[Gulthias Tree]] stands at the center: enormous, skeletal, its bark black and cracked, its bare branches reaching at angles that suggest arms more than wood. Its roots are exposed — thick as a person's torso, spreading across the ground in every direction before plunging back in. The violet light doesn't illuminate this chamber. It *comes from* the tree, pulsing outward in slow waves through root and soil and briar alike — a heartbeat rhythm that has been running since long before [[Belak]] arrived.
 
 The air smells of cold stone and something sweeter beneath it. The same sweetness as the fruit, and as wrong as it was then.
 

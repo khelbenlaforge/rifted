@@ -1,15 +1,15 @@
 ---
 title: Mystra
 aliases:
-  - The Lady of Mysteries
-  - The Mother of All Magic
+- The Lady of Mysteries
+- The Mother of All Magic
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-03-30T17:55
+updated: 2026-08-02T14:11:54
 ---
 
 # Mystra
@@ -34,7 +34,7 @@ Symbol:: Circle of seven stars
 
 ## Description
 
-Mystra is the goddess of magic itself — not merely its practice, but the fundamental Weave that underlies all arcane, and arguably all supernatural, power in existence. She is the custodian of the invisible architecture that makes spellcasting possible, the silent law that governs what magic can and cannot do. Without her, the Weave unravels. Without the Weave, there is no magic. The stakes of her existence are absolute.
+Mystra is the goddess of magic itself: the fundamental Weave underlying all arcane, and arguably all supernatural, power in existence, not merely its practice. She is the custodian of the invisible architecture that makes spellcasting possible, the silent law that governs what magic can and cannot do. Without her, the Weave unravels. Without the Weave, there is no magic. The stakes of her existence are absolute.
 
 She is often depicted as a luminous woman wreathed in starlight, though her true form — if she has one — is said to be indistinguishable from the Weave itself. In the Sanctum beneath the [[Sunless Citadel]], she is rendered in stone at the center of a statuary arrangement, her hands held protectively over a scale model of [[Aenath]] — as though the world's continued existence depends on her attention.
 
@@ -49,7 +49,7 @@ She is often depicted as a luminous woman wreathed in starlight, though her true
 
 Wizards, sorcerers, and scholars of the arcane revere Mystra above all other deities. The [[Ether Scryer's Academy]] in [[Crystal City]] operates under principles aligned with her teachings, and [[The Exodus/The Door Kickers/PCs/Lea]]'s training under [[Elmindaria L'Thorian]] reflects Mystra's philosophy that wizardry is earned through study and sacrifice.
 
-During the trial of the Sealed Door in the [[Sunless Citadel]], Mystra's symbol was the brightest to gravitate toward [[The Exodus/The Door Kickers/PCs/Lea]], flanked by [[Oghma]] and the gods of knowledge. Her echo played a pivotal role in the Battlefield of Echoes, particularly in attempting to convince [[Kelemvor]] to rejoin the divine collective — an effort charged with the weight of an ancient history between them.
+During the trial of the Sealed Door in the [[Sunless Citadel]], Mystra's symbol was the brightest to gravitate toward [[The Exodus/The Door Kickers/PCs/Lea]], flanked by [[Oghma]] and the gods of knowledge. Her echo played a pivotal role in the Battlefield of Echoes, particularly in attempting to convince [[Kelemvor]] to rejoin the divine collective, an effort shaped by an ancient history between them.
 
 ## The Fragment Carriers
 

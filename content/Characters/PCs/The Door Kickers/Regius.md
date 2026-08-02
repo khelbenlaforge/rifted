@@ -8,7 +8,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-07-27T10:35:06
+updated: 2026-08-02T13:59:03
 ---
 
 # Regius
@@ -27,7 +27,7 @@ updated: 2026-07-27T10:35:06
 
 ## Description
 
-A man who has learned to wear charm like armour. Regius moves through a room with the easy confidence of someone who has spent years reading wealthy strangers and giving them exactly what they want — a smile, a well-timed compliment, an attentive pour. He carries his infernal heritage with the same practised ease: the horns, the faint warmth of his skin in dim light, the eyes that catch fire a little too readily — all of it folded into a presentation that turns heads without raising alarms. Tall, with the build of someone who works hard and sleeps too little. There is warmth in his face that is entirely genuine, and something exhausted behind his eyes that he doesn't talk about.
+A man who has learned to wear charm like armour. Regius moves through a room with the easy confidence of someone who's spent years reading wealthy strangers and knowing exactly what they want, whether that's a smile, a well-timed compliment, or just an attentive pour. His infernal heritage gets the same practised handling: the horns, the faint warmth of his skin in dim light, eyes that catch fire a little too readily. None of it raises alarms; he's folded it into how he presents himself. Tall, built like someone who works hard and sleeps too little. The warmth in his face is genuine. What's behind his eyes, tired in a way he doesn't talk about, is something else entirely.
 
 ## Origin
 

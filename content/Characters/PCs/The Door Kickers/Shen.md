@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-07-27T10:58:18
+updated: 2026-08-02T13:59:33
 ---
 
 # Shen
@@ -27,7 +27,7 @@ updated: 2026-07-27T10:58:18
 
 ## Description
 
-Shen carries himself with the unhurried precision of someone more at home among ancient bones than living people. Slight, sharp-eyed, and quietly watchful, he catalogues a room before he enters it and chooses his words with the care of someone annotating a specimen. He does not volunteer anything about himself. Somewhere behind the measured calm is a weight he has not named to anyone; those who spend enough time around him notice the distance before they notice the silence.
+Shen moves like someone more at home among ancient bones than living people — slow, precise, never in a hurry to get anywhere. Slight, sharp-eyed, and quietly watchful, he catalogues a room before he enters it and chooses his words with the care of someone annotating a specimen. He doesn't volunteer anything about himself. Something sits behind the measured calm that he hasn't named to anyone; people who spend enough time around him notice the distance before they notice the silence.
 
 He speaks Common with the formality of someone whose native tongue is Mandarin and whose academic English was learned abroad — an accent the party is still learning to read. He is, by every visible measure, the most ordinary person in any room. Until he isn't.
 

@@ -1,12 +1,13 @@
 ---
-title: "Session 10 — What the Well Swallowed"
+title: "Session 10 \u2014 What the Well Swallowed"
 aliases:
-  - Session 10
+- Session 10
 tags:
-  - session
+- session
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
+updated: 2026-08-02T13:58:54
 ---
 
 # Session 10 — What the Well Swallowed
@@ -86,13 +87,13 @@ Durnn produced alcohol from somewhere, and the celebration began.
 
 [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] joined the drinking. He remained upright throughout — his resistance to poison extending, apparently, to the goblins' conception of a victory toast. Durnn and most of the warrior goblins became comprehensively intoxicated. [[Augustus]] was sober inside it, watching.
 
-Elsewhere, [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Ember]] used the cover of the revel to speak with [[Grenl]]. She provided what she could — not warmth, never warmth, but information offered in the dry tone of someone who has been keeping things to herself for long enough that giving them away feels like release.
+Elsewhere, [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Ember]] used the cover of the revel to speak with [[Grenl]]. She provided what she could — no warmth in it, just information offered in the dry tone of someone who has been keeping things to herself for long enough that giving them away feels like release.
 
 ---
 
 ## What Ember Took
 
-[[The Exodus/The Door Kickers/PCs/Ember]] moved through the celebration with a druid's economy of motion: unhurried, deliberate, already at the next place before anyone registered she had left the current one.
+[[The Exodus/The Door Kickers/PCs/Ember]] moved through the celebration with a druid's economy of motion, in no hurry, already at the next place before anyone registered she had left the current one.
 
 From [[Ragh]]'s person, heavily intoxicated and unguarded, she lifted *Toothpick* — his named blade, the weapon cleaned too carefully for the skirmish frequency he described, the one he kept sharp for reasons that were personal rather than tactical.
 

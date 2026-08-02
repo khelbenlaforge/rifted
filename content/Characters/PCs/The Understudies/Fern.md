@@ -7,6 +7,8 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
+created: 2026-07-18T00:00:00
+updated: 2026-08-02T00:00:00
 ---
 
 # Fern
@@ -25,19 +27,19 @@ state: alive
 
 ## Description
 
-There's a particular stillness to Fern when something scaled or feathered or fanged wanders into view — a stillness that has nothing to do with fear and everything to do with attention, the kind usually reserved for something sacred. She watches creatures the way other people watch fire: unable to look away, unwilling to blink first. It shows in the small habits she never quite left behind — the way she catalogs a beast's gait before she catalogs the danger it poses, the way her hands itch for a notebook that isn't there anymore.
+There's a particular stillness to Fern when something scaled or feathered or fanged wanders into view. It's not fear. It's the kind of attention usually reserved for something sacred. She watches creatures the way other people watch fire: unable to look away, unwilling to blink first. It shows in the small habits she never quite left behind: the way she catalogs a beast's gait before she catalogs the danger it poses, the way her hands itch for a notebook that isn't there anymore.
 
 ## Origin
 
-Back on Earth, Fern was a uni student in the middle of a zoology degree, chasing something that had started long before any lecture hall — hours lost with her nose in ancient bestiaries, dreaming of creatures too vast and strange for the world she'd been handed. She was captivated by them, not as curiosities but as something achingly beautiful, proof that the world could still hold wonder if anyone bothered to protect it. She pictured, more than once, a world where such creatures and humankind could simply coexist — no cages, no culls, just cohabitation — and she poured real hours into researching actual conservation efforts, hunting for any sign that dream had legs.
+Back on Earth, Fern was a uni student in the middle of a zoology degree, chasing something that had started long before any lecture hall: hours lost with her nose in ancient bestiaries, dreaming of creatures too vast and strange for the world she'd been handed. She was captivated by them as something achingly beautiful, proof that the world could still hold wonder if anyone bothered to protect it. She pictured, more than once, a world where such creatures and humankind could simply coexist without cages or culls, and she poured real hours into researching actual conservation efforts, hunting for any sign that dream had legs.
 
-What she found instead was heartbreak on a loop. Ecosystem after ecosystem, hollowed out for a line on a balance sheet somewhere, and no amount of research seemed to slow it down. It left her feeling small in a very specific way — not incapable, just outmatched, one student against machinery built to outlast her. She didn't want a career studying what was being lost. She wanted to build somewhere it couldn't be lost — a sanctuary, real and defensible, for the creatures she'd never stopped loving.
+What she found instead was heartbreak on a loop. Ecosystem after ecosystem, hollowed out for a line on a balance sheet somewhere, and no amount of research seemed to slow it down. It left her feeling small in a very specific way: outmatched rather than incapable, one student against machinery built to outlast her. She didn't want a career studying what was being lost. She wanted to build somewhere it couldn't be lost, a sanctuary, real and defensible, for the creatures she'd never stopped loving.
 
 Whatever carried her out of that life and into Aenath didn't consult her syllabus. She's here now, however "here" works, still carrying the same want she left with — only the raw material around her has changed entirely.
 
 ## Abilities
 
-Fern's magic still feels like the same impulse that sent her into zoology in the first place: not conquest, not spectacle, but a stubborn refusal to let living things be abandoned to ruin. Even the wildfire in her answers less like a weapon than an ecosystem she has learned to tend, something fierce enough to burn and gentle enough to shelter in the same breath. If she ever gets the sanctuary she used to dream about, it will probably look a lot like this — flame as warning, flame as warmth, flame as the line that says nothing fragile gets taken from here without a fight.
+Fern's magic still feels like the same impulse that sent her into zoology in the first place: a stubborn refusal to let living things be abandoned to ruin, no conquest or spectacle in it. Even the wildfire in her answers less like a weapon than an ecosystem she has learned to tend, something fierce enough to burn and gentle enough to shelter in the same breath. If she ever gets the sanctuary she used to dream about, it will probably look a lot like this: flame as warning and warmth both, the line that says nothing fragile gets taken from here without a fight.
 
 ## Key Events
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-27T10:52:41
+updated: 2026-08-02T13:58:42
 ---
 
 # Lea
@@ -26,7 +26,7 @@ updated: 2026-07-27T10:52:41
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Lea carries herself with the quiet determination of someone who has accepted the weight of responsibility before fully understanding its shape. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She is protective by nature -- the first to step between danger and her companions -- yet equally at home poring over arcane theory. There is a regal quality to her bearing that she may not yet recognise for what it is.
+Lea carries herself like someone who agreed to a responsibility before she understood what it would cost her. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She's protective by nature -- first to step between danger and her companions -- and just as at home buried in arcane theory. Something regal shows in how she holds herself, though she probably hasn't noticed it yet.
 
 ## Origin
 Lea was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. She was one of three who underwent partial non-human changes during the crossing. [[Elmindaria L'Thorian]]'s magical scan revealed potent arcane potential within her, along with the loss of roughly half her essence -- slowly regenerating.

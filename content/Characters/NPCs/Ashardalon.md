@@ -1,14 +1,14 @@
 ---
 title: Ashardalon
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: unknown
 created: 2026-03-16T03:57
-updated: 2026-04-18T12:52
+updated: 2026-08-02T13:59:30
 ---
 
 # Ashardalon
@@ -26,7 +26,7 @@ updated: 2026-04-18T12:52
 
 ## Description
 
-An ancient red wyrm whose name the cult that built this place spoke in reverence and in fear. They called him *the Devourer* — not as mockery but as doctrine. Long before the [[Sunless Citadel]] sank into the earth, Ashardalon commanded a power that was not purely draconic: he had merged with something demonic, and the merger marked him visibly. Those who saw him described a scar across his chest in the shape of a great winged figure — a wound that had become a part of him.
+An ancient red wyrm whose name the cult that built this place spoke in reverence and in fear. They called him *the Devourer* as doctrine, never as mockery. Long before the [[Sunless Citadel]] sank into the earth, Ashardalon commanded a power that was not purely draconic: he had merged with something demonic, and the merger marked him visibly. Those who saw him described a scar across his chest in the shape of a great winged figure — a wound that had become a part of him.
 
 Whether Ashardalon still lives, sleeps, or has long since passed from the world is unknown to most. The cult's enduring inscription answers for itself: *He Who Devours Returns.*
 

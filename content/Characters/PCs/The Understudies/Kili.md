@@ -7,6 +7,8 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
+created: 2026-07-18T00:00:00
+updated: 2026-08-02T00:00:00
 ---
 
 # Kili
@@ -31,9 +33,9 @@ Pale, wind-loose hair falls past her shoulders under a slate-blue headscarf, fra
 
 Kili is a pre-law university student, self-funded and permanently between jobs — a resume that reads like a directory of Singapore's gig economy rather than a career. She's waited tables, tutored, walked dogs, done data entry, and modeled for a friend's clothing line, and if you check Carousell on the right day you can still hire her for whatever odd task needs doing. She wears the hustle well: quick-witted, adaptable, always closing.
 
-Somewhere under the constant motion is a conviction she's never said out loud, because saying it out loud would mean admitting how much it costs her: that belonging is something you *earn* by being useful. Not liked — useful. A Productive Citizen, in the fullest, most self-flagellating sense of the phrase. Every job, every hustle, every hour billed is a quiet down payment on a feeling of belonging that never quite clears.
+Somewhere under the constant motion is a conviction she's never said out loud, because saying it out loud would mean admitting how much it costs her: that belonging is something you *earn* by being useful. Not liked. Useful. A Productive Citizen, in the fullest, most self-flagellating sense of the phrase. Every job, every hustle, every hour billed is a quiet down payment on a feeling of belonging that never quite clears.
 
-The trouble is the math never works out. There's always another shift she could have picked up, another skill she hasn't monetized yet, another version of herself that's doing more. So she never feels like she belongs anywhere — not because anyone's told her she doesn't, but because she's never done *enough* to have earned the right to relax into it. Changeling instincts don't help: when the world won't hand you an identity, you build one out of what you produce.
+The trouble is the math never works out. There's always another shift she could have picked up, another skill she hasn't monetized yet, another version of herself that's doing more. So she never feels like she belongs anywhere. No one's told her she doesn't; she's simply never done *enough* to have earned the right to relax into it. Changeling instincts don't help: when the world won't hand you an identity, you build one out of what you produce.
 
 ## Abilities
 

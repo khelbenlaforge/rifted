@@ -1,23 +1,16 @@
 ---
-
-
-
-
-
-
-
 title: Augustus Kennedy
 aliases:
-  - Augie
-  - Augustus
+- Augie
+- Augustus
 tags:
-  - pc
+- pc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-07-15T02:21:04
+updated: 2026-08-02T13:58:00
 ---
 
 # Augustus Kennedy
@@ -35,9 +28,9 @@ updated: 2026-07-15T02:21:04
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Augustus -- known to his companions as Augie -- is a half-warforged paladin, a formidable blend of metal and flesh. His humanoid frame retains recognizable features from his former life on Earth, yet his construct nature grants him an imposing, resilient presence. Gleaming eyes spark with sentience beneath an aura of quiet determination and martial resolve.
+Augustus -- known to his companions as Augie -- is a half-warforged paladin, metal grafted onto what used to be an ordinary body. His humanoid frame still carries features from his life on Earth, but the construct half gives him an imposing, resilient presence. His eyes spark with something more than machinery behind them.
 
-His bearing speaks of a man still discovering himself, caught between the familiarity of who he was and the weight of who he is becoming. He stands tallest among the party, both literally and in his willingness to shield others from harm.
+He's still figuring out who he is now, caught between the man he remembers being and whatever he's turning into. He stands tallest among the party, both literally and in how quick he is to put himself between his companions and harm.
 
 ## Origin
 Augustus was transported from Earth on High Harvestide, Year 222 PA, appearing alongside four companions atop the [[Jade Spire]] in [[Crystal City]]. He was one of three among the group who underwent partial non-human changes -- in his case, a dramatic transformation into a warforged construct of metal and magic. A scan by [[Elmindaria L'Thorian]] revealed that roughly half of his essence was missing, though slowly regenerating. He was the only party member who remained standing during [[Corranor]]'s descent to the oceans of [[Aenath]], having been warned in advance by a [[Dwarven Bartender]] in the [[Garnet District]].

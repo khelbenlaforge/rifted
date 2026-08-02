@@ -1,15 +1,15 @@
 ---
 title: Keldara Hucrele
 aliases:
-  - Keldara
+- Keldara
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-04-10T18:13
+updated: 2026-08-02T14:11:51
 ---
 
 # Keldara Hucrele
@@ -26,7 +26,7 @@ updated: 2026-04-10T18:13
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
-Keldara is a middle-aged human woman of noble bearing, though the weight of recent days has taken its toll. Her fine clothes are travel-stained, dark circles shadow her eyes, and the proud set of her shoulders has begun to crack under mounting desperation. She carries herself as someone accustomed to authority, but right now every ounce of that authority is bent toward a single purpose: finding her children.
+Keldara is a middle-aged human woman of noble bearing, though the recent days have worn her down. Her fine clothes are travel-stained, dark circles shadow her eyes, and the proud set of her shoulders has begun to crack under mounting desperation. She carries herself as someone accustomed to authority, but right now every ounce of that authority is bent toward a single purpose: finding her children.
 
 ## Background
 As matriarch of the [[Hucrele Family]], Keldara relocated with her husband [[Talgen Hucrele Sr.]] from [[Crystal]] to invest in [[Sunhold]]'s future. When Goblin Merchants arrived offering a magical healing fruit and an invitation to their stronghold, her children -- [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] -- eagerly joined the delegation. Keldara encouraged their adventurous spirits, a decision that now fills her with guilt.

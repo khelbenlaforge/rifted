@@ -1,14 +1,14 @@
 ---
-title: Session 12 — Seeds of Deception
+title: "Session 12 \u2014 Seeds of Deception"
 aliases:
-  - Session 12
+- Session 12
 tags:
-  - session
+- session
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-04-10T18:13
+updated: 2026-08-02T13:59:44
 ---
 
 # Session 12 — Seeds of Deception
@@ -113,7 +113,7 @@ They did not help during the battle that followed. When Augie asked them afterwa
 
 The vine serpent hit differently than the twig blight swarms they had fought before. The swarm of twig blights was a problem of volume — dozens of snapping, scratching limbs converging at once — but the serpent was a problem of specificity. It *grappled*. It *paralyzed*. When it wrapped around [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] and held him fast, the paladin who had been directing the entire engagement suddenly became the problem the rest of the party had to solve first.
 
-[[Erky]] was not decorative. The gnome acolyte came through with healing at pressure moments — not tentative half-measures but decisive, powerful interventions, the kind of clerical instinct that saves the turn. [[Little Sister]] was in the fight properly for the first time — not lurking, not waiting to see what happened, but engaged. Something had shifted in her since the party had descended to the Grove Level. She was choosing them now.
+[[Erky]] was not decorative. The gnome acolyte came through with healing at pressure moments, decisive and powerful rather than tentative, the kind of clerical instinct that saves the turn. [[Little Sister]] was in the fight properly for the first time, engaged instead of lurking on the sidelines waiting to see what happened. Something had shifted in her since the party had descended to the Grove Level. She was choosing them now.
 
 [[Balsag]] held his ground with [[Grip]], his surviving giant rat, moving with him as a hunting pair.
 

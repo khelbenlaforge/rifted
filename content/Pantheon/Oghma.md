@@ -1,15 +1,15 @@
 ---
 title: Oghma
 aliases:
-  - The Binder of Books
-  - Lord of Knowledge
+- The Binder of Books
+- Lord of Knowledge
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-17T21:14
+updated: 2026-08-02T13:59:35
 ---
 
 # Oghma
@@ -34,7 +34,7 @@ Symbol:: Blank scroll
 ## Description
 Oghma is the god of knowledge, wisdom, and inspiration — the divine keeper of every idea worth preserving and every truth worth pursuing. His domain is the Endless Library, a vast and luminous hall where towering shelves overflow with tomes, scrolls, and manuscripts spanning every age and every discipline. To enter it is to feel the quiet hum of accumulated understanding pressing against the mind, inviting the seeker to reach further, dig deeper, and never stop asking questions.
 
-Oghma holds that ideas are the supreme force in the world. A single insight, properly understood and shared, can reshape kingdoms, end plagues, or spark revolutions. His blank scroll — the symbol borne by his faithful — represents not emptiness, but limitless potential: the page waiting to be filled, the question waiting to be asked.
+Oghma holds that ideas are the supreme force in the world. A single insight, properly understood and shared, can reshape kingdoms, end plagues, or spark revolutions. His blank scroll — the symbol borne by his faithful — stands for limitless potential rather than emptiness: the page waiting to be filled, the question waiting to be asked.
 
 ## Tenets
 - Knowledge is the highest good. Seek it relentlessly and share it freely.

@@ -1,12 +1,13 @@
 ---
 title: Hucrele Manor
-aliases:
+aliases: null
 tags:
-  - location
-  - location/building
+- location
+- location/building
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
+updated: 2026-08-02T13:59:40
 ---
 
 # Hucrele Manor
@@ -43,7 +44,7 @@ The estate has been untouched since news arrived from [[Sunhold]] about [[Talgen
 
 ## Scene Features
 
-**Atmosphere:** *A house that was abandoned before it was left — the question isn't who lived here, but what happened.*
+**Atmosphere:** *A house that was abandoned before it was left. The real question is what happened here, not who used to live here.*
 
 ### Triggered Effects
 - *Portrait Gallery.* Any PC who studies the family portraits and succeeds on a DC 12 History or Insight check notices either a pattern in the faces — or a gap where a portrait should be.

@@ -1,15 +1,15 @@
 ---
 title: Midnight
 aliases:
-  - Midnight of Arabel
+- Midnight of Arabel
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-03-30T17:44
+updated: 2026-08-02T14:01:02
 ---
 
 # Midnight
@@ -34,7 +34,7 @@ Raven-haired, dark-clothed, with the kind of presence that makes people look twi
 
 Serene, flirtatious, and fearless in a way that is hard to read as either confidence or recklessness. She volunteered to join the party on the rescue of Caitlan's mistress "for the fun of it," which is the kind of thing someone says when they already know how the story ends.
 
-She is devoted to [[Mystra]] — not in a pious, formal way, but in the intimate way of a chosen whose faith was earned through direct encounter.
+Her devotion to [[Mystra]] isn't pious or formal; it's the intimate kind, faith earned through direct encounter rather than doctrine.
 
 ## Background
 

@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-07-27
 secret: false
 created: 2026-07-27T19:00:00
-updated: 2026-07-29T22:03:42
+updated: 2026-08-02T14:01:30
 ---
 
 # Session 25 - The Adder's Hold
@@ -19,7 +19,7 @@ updated: 2026-07-29T22:03:42
 
 ## What Happened
 
-The archway from [[The Low Flagon]]'s back room sealed behind [[Tavia Orn]] the instant the last of them crossed through, and the six found themselves in [[Corvin's Hold]] — the private pocket-dimension gauntlet of the Garnet and Sunstone Districts' Claret lieutenant. No framing, no warning: ten of Corvin's own people stood waiting in the Floor Test, and a flat, unhurried voice from nowhere in particular told them to show what they actually were.
+The archway from [[The Low Flagon]]'s back room sealed behind [[Tavia Orn]] the instant the last of them crossed through, and the six found themselves in [[Corvin's Hold]] — the private pocket-dimension gauntlet of the Garnet and Sunstone Districts' Claret lieutenant. No framing, no warning: ten of Corvin's own people stood waiting in the Floor Test, and a flat, unbothered voice from nowhere in particular told them to show what they actually were.
 
 The fight was messy and mostly non-lethal by design, not by luck. Lea opened with Sleep, dropping two of the ten; Shen's Suggestion took a Warden out of the fight, sending him to sit quietly in the corner, and his Keen Mind investigation check read the room fast enough to spot the trap the fight itself was — the guards weren't hunting them, something would trigger them. Partway through, Lea's Elminster's Inquiry asked the only question that mattered — *how do we get through these people unharmed* — and the Weave answered in three words: **"Don't kill me."** That single answer reframed the whole fight. These weren't loyal soldiers. They were people who didn't want to be there.
 

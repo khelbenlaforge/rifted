@@ -1,12 +1,13 @@
 ---
 title: Hawksguard
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
+updated: 2026-08-02T14:00:43
 ---
 
 # Hawksguard
@@ -25,11 +26,11 @@ state: alive
 
 ## Appearance
 
-A veteran in the old-soldier sense: weathered, economical in movement, unhurried. Not old — maybe mid-forties — but carrying the particular stillness of someone who has learned to conserve everything. He looks like he has been standing at posts like this one for a long time and expects to be standing at them for a long time more.
+A veteran in the old-soldier sense: weathered, economical in movement, never in a hurry. He's maybe mid-forties, not truly old, but he carries the particular stillness of someone who has learned to conserve everything. He looks like he has been standing at posts like this one for a long time and expects to be standing at them for a long time more.
 
 ## Personality
 
-Kindly, shrewd, quiet. Speaks when there is something worth saying. Knows [[Shadowdale]] the way you know a place you have defended — not just the roads and the buildings, but the hidden ways, the escape routes, the spots that matter when things go wrong. He is comfortable being used as a guide, because he understands that being useful is its own kind of honor.
+Kindly, shrewd, quiet. Speaks when there is something worth saying. Knows [[Shadowdale]] the way you know a place you have defended: the roads and buildings, sure, but also the hidden ways, the escape routes, the spots that matter when things go wrong. He is comfortable being used as a guide, because he understands that being useful is its own kind of honor.
 
 ## Role in the Story
 

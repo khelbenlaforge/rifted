@@ -1,14 +1,14 @@
 ---
-title: Session 09 — Debts in the Dark
+title: "Session 09 \u2014 Debts in the Dark"
 aliases:
-  - Session 09
+- Session 09
 tags:
-  - session
+- session
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T15:55
-updated: 2026-03-18T13:30
+updated: 2026-08-02T13:58:42
 ---
 
 # Session 09 — Debts in the Dark
@@ -58,7 +58,7 @@ They killed her. The room went quiet.
 
 Then one of them found [[Karakas]].
 
-He was in the corner, half-eaten, his woodsman's gear torn and scattered. The man who had guided the Hucrele delegation through the marshes, through forty-plus miles of wetlands, through every obstacle that stood between Sunhold and the citadel — had made it this far, and no farther. The rats had done it. Not goblins, not traps, not whatever waited below. Rats.
+He was in the corner, half-eaten, his woodsman's gear torn and scattered. The man who had guided the Hucrele delegation through the marshes, through forty-plus miles of wetlands, through every obstacle that stood between Sunhold and the citadel, had made it this far and no farther. Goblins hadn't done it, traps hadn't done it, whatever waited below hadn't gotten the chance. The rats had.
 
 The room had a crumbled wall and roof. Through the opening, light leaked in — the rift itself, the great geological wound in which the [[Sunless Citadel]] sat. The outside world, visible but unreachable.
 
@@ -114,7 +114,7 @@ Grenl led them to what served as the colony's food store — a pantry, cleared o
 
 In the time before sleep, they learned her shape.
 
-She had been one of the [[Durbuluk Goblins]]' elders. Then [[Durnn]] came to power, and the elders who had held power before him did not survive the transition. She alone had not opposed him — not because she agreed with him, not because she approved of the war, but because she understood that opposing him would accomplish nothing except her death.
+She had been one of the [[Durbuluk Goblins]]' elders. Then [[Durnn]] came to power, and the elders who had held power before him did not survive the transition. She alone had not opposed him. She didn't agree with him and didn't approve of the war; she'd simply worked out that opposing him would accomplish nothing except her own death.
 
 She had chosen to live.
 

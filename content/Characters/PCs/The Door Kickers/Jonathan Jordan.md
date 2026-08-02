@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-07-27T10:34:46
+updated: 2026-08-02T13:58:30
 ---
 
 # Jonathan Jordan
@@ -28,7 +28,7 @@ updated: 2026-07-27T10:34:46
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Jonathan Jordan -- known universally as JJ -- is a lanky human with a nimble frame and calloused hands that speak to a life of agility and hard-won resilience. Practical and sharp-eyed, he dresses for function over form, carrying himself with a rugged frontiersman's ease. His dagger is never far from his fingers. Among the five who crossed from Earth, JJ was the most hesitant to commit -- and the last to prove he belonged.
+Jonathan Jordan -- known universally as JJ -- is a lanky human, nimble, with hands calloused from years of scraping by. Practical and sharp-eyed, he dresses for function over form, carrying himself with a rugged frontiersman's ease. His dagger is never far from his fingers. Among the five who crossed from Earth, JJ was the most hesitant to commit -- and the last to prove he belonged.
 ## Origin
 JJ was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. Unlike three of his fellows, he retained his human appearance, though [[Elmindaria L'Thorian]]'s magical scan revealed heightened roguish abilities and the same loss of roughly half his essence. When [[Istar Silverlock]] offered the party membership in the [[Adamantine Guild]], JJ alone deferred his decision.
 

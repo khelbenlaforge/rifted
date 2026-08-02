@@ -1,18 +1,17 @@
 ---
-
 title: Elmindaria L'Thorian
 aliases:
-  - Elmindaria
-  - Daria
-  - The Guild's Subtle Mind
+- Elmindaria
+- Daria
+- The Guild's Subtle Mind
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-06-29T19:00:17
+updated: 2026-08-02T13:58:47
 ---
 
 # Elmindaria L'Thorian
@@ -29,7 +28,7 @@ updated: 2026-06-29T19:00:17
 > | Affiliation | [[Adamantine Guild]], [[Ether Scryer's Academy]] |
 
 ## Description
-Silver-white hair intricately braided, violet eyes that seem to perceive the true essence of those around her, and the unhurried grace of someone who has seen seven centuries pass. [[Elmindaria L'Thorian]] moves through the halls of the [[Adamantine Guild]] like moonlight over still water. Her voice carries the cadence of both a beloved headmistress and a battlefield captain -- warm, amused, and utterly commanding. She is known as "the Guild's Subtle Mind," and the title is well earned.
+Silver-white hair intricately braided, violet eyes that seem to perceive the true essence of those around her, and the settled calm of someone who has watched seven centuries pass without hurrying through any of them. [[Elmindaria L'Thorian]] moves through the halls of the [[Adamantine Guild]] quietly, rarely announcing herself before she needs to. Her voice carries the cadence of a beloved headmistress most of the time, and a battlefield captain when it matters. She is known as "the Guild's Subtle Mind," and the title is well earned.
 
 ## Background
 With over seven hundred years of life behind her, [[Elmindaria]] is one of the most experienced members of the [[Adamantine Guild]] and a senior instructor at the [[Ether Scryer's Academy]]. She possesses keen magical senses and specialises in arcane studies, magical due diligence, and deception protocols -- the kind of quiet, essential work that keeps an organisation alive.

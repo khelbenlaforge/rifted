@@ -1,13 +1,13 @@
 ---
 title: Session 15 - Storm in Shadowdale
-aliases:
+aliases: null
 tags:
-  - session
+- session
 campaign: Rifted
 introduced: 2026-03-30
 secret: false
 created: 2026-03-30T17:37
-updated: 2026-03-30T18:20
+updated: 2026-08-02T14:00:16
 ---
 
 # Session 15 - Storm in Shadowdale
@@ -118,7 +118,7 @@ He tells them what he knows. He does it efficiently, in the manner of a man who 
 
 **Ao the Overgod** stripped the gods of their power. Not diminished them — removed it. They walk in mortal flesh now, carrying their domains like a weight they can barely lift. Magic is unstable because the source of magic is unstable. **The Tablets of Fate** were stolen, and without them the divine compact that ordered everything cannot be restored. One tablet is in Tantras, in Dragon Reach, to the east. That is where this road eventually leads.
 
-Beneath the **Temple of Lathander**, there is a **Celestial Stairway**. Invisible to most. A road out of Faerûn for gods who can find it. **[[Bane]]** is coming for it — not because he wants to leave, but because it gives him leverage, and because the power in [[Midnight]]'s pendant is specifically what he wants to carry through it.
+Beneath the **Temple of Lathander**, there is a **Celestial Stairway**. Invisible to most. A road out of Faerûn for gods who can find it. **[[Bane]]** is coming for it. He has no interest in leaving — the leverage it gives him is the point, and the power in [[Midnight]]'s pendant is specifically what he wants to carry through it.
 
 **[[Helm]]** is uniquely unaffected. He alone retained his divine power, and no one knows why.
 
@@ -184,7 +184,7 @@ A second large force arrives on the far side of the bridge while the first is st
 
 The party turns to face it. They are down resources and the Battlelord is still standing somewhere in the scrum. It is the kind of moment where the math stops working in your favor.
 
-Then the banners come. Silver moon. Harp. The Knights of Myth Drannor, arriving at speed — not because they were dispatched, but because the Ninth regiment was already moving, already converging, and the sound of the battle reached them first.
+Then the banners come. Silver moon. Harp. The Knights of Myth Drannor, arriving at speed — nobody dispatched them; the Ninth regiment was already moving, already converging, and the sound of the battle reached them first.
 
 [[Florin Falconhand]] does not have time for ceremony. He grabs [[Rathan Thentraver|Rathan]] by the collar and tosses him into the fray the way you pass a weapon to someone who needs it. [[Dove Falconhand]] flanks without being asked. [[Jhessail Silvertree]] drops a Fireball that touches no allies. [[Lanseril Snowmantle]] calls lightning down the column. [[Merith Strongbow]] finds the officers.
 
@@ -200,7 +200,7 @@ He flies. He is smiling.
 
 ## What the Temple Holds
 
-Word arrives mid-battle from a runner who comes in too fast to be good news: an elite Zhentarim force is bearing down on the **Temple of Lathander**. Not the bridge. Not the crossroads. The Temple.
+Word arrives mid-battle from a runner who comes in too fast to be good news: an elite Zhentarim force is bearing down on the **Temple of Lathander** — not the bridge, not the crossroads.
 
 The Temple sits between the party and that force. And within that force — someone who can feel these things says it plainly — there is something that is not soldiers. Something that was once a god.
 
@@ -230,7 +230,7 @@ Round five.
 
 Nothing enters through the broken doors. Nothing visible.
 
-Then a specific cold fills the room — the kind that is not temperature but is understood by the body as temperature, a cold that means *something has entered this space that is much larger than the space*. The Battlelord sheathes his sword. The kneeling soldiers go flat. Not ordered to. Not signaled. They simply stop.
+Then a specific cold fills the room — the kind that is not temperature but is understood by the body as temperature, a cold that means *something has entered this space that is much larger than the space*. The Battlelord sheathes his sword. The kneeling soldiers go flat, unprompted — no order given, no signal passed. They simply stop.
 
 [[Bane]] teleports into the centre of the temple. Eight feet tall. Black plate. The gauntlet symbol. Red eyes that have no business being in a mortal face. He appears exactly halfway between the party and the Stairway — halfway between [[Elminster]] and the people trying to keep [[Midnight]] from being taken.
 
