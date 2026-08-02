@@ -1,15 +1,15 @@
 ---
 title: Istar Silverlock
 aliases:
-  - Istar
+- Istar
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-06-20T18:11
+updated: 2026-08-02T13:59:01
 ---
 
 # Istar Silverlock
@@ -27,7 +27,7 @@ updated: 2026-06-20T18:11
 
 ## Description
 
-A lean figure with silver-white hair cascading in soft waves around an angular face, [[Istar Silverlock]] looks younger than his responsibilities would suggest. His wounded arm, wrapped in a bloody sling from recent [[Shadow Creatures]] attacks, is a testament to the trials he endures daily. His demeanor oscillates between professional efficiency and the unpolished charm of a reformed street rat — he slouches, fidgets with quills, and his voice shifts seamlessly between cultured nobility and rough street cant depending on his company. A well-worn lute leans against the wall behind his desk, hinting at bardic talents he rarely has time to indulge.
+A lean figure with silver-white hair cascading in soft waves around an angular face, [[Istar Silverlock]] looks younger than his responsibilities would suggest. His wounded arm, wrapped in a bloody sling from recent [[Shadow Creatures]] attacks, is one more mark of what the job actually costs him. His demeanor oscillates between professional efficiency and the unpolished charm of a reformed street rat — he slouches, fidgets with quills, and his voice shifts seamlessly between cultured nobility and rough street cant depending on his company. A well-worn lute leans against the wall behind his desk, hinting at bardic talents he rarely has time to indulge.
 
 ## Background
 

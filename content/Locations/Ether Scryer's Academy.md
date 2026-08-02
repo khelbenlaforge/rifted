@@ -1,15 +1,15 @@
 ---
 title: Ether Scryer's Academy
 aliases:
-  - Aether Spires Academy
+- Aether Spires Academy
 tags:
-  - location
-  - location/building
+- location
+- location/building
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-08-02T13:59:16
 ---
 
 # Ether Scryer's Academy
@@ -28,7 +28,7 @@ Status:: Active
 
 ## Description
 
-A prestigious institution for the mastery of wizardry, standing as a beacon of arcane knowledge in the [[Amethyst District]]. The Academy specializes in arcane theory, divination, and the enigmatic magics related to the Exodus. Its serene interior is infused with palpable magical energy — an extensive library of ancient tomes and spellbooks lines the walls, and well-equipped classrooms and laboratories provide space for rigorous study.
+A prestigious institution for the mastery of wizardry, standing as a beacon of arcane knowledge in the [[Amethyst District]]. The Academy specializes in arcane theory, divination, and the enigmatic magics related to the Exodus. Its serene interior hums with magical energy; an extensive library of ancient tomes and spellbooks lines the walls, and well-equipped classrooms and laboratories provide space for rigorous study.
 
 ## Notable Features
 

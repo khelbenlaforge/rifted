@@ -1,14 +1,13 @@
 ---
-
 created: 2026-07-13T21:00:00
-title: "Session 23 — What the Stone Remembers"
+title: "Session 23 \u2014 What the Stone Remembers"
 tags:
-  - session
+- session
 campaign: Rifted
 session: 23
 date: 2026-07-13
-in-world-date: "21st-28th Uktar, Year 222 PA"
-updated: 2026-07-14T19:31:09
+in-world-date: 21st-28th Uktar, Year 222 PA
+updated: 2026-08-02T14:01:17
 ---
 
 # Session 23 — What the Stone Remembers
@@ -25,7 +24,7 @@ Somewhere in the crowd, a god ran out of patience. The presence beside Shen — 
 
 He woke without knowing what he'd agreed to.
 
-The week that followed put the party's magical inheritances on the table together for the first time. [[Elminster's Spellbook]], held up to the light, wasn't quite of this world — translucent at the edges, holding something inside it that didn't belong to Lea and never had. She'd suspected it before. Now she understood it as what it was: a fragment of [[Mystra]] herself, an anchor keeping some part of Lea tethered to somewhere else. Terra had already worked out the same thing about her own necklace, the [[Hollowstone]] — not that the Unbound was inside it, but that a piece of him was, the part of his consciousness that still argued with her, that still sounded like him even when she was fairly sure it wasn't. She held it up and felt him there, felt how much of what he'd once told her matched what she was living through now — gods, darkness, the effort of making something out of nothing.
+The week that followed put the party's magical inheritances on the table together for the first time. [[Elminster's Spellbook]], held up to the light, wasn't quite of this world — translucent at the edges, holding something inside it that didn't belong to Lea and never had. She'd suspected it before. Now she understood it as what it was: a fragment of [[Mystra]] herself, an anchor keeping some part of Lea tethered to somewhere else. Terra had already worked out the same thing about her own necklace, the [[Hollowstone]]: a piece of the Unbound, not the whole of him, the part of his consciousness that still argued with her, that still sounded like him even when she was fairly sure it wasn't. She held it up and felt him there, felt how much of what he'd once told her matched what she was living through now — gods, darkness, the effort of making something out of nothing.
 
 She struck the stone once, testing it. Nothing happened; it has an AC of 17 and does not particularly care to be hit. What answered instead was a voice, and whether or not it was truly the Unbound speaking, it scolded her for trying: *Seek the light, especially in darkness.* It didn't feel like something from outside pushing in. It felt like something inside her finally pushing back.
 

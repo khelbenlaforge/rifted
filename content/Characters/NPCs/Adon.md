@@ -1,14 +1,14 @@
 ---
 title: Adon
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-04-01T19:04
+updated: 2026-08-02T14:11:50
 ---
 
 # Adon
@@ -27,7 +27,7 @@ updated: 2026-04-01T19:04
 
 ## Personality
 
-Devoted, good-hearted, and openly vain. His concern for his appearance is not concealment — it is sincere. He serves a goddess of beauty, and he takes the mandate personally. This makes him somewhat easier to underestimate than he deserves.
+Devoted, good-hearted, and openly vain. His concern for his appearance is sincere, not a mask for anything else. He serves a goddess of beauty, and he takes the mandate personally. This makes him somewhat easier to underestimate than he deserves.
 
 Shadowdale did not meet his standards. He made this clear. Jhaele Silvermane served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
 
@@ -43,7 +43,7 @@ At the Temple of Lathander in [[Shadowdale]], during the final moment of [[Midni
 
 A cleric of [[Sune]] — the goddess of beauty — marked across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light.
 
-The weight of it will build slowly. Adon serves a goddess who holds beauty as sacred. He carries, now, an imperfection that no magic will fix and no faith will explain away.
+It will build slowly. Adon serves a goddess who holds beauty as sacred. He carries, now, an imperfection that no magic will fix and no faith will explain away.
 
 ## Role in the Vision
 

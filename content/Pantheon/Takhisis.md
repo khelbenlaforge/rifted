@@ -1,16 +1,16 @@
 ---
 title: Takhisis
 aliases:
-  - The Dark Queen
-  - Tiamat
-  - The Chromatic Dragon
+- The Dark Queen
+- Tiamat
+- The Chromatic Dragon
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T16:15
-updated: 2026-03-18T13:36
+updated: 2026-08-02T13:59:41
 ---
 
 # Takhisis
@@ -35,7 +35,7 @@ Symbol:: Five-headed dragon silhouette
 
 ## Description
 
-Takhisis — known also as Tiamat in many traditions — is the goddess of chromatic dragons, conquest, and the hunger that consumes without remorse. She is desire without limit, ambition without conscience, power for its own sake. Her five heads breathe fire, lightning, acid, cold, and poison; her dominion extends over every destructive impulse ever wielded in her name.
+Takhisis — known also as Tiamat in many traditions — is the goddess of chromatic dragons, conquest, and the hunger that consumes without remorse. She wants without limit and schemes without conscience; power, to her, needs no further justification. Her five heads breathe fire, lightning, acid, cold, and poison; her dominion extends over every destructive impulse ever wielded in her name.
 
 Yet the Sanctum beneath the [[Sunless Citadel]] complicates that portrait. The stone carved there shows neither the tyrant nor the destroyer. Takhisis stands opposite [[Bahamut]] with her wings spread, flanking [[Mystra]] and [[Gond]], facing *outward*. Not opposing the world's protectors — *being* one of them. Whatever covenant bound the dragon gods together in that chamber, it predates the enmity that defines them elsewhere.
 

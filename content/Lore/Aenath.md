@@ -1,24 +1,23 @@
 ---
-
 title: Aenath
-aliases:
+aliases: null
 tags:
-  - lore
-  - lore/cosmology
+- lore
+- lore/cosmology
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-07-08T19:13:22
+updated: 2026-08-02T13:59:26
 ---
 
 # Aenath
 
-The world itself — a realm of mystical, ever-changing landscapes where continents drift, islands float, and the boundaries between the material and the divine remain unsettlingly thin. [[Aenath]] is home to [[Corranor]], the Magocracy of the Floating Lands, and countless other regions that remain largely unexplored.
+The world itself — a realm of mystical, ever-changing landscapes. Continents drift and islands float, and even the border between the material and the divine sits uneasily close. [[Aenath]] is home to [[Corranor]], the Magocracy of the Floating Lands, and countless other regions that remain largely unexplored.
 
 ## Geography
 
-[[Aenath]]'s defining feature is its instability. Land masses rise and fall, Transient islands periodically descend from the sky to touch the ocean surface, and the terrain shifts in ways that defy conventional cartography. The oceans surrounding [[Corranor]] were inaccessible for centuries while the main island floated above them — only with its recent descent has maritime exploration become possible.
+[[Aenath]]'s defining feature is its instability. Land masses rise and fall. Transient islands periodically descend from the sky to touch the ocean surface. Cartographers can't keep a map current for long before the terrain shifts under it. The oceans surrounding [[Corranor]] were inaccessible for centuries while the main island floated above them — only with its recent descent has maritime exploration become possible.
 
 ## The Wilds
 

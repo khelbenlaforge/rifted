@@ -1,16 +1,16 @@
 ---
 title: Vael
 aliases:
-  - Irazel
-  - The Erinyes
+- Irazel
+- The Erinyes
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-03-30T17:47
+updated: 2026-08-02T14:00:54
 ---
 
 # Vael
@@ -81,7 +81,7 @@ She knows this is a lie.
 
 *To be developed across the arc.*
 
-The Hells enforce contract. Punishment for transgression. No exceptions — not because it is cruel, but because a single uncontested breach corrupts the entire structure. The law that seems merciless *is* the mercy, at scale. Vael believes this the way a druid believes in the cycle. It is simply true.
+The Hells enforce contract. Punishment for transgression. No exceptions, because a single uncontested breach corrupts the entire structure — cruelty is beside the point. The law that seems merciless *is* the mercy, at scale. Vael believes this the way a druid believes in the cycle. It is simply true.
 
 The forest doesn't spare the fawn out of mercy. It spares it because the herd needs to survive winter so the wolf survives spring. The cycle is brutal and it is love — at a scale most mortals can't hold.
 
@@ -89,7 +89,7 @@ Two systems that look like cruelty from close up and like order from far enough 
 
 The middle ground they move toward — much later, neither of them reformed — is *recognition*: *we are both the mechanism that keeps the larger thing alive. We simply disagree on what the larger thing is.*
 
-This thread mirrors [[The Exodus/The Door Kickers/PCs/Ember]]'s established infernal duality. Asmodeus stayed beside her at the Sealed Door. Vael attends Selmavra's heroic moments. The infernal is not the corruption of the natural — it may be its shadow. Its other face.
+This thread mirrors [[The Exodus/The Door Kickers/PCs/Ember]]'s established infernal duality. Asmodeus stayed beside her at the Sealed Door. Vael attends Selmavra's heroic moments. The infernal may not be a corruption of the natural at all — just its shadow, its other face.
 
 ## Role in the Story
 

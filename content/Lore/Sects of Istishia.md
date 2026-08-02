@@ -1,16 +1,17 @@
 ---
 title: Sects of Istishia
 aliases:
-  - Sacred Sea
-  - Watery Paths
-  - Magnificent Storm
-  - Eternal Transformation
+- Sacred Sea
+- Watery Paths
+- Magnificent Storm
+- Eternal Transformation
 tags:
-  - lore
-  - lore/religion
+- lore
+- lore/religion
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
+updated: 2026-08-02T13:59:28
 ---
 
 # Sects of Istishia
@@ -31,5 +32,5 @@ The Magnificent Storm sect centres on water as force — the ocean in fury, the 
 
 ## Eternal Transformation
 
-The Eternal Transformation sect holds that water's defining quality is its capacity to change state — liquid, ice, vapour — while remaining essentially itself. Its teachings centre on cycles, transition, and the idea that change is not loss but continuity in a different form.
+The Eternal Transformation sect holds that water's defining quality is its capacity to change state — liquid, ice, vapour — while remaining essentially itself. Its teachings centre on cycles and transition — change as continuity taking a different shape, rather than as loss.
 

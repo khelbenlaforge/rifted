@@ -1,23 +1,15 @@
 ---
-
-
-
-
-
-
-
-
 title: Sukoon and Junoon
 aliases:
-  - Sukoon
-  - Junoon
+- Sukoon
+- Junoon
 tags:
-  - item
+- item
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-06-25T00:00:00
-updated: 2026-07-01T00:23:54
+updated: 2026-08-02T14:00:00
 ---
 
 > [!infobox]
@@ -58,7 +50,7 @@ The sickles grow in power as Sadiah levels.
 
 **Still Point *(passive)*:** Using Steady Aim does not reduce Sadiah's speed to 0 — she may still move up to half her speed this turn. When she uses Steady Aim before attacking with Sukoon or Junoon, she also adds 1d6 to her Sneak Attack damage roll on that turn. The breath held. The calculation completed. The outcome already decided.
 
-**The Named Weight *(passive)*:** When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target must succeed on a Constitution saving throw (DC = Sadiah's spell save DC) or be unable to take Reactions until the start of its next turn. The specificity of the target. The weight of the name.
+**The Named Weight *(passive)*:** When Sadiah deals Sneak Attack damage, she adds her Intelligence modifier to the total. The target must succeed on a Constitution saving throw (DC = Sadiah's spell save DC) or be unable to take Reactions until the start of its next turn. She names exactly who. That specificity is the point.
 
 **Junoon's Word *(1/Short Rest)*:** When Sadiah rolls a 1 on any d20 roll — attack, saving throw, or ability check — Junoon disagrees. She may reroll and must use the new result.
 

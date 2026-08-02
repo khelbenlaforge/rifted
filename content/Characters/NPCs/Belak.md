@@ -1,15 +1,15 @@
 ---
 title: Belak
 aliases:
-  - Belak the Outcast
+- Belak the Outcast
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: escaped
 created: 2026-03-16T15:52
-updated: 2026-05-26T16:23
+updated: 2026-08-02T14:02:15
 ---
 
 # Belak
@@ -42,7 +42,7 @@ Unknown — not yet encountered by the party.
 
 Everything the party knows about Belak is structural: he is down there, on the Grove Level, and things grow around him that should not grow. A druid who has chosen to make his home in a sunless ruin, cultivating something in the dark, trading its fruit to goblins who sell it to the surface world — this is not a figure of neutrality. Whatever Belak wants, it involves the slow reach of something spreading upward.
 
-He does not seem to need allies. The [[Durbuluk Goblins]] have an exclusive arrangement with him — not a partnership of equals, but a transaction. He supplies; they distribute. What he gets from it beyond isolation and purpose is unclear.
+He does not seem to need allies. The [[Durbuluk Goblins]] have an exclusive arrangement with him: a transaction, not a partnership of equals. He supplies; they distribute. What he gets from it beyond isolation and purpose is unclear.
 
 ## Background
 

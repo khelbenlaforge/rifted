@@ -1,14 +1,14 @@
 ---
-title: Session 07 — South of Everything
+title: "Session 07 \u2014 South of Everything"
 aliases:
-  - Session 07
+- Session 07
 tags:
-  - session
+- session
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T00:00
-updated: 2026-04-10T18:13
+updated: 2026-08-02T13:58:13
 ---
 
 # Session 07 — South of Everything
@@ -61,7 +61,7 @@ Then: two weeks before the disappearance, Goblin Merchants arrived from the deep
 
 Twenty-four days have passed.
 
-[[Keldara Hucrele]] produces the evidence: a half-eaten piece of [[Goblin Fruit]], impossibly fresh. [[The Exodus/The Door Kickers/PCs/Ember]] takes it in her hands. The color is red the way blood is red — not like something that grows. [[The Exodus/The Door Kickers/PCs/Lea]] casts Detect Magic. The fruit hums with two distinct signatures: necromantic, coiled beneath the surface, and something divine or draconic above it.
+[[Keldara Hucrele]] produces the evidence: a half-eaten piece of [[Goblin Fruit]], impossibly fresh. [[The Exodus/The Door Kickers/PCs/Ember]] takes it in her hands. The color is red the way blood is red, wrong for something that grows. [[The Exodus/The Door Kickers/PCs/Lea]] casts Detect Magic. The fruit hums with two distinct signatures: necromantic, coiled beneath the surface, and something divine or draconic above it.
 
 The terms: 500 gold per child returned alive. 200 gold for signet rings if the worst has happened. A family heirloom besides.
 
@@ -93,7 +93,7 @@ The party gathers [[Pebbletoads]] — small, petrified amphibians — before dep
 
 ## The Marsh and What Lies Beyond
 
-Forty to sixty miles. No incident. The marsh does what marshes do — swallows sound, blurs distance, turns the sky the color of pewter. The Salamandrels move with the quiet confidence of animals that belong here.
+Forty to sixty miles. No incident. The marsh swallows sound and blurs distance, and overhead the sky settles into a flat pewter color. The Salamandrels move with the quiet confidence of animals that belong here.
 
 Then: the marsh ends. The ground hardens. The terrain turns rocky and strange. The air changes.
 

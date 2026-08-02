@@ -1,14 +1,14 @@
 ---
-title: Session 08 — The War Beneath the War
+title: "Session 08 \u2014 The War Beneath the War"
 aliases:
-  - Session 08
+- Session 08
 tags:
-  - session
+- session
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T16:05
-updated: 2026-03-18T13:30
+updated: 2026-08-02T13:58:28
 ---
 
 # Session 08 — The War Beneath the War
@@ -74,7 +74,7 @@ Her offer: a key to the deeper southern sections, possibly holding treasure — 
 
 Then she let fall one careful detail: the Hucrele children had agreed to the same task weeks ago. They had not returned.
 
-The party read her without difficulty. The dragon worship, the tradition, the heritage — performance. Yusdrayl was a political creature managing a population on the edge of riot. She needed Calcryx back not for the dragon's sake, but because without it, the kobolds who still believed would have no reason to follow her.
+The party read her without difficulty. The dragon worship and the talk of heritage played as performance, not conviction. Yusdrayl was a political creature managing a population on the edge of riot. She needed Calcryx back not for the dragon's sake, but because without it, the kobolds who still believed would have no reason to follow her.
 
 ---
 
@@ -106,7 +106,7 @@ By nightfall the party understood what they'd walked into.
 
 The [[Ordahir Kobolds]] were already two factions — [[Yusdrayl]]'s pragmatists and [[Ragh]]'s traditionalists — held together by the surface appearance of unity. Yusdrayl didn't know that Ragh had engineered the very crisis she was trying to solve. Ragh had brokered with a goblin warlord who'd already murdered his way to power. [[Meepo]] wandered in the middle of all of it, blamed by everyone, devoted to a dragon he hadn't managed to protect.
 
-And somewhere in the goblin-held north, [[Calcryx]] waited — white, cold, very young — a political symbol for people who needed symbols more than anything else.
+And somewhere in the goblin-held north, [[Calcryx]] waited, white and cold and barely grown, a political symbol for people who needed symbols more than anything else.
 
 The party ended the session with everything they'd learned and no obvious move that didn't cost them something.
 

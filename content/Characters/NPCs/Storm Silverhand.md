@@ -1,16 +1,16 @@
 ---
 title: Storm Silverhand
 aliases:
-  - Ethena Astorma
-  - The Bard of Shadowdale
+- Ethena Astorma
+- The Bard of Shadowdale
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-03-30T17:46
+updated: 2026-08-02T14:00:24
 ---
 
 # Storm Silverhand
@@ -33,7 +33,7 @@ Silver hair — not grey, silver. It has always been that way; the visible mark 
 
 ## Personality
 
-Warm, direct, unhurried. Speaks to everyone as though they are worth her full attention — because they are. She has outlived enough crises to know that underestimating people is a waste of time. Occasionally wry. Wears extraordinary power lightly. One of the founders of the [[Harpers]], and has been shaping events from the edges of history for centuries.
+Warm, direct, never rushed. Speaks to everyone as though they are worth her full attention — because they are. She has outlived enough crises to know that underestimating people is a waste of time. Occasionally wry. Wears extraordinary power lightly. One of the founders of the [[Harpers]], and has been shaping events from the edges of history for centuries.
 
 ## Background
 

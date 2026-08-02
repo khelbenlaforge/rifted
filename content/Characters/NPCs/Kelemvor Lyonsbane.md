@@ -1,15 +1,15 @@
 ---
 title: Kelemvor Lyonsbane
 aliases:
-  - Kelemvor
+- Kelemvor
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-06-20T18:11
+updated: 2026-08-02T14:01:21
 ---
 
 # Kelemvor Lyonsbane
@@ -28,7 +28,7 @@ updated: 2026-06-20T18:11
 
 ## Personality
 
-Effective, reliable, and meticulous about charging for his services. He will not do anything for anyone without a price — not because he is greedy, but because he cannot. The mercenary exterior is not a personality; it is a cage.
+Effective, reliable, and meticulous about charging for his services. He will not do anything for anyone without a price. Greed has nothing to do with it — he genuinely cannot. The mercenary exterior functions less like a personality and more like a cage.
 
 Warm underneath it. Protective in the ways that matter. Prefers to slip away from camp rather than explain himself.
 
@@ -44,7 +44,7 @@ In Session 14, the transformation was witnessed for the first time by the full p
 
 In Session 15, he woke on those cobblestones with [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
 
-Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Official orders. Service to a lord. For Shadowdale rather than for personal coin. That is not selflessness — that is employment, and the curse understands the distinction. He filed it away. He had not known that before.
+Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Official orders. Service to a lord. For Shadowdale rather than for personal coin. The curse read it as employment rather than selflessness, and let it pass unpunished. He filed it away. He had not known that before.
 
 ## Background
 

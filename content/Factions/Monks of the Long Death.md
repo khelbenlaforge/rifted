@@ -1,14 +1,13 @@
 ---
 created: 2026-06-24T18:54:46
-
-title: "Monks of the Long Death"
-aliases:
+title: Monks of the Long Death
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-06-24T18:54:46
+updated: 2026-08-02T14:00:12
 ---
 
 # Monks of the Long Death
@@ -26,9 +25,9 @@ updated: 2026-06-24T18:54:46
 
 The Monks of the Long Death occupy the eastern ambulatory of the [[Temple of Kelemvor]], and they are the hardest of the temple's three orders to explain to someone who has not sat with one of them long enough to feel the particular quality of their silence.
 
-The name comes from their foundational principle: death is not a moment. It is a process — the long approach, the transition, the aftermath — and that process contains information that most people refuse to examine because they are afraid. The Monks are not afraid. They study death the way a naturalist studies a river: observing the current, the depth, the specific quality of a given crossing, the differences between this death and the last one and the next one. The work is contemplative. The affect is serene. The serenity is not indifference — it is the product of having looked at the thing directly enough times that the dread stops arriving before the observation does.
+The name comes from their foundational principle: death is a process, with a long approach, a transition, and an aftermath, and most people refuse to examine that process because they're afraid of what's in it. The Monks study death the way a naturalist studies a river, observing the current, the depth, the specific quality of a given crossing, and how this death differs from the last one and the next one. The work is contemplative and the affect is serene, but that serenity took years to earn — it's what's left once someone has looked at the thing directly enough times that the dread stops arriving before the observation does.
 
-They are called Monks of the *Long* Death specifically because they are against shortcuts. Resurrection pulls a soul back before its passage is complete. Plane-shifting to avoid death circumvents the process entirely. Soul trafficking redirects a transit that was already underway. All of these are, in the Monks' view, a violence against the natural order — not a moral violence but a structural one, the way redirecting a river is a violence against the watershed. The river doesn't care. The damage is real regardless.
+They are called Monks of the *Long* Death specifically because they are against shortcuts. Resurrection pulls a soul back before its passage is complete. Plane-shifting to avoid death circumvents the process entirely. Soul trafficking redirects a transit that was already underway. The Monks consider all three a structural violence against the natural order, the same way redirecting a river does violence to its watershed. The river doesn't care. The damage is real regardless.
 
 ## Leadership & Members
 

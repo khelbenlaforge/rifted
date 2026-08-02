@@ -1,14 +1,13 @@
 ---
 created: 2026-06-24T18:54:17
-
-title: "Knights of the Eternal Order"
-aliases:
+title: Knights of the Eternal Order
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-06-24T18:54:17
+updated: 2026-08-02T14:00:12
 ---
 
 # Knights of the Eternal Order
@@ -26,7 +25,7 @@ updated: 2026-06-24T18:54:17
 
 The Knights of the Eternal Order are the paladins of the [[Temple of Kelemvor]], and their specific charge is the Threshold Gates — three archways in the temple's Knights' hall that open, at certain hours, onto the Abyss, the Nine Hells, and the Outplane. The Knights stand before them at all times. Not to prevent passage. To ensure it goes the right way.
 
-Every cross-planar transit in [[Crystal City]] that runs through legitimate channels runs through the Knights. They authorize outbound trips into the planes. They intercept unsanctioned arrivals. They return the dead to the appropriate destination when something or someone tries to interfere with the process. They are not gatekeepers in the bureaucratic sense — they are the gate itself, standing upright.
+Every cross-planar transit in [[Crystal City]] that runs through legitimate channels runs through the Knights. They authorize outbound trips into the planes. They intercept unsanctioned arrivals. They return the dead to the appropriate destination when something or someone tries to interfere with the process. Call them gatekeepers and they'll correct you: a gatekeeper stands beside the gate. They stand as it, upright and immovable.
 
 The name is a statement of scope: *eternal* because death does not end, and *order* because the Knights are what keeps it from becoming chaos.
 

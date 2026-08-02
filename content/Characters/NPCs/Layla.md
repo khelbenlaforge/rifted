@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-07-28T00:55:26
+updated: 2026-08-02T14:01:49
 ---
 
 # Layla
@@ -36,7 +36,7 @@ Layla believes in the integrity of the ledger. Promises made — by gods, by mor
 
 Then she found the first displaced soul.
 
-She is warm because she has always been warm — her friendship with [[Perrin Quickquill]] was real, the years of shared work and shared meals and shared frustrations were real. She is not a cold operator wearing a human face. She is a person who found an injustice too large to ignore and spent two years trying to find anyone with the will to act on it before concluding, with exhaustion more than conviction, that there was only one.
+She is warm because she has always been warm — her friendship with [[Perrin Quickquill]] was real, the years of shared work and shared meals and shared frustrations were real. She is a person who found an injustice too large to ignore, not a cold operator wearing a human face, and she spent two years trying to find anyone with the will to act on it before concluding, with exhaustion more than conviction, that there was only one.
 
 She does not perform cruelty. She does not enjoy harm. She has genuine principles — she will not kill to protect the operation, will not use living people as components, will not tell [[The Claret]] who she serves because she will not make them complicit in what they haven't chosen. She has lines. The question the party will eventually have to answer is whether the line she already crossed — using the arrival of five people from another world as a test of her matrix — is one they can forgive.
 
@@ -50,7 +50,7 @@ She found more. During the [[Time of Troubles]], the catastrophic divine displac
 
 [[Asmodeus]] had records. He had been trying to collect on those scattered contracts for decades and lacked only the planar access and technical infrastructure to complete the work. Layla had both. The negotiation took months. She went in knowing exactly what he was, and she came out with an agreement that was, by her reading, specific and bounded: she builds the retrieval matrix, he provides the resources and the divine coordinates she cannot source alone.
 
-She is not his servant. She is his contractor. She has told herself this carefully and often, and she is not wrong in the way she thinks she is wrong.
+She thinks of herself as his contractor rather than his servant. She has told herself this carefully and often, and she is not wrong in the way she thinks she is wrong.
 
 The illegal spell components she sources through [[The Claret]] are for highly precise planar engineering: anchoring lost souls, threading them back through the interplanar gap, returning them to where they were always meant to go. She has told herself, and has not yet stopped believing, that this is mercy.
 
@@ -58,7 +58,7 @@ On High Harvestide, Year 222 PA, she was positioned in the [[Sanctum]] below the
 
 ## Role in the Story
 
-Layla is the thread connecting the party's arrival in [[Aenath]] to the unfinished business of the [[Time of Troubles]]. She is not the final antagonist — she is a believer operating inside a much larger design whose full shape she has not been shown. What she wants and what [[Asmodeus]] wants overlap, and she has not yet confronted the gap between them.
+Layla is the thread connecting the party's arrival in [[Aenath]] to the unfinished business of the [[Time of Troubles]]. Rather than a final antagonist, she's a believer operating inside a much larger design whose full shape she has not been shown. What she wants and what [[Asmodeus]] wants overlap, and she has not yet confronted the gap between them.
 
 Whether she can be reached — whether the genuine warmth she carries toward [[Perrin Quickquill]] and others constitutes a crack in her conviction — is one of the campaign's live questions.
 

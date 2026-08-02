@@ -1,19 +1,13 @@
 ---
-
-
-
-
-
-
 title: Elminster's Spellbook
 aliases: []
 tags:
-  - item
+- item
 campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-07-09T01:02:43
+updated: 2026-08-02T14:00:03
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -34,7 +28,7 @@ When [[Lady Blackstaff]] examined the book at [[Blackstaff Mansion]], she recogn
 
 **Carrier:** [[The Exodus/The Door Kickers/PCs/Lea]]
 
-This spellbook contains a selection of [[Elminster]]'s original spells — not copies, but his working drafts. Lea can read and prepare any spell contained within that is of a level she can currently cast. She cannot transcribe them into her own spellbook while in the dungeon — that requires time, quiet, and proper materials.
+This spellbook contains a selection of [[Elminster]]'s original spells: his own working drafts, unaltered since he wrote them. Lea can read and prepare any spell contained within that is of a level she can currently cast. She cannot transcribe them into her own spellbook while in the dungeon — that requires time, quiet, and proper materials.
 
 As Lea gains levels and can cast higher-level spells, more of the book's contents become legible to her. At **Level 3** she can read and prepare 1st–2nd level spells. The cantrip is locked — see below.
 

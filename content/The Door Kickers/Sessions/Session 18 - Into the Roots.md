@@ -1,15 +1,15 @@
 ---
-title: Session 18 — Into the Roots
+title: "Session 18 \u2014 Into the Roots"
 aliases:
-  - Session 18
+- Session 18
 tags:
-  - session
+- session
 campaign: Rifted
 date: 2026-05-26
 session: 18
 secret: false
 created: 2026-05-26T00:00
-updated: 2026-05-26T16:26
+updated: 2026-08-02T14:11:57
 ---
 
 # Session 18 — Into the Roots
@@ -24,7 +24,7 @@ The murals hadn't changed. The same gods watched from the same walls. Somewhere 
 
 [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augie]] woke to a room that had grown while he was unconscious — a bugbear he didn't recognize, a gnome in the corner performing drunk with the precision of someone who had done it many times for many audiences, and a rat in a tiny rogue outfit that made eye contact and declined to look away.
 
-The items found their bearers before their bearers found them. Something had settled against Augie in the night — not a physical weight, exactly, or not only that. The mark of [[Kelemvor Lyonsbane|Kelemvor]]'s attention, pressed into him from a ceremony he hadn't been present for. A god's claim made while he was somewhere else, with the particular form of patience that doesn't explain itself: a hand on the shoulder that doesn't quite lift. He didn't get a manual. He got the weight of it. The Unclassified Specimen was already in [[The Exodus/The Door Kickers/PCs/Shen]]'s hands when he registered reaching for it, his patron arriving in the clipped, barely-contained tone it uses when something has caught its interest and it is choosing not to say why yet.
+The items found their bearers before their bearers found them. Something had settled against Augie in the night — not a physical weight, exactly, or not only that. The mark of [[Kelemvor Lyonsbane|Kelemvor]]'s attention, pressed into him from a ceremony he hadn't been present for. A god's claim made while he was somewhere else, with the particular form of patience that doesn't explain itself: a hand on the shoulder that doesn't quite lift. He didn't get a manual. He got the claim itself, settling in. The Unclassified Specimen was already in [[The Exodus/The Door Kickers/PCs/Shen]]'s hands when he registered reaching for it, his patron arriving in the clipped, barely-contained tone it uses when something has caught its interest and it is choosing not to say why yet.
 
 Through the Brand's enhanced senses, Augie smelled the power from A56 before anyone spoke of moving. Something south. Something waiting. The violet pulse agreed.
 
@@ -60,9 +60,9 @@ He woke mid-battle and joined the fight without introduction. There was nothing 
 
 ## A Word and a Door
 
-[[The Exodus/The Door Kickers/PCs/Lea]] ended it — not with force, but with a word placed precisely in the right mind at the right moment.
+[[The Exodus/The Door Kickers/PCs/Lea]] ended it with a word placed precisely in the right mind at the right moment, no force required.
 
-*Suggestion*, landed clean: stop attacking the party, let everyone go. [[Belak]] considered this. Complied. His expression held something that might have been acknowledgment — not surprise, exactly, but the look of a man who knows when a negotiation has moved past his position. He had never been afraid to lose. He had always been afraid of something else.
+*Suggestion*, landed clean: stop attacking the party, let everyone go. [[Belak]] considered this. Complied. His expression held something that might have been acknowledgment, the look of a man who knows when a negotiation has moved past his position rather than genuine surprise. He had never been afraid to lose. He had always been afraid of something else.
 
 Then he cast Travel Through Plants and stepped into the [[Gulthias Tree]]'s trunk.
 
@@ -92,7 +92,7 @@ The party sat with this for a while.
 
 The aftermath was quick. Time had been what it had been.
 
-They came out of the Sunless Citadel and walked back north to [[Sunhold]], where the [[Hucrele Family]] paid what they'd promised for the retrieval of Sharwyn and Braford — both alive, both recovering, neither one entirely the person they'd been before the vine-roots got into them. [[Balsag]] said his farewells the way he does everything: not sentimental, but weighted, a promise attached without ceremony. *When you call.* Then he was gone back into whatever the bugbear's business was, leaving the promise behind like a stone set in place.
+They came out of the Sunless Citadel and walked back north to [[Sunhold]], where the [[Hucrele Family]] paid what they'd promised for the retrieval of Sharwyn and Braford — both alive, both recovering, neither one entirely the person they'd been before the vine-roots got into them. [[Balsag]] said his farewells the way he does everything: no sentiment in it, just weight, a promise attached without ceremony. *When you call.* Then he was gone back into whatever the bugbear's business was, leaving the promise behind like a stone set in place.
 
 Two weeks of road northward. [[Crystal City]] waiting at the end of it. And the rest of their lives as people who had walked into a dungeon and come out knowing considerably more than was comfortable.
 

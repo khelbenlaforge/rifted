@@ -1,14 +1,14 @@
 ---
-title: Session 11 — Echoes of Divinity
+title: "Session 11 \u2014 Echoes of Divinity"
 aliases:
-  - Session 11
+- Session 11
 tags:
-  - session
+- session
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T05:22
-updated: 2026-03-25T14:24
+updated: 2026-08-02T13:59:32
 ---
 
 # Session 11 — Echoes of Divinity
@@ -129,9 +129,9 @@ JJ tried to convince the gods of good to relent. Slowly, painfully, with more fa
 
 And then he stopped.
 
-Because this wasn't a rescue. This wasn't good versus evil. The infernal gods surrounding Ember weren't attacking her — they were *drawn* to her. And the lawful gods at Augustus's back weren't there to fight darkness — they were there to understand their place *alongside* it.
+Because this wasn't a rescue, and it wasn't good versus evil. The infernal gods surrounding Ember were *drawn* to her rather than attacking her. And the lawful gods at Augustus's back had come to understand their place *alongside* the darkness, not to fight it.
 
-Augustus made the most un-paladin-like decision of his life. He stopped fighting and started *merging*. Law into chaos. Order into destruction. And when he did — when his gods of structure and protection opened themselves to the entities they had always opposed — the two groups *fused*. Not peacefully. Not comfortably. But completely.
+Augustus made the most un-paladin-like decision of his life. He stopped fighting and started *merging*. Law into chaos. Order into destruction. And when he did — when his gods of structure and protection opened themselves to the entities they had always opposed — the two groups *fused*. It wasn't peaceful or comfortable. It was complete.
 
 ### Gill Bates — The Primordial Harmony
 
@@ -147,9 +147,7 @@ He began moving toward the center, and as his group passed other deity factions,
 
 It began as a point. A brightness at the center of the battlefield that was not warmth, not holiness, not destruction. It was *other*. So far beyond the concepts of good and evil and neutrality that the words themselves became meaningless in its presence.
 
-The light grew. It spread across the landscape of the door, consuming the echoes, dissolving the manifestations, erasing the very fabric of the test. And the party understood — or began to — that this was the point. This light was what the gods themselves feared. Not each other. Not the ancient wars between law and chaos, good and evil, nature and civilization.
-
-*This.*
+The light grew. It spread across the landscape of the door, consuming the echoes, dissolving the manifestations, erasing the very fabric of the test. And the party understood — or began to — that this was the point. This light, not each other and not the ancient wars between law and chaos, good and evil, nature and civilization, was what the gods themselves feared.
 
 If the deities did not come together, this force would consume everything. A universe rendered meaningless. Not destroyed — just... unmade. Rendered irrelevant.
 
@@ -177,7 +175,7 @@ Beauty.
 
 Opposite her, [[Gond]] — the Wonderbringer, the god of craft and invention — held a smith's hammer above the world. Not threatening. *Shaping*. As though the world were still being forged, still being tempered, still becoming whatever it was meant to be.
 
-And flanking them both, the dragon gods. [[Bahamut]] the Platinum, and [[Takhisis]] the Chromatic. Not at each other's throats. Not locked in eternal opposition. They faced *outward*, wings spread, in a stance of protection. Guarding the world from whatever lay beyond it.
+And flanking them both, the dragon gods. [[Bahamut]] the Platinum, and [[Takhisis]] the Chromatic, neither at the other's throat nor locked in the opposition their myths demanded. They faced *outward*, wings spread, in a stance of protection, guarding the world from whatever lay beyond it.
 
 Below them all, carved into the floor with the precision of something far older than mortal craft, the symbols of the four primordial elemental gods. [[Istishia]] — Gil's own deity — among them. The foundation upon which everything else rested.
 
@@ -195,9 +193,7 @@ It looked like an exodus.
 
 No — it looked like a *flight*.
 
-And at the rear — covering the retreat, holding a line against something the mural didn't fully show — the gods of the lower planes. [[Asmodeus]]. Devils and demons. The entities that every faith tradition calls evil, standing between the fleeing lights and whatever they were fleeing *from*. Not conquering. Not corrupting.
-
-*Defending.*
+And at the rear — covering the retreat, holding a line against something the mural didn't fully show — the gods of the lower planes. [[Asmodeus]]. Devils and demons. The entities that every faith tradition calls evil, standing between the fleeing lights and whatever they were fleeing *from*, not conquering or corrupting but defending.
 
 The mural looped around the walls, and the party followed it, and followed it, and it did not explain itself. The rolls were bad. The knowledge checks failed. The intelligence scores came up short. But the *seeing* was enough. The image would stay with them — all of them — longer than any spell or sword wound.
 

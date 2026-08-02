@@ -1,15 +1,15 @@
 ---
 title: Corran
 aliases:
-  - The Archmage of Sacrifice
+- The Archmage of Sacrifice
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: dead
 created: 2026-03-16T04:22
-updated: 2026-04-01T19:05
+updated: 2026-08-02T14:00:15
 ---
 
 # Corran
@@ -26,7 +26,7 @@ updated: 2026-04-01T19:05
 > | Affiliation | Ancient [[Corranor]] |
 
 ## Description
-Histories describe [[Corran]] as a figure of immense presence -- jet-black hair, a full beard, and flowing robes that seemed to ripple with barely contained arcane force. Those who have witnessed him in visions speak of an aura so potent it thickened the air itself, at once commanding and strangely serene. He was a man who carried the weight of worlds on his shoulders and bore it without complaint.
+Histories describe [[Corran]] as a figure of immense presence -- jet-black hair, a full beard, and flowing robes that seemed to ripple with barely contained arcane force. Those who have witnessed him in visions speak of an aura so potent it thickened the air itself, at once commanding and strangely serene. He carried the fate of worlds on his shoulders and never once complained about the load.
 
 ## Background
 When reality itself threatened to tear apart during the great cataclysm that shattered [[Aenath]], [[Corran]] stood at the centre of the storm. Chanting ancient incantations of containment, he channelled arcane energies beyond mortal reckoning to bind a catastrophic force that would have consumed everything. His final act was one of entombment -- he sealed himself within the massive rock formation now known as [[Corran's Spike]], alongside constructs of his own creation, ensuring the survival of the peoples who would go on to build [[Corranor]].

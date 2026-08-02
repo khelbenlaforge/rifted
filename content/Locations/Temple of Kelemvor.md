@@ -1,14 +1,14 @@
 ---
 title: Temple of Kelemvor
-aliases:
+aliases: null
 tags:
-  - location
-  - location/temple
+- location
+- location/temple
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
 created: 2026-06-24T16:56
-updated: 2026-06-24T16:56
+updated: 2026-08-02T13:59:13
 ---
 
 # Temple of Kelemvor
@@ -32,7 +32,7 @@ At the far end of the Knights' hall, three archways stand taller than the surrou
 
 - **The Hall of Three Factions** — The temple's nave, where all three orders share the floor without quite sharing space. The Monks of the Long Death occupy the eastern ambulatory; the Priesthood runs the center; the Knights hold the western passage to the gates. Each has its own protocols and its own silence.
 - **The Processing Chambers** — Where newly-deceased souls are assessed for their destination. The work is clerical in both senses: paperwork and prayer in equal measure. Visitors are not welcome, but they are not turned away if they have reason to be there.
-- **The Threshold Gates** — Three archways in the Knights' hall opening toward the Abyss, the Nine Hells, and the Outplane respectively. They are not always open. When they are, the temperature in the hall drops and the ambient sound changes — not louder, but present in a way it wasn't before. The neutral gate, the one that leads to the Outplane, is open most often.
+- **The Threshold Gates** — Three archways in the Knights' hall opening toward the Abyss, the Nine Hells, and the Outplane respectively. They are not always open. When they are, the temperature in the hall drops and a sound enters the room that wasn't there a moment ago — quiet, but unmistakable. The neutral gate, the one that leads to the Outplane, is open most often.
 - **The Neutral Cloister** — A side chamber maintained for the godless, the unaffiliated, and the genuinely uncertain. Kelemvor does not hold anyone. The Cloister is where the Priesthood ensures that principle is correctly administered.
 - **The Feud Wall** — Not a formal feature, but every clerk and junior paladin knows which alcove faces toward [[Mystra]]'s temple district. The institutional memory of wild magic destabilizing cosmic transit is long and is maintained deliberately.
 
@@ -53,11 +53,11 @@ Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, an
 
 ## Scene Features
 
-**Atmosphere:** The temple does not grieve. It processes. Everyone who enters eventually understands that the neutrality is not indifference — it's the thing that makes the whole system work.
+**Atmosphere:** The temple does not grieve. It processes. Everyone who enters eventually understands the neutrality is what makes the whole system work — indifference wouldn't hold up under this much weight.
 
 ### Ambient Effects
 - Dim light throughout all public halls; bright light only in the Processing Chambers during active assessments.
-- Creatures inside have advantage on saving throws against the Frightened condition — the dead are already accounted for here, and the living feel the weight of that certainty.
+- Creatures inside have advantage on saving throws against the Frightened condition — the dead are already accounted for here, and that certainty settles over the living too.
 - When the Threshold Gates are open, all Perception checks within the Knights' hall are made with disadvantage (the planar hum is constant and disorienting).
 
 ### Lair Actions *(initiative count 20, choose one — can't repeat same action two rounds in a row)*
