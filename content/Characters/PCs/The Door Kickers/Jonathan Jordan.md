@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-02T13:58:30
+updated: 2026-08-05T01:15:29
 ---
 
 # Jonathan Jordan
@@ -193,5 +193,10 @@ Jonathan earned 19 gp and spent 35 gp with Tavia, for a net change of -16 gp.
 - Was honest with Tavia about the party's goal of getting home and their suspicion of [[Layla]]'s involvement.
 - Tavia offered him a future position under her.
 - Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]].
+
+## Session 25
+
+- In [[Corvin's Hold]]'s Hub room, the cell door's bars rose and fell every time JJ came near it — never explained, flagged by Nanuk's instincts as dangerous and left alone.
+- Met [[Corvin Adder]] in person; formally brought into the Claret's first rung, reporting to [[Tavia Orn]].
 
 

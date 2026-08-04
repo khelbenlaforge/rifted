@@ -51,7 +51,107 @@ Kento fights with the same exacting patience that made him a craftsman. Every mo
 
 ## Character Sheet
 
-*Pending — run the `character-sheet-sync` skill when Foundry VTT is available to populate this section.*
+| Stat | Value |
+| --- | --- |
+| Level | 3 |
+| Class | Paladin (Oath of Vengeance) |
+| Race | Elf (High Elf Lineage) |
+| Background | Artisan |
+| HP (Max) | 28 |
+| AC | 18 |
+| Speed | 30 ft. |
+| Prof Bonus | +2 |
+| Vision | Darkvision 60 ft. |
+
+| Ability | Score | Modifier |
+| --- | --- | --- |
+| STR | 20 | +5 |
+| DEX | 10 | +0 |
+| CON | 11 | +0 |
+| INT | 11 | +0 |
+| WIS | 12 | +1 |
+| CHA | 16 | +3 |
+
+**Saving Throws:** STR +5 . DEX +0 . CON +0 . INT +0 . **WIS +3** . **CHA +5**
+
+**Resistances & Vulnerabilities:** None.
+
+**Skills:** Acrobatics +0 . Animal Handling +1 . Arcana +0 . Athletics +5 . Deception +3 . History +0 . Insight +3 . Intimidation +5 . Investigation +2 . Medicine +1 . Nature +0 . Perception +3 . Performance +3 . **Persuasion +5** . Religion +0 . Sleight of Hand +0 . Stealth +0 . Survival +1
+**Languages:** Celestial . Common . Elvish
+**Tools:** Alchemist's Supplies +2 . Carpenter's Tools +2 . Mason's Tools +2 . Smith's Tools +2
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Longsword** | M +7 | 5 ft. | 1d8+5 slash; 1d10+5 two-handed | — | — | — |
+| **Javelin** | M/R +7 | 5 ft.; 30/120 ft. | 1d6+5 pierce | — | — | — |
+| **Unarmed Strike** | M +7 | 5 ft. | 6 bludgeon | — | — | — |
+| **Holy Water** | DEX 10 | 20 ft. | 2d8 radiant vs Fiend/Undead on failed save | — | — | 1 use |
+| **Booming Blade** | M +7 | 5 ft. | Weapon hit; +1d8 thunder if target willingly moves 5+ ft. before Kento's next turn | 0 | S, M† | — |
+| **Bane** | CHA 13 | 30 ft. | Up to 3 targets: -1d4 atk/saves on failed save; 1 min. | 1 | V, S, M (blood) | Conc. |
+| **Detect Magic** | — | Self | Sense magic within 30 ft. for 10 min.; Magic action reveals auras and schools | 1 | V, S | Ritual · 1/LR free |
+| **Vow of Enmity** | — | 30 ft. | When taking Attack action, gain adv. vs one target for 1 min.; transfer on its defeat | 3 | — | Channel Divinity |
+| **目利き: Craftsman's Eye** | — | 30 ft. | Identify one critical flaw in object, mechanism, or plan (DM judgment) | 3 | — | 1/SR |
+
+*† Booming Blade: M = melee weapon worth at least 1 sp.*
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Lay on Hands** | — | Touch | Restore up to 15 HP from pool, or spend 5 to cure Poisoned | 1 | — | Pool 15/LR |
+| **Divine Sense** | — | 60 ft. | Detect Celestials, Fiends, Undead, consecrated/desecrated places or objects for 10 min. | 3 | — | Channel Divinity |
+| **Divine Favor** | — | Self | Weapon hits deal +1d4 radiant for 1 min. | 1 | V, S | — |
+| **Divine Smite** | — | Self | After melee/unarmed hit: +2d8 radiant (+1d8 vs Fiend/Undead); slot raises damage | 1 | V | Slot · 1/LR |
+| **Hunter's Mark** | — | 90 ft. | Mark target: +1d6 force on hit; adv. to find it; move mark after it drops; 1 hr. | 1 | V | Conc. |
+| **Searing Smite** | — | Self | After melee/unarmed hit: +1d6 fire; 1d6 fire at start of each of target's turns, CON 13 ends; 1 min. | 1 | V | Conc. |
+| **Thunderous Smite** | STR 13 | Self | After melee/unarmed hit on a creature: +2d6 thunder; pushed 10 ft. and Prone on failed save | 1 | V | — |
+| **Wrathful Smite** | WIS 13 | Self | After melee/unarmed hit: +1d6 necrotic; Frightened 1 min., repeats save at end of each of its turns | 1 | V | — |
+
+### Reactions
+
+*None at this level.*
+
+---
+
+### Features
+
+- **Channel Divinity** — 2 uses; regain 1 on a Short Rest and all on a Long Rest. Save DC 13.
+- **Weapon Mastery** — Two weapon choices may be assigned after a Long Rest; the native export does not record Kento's current assignments.
+- **Fighting Style: Great Weapon Fighting** — While holding a two-handed or Versatile weapon with two hands, treat 1s and 2s on its damage dice as 3s.
+- **Paladin's Smite** — Divine Smite is always prepared and can be cast once per Long Rest without a spell slot.
+- **High Elf Lineage** — Knows *Prestidigitation* (replaceable on a Long Rest); *Detect Magic* is always prepared and may be cast once/LR without a slot. *Misty Step* begins at character level 5.
+- **Fey Ancestry / Trance** — Adv. on saves against Charmed; magic can't put Kento to sleep; a conscious 4-hour trance completes a Long Rest.
+- **Keen Senses** — Proficiency in Insight.
+- **Crafter** — 20% discount on nonmagical items; after a Long Rest, can craft one temporary item from the Fast Crafting table using the appropriate proficient artisan's tools.
+- **目利き** *(attuned)* — **The Flaw:** first hit each turn against a creature already damaged this combat deals +1d6 radiant. **Second Offense:** from Kento's second hit on a creature onward, it has disadv. on attacks against others until end of its next turn. **Bloodline Resonance:** warms near masterwork blades and their smiths (narrative only).
+
+---
+
+### Spellcasting
+
+**Spellcasting Ability:** CHA · **Spell Save DC:** 13 · **Spell Attack:** +5
+
+**Spell Slots:** 1st—3
+
+**Cantrips:** *Booming Blade*. *Prestidigitation* is granted by High Elf Lineage but is absent from the native export.
+
+**1st Level:** *Bane* (Oath of Vengeance, always prepared) · *Detect Magic* (High Elf Lineage, always prepared; 1/LR without a slot) · *Divine Favor* · *Divine Smite* (Paladin's Smite, always prepared; 1/LR without a slot) · *Hunter's Mark* (Oath of Vengeance, always prepared) · *Searing Smite* · *Thunderous Smite* · *Wrathful Smite*
+
+#### Ritual Spells
+
+- *Detect Magic* (High Elf Lineage, 1st) — 10 min cast — sense magical effects within 30 ft.; Magic action reveals auras and spell schools.
+
+---
+
+### Inventory
+
+- **Armor:** Chain Mail; Shield
+- **Magic Items:** 目利き *(attuned)*
+- **Gear:** Holy Symbol, Backpack, Blanket, Lamp, 7 Rations, Robe, Tinderbox, Pouch, Traveler's Clothes; 41 gp
 
 ---
 

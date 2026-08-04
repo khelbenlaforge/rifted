@@ -49,7 +49,93 @@ Kai fights from angles no one's watching and is usually gone before the fight re
 
 ## Character Sheet
 
-*Pending — run the `character-sheet-sync` skill when Foundry VTT is available to populate this section.*
+| Stat | Value |
+| --- | --- |
+| Level | 3 |
+| Class | Rogue (Scout) |
+| Race | Half-Elf (Variant; Aquatic Elf Descent) |
+| Background | Baldur's Gate Criminal |
+| HP (Max) | 22 |
+| AC | 15 |
+| Speed | 30 ft. |
+| Prof Bonus | +2 |
+| Vision | Darkvision 60 ft. |
+
+| Ability | Score | Modifier |
+| --- | --- | --- |
+| STR | 10 | +0 |
+| DEX | 19 | +4 |
+| CON | 14 | +2 |
+| INT | 11 | +0 |
+| WIS | 12 | +1 |
+| CHA | 8 | -1 |
+
+**Saving Throws:** STR +0 . **DEX +6** . CON +2 . **INT +2** . WIS +1 . CHA -1
+
+**Resistances & Vulnerabilities:** None.
+
+**Skills:** Acrobatics +6 . Animal Handling +1 . Arcana +0 . Athletics +0 . Deception +1 . History +0 . Insight +1 . Intimidation -1 . Investigation +0 . Medicine +1 . **Nature +4** *(expertise)* . **Perception +5** *(expertise)* . Performance -1 . Persuasion -1 . Religion +0 . Sleight of Hand +6 . Stealth +6 . **Survival +5** *(expertise)*
+**Languages:** Common . Draconic . Elvish . Thieves' Cant
+**Tools:** Playing Card Set +2 . Thieves' Tools +2
+
+---
+
+### Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Dagger** | M/R +6 | 5 ft.; 20/60 ft. | 1d4+4 pierce | — | — | — |
+| **Shortsword** | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
+| **Shortbow** | R +6 | 80/320 ft. | 1d6+4 pierce; ammunition (20 arrows) | — | — | — |
+| **Unarmed Strike** | M +2 | 5 ft. | 1 bludgeon | — | — | — |
+| **Grapple** | STR/DEX 10 | 5 ft. | Target gains Grappled on failed save | — | — | — |
+| **Shove** | STR/DEX 10 | 5 ft. | Push 5 ft. or Prone on failed save | — | — | — |
+| **Oil (flask)** | DEX 14 | 20 ft. | 5 fire on failed save; splash target/space | — | — | 7 uses |
+
+### Bonus Actions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Cunning Action** | — | Self | Dash, Disengage, or Hide | 2 | — | — |
+| **Steady Aim** | — | Self | Adv. on next atk this turn; spd 0 | 3 | — | — |
+
+### Reactions
+
+| Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Steel Yourself** | — | Self | After failing vs Charmed/Frightened, add +2 | 1 | — | 1/LR |
+| **Skirmisher** | — | Self | When foe ends within 5 ft., move ½ spd; no OA | 3 | — | — |
+
+---
+
+### Features
+
+- **Sneak Attack** — Once per turn, add 2d6 damage (same type) to a Finesse or Ranged weapon hit with adv., or when a non-Incapacitated ally is within 5 ft. of the target and Kai lacks disadv.
+- **Expertise** — Nature, Perception, and Survival use doubled proficiency.
+- **Weapon Mastery** — Two weapon choices may be assigned after a Long Rest; the native export does not record Kai's current assignments.
+- **Fey Ancestry** — Adv. on saves against Charmed; magic can't put Kai to sleep.
+- **Skill Versatility** — Proficiency in Perception and Survival.
+- **Survivor: Hypervigilance** — On initiative, reroll a d20 result of 9 or lower; use the new roll.
+- **Criminal Contact** — Has a reliable criminal-network liaison; Baldur's Gate Criminal Connections remains setting-limited.
+- **畅通无阻** *(attuned)* — **First Move:** first adv.-rolled hit each turn deals +1d6 damage of that attack's type. **Reading the Ground:** difficult terrain is normal terrain; senses traps and natural hazards within 30 ft. (still must search to disarm or avoid). **Second-Guess:** before an Investigation, Perception, or Survival check to judge safety, gain adv. (1/SR). **Ren's Silence:** the whistle makes no sound (narrative only).
+
+---
+
+### Spellcasting
+
+None.
+
+#### Ritual Spells
+
+*None.*
+
+---
+
+### Inventory
+
+- **Armor:** Leather Armor
+- **Magic Items:** 畅通无阻 *(attuned)*
+- **Gear:** Backpack, Quiver, Thieves' Tools, Playing Card Set, Ball Bearings, Bell, 10 Candles, Crowbar (2), Hooded Lantern, 5 Rations, Rope, Tinderbox, Waterskin, Dark Common Clothes with Hood, Pouch; 23 gp
 
 ---
 
