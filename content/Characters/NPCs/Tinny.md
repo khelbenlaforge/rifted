@@ -1,12 +1,13 @@
 ---
 title: Tinny
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-06-24
 secret: false
 state: alive
+updated: 2026-08-05T01:15:12
 ---
 
 # Tinny

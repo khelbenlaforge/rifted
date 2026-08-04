@@ -32,7 +32,7 @@ A northern port settlement on the [[Corranor]] mainland, buffeted by brisk coast
 - Confirmed regional city north of [[Crystal City]]
 - [[Azure Tamers]] operate in the region
 - Mines the northern region's resources as its primary regional role
-- Mentioned alongside [[Colford]] in the Session 21 geographic survey
+- Mentioned alongside [[Coldford]] in the Session 21 geographic survey
 
 ## Notable Residents
 

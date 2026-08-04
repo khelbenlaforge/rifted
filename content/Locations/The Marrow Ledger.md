@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-07-27
 secret: false
-updated: 2026-07-29T22:04:39
+updated: 2026-08-05T01:26:15
 ---
 
 > [!infobox|right wikipedia]+
@@ -19,7 +19,9 @@ updated: 2026-07-29T22:04:39
 > | Region | [[Corvin's Hold]] |
 > | Access | Behind the Toll Door's blood-basin panel |
 
-A ledger vault inside [[Corvin's Hold]] with floor-to-ceiling shelves of Claret ledgers recording money transfers (huge sums per transaction); an open, dated major-client account on a reading stand has its buyer's name coded/redacted, which [[The Exodus/The Door Kickers/PCs/Lea|Lea]]'s *Elminster's Inquiry* identified as "Layla and Asmodeus."
+A ledger vault inside [[Corvin's Hold]] with floor-to-ceiling shelves of Claret ledgers recording money transfers (huge sums per transaction; five silver a month per account); an open, dated major-client account on a reading stand has its buyer's name coded/redacted, which [[The Exodus/The Door Kickers/PCs/Lea|Lea]]'s *Elminster's Inquiry* identified in three words as "Layla and Asmodeus."
+
+Older ledgers on the shelves turned up other names in passing: [[House Verenthal|Verenthal]], [[Tinny]] (ticked off), a scattering of Academy librarians and lecturers, and a few religious titles. No Blackstaff family entries. No entry tied to the Director of Antiquities either.
 
 ---
 Region:: [[Corvin's Hold]]
