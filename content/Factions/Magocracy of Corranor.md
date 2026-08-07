@@ -1,13 +1,13 @@
 ---
 title: Magocracy of Corranor
-aliases:
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-08-05T16:27:06
 ---
 
 # Magocracy of Corranor
@@ -30,7 +30,7 @@ The formal political entity governing all of [[Corranor]]'s scattered landmasses
 
 ## History
 
-The first peoples awoke amid violent land formation — earth heaving, magma erupting, rock twisting into impossible shapes. The archmage [[Corran]] sacrificed himself to stabilize the chaos, creating [[Corran's Spike]] and allowing civilization to take root. Over the following centuries, the survivors rebuilt, developed arcane infrastructure, and recently ended their isolation by establishing airship routes to distant continents.
+The first peoples awoke amid violent land formation — earth heaving, magma erupting, rock twisting into impossible shapes. The archmage [[Corran Blackstaff|Corran]] sacrificed himself to stabilize the chaos, creating [[Corran's Spike]] and allowing civilization to take root. Over the following centuries, the survivors rebuilt, developed arcane infrastructure, and recently ended their isolation by establishing airship routes to distant continents.
 
 ## Landmass Types
 

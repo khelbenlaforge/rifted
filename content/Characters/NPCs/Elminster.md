@@ -1,11 +1,4 @@
 ---
-
-
-
-
-
-
-
 title: Elminster
 aliases:
   - Elminster Aumar
@@ -197,5 +190,4 @@ Class:: Wizard
 Location:: [[Shadowdale]]
 Affiliation:: [[Mystra]]
 Deity:: [[Mystra]]
-
 

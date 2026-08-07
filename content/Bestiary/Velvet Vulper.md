@@ -1,15 +1,15 @@
 ---
 title: Velvet Vulper
 aliases:
-  - Velvet Vulpers
+- Velvet Vulpers
 tags:
-  - creature
-  - creature/fey
+- creature
+- creature/fey
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-14T00:00
-updated: 2026-03-17T19:38
+updated: 2026-08-05T16:30:59
 ---
 
 # Velvet Vulper

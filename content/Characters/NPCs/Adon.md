@@ -1,8 +1,8 @@
 ---
 title: Adon
-aliases: null
+aliases:
 tags:
-- npc
+  - npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
@@ -48,6 +48,21 @@ It will build slowly. Adon serves a goddess who holds beauty as sacred. He carri
 ## Role in the Vision
 
 A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[The Exodus/The Door Kickers/PCs/Gill Bates]] temporarily inhabited Adon's body.
+
+## Session 15
+
+In the Temple of Lathander, during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
+
+The scar is permanent. For a cleric of [[Sune]] — the goddess of beauty — this is not a minor wound. How Adon reconciles a god of beauty's silence at the moment her chosen was permanently scarred is a question he has not yet had to face.
+
+---
+Race:: Human
+Subrace::
+Pronouns:: he/him
+Class:: Cleric
+Location:: [[Shadowdale]]
+Affiliation:: Church of [[Sune]]
+Deity:: [[Sune]]
 
 ## Character Sheet
 
@@ -199,20 +214,4 @@ Arcana +6† · History +3 · Insight +5 · Medicine +5 · Religion +6† · Sur
 **Armor (equipped):** Chain Shirt, Shield
 **Magic Items:** Guild Brass Armlet
 **Gear:** Holy Symbol, Backpack, Blanket, Lamp, Tinderbox, Rations ×7, Fishing Tackle, Favorite Fishing Lure, Robe, Traveler's Clothes, Pouch
-
-## Session 15
-
-In the Temple of Lathander, during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
-
-The scar is permanent. For a cleric of [[Sune]] — the goddess of beauty — this is not a minor wound. How Adon reconciles a god of beauty's silence at the moment her chosen was permanently scarred is a question he has not yet had to face.
-
----
-Race:: Human
-Subrace::
-Pronouns:: he/him
-Class:: Cleric
-Location:: [[Shadowdale]]
-Affiliation:: Church of [[Sune]]
-Deity:: [[Sune]]
-
 

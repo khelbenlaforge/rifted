@@ -1,14 +1,15 @@
 ---
 title: Gulthias Tree
 aliases:
+- The Gulthias Tree
 tags:
-  - lore
-  - lore/magic
+- creature
+- creature/plant
+- npc
 campaign: Rifted
-introduced:
 secret: false
-created: 2026-04-18T12:57
-updated: 2026-04-18T12:57
+updated: 2026-08-05T17:57:33
+created: 2026-08-05T16:24:05
 ---
 
 # Gulthias Tree
@@ -24,7 +25,7 @@ updated: 2026-04-18T12:57
 
 ## Description
 
-A massive, twisted tree growing at the heart of the Twilight Grove beneath the [[Sunless Citadel]], suffused with necromantic and draconic magical energy. It does not appear alive in any natural sense — it does not sway, does not rustle. It radiates a cold, patient malevolence. Everything [[Belak]] cultivates draws power from it.
+An ancient vampire-tree rooted at the heart of the Twilight Grove beneath the [[Sunless Citadel]], pulsing with a slow violet heartbeat through the briars and exposed roots around it. It does not appear alive in any natural sense — it does not sway, does not rustle. It radiates a cold, patient malevolence, suffused with necromantic and draconic magical energy. Everything [[Belak]] cultivates draws power from it.
 
 The tree is the transformed remains of [[Gulthias]] — a vampire high priest who was staked to the ground in this grove centuries ago. The stake took root. The wood grew. The vampiric corruption passed into it, and what emerged belongs to neither the living nor the dead.
 
@@ -52,6 +53,7 @@ The Gulthias Tree is the source of the Sunless Citadel's corruption and the mech
 
 Destroying the tree ends the blight spawning, frees thralls from compulsion, and kills [[Gork]] (whose life is bound to it). It also severs something larger. See DM Notes.
 
----
+## D&D 5e Stat Block
+
 
 

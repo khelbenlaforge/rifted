@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-02T13:58:42
+updated: 2026-08-05T16:27:18
 ---
 
 # Lea
@@ -31,7 +31,7 @@ Lea carries herself like someone who agreed to a responsibility before she under
 ## Origin
 Lea was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. She was one of three who underwent partial non-human changes during the crossing. [[Elmindaria L'Thorian]]'s magical scan revealed potent arcane potential within her, along with the loss of roughly half her essence -- slowly regenerating.
 
-Her visions during the crossing hinted at something ancient and deeply personal. In the first, she viewed through the eyes of a dark-haired woman by a campfire with an armoured warrior, watching a colossal glowing humanoid struck by an inky-black figure as the muffled words "Midnight. ke-le." sounded before darkness fell. In the second vision, she was incorporeal, drifting above the destruction of the Cataclysm. She whispered "I'm sorry, my child" to the robed figure of [[Corran]], who replied "Be well, my Lady!" -- a connection to a past life that suggests a deeper significance to her existence in [[Aenath]] than she yet understands.
+Her visions during the crossing hinted at something ancient and deeply personal. In the first, she viewed through the eyes of a dark-haired woman by a campfire with an armoured warrior, watching a colossal glowing humanoid struck by an inky-black figure as the muffled words "Midnight. ke-le." sounded before darkness fell. In the second vision, she was incorporeal, drifting above the destruction of the Cataclysm. She whispered "I'm sorry, my child" to the robed figure of [[Corran Blackstaff|Corran]], who replied "Be well, my Lady!" -- a connection to a past life that suggests a deeper significance to her existence in [[Aenath]] than she yet understands.
 
 ## Abilities
 Lea is a wizard in training, wielding arcane magic with growing proficiency. She has demonstrated practical spellcasting in the field -- using Prestidigitation to clean and reduce odours at [[The Stonehill Inn]], casting Detect Magic to analyse the [[Goblin Fruit]] (uncovering necromantic and divine/draconic energies), sensing necromantic magic behind hidden doors in the subterranean fortress, and employing Mage Hand to remotely trigger traps. Her magical awareness makes her invaluable in exploration and investigation, and she has shown bravery in combat despite nearly falling unconscious during the [[Goblin Bandits]] ambush.
@@ -42,7 +42,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 ## Key Events
 - **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
-- Experienced visions of the Cataclysm -- the campfire with the dark-haired woman and the spectral exchange with [[Corran]], who addressed her as "my Lady"
+- Experienced visions of the Cataclysm -- the campfire with the dark-haired woman and the spectral exchange with [[Corran Blackstaff|Corran]], who addressed her as "my Lady"
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
 - **1st-6th Marpenoth** -- Trained at the [[Ether Scryer's Academy]] under [[Elmindaria L'Thorian]]
 - **6th Marpenoth** -- Fell during [[Corranor]]'s descent to [[Aenath]]
@@ -64,7 +64,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 ## Relationships
 - **[[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
 - **[[Elmindaria L'Thorian]]** -- Mentor and instructor at the [[Ether Scryer's Academy]]; a demanding teacher who sees Lea's potential and its dangers
-- **[[Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
+- **[[Corran Blackstaff|Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
 - **[[Midnight]]** -- The Avatar Series wizard whose body Lea inhabited across three sessions of the prequel vision. The connection to Lea's crossing vision is now resolved: *"Midnight. ke-le."* was Midnight's name and Kelemvor's. In the final moments, Midnight became the instrument of [[Mystra]]'s last act — and the pendant she carried went cold in her hand

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-07-27T10:35:17
+updated: 2026-08-05T16:27:19
 ---
 
 # Terra
@@ -187,7 +187,7 @@ She was in a shelter in California when the light took her.
 ## Session 21
 
 - Arrived in [[Aenath]] via Layla's circle near [[Corran's Spike]] (approximately 12th Uktar)
-- Shared the Calamity vision on arrival: [[Corran]] pressing his hands to the earth as the Spike rose
+- Shared the Calamity vision on arrival: [[Corran Blackstaff|Corran]] pressing his hands to the earth as the Spike rose
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Pendant glowed with multiple types of magic
 - PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[The Exodus/The Door Kickers/PCs/Nanuk]]

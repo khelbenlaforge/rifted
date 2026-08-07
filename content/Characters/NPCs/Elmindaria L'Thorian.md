@@ -11,7 +11,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-02T13:58:47
+updated: 2026-08-05T16:23:03
 ---
 
 # Elmindaria L'Thorian
@@ -48,6 +48,16 @@ With the [[Adamantine Guild]] severely understaffed -- only herself, [[Istar Sil
 - Assigned by [[High Lorekeeper Miriam Brightquill]] as [[The Exodus/The Door Kickers/PCs/Lea]]'s instructor
 - Maintains a network of "nieces and nephews" among orphans and guild rookies
 - Target of the party's gold coin heist prank -- which she took in good humour
+
+## Tags
+Location:: [[Citrine District]], [[Crystal City]]
+Race:: Elf
+Subrace::
+Pronouns:: she/her
+Alignment:: Unknown
+Class:: Wizard
+Affiliation:: [[Adamantine Guild]], [[Ether Scryer's Academy]]
+Deity:: Unknown
 
 ## Character Sheet
 
@@ -182,19 +192,13 @@ Acrobatics +4 · Arcana +7 · History +7 · Insight +4 · Investigation +10★ �
 **Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Gaming Set, Fine Clothes, Perfume, Spellbook
 
 ---
-## Tags
-Location:: [[Citrine District]], [[Crystal City]]
-Race:: Elf
-Subrace::
-Pronouns:: she/her
-Alignment:: Unknown
-Class:: Wizard
-Affiliation:: [[Adamantine Guild]], [[Ether Scryer's Academy]]
-Deity:: Unknown
-
 ## Session 19
 
 Elmindaria asked [[Erky]] to cast Banishment on [[The Exodus/The Door Kickers/PCs/Shen]]'s patron. The spell produced a brief blue light and then failed completely: the patron was too powerful and was not supposed to exist in this universe. She is now apprehensive about Shen going forward.
+
+## Session 21
+
+Present at the guild's arena testing alongside [[Erky]]. Had [[Istar Silverlock]] serving punishment duties (cleaning, wearing an apron) under her authority — cause unrecorded.
 
 ## Session 22
 

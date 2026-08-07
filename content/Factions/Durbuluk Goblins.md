@@ -1,15 +1,15 @@
 ---
 title: Durbuluk Goblins
 aliases:
-  - Durbuluk
-  - Goblin Merchants
+- Durbuluk
+- Goblin Merchants
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T15:42
-updated: 2026-03-19T03:52
+updated: 2026-08-05T17:57:35
 ---
 
 # Durbuluk Goblins
@@ -32,18 +32,18 @@ The Durbuluk Goblins hold the northern sections of the [[Sunless Citadel]]'s Upp
 
 ## Leadership & Members
 
-- **[[Durnn]]** — Goblin chieftain; killed previous elders to take power; secretly negotiating peace with [[Ragh]] while maintaining public hostilities
+- **[[Durnn]]** — Goblin chieftain; killed previous elders to take power
 
-The Durbuluk hold [[Calcryx]] — the [[Ordahir Kobolds]]' white dragon wyrmling — per their secret arrangement with [[Ragh]]. The wyrmling is reportedly being kept safely.
+The Durbuluk hold [[Calcryx]] — the [[Ordahir Kobolds]]' white dragon wyrmling — captured during the ongoing conflict.
 
 ## Operations
 
 The Durbuluk hold goblin prisoners in kobold jail cells (accessible from kobold territory) and maintain control of the citadel's northern sections. Critically, they have an exclusive supply deal with [[Belak]] — the druid on the Grove Level — who provides magic fruit the goblins sell aboveground. [[Yusdrayl]] envies this arrangement and has been unable to replicate it.
 
-The Durbuluk are at active war with the [[Ordahir Kobolds]], though [[Durnn]]'s back-channel deal with [[Ragh]] suggests the war may be politically maintained rather than genuinely desired by the leadership on both sides.
+The Durbuluk are at active war with the [[Ordahir Kobolds]].
 
 ## Current Status
 
-**Actively hostile to the party's surface interests, but holding a valuable secret peace deal.** Durnn is keeping [[Calcryx]] safe per his agreement with Ragh. The party does not yet have a direct line to Durnn, but Ragh has offered to provide a guide to goblin territory in exchange for non-interference with his uprising.
+**Actively hostile to the party's surface interests.** The party does not yet have a direct line to Durnn, but [[Ragh]] has offered to provide a guide to goblin territory in exchange for non-interference with his uprising.
 
 

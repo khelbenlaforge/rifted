@@ -1,12 +1,13 @@
 ---
 title: Sapphire District
-aliases:
+aliases: null
 tags:
-  - location
-  - location/district
+- location
+- location/district
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
+updated: 2026-08-05T16:30:58
 ---
 
 # Sapphire District
@@ -27,7 +28,7 @@ The [[Magocracy of Corranor]] governs this district nominally. In practice, the 
 
 ## Features
 
-- **[[Sapphire Terrace]]** — A quiet salon run by [[Soral Vayne]], former household steward to the [[Hucrele Family]]. Old money gathers here to exchange information, settle scores, and remember what Crystal City was before the Council. The best introduction service in the city — and the most careful.
+- **Sapphire Terrace** — A quiet salon run by [[Soral Vayne]], former household steward to the [[Hucrele Family]]. Old money gathers here to exchange information, settle scores, and remember what Crystal City was before the Council. The best introduction service in the city — and the most careful.
 - **[[Hucrele Manor]]** — The Hucrele family's Crystal City estate, now largely vacant since the family's relocation to [[Sunhold]]. Maintained by a skeleton staff. [[Soral Vayne]] holds a key.
 - **Cassaveth House** — One of the oldest family estates in the district. Reclusive. Rarely holds public functions but will receive visitors who arrive with the right name.
 - **Irenmoor Walk** — A private promenade along the district's inner wall where families take their evening exercise. More business is conducted here than in any Council chamber.

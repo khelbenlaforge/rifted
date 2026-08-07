@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-08-02T13:58:00
+updated: 2026-08-05T16:27:15
 ---
 
 # Augustus Kennedy
@@ -35,7 +35,7 @@ He's still figuring out who he is now, caught between the man he remembers being
 ## Origin
 Augustus was transported from Earth on High Harvestide, Year 222 PA, appearing alongside four companions atop the [[Jade Spire]] in [[Crystal City]]. He was one of three among the group who underwent partial non-human changes -- in his case, a dramatic transformation into a warforged construct of metal and magic. A scan by [[Elmindaria L'Thorian]] revealed that roughly half of his essence was missing, though slowly regenerating. He was the only party member who remained standing during [[Corranor]]'s descent to the oceans of [[Aenath]], having been warned in advance by a [[Dwarven Bartender]] in the [[Garnet District]].
 
-During the crossing between worlds, Augustus experienced vivid visions: he witnessed a clifftop battle where a lion-headed titan was felled while a blindfolded colossus screamed in silent anguish. In a second vision, he was one of four constructs pushing against [[Corran]]'s brilliant spike of light as the archmage [[Corran]] chanted and sealed the cataclysm, entombing the constructs and himself within rock.
+During the crossing between worlds, Augustus experienced vivid visions: he witnessed a clifftop battle where a lion-headed titan was felled while a blindfolded colossus screamed in silent anguish. In a second vision, he was one of four constructs pushing against [[Corran Blackstaff|Corran]]'s brilliant spike of light as the archmage [[Corran Blackstaff|Corran]] chanted and sealed the cataclysm, entombing the constructs and himself within rock.
 
 ## Abilities
 Augustus wields divine power aligned with justice. He trains in weaponry and shield techniques with a focus on defense, disarming, and one-handed sword work. His warforged physiology grants him exceptional resilience. [[Elmindaria L'Thorian]]'s scan identified a strong divine signature within him, marking him as a paladin in the making. He has yet to swear a formal oath, but his conviction grows with each challenge.

@@ -52,6 +52,16 @@ When the five newcomers arrived, Istar saw both a burden and an opportunity. He 
 - **[[Garm]]** — Frustrated with the archmage over broken supply promises
 - **[[Adamantine Guild]]** — Manages it reluctantly but competently
 
+## Tags
+Location:: [[Citrine District]], [[Crystal City]]
+Race:: Human
+Subrace::
+Pronouns:: he/him
+Alignment:: Chaotic Good
+Class:: Bard/Rogue
+Affiliation:: [[Adamantine Guild]]
+Deity::
+
 ## Character Sheet
 
 | | |
@@ -162,18 +172,7 @@ Deception +12★ · Insight +9★ · Investigation +8★ · Perception +9★ · 
 **Gear:** Light Crossbow, Bolts ×20, Backpack, Ball Bearings, Bell, Candles ×10, Crowbar, Hooded Lantern, Oil ×7, Rations ×5, Rope, Tinderbox, Waterskin, Forgery Kit, Thieves' Tools, Costume, Fine Clothes
 
 ---
-## Tags
-Location:: [[Citrine District]], [[Crystal City]]
-Race:: Human
-Subrace::
-Pronouns:: he/him
-Alignment:: Chaotic Good
-Class:: Bard/Rogue
-Affiliation:: [[Adamantine Guild]]
-Deity::
-
 ## Session 19
 
 Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] stole from [[Elmindaria L'Thorian]]. Istar tasked Jonathan with stealing the recently installed mithral scales from the great statue at the [[Hall of Justice - Temple of Tyr]], forty feet above the floor. Istar will train him for a month; if he performs the theft well, the reward is half-proficiency in Deception.
-
 

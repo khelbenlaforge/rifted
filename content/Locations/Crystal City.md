@@ -1,15 +1,15 @@
 ---
 title: Crystal City
 aliases:
-  - Crystal
+- Crystal
 tags:
-  - location
-  - location/city
+- location
+- location/city
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-08-05T16:27:09
 ---
 
 # Crystal City
@@ -37,7 +37,7 @@ The capital of [[Corranor]], a city of ethereal beauty where structures crafted 
 - **[[Amethyst District]]** — Arcane studies quarter; home to the [[Ether Scryer's Academy]]
 - **[[Diamond District]]** — The Temple District; contains [[Mielikki's Grove]], [[Tidecaller's Sanctuary]], and the [[Hall of Justice - Temple of Tyr]]
 - **[[Garnet District]]** — The Commons; taverns, bars, and everyday life
-- **[[Jade Spire]]** — The towering government center and memorial to [[Corran]]
+- **[[Jade Spire]]** — The towering government center and memorial to [[Corran Blackstaff|Corran]]
 
 ## Notable Residents
 

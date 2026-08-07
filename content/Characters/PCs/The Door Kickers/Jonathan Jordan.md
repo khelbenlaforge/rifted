@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-05T01:15:29
+updated: 2026-08-05T16:27:17
 ---
 
 # Jonathan Jordan
@@ -32,7 +32,7 @@ Jonathan Jordan -- known universally as JJ -- is a lanky human, nimble, with han
 ## Origin
 JJ was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. Unlike three of his fellows, he retained his human appearance, though [[Elmindaria L'Thorian]]'s magical scan revealed heightened roguish abilities and the same loss of roughly half his essence. When [[Istar Silverlock]] offered the party membership in the [[Adamantine Guild]], JJ alone deferred his decision.
 
-His visions were deeply personal. In the first, he was a lanky, dagger-flipping man in a warm tower room sharing brotherhood with an old white-bearded man and a rotund cleric bearing a divine symbol. The vision shifted to a battlefield where the cleric erupted with blinding divine light, his radiant spirit rising to join a colossal humanoid in combat as his body slumped into JJ's vision-self's arms. In the second vision, he sprinted through collapsing reality toward the [[Corran's Spike]] where [[Corran]] channelled immense power -- and was disintegrated mid-stride when the spike exploded, body and soul torn apart.
+His visions were deeply personal. In the first, he was a lanky, dagger-flipping man in a warm tower room sharing brotherhood with an old white-bearded man and a rotund cleric bearing a divine symbol. The vision shifted to a battlefield where the cleric erupted with blinding divine light, his radiant spirit rising to join a colossal humanoid in combat as his body slumped into JJ's vision-self's arms. In the second vision, he sprinted through collapsing reality toward the [[Corran's Spike]] where [[Corran Blackstaff|Corran]] channelled immense power -- and was disintegrated mid-stride when the spike exploded, body and soul torn apart.
 
 ## Abilities
 JJ excels in stealth, quick manoeuvres, and dagger work. He possesses a natural talent for improvisation and deception -- skills that proved decisive during the Pantry Heist. His agility allows him to slip through confusion and crowds unnoticed, and he has demonstrated the nerve to strike even seasoned combatants from concealment. [[Elmindaria L'Thorian]]'s prank of casting Invisibility on him revealed an instinct for exploiting openings, though [[Istar Silverlock]]'s Cloud of Daggers reminded him that skill without caution has consequences.
