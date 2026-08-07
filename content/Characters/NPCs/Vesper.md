@@ -54,6 +54,24 @@ When [[The Exodus/The Door Kickers/PCs/Ember]] carried [[Vesper's Amulet|a cryst
 
 Ember's summoned companion. Fights at her side when called; otherwise rests in the amulet. Currently Tier 2 (Bonded Wolf, Level 5).
 
+## Relationships
+
+- **[[The Exodus/The Door Kickers/PCs/Ember]]** — His current bond, formed through [[Vesper's Amulet]]. She calls, he comes.
+- **[[Selmavra Elsree]]** — His first ranger. Found him injured, got him free, never asked for anything in return. Vesper has decided this is sufficient, and has not stopped being true even though he no longer runs beside her.
+
+---
+Race:: Wolf
+Subrace:: Bonded Companion
+Pronouns:: he/him
+Class::
+CR:: 1
+Size:: Large (Tier 2) / Medium (prequel)
+Habitat::
+Found In::
+Affiliation:: [[The Exodus/The Door Kickers/PCs/Ember]]
+Location:: With [[The Exodus/The Door Kickers/PCs/Ember]]
+Deity::
+
 ## D&D 5e Stat Block
 
 
@@ -94,23 +112,4 @@ actions:
   - name: Beast's Strike (Bite)
     desc: "_Melee Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1d8+5 piercing damage. If Vesper moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 piercing damage and must succeed on a DC 12 Strength saving throw or have the Prone condition (Large or smaller creatures only)."
 ```
-
-## Relationships
-
-- **[[The Exodus/The Door Kickers/PCs/Ember]]** — His current bond, formed through [[Vesper's Amulet]]. She calls, he comes.
-- **[[Selmavra Elsree]]** — His first ranger. Found him injured, got him free, never asked for anything in return. Vesper has decided this is sufficient, and has not stopped being true even though he no longer runs beside her.
-
----
-Race:: Wolf
-Subrace:: Bonded Companion
-Pronouns:: he/him
-Class::
-CR:: 1
-Size:: Large (Tier 2) / Medium (prequel)
-Habitat::
-Found In::
-Affiliation:: [[The Exodus/The Door Kickers/PCs/Ember]]
-Location:: With [[The Exodus/The Door Kickers/PCs/Ember]]
-Deity::
-
 

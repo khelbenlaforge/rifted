@@ -47,13 +47,6 @@ When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Y
 - **[[Corranor Council]]** — Fellow archmage among the seven governing members
 - **Theorem** — His pet raven and message courier
 
-## D&D 5e Stat Block
-
-*Reference-only — Garm is an ally, not an intended combat encounter. Base math reskinned from the Archmage (XMM, CR 12); orc racial traits layered on top per the reskinning framework. Wizard school: Abjurer — his doctoral work on planar* boundaries *maps directly onto Abjuration's wards, banishments, and dispels, and the Archmage's existing Magic Resistance / Protective Magic traits already read as Abjurer's Spell Resistance and Spell Breaker capstones. Spell list swapped for boundary/warding themes; Teleport dropped per the setting's teleportation-is-dangerous rule and replaced with Forcecage.*
-
-
-
----
 ## Tags
 Location:: [[Jade Spire]], [[Crystal City]]
 Race:: Orc
@@ -68,6 +61,13 @@ Size:: Medium
 Habitat:: Urban
 Found In:: [[Jade Spire]]
 
+## D&D 5e Stat Block
+
+*Reference-only — Garm is an ally, not an intended combat encounter. Base math reskinned from the Archmage (XMM, CR 12); orc racial traits layered on top per the reskinning framework. Wizard school: Abjurer — his doctoral work on planar* boundaries *maps directly onto Abjuration's wards, banishments, and dispels, and the Archmage's existing Magic Resistance / Protective Magic traits already read as Abjurer's Spell Resistance and Spell Breaker capstones. Spell list swapped for boundary/warding themes; Teleport dropped per the setting's teleportation-is-dangerous rule and replaced with Forcecage.*
+
+
+
+---
 ## Session 19
 
 Working through the [[Corranor Council]], Garm found [[Layla]]'s magical signature on the transit event that brought the party to Aenath. He is actively working to reverse the spell.
@@ -75,5 +75,4 @@ Working through the [[Corranor Council]], Garm found [[Layla]]'s magical signatu
 ## Session 23
 
 Garm arranged a meeting at [[Blackstaff Mansion]] for [[The Exodus/The Door Kickers/PCs/Lea]], joined by [[The Exodus/The Door Kickers/PCs/Nanuk]], [[Terra]], and [[The Exodus/The Door Kickers/PCs/Regius]], and made clear beforehand that they were meeting Lady Blackstaff and her brother rather than the family head. He escorted them to the warded entrance, announced them at the blank wall that served as the mansion's door, and reminded them to be respectful. As one of the archmages on the [[Corranor Council]], Garm remains one of the Council of Seven.
-
 

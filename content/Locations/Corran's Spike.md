@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-02T13:59:17
+updated: 2026-08-05T16:27:07
 ---
 
 # Corran's Spike
@@ -31,8 +31,8 @@ A colossal formation of rock and light that pierces the heavens east of [[Crysta
 
 ## Significance
 
-During [[The Awakening]], the archmage [[Corran]] channeled immense power to contain a catastrophic force that threatened to tear the land apart. In a final act of sacrifice, he entombed himself and four constructs within this massive rock formation, stabilizing the chaotic terrain and allowing civilization to take root. The Spike stands as both a geographical anchor and a memorial — a reminder of what was paid so that [[Corranor]] might exist.
+During [[The Awakening]], the archmage [[Corran Blackstaff|Corran]] channeled immense power to contain a catastrophic force that threatened to tear the land apart. In a final act of sacrifice, he entombed himself and four constructs within this massive rock formation, stabilizing the chaotic terrain and allowing civilization to take root. The Spike stands as both a geographical anchor and a memorial — a reminder of what was paid so that [[Corranor]] might exist.
 
-The [[Jade Spire]] in [[Crystal City]] was erected in his honor, but it is here, at the Spike itself, that [[Corran]]'s sacrifice is easiest to feel. The party experienced visions of this moment during their early days in [[Corranor]], witnessing the cataclysm and Corran's final ritual firsthand.
+The [[Jade Spire]] in [[Crystal City]] was erected in his honor, but it is here, at the Spike itself, that [[Corran Blackstaff|Corran]]'s sacrifice is easiest to feel. The party experienced visions of this moment during their early days in [[Corranor]], witnessing the cataclysm and Corran's final ritual firsthand.
 
 

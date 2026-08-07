@@ -1,14 +1,14 @@
 ---
 title: Gulthias
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: transformed
 created: 2026-04-18T00:00
-updated: 2026-04-18T00:00
+updated: 2026-08-05T16:31:01
 ---
 
 # Gulthias
@@ -21,7 +21,7 @@ updated: 2026-04-18T00:00
 > | Race | Human (later Vampire) |
 > | Class | Wizard |
 > | Location | [[Sunless Citadel]], Twilight Grove (as the [[Gulthias Tree\|Tree]]) |
-> | Affiliation | [[Dragon Cult of Ashardalon\|Dragon Cult]] |
+> | Affiliation | [[Dragon Cult of Ashardalon|Dragon Cult]] |
 > | State | Transformed |
 
 ## Description

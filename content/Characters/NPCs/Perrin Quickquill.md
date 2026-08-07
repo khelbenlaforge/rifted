@@ -76,4 +76,3 @@ Perrin confessed to finding [[Layla]]'s reagent pouch in a drawer at the [[Jade 
 
 The circle opened and pulled [[The Exodus/The Door Kickers/PCs/Regius]] through by infernal resonance. Perrin was crying and shell-shocked when [[Elmindaria L'Thorian]] dragged him to the [[Ether Scryer's Academy]] to explain himself.
 
-

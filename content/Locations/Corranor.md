@@ -1,16 +1,16 @@
 ---
 title: Corranor
 aliases:
-  - Magocracy of Corranor
-  - The Floating Lands
+- Magocracy of Corranor
+- The Floating Lands
 tags:
-  - location
-  - location/region
+- location
+- location/region
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-08-05T16:27:07
 ---
 
 # Corranor
@@ -38,7 +38,7 @@ The landscape comprises three types of land masses: Transient islands that perio
 ## Notable Features
 
 - **[[Crystal City]]** — The vibrant capital, divided into gem-named districts
-- **[[Corran's Spike]]** — A colossal landmark east of the capital, where the archmage [[Corran]] entombed himself to stabilize the land
+- **[[Corran's Spike]]** — A colossal landmark east of the capital, where the archmage [[Corran Blackstaff|Corran]] entombed himself to stabilize the land
 - **[[Stormberg]]** — Northern port settlement and key connection point
 - **[[Sunhold]]** — Frontier mining settlement on the second-largest landmass
 - **[[Vanny Faire]]** — Arcane-propelled ship connecting the islands

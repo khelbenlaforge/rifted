@@ -1,15 +1,15 @@
 ---
 title: The Awakening
 aliases:
-  - Year 0 PA
+- Year 0 PA
 tags:
-  - lore
-  - lore/history
+- lore
+- lore/history
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-03-30T17:28
+updated: 2026-08-05T16:27:11
 ---
 
 # The Awakening
@@ -22,9 +22,9 @@ The world was in chaos. Land heaved and reformed, magma erupted in jets, rock tw
 
 ## Corran's Sacrifice
 
-As the land tore itself apart, a figure emerged from the chaos: the archmage [[Corran]]. Chanting ancient incantations, he channeled immense arcane power to contain the catastrophic force that threatened to destroy everything. In a final act of desperate heroism, he entombed himself and four constructs within a massive rock formation — what would become [[Corran's Spike]] — sealing the destructive energy within and allowing the land to stabilize.
+As the land tore itself apart, a figure emerged from the chaos: the archmage [[Corran Blackstaff|Corran]]. Chanting ancient incantations, he channeled immense arcane power to contain the catastrophic force that threatened to destroy everything. In a final act of desperate heroism, he entombed himself and four constructs within a massive rock formation — what would become [[Corran's Spike]] — sealing the destructive energy within and allowing the land to stabilize.
 
-The party experienced visions of this event shortly after arriving in [[Corranor]]. They witnessed colossal beings locked in battle, a column of light with a helix of spiraling rock, landscapes shattering, and [[Corran]]'s final ritual. In these visions, each PC died in a different way — crushed, disintegrated, consumed — before waking at the [[Jade Spire]].
+The party experienced visions of this event shortly after arriving in [[Corranor]]. They witnessed colossal beings locked in battle, a column of light with a helix of spiraling rock, landscapes shattering, and [[Corran Blackstaff|Corran]]'s final ritual. In these visions, each PC died in a different way — crushed, disintegrated, consumed — before waking at the [[Jade Spire]].
 
 ## Aftermath
 

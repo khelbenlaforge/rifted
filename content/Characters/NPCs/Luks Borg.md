@@ -45,6 +45,16 @@ As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luk
 - Arranged supplies through [[Elmar Barthen]] at [[Barthen's Supplies]]
 - Mentor to [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] and other Guild recruits
 
+## Tags
+Location:: [[Crystal City]]
+Race:: Half-Orc
+Subrace::
+Pronouns:: he/him
+Alignment:: Unknown
+Class:: Barbarian
+Affiliation:: [[Adamantine Guild]]
+Deity:: Unknown
+
 ## Character Sheet
 
 | | |
@@ -137,16 +147,6 @@ Athletics +7 · Intimidation +3 · Perception +4 · Survival +4
 **Gear:** Backpack, Bedroll, Oil ×2, Rations ×10, Rope, Tinderbox, Torches ×10, Waterskin, Climber's Kit, Healer's Kit
 
 ---
-## Tags
-Location:: [[Crystal City]]
-Race:: Half-Orc
-Subrace::
-Pronouns:: he/him
-Alignment:: Unknown
-Class:: Barbarian
-Affiliation:: [[Adamantine Guild]]
-Deity:: Unknown
-
 ## Session 1 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: Lea contacted Luks remotely for guidance on what to do with four newly arrived Understudies PCs stranded near [[The Sundered Choir]]; he advised getting them to the nearest [[Adamantine Guild]] presence.

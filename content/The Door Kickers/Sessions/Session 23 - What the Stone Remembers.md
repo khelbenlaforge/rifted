@@ -7,7 +7,7 @@ campaign: Rifted
 session: 23
 date: 2026-07-13
 in-world-date: 21st-28th Uktar, Year 222 PA
-updated: 2026-08-02T14:01:17
+updated: 2026-08-07T16:12:33
 ---
 
 # Session 23 — What the Stone Remembers
@@ -56,7 +56,7 @@ Lea showed her the Spellbook. Lady Blackstaff recognized the script — spells w
 
 Regius offered Le Fil to the brother, who took it, and the glow that rose from his hand wasn't reflected light. He named it immediately — soul matter, not physical matter at all — and asked the question that's been sitting under the cord since Session 22 without an answer: *how did you materialize this out of your own body?* Not out of "E's" side of the family, as Regius had assumed. Out of *him.*
 
-By the time they left the mansion, the 28th of Uktar had arrived — the Feast of the Moon — and the meeting with the Claret was two days out.
+By the time they left the mansion, the 28th of Uktar had arrived, Feast of the Moon still ahead, and the meeting with the Claret was two days out.
 
 ---
 

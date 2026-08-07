@@ -185,4 +185,3 @@ Location:: [[Shadowdale]]
 Affiliation:: [[Mystra]]
 Deity:: [[Mystra]]
 
-

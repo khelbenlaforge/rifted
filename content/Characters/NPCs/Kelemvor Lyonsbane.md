@@ -1,9 +1,9 @@
 ---
 title: Kelemvor Lyonsbane
 aliases:
-- Kelemvor
+  - Kelemvor
 tags:
-- npc
+  - npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
@@ -157,5 +157,4 @@ His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that kno
 The Church of Kelemvor was named as the authority that polices interplanar soul movement. The god of death arbitrates where souls go and prevents souls from being pulled across planes without sanction.
 
 [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] both have established paths into the Church, making them the party's natural contacts for this thread.
-
 

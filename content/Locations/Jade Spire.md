@@ -1,15 +1,15 @@
 ---
 title: Jade Spire
 aliases:
-  - Jade Spire of Crystal
+- Jade Spire of Crystal
 tags:
-  - location
-  - location/building
+- location
+- location/building
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-08-05T16:27:10
 ---
 
 # Jade Spire
@@ -28,13 +28,13 @@ Status:: Active
 
 ## Description
 
-The tallest structure in [[Corranor]], the Jade Spire rises above [[Crystal City]]'s skyline in distinctive green-hued stone that glimmers beneath the sun. Encased within a massive rock formation and surrounded by a brilliant column of light, it serves as both a memorial to the archmage [[Corran]]'s sacrifice and the seat of the [[Corranor Council]]. The Spire's architecture blends practicality with magical enhancement, housing government chambers and serving as a stronghold for the [[Adamantine Guild]].
+The tallest structure in [[Corranor]], the Jade Spire rises above [[Crystal City]]'s skyline in distinctive green-hued stone that glimmers beneath the sun. Encased within a massive rock formation and surrounded by a brilliant column of light, it serves as both a memorial to the archmage [[Corran Blackstaff|Corran]]'s sacrifice and the seat of the [[Corranor Council]]. The Spire's architecture blends practicality with magical enhancement, housing government chambers and serving as a stronghold for the [[Adamantine Guild]].
 
 ## Notable Features
 
 - **Council Chambers** — Where the seven archmages of the [[Corranor Council]] convene, with [[Garm]] as a prominent member
 - **Arrival Point** — During High Harvestide of Year 222, five individuals from Earth materialized atop the Spire, met by [[Perrin Quickquill]] and [[Garm]]
-- **Memorial** — A living monument to [[Corran]], who entombed himself within rock during [[The Awakening]] to contain a catastrophic force
+- **Memorial** — A living monument to [[Corran Blackstaff|Corran]], who entombed himself within rock during [[The Awakening]] to contain a catastrophic force
 
 ## Current Events
 

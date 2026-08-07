@@ -2,13 +2,13 @@
 title: Soral Vayne
 aliases: []
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T16:55
-updated: 2026-06-20T18:11
+updated: 2026-08-05T16:30:57
 ---
 
 > [!infobox|right wikipedia]+
@@ -17,7 +17,7 @@ updated: 2026-06-20T18:11
 > | | |
 > | ---- | --- |
 > | Race | Human |
-> | Location | [[Sapphire Terrace]], [[Sapphire District]] |
+> | Location | Sapphire Terrace, [[Sapphire District]] |
 > | Affiliation | [[Hucrele Family]] (former) |
 
 ## Appearance
@@ -34,7 +34,7 @@ He finds the [[Sapphire District]]'s slow emptying genuinely sad. He does not pe
 
 Soral Vayne served the [[Hucrele Family]] for over forty years — most of his adult life — beginning as a junior footman and rising to household steward. He managed [[Hucrele Manor]] through two generations of family politics, two political crises, and the eventual decision to relocate south to [[Sunhold]]. When the family left, they offered to bring him. He declined. He was not ready to leave the city.
 
-He opened the [[Sapphire Terrace]] — a small salon — using savings accumulated over decades of service. It has become, quietly and without any announcement, the social hub of what remains of the [[Sapphire District]]'s old families. Soral makes introductions. He is the one you see when you don't know who you need to know.
+He opened the Sapphire Terrace — a small salon — using savings accumulated over decades of service. It has become, quietly and without any announcement, the social hub of what remains of the [[Sapphire District]]'s old families. Soral makes introductions. He is the one you see when you don't know who you need to know.
 
 He still holds a key to [[Hucrele Manor]] and visits on the first day of each month to check on the staff and walk the rooms. He does not explain why.
 
@@ -45,7 +45,7 @@ Soral is a gateway into Crystal City's old-money social world and a connection t
 ---
 Race:: Human
 Pronouns:: he/him
-Location:: [[Sapphire Terrace]], [[Sapphire District]]
+Location:: Sapphire Terrace, [[Sapphire District]]
 Affiliation:: [[Hucrele Family]]
 
 ## Session 19

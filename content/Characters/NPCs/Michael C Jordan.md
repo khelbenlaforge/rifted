@@ -41,10 +41,6 @@ Since arriving, he has taken to the dungeon environment with unsettling ease. He
 
 He is not in the prequel vision. He is resting in [[Durnn's Research Lab]], probably eating something that belongs to someone else.
 
-## Stat Block
-
-
-
 ## Relationships
 
 - **[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** — His person. Will follow him anywhere, including apparently into a different dimension.
@@ -57,5 +53,8 @@ Class::
 Affiliation:: [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
 Location:: [[Sunless Citadel]]
 Deity::
+
+## Stat Block
+
 
 

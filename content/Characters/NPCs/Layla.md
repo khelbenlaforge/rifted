@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-02T14:01:49
+updated: 2026-08-05T18:12:52
 ---
 
 # Layla
@@ -32,43 +32,29 @@ Layla is a tiefling whose infernal heritage reads as careful restraint — the k
 
 ## Personality
 
-Layla believes in the integrity of the ledger. Promises made — by gods, by mortals, by the structure of the universe — should be kept. This is not an abstraction for her. She grew up knowing that her tiefling blood carried the shadow of an Asmodean contract somewhere in her lineage: that she had been, before she was born, partly claimed. She spent years inside the [[Jade Spire]] trying to build a life that was entirely her own. She was good at it. She had friends. She had work she believed in.
+Layla's warmth is real — her friendship with [[Perrin Quickquill]] carries genuine history, genuine shared frustrations. Years inside an academic institution taught her to keep a low profile. Nothing about her announces danger.
 
-Then she found the first displaced soul.
-
-She is warm because she has always been warm — her friendship with [[Perrin Quickquill]] was real, the years of shared work and shared meals and shared frustrations were real. She is a person who found an injustice too large to ignore, not a cold operator wearing a human face, and she spent two years trying to find anyone with the will to act on it before concluding, with exhaustion more than conviction, that there was only one.
-
-She does not perform cruelty. She does not enjoy harm. She has genuine principles — she will not kill to protect the operation, will not use living people as components, will not tell [[The Claret]] who she serves because she will not make them complicit in what they haven't chosen. She has lines. The question the party will eventually have to answer is whether the line she already crossed — using the arrival of five people from another world as a test of her matrix — is one they can forgive.
+She believes, or says she believes, in keeping promises — that a commitment, once made, ought to be honored regardless of who or what made it. Whether that's principle or self-justification is one of the party's live questions.
 
 ## Background
 
-Layla came to [[Asmodeus]]. Not the other way around.
+Layla worked for years at the [[Jade Spire]] as a researcher under [[Garm]], building a genuine career in arcane scholarship. Something changed. By Session 21 the party discovered she was running a second, unauthorized runic circle near [[Corran's Spike]], independent of the Jade Spire's own, and sourcing illegal spell components through [[The Claret]].
 
-She had been working in the [[Jade Spire]] for years — genuinely, as a researcher, as [[Garm]]'s apprentice, as someone building a life in arcane scholarship. It was during that work that she first encountered the gap: a soul mapped through historical records whose divine arrival simply never occurred. No afterlife. No trace. A person who had died and gone nowhere.
-
-She found more. During the [[Time of Troubles]], the catastrophic divine displacement that shook the planes of the old world, vast numbers of souls were severed from their proper afterlives and scattered — sent into other planes, other realms, other universes entirely. Some arrived in bodies they did not ask for. Some dissolved into the planar fabric. Most simply vanished from the divine ledger: unclaimed, unbound, unreachable. The benevolent temples were sympathetic when she brought the evidence. The arcane institutions had no jurisdiction. The good gods who might have cared were occupied with their own wars, their own survival, their own political aftermath. No one was coming.
-
-[[Asmodeus]] had records. He had been trying to collect on those scattered contracts for decades and lacked only the planar access and technical infrastructure to complete the work. Layla had both. The negotiation took months. She went in knowing exactly what he was, and she came out with an agreement that was, by her reading, specific and bounded: she builds the retrieval matrix, he provides the resources and the divine coordinates she cannot source alone.
-
-She thinks of herself as his contractor rather than his servant. She has told herself this carefully and often, and she is not wrong in the way she thinks she is wrong.
-
-The illegal spell components she sources through [[The Claret]] are for highly precise planar engineering: anchoring lost souls, threading them back through the interplanar gap, returning them to where they were always meant to go. She has told herself, and has not yet stopped believing, that this is mercy.
-
-On High Harvestide, Year 222 PA, she was positioned in the [[Sanctum]] below the arrival point — not casting the transit spell that brought the party to [[Aenath]], but adjusting the runic geometry of the soul-retrieval matrix. Whether their arrival was a side effect of that work, or whether she seeded the conditions deliberately and filed it as a side effect afterward, is a question whose answer she does not examine too closely.
+What she's building, and for whom, remains an open question to everyone but her — though the party's own investigation (Session 25, the Marrow Ledger) has turned up a name tied to her account: [[Asmodeus]]. What that connection actually means, the party does not yet know.
 
 ## Role in the Story
 
-Layla is the thread connecting the party's arrival in [[Aenath]] to the unfinished business of the [[Time of Troubles]]. Rather than a final antagonist, she's a believer operating inside a much larger design whose full shape she has not been shown. What she wants and what [[Asmodeus]] wants overlap, and she has not yet confronted the gap between them.
+Layla is the thread connecting the party's unexplained arrival in [[Aenath]] to a larger, still-unrevealed design.
 
-Whether she can be reached — whether the genuine warmth she carries toward [[Perrin Quickquill]] and others constitutes a crack in her conviction — is one of the campaign's live questions.
+Whether she can be reached — whether the genuine warmth she carries toward [[Perrin Quickquill]] and others constitutes a crack in whatever she's committed to — is one of the campaign's live questions.
 
 ## Relationships
 
 - Co-apprentice with [[Perrin Quickquill]] under [[Garm]] — the closest thing she has to an anchor in Crystal City; his hurt at her apparent betrayal is accumulating
 - Researcher under [[Garm]], orc wizard of the [[Corranor Council]] — her cover and her access point to deep planar infrastructure
-- Agent of [[Asmodeus]] — the obligation that shapes everything else
-- Valued client of [[The Claret]] — sourcing components for the soul-retrieval matrix
-- Responsible (directly or indirectly) for the event that brought the party to [[Aenath]]
+- Valued client of [[The Claret]] — sourcing components for unknown purposes
+- Named alongside [[Asmodeus]] in the Marrow Ledger (Session 25) — connection unconfirmed
+- Possibly responsible, directly or indirectly, for the event that brought the party to [[Aenath]] — unconfirmed
 
 ---
 Race:: Tiefling
@@ -78,7 +64,7 @@ Alignment:: Lawful Evil
 Class:: Mage
 Location:: Unknown
 Affiliation:: [[Corranor Council]]
-Deity:: [[Asmodeus]]
+Deity:: Unknown
 
 ## Session 21 Update
 
@@ -96,8 +82,7 @@ Deity:: [[Asmodeus]]
 - 29th Uktar, Year 222 PA: appeared at [[The Sundered Choir]], taking notes, ahead of a Shadow Creature ambush on four newly arrived Understudies PCs.
 - 29th Uktar, Year 222 PA: warned the four to run, then dove off the platform into the clouds below and was gone before the ambush itself began — did not engage directly, and left before Regius and Lea arrived as reinforcements partway through the fight.
 - 29th Uktar, Year 222 PA: the Shadow Creatures present were more solid, more humanoid, and more resistant than previous encounters, consistent with her creatures growing stronger.
-- 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport (hired goblin-riders on giant eagles) before leaving, rerouting them to Stormberg with no destination offered.
-- 29th Uktar, Year 222 PA: independently arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant eagles, giving them no choice of destination.
+- 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant eagles before leaving, giving them no choice of destination.
 - Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
 ## Session 25 Update
