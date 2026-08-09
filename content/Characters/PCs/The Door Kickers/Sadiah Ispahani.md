@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-08-02T13:59:25
+updated: 2026-08-07T18:48:24
 ---
 
 # Sadiah Ispahani
@@ -67,7 +67,7 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 | Stat | Value |
 |---|---|
-| Level | 5 |
+| Level | 4 |
 | Class | Rogue (Arcane Trickster) |
 | Race | Wood Elf |
 | Background | Entertainer |
@@ -92,9 +92,9 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Acrobatics +8 (expertise) · Animal Handling +2 · Arcana +2 · Athletics +1 (prof) · Deception +3 · History +2 · Insight +2 · Intimidation +7 (expertise) · Investigation +2 · Medicine +2 · Nature +2 · Perception +2 · Performance +5 (prof) · Religion +2 · Sleight of Hand +6 (prof) · Stealth +4 · Survival +4 (prof)
+**Skills:** Acrobatics +8 (expertise) · Animal Handling +2 · Arcana +2 · Athletics +1 (prof) · Deception +3 · History +2 · Insight +2 · Intimidation +7 (expertise) · Investigation +2 · Medicine +2 · Nature +2 · Perception +2 · Performance +5 (prof) · Persuasion +5 (prof) · Religion +2 · Sleight of Hand +6 (prof) · Stealth +4 · Survival +4 (prof)
 **Languages:** Common · Elvish · Thieves' Cant
-**Tools:** Thieves' Tools
+**Tools:** Thieves' Tools · Musical Instrument (Entertainer background — not yet selected on sheet: drum, flute, or viol; pending)
 
 ---
 
@@ -106,8 +106,8 @@ She was redirecting a private art collection to a family of displaced farmers wh
 | **Dagger** *(Nick)* | M/R +6 | 20/60 ft. | 1d4+4 pierce | — | — | — |
 | **Shortsword** | M +6 | 5 ft. | 1d6+4 pierce | — | — | — |
 | **Shortbow** *(Vex)* | R +6 | 80/320 ft. | 1d6+4 pierce; next atk vs target has adv. | — | — | — |
-| **Sukoon** ([[Sukoon and Junoon]]) | M +8 | 5 ft. | 1d4+6 slash | — | — | — |
-| **Junoon** ([[Sukoon and Junoon]]) | M +8 | 5 ft. | 1d4+6 slash; light off-hand 1d4+2 | — | — | — |
+| **Sukoon** ([[Sukoon and Junoon]]) | M +7 | 5 ft. | 1d4+5 slash | — | — | — |
+| **Junoon** ([[Sukoon and Junoon]]) | M +7 | 5 ft. | 1d4+5 slash; light off-hand 1d4+1 | — | — | — |
 | **Dancing Lights** | — | 120 ft. | Four lights; move 60 ft.; 1 min | Cantrip | V, S, M (phosphorus) | Conc. |
 | **Druidcraft** | — | 30 ft. | Minor nature effect; instant/predict weather | Cantrip | V, S | — |
 | **Fire Bolt** | R +4 | 120 ft. | 1d10 fire | Cantrip | V, S | — |
@@ -128,7 +128,8 @@ She was redirecting a private art collection to a family of displaced farmers wh
 | **Cunning Action** | — | Self | Dash, Disengage, or Hide | — | — | — |
 | **Steady Aim** | — | Self | Next atk this turn has adv.; speed becomes 0 | — | — | — |
 | **Mage Hand Legerdemain** | — | 30 ft. | Cast/control invisible *Mage Hand*; use tools/Sleight of Hand through it | Cantrip | V, S | — |
-| **The Invisible Third** ([[Sukoon and Junoon]]) | M +8 | 30 ft. | Off-hand Junoon atk from Hand's location; 1d4+2 slash | — | — | — |
+
+*Sukoon and Junoon are Tier 1 (Level 4) — The Invisible Third and Debt Paid unlock at Tier 2 (Level 5), not yet reached.*
 
 ### Reactions
 
@@ -137,7 +138,6 @@ She was redirecting a private art collection to a family of displaced farmers wh
 | **Shield** | — | Self | +5 AC vs trigger; no *Magic Missile* dmg | 1st | V, S | — |
 | **Silvery Barbs** | — | 60 ft. | Reroll success; grant adv. to another creature | 1st | V | — |
 | **Junoon's Word** ([[Sukoon and Junoon]]) | — | Self | When you roll a 1 on a d20 Test, reroll it | — | — | 1/SR |
-| **Debt Paid** ([[Sukoon and Junoon]]) | WIS 12 | Triggering target | After Sneak Attack: Frightened until end of next turn | — | — | 1/day |
 
 ---
 
@@ -155,7 +155,7 @@ She was redirecting a private art collection to a family of displaced farmers wh
 - **Weapon Mastery** — Shortbow *(Vex)*: on hit, your next attack roll against that target has Advantage before the end of your next turn; can swap assignment on Long Rest.
 - **Mage Hand Legerdemain** — Your *Mage Hand* can be invisible and manipulate objects, tools, and locks at range; see Bonus Actions table for cast/control.
 - **Magic Initiate: Wizard** — Two Wizard cantrips and one 1st-level Wizard spell. The feat spell can be cast 1/LR without a slot and also with spell slots; the source notes do not distinguish which listed 1st-level spell is the feat pick.
-- **Sukoon and Junoon** — +2 sickles; attunement required.
+- **Sukoon and Junoon** — +1 sickles (Tier 1, Level 4); attunement required.
 - **Sukoon and Junoon: Still Point** — Using Steady Aim does not reduce Sadiah's speed to 0; she may still move up to half her speed that turn. If she used Steady Aim before attacking with Sukoon or Junoon, add 1d6 to Sneak Attack damage that turn.
 - **Sukoon and Junoon: The Named Weight** — When Sadiah deals Sneak Attack damage, add her Intelligence modifier to the total. The target then makes CON 12 or can't take Reactions until the start of its next turn.
 

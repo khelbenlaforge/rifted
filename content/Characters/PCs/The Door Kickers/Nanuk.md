@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-08-05T01:17:04
+updated: 2026-08-07T23:11:25
 ---
 
 # Nanuk
@@ -85,7 +85,7 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Animal Handling +6 · Nature +4 · Perception +6 · Stealth +8 · **Survival +9** *(expertise)*
+**Skills:** Acrobatics +5 · Animal Handling +6 (prof) · Arcana +1 · Athletics +1 · Deception -1 · History +1 · Insight +3 · Intimidation -1 · Investigation +1 · Medicine +3 · Nature +4 (prof) · Perception +6 (prof) · Performance -1 · Persuasion -1 · Religion +1 · Sleight of Hand +5 · Stealth +8 (prof) · **Survival +9** *(expertise)*
 **Languages:** Common · Elvish · Giant
 **Tools:** Cartographer's Tools
 
@@ -102,13 +102,14 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 | **Shortbow** | R +10 | 80/320 ft. | 1d6+5 pierce | — | — | — |
 | **Message** | — | 120 ft. | Whisper to target; target may reply; 1 rnd | Cantrip | S, M (copper wire) | — |
 | **Thorn Whip** | M +6 | 30 ft. | 2d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
-| **Alarm** | — | 30 ft. | Ward 20-ft cube/door/window; mental/audible alarm; 8 hr | 1st | V, S, M (bell & wire) | Ritual |
 | **Detect Magic** | — | Self (30-ft radius) | Sense magic; identify school as Magic action; 10 min | 1st | V, S | 1/SR |
 | **Disguise Self** | — | Self | Illusory appearance change; 1 hr | 1st | V, S | 1/SR |
 | **Entangle** | STR 14 | 90 ft. | Restrained in 20-ft square; repeat STR save; 1 min | 1st | V, S | Conc. |
-| **Snare** | DEX 14 | Touch | 1 min cast; rope trap restrains target; 8 hr | 1st | S, M† | — |
+| **Find Traps** | — | 120 ft. | Sense presence (not location) of any trap in line of sight; learn its general danger | 2nd | V, S | — |
+| **Gust of Wind** | STR 14 | Self (60-ft line) | Fail: pushed 15 ft away along the line; success: spend 2 ft movement per 1 ft approaching Nanuk; disperses gas, may extinguish small flames | 2nd | V, S, M | Conc. |
+| **Spike Growth** | — | 150 ft. | 20-ft radius becomes difficult terrain; 2d4 pierce per 5 ft moved through; camouflaged (Search + WIS Perception/Survival vs DC 14 to spot before entering) | 2nd | V, S, M | Conc. |
 
-*† Snare: M = 25 ft. of rope (consumed)*
+*Alarm and Snare were on the previous sheet but Foundry shows both as not actually prepared (prepared:0) — removed rather than kept as unavailable filler.*
 
 ### Bonus Actions
 
@@ -156,7 +157,7 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 #### Ritual Spells
 
-- *Alarm* (XPHB, 1st) — 1 min cast — Ward a 20-ft cube, door, or window for 8 hours.
+None. (Alarm removed — see Actions table note; Rangers don't have the Ritual Casting class feature regardless, so it couldn't have been cast as a ritual even when listed.)
 
 ---
 

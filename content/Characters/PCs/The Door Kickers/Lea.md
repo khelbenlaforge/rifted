@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-05T16:27:18
+updated: 2026-08-07T22:46:05
 ---
 
 # Lea
@@ -80,7 +80,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 | Class | Wizard (Chronurgy Magic) |
 | Race | Elf (High Elf) |
 | Background | Orzhov Representative |
-| HP (Max) | 28 |
+| HP (Max) | 36 |
 | AC | 11 |
 | Speed | 30 ft. |
 | Prof Bonus | +3 |
@@ -101,7 +101,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** **Arcana +10** *(expertise)* · Insight +5 · Intimidation +5 · Investigation +7 · Medicine +5 · Performance +5 · Persuasion +5 · Religion +7
+**Skills:** Acrobatics +1 · Animal Handling +2 · **Arcana +10** *(expertise)* · Athletics -1 · Deception +2 · History +4 · Insight +5 (prof) · Intimidation +5 (prof) · Investigation +7 (prof) · Medicine +5 (prof) · Nature +4 · Perception +2 · Performance +5 (prof) · Persuasion +5 (prof) · Religion +7 (prof) · Sleight of Hand +1 · Stealth +1 · Survival +2
 **Languages:** Common · Elvish
 **Tools:** None
 
@@ -111,25 +111,31 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Dagger** *(Nick)* | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
-| **Quarterstaff** *(Topple)* | M +1 | 5 ft. | 1d6-1 bludgeon; vers. 1d8-1 | — | — | — |
-| **Unarmed Strike** | M +1 | 5 ft. | 1 bludgeon; or Grapple/Shove | — | — | — |
-| **Fire Bolt** | R +6 | 120 ft. | 1d10 fire | Cantrip | V/S | — |
+| **Dagger** *(Nick)* | M/R +4 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
+| **Quarterstaff** *(Topple)* | M +2 | 5 ft. | 1d6-1 bludgeon; vers. 1d8-1 | — | — | — |
+| **Unarmed Strike** | M +2 | 5 ft. | 1 bludgeon (min 1); or Grapple/Shove (DC 10) | — | — | — |
+| **Fire Bolt** | R +7 | 120 ft. | 1d10 fire | Cantrip | V/S | — |
 | **Mage Hand** | — | 30 ft. | Spectral hand; carry 10 lb.; 1 min | Cantrip | V/S | — |
 | **Mending** | — | Touch | 1 min cast; mend one break or tear | Cantrip | V/S/M | — |
 | **Prestidigitation** | — | 10 ft. | Minor magical trick; lasts up to 1 hr | Cantrip | V/S | — |
-| **Command** | WIS 14 | 60 ft. | 1-word command; fail obeys next turn | 1st | V | — |
-| **Detect Magic** | — | Self | Sense magic within 30 ft.; 10 min | 1st | V/S | 1/LR |
+| **Command** | WIS 15 | 60 ft. | 1-word command; fail obeys next turn | 1st | V | — |
+| **Detect Magic** | — | Self | Sense magic within 30 ft.; 10 min | 1st | V/S | 1/LR free · Ritual |
 | **Magic Missile** | — | 120 ft. | 3 darts, 1d4+1 force each; auto-hit | 1st | V/S | — |
-| **Sleep** | WIS 14 | 60 ft. | Fail Incap.; 2nd fail Uncon.; 1 min | 1st | V/S/M | Conc. |
+| **Chromatic Orb** | R +7 | 90 ft. | 3d8 dmg (choose acid/cold/fire/lightning/poison/thunder); leaps to new target if a die shows matching value | 1st | V/S/M† | — |
+| **Sleep** | WIS 15 | 60 ft. | Fail Incap. until end of next turn, then repeat save; 1 min | 1st | V/S/M | Conc. |
 | **Comprehend Languages** | — | Self | Understand spoken/written language; 1 hr | 1st | V/S/M | Ritual |
 | **Identify** | — | Touch | Learn magic item's or spell's properties | 1st | V/S/M† | Ritual |
 | **Unseen Servant** | — | 60 ft. | Invisible servant; simple tasks for 1 hr | 1st | V/S/M | Ritual |
+| **Alter Self** | — | Self | Choose 1: aquatic adaptation, change appearance, or natural weapons (unarmed dmg 1d6, magical) | 2nd | V/S | Conc. |
+| **Knock** | — | 60 ft. | Unlocks/unsticks/unbars one lock on target object (1 of multiple locks); suppresses *Arcane Lock* 10 min; loud knock audible 300 ft. | 2nd | V | — |
 | **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn | 2nd | V/S/M | Conc. |
-| **Suggestion** | WIS 14 | 30 ft. | Fail Charmed; follows brief suggestion | 2nd | V/M | Conc. |
+| **Tasha's Mind Whip**‡ | INT 15 | 90 ft. | Fail: 3d6 psychic + no Reactions until end of next turn + next turn only 1 of move/action/BA; success: ½ dmg only | 2nd | V/S | — |
+| **Suggestion** | WIS 15 | 30 ft. | Fail Charmed; follows brief suggestion | 2nd | V/M | Conc. |
+| **Fireball** | DEX 15 | 150 ft. | 8d6 fire in 20-ft radius sphere; ½ dmg on save; ignites unattended flammables | 3rd | V/S/M | — |
 | **Elminster's Inquiry** ([[Elminster's Spellbook|Spellbook]]) | — | 60 ft. | Ask one yes/no question of creature, object, or location seen in last 1 min | 1st | V, S | — |
 
-† Material component has a listed cost and is not consumed.
+† Material component has a listed cost and is not consumed (Chromatic Orb: diamond worth 50+ gp; Identify: pearl worth 100+ gp and an owl feather).
+‡ Tasha's Mind Whip is TCE (2014) — no XPHB reprint found; already on Lea's Foundry sheet, flagging edition status rather than excluding it (same treatment as the already-present Silvery Barbs, also 2014-sourced).
 
 ### Bonus Actions
 
@@ -137,16 +143,22 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing** | — | Self | 2d4+2 HP; to another creature = Action | — | — | 1 use |
 | **Expeditious Retreat** | — | Self | Dash as BA for duration; 10 min | 1st | V/S | Conc. |
+| **Misty Step** | — | Self | Teleport up to 30 ft. to an unoccupied space Lea can see | 2nd | V | — |
 | **Elminster's Misdirection** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Until next turn, 1st atk vs Lea has disadv.; Lea's 1st save has adv. | 2nd | V | — |
-| **Elminster's Parting Gift** ([[Elminster's Spellbook|Spellbook]]) | DEX 14 | Touch | Conjure bead; ally squeezes for 3d6+4 HP or adv. on save, or throws 20/60 for 6d6 force, save half | 3rd | V, S | — |
+| **Elminster's Parting Gift** ([[Elminster's Spellbook|Spellbook]]) | DEX 15 | Touch | Conjure bead (1 hr); holder squeezes for 3d6+4 HP or adv. on a save, or throws 20/60 ft. — 5 ft. DEX 15 or 6d6 force, ½ on save; bead consumed on use | 3rd | V, S | — |
+| **Elminster's Footnote (Locked)** ([[Elminster's Spellbook|Spellbook]]) | — | Touch | Instantly read/comprehend any touched text regardless of language/script/obfuscation; senses deliberate falsehood (not the truth). **Locked** until Lea has cast 3 spells from the book in play | Cantrip | V, S | — |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Silvery Barbs** | — | 60 ft. | Reroll success; use lower; ally gains adv. | 1st | V | — |
+| **Silvery Barbs**‡ | — | 60 ft. | Reroll success; use lower; ally gains adv. | 1st | V | — |
+| **Shield** | — | Self | +5 AC until start of next turn (incl. the triggering atk); no dmg from *Magic Missile* | 1st | V/S | — |
+| **Counterspell** | CON 15 | 60 ft. | Trigger: sees a creature within 60 ft. casting a spell with V/S/M components; fail = spell fizzles, slot not expended | 3rd | S | — |
 | **Chronal Shift** | — | 30 ft. | Force reroll of atk/check/save | — | — | 2×/LR |
-| **Elminster's Rebuke** ([[Elminster's Spellbook|Spellbook]]) | CON 14 | 60 ft. | Trigger: hit by atk/forced save; fail = 3d8 force dmg + disadv. next atk/save; ½ dmg on save | 2nd | V | — |
+| **Elminster's Rebuke** ([[Elminster's Spellbook|Spellbook]]) | CON 15 | 60 ft. | Trigger: hit by atk/forced save; fail = 3d8 force dmg + disadv. next atk/save; ½ dmg on save | 2nd | V | — |
+
+‡ Silvery Barbs is XGE/SCC (2014) — no XPHB reprint found; already on Lea's Foundry sheet, flagging edition status rather than excluding it.
 
 ---
 
@@ -160,7 +172,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.
 - **Trance** — Four hours of trance grants the benefits of a long rest.
 - **High Elf Lineage** — Extra wizard cantrip; weapon training in longsword, shortsword, shortbow, and longbow.
-- **Keen Senses** — Proficiency in Perception.
+- **Keen Senses** — Choice of proficiency in Insight, Perception, or Survival (base Elf trait, XPHB p.189). Foundry shows Insight proficient and Perception/Survival not — correcting the prior note, which claimed Perception. Insight's proficiency source is ambiguous (Keen Senses vs. Scholar/Skilled, both of which grant unspecified bonus skill picks); the choice itself isn't in doubt, only its exact origin.
 - **Scholar** — Gain proficiency in two additional skills.
 - **Skilled** — Gain proficiency in three additional skills.
 - **Weapon Mastery Assignments** — Dagger (Nick), Quarterstaff (Topple).
@@ -176,6 +188,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 #### Ritual Spells
 
 - *Comprehend Languages*
+- *Detect Magic* — also castable 1/LR without a slot (Elven Lineage)
 - *Identify*
 - *Unseen Servant*
 

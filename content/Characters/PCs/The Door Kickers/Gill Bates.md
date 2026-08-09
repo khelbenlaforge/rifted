@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-02T13:58:20
+updated: 2026-08-07T18:47:36
 ---
 
 # Gill Bates
@@ -95,8 +95,8 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Arcana +8 . History +4 . Insight +7 . Medicine +7 . Religion +8 . Survival +7
-**Languages:** Common + 2 (check file)
+**Skills:** Acrobatics +2 . Animal Handling +4 . Arcana +8 . Athletics -1 . Deception +0 . History +4 . Insight +7 . Intimidation +0 . Investigation +1 . Medicine +7 . Nature +1 . Perception +4 . Performance +0 . Persuasion +0 . Religion +8 . Sleight of Hand +2 . Stealth +2 . Survival +7
+**Languages:** Common + 2 (check file — Fisher background grants "one of your choice," not tracked by the Foundry API; unresolved)
 **Tools:** None
 
 ---

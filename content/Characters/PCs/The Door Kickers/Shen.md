@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-08-02T13:59:33
+updated: 2026-08-07T23:12:31
 ---
 
 # Shen
@@ -88,7 +88,7 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Arcana +7 . History +7 . Investigation +7 . Medicine +6 . Nature +7 . Perception +6
+**Skills:** Acrobatics +0 . Animal Handling +3 . Arcana +7 (prof) . Athletics +1 . Deception +4 . History +7 (prof) . Insight +3 . Intimidation +4 . Investigation +7 (prof) . Medicine +6 (prof) . Nature +7 (prof) . Perception +6 (prof) . Performance +4 . Persuasion +4 . Religion +4 . Sleight of Hand +0 . Stealth +0 . Survival +3
 **Languages:** Common + Human extras
 **Tools:** Calligrapher's Supplies
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-08-05T16:27:19
+updated: 2026-08-07T23:16:29
 ---
 
 # Terra
@@ -96,7 +96,7 @@ She was in a shelter in California when the light took her.
 
 **Resistances & Vulnerabilities:** Necrotic (resistance) · Radiant (resistance)
 
-**Skills:** Athletics +5 · Deception +6 · Insight +8 · Intimidation +6 · Perception +8 · Persuasion +6 · Religion +4 · Stealth +6
+**Skills:** Acrobatics +3 · Animal Handling +5 · Arcana +1 · Athletics +5 (prof) · Deception +6 · History +1 · Insight +8 (prof) · Intimidation +6 · Investigation +1 · Medicine +5 · Nature +1 · **Perception +11** *(expertise)* · Performance +6 · Persuasion +6 · Religion +4 (prof) · Sleight of Hand +3 · Stealth +6 (prof) · Survival +5
 **Languages:** Common · Celestial
 **Tools:** Calligrapher's Supplies
 
@@ -142,7 +142,7 @@ She was in a shelter in California when the light took her.
 
 - **Extra Attack** — Make two attacks when you take the Attack action.
 - **Dreadful Strikes** — Once per turn, a weapon hit deals an extra 1d4 psychic damage.
-- **Otherworldly Glamour** — Add Wisdom modifier to Deception, Intimidation, and Persuasion checks.
+- **Otherworldly Glamour** — Adds Wisdom modifier (min +1) to *any* Charisma check, not just Deception/Intimidation/Persuasion as previously noted (confirmed via XPHB text) — this is why Performance also carries the bonus. Also grants proficiency in one of Deception, Performance, or Persuasion (choice); Foundry doesn't show any of the three as proficient yet, so that pick may still be open.
 - **Fey Wanderer Spells** — *Charm Person* and *Misty Step* are always prepared.
 - **Favored Enemy** — Advantage on Survival checks to track creatures and Intelligence checks to recall them.
 - **Deft Explorer** — Expertise in Perception; one additional language.
@@ -229,7 +229,7 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
-PassivePerception:: 18
+PassivePerception:: 21
 PassiveInsight:: 18
 PassiveInvestigation:: 11
 PassiveStealth:: 16
