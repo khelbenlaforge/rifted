@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-05T18:12:52
+updated: 2026-08-11T20:32:40
 ---
 
 # Layla
@@ -76,6 +76,12 @@ Deity:: Unknown
 - [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
 - Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
 - Location as of approximately 12th Uktar: outside [[Crystal City]], near [[Corran's Spike]]
+
+## Session 1 Update (The JULYs)
+
+- 20th Uktar, Year 222 PA: appeared in [[The Emberveins]], a lava-lit cavern between Crystal City and Coldford, taking notes ahead of a shadow-creature encounter, ahead of four newly arrived JULYs PCs (Kai, Frankie, Odette Langford, Masamune Kento — Nanaya Rei was not among this arrival).
+- Corrected her own count aloud on seeing them: "Four. Last batch was four."
+- Gave the same pattern as prior arrivals: a location, a warning that something else in the cavern already knew they'd landed, and nothing more — cited "forty more of these to run tonight."
 
 ## Session 1 Update (The Understudies)
 
