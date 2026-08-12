@@ -41,7 +41,7 @@ Kai fights from angles no one's watching and is usually gone before the fight re
 
 ## Key Events
 
-- Joined the JULYs — first appearance pending.
+- Session 1 (20th Uktar, Year 222 PA) - cold open in Chengdu at Old Zhou's tea stall; when two men cornered a delivery boy (Bo) at the lane's end, Kai stepped in, challenged them, and flicked a card from his deck as an attack/distraction, then was teleported mid-action. Landed in The Emberveins with Frankie, Odette Langford, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
 
 ## Relationships
 

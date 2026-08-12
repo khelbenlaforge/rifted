@@ -45,7 +45,7 @@ Odette's faith belongs to the hush between sunset and true dark, the last stretc
 
 ## Key Events
 
-- *Session TBD — first appearance with The JULYs.*
+- Session 1 (20th Uktar, Year 222 PA) - cold open in Mayfair; ducked into the coat check before the Ambassador's table, took a snack off attendant Rosa's table, then was teleported. Landed in The Emberveins with Kai, Frankie, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
 
 ## Relationships
 

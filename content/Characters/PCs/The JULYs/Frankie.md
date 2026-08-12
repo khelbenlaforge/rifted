@@ -42,7 +42,7 @@ She fights by giving up her own shape. Wolf, bear, whatever the moment calls for
 
 ## Key Events
 
-- Session TBD — first appearance with The JULYs
+- Session 1 (20th Uktar, Year 222 PA) - cold open in Singapore; stepped outside Dr. Priya's vet clinic to take a call from her regional manager Farid about the Toa Payoh clinic's numbers, then was teleported walking back in through the clinic's entrance. Landed in The Emberveins with Kai, Odette Langford, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
 
 ## Relationships
 

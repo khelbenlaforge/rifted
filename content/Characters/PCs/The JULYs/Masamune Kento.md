@@ -43,7 +43,7 @@ Kento fights with the same exacting patience that made him a craftsman. Every mo
 
 ## Key Events
 
-- *Session TBD — first appearance with The JULYs.*
+- Session 1 (20th Uktar, Year 222 PA) - cold open in Tokyo, alone in the workshop after Endo-san locked up, examining Fujita-san's pocket watch - his hands recognized the style of a maker's mark on the inner case before he consciously placed it - then was teleported. Landed in The Emberveins with Kai, Frankie, and Odette Langford (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
 
 ## Relationships
 
