@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-02T13:59:16
+updated: 2026-08-14T16:00:23
 ---
 
 # Ether Scryer's Academy

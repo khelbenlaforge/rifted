@@ -7,7 +7,7 @@ campaign: Rifted
 session: 24
 date: 2026-07-27
 in-world-date: 30th Uktar, Year 222 PA
-updated: 2026-07-28T00:26:52
+updated: 2026-08-14T16:00:24
 ---
 
 # Session 24 — Four Litres of Blood

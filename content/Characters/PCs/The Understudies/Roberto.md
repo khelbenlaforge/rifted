@@ -7,6 +7,8 @@ campaign: Rifted
 introduced: 2026-08-12
 secret: false
 state: alive
+created: 2026-08-12T00:00:00
+updated: 2026-08-14T00:00:00
 ---
 
 # Roberto
@@ -25,27 +27,28 @@ state: alive
 
 ## Description
 
-Roberto doesn't perch so much as stand, spine straight and shoulders set, holding the posture of someone who spent a career staying still in rooms most people can't stomach. Feathers the color of old parchment run to flint-grey at the wingtips, and her eyes, gold-ringed and enormous, have the unblinking habit of someone used to cataloguing a scene before she says a word about it. When the Light moves through her, gold traces the edges of every feather and she looks, briefly, like something meant to be seen from a distance rather than spoken to.
+Roberto stands like he's still on the clock, spine straight, shoulders set, holding the posture of someone who spent a career staying still in rooms most people can't stomach. Feathers the color of old parchment run to flint-grey at the wingtips, and his eyes, gold-ringed and enormous, have the unblinking habit of someone used to cataloguing a scene before he says a word about it. When the Light moves through him, gold traces the edges of every feather, and for a second he looks like something painted onto a chapel wall, gilt catching exactly where the artist meant it to.
 
-She still dresses for the job she used to have. Practical layers, deep pockets, nothing that would snag on a doorframe or a body bag. A flask rides in one of those pockets more from muscle memory than actual thirst these days — though "these days" is doing some work in that sentence.
+He still dresses for the job he used to have. Practical layers, deep pockets, nothing that would snag on a doorframe or a body bag. A flask rides in one of those pockets more from muscle memory than actual thirst these days — though "these days" is doing some work in that sentence.
 
 ## Origin
 
-Before any of this, Roberto cleaned up after the dead in New York City. Legally, by day: biohazard remediation on contract with the NYPD, the unglamorous end of homicide and suicide and the kind of unattended death that isn't found for weeks. By night, off the books, she did the same work for the Italian mob — a fixer for the underworld, paid well to make evidence and bodies disappear before anyone official came looking. She had the stomach for it and the competence, and competence, in that line of work, gets you steady clients on both sides of the badge.
+Before any of this, Roberto cleaned up after the dead in New York City. Legally, by day: biohazard remediation on contract with the NYPD, the unglamorous end of homicide and suicide and the kind of unattended death that isn't found for weeks. By night, off the books, he did the same work for the Italian mob — a fixer for the underworld, paid well to make evidence and bodies disappear before anyone official came looking. He had the stomach for it and the competence, and competence, in that line of work, gets you steady clients on both sides of the badge.
 
-What it also gets you is a very clear, very unwanted education in how little it takes to end a person. Meat, mostly, wrapped around something that stops working. She drank to put a wall between herself and that fact, and the wall held well enough to keep her functional, professional, sane enough to keep showing up.
+What it also gets you is a very clear, very unwanted education in how little it takes to end a person. Meat, mostly, wrapped around something that stops working. He drank to put a wall between himself and that fact, and the wall held well enough to keep him functional and professional enough to keep showing up.
 
 It never made the fact go away.
 
-Then the world she knew ended, and she woke up something else — an owl-shaped creature threaded with light, apparently answerable to a domain that expects her to heal instead of erase. She finds the irony hard to sit with some days: the woman who spent a career disposing of the dead is now, allegedly, meant to keep people from joining them. It feels like a promotion she didn't apply for. Her hands still shake sometimes, and the flask still comes out, but for the first time in her life, the things she touches get to stay.
+Then the world he knew ended, and he woke up something else — an owl-shaped creature threaded with light, apparently answerable to a domain that expects him to heal instead of erase. He finds the irony hard to sit with some days: the man who spent a career disposing of the dead is now, allegedly, meant to keep people from joining them. It feels like a promotion he didn't apply for. His hands still shake sometimes, and the flask still comes out, but for the first time in his life, the things he touches get to stay.
 
 ## Abilities
 
-Roberto channels the Light Domain the way she used to work a scene: methodically, without flinching from what's in front of her. Radiant power gathers at her fingertips and along her feathers when she calls on it, the same old reflex now aimed somewhere holier. She doesn't dwell on the theology behind it; she just stops the wound before it can spread. What healing and protective magic she has, she deploys with the same clinical calm she once brought to a contaminated room — handle it, then move on before it can get to her.
+Roberto channels the Light Domain the way he used to work a scene: methodically, without flinching from what's in front of him. Radiant power gathers at his fingertips and along his feathers when he calls on it, the same old reflex now aimed somewhere holier. He doesn't dwell on the theology behind it; he just stops the wound before it can spread. What healing and protective magic he has, he deploys with the same clinical calm he once brought to a contaminated room — handle it, then move on before it can get to him.
 
 ## Key Events
 
 - Introduced 2026-08-12 — joined The Understudies.
+- 29th Uktar, Year 222 PA (Session 2): cold open in Bensonhurst, Brooklyn (mentoring trainee Nicky through a mob cleanup job) — isekai'd via a streetlamp turning blue mid-drink. Landed in [[The Hollowreach]] (misrouted by [[Layla]]), met Keith Poe for the first time. Knocked unconscious by a Shadow's Draining Swipe during the ensuing ambush (STR drained -2); a near-death vision (sunrise, a woman of light, a self-playing harp, an armored figure) resolved into the word 'Lathander' — auto-stabilized via a free Cure Wounds at 11 HP and cast Radiance of the Dawn, killing 2 shadow creatures. Currently in The Hollowreach, not yet arrived at Stormberg.
 
 ## Relationships
 
@@ -119,7 +122,7 @@ Roberto channels the Light Domain the way she used to work a scene: methodically
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Warding Flare** | — | 30 ft. | Trigger: any creature she can see within range makes an attack roll (not necessarily against her) — imposes Disadvantage on that roll before it hits or misses | — | — | 4/LR |
+| **Warding Flare** | — | 30 ft. | Trigger: any creature he can see within range makes an attack roll (not necessarily against him) — imposes Disadvantage on that roll before it hits or misses | — | — | 4/LR |
 
 ---
 
@@ -127,11 +130,11 @@ Roberto channels the Light Domain the way she used to work a scene: methodically
 
 - **Alert** *(Origin Feat)* — Initiative Proficiency: add prof bonus to Initiative rolls. Initiative Swap: immediately after rolling Initiative, can swap it with a willing ally's in the same combat (neither can be Incapacitated).
 - **Divine Order — Thaumaturge** — bonus to Intelligence (Arcana or Religion) checks equal to WIS mod (already reflected above); also knows one extra Cleric cantrip beyond the normal three — **Foundry only lists 3 cantrips (Guidance, Spare the Dying, Toll the Dead); the 4th isn't recorded — Leila will add it at the next session.**
-- **Light Domain Spells** — Burning Hands, Faerie Fire, Scorching Ray, See Invisibility always prepared; don't count against her normal prepared-spell total.
+- **Light Domain Spells** — Burning Hands, Faerie Fire, Scorching Ray, See Invisibility always prepared; don't count against his normal prepared-spell total.
 - **Channel Divinity** — see Actions for Divine Spark, Turn Undead, and Radiance of the Dawn; all three share one 2-use pool.
 - **Owlin — Flight** — flying speed equal to walking speed, but unusable while wearing medium or heavy armor. **Currently suppressed** — Roberto's equipped Chain Shirt is medium armor.
 - **Owlin — Silent Feathers** — proficiency in Stealth (reflected above).
-- **Rustic Hospitality** *(Folk Hero)* — can find a place to hide, rest, or recuperate among common folk unless she's shown herself a danger to them; they'll shield her from searchers but won't risk their lives for her.
+- **Rustic Hospitality** *(Folk Hero)* — can find a place to hide, rest, or recuperate among common folk unless he's shown himself a danger to them; they'll shield him from searchers but won't risk their lives for him.
 - **Spellcasting** — WIS-based; Holy Symbol usable as a spellcasting focus. Cleric prepared-spell max at level 3 is 6 (per the class's own Prepared Spells table, not the generic WIS-mod+level shortcut) — all 6 are filled (Command, Cure Wounds, Guiding Bolt, Healing Word, Sanctuary, Prayer of Healing).
 
 *Note: the Mace has the Sap weapon-mastery property, but Cleric is not one of the classes that gains the Weapon Mastery class feature — it has no mechanical effect for Roberto unless that changes (e.g. multiclassing).*
@@ -156,7 +159,7 @@ Roberto channels the Light Domain the way she used to work a scene: methodically
 ### Inventory
 
 **Armor:** Chain Shirt (equipped) · Shield (equipped)
-**Magic Items:** *None currently.*
+**Magic Items:** [[Neat]]
 **Gear:** Backpack · Blanket · Brewer's Supplies · Common Clothes · Holy Symbol (spellcasting focus) · Holy Water · Iron Pot · Lamp · Pouch · Rations ×7 · Robe · Shovel · Tinderbox
 
 ---
@@ -165,9 +168,9 @@ Race:: Owlin
 Subrace::
 Class:: Cleric (Light Domain)
 Player:: Leila
-Pronouns:: she/her
+Pronouns:: he/him
 Affiliation::
-Location::
-Deity::
+Location:: [[The Hollowreach]]
+Deity:: Lathander
 
 

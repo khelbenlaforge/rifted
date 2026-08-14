@@ -42,9 +42,9 @@ A couple of rounds in, a griffon's wingbeats became audible over the wind: [[The
 
 In the quiet after, someone worked out what the ruin actually was: an abandoned, previously undiscovered temple to [[Lathander]], hollowed out and drifting long enough that no one living remembered it had a name. Nobody could say what tore it loose from the ground in the first place, or why it never finished falling.
 
-Lea and Regius couldn't stay. They had their own meeting the next day — with [[The Claret]], in Crystal City, two days out from the Feast of the Moon — and a single griffon between them wasn't enough to carry four more people home. Lea reached [[Luks Borg]] back at the Guild for guidance; his answer was to get the four of them to the nearest Guild presence, wherever that was. Before either question got settled, the four found their answer made for them: Layla had already arranged transport before she'd even left. Giant eagles under goblin riders came down for the four of them — no destination offered, no destination up for discussion. They flew northeast, to **Stormberg**, on the coast of Corranor. Lea and Regius turned back for Crystal City and their own appointment.
+Lea and Regius couldn't stay. They had their own meeting the next day — with [[The Claret]], in Crystal City, two days out from the Feast of the Moon — and a single griffon between them wasn't enough to carry four more people home. Lea reached [[Luks Borg]] back at the Guild for guidance; his answer was to get the four of them to the nearest Guild presence, wherever that was. Before either question got settled, the four found their answer made for them: Layla had already arranged transport before she'd even left. Giant eagles under goblin riders came down for the four of them — no destination offered, no destination up for discussion. They lifted off northeast, bound for **Stormberg**, on the coast of Corranor. Lea and Regius turned back for Crystal City and their own appointment.
 
-Four people who'd never met each other a day before, now standing in a Guild outpost on a coastline none of them had chosen, with no idea yet whether that was an accident or the point.
+Four people who'd never met each other a day before, now airborne together over unfamiliar coastline, with no idea yet whether their destination was an accident or the point.
 
 ## Related
 

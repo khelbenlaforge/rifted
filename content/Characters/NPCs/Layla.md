@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-11T20:32:40
+updated: 2026-08-14T17:03:09
 ---
 
 # Layla
@@ -88,7 +88,8 @@ Deity:: Unknown
 - 29th Uktar, Year 222 PA: appeared at [[The Sundered Choir]], taking notes, ahead of a Shadow Creature ambush on four newly arrived Understudies PCs.
 - 29th Uktar, Year 222 PA: warned the four to run, then dove off the platform into the clouds below and was gone before the ambush itself began — did not engage directly, and left before Regius and Lea arrived as reinforcements partway through the fight.
 - 29th Uktar, Year 222 PA: the Shadow Creatures present were more solid, more humanoid, and more resistant than previous encounters, consistent with her creatures growing stronger.
-- 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant eagles before leaving, giving them no choice of destination.
+- 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant bats before leaving, giving them no choice of destination.
+- 29th Uktar, Year 222 PA (Session 2): misrouted two new arrivals, [[Keith Poe]] and [[Roberto]], into [[The Hollowreach]] instead of the Stormberg route the other four took. Arrived winded and visibly embarrassed over her own miscount, warned them a Shadow Creature attack was coming and transport (redirected goblin-riders on giant bats) was inbound, then misty-stepped away immediately — did not stay for the fight and did not return this session. [[Kili]], not Layla, was the one dropped back with Keith Poe and Roberto afterward — she'd been a passenger on that goblin-rider's bat since Session 01, not someone who reunited with them there; her player was absent, so no scene was played for it.
 - Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
 ## Session 25 Update

@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-08-12T01:40:00
+updated: 2026-08-14T00:00:00
 ---
 
 # Keith Poe
@@ -45,6 +45,7 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 ## Key Events
 
 - Introduced 2026-08-12 — joined The Understudies.
+- 29th Uktar, Year 222 PA (Session 2): cold open in Mae Sot, Thailand — a human trafficking case he'd been tracking (source Naw Eh Paw), a call from his patron pushing more funding and pressure to close it out fast — isekai'd via his phone's banking app screen turning blue. Landed in [[The Hollowreach]] (misrouted by [[Layla]]), met Roberto for the first time, survived a Shadow Creature ambush alongside him, [[!D'bleh|Gaslight]], and [[Fern]]. Currently in The Hollowreach, not yet arrived at Stormberg.
 
 ## Relationships
 
@@ -151,7 +152,7 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 ### Inventory
 
 **Armor:** Studded Leather Armor (equipped — not yet converted to Arcane Armor)
-**Magic Items:** *None currently.*
+**Magic Items:** [[The Last Exposure]]
 **Gear:** Backpack · Caltrops · Crowbar · Manacles · Oil ×2 · Rations ×10 · Rope · Shovel · Tinderbox · Torch ×10 · Traveler's Clothes · Vials ×3 · Waterskin
 
 ---
@@ -162,7 +163,7 @@ Class:: Artificer (Armorer)
 Player:: Zack
 Pronouns::
 Affiliation::
-Location::
+Location:: [[The Hollowreach]]
 Deity::
 
 

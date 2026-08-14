@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-08-02T00:00:00
+updated: 2026-08-14T00:00:00
 ---
 
 # Kili
@@ -155,5 +155,9 @@ Deity::
 
 - 29th Uktar, Year 222 PA: the played cold open diverged from the prep note; Kili's cover held long enough for her to be brought into the kitchen.
 - 29th Uktar, Year 222 PA: before the pull hit, she got to show off genuine cooking skill to the family's aunties rather than having her cover tested only at the door.
+
+## Session 2 Update
+
+- 29th Uktar, Year 222 PA: player absent — no scene played for her this session. Her character was a passenger on her own goblin-rider's bat (established since Session 01), which broke off from the group a second time at session's end to set her down with Keith Poe and Roberto in [[The Hollowreach]] rather than continue on to Stormberg — pure repositioning, not a played beat, setting her up to rejoin the party in Session 3.
 
 
