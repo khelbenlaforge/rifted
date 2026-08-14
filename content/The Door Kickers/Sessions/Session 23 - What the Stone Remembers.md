@@ -7,7 +7,7 @@ campaign: Rifted
 session: 23
 date: 2026-07-13
 in-world-date: 21st-28th Uktar, Year 222 PA
-updated: 2026-08-07T16:12:33
+updated: 2026-08-14T15:54:58
 ---
 
 # Session 23 — What the Stone Remembers
@@ -38,7 +38,7 @@ Work in Crystal City doesn't stop for revelations. Lea and Regius went to the Hu
 
 Ostrin Feld met them at a side gate, not the front door, and made it clear he intended this to be brief. Fifty years old, balding, livery a shade too faded for the house it represented, a signet ring too large to be casual. He looked tired and angry and frightened all at once, the kind of combination that means someone knows more than they're saying and would rather not say any of it. The job, once he got to it: the young lady of the house, [[Sellas Verenthal]], keeps leaving at inappropriate hours and the household keeps losing track of her. They need absolute discretion. Regius wouldn't be introduced to her — just asked to trail her through the city at night, unseen, and to break one of ten crystal glyphs she'd be given if trouble found her. Seventeen gold, three times over. Whatever House Verenthal is actually afraid of, Ostrin Feld didn't say it, and the gate behind him didn't look like it belonged to a house that could easily afford the silence it was buying.
 
-Regius picked up a second job at the docks after that — five gold, then eight more — and came away from it with something more useful than the coin: a foothold with the [[Azure Tamers]], including access to their sky tower and the use of one airship.
+Regius picked up a second job at the docks after that — five gold, then eight more — and came away from it with something more useful than the coin: a foothold with the [[Azure Tamers]], including access to their sky tower and their dock-delivery pipeline of tamed griffins and eagles.
 
 Lea, meanwhile, had her own assignment waiting. [[Istar Silverlock]] sent Terra to the Temple of [[Mielikki]] — [[Mielikki's Grove]], grown up through the middle of the [[Diamond District]] like the forest had simply refused to leave — to formally offer her service. She met [[Sylvara Oakwhisper]], who set the terms plainly: protect the people on the city's outskirts from taking more than they need, protect them from the wild without ever killing what threatens them, and remember that the guild comes first. Terra pressed her hand into the grove's earth while she listened and felt, unmistakably, a unicorn — not a vision exactly, just a presence, one of Mielikki's own faces turning briefly toward her. Twenty-six gold came with the assignment. The unicorn didn't.
 
