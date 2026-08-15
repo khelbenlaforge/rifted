@@ -35,7 +35,7 @@ Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd leve
 
 ## Background
 
-A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party — [[Midnight]], [[Torm of the Dales]], [[Cyric]], [[Kelemvor]] — as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
+A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party — [[Midnight]], [[Torm of the Dales]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]] — as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
 
 ## The Scar
 

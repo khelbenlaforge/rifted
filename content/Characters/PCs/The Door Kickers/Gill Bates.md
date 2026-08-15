@@ -54,7 +54,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - Attended the [[Council Tent]] meeting; assigned to assist at [[Tymora's Shrine]] under [[Sister Garaele]]
 - Helped distribute healing potions and tend to the settlement's wounded
 - Remained in [[Sunhold]] with [[Luks]] while the rest of the party departed south to rescue the Hucrele children
-- **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
+- **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
 - **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: Gill watches himself at the family table in Greece. His parents want him to call his cousin in Athens — the cousin who salted his fish when they were children. He wants the boats and the coast and none of this. He is outside the moment, watching himself refuse. In the liminal void, debriefed with the others. Arrived in [[Shadowdale]] as Adon; made no effort to conceal that the [[Old Skull Inn]] did not meet his standards. [[Jhaele Silvermane]] clocked his holy symbol — [[Sune]], goddess of beauty — and served him a crystal carafe of expensive wine without being asked: *"Your Majesty. Wine it is."* He accepted this as his due. Fought in the courtyard battle
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower, learned the shape of the crisis: Tablets of Fate, Celestial Stairway, multiple Mystra fragment carriers. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, during [[Midnight]]'s final transformation — when the pendantignited and the east wall blew outward — a masonry shard from the crumbling wall caught Adon across the face. Under the radar. He noticed the blood on his fingers only after. It will leave a scar. Permanent. A cleric of [[Sune]] — the goddess of beauty — marked permanently across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
@@ -235,4 +235,12 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - Held back two streets with [[The Exodus/The Door Kickers/PCs/Regius]] as backup during [[Sadiah Ispahani|Sadiah]] and [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
 - That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Nanuk]] and [[The Exodus/The Door Kickers/PCs/Lea]] as cover — a "fisherman" contact — while [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] negotiated with [[Tavia Orn]].
 - Entered the Claret's inner sanctum alongside [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]].
+
+## Session 26
+
+- Received a vision of a mote of light watching a humanoid figure work an anvil with a hammer; the figure was possibly [[Gond]].
+- [[Adon]] spoke through [[Fair Catch]], warning that [[Istishia]] and unnamed sibling primordials are weakening; Adon apologized to someone named Midnight.
+- Received guidance to pay closer attention to his studies with [[Tidecaller Marin Deepcurrent]].
+- Sensed Istishia faintly: steam shielded a baby in a crib from a reaching dark hand.
+- Walked to the [[Temple of Kelemvor]] with [[The Exodus/The Door Kickers/PCs/Lea|Lea]] and was present when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
 

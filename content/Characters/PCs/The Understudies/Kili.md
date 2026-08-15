@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-08-14T00:00:00
+updated: 2026-08-15T00:00:00
 ---
 
 # Kili
@@ -58,7 +58,7 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 | Class | Bard (College of Eloquence) |
 | Race | Changeling |
 | Background | Wayfarer |
-| HP (Max) | 23 |
+| HP (Max) | 27 |
 | AC | 14 |
 | Speed | 30 ft. |
 | Prof Bonus | +2 |
@@ -76,9 +76,9 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Acrobatics +4 . Animal Handling +2 . Arcana +2 . Athletics -1 . Deception +5 . History +2 . Insight +3 . Intimidation +5 . Investigation +2 . Medicine +2 . Nature +2 . Perception +3 . Performance +5 . **Persuasion +8** *(expertise)* . Religion +2 . Sleight of Hand +4 . **Stealth +7** *(expertise)* . Survival +2
+**Skills:** Acrobatics +4 . Animal Handling +2 . Arcana +2 . Athletics -1 . Deception +6 . History +2 . **Insight +5** *(expertise)* . Intimidation +6 . Investigation +2 . Medicine +2 . Nature +2 . Perception +2 . Performance +6 . **Persuasion +8** *(expertise)* . Religion +2 . Sleight of Hand +5 . Stealth +5 . Survival +2
 **Languages:** Common
-**Tools:** Thieves' Tools . Lute
+**Tools:** Thieves' Tools . Horn . Playing Cards
 
 ---
 
@@ -88,14 +88,12 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Dagger** | M/R +5 | 5 ft. / 20/60 ft. | 1d4+3 pierce | — | — | — |
 | **Unarmed Strike** | M +0 | 5 ft. | 1 bludgeon | — | — | — |
-| **True Strike** | M/R +6 | 5 ft. / 20/60 ft. | Atk w/ Dagger: 1d4+4 pierce or radiant (choice) | Cantrip | S, M | — |
+| **Message** | — | 120 ft. | Whisper to one creature; it hears you and can whisper a reply; lasts 1 rnd | Cantrip | S, M (copper wire) | — |
 | **Vicious Mockery** | WIS 14 | 60 ft. | 1d6 psychic; fail: disadv. next atk before end of its next turn | Cantrip | V | — |
-| **Wardaway** | CON 14 | 60 ft. | 2d4 force; ½ spd + action-or-BA only next turn; ½ dmg on save | 1st | V, S, M | — |
-| **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn; can teleport cube 30 ft. as Magic action | 2nd | V, S, M | Conc. |
-| **Comprehend Languages** | — | Self | Understand any spoken/written language; 1 hr | 1st | V, S, M | Ritual |
-| **Borrowed Knowledge** | — | Self | Gain proficiency in one chosen skill; 1 hr; ends early if recast | 2nd | V, S, M† | — |
-
-*† Borrowed Knowledge: M = book worth 25+ gp (not consumed)*
+| **Dissonant Whispers** | WIS 14 | 60 ft. | 3d6 psychic; fail: forced to spend reaction fleeing by safest route; success: ½ dmg only, no forced move | 1st | V | — |
+| **Tasha's Hideous Laughter** | WIS 14 | 30 ft. | Fail: Prone (can't end itself) + Incapacitated; new WIS save (adv. if by dmg) end of each of its turns/on dmg taken | 1st | V, S, M (tart & feather) | Conc. |
+| **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn per creature; cube movable 30 ft. as Magic action | 2nd | V, S, M (glass sliver) | Conc. |
+| **Suggestion** | WIS 14 | 30 ft. | Fail: Charmed, pursues achievable/harmless suggestion (≤25 words) until dmg dealt or 8 hrs pass | 2nd | V, M (honey drop) | Conc. |
 
 ### Bonus Actions
 
@@ -104,6 +102,7 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 | **Bardic Inspiration** | — | 60 ft. | Ally gains 1d6 Bardic Insp. die; use within 1 hr to add to a failed d20 Test | — | — | 4/LR |
 | **Unsettling Words** | — | 60 ft. | Expend 1 Bardic Insp. use; target subtracts the die roll from its next save before start of your next turn | — | — | Uses Bardic Insp. |
 | **Healing Word** | — | 60 ft. | 2d4+4 HP to one creature | 1st | V | — |
+| **Chop Chop: Rider Clause** | — | — | Ally gains an extra Bardic Insp. die (1d6) w/o expending Kili's own | — | — | 1/SR |
 
 ### Reactions
 
@@ -118,7 +117,10 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 - **Changeling Instincts** — proficient in two skills of choice from Deception/Insight/Intimidation/Performance/Persuasion (reflected in Skills above).
 - **Shape-Shifter** (Action) — change appearance, voice, height, and size (Medium ↔ Small) at will, including to resemble another playable species (no stat change); adv. on CHA checks while shape-shifted; revert to true form as an action.
 - **Jack of All Trades** — add half prof. bonus (round down) to ability checks that don't already include prof. bonus (reflected in Skills above).
-- **Expertise** — double prof. bonus on Persuasion and Stealth checks (reflected in Skills above).
+- **Expertise** — double prof. bonus on Insight and Persuasion checks (reflected in Skills above).
+- **Chop Chop: Closer's Instinct** (passive) — adv. on Persuasion and Deception checks while shape-shifted via Shape-Shifter.
+- **Chop Chop: Standing Ovation** (passive) — when a creature Kili can see reduces an enemy to 0 HP, she regains one expended Bardic Inspiration use (up to max).
+- **Chop Chop: Second Face** (1/Long Rest) — press the chop against an agreement stand-in to sense whether it favors someone other than who agreed to it, and how.
 - **Spellcasting** — CHA is spellcasting ability; can ritual-cast any known spell tagged Ritual without expending a slot.
 - **Silver Tongue** — on a Persuasion or Deception check, treat a d20 roll of 9 or lower as a 10.
 - **Lucky** — 2 Luck Points (= prof. bonus); spend 1 to gain adv. on your own d20 Test, or impose disadv. on an attack roll made against you; regain all on Long Rest.
@@ -132,15 +134,15 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 
 #### Ritual Spells
 
-- *Comprehend Languages*
+- *None currently known.*
 
 ---
 
 ### Inventory
 
 **Armor:** Leather Armor (equipped)
-**Magic Items:** [[Chop Chop]]
-**Gear:** Backpack · Bedroll ×2 · Bell · Bullseye Lantern · Costume ×3 · Dice Set · Lute · Mirror · Oil ×8 · Pouch · Rations ×9 · Thieves' Tools · Tinderbox · Traveler's Clothes · Waterskin
+**Magic Items:** [[Chop Chop]] (equipped, attuned)
+**Gear:** Backpack · Bedroll ×2 · Bell · Bullseye Lantern · Costume ×3 · Mirror · Oil ×8 · Pouch · Rations ×9 · Tinderbox · Traveler's Clothes · Waterskin
 
 Race:: Changeling
 Subrace::

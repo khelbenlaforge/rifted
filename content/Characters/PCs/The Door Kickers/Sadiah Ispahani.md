@@ -205,6 +205,11 @@ Session 23: Did not appear. Per [[The Exodus/The Door Kickers/PCs/Shen]], she re
 - Led the morning reconnaissance of [[The Low Flagon]] disguised, not stealthed, alongside [[The Exodus/The Door Kickers/PCs/Nanuk]], helping discover the hidden pocket-dimension vault and the trapped window.
 - Held position near the city wall during the night's meeting, unlike [[Terra]], and went completely unnoticed by [[Tavia Orn]] the entire night; did not enter the Claret's inner sanctum.
 
+## Session 26
+
+- Used *Mage Hand* to pull at moon-threads in the sky during the three-moons reveal.
+- Received a vision of a dark figure reading a book as black mist poured from its cast shadow, formed shadow creatures, and flew off searching for something; possible origin of the Shadow Creatures phenomenon remains unconfirmed.
+
 ---
 
 Race:: Wood Elf

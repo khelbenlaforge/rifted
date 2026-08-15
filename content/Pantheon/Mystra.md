@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-08-02T14:11:54
+updated: 2026-08-15T23:56:08
 ---
 
 # Mystra
@@ -77,6 +77,7 @@ The death of a god destabilizes magic — Mystra's death doubled chaos magic rol
 
 ## Connections
 
+- **[[Azuth]]** — Formerly among the most powerful mages alive, now her devoted adviser on magic's advancement and preservation — amorous, by some accounts. Named alongside her and [[Savras]] in the same temple complex in Session 26.
 - **[[Kelemvor]]** — A complicated history. [[The Exodus/The Door Kickers/PCs/Lea]] sensed love, betrayal, and unhealed wounds between Mystra's echo and the god of death's walled isolation during the Sealed Door trial.
 - **[[Gond]]** — Depicted opposite Mystra in the Sanctum statuary, his hammer shaping what her hands protect.
 - **[[The Exodus/The Door Kickers/PCs/Lea]]** — The PC most strongly aligned with Mystra's domain. Corran addressed Lea as "my Lady" in a vision — a title with possible Mystran significance.

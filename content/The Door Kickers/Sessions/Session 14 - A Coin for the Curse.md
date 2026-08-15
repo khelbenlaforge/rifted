@@ -17,7 +17,7 @@ updated: 2026-03-25T14:25
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Liminal void (frame); Shadowdale outskirts, Old Skull Inn, Old Skull Inn courtyard (vision)
 > **Party (present):** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
-> **Companions (in vision):** [[Midnight]] (Lea), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
+> **Companions (in vision):** [[Midnight]] (Lea), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor Lyonsbane|Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
 > **Source:** Voice memo, processed 2026-03-23
 
 ---
@@ -56,7 +56,7 @@ The DM pulls the avatars back down. Augie and Ember follow.
 
 *The campfire scene comes first.*
 
-This happens before the party reaches [[Shadowdale]] — a closing stitch on Session 13's loose thread. The previous night, [[Kelemvor]] slipped away from camp and came back the way he always does: unconscious, bloody, someone else's dinner beside him. The party used *Command* to make him talk. He talked.
+This happens before the party reaches [[Shadowdale]] — a closing stitch on Session 13's loose thread. The previous night, [[Kelemvor Lyonsbane|Kelemvor]] slipped away from camp and came back the way he always does: unconscious, bloody, someone else's dinner beside him. The party used *Command* to make him talk. He talked.
 
 He is a man from [[Arabel]] who has charged for everything his whole life because the alternative costs him everything else. The curse is hereditary. A Lyonsbane ancestor let a hag die without lifting a finger to help her, and in her dying breath she laid the price on every one of his line: *you cannot do anything for another person — truly, freely, without a transaction attached — without losing yourself.* Kelemvor has spent years building the perfect cage for it. His detachment is not cruelty. His fees are not greed. His entire personality is a prosthetic.
 
@@ -126,7 +126,7 @@ She knows everyone, Jhaele. She knows [[Rathan Thentraver]] by first name. She k
 
 [[Adon]] makes no effort to conceal that the Old Skull Inn does not meet his standards. Jhaele clocks his holy symbol — Sune, goddess of beauty — and serves him a crystal carafe of expensive wine without being asked. *Your Majesty. Wine it is.* He accepts this as his due.
 
-[[Kelemvor]] wants information. He frames it correctly: *I'll buy you a drink, you tell me about the wizard.* Persuasion 18, advantage. Hawksguard takes the drink. [[Elminster]] is the reason Shadowdale is safe, he says. One of the most powerful mages in the Forgotten Realms. The lord of the town is a man named [[Mourngrym Amcathra]]. Hawksguard doesn't volunteer more than that.
+[[Kelemvor Lyonsbane|Kelemvor]] wants information. He frames it correctly: *I'll buy you a drink, you tell me about the wizard.* Persuasion 18, advantage. Hawksguard takes the drink. [[Elminster]] is the reason Shadowdale is safe, he says. One of the most powerful mages in the Forgotten Realms. The lord of the town is a man named [[Mourngrym Amcathra]]. Hawksguard doesn't volunteer more than that.
 
 At a Perception roll of 15 in the inn: dark armor. Dark-armored soldiers, already inside, watching the room. The net is tightening and has been for longer than the party realized.
 
@@ -158,15 +158,15 @@ The courtyard is large: cobblestones, stables, a stable boy too young to be work
 
 A supply cart barrels through the gate at speed. The stable boy has his back turned.
 
-[[Midnight]] sees it before [[Kelemvor]] can react. She shouts across the courtyard: *I'll give you a silver to save him.*
+[[Midnight]] sees it before [[Kelemvor Lyonsbane|Kelemvor]] can react. She shouts across the courtyard: *I'll give you a silver to save him.*
 
 He saves him. Transaction intact. Curse does not trigger.
 
 The Zhentarim were already inside the courtyard.
 
-They had been there before the party arrived — pre-positioned, waiting for an opening. The cart chaos is the opening. While perception is split, the Agent moves: he's behind Midnight, arm around her throat, dragging her toward the gate. *We have her. Cover me.* The Commander plants himself at the exit — a wall, not yet a weapon. Five Toughs swarm [[Kelemvor]], blades out, trying to keep him occupied.
+They had been there before the party arrived — pre-positioned, waiting for an opening. The cart chaos is the opening. While perception is split, the Agent moves: he's behind Midnight, arm around her throat, dragging her toward the gate. *We have her. Cover me.* The Commander plants himself at the exit — a wall, not yet a weapon. Five Toughs swarm [[Kelemvor Lyonsbane|Kelemvor]], blades out, trying to keep him occupied.
 
-[[Kelemvor]] sees [[Midnight]] being dragged away.
+[[Kelemvor Lyonsbane|Kelemvor]] sees [[Midnight]] being dragged away.
 
 He does not say *how much.* He does not say *what's it worth to you.* He turns and attacks the Agent. To save her. Just that.
 
@@ -176,7 +176,7 @@ The curse doesn't care about intent.
 
 ## The Panther in the Courtyard
 
-It takes two rounds. Then the clothes shred and the cobblestones are red and what is standing in [[Kelemvor]]'s place is not Kelemvor.
+It takes two rounds. Then the clothes shred and the cobblestones are red and what is standing in [[Kelemvor Lyonsbane|Kelemvor]]'s place is not Kelemvor.
 
 [[Cyric]] reacts in one heartbeat: sees it, calculates it as a threat, stabs it twice. Cold. Silent. No hesitation and no cruelty — pure assessment. He didn't know what it was. He saw something dangerous near someone he travels with. He acted accordingly.
 

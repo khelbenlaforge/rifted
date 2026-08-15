@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-07T22:46:05
+updated: 2026-08-15T23:30:44
 ---
 
 # Lea
@@ -146,7 +146,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 | **Misty Step** | — | Self | Teleport up to 30 ft. to an unoccupied space Lea can see | 2nd | V | — |
 | **Elminster's Misdirection** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Until next turn, 1st atk vs Lea has disadv.; Lea's 1st save has adv. | 2nd | V | — |
 | **Elminster's Parting Gift** ([[Elminster's Spellbook|Spellbook]]) | DEX 15 | Touch | Conjure bead (1 hr); holder squeezes for 3d6+4 HP or adv. on a save, or throws 20/60 ft. — 5 ft. DEX 15 or 6d6 force, ½ on save; bead consumed on use | 3rd | V, S | — |
-| **Elminster's Footnote (Locked)** ([[Elminster's Spellbook|Spellbook]]) | — | Touch | Instantly read/comprehend any touched text regardless of language/script/obfuscation; senses deliberate falsehood (not the truth). **Locked** until Lea has cast 3 spells from the book in play | Cantrip | V, S | — |
+| **Elminster's Footnote** ([[Elminster's Spellbook|Spellbook]]) | — | Touch | Instantly read/comprehend any touched text regardless of language/script/obfuscation; senses deliberate falsehood (not the truth). Unlocked Session 26. | Cantrip | V, S | — |
 
 ### Reactions
 
@@ -166,7 +166,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 - **Arcane Recovery** — 1/LR after a short rest, recover spell slots totaling 2 levels.
 - **Ritual Adept** — Can cast Wizard ritual spells from her spellbook without preparing them.
-- **[[Elminster's Spellbook]]** — Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* remains locked until Lea has successfully cast 3 spells from the book in play.
+- **[[Elminster's Spellbook]]** — Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* unlocked in Session 26, once Lea had successfully cast 3 spells from the book in play.
 - **Detect Magic (Elven Lineage)** — Cast *Detect Magic* 1/LR without a spell slot.
 - **Temporal Awareness** — Add Intelligence modifier to initiative rolls.
 - **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.
@@ -260,4 +260,13 @@ PassiveStealth:: 11
 Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.
 
 Lea then visited [[Hucrele Manor]] in the [[Sapphire District]], where she met [[Sorelle]], the maid, and [[Soral Vayne]], the steward. Soral told her that the Blackstaff family is [[Crystal City]]'s first family, that its scion sits on the Council of Seven, and that it is a family of wizards. Lea earned 24 gp.
+
+## Session 26
+
+- Was present for [[Istar Silverlock]]'s declaration that the Blackstaffs do not own the [[Adamantine Guild]] and for the three-moons reveal.
+- Heard [[Elmindaria L'Thorian|Daria]]'s unconfirmed account that spellcasting flows through the three moons by proxy.
+- Learned that [[Azuth]] and [[Savras]] are lesser deities of magic housed in [[Mystra]]'s temple complex — none of the three keep traditional clergy; Azuth and Savras are each attended by devoted magic-users instead.
+- Recalled the [[Mystra]] and [[Bane]] flashback in which gods died.
+- Cast [[Elminster's Spellbook|Elminster's Inquiry]] to ask the Weave directly how the party can get help from the gods; answer, in three words: "Get past barrier." Confirmed Layla herself has not crossed that barrier. This casting was the third from the spellbook — it unlocked the book's locked cantrip, Elminster's Footnote.
+- Was present outside the [[Temple of Kelemvor]] when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
 

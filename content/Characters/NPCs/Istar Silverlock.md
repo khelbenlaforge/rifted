@@ -176,3 +176,10 @@ Deception +12★ · Insight +9★ · Investigation +8★ · Perception +9★ · 
 
 Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] stole from [[Elmindaria L'Thorian]]. Istar tasked Jonathan with stealing the recently installed mithral scales from the great statue at the [[Hall of Justice - Temple of Tyr]], forty feet above the floor. Istar will train him for a month; if he performs the theft well, the reward is half-proficiency in Deception.
 
+## Session 26
+
+- Brought the party outside to witness the three moons.
+- Declared, "The Blackstaffs do not own this guild. If we choose not to go, we don't go."
+- Told the party the [[Corranor Council|Council of Seven]] wanted to see them the next day after a public address.
+- Said a priest of [[Kelemvor]] would close the Feast of the Moon with a blessing for [[Crystal City]].
+

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-08-07T23:11:25
+updated: 2026-08-15T23:46:22
 ---
 
 # Nanuk
@@ -217,4 +217,13 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - Present, disguised and stealthed, for the morning recon of [[The Low Flagon]] alongside [[Sadiah Ispahani]] — found the hidden pocket-dimension window (arcana), disarmed a needle-trapped window (thieves' tools), and located an unexplained corridor running from the tavern into the city wall itself.
 - That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Lea]] as cover.
 - Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]], and [[The Exodus/The Door Kickers/PCs/Lea]].
+
+## Session 26
+
+- Received a vision echoing his Session 24 vision: merging with a larger being would cost his body and empower that being.
+- [[Inukshuk]] told him the Great Spirit is hurt but alive and needs him; the four spirits of the North, South, East, and West are converging to form a new world.
+- Met [[Sylvara Oakwhisper]] at [[Mielikki's Grove]] and learned he is a child of [[Silvanus]], the Oak Father.
+- Learned that Silvanus and [[Malar]] are in an opposition whose collapse would upset a larger balance; the [[Ancients of Lava]] are extremists rather than representatives of Silvanus's creed.
+- Sylvara gestured him in the general direction of [[Stormberg]] — not a confirmed destination.
+- Was walking back toward the [[Jade Spire]] when initiative rolled.
 

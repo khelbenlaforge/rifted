@@ -17,7 +17,7 @@ updated: 2026-03-25T14:25
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Arabel → Castle Kilgrave, Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
 > **Party (present):** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Lea]]
-> **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor]]
+> **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]]
 > **Source:** Voice memo + module annotations, processed 2026-03-17
 
 ---
@@ -62,7 +62,7 @@ They land in a tavern in Arabel, Cormyr. Not in their own bodies.
 
 [[The Exodus/The Door Kickers/PCs/Gill Bates]] is [[Adon]] — a cleric of [[Sune]], devoted, good-hearted, and openly vain. He cares about his image in a way that is not cruel but is very, very consistent.
 
-The others in their company are [[Cyric]], a rogue of uncertain allegiance who moves like he is always measuring exits, and [[Kelemvor]], a fighter who charges fairly for his work and will never explain why.
+The others in their company are [[Cyric]], a rogue of uncertain allegiance who moves like he is always measuring exits, and [[Kelemvor Lyonsbane|Kelemvor]], a fighter who charges fairly for his work and will never explain why.
 
 Outside, the Storm is breaking. This is no ordinary weather — the world's sky is coming apart, and within it, the gods of the Forgotten Realms are falling like stones. They have been cast out of their divine planes by [[AO]], who found the Tablets of Fate stolen from his vault. Until those tablets are returned, the divine are walking among the mortal, lessened, angry, and dangerous. Magic is unreliable now. Every spell cast rolls against a chaos table: sometimes nothing, sometimes too much, sometimes something else entirely.
 
@@ -98,7 +98,7 @@ The mist shows them their desires. Some resist. Some do not. In the end, all of 
 
 On the second-floor landing, the party finds a magic circle inscribed into the stone. It is a complex working, layered. Through arcana and investigation checks, they determine: one layer controls the fog; another the hallucinations; a third and fourth control the seal and the magical trap on the door at the back of the hall.
 
-The door bears a symbol of [[Bane]]. When [[Kelemvor]] and [[Torm of the Dales]] approached it, they were each given a saving throw — one of them takes necromantic damage. The trap is real.
+The door bears a symbol of [[Bane]]. When [[Kelemvor Lyonsbane|Kelemvor]] and [[Torm of the Dales]] approached it, they were each given a saving throw — one of them takes necromantic damage. The trap is real.
 
 They dismantle the circle layer by layer. The door opens.
 
@@ -160,7 +160,7 @@ At [[Midnight]]'s feet: the pendant. It will not let anyone else touch it. When 
 
 The party decides to go to Shadowdale. [[Torm of the Dales]] does not mention that he knows [[Elminster]].
 
-They travel. Days pass. At a night camp, [[Kelemvor]] slips away from the fire, alone.
+They travel. Days pass. At a night camp, [[Kelemvor Lyonsbane|Kelemvor]] slips away from the fire, alone.
 
 He does not return.
 

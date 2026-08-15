@@ -40,7 +40,7 @@ Flippant, deliberately outrageous, quick-witted and pranksome. Good-hearted in a
 
 ## Background
 
-A Knight of Myth Drannor — one of the Realms' most celebrated adventuring companies, named for the fallen elven city, operating as champions of good across Faerûn — and a Harper agent working undercover in Arabel when the Storm hit. He joined the group of [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor]] as they navigated the chaos of the Avatar Crisis in Cormyr. His Harper connections and his knowledge of the political landscape of the Sword Coast gave the party direction when the divine world fell into chaos.
+A Knight of Myth Drannor — one of the Realms' most celebrated adventuring companies, named for the fallen elven city, operating as champions of good across Faerûn — and a Harper agent working undercover in Arabel when the Storm hit. He joined the group of [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]] as they navigated the chaos of the Avatar Crisis in Cormyr. His Harper connections and his knowledge of the political landscape of the Sword Coast gave the party direction when the divine world fell into chaos.
 
 He knows [[Elminster]]. He told the party in Shadowdale — first casually dropping that the magical tower was "my friend Elminster's," then confirming it under [[Midnight]]'s *Command* spell. He withheld the Harper context: that he's been sent on missions by Elminster, that the Knights of Myth Drannor are Elminster's personal confidants. The facts checked out; the depth did not.
 

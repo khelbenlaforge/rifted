@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-08-07T23:16:29
+updated: 2026-08-15T21:57:55
 ---
 
 # Terra
@@ -218,6 +218,13 @@ She was in a shelter in California when the light took her.
 - Served as rooftop lookout during the [[The Low Flagon]] approach.
 - Failed her stealth check on a natural 1 and was spotted outright; [[Tavia Orn]] noticed her directly and the party told her to go home.
 - Her player was absent this session, so Terra withdrew to the [[Adamantine Guild]] rather than continue in the scene.
+
+## Session 26
+
+- Learned (per the DM's direct account, not Lea's original notes) that her Cold Open celestial companion chose to merge with a massive being under attack, giving up its continuity/soul to empower it; the companion's body was left dead in the vision.
+- Danced Sehanine's Feast rite unknowingly alongside worshipers who knew the same steps; her wings glowed silver.
+- [[Hollowstone]], worn as her pendant, grew hotter through the rite — melted its cord twice, fell, and reappeared around her neck both times; once it said, "This is not the never after I was speaking of."
+- Remained at [[Sehanine Moonbow|Sehanine]]'s shrine when initiative rolled, separated from the rest of the party.
 
 ---
 
