@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-08-02T14:00:03
+updated: 2026-08-15T23:13:55
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -30,7 +30,7 @@ When [[Lady Blackstaff]] examined the book at [[Blackstaff Mansion]], she recogn
 
 This spellbook contains a selection of [[Elminster]]'s original spells: his own working drafts, unaltered since he wrote them. Lea can read and prepare any spell contained within that is of a level she can currently cast. She cannot transcribe them into her own spellbook while in the dungeon — that requires time, quiet, and proper materials.
 
-As Lea gains levels and can cast higher-level spells, more of the book's contents become legible to her. At **Level 3** she can read and prepare 1st–2nd level spells. The cantrip is locked — see below.
+As Lea gains levels and can cast higher-level spells, more of the book's contents become legible to her. At **Level 3** she can read and prepare 1st–2nd level spells. The cantrip unlocked in Session 26 — see below.
 
 **Transcription:** Once out of the dungeon, Lea may spend the normal time and gold to transcribe spells from this book into her own.
 
@@ -57,8 +57,8 @@ All are Elminster originals — his own devising, codified over four centuries.
 Touch any written text — a book, scroll, inscription, cipher, or magical notation. Instantly read and fully comprehend its contents, regardless of language, script, or magical obfuscation. If the text is deliberately false, you know it is written to deceive, but not what the truth is.
 *He reads everything. He always has.*
 
-> [!warning] Locked
-> This cantrip occupies a page at the back of the book written in a cipher that shifts as Lea reads it. It becomes legible only after she has successfully cast at least 3 spells from this book in actual play. When it unlocks, the page simply clarifies. No ceremony.
+> [!success] Unlocked (Session 26)
+> This cantrip occupied a page at the back of the book written in a cipher that shifted as Lea read it, legible only after she'd successfully cast 3 spells from the book in actual play. Her third casting — Elminster's Inquiry, asking the Weave how to reach the gods — was the one that satisfied it. The page simply clarified. No ceremony.
 
 ---
 

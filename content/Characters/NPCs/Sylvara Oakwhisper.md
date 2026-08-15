@@ -1,15 +1,15 @@
 ---
 title: Sylvara Oakwhisper
 aliases:
-  - Sylvara
+- Sylvara
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-06-20T18:11
+updated: 2026-08-15T23:44:49
 ---
 
 # Sylvara Oakwhisper
@@ -60,5 +60,12 @@ Sylvara confirmed to [[The Exodus/The Door Kickers/PCs/Ember]] that [[Belak]] di
 ## Session 23
 
 [[Istar Silverlock]] directed [[Terra]] to formally serve under Sylvara at the temple. Sylvara assigned her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
+
+## Session 26
+
+- Met with [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] at [[Mielikki's Grove]] and identified him as a child of [[Silvanus]], the Oak Father.
+- Explained that [[Silvanus]] and [[Malar]] are locked in an opposition where either's death would collapse a larger balance.
+- Identified the [[Ancients of Lava]] as extremists who do not represent Silvanus's creed; Silvanus opposes only those claiming to stand outside "the tree."
+- Gestured Nanuk in the general direction of [[Stormberg]] — not a confirmed destination.
 
 

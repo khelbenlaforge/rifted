@@ -1,15 +1,15 @@
 ---
 title: Fair Catch
 aliases:
-  - Adon's Spear
-  - The Fishing Spear
+- Adon's Spear
+- The Fishing Spear
 tags:
-  - item
+- item
 campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-25T22:59
-updated: 2026-06-24T17:03
+updated: 2026-08-15T22:31:53
 ---
 > [!infobox]
 > # Fair Catch

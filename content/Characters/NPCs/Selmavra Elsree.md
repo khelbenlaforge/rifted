@@ -56,7 +56,7 @@ In the Zhentarim courtyard ambush, Selmavra cast *Hail of Thorns* — the Chaos 
 
 ## Session 15
 
-[[Vael]] dropped from the stable roof the moment [[Kelemvor]] transformed back — landed on the cobblestones, walked to Selmavra: *"Jumping into danger for strangers? Fascinating."* Then went invisible. She did not leave.
+[[Vael]] dropped from the stable roof the moment [[Kelemvor Lyonsbane|Kelemvor]] transformed back — landed on the cobblestones, walked to Selmavra: *"Jumping into danger for strangers? Fascinating."* Then went invisible. She did not leave.
 
 Vael was at Selmavra's shoulder the entire walk to [[Elminster]]'s Tower. At the Ashaba Bridge, Selmavra caught movement at the edge of her vision more than once during the fighting — always the same silhouette, always gone before anyone else saw it. No interference. Witness only.
 
