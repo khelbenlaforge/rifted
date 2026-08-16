@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-08-16T00:20:18
+updated: 2026-08-16T00:33:02
 ---
 
 # Stormberg
@@ -45,7 +45,7 @@ Status:: active
 
 ## Current Events
 
-Stormberg's rhythm flips with the gate cycle. While the island's airborne and the gates are shut, the town turns inward: watch shifts double, [[Adamantine Guild]] teams push harder into the Blind Reaches as the storm outside tests every seam in the Wall, and nobody idle stays that way for long. When the island grounds and the gates swing open, the harbor snaps awake — trade ships queue at the Stormgate, and whatever's timed to catch the opening moves with them. Arctic runs rarely finish inside a single window, though; most are gone for the length of an airborne cycle or longer.
+Stormberg's rhythm flips with the gate cycle. Airborne, gates shut: the town turns inward. Watch shifts double, [[Adamantine Guild]] teams push harder into the Blind Reaches as the storm outside tests every seam in the Wall, and nobody idle stays that way for long. Grounded, gates open, and the harbor snaps awake all at once — trade ships queuing at the Stormgate, latecomers slipping in behind them. Arctic runs rarely finish inside a single window, though; most are gone for the length of an airborne cycle or longer.
 
 Right now, with the gates still shut, two parties are out past the Wall and can't come home until the next grounding: a routine relief run resupplying an existing arctic camp, and a Magocracy-sponsored survey team chasing rumors of etheric-crystal shards further out than anyone's charted recently. Neither's cause for alarm — it's just gone quiet a beat longer than usual, and the harbor's starting to notice.
 

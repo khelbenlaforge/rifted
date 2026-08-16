@@ -1,9 +1,8 @@
 ---
-
 title: The Exodus Wiki
 secret: false
 created: 2026-03-16T00:44
-updated: 2026-07-14T19:21:53
+updated: 2026-08-16T00:30:34
 ---
 
 # Welcome to Aenath
@@ -20,11 +19,20 @@ This is the player-facing wiki for **The Exodus** — a shared setting whose cur
 - [[Items/|Items]]
 - [[Bestiary/|Bestiary]]
 - [[Vehicles/|Vehicles]]
+- [[House Rules/|House Rules]]
 - [[Campaign Timeline]]
 
 ## By Table
 
 ### The Door Kickers
-- [[Characters/PCs/The Door Kickers/|Player Characters]]
+- [[The Door Kickers/PCs/|Player Characters]]
 - [[The Door Kickers/Sessions/|Sessions]]
+
+### The Understudies
+- [[The Understudies/PCs/|Player Characters]]
+- [[The Understudies/Sessions/|Sessions]]
+
+### The JULYs
+- [[The JULYs/PCs/|Player Characters]]
+- [[The JULYs/Sessions/|Sessions]]
 
