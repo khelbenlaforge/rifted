@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-08-07T22:43:30
+updated: 2026-08-16T17:34:43
 created: 2026-08-07T15:38:12
 ---
 
@@ -44,6 +44,8 @@ Sehanine Moonbow's faithful gather for the **Mystic Rites of the Luminous Cloud*
 Shar's faithful keep no public shrine for it, but the night has a name in their circles too — the **Rising of the Dark**, the year's last full dark before Selûne's light comes back. What happens is rarely witnessed and never confirmed: a sacrifice, the saying goes, and a year's worth of scheming set loose once it's done. Most of Corranor treats it as a story told to frighten children. A DM running Shar's cult should treat it as neither rumor nor coincidence.
 
 Not every corner of the night stays somber, either. Lliira's shrine keepers close their service by casting weapons to the ground and burying them under fresh flowers before dawn — the Swords Cast Down. Out past the walls, Shiallia's grove-tenders throw the tree line open to anything that wants in — beast, fey, or otherwise — for feasting, dancing, and songs that don't stop for anyone's grief.
+
+[[Savras]]'s few devout keep the quietest vigil of the night — the **Vision** — twenty-four hours shut away in a steam bath or a haze of incense, waiting to see what the All-Seeing shows them.
 
 ## Role in the Story
 
