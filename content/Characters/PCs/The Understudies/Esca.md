@@ -51,6 +51,7 @@ Whatever Aenath handed him slotted into reflexes that were already inhuman. The 
 ## Key Events
 
 - Introduced 2026-07-18 — joined The Understudies.
+- Session 4 (Feast of the Moon, Year 222 PA): rejoined the group for the first time since Session 1, dropped off by his goblin-rider carrying five brass Adamantine Guild bracers and instructions to wear them before entering Stormberg — sender unknown. Walked the overland approach with Kili, Keith Poe, Roberto, and the newly-recovered Samson Flint, and was inducted into the Stormberg Wallwatch alongside them.
 
 ## Relationships
 
@@ -168,8 +169,8 @@ Race:: Elf
 Subrace:: High Elf Lineage
 Class:: Wizard (War, 2014)
 Pronouns:: 
-Affiliation:: 
-Location:: 
+Affiliation:: The Understudies
+Location:: [[Stormberg]]
 Deity:: 
 
 ## Session 1 Update
