@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-08-14T00:00:00
+updated: 2026-08-14T09:00:00
 ---
 
 # Samson Flint
@@ -44,6 +44,7 @@ Samson fights like he builds, reading the structure of a fight the way he once r
 ## Key Events
 
 - As of Session 2 (29th Uktar, Year 222 PA): one of the same batch of arrivals as Keith Poe and Roberto — his teleport is unaccounted for, location unknown. Hook for Session 3: locate and rescue him.
+- Session 3 (29th–30th Uktar, Year 222 PA): located and recovered by Kili, Keith Poe, and Roberto — had been dragged through a portal doorway by a Shadow Creature into a dimensional pocket (The Hexad). Rescued but remains unconscious; his player was absent again this session.
 
 ## Relationships
 
@@ -139,7 +140,7 @@ Class:: Fighter (Echo Knight)
 Player:: Chris
 Pronouns::
 Affiliation:: [[The Understudies]]
-Location::
+Location:: The Hollowreach
 Deity::
 
 

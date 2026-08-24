@@ -63,7 +63,7 @@ Odette's faith belongs to the hush between sunset and true dark, the last stretc
 | AC | 15 |
 | Speed | 30 ft. |
 | Prof Bonus | +2 |
-| Vision | Darkvision 300 ft. |
+| Vision | Darkvision 60 ft. |
 
 | Ability | Score | Modifier |
 | --- | --- | --- |

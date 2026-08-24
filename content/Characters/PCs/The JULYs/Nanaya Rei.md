@@ -71,8 +71,9 @@ Nanaya fights the way he lives: from the edges, and never head-on if he can help
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Acrobatics +4 . Animal Handling +6 . Arcana +0 . Athletics +1 . Deception +4 . History +0 . Insight +6 . Intimidation +2 . Investigation +0 . Medicine +4 . Nature +0 . Perception +6 . Performance +4 . Persuasion +4 . Religion +0 . Sleight of Hand +4 . Stealth +6 . Survival +4
+**Skills:** Acrobatics +4 . Animal Handling +6 . Arcana +0 . Athletics +1 . Deception +8* . History +0 . Insight +6 . Intimidation +6* . Investigation +0 . Medicine +4 . Nature +0 . Perception +6 . Performance +8* . Persuasion +8* . Religion +0 . Sleight of Hand +4 . Stealth +6 . Survival +4
 
+*Deception/Intimidation/Performance/Persuasion include the +4 WIS-mod bonus from Otherworldly Glamour (see Features).
 **Languages:** Common . Orc . Primordial
 
 **Tools:** Playing Cards +2 . Thieves' Tools +2

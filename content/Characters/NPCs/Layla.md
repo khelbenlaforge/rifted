@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-14T17:03:09
+updated: 2026-08-22T02:32:09
 ---
 
 # Layla
@@ -32,7 +32,7 @@ Layla is a tiefling whose infernal heritage reads as careful restraint — the k
 
 ## Personality
 
-Layla's warmth is real — her friendship with [[Perrin Quickquill]] carries genuine history, genuine shared frustrations. Years inside an academic institution taught her to keep a low profile. Nothing about her announces danger.
+Layla's warmth is real — her friendship with [[Perrin Quickquill]] carries genuine history, genuine shared frustrations. Years inside an academic institution taught her to keep a low profile, and she's good enough at it that most people never think to look twice.
 
 She believes, or says she believes, in keeping promises — that a commitment, once made, ought to be honored regardless of who or what made it. Whether that's principle or self-justification is one of the party's live questions.
 
@@ -91,6 +91,14 @@ Deity:: Unknown
 - 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant bats before leaving, giving them no choice of destination.
 - 29th Uktar, Year 222 PA (Session 2): misrouted two new arrivals, [[Keith Poe]] and [[Roberto]], into [[The Hollowreach]] instead of the Stormberg route the other four took. Arrived winded and visibly embarrassed over her own miscount, warned them a Shadow Creature attack was coming and transport (redirected goblin-riders on giant bats) was inbound, then misty-stepped away immediately — did not stay for the fight and did not return this session. [[Kili]], not Layla, was the one dropped back with Keith Poe and Roberto afterward — she'd been a passenger on that goblin-rider's bat since Session 01, not someone who reunited with them there; her player was absent, so no scene was played for it.
 - Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
+
+## Session 3 Update
+
+- 29th Uktar, Year 222 PA: returned to [[Kili]], [[Keith Poe]], and [[Roberto]] in [[The Hollowreach]]. This time she stayed instead of warning them off and vanishing, and revealed a third same-batch teleportee ([[Samson Flint]]) had also been misrouted nearby.
+- She had tracked him herself: found him dragged through a portal doorway by a [[Shadow Creatures|Shadow Creature]].
+- A barrier at that portal stopped her specifically from passing through. Not a locked door. Not a detectable spell — just impassable to her, for reasons she couldn't explain.
+- She brought the three PCs to the portal and left the choice with them, framed as a matter of their own conscience rather than an order: save one of their own from Earth, or don't. They found they could pass through where she could not.
+- Before they went in, she gave them instructions for reaching [[Stormberg]] once Samson was recovered.
 
 ## Session 25 Update
 
