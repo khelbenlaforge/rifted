@@ -1,13 +1,13 @@
 ---
 title: Adamantine Guild
-aliases:
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-06-20T18:11
+updated: 2026-08-24T17:24:13
 ---
 
 # Adamantine Guild
@@ -38,6 +38,10 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 ## Operations
 
 The guild was once well-staffed, but [[Shadow Creatures]] attacks and frontier deployments have reduced active membership to a skeleton crew. It maintains connections with the [[Corranor Council]], though tensions exist over unfulfilled promises of supplies — particularly healing potions. The guild sponsors adventurers with room, board, training, mentorship, and an official charter granting peacekeeping authority.
+
+## Rank System
+
+Four tiers, mirroring 5e's own tiers of play: **Brass → Iron → Mithril → Adamantite.** Brass is the bottom rung — bracers stamped and sealed as the real thing, but the newest and least-trusted rank a member can hold. Confirmed at the Stormberg branch (Session 4, The Understudies): a Guild watchman recognized brass bracers on sight as legitimate rank, still unissued by his own branch that night.
 
 ## Current Status
 

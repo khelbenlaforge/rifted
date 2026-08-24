@@ -45,6 +45,7 @@ Samson fights like he builds, reading the structure of a fight the way he once r
 
 - As of Session 2 (29th Uktar, Year 222 PA): one of the same batch of arrivals as Keith Poe and Roberto — his teleport is unaccounted for, location unknown. Hook for Session 3: locate and rescue him.
 - Session 3 (29th–30th Uktar, Year 222 PA): located and recovered by Kili, Keith Poe, and Roberto — had been dragged through a portal doorway by a Shadow Creature into a dimensional pocket (The Hexad). Rescued but remains unconscious; his player was absent again this session.
+- Session 4 (Feast of the Moon, Year 222 PA): first live session for his player (Chris). Recovered and walking under his own power for the overland approach to Stormberg; witnessed the shared three-moon reveal en route. Inducted into the Adamantine Guild's Stormberg branch by Rhona Voss alongside Kili, Keith Poe, Roberto, and Esca. Now housed in the branch's pocket-dimension dormitory.
 
 ## Relationships
 
@@ -139,8 +140,8 @@ Subrace::
 Class:: Fighter (Echo Knight)
 Player:: Chris
 Pronouns::
-Affiliation:: [[The Understudies]]
-Location:: The Hollowreach
+Affiliation:: The Understudies
+Location:: [[Stormberg]]
 Deity::
 
 
