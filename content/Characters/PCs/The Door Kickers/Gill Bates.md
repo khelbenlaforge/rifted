@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-07T18:47:36
+updated: 2026-08-24T20:17:33
 ---
 
 # Gill Bates
@@ -219,6 +219,7 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity:: [[Istishia]]
+Playbook:: [[Gill Bates - Playbook]]
 PassivePerception:: 14
 PassiveInsight:: 17
 PassiveInvestigation:: 11

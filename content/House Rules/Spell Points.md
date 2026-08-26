@@ -1,13 +1,13 @@
 ---
 title: Spell Points
 aliases:
-  - Spell Point System
+- Spell Point System
 tags:
-  - house-rule
+- house-rule
 campaign: Rifted
 secret: false
 created: 2026-03-15T02:48
-updated: 2026-03-15T02:56
+updated: 2026-08-26T12:53:57
 ---
 
 # Spell Points
@@ -59,6 +59,7 @@ At the start of each day, your pool = **the sum of (each slot level × number of
 - Points replenish as per the class's rules on replenishment
 - Cantrips are unaffected — cast freely as normal
 - You cannot cast a spell above your class's max spell level, regardless of points available
+- Spells of **6th level or higher** can only be cast **once per long rest**, regardless of points available — prevents banking points for repeated high-level casting
 
 ## Sorcery Points (Sorcerer Only)
 

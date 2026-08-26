@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-08-07T23:12:31
+updated: 2026-08-24T20:34:27
 ---
 
 # Shen
@@ -185,6 +185,7 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+Playbook:: [[Shen - Playbook]]
 PassivePerception:: 14
 PassiveInsight:: 13
 PassiveInvestigation:: 16
