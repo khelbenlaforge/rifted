@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:34:11
-updated: 2026-08-26T16:11:44
+updated: 2026-08-26T19:13:57
 ---
 
 # Rachel Tan
@@ -158,5 +158,6 @@ Player:: Roselle
 Pronouns::
 Location::
 Deity::
+Playbook:: [[Rachel Tan - Playbook]]
 
 

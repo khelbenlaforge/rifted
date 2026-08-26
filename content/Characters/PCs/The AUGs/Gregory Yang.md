@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-08-26T16:06:16
+updated: 2026-08-26T19:17:38
 ---
 
 # Gregory Yang
@@ -171,5 +171,6 @@ Player:: Darren
 Pronouns::
 Location::
 Deity::
+Playbook:: [[Gregory Yang - Playbook]]
 
 

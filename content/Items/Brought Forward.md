@@ -7,7 +7,8 @@ tags:
 campaign: Rifted
 introduced: 2026-08-26
 secret: false
-updated: 2026-08-26T18:46:48
+created: 2026-08-26T18:46:48
+updated: 2026-08-26T19:12:24
 ---
 
 # Brought Forward
