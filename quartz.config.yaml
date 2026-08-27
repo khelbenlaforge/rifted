@@ -304,26 +304,44 @@ layout:
       exclude:
         - reader-mode
         - tag-list
-        - player-note
-        - session-notes
-        - five-e-tools
+        # These three's exclude names must match what extractPluginName() derives from the
+        # source URL (the repo name's last path segment: github:khelbenlaforge/quartz-X ->
+        # "quartz-X"), NOT the plugin's own internal quartz.name manifest field ("five-e-tools"
+        # etc) — confirmed via config-loader.ts's extractPluginName(). Using the manifest name
+        # here silently matched nothing, so these three leaked onto folder/tag/changelog pages
+        # (a real v4-behavior regression) undetected since Stage 4/6 until a full recheck caught it.
+        - quartz-player-note
+        - quartz-session-notes
+        - quartz-five-e-tools
       positions:
         right: []
     tag:
       exclude:
         - reader-mode
         - tag-list
-        - player-note
-        - session-notes
-        - five-e-tools
+        # These three's exclude names must match what extractPluginName() derives from the
+        # source URL (the repo name's last path segment: github:khelbenlaforge/quartz-X ->
+        # "quartz-X"), NOT the plugin's own internal quartz.name manifest field ("five-e-tools"
+        # etc) — confirmed via config-loader.ts's extractPluginName(). Using the manifest name
+        # here silently matched nothing, so these three leaked onto folder/tag/changelog pages
+        # (a real v4-behavior regression) undetected since Stage 4/6 until a full recheck caught it.
+        - quartz-player-note
+        - quartz-session-notes
+        - quartz-five-e-tools
       positions:
         right: []
     changelog:
       exclude:
         - reader-mode
         - tag-list
-        - player-note
-        - session-notes
-        - five-e-tools
+        # These three's exclude names must match what extractPluginName() derives from the
+        # source URL (the repo name's last path segment: github:khelbenlaforge/quartz-X ->
+        # "quartz-X"), NOT the plugin's own internal quartz.name manifest field ("five-e-tools"
+        # etc) — confirmed via config-loader.ts's extractPluginName(). Using the manifest name
+        # here silently matched nothing, so these three leaked onto folder/tag/changelog pages
+        # (a real v4-behavior regression) undetected since Stage 4/6 until a full recheck caught it.
+        - quartz-player-note
+        - quartz-session-notes
+        - quartz-five-e-tools
       positions:
         right: []

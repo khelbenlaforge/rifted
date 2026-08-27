@@ -184,8 +184,8 @@
     "quartz-changelog": {
       "source": "github:khelbenlaforge/quartz-changelog",
       "resolved": "https://github.com/khelbenlaforge/quartz-changelog.git",
-      "commit": "f563444af3e6e89102097c0546cd644c18263b4c",
-      "installedAt": "2026-08-27T16:51:22.394Z"
+      "commit": "a185e1ca366d2e1959c961caf5776d07505517c1",
+      "installedAt": "2026-08-27T17:54:47.285Z"
     },
     "quartz-five-e-tools": {
       "source": "github:khelbenlaforge/quartz-five-e-tools",

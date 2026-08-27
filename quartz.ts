@@ -1,4 +1,5 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
+import { PageTypeDispatcher } from "./quartz/plugins/pageTypes"
 import {
   Explorer,
   FolderPage,
@@ -75,32 +76,59 @@ config.plugins.pageTypes = (config.plugins.pageTypes ?? [])
   .filter((pt) => pt.name !== "FolderPage" && pt.name !== "TagPage")
   .concat([FolderPage({ sort: alphabeticalFolderFirstSort }), fixedTagPage])
 
-export default config
-
-// Explorer's sortFn is likewise a JS callback that can't live in YAML. loadQuartzLayout()'s
-// `defaults` override is a shallow merge at the FullPageLayout key level (left/right/etc), so
-// overriding `left` means reconstructing the whole column for CONTENT pages, not just swapping
-// one entry — this only affects `content`; folder/tag/changelog build their own `left`
-// independently from quartz.config.yaml's per-plugin priorities (see the byPageType excludes
-// there for why PlayerNote/SessionNotes/FiveETools don't appear on those page types, matching
-// v4). Order here matches v4's original quartz.layout.ts left column exactly: PageTitle, Spacer,
-// toolbar Flex, Explorer, ChangelogLink, SessionNotes, FiveETools.
-export const layout = await loadQuartzLayout({
-  defaults: {
-    left: [
-      PageTitle(),
-      MobileOnly(Spacer()),
-      Flex({
-        components: [
-          { Component: Search(), grow: true },
-          { Component: Darkmode() },
-          { Component: ReaderMode() },
-        ],
-      }),
-      Explorer({ sortFn: explorerSortFn }),
-      ChangelogLink(),
-      SessionNotes(),
-      FiveETools(),
+// CONFIRMED BUG, found by adversarial review + independently verified against the live site
+// (Explorer sidebar was rendering alphabetical order and YAML-priority widget order, not this
+// file's intended chronological sort / component order): `quartz/build.ts` only imports this
+// file's DEFAULT export (`import cfg from "../quartz"`) — there is no consumer anywhere for a
+// separate named `layout` export. Worse, `loadQuartzConfig()` above already calls
+// `loadQuartzLayout()` INTERNALLY with NO arguments and bakes that un-overridden result into a
+// `PageTypeDispatcher` pushed onto `config.plugins.emitters` (config-loader.ts, right before
+// `loadQuartzConfig()` returns) — that dispatcher, not any layout export, is what actually
+// renders every page. A `layout` named export sitting unconsumed next to `export default config`
+// silently does nothing. The only way to make Explorer's sortFn (or any other JS-callback layout
+// customization) actually take effect is to replace that already-baked-in dispatcher with one
+// built from a correctly-overridden layout, before exporting config.
+//
+// Order here matches v4's original quartz.layout.ts left column exactly: PageTitle, Spacer,
+// toolbar Flex, Explorer, ChangelogLink, SessionNotes, FiveETools. This only affects `content`;
+// folder/tag/changelog build their own `left` independently from quartz.config.yaml's per-plugin
+// priorities (see the byPageType excludes there for why PlayerNote/SessionNotes/FiveETools don't
+// appear on those page types, matching v4).
+// A second, deeper bug beyond the one described above: `loadQuartzLayout()`'s per-page-type
+// loop rebuilds a FULL YAML-only layout for EVERY key present in quartz.config.yaml's
+// `layout.byPageType` — including `content: {}`, which exists there as a (seemingly harmless)
+// placeholder. `resolveLayout()` then does `overrides.left ?? sharedDefaults.left`, and since
+// `content` is a declared byPageType key, `overrides.left` is that YAML-only array, never
+// `undefined` — so `sharedDefaults.left` (the `defaults.left` override below) is ALWAYS ignored
+// for content pages regardless of which dispatcher instance ends up used. Passing `byPageType:
+// {content: {left: [...]}}` here too, not just `defaults`, is what actually makes this take
+// effect — confirmed empirically (this was NOT caught by two rounds of static/code review,
+// only by re-deriving the exact merge logic in loadQuartzLayout() line by line).
+const leftColumn = [
+  PageTitle(),
+  MobileOnly(Spacer()),
+  Flex({
+    components: [
+      { Component: Search(), grow: true },
+      { Component: Darkmode() },
+      { Component: ReaderMode() },
     ],
-  },
+  }),
+  Explorer({ sortFn: explorerSortFn }),
+  ChangelogLink(),
+  SessionNotes(),
+  FiveETools(),
+]
+const layout = await loadQuartzLayout({
+  defaults: { left: leftColumn },
+  byPageType: { content: { left: leftColumn } },
 })
+
+config.plugins.emitters = (config.plugins.emitters ?? []).filter(
+  (e) => e.name !== "PageTypeDispatcher",
+)
+config.plugins.emitters.push(
+  PageTypeDispatcher({ defaults: layout.defaults, byPageType: layout.byPageType }),
+)
+
+export default config
