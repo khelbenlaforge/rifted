@@ -94,24 +94,34 @@ config.plugins.pageTypes = (config.plugins.pageTypes ?? [])
 // folder/tag/changelog build their own `left` independently from quartz.config.yaml's per-plugin
 // priorities (see the byPageType excludes there for why PlayerNote/SessionNotes/FiveETools don't
 // appear on those page types, matching v4).
-const layout = await loadQuartzLayout({
-  defaults: {
-    left: [
-      PageTitle(),
-      MobileOnly(Spacer()),
-      Flex({
-        components: [
-          { Component: Search(), grow: true },
-          { Component: Darkmode() },
-          { Component: ReaderMode() },
-        ],
-      }),
-      Explorer({ sortFn: explorerSortFn }),
-      ChangelogLink(),
-      SessionNotes(),
-      FiveETools(),
+// A second, deeper bug beyond the one described above: `loadQuartzLayout()`'s per-page-type
+// loop rebuilds a FULL YAML-only layout for EVERY key present in quartz.config.yaml's
+// `layout.byPageType` — including `content: {}`, which exists there as a (seemingly harmless)
+// placeholder. `resolveLayout()` then does `overrides.left ?? sharedDefaults.left`, and since
+// `content` is a declared byPageType key, `overrides.left` is that YAML-only array, never
+// `undefined` — so `sharedDefaults.left` (the `defaults.left` override below) is ALWAYS ignored
+// for content pages regardless of which dispatcher instance ends up used. Passing `byPageType:
+// {content: {left: [...]}}` here too, not just `defaults`, is what actually makes this take
+// effect — confirmed empirically (this was NOT caught by two rounds of static/code review,
+// only by re-deriving the exact merge logic in loadQuartzLayout() line by line).
+const leftColumn = [
+  PageTitle(),
+  MobileOnly(Spacer()),
+  Flex({
+    components: [
+      { Component: Search(), grow: true },
+      { Component: Darkmode() },
+      { Component: ReaderMode() },
     ],
-  },
+  }),
+  Explorer({ sortFn: explorerSortFn }),
+  ChangelogLink(),
+  SessionNotes(),
+  FiveETools(),
+]
+const layout = await loadQuartzLayout({
+  defaults: { left: leftColumn },
+  byPageType: { content: { left: leftColumn } },
 })
 
 config.plugins.emitters = (config.plugins.emitters ?? []).filter(
