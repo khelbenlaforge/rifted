@@ -67,6 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({ sortFn: explorerSortFn }),
+    Component.ChangelogLink(),
     Component.SessionNotes(),
     Component.FiveETools(),
   ],
@@ -93,6 +94,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({ sortFn: explorerSortFn }),
+    Component.ChangelogLink(),
   ],
   right: [],
 }
