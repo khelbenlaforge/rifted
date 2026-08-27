@@ -22,6 +22,7 @@ const Changelog: QuartzComponent = ({ allFiles, cfg, fileData }: QuartzComponent
           return (
             <li class="section-li">
               <div class="section">
+                <p class="meta">{modified && <Date date={modified} locale={cfg.locale} />}</p>
                 <div class="desc">
                   <h3>
                     <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
@@ -29,14 +30,11 @@ const Changelog: QuartzComponent = ({ allFiles, cfg, fileData }: QuartzComponent
                     </a>
                   </h3>
                 </div>
-                {modified && (
-                  <p class="meta">
-                    <Date date={modified} locale={cfg.locale} />
-                    <span class={isNew ? "changelog-status new" : "changelog-status updated"}>
-                      {isNew ? "New" : "Updated"}
-                    </span>
-                  </p>
-                )}
+                <div class="changelog-tag">
+                  <span class={isNew ? "changelog-status new" : "changelog-status updated"}>
+                    {isNew ? "New" : "Updated"}
+                  </span>
+                </div>
               </div>
             </li>
           )
@@ -49,7 +47,6 @@ const Changelog: QuartzComponent = ({ allFiles, cfg, fileData }: QuartzComponent
 Changelog.css = `
 .changelog-status {
   display: inline-block;
-  margin-left: 0.5rem;
   padding: 0.1rem 0.4rem;
   border-radius: 0.25rem;
   font-size: 0.75rem;
