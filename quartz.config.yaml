@@ -183,11 +183,10 @@ plugins:
     layout:
       position: left
       priority: 50
+  # Replaced by github:khelbenlaforge/quartz-graph below (fork adding entity-type node
+  # coloring) — must stay disabled, both export a component named "Graph".
   - source: github:quartz-community/graph
-    enabled: true
-    layout:
-      position: right
-      priority: 10
+    enabled: false
   - source: github:quartz-community/table-of-contents
     enabled: true
     layout:
@@ -256,6 +255,42 @@ plugins:
       position: left
       priority: 55
       display: all
+  - source: github:khelbenlaforge/quartz-graph
+    enabled: true
+    options:
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        showTags: true
+        removeTags: []
+        focusOnHover: false
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.2
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        showTags: true
+        removeTags: []
+        focusOnHover: true
+        enableRadial: true
+    order: 50
+    layout:
+      position: right
+      priority: 10
+      display: all
 layout:
   groups:
     toolbar:
@@ -287,8 +322,6 @@ layout:
         - five-e-tools
       positions:
         right: []
-    # v4's ChangelogPage emitter used defaultListPageLayout (the same minimal sidebar as
-    # folder/tag pages) — matching that here for the changelog page type's `layout: "changelog"`.
     changelog:
       exclude:
         - reader-mode
