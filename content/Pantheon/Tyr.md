@@ -9,15 +9,15 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:19
-updated: 2026-08-02T13:59:29
+updated: 2026-08-28T02:33:48
 ---
 
 # Tyr
 
 > [!infobox|right wikipedia]+
 > # Tyr
-> ![[Tyr Version 2.png]]
-> ![[Tyr Symbol.jpg]]
+> ![[zzz_Attachments/Tyr Version 2.png]]
+> ![[zzz_Attachments/Tyr Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

@@ -9,15 +9,15 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-14T00:00
-updated: 2026-08-05T16:30:59
+updated: 2026-08-28T02:33:48
 ---
 
 # Velvet Vulper
 
 > [!infobox|right wikipedia]+
 > # Velvet Vulper
-> ![[Velvet Vulper.png]]
-> ![[Velvet Vulper Pup.png]]
+> ![[zzz_Attachments/Velvet Vulper.png]]
+> ![[zzz_Attachments/Velvet Vulper Pup.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

@@ -9,14 +9,14 @@ introduced: 2025-11-09
 secret: false
 state: alive (recovering)
 created: 2026-03-16T04:22
-updated: 2026-05-26T16:23
+updated: 2026-08-28T02:33:48
 ---
 
 # Sir Braford
 
 > [!infobox|right wikipedia]+
 > # Sir Braford
-> ![[Sir Braford Portrait.jpg]]
+> ![[zzz_Attachments/Sir Braford Portrait.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

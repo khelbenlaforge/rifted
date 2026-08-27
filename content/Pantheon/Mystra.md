@@ -9,16 +9,16 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-08-15T23:56:08
+updated: 2026-08-28T02:33:48
 ---
 
 # Mystra
 
 > [!infobox|right wikipedia]+
 > # Mystra
-> ![[Mystra Portrait.jpg]]
-> ![[Mystra Portrait (Midnight).png]]
-> ![[Mystra Symbol.jpg]]
+> ![[zzz_Attachments/Mystra Portrait.jpg]]
+> ![[zzz_Attachments/Mystra Portrait (Midnight).png]]
+> ![[zzz_Attachments/Mystra Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

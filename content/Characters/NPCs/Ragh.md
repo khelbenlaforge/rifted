@@ -8,14 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-03-18T12:57
+updated: 2026-08-28T02:33:48
 ---
 
 # Ragh
 
 > [!infobox|right wikipedia]+
 > # Ragh
-> ![[Ragh.png]]
+> ![[zzz_Attachments/Ragh.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

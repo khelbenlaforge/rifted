@@ -9,14 +9,14 @@ introduced: null
 secret: false
 state: escaped
 created: 2026-03-16T15:52
-updated: 2026-08-27T17:57:07
+updated: 2026-08-28T02:33:48
 ---
 
 # Belak
 
 > [!infobox|right wikipedia]+
 > # Belak
-> ![[Belak Portrait.jpg]]
+> ![[zzz_Attachments/Belak Portrait.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

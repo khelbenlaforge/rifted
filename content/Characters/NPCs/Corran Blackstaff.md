@@ -10,14 +10,14 @@ introduced: pre-campaign
 secret: false
 state: historical
 created: 2026-04-08T22:56
-updated: 2026-08-05T16:25:04
+updated: 2026-08-28T02:33:48
 ---
 
 # Corran Blackstaff
 
 > [!infobox|right wikipedia]+
 > # Corran Blackstaff
-> ![[Corran.png]]
+> ![[zzz_Attachments/Corran.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

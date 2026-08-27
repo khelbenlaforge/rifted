@@ -10,14 +10,14 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-27T17:56:49
+updated: 2026-08-28T02:33:48
 ---
 
 # Luks Borg
 
 > [!infobox|right wikipedia]+
 > # Luks Borg
-> ![[luks.png]]
+> ![[zzz_Attachments/luks.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

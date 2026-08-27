@@ -9,14 +9,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-18T12:45
+updated: 2026-08-28T02:33:48
 ---
 
 # High Lorekeeper Miriam Brightquill
 
 > [!infobox|right wikipedia]+
 > # High Lorekeeper Miriam Brightquill
-> ![[Miriam Brightquill (Halfling).png]]
+> ![[zzz_Attachments/Miriam Brightquill (Halfling).png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

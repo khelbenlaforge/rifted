@@ -8,14 +8,14 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-27T17:46:12
+updated: 2026-08-28T02:33:48
 ---
 
 # Layla
 
 > [!infobox|right wikipedia]+
 > # Layla
-> ![[Layla (Tiefling-Asmodeus).png]]
+> ![[zzz_Attachments/Layla (Tiefling-Asmodeus).png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

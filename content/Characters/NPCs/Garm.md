@@ -13,14 +13,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-07-08T17:04:50
+updated: 2026-08-28T02:33:48
 ---
 
 # Garm
 
 > [!infobox|right wikipedia]+
 > # Garm
-> ![[Garm.png]]
+> ![[zzz_Attachments/Garm.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

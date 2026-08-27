@@ -9,21 +9,21 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-18T21:50
-updated: 2026-03-23T21:43
+updated: 2026-08-28T02:33:48
 ---
 
 # Tymora
 
 > [!infobox|right wikipedia]+
 > # Tymora
-> ![[Tymora.jpg]]
+> ![[zzz_Attachments/Tymora.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
 > | Title | Lady Luck, Our Lady of Fortune |
 > | Alignment | Chaotic Good |
 > | Domains | Trickery |
-> | Symbol | ![[Tymora Symbol.jpg|50]] Silver coin, face up |
+> | Symbol | ![[zzz_Attachments/Tymora Symbol.jpg|50]] Silver coin, face up |
 
 Domain:: Trickery
 Alignment:: Chaotic Good

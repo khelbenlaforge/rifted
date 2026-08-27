@@ -7,13 +7,14 @@ tags:
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
+updated: 2026-08-28T02:33:48
 ---
 
 # The Harpers
 
 > [!infobox|right wikipedia]+
 > # The Harpers
-> ![[Harpers Logo.png]]
+> ![[zzz_Attachments/Harpers Logo.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

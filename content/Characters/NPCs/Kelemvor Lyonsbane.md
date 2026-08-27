@@ -9,14 +9,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-08-02T14:01:21
+updated: 2026-08-28T02:33:48
 ---
 
 # Kelemvor Lyonsbane
 
 > [!infobox|right wikipedia]+
 > # Kelemvor Lyonsbane
-> ![[Kelemvor (Mortal Fighter).png]]
+> ![[zzz_Attachments/Kelemvor (Mortal Fighter).png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
