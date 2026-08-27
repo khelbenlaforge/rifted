@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "The Exodus"
+  pageTitle: The Exodus
   pageTitleSuffix: " | The Exodus"
   enableSPA: true
   enablePopovers: true
@@ -41,10 +41,6 @@ configuration:
         highlight: rgba(168, 60, 60, 0.15)
         textHighlight: "#7a141466"
 plugins:
-  # --- transformers (order = markdown-processing sequence, matches v4's array order) ---
-  # note-properties = v5's merge of v4's separate FrontMatter() transformer + a new properties-panel UI.
-  # v4 never showed a properties panel, so hidePropertiesView:true suppresses the UI while keeping
-  # frontmatter parsing active. Per Quartz docs this plugin must never be disabled.
   - source: github:quartz-community/note-properties
     enabled: true
     options:
@@ -55,7 +51,7 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: true
-      delimiters: "---"
+      delimiters: ---
       language: yaml
     order: 5
   - source: github:quartz-community/created-modified-date
@@ -74,8 +70,6 @@ plugins:
         dark: one-dark-pro
       keepBackground: false
     order: 20
-  # Full option list pinned explicitly to match v4.5.2's own ofm.ts defaultOptions verbatim
-  # (v4 only overrode enableInHtmlEmbed; enableCheckbox differs from v5's own template default: false, not true).
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
@@ -106,11 +100,8 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
-  # Disabled in v4 (commented out) — not needed for a campaign wiki, keep disabled.
   - source: github:quartz-community/latex
     enabled: false
-  # v4 had a local latent citations.ts customization but the Citations plugin was never
-  # registered in quartz.config.ts — confirmed dead/unused code, correctly dropped.
   - source: github:quartz-community/citations
     enabled: false
   - source: github:quartz-community/hard-line-breaks
@@ -119,24 +110,18 @@ plugins:
     enabled: false
   - source: github:quartz-community/roam
     enabled: false
-
-  # --- filters ---
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: false
-
-  # --- emitters / page types ---
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
     enabled: true
-    # sort: set via quartz.ts override in Stage 3 (alphabeticalFolderFirstSort, TS-only feature)
   - source: github:quartz-community/tag-page
     enabled: true
-    # sort: set via quartz.ts override in Stage 3 (alphabeticalFolderFirstSort, TS-only feature)
   - source: github:quartz-community/content-index
     enabled: true
     options:
@@ -144,13 +129,10 @@ plugins:
       enableRSS: true
   - source: github:quartz-community/favicon
     enabled: true
-  # Disabled in v4 (commented out — slow to build, not needed for campaign wiki).
   - source: github:quartz-community/og-image
     enabled: false
-  # No custom domain configured (site is served at khelbenlaforge.github.io/rifted).
   - source: github:quartz-community/cname
     enabled: false
-  # Not part of v4's published surface.
   - source: github:quartz-community/canvas-page
     enabled: false
   - source: github:quartz-community/bases-page
@@ -163,8 +145,6 @@ plugins:
     enabled: false
   - source: github:quartz-community/comments
     enabled: false
-
-  # --- layout components ---
   - source: github:quartz-community/page-title
     enabled: true
     layout:
@@ -203,11 +183,6 @@ plugins:
     layout:
       position: left
       priority: 50
-    # sortFn: set via quartz.ts override in Stage 3 (explorerSortFn, TS-only feature)
-  # Reserved slots (Stage 4): ChangelogLink priority 60, SessionNotes priority 70,
-  # FiveETools priority 80 — added to this left column once their git-sourced plugin
-  # repos exist. Do not reuse priorities 60/70/80 for anything else before Stage 4.
-
   - source: github:quartz-community/graph
     enabled: true
     layout:
@@ -224,7 +199,6 @@ plugins:
     layout:
       position: right
       priority: 30
-
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -246,15 +220,18 @@ plugins:
     layout:
       position: beforeBody
       priority: 30
-  # Reserved slot (Stage 4): PlayerNote beforeBody priority 40, added once its
-  # git-sourced plugin repo exists.
-
-  # v4 footer had no links — must not inherit either template's populated GitHub/Discord links.
   - source: github:quartz-community/footer
     enabled: true
     options:
       links: {}
-
+  - source: github:khelbenlaforge/quartz-five-e-tools
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: left
+      priority: 60
+      display: all
 layout:
   groups:
     toolbar:
