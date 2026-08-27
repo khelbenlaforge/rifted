@@ -30,11 +30,13 @@ const Changelog: QuartzComponent = ({ allFiles, cfg, fileData }: QuartzComponent
                     </a>
                   </h3>
                 </div>
-                <div class="changelog-tag">
-                  <span class={isNew ? "changelog-status new" : "changelog-status updated"}>
-                    {isNew ? "New" : "Updated"}
-                  </span>
-                </div>
+                <ul class="tags">
+                  <li>
+                    <span class={isNew ? "changelog-status new" : "changelog-status updated"}>
+                      {isNew ? "New" : "Updated"}
+                    </span>
+                  </li>
+                </ul>
               </div>
             </li>
           )
