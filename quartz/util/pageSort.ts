@@ -13,9 +13,16 @@ const alphabeticalCompareOptions: Intl.CollatorOptions = {
 // (from @quartz-community/types, re-exported per-plugin) actually expects.
 type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
-// v5 lowercases URL slugs (@quartz-community/utils slugifyFilePath -> slugifyPath ->
-// .toLowerCase()), unlike v4 — so the Timeline check must be case-insensitive here, unlike
-// explorerSortFn in quartz.ts which checks filePath (not lowercased) and stays case-sensitive.
+// CORRECTED (verified against the real CI build's static/contentIndex.json, 2026-08-27): the
+// original "v5 lowercases URL slugs" premise here was WRONG. Real content file slugs preserve
+// original case (302/341 entries in the actual build have uppercase chars) — only frontmatter
+// `aliases:` entries get lowercased, via a separate code path (alias-redirects' own alias
+// target computation), which is unrelated to a file's real canonical .slug. Three earlier
+// review passes all read slugifyPath()'s .toLowerCase() correctly but never traced whether it's
+// actually called for the primary content slug (it isn't) vs. only for alias targets (it is).
+// This case-insensitive check is kept anyway since it's harmless (a case-insensitive match
+// against an already-original-case "Timeline/" prefix still matches correctly) and gives some
+// defensive margin, but do not treat "v5 lowercases slugs" as an established fact elsewhere.
 export const alphabeticalFolderFirstSort: SortFn = (f1, f2) => {
   const f1IsFolder = isFolderPath(f1.slug ?? "")
   const f2IsFolder = isFolderPath(f2.slug ?? "")

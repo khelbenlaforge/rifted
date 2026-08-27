@@ -23,10 +23,10 @@ import { alphabeticalFolderFirstSort } from "./quartz/util/pageSort"
 // file explorer already relies on.
 //
 // Checks node.data.filePath (not .slug) — confirmed via @quartz-community/content-index's
-// emitter.ts that filePath is set from the file's relativePath, which is NOT run through
-// v5's slugifyFilePath()/.toLowerCase(), unlike .slug. So this stays case-sensitive
-// ("Timeline/"), unlike pageSort.ts's alphabeticalFolderFirstSort which checks .slug and
-// must be case-insensitive.
+// emitter.ts that filePath is set from the file's relativePath. Stays case-sensitive
+// ("Timeline/"), matching v4 exactly. (Real .slug values also preserve case in practice —
+// see the correction note in quartz/util/pageSort.ts — so this would work checking .slug too,
+// but filePath was already known-safe and there was no reason to change it.)
 const explorerSortFn: ExplorerOptions["sortFn"] = (a, b) => {
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
     const aInTimeline = (a.data?.filePath as string | undefined)?.includes("Timeline/")
