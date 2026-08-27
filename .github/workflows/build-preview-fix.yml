@@ -1,0 +1,63 @@
+name: Build Preview (fix branch, temporary)
+
+# TEMPORARY — pre-cutover CI signal for the post-adversarial-review fix (quartz.ts layout
+# dead-code, changelog virtual-page filter). Same pattern as Stage 6's build-preview-v5.yml:
+# separate workflow, no pages/id-token permissions, own concurrency group, cannot deploy.
+# Delete this file once the fix is merged to main and verified live.
+
+on:
+  push:
+    branches:
+      - fix/quartz-ts-layout-dead-code
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "build-preview-fix"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Cache dependencies
+        uses: actions/cache@v6
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Cache Quartz plugins
+        uses: actions/cache@v6
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-quartz-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-quartz-plugins-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore Quartz plugins
+        run: npx quartz plugin restore
+
+      - name: Build Quartz
+        run: npx quartz build
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: quartz-fix-preview
+          path: public
+          retention-days: 7
