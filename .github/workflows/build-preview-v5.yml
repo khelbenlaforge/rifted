@@ -1,19 +1,23 @@
-name: Deploy Quartz to GitHub Pages
+name: Build Preview (migration/v5, temporary)
+
+# TEMPORARY — Stage 6 pre-cutover CI signal for the Quartz v5 migration. Deliberately a separate
+# workflow file (not a modified copy of deploy.yml) with its own concurrency group and no
+# pages/id-token permissions, so it structurally cannot deploy regardless of any misconfiguration
+# — deploy.yml's real "pages" concurrency group and deploy job are completely untouched by this.
+# Delete this file at Stage 7 cutover once migration/v5 merges to main.
 
 on:
   push:
     branches:
-      - main
+      - migration/v5
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: "build-preview-v5"
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -52,18 +56,9 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: quartz-v5-preview
           path: public
-
-  deploy:
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+          retention-days: 7
