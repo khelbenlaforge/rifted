@@ -9,7 +9,7 @@ const Changelog: QuartzComponent = ({ allFiles, cfg, fileData }: QuartzComponent
   const entries = allFiles.slice(0, limit)
 
   return (
-    <div class="changelog">
+    <article class="popover-hint changelog">
       <p>Notes are listed by their most recent change.</p>
       {allFiles.length > limit && <p>Showing the latest {limit} notes.</p>}
       <ul class="section-ul">
@@ -42,7 +42,7 @@ const Changelog: QuartzComponent = ({ allFiles, cfg, fileData }: QuartzComponent
           )
         })}
       </ul>
-    </div>
+    </article>
   )
 }
 
