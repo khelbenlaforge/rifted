@@ -60,7 +60,7 @@ function Process-MarkdownFile {
 Write-Host "Pass 1: Syncing world content from 00_My Notes/..." -ForegroundColor Cyan
 
 Get-ChildItem -Path $VaultPath -Recurse -Filter "*.md" | Where-Object {
-    $_.FullName -notlike "*\Session Prep\*"
+    $_.FullName -notlike "*\Session Prep\*" -and $_.FullName -notlike "*\Ingest\*"
 } | ForEach-Object {
     $result = Process-MarkdownFile -SourceFile $_.FullName -SourceRoot $VaultPath -DestRoot $StagingPath
     if ($result) { $copied++ } else { $skipped++ }
