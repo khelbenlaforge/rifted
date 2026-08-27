@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { alphabeticalFolderFirstSort } from "./quartz/util/pageSort"
 
 /**
  * Quartz 4 Configuration
@@ -76,8 +77,9 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
+      Plugin.FolderPage({ sort: alphabeticalFolderFirstSort }),
+      Plugin.TagPage({ sort: alphabeticalFolderFirstSort }),
+      Plugin.ChangelogPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

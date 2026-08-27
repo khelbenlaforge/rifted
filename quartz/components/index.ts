@@ -26,6 +26,8 @@ import ConditionalRender from "./ConditionalRender"
 import PlayerNote from "./PlayerNote"
 import SessionNotes from "./SessionNotes"
 import FiveETools from "./FiveETools"
+import Changelog from "./Changelog"
+import ChangelogLink from "./ChangelogLink"
 
 export {
   ArticleTitle,
@@ -56,4 +58,6 @@ export {
   PlayerNote,
   SessionNotes,
   FiveETools,
+  Changelog,
+  ChangelogLink,
 }
