@@ -232,6 +232,22 @@ plugins:
       position: left
       priority: 60
       display: all
+  - source: github:khelbenlaforge/quartz-player-note
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: beforeBody
+      priority: 40
+      display: all
+  - source: github:khelbenlaforge/quartz-session-notes
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: left
+      priority: 70
+      display: all
 layout:
   groups:
     toolbar:
@@ -245,15 +261,27 @@ layout:
         left: []
         right: []
     content: {}
+    # v4's defaultListPageLayout (folder/tag pages) only showed Explorer + ChangelogLink in the
+    # left column and Breadcrumbs/ArticleTitle/ContentMeta beforeBody — no PlayerNote,
+    # SessionNotes, or FiveETools. These three are only added to the left column via quartz.ts's
+    # defaults.left override, which does NOT apply to folder/tag (each page type builds its own
+    # layout independently from this YAML) — so they must be excluded here explicitly, or they'd
+    # appear on folder/tag pages when v4 never showed them there.
     folder:
       exclude:
         - reader-mode
         - tag-list
+        - player-note
+        - session-notes
+        - five-e-tools
       positions:
         right: []
     tag:
       exclude:
         - reader-mode
         - tag-list
+        - player-note
+        - session-notes
+        - five-e-tools
       positions:
         right: []
