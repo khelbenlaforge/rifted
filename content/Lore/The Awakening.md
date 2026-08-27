@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-08-05T16:27:11
+updated: 2026-08-27T17:07:28
 ---
 
 # The Awakening

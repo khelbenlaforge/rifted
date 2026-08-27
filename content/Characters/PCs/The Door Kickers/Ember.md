@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-08-02T13:58:12
+updated: 2026-08-27T17:57:12
 ---
 
 # Ember
@@ -47,12 +47,12 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 - **4th Marpenoth** -- Cast a skunk-like stench and Fog Cloud in the Pantry Heist to cover [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s theft from [[Elmindaria L'Thorian]]
 - **1st-6th Marpenoth** -- Trained at [[Mielikki]]'s Grove under [[Sylvara Oakwhisper]]
 - **6th Marpenoth** -- Fell during [[Corranor]]'s descent to [[Aenath]]
-- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Terra Bound island]]
+- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Aenath Landmass Types|Terra Bound island]]
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] during the wagon ambush
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the [[Keldara Hucrele]] and [[Harbin Wester]] confrontation
 - Examined the [[Goblin Fruit]] at the [[Hucrele Pavilion]], sensing its red, blood-like nature; [[The Exodus/The Door Kickers/PCs/Lea]]'s Detect Magic confirmed necromantic and divine/draconic energies
 - Spotted a Lurkleaf near [[Tymora's Shrine]]
-- Collected several [[Pebbletoads]] before the marsh crossing
+- Collected several [[Pebbletoad|Pebbletoads]] before the marsh crossing
 - Departed south with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and descended into the [[Sunless Citadel]], encountering dead goblins and signs of necromancy
 - **Session 11** — During the trial of the Sealed Door in the [[Sunless Citadel]], deity symbols of both nature and the lower planes gravitated toward her simultaneously, exposing her dual nature. Inside a spiritual battlefield, an echo of [[Mielikki]] urged her to accept both sides of herself. [[Asmodeus]]'s manifestation refused to leave her side even after the other infernal deities withdrew

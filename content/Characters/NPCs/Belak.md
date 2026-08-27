@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: escaped
 created: 2026-03-16T15:52
-updated: 2026-08-02T14:02:15
+updated: 2026-08-27T17:57:07
 ---
 
 # Belak
@@ -64,7 +64,7 @@ Every person who has eaten the fruit and survived is carrying sleeping seeds.
 
 - The source of the [[Goblin Fruit]] and its necromantic/draconic magical signature
 - Delivers fruit to [[Durnn]]'s research lab via plant minions through the northeast door of the lab
-- Occupies the same level as the [[Sanctum]] — his presence and that chamber's cosmological significance may not be coincidental
+- Occupies the same level as the [[Sanctum of Ashardalon|Sanctum]] — his presence and that chamber's cosmological significance may not be coincidental
 - Connected to the fate of [[Sharwyn Hucrele]] and [[Sir Braford]], whose disappearance on the Grove Level places them in his sphere
 - The goblins' exclusive arrangement with him gave the [[Durbuluk Goblins]] economic power the [[Ordahir Kobolds]] cannot match
 - Gifted [[Durnn]] the magic horn ***Blight's Call*** — fashioned from one of Ashardalon's claws; it summons prickle blights when blown and has been corrupting Durnn with growing bloodlust and nightmares

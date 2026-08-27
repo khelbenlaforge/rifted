@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-05T16:27:17
+updated: 2026-08-27T17:48:52
 ---
 
 # Jonathan Jordan
@@ -48,8 +48,8 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - **4th Marpenoth** -- Successfully completed the Pantry Heist, lifting a gold coin from [[Elmindaria L'Thorian]]; accepted as [[Istar Silverlock]]'s apprentice
 - **1st-6th Marpenoth** -- Trained under [[Istar Silverlock]] in [[Crystal City]]
 - **6th Marpenoth** -- Fell during [[Corranor]]'s descent to [[Aenath]]
-- Departed [[Crystal City]] a day after the main party with a second shipment; met [[Luks]] at the island jetty
-- Arrived at [[Sunhold]] with [[Luks]], leading a second wagon; encountered a battle site and a note warning of [[Goblin Bandits]]
+- Departed [[Crystal City]] a day after the main party with a second shipment; met [[Luks Borg|Luks]] at the island jetty
+- Arrived at [[Sunhold]] with [[Luks Borg|Luks]], leading a second wagon; encountered a battle site and a note warning of [[Goblin Bandits]]
 - Reported to [[Harbin Wester]] on behalf of the [[Adamantine Guild]]; visited [[Barthen's Supplies]]
 - Gathered intelligence at [[The Stonehill Inn]], collecting rumours about the settlement, the missing Hucrele children, and the Goblin Merchants
 - Helped establish the [[Adamantine Guild]] post in [[Sunhold]]

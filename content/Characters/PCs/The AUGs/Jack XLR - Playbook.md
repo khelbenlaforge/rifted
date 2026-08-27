@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-26T18:59:03
-updated: 2026-08-26T18:59:46
+updated: 2026-08-26T19:46:04
 ---
 
 # Jack XLR - Playbook
@@ -29,6 +29,7 @@ updated: 2026-08-26T18:59:46
 - Single tough target, want it gone for a round → **Dissonant Whispers** (see Triage)
 - Group needs their attacks and saves worsened for a few rounds → **Bane** (CHA DC 15, 30 ft, up to 3 targets subtract 1d4 from attack rolls and saves; Concentration, 1 min, L1 slot)
 - Ranged poke, nothing better available → **Produce Flame** (spell attack +7, 60 ft, 1d8 fire, cantrip) or **Dagger** (+3, 20/60 ft, 1d4+1 pierce)
+- Need a sound or minor visual illusion instead of damage (a diversion, a fake noise, a small hidden image) → **Minor Illusion** (30 ft, 5-ft cube, 1 min, cantrip)
 - Nothing else applies, in melee → **Unarmed Strike** (+1, 5 ft, 1 bludgeon) — worst option on the sheet, last resort only
 
 **Bonus Action** (independent of the Action choice above):
@@ -57,11 +58,12 @@ updated: 2026-08-26T18:59:46
 - Need to pass a message to an ally that a listening enemy or NPC won't understand → **Thieves' Cant** *(Harper Agent feat, sourced from a 5etools lookup since the sheet's "Harper faction feature" line doesn't spell it out — RAW: knowledge of the secret argot Thieves' Cant)*
 - Need to help an ally's attack land from farther back than usual, out of easy melee reach → **Distracting Melody** *(Harper Agent feat, same lookup — RAW: when taking the Help action to assist an ally's attack roll, the enemy being distracted can be within 30 ft rather than 5 ft, provided it can see or hear Jack)*
 - Need to pass as someone else at a checkpoint or event → **Disguise Kit proficiency** paired with a **Costume** from Inventory, backed by **Deception +9** *(expertise)* and **Silver Tongue** *(RAW: treat a d20 roll of 9 or lower as a 10 on Deception and Persuasion checks)* — an unusually reliable disguise-and-lie combination once all three stack on the same check
+- Need to win over a crowd or land a performance-based con → **Performance +9** *(expertise)* — same expertise tier as Deception above, from the same Features-list grant
 - Need to act or see in total darkness → **Flamekin: Darkvision** *(RAW: 60 ft, dim light as bright, darkness as dim)*
 - Need to walk through fire, hot coals, or a burning structure without taking damage from it → **Flamekin: Fire Resistance** *(RAW: resistance to fire damage — resistance, not immunity; a big enough fire source still hurts, just half as much)*
 - Need a boost on literally any ability check that doesn't already use his proficiency bonus → **Jack of All Trades** *(RAW: +1 to such checks)*
 
 ## Completeness Check
 
-Every Actions/Bonus Actions/Reactions table row, every Feature, and every Spellcasting entry on Jack's sheet is addressed above. Mundane inventory with no distinct mechanical effect to reframe (Backpack, Bedroll, Bell, Bullseye Lantern, Mirror, Oil, Rations, Tinderbox, Waterskin, Grappling Hook, Rope, Traveler's Clothes, Leather Armor) is left out — those are already reflected in the AC stat or have no ability worth a flowchart branch or creative reframe.
+Every Actions/Bonus Actions/Reactions table row, every Feature, and every Spellcasting entry on Jack's sheet is addressed above or explicitly excluded with a stated reason. Mundane inventory with no distinct mechanical effect to reframe (Backpack, Bedroll, Bell, Bullseye Lantern, Mirror, Oil, Rations, Tinderbox, Waterskin, Grappling Hook, Rope, Traveler's Clothes, Leather Armor) is left out — those are already reflected in the AC stat or have no ability worth a flowchart branch or creative reframe. Harper Agent's musical-instrument-proficiency grant is left out separately — it's already reflected in the sheet's Tools line (Dulcimer), with no separate decision to make.
 

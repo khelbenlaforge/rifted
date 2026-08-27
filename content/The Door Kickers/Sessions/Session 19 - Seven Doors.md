@@ -9,7 +9,7 @@ date: 2026-06-20
 session: 19
 secret: false
 created: 2026-06-20T00:00
-updated: 2026-08-02T14:03:45
+updated: 2026-08-27T17:58:55
 ---
 
 # Session 19 — Seven Doors
@@ -100,7 +100,7 @@ He took shifts behind the bar at the [[Griffin's Hat]] down at the docks. The wo
 
 ### August — Two Doors, One Threshold
 
-[[August]] went to the [[Hall of Justice - Temple of Tyr|Temple of Tyr]] to see his mentor. The meeting started the way those meetings always do — familiar shorthand, the shared language of someone who trained you — and then his mentor stopped talking and looked at his tattoo with the careful attention of a man who has just heard a note in the wrong key.
+[[Augustus Kennedy|August]] went to the [[Hall of Justice - Temple of Tyr|Temple of Tyr]] to see his mentor. The meeting started the way those meetings always do — familiar shorthand, the shared language of someone who trained you — and then his mentor stopped talking and looked at his tattoo with the careful attention of a man who has just heard a note in the wrong key.
 
 He didn't name the panther. He didn't have to. What he said was: *those aren't Tyr's energies*. And then he took August across the city.
 
@@ -114,7 +114,7 @@ He now belonged, technically, to two temples. The city did not appear to find th
 
 [[The Exodus/The Door Kickers/PCs/Lea]] went where the knowledge was. The Alchemist Guild occupied a factory smell — sulphur, acids, the sharp sparkle of controlled reactions — and the woman she'd been brought to meet was worth the smell. [[Veyris Thantorn]]: tattooed elf, sleeveless, quiver in hand, the kind of person who wears expertise like a garment they've had long enough to stop thinking about it.
 
-She explained the [[Weave]] as something woven through three dimensions at once, filling everything — and what alchemists do to it, and what teleportation requires, and what a tiefling carries in their blood that someone with training might be able to pull on. If Layla was tiefling, if she had even a thread of connection to an adjacent plane, it was possible that she hadn't done the shifting spell so much as redirected a current that was already running through her.
+She explained the Weave as something woven through three dimensions at once, filling everything — and what alchemists do to it, and what teleportation requires, and what a tiefling carries in their blood that someone with training might be able to pull on. If Layla was tiefling, if she had even a thread of connection to an adjacent plane, it was possible that she hadn't done the shifting spell so much as redirected a current that was already running through her.
 
 Planar Mechanics division, now open. Alchemy track, now open.
 

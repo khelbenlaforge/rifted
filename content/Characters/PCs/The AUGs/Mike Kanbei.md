@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-08-26T19:05:29
+updated: 2026-08-27T17:44:35
 ---
 
 # Mike Kanbei
@@ -44,11 +44,11 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 
 ## Key Events
 
-*(Pending first session — joins the AUGs at Level 3.)*
+**Session 1 — Feast of the Moon, Year 222 PA:** His mother's call caught him for once, three words in when the light off his monitor started spilling wrong. What followed was a vision shared with four strangers: a floating, edge-terminated world, city-sized rock falling from a sky on fire, an ocean gone from churning to boiling, a spike of light wound in a helix of spiraling stone. He tried to pull a panicking child clear of a falling boulder. He missed the grab. The rock took them both. He came awake a half-elf martial artist inside [[The Drowned Dawn]], cursing in Japanese, demanding to know what had happened to a kid he couldn't have named sober. His CCR record, [[針跡]], was simply there with him, no explanation needed or offered. Step of the Wind opened a path through the temple's shadow creatures; he called the others through by ear rather than sight.
 
 ## Relationships
 
-*(Party relationships pending first session.)*
+Four strangers who owed him nothing followed a sound they couldn't see the source of, and that was apparently enough. Mike didn't say much beyond the fight itself — the same economy he once brought to a client call, minus the client. He led with his body instead of his words, and let the others decide for themselves whether that was trust or just efficiency.
 
 ## Character Sheet
 

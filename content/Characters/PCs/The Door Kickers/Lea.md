@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-15T23:30:44
+updated: 2026-08-27T17:57:01
 ---
 
 # Lea
@@ -46,7 +46,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
 - **1st-6th Marpenoth** -- Trained at the [[Ether Scryer's Academy]] under [[Elmindaria L'Thorian]]
 - **6th Marpenoth** -- Fell during [[Corranor]]'s descent to [[Aenath]]
-- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Terra Bound island]]
+- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Aenath Landmass Types|Terra Bound island]]
 - **10th Marpenoth** -- Nearly fell unconscious fighting [[Goblin Bandits]] during the wagon ambush
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the [[Keldara Hucrele]] and [[Harbin Wester]] confrontation
 - Used Prestidigitation to clean up at [[The Stonehill Inn]]

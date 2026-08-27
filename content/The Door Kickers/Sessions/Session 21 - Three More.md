@@ -1,17 +1,13 @@
 ---
-
-
-
 created: 2026-06-29T17:16:28
-
-title: "Session 21 - Three More"
+title: Session 21 - Three More
 aliases: []
 tags:
-  - session
+- session
 campaign: Rifted
 date: 2026-06-25
 secret: false
-updated: 2026-06-29T19:02:44
+updated: 2026-08-27T17:56:59
 ---
 
 # Session 21 — Three More
@@ -43,7 +39,7 @@ While the newcomers spent ten days on an alabaster highway that floated slightly
 
 [[The Exodus/The Door Kickers/PCs/Nanuk]] went up with [[Torem]] on Little Bella — the griffin white-winged, enormous, and entirely comfortable with him, which said something about what Nanuk was when the walls weren't up. From above, the continent resolved into something readable: a highway driving northeast from [[Crystal City]] like a crack healing wrong, brand new alabaster that never touched the ground; farming communities strung east along the road like knots in a rope; and magical creature blood flowing in from where the settlements were newest and the creature attacks most frequent. Torem didn't know who was buying the blood when it arrived at the city. He trusted the Academy. He had no reason not to. Nanuk noted the gap between what Torem believed and what the ledgers would show, and said nothing. He came back with eleven gold pieces and a complicated relationship with an unruly giant eagle.
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] brought fish to his mentor at the [[Temple of Istishia]] and stayed for the lesson underneath the gift. The mentor named four doors: Sacred Sea, where you learn to stop controlling the water and let it carry you; Paths of Water, where you direct without forcing; Storm, chaos as teacher; and Eternal Transformation, which the mentor described without elaborating, the way teachers leave the hardest door for when the student has earned the handle. Gill had been spending evenings with death. The mentor said that was fine — elemental gods and gods of justice had always worked closely, and a cleric of water who understood the [[The Gravelords|Gravelords]] was more useful than one who didn't. He needed Gill to spend two downtime tracks on meditation the next time around. To start with the first door. To begin by letting go.
+[[The Exodus/The Door Kickers/PCs/Gill Bates]] brought fish to his mentor at the [[Tidecaller's Sanctuary|Temple of Istishia]] and stayed for the lesson underneath the gift. The mentor named four doors: Sacred Sea, where you learn to stop controlling the water and let it carry you; Paths of Water, where you direct without forcing; Storm, chaos as teacher; and Eternal Transformation, which the mentor described without elaborating, the way teachers leave the hardest door for when the student has earned the handle. Gill had been spending evenings with death. The mentor said that was fine — elemental gods and gods of justice had always worked closely, and a cleric of water who understood the [[The Gravelords|Gravelords]] was more useful than one who didn't. He needed Gill to spend two downtime tracks on meditation the next time around. To start with the first door. To begin by letting go.
 
 [[The Exodus/The Door Kickers/PCs/Lea]] found the gap in the Alchemist's ledgers — a week before she'd arrived in [[Crystal City]], a massive shipment of magical creature blood had come through the eastern road and sold out before the Alchemists could touch it. The city was running low on healing potions. Someone had bought the supply before it reached the people who would turn it into medicine. [[Veyris Thantorn]] laid out the cosmological map Lea had been building toward: Feywild and Negative Plane as echoes, the astral barrier stuck in a position no one had caused and no one knew how to undo, beholder bone from so far astral it was useless for teleportation, wolf bone carrying the signature of Arborea — a wild plane, chaotic, not evil, and potentially traversable if enough of the creature had survived the crossing. The theory: enough planar items from living magical creatures might break the barrier open. The gap in the theory: no one knew why the barrier was stuck in the first place.
 

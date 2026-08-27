@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-08-05T16:27:15
+updated: 2026-08-27T17:57:00
 ---
 
 # Augustus Kennedy
@@ -54,12 +54,12 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **4th Marpenoth** -- Participated in the Pantry Heist, body-checking [[Elmindaria L'Thorian]] to create chaos as cover for [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]'s test
 - **1st-6th Marpenoth** -- Trained under [[Luks Borg]] and [[Sir Gareth Ironhand]] during downtime in [[Crystal City]]
 - **6th Marpenoth** -- Remained standing during [[Corranor]]'s descent to [[Aenath]]
-- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Terra Bound island]]
+- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Aenath Landmass Types|Terra Bound island]]
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] who ambushed the party at a wrecked wagon site
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the confrontation between [[Keldara Hucrele]] and [[Harbin Wester]]; reported to [[Harbin Wester]] on behalf of the [[Adamantine Guild]]
 - Attended the [[Council Tent]] meeting and accepted duties for safety, exploration, and outreach
 - Traveled to the [[Hucrele Pavilion]] with [[The Exodus/The Door Kickers/PCs/Lea]] and [[The Exodus/The Door Kickers/PCs/Ember]]; learned of the missing Hucrele children and accepted the rescue mission
-- Departed south with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], leaving [[Luks]] and [[The Exodus/The Door Kickers/PCs/Gill Bates]] in [[Sunhold]]
+- Departed south with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], leaving [[Luks Borg|Luks]] and [[The Exodus/The Door Kickers/PCs/Gill Bates]] in [[Sunhold]]
 - Traversed marshes on Bogstride Salamandrels, followed tracks to a ravine, and descended into a subterranean fortress
 - Explored the ruins, encountering dead goblins and necromantic magic behind a trapped hidden door
 - **Session 13** — Touched the Sanctum mural in the Grove Level, triggering the prequel vision for all five. He and Ember floated in the liminal void while the other three experienced the Avatar Crisis as Midnight/Torm/Adon.

@@ -1,13 +1,13 @@
 ---
 title: Session 14 - A Coin for the Curse
-aliases:
+aliases: null
 tags:
-  - session
+- session
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T21:43
-updated: 2026-03-25T14:25
+updated: 2026-08-27T17:57:09
 ---
 
 # Session 14 - A Coin for the Curse
@@ -40,7 +40,7 @@ Then a woosh, and a door, and somewhere else.
 
 ## The Space Between Sessions
 
-While [[Augie]] and [[The Exodus/The Door Kickers/PCs/Ember]] floated in the void, [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Lea]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
+While [[Augustus Kennedy|Augie]] and [[The Exodus/The Door Kickers/PCs/Ember]] floated in the void, [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Lea]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
 
 That felt like days. For Augie and Ember, it was nothing. When the prequel party finally sleeps at the end of Session 13, all five ethereal forms drift together in the same liminal space — and the moment of reunion arrives like two conversations colliding. JJ and Gill and Lea are calm. They have the thousand-yard stare of people who have witnessed something and have not fully named it yet. Augie is immediately suspicious of himself: *Is this my fault? I touched the wall.* Yes. Gently — yes.
 
@@ -120,7 +120,7 @@ Hawksguard doubles his pace. He hustles them toward the inn.
 
 ## The Old Skull Inn
 
-[[Jhaele Silvermane]] greets [[Selmavra]]'s skirmish unit first — the shift ending, everything in order. Then she clocks the five of them, and something flickers across her face as she looks at [[Torm]]. She almost says something. Catches herself. She pours wine instead.
+[[Jhaele Silvermane]] greets [[Selmavra Elsree|Selmavra]]'s skirmish unit first — the shift ending, everything in order. Then she clocks the five of them, and something flickers across her face as she looks at [[Torm]]. She almost says something. Catches herself. She pours wine instead.
 
 She knows everyone, Jhaele. She knows [[Rathan Thentraver]] by first name. She knows [[Elminster]] as "that old fuddy-duddy, once he gets his head stuck in something you can't pull him out for meals." She knows this town the way you know a place you have been responsible for, quietly, for a very long time. Her bearing is not innkeeper affect. It is the bearing of someone who has seen far grander rooms and preferred this one.
 
@@ -134,7 +134,7 @@ At a Perception roll of 15 in the inn: dark armor. Dark-armored soldiers, alread
 
 ## Michael C. Jordan
 
-[[Selmavra]] is piecing it together.
+[[Selmavra Elsree|Selmavra]] is piecing it together.
 
 She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[The Exodus/The Door Kickers/PCs/Lea]]. The man with the Harper's walk is probably [[JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
 
@@ -182,7 +182,7 @@ It takes two rounds. Then the clothes shred and the cobblestones are red and wha
 
 [[Torm]] puts a crossbow bolt through the Agent's throat. Crit. [[Midnight]] is free.
 
-[[Selmavra]] casts *Hail of Thorns*. The chaos rebound doubles back — she takes eight damage herself. She shakes it off and keeps moving.
+[[Selmavra Elsree|Selmavra]] casts *Hail of Thorns*. The chaos rebound doubles back — she takes eight damage herself. She shakes it off and keeps moving.
 
 [[Jhaele Silvermane]] appears in the inn doorway on round two with a crossbow leveled at the Commander. *Do not touch children in my presence.* The tone is not a warning. It is a correction.
 

@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T00:00:00
-updated: 2026-08-26T19:10:35
+updated: 2026-08-27T17:53:14
 ---
 
 # Ruan Myrt Zaltana
@@ -44,11 +44,11 @@ Her Circle of Spores magic runs on the same instincts her old career did — pat
 
 ## Key Events
 
-*(Pending first session — joins the AUGs at Level 3.)*
+**Session 1 — Feast of the Moon, Year 222 PA:** The dream came on the fifth anniversary of her mother's death, same as it always threatened to: a flower field, voices somewhere past a treeline she didn't recognize. This time there was a doorway too, burning without heat, and she walked toward it instead of waiting to see whether it would come to her first. That choice was the door four other people fell through the same instant, from four other lives entirely. While the ones who took to the air scattered upward, Ruan kept to the ground, tracing a mycelial network through the chaos to keep whatever forest and animals she could find clear of the falling rock. On the other side she stood seven feet tall with no mirror to check it against, so she worked out her own new shape the way everyone else was looking up at her. Her wedding ring had become a breastplate: [[What the Ring Grew Around]], the one piece of home that made the trip intact. Invisible once, mid-fight, she found her feet again in time to light a dead crystal sconce with Starry Wisp.
 
 ## Relationships
 
-*(Party relationships pending first session.)*
+Somebody apologized to Rachel for assuming, on sight, that a woman with horns and a tail couldn't possibly be Singaporean. It happened fast enough that whose voice it was is already blurry. Clearer in Ruan's memory: Gregory was the only one in the room who still looked entirely human, and the rest of them noticed and said so more than once.
 
 ## Character Sheet
 

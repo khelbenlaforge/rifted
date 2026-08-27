@@ -1,19 +1,19 @@
 ---
 title: Rathan's Symbol of Tymora
 aliases:
-  - Symbol of Tymora
+- Symbol of Tymora
 tags:
-  - item
+- item
 campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-26T03:46
-updated: 2026-06-24T17:03
+updated: 2026-08-27T17:57:14
 ---
 > [!infobox]
 > # Rathan's Symbol of Tymora
 
-A holy symbol of Tymora, worn by [[Rathan]] during the prequel vision of Shadowdale. Carried back by [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] after the vision ended. The symbol is battered and clearly well-used — the face of the coin goddess still visible despite years of wear.
+A holy symbol of Tymora, worn by [[Rathan Thentraver|Rathan]] during the prequel vision of Shadowdale. Carried back by [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] after the vision ended. The symbol is battered and clearly well-used — the face of the coin goddess still visible despite years of wear.
 
 ## Description
 

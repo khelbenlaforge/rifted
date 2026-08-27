@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-26T19:16:54
-updated: 2026-08-26T19:17:33
+updated: 2026-08-26T19:48:54
 ---
 
 # Gregory Yang - Playbook
@@ -28,6 +28,7 @@ updated: 2026-08-26T19:17:33
 - Expects to get meleed and wants a buffer plus retaliation → **Armor of Agathys** (Action, self, L1 slot) — 5 temporary HP; while any of it remains, a creature that hits Gregory with a melee attack takes 5 cold damage
 - Ally down or hurt → **Cure Wounds** (Action, touch, 2d8+5, L1 slot)
 - Wants to deploy the cannon → **Eldritch Cannon** (Action, 1/Long Rest or spend a spell slot, 5 ft, lasts 1 hour or until it drops to 0 HP, only one active at a time) — see the data-gap note above before relying on its exact numbers
+- Need a sound or minor visual illusion instead of damage (a diversion, a fake noise, a small hidden image) → **Minor Illusion** (30 ft, 1 min, unlimited — granted via Magic Initiate: Wizard, not the Artificer spell list)
 - Nothing else fits → **Dagger** (M/R +3, 1d4+1 pierce) or **Unarmed Strike** (M +0, 1 bludgeon) — ordinary weapon attacks, not spell attacks or attacks made while casting a spell, so **neither triggers Steady Hands**
 
 **Bonus Action:** None at this level, per the sheet.
@@ -44,22 +45,20 @@ updated: 2026-08-26T19:17:33
 
 ## Loadout Selection
 
-*Artificer prepares from its own spell list and can change its list after every Long Rest — pick the set below that matches the next expedition. **Gregory is currently only using 3 of his 6 allowed prepared-spell slots** (Armor of Agathys, Cure Wounds, Faerie Fire) — this is the single most actionable finding in this section: he can fill the other 3 for free at his next Long Rest, no level-up required.*
+*Artificer prepares from its own spell list and can change its list after every Long Rest — pick the set below that matches the next expedition. **Gregory is currently only using 3 of his 6 allowed prepared-spell slots** (Armor of Agathys, Cure Wounds, Faerie Fire) — this is the single most actionable finding in this section: he can fill the other 3 for free at his next Long Rest, no level-up required. *(The max of 6 is confirmed via the Artificer class's own prepared-spells formula, floor(level ÷ 2) + INT modifier = floor(3 ÷ 2) + 5 = 1 + 5 = 6 — matching the sheet exactly, not a guess.)* Candidates below are pulled from a live query of the actual modern Artificer L1–L2 spell list, not just illustrative examples.*
 
 **Dungeon / combat-heavy:**
-- Fill the empty slots with: *Grease* — battlefield control that pairs with Thunderwave's push
-- Fill with: *Absorb Elements* *(reaction, resistance to the triggering damage type plus a small retaliatory bonus on the next hit)* — a second Reaction-shaped option, though remember only one Reaction fires per round alongside Shield
+- Fill the empty slots with: *Grease* (L1) — battlefield control that pairs with Thunderwave's push
+- Fill with: *Enlarge/Reduce* (L2) — a versatile buff/debuff option this kit otherwise lacks
 - Keep: *Armor of Agathys, Faerie Fire* — already strong for a fight
 
 **Social / exploration-heavy:**
-- Fill with: *Comprehend Languages* — utility for unknown documents or speech
-- Fill with: *Identify* — matches Gregory's whole artificer/scholar identity for appraising a find on the spot
+- Fill with: *Disguise Self* (L1) — infiltration utility fitting a House Kundarak Heir working a room
+- Fill with: *Identify* (L1) — matches Gregory's whole artificer/scholar identity for appraising a find on the spot
 - Keep: *Cure Wounds* — never a bad slot to hold
 
 **Balanced / unknown expedition type:**
 - Fill the 3 open slots with a mix — one damage/control option, one defensive option, one utility option — rather than leaving them empty by default
-
-*Candidates above are illustrative of category shape rather than a full pull from the Artificer spell list — Artificer's list is comparatively narrow and level-gated, and a full accurate candidate query wasn't run for this section; treat the "fill the empty slots" finding as the actionable takeaway and confirm specific candidates against the Artificer spell list at the table before locking in a choice.*
 
 ## Non-Combat & Creative Uses
 
@@ -76,5 +75,5 @@ updated: 2026-08-26T19:17:33
 
 ## Completeness Check
 
-Every Actions/Reactions table row (Bonus Actions has none at this level, per the sheet), every Feature, and the Spellcasting section on Gregory's sheet is addressed above, with the Eldritch Cannon's exact numbers flagged as a known data gap rather than guessed at. Skillful is left out because it's already folded into a proficiency reflected on the sheet's skill line, with no separate decision to make. Mundane inventory with no distinct mechanical effect (Backpack, Oil, Rations, Rope, Tinderbox, Torches, Waterskin, Fine Clothes) is left out for the same reason as the other AUGs playbooks; Crowbar and Caltrops are covered by Thieves'/Tinker's Tools proficiency and Tinker's Magic above rather than getting separate entries.
+Every Actions/Reactions table row (Bonus Actions has none at this level, per the sheet), every Feature, and the Spellcasting section on Gregory's sheet is addressed above or explicitly excluded with a stated reason, with the Eldritch Cannon's exact numbers flagged as a known data gap rather than guessed at. Skillful is left out because it's already folded into a proficiency reflected on the sheet's skill line, with no separate decision to make. Magic Initiate: Wizard is addressed via its actual grants (Minor Illusion and True Strike, both in the Action tier above) rather than named as a source in its own right. Mundane inventory with no distinct mechanical effect (Backpack, Oil, Rations, Rope, Tinderbox, Torches, Waterskin, Fine Clothes) is left out for the same reason as the other AUGs playbooks; Crowbar and Caltrops are covered by Thieves'/Tinker's Tools proficiency and Tinker's Magic above rather than getting separate entries.
 

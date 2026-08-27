@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-24T17:59:21
+updated: 2026-08-27T17:46:12
 ---
 
 # Layla
@@ -103,5 +103,11 @@ Deity:: Unknown
 ## Session 25 Update
 
 - In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[The Exodus/The Door Kickers/PCs/Lea|Lea]] cast *Elminster's Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
+
+## Session 1 Update (The AUGs)
+
+- Feast of the Moon, Year 222 PA: appeared atop the tower at [[The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs (Mike Kanbei, Ruan Myrt Zaltana, Rachel Tan, Gregory Yang, Rismawati Bayu).
+- Corrected her own count aloud on seeing them: "It was supposed to be six." Did not give her name to this party.
+- Ran through her usual script: pointed up the tower, promised transport at the top, wouldn't say why they'd been pulled here, told them to run if they saw shadows. She was gone before the first one showed.
 
 

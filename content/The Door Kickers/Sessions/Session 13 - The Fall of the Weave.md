@@ -1,13 +1,13 @@
 ---
 title: Session 13 - The Fall of the Weave
-aliases:
+aliases: null
 tags:
-  - session
+- session
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 created: 2026-03-17T19:49
-updated: 2026-03-25T14:25
+updated: 2026-08-27T17:57:15
 ---
 
 # Session 13 - The Fall of the Weave
@@ -112,7 +112,7 @@ The party fights. The shadow creatures come from the module's script but the cha
 
 Caitlan steps forward. She moves with a certainty she did not have before. When she touches the struggling form in the mist, [[Mystra]] — the Goddess of Magic, her avatar captured and chained by [[Bane]] — fades from her bonds and occupies the girl. [[Bane]] departs. The castle's supernatural impositions dissolve, leaving only the ruins of an old fort.
 
-[[Caitlan]], now [[Mystra]], approaches [[Midnight]]. She asks for the pendant back. [[Midnight]] returns it.
+[[Caitlan Moonsong|Caitlan]], now [[Mystra]], approaches [[Midnight]]. She asks for the pendant back. [[Midnight]] returns it.
 
 [[Mystra]] opens a gate: purple mists, shifting darkness, a staircase into the void.
 

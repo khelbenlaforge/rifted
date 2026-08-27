@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-05T00:00:00
-updated: 2026-08-05T18:01:24
+updated: 2026-08-27T17:21:05
 ---
 
 # Time of Troubles

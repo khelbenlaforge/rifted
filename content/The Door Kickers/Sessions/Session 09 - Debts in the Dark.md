@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T15:55
-updated: 2026-08-02T13:58:42
+updated: 2026-08-27T17:57:05
 ---
 
 # Session 09 — Debts in the Dark
@@ -24,7 +24,7 @@ updated: 2026-08-02T13:58:42
 
 ## Letters Before Dawn
 
-The party slept in the main rest quarters of the [[Ordahir Kobold Colony]].
+The party slept in the main rest quarters of the [[Ordahir Kobolds|Ordahir Kobold Colony]].
 
 Before they could leave, they found something worth finding.
 

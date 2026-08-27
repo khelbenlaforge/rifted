@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-26T19:04:48
-updated: 2026-08-26T19:05:25
+updated: 2026-08-26T19:46:49
 ---
 
 # Mike Kanbei - Playbook
@@ -19,11 +19,12 @@ updated: 2026-08-26T19:05:25
 **Triage first — check every turn, and on the trigger itself for the two Reactions below:**
 - Mike drops below half his hit point maximum for the first time this fight → **Cut to Black** (Reaction, 1/Short Rest) — Invisible until the start of his next turn. Near-automatic the first time it triggers each fight; it's gone until his next short or long rest after that.
 - Mike is hit by an attack dealing Bludgeoning, Piercing, or Slashing damage → **Deflect Attacks** (Reaction, no cost) — reduces that attack's damage by 1d10+7. Always worth using; costs nothing.
-- The Deflect Attacks roll above reduces the incoming damage to exactly 0 → optionally spend 1 Focus Point to redirect force at a creature within 5 ft (if the attack was melee) or 60 ft and not behind Total Cover (if it was ranged) — that creature takes 2d6+4 damage of the same type on a failed DEX save *(DC 12 — same 8+prof+WIS formula as Mike's Spell Save DC; this specific save isn't printed on the sheet, so treat it as inferred, not sheet-sourced)*. See Comparative Notes for whether it's worth the Focus point.
+- The Deflect Attacks roll above reduces the incoming damage to exactly 0 → optionally spend 1 Focus Point to redirect force at a creature within 5 ft (if the attack was melee) or 60 ft and not behind Total Cover (if it was ranged) — that creature takes 2d6+4 damage of the same type on a failed DEX save, DC 12 *(confirmed via a live lookup on the Deflect Attacks feature text: "DC = 8 plus your Wisdom modifier and Proficiency Bonus" — 8+2+2 — this detail isn't printed on the sheet at all)*. See Comparative Notes for whether it's worth the Focus point.
 - First round of a fight, right after rolling initiative, if this is the first fight since his last Long Rest → **Uncanny Metabolism** triggers automatically: full Focus Point refill plus temporary HP equal to 1d6 (Martial Arts die) + 3 (Monk level). Free, not a choice — just don't forget he starts most fights topped up.
 
 **Action:**
 - Default attack, nothing else called for → **Spear** (M/R +6, 20/60 ft, 1d6+4 pierce, versatile 1d8+4) or **Unarmed Strike** (+6, 5 ft, 1d6+4 bludgeon) — identical damage die either way; take the Spear when reach or a ranged option matters, Unarmed Strike otherwise
+- Ranged poke without giving up the Spear/Unarmed damage die → **Dagger** (M/R +6, 20/60 ft, 1d4+4 pierce) — strictly weaker die than the two above, so there's rarely a reason to pick it over them, but it's on the sheet as an option
 - Multiple enemies grouped and worth blinding, or need mobile battlefield control → **Darkness** (Action, Focus 1, 60 ft range, 15-ft radius, Conc. 10 min) — Mike can see within the area when he casts it this way, and can move the area up to 60 ft at the start of each of his turns while he sustains it *(both details sourced from a live 5etools lookup on the Shadow Arts feature — the sheet's action-table cell only says "15-ft-radius magical darkness")*
 - Multiple enemies grouped and Mike wants the party's next attacks against them to land more often → **Faerie Fire** (Action, DEX DC 12, 20-ft cube, Conc. 1 min, 1/Long Rest) — outlined targets grant advantage on attacks against them and can't benefit from being Invisible; it's once per day, so save it for when several targets are in the cube at once
 - Nothing else needed, at-will utility → **Dancing Lights** (Conc. 1 min, unlimited) for a mobile light source, or **Minor Illusion** (unlimited, granted free by Shadowy Figments — doesn't touch the Focus pool) for a sound or image
@@ -46,7 +47,7 @@ updated: 2026-08-26T19:05:25
 
 ## Non-Combat & Creative Uses
 
-- Need to move through total darkness during exploration without slowing down or getting lost → **Darkvision 60 ft** *(Half-Elf/Drow racial)*
+- Need to move through total darkness during exploration without slowing down or getting lost → **Darkvision** *(Half-Elf/Drow racial, sheet lists 60 ft)* — **possible sheet discrepancy, flagged not fixed:** a live lookup on the modern Warrior of Shadow's Shadow Arts feature reads "you gain Darkvision with a range of 60 feet; if you already have Darkvision, its range increases by 60 feet," which would put Mike's actual total at 120 ft rather than the 60 ft the sheet shows — worth confirming against Foundry/character-sheet-sync rather than assuming either number
 - Need to resist a charm attempt in a negotiation, or can't be put to sleep by a magical effect → **Fey Ancestry** *(RAW: advantage on saves against being Charmed; magic can't put him to sleep)*
 - Need to tell whether a room or scene has been deliberately staged or tampered with → **The Unfinished Panel** *(RAW: advantage on Investigation checks to notice this)*
 - Need to strip an invisible creature of its edge during an ambush, or reveal one to allies who can then actually target it → **Faerie Fire** *(1/Long Rest — RAW: outlined creatures can't benefit from the Invisible condition; confirmed via a live spell lookup, not the sheet's compressed cell)*
@@ -58,5 +59,5 @@ updated: 2026-08-26T19:05:25
 
 ## Completeness Check
 
-Every Actions/Bonus Actions/Reactions table row, every Feature, and the Spellcasting section on Mike's sheet is addressed above. Unarmored Defense is left out because it's already reflected in the printed AC (16); mundane inventory with no distinct mechanical effect (Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin, Grappling Hook, Traveler's Clothes) is left out for the same reason as Jack XLR's playbook.
+Every Actions/Bonus Actions/Reactions table row, every Feature, and the Spellcasting section on Mike's sheet is addressed above or explicitly excluded with a stated reason. Unarmored Defense is left out because it's already reflected in the printed AC (16); mundane inventory with no distinct mechanical effect (Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin, Grappling Hook, Traveler's Clothes) is left out for the same reason as Jack XLR's playbook.
 

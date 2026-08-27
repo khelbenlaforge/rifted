@@ -1,15 +1,15 @@
 ---
 title: Sir Garth
 aliases:
-  - Garth
+- Garth
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-04-10T18:13
+updated: 2026-08-27T17:56:56
 ---
 
 # Sir Garth
@@ -25,7 +25,7 @@ updated: 2026-04-10T18:13
 > | Affiliation | [[Hucrele Family]] |
 
 ## Description
-Sir Garth is a family guard in the employ of the [[Hucrele Family]], stationed at [[Sunhold]]. He is not to be confused with [[Sir Gareth Ironhand]], the paladin of [[Tyr]] who trains warriors at the [[Hall of Justice - Temple of Tyr]] in [[Crystal]] -- the two are entirely separate individuals.
+Sir Garth is a family guard in the employ of the [[Hucrele Family]], stationed at [[Sunhold]]. He is not to be confused with [[Sir Gareth Ironhand]], the paladin of [[Tyr]] who trains warriors at the [[Hall of Justice - Temple of Tyr]] in [[Crystal City|Crystal]] -- the two are entirely separate individuals.
 
 ## Background
 Garth serves alongside [[Sir Braford]] as one of the two guards retained by [[Talgen Hucrele Sr.]] to protect his household and support the security of the [[Sunhold]] settlement. When the delegation to the Goblin Merchants was organised, [[Sir Braford]] was chosen to escort the Hucrele children while Garth remained behind at [[Sunhold]] to maintain the family's protection in Braford's absence.

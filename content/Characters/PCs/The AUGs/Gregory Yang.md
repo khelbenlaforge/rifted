@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-08-26T19:17:38
+updated: 2026-08-27T17:45:25
 ---
 
 # Gregory Yang
@@ -36,7 +36,7 @@ Gregory Yang did everything right, which was the problem. An OCS recruit and gov
 
 None of it failed him. That's what made it unbearable in a way he couldn't explain at dinner. He wasn't unhappy, exactly — he was provisioned for a life he'd never once been asked whether he wanted, and somewhere along the way the wanting itself had quietly gone out of business.
 
-The ground came up wrong first: solid where it should have given, tilted where it should have held. Only after did he register that the body catching itself against it wasn't quite the one he'd fallen asleep in. The life waiting for him this time came with its own conditions built in before he'd said a word. A banking house doesn't hand its mark to strangers for free — an heir owed the vault before the vault owed him anything, and whatever agreement put Gregory's name in that ledger had already been signed, by hands that weren't his, before he ever opened his eyes in this body. The shape of the arrangement is instantly familiar — he's been living inside one exactly like it his whole life. The only thing that's changed is that this one came with a turret bolted to his back and a reason to point it at something.
+He went for a walk to clear his head and opened his own front door onto a wall of numbers instead of the void deck — the same numbers he'd been staring at all night, suddenly everywhere, and then nothing but blue light. Only after did he register that the body catching itself against it wasn't quite the one he'd fallen asleep in. The life waiting for him this time came with its own conditions built in before he'd said a word. A banking house doesn't hand its mark to strangers for free — an heir owed the vault before the vault owed him anything, and whatever agreement put Gregory's name in that ledger had already been signed, by hands that weren't his, before he ever opened his eyes in this body. The shape of the arrangement is instantly familiar — he's been living inside one exactly like it his whole life. The only thing that's changed is that this one came with a turret bolted to his back and a reason to point it at something.
 
 ## Abilities
 
@@ -44,11 +44,11 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 
 ## Key Events
 
-*(Pending first session — joins the AUGs at Level 3.)*
+**Session 1 — Feast of the Moon, Year 222 PA:** He was mid-honest-answer to his girlfriend, telling her for once what OCS actually feels like, when he opened his own front door onto a wall of numbers instead of the void deck. The numbers turned to blue light. What came next was a shared vision of a cataclysm, and even mid-collapse some part of him kept trying to do the math on it: gravity against a floating landmass, lava burning on stone that shouldn't hold it. His assistant didn't survive the boulder that came for them both. He woke human, unhurt, inside [[The Drowned Dawn]], and cast Shield on himself before he'd even worked out where "here" was. His pendant, [[Held, Not Looked At]], had made the trip with him. During the fight that followed he built his eldritch cannon and lit one of the dead sconces with a well-placed Fire Bolt.
 
 ## Relationships
 
-*(Party relationships pending first session.)*
+Gregory's answer to five strangers and a temple full of shadows was a joke about wanting to go to art school instead. Same instinct that's kept him composed his entire life — it just usually gets aimed at a dinner table, not a stranger group mid-crisis.
 
 ## Character Sheet
 
@@ -166,7 +166,7 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 
 Race:: Human
 Subrace::
-Class:: Artificer
+Class:: Artificer (Artillerist)
 Player:: Darren
 Pronouns::
 Location::

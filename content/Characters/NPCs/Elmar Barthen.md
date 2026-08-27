@@ -1,15 +1,15 @@
 ---
 title: Elmar Barthen
 aliases:
-  - Barthen
+- Barthen
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-16T20:11
+updated: 2026-08-27T17:48:52
 ---
 
 # Elmar Barthen
@@ -30,11 +30,11 @@ A lean dwarf with an iron-grey beard and shrewd eyes that peer out from behind w
 ## Background
 [[Elmar Barthen]] runs [[Barthen's Supplies]], the most organised establishment in [[Sunhold]]. His operation resembles a military setup: taut canvas walls, neatly arranged shelves stocked with flour, salt, tools, and other essentials. In a settlement plagued by scarcity and disorder, his shop stands as an island of competence.
 
-Barthen understands the economics of a frontier town intimately. He seeks profit, certainly, but he also recognises that [[Sunhold]]'s success is his success. When the party arrived with supplies, he oversaw the unpacking personally and noted that payment would be settled upon [[Luks]]'s arrival -- a sign of both his business sense and his trust in the [[Adamantine Guild]]'s word.
+Barthen understands the economics of a frontier town intimately. He seeks profit, certainly, but he also recognises that [[Sunhold]]'s success is his success. When the party arrived with supplies, he oversaw the unpacking personally and noted that payment would be settled upon [[Luks Borg|Luks]]'s arrival -- a sign of both his business sense and his trust in the [[Adamantine Guild]]'s word.
 
 ## Relationships
 - Proprietor of [[Barthen's Supplies]] in [[Sunhold]]
-- Awaits payment from [[Luks]] for guild supply deliveries
+- Awaits payment from [[Luks Borg|Luks]] for guild supply deliveries
 - A practical fixture of [[Sunhold]]'s fragile economy
 
 ---

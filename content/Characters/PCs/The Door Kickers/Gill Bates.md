@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-24T20:17:33
+updated: 2026-08-27T17:57:34
 ---
 
 # Gill Bates
@@ -38,7 +38,7 @@ His visions during the crossing were profoundly spiritual. In one, he was an inc
 Gill's power flows from [[Istishia]], the Lord of Water -- one of the four Primordials considered deities. His Arcana Domain inclination blends divine and arcane theory, and he trains in both spiritual practice and conventional combat. He has proven himself a capable healer, assisting [[Sister Garaele]] at [[Tymora's Shrine]] in [[Sunhold]] with the distribution of healing potions. His faith in [[Istishia]] teaches patience, interconnection, and the understanding that water flows rather than fights.
 
 ## Mentorship
-Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[Istishia]] (Arcana Domain), at the [[Tidecaller's Sanctuary]] in the [[Diamond District]] of [[Crystal City]]. The Sanctuary is built over a natural underground spring, its interior adorned with ocean mosaics, a central spring-fed pool, and features including the [[Blessing Pool]], [[Divination Fountain]], and [[Rainfall Chamber]]. Marin teaches through water-based exercises and metaphors -- instructing Gill to stop resisting the current, to observe water closely for hidden patterns, and to let his calling surface naturally. He has presented four sects of [[Istishia]]'s faith: the [[Sacred Sea]], [[Watery Paths]], [[Magnificent Storm]], and [[Eternal Transformation]]. Gill supplements his temple study with combat training under [[Luks Borg]] at the [[Adamantine Guild]].
+Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[Istishia]] (Arcana Domain), at the [[Tidecaller's Sanctuary]] in the [[Diamond District]] of [[Crystal City]]. The Sanctuary is built over a natural underground spring, its interior adorned with ocean mosaics, a central spring-fed pool, and features including the [[Blessing Pool]], [[Divination Fountain]], and [[Rainfall Chamber]]. Marin teaches through water-based exercises and metaphors -- instructing Gill to stop resisting the current, to observe water closely for hidden patterns, and to let his calling surface naturally. He has presented four sects of [[Istishia]]'s faith: the [[Sects of Istishia|Sacred Sea]], [[Sects of Istishia|Watery Paths]], [[Sects of Istishia|Magnificent Storm]], and [[Sects of Istishia|Eternal Transformation]]. Gill supplements his temple study with combat training under [[Luks Borg]] at the [[Adamantine Guild]].
 
 ## Key Events
 - **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
@@ -48,12 +48,12 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - **4th Marpenoth** -- Distracted [[Elmindaria L'Thorian]] with earnest conversation about ocean facts during the Pantry Heist
 - **1st-6th Marpenoth** -- Trained at the [[Tidecaller's Sanctuary]] under [[Tidecaller Marin Deepcurrent]] and in combat under [[Luks Borg]]
 - **6th Marpenoth** -- Fell during [[Corranor]]'s descent to [[Aenath]]; joined [[Tidecaller Marin Deepcurrent]] at the docks to fish in the new waters
-- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Terra Bound island]]
+- **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Aenath Landmass Types|Terra Bound island]]
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] during the wagon ambush
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the [[Keldara Hucrele]] and [[Harbin Wester]] confrontation
 - Attended the [[Council Tent]] meeting; assigned to assist at [[Tymora's Shrine]] under [[Sister Garaele]]
 - Helped distribute healing potions and tend to the settlement's wounded
-- Remained in [[Sunhold]] with [[Luks]] while the rest of the party departed south to rescue the Hucrele children
+- Remained in [[Sunhold]] with [[Luks Borg|Luks]] while the rest of the party departed south to rescue the Hucrele children
 - **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
 - **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: Gill watches himself at the family table in Greece. His parents want him to call his cousin in Athens — the cousin who salted his fish when they were children. He wants the boats and the coast and none of this. He is outside the moment, watching himself refuse. In the liminal void, debriefed with the others. Arrived in [[Shadowdale]] as Adon; made no effort to conceal that the [[Old Skull Inn]] did not meet his standards. [[Jhaele Silvermane]] clocked his holy symbol — [[Sune]], goddess of beauty — and served him a crystal carafe of expensive wine without being asked: *"Your Majesty. Wine it is."* He accepted this as his due. Fought in the courtyard battle
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower, learned the shape of the crisis: Tablets of Fate, Celestial Stairway, multiple Mystra fragment carriers. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, during [[Midnight]]'s final transformation — when the pendantignited and the east wall blew outward — a masonry shard from the crumbling wall caught Adon across the face. Under the radar. He noticed the blood on his fingers only after. It will leave a scar. Permanent. A cleric of [[Sune]] — the goddess of beauty — marked permanently across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
@@ -192,7 +192,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 ## Session 21
 
 Session 21 downtime:
-- Fishing work: earned +12 gp; captain noted Gill seemed distracted; brought the catch to the [[Temple of Istishia]]
+- Fishing work: earned +12 gp; captain noted Gill seemed distracted; brought the catch to the [[Tidecaller's Sanctuary|Temple of Istishia]]
 - Relationship track: served sashimi to mentor [[Tidecaller Marin Deepcurrent]]
 - Learned four levels of Temple of [[Istishia]] water mastery:
 1. Sacred Sea: acceptance, letting things flow without controlling

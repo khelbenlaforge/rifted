@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-08-02T13:58:54
+updated: 2026-08-27T17:48:58
 ---
 
 # Session 10 — What the Well Swallowed
@@ -85,7 +85,7 @@ A hundred feet below, the woman who had governed the [[Ordahir Kobolds]] by the 
 
 Durnn produced alcohol from somewhere, and the celebration began.
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] joined the drinking. He remained upright throughout — his resistance to poison extending, apparently, to the goblins' conception of a victory toast. Durnn and most of the warrior goblins became comprehensively intoxicated. [[Augustus]] was sober inside it, watching.
+[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] joined the drinking. He remained upright throughout — his resistance to poison extending, apparently, to the goblins' conception of a victory toast. Durnn and most of the warrior goblins became comprehensively intoxicated. [[Augustus Kennedy|Augustus]] was sober inside it, watching.
 
 Elsewhere, [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Ember]] used the cover of the revel to speak with [[Grenl]]. She provided what she could — no warmth in it, just information offered in the dry tone of someone who has been keeping things to herself for long enough that giving them away feels like release.
 

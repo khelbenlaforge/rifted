@@ -7,7 +7,7 @@ campaign: Rifted
 session: 23
 date: 2026-07-13
 in-world-date: 21st-28th Uktar, Year 222 PA
-updated: 2026-08-14T15:54:58
+updated: 2026-08-27T18:03:33
 ---
 
 # Session 23 — What the Stone Remembers
@@ -34,7 +34,7 @@ Sadiah stayed in her room through all of it. Still traumatized, still not ready 
 
 ## Errands and Discretion
 
-Work in Crystal City doesn't stop for revelations. Lea and Regius went to the Hucrele House first, hoping Soral could point them toward nobles who needed a fixer. She ruled out the [[Blackstaff|Blackstaffs]] outright — too scrupulous, too far above board to ever need someone like Regius — and sent them instead to [[Ostrin Feld]], steward of [[House Verenthal]], with her name as the introduction: a favor for a favor.
+Work in Crystal City doesn't stop for revelations. Lea and Regius went to the Hucrele House first, hoping Soral could point them toward nobles who needed a fixer. She ruled out the Blackstaffs outright — too scrupulous, too far above board to ever need someone like Regius — and sent them instead to [[Ostrin Feld]], steward of [[House Verenthal]], with her name as the introduction: a favor for a favor.
 
 Ostrin Feld met them at a side gate, not the front door, and made it clear he intended this to be brief. Fifty years old, balding, livery a shade too faded for the house it represented, a signet ring too large to be casual. He looked tired and angry and frightened all at once, the kind of combination that means someone knows more than they're saying and would rather not say any of it. The job, once he got to it: the young lady of the house, [[Sellas Verenthal]], keeps leaving at inappropriate hours and the household keeps losing track of her. They need absolute discretion. Regius wouldn't be introduced to her — just asked to trail her through the city at night, unseen, and to break one of ten crystal glyphs she'd be given if trouble found her. Seventeen gold, three times over. Whatever House Verenthal is actually afraid of, Ostrin Feld didn't say it, and the gate behind him didn't look like it belonged to a house that could easily afford the silence it was buying.
 

@@ -1,16 +1,16 @@
 ---
 title: Talgen Hucrele Sr.
 aliases:
-  - Talgen Sr.
-  - Talgen Hucrele
+- Talgen Sr.
+- Talgen Hucrele
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-04-10T18:13
+updated: 2026-08-27T17:56:54
 ---
 
 # Talgen Hucrele Sr.
@@ -30,7 +30,7 @@ updated: 2026-04-10T18:13
 Talgen Hucrele Sr. is a graying human patriarch whose practical noble attire and calloused hands betray a man who leads by example rather than from a distance. He carries himself with the stoic composure expected of his station, though the disappearance of his children has tested that composure to its limits. Every word he speaks is deliberate, measured against his family's honour and the settlement's future.
 
 ## Background
-Talgen relocated with his wife [[Keldara Hucrele]] and their children from [[Crystal]] to [[Sunhold]], investing both capital and labour into the frontier settlement's growth. He employs two family guards -- [[Sir Braford]] and [[Sir Garth]] -- to protect his household and support the settlement's security.
+Talgen relocated with his wife [[Keldara Hucrele]] and their children from [[Crystal City|Crystal]] to [[Sunhold]], investing both capital and labour into the frontier settlement's growth. He employs two family guards -- [[Sir Braford]] and [[Sir Garth]] -- to protect his household and support the settlement's security.
 
 When Goblin Merchants arrived in [[Sunhold]] two weeks prior, offering a magical healing fruit and an invitation to visit their stronghold beyond the marshes, Talgen's children [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] were eager to go. Though initially hesitant, he consented and sent [[Sir Braford]] along with [[Karakas]], the settlement's sole woodsman, as escorts. The delegation was expected to return within ten days.
 

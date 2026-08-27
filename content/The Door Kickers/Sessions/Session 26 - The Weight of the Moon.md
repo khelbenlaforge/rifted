@@ -12,9 +12,6 @@ updated: 2026-08-15T23:39:21
 
 # Session 26 - The Weight of the Moon
 
-> [!warning] Provenance
-> Processed from [[The Exodus/The Door Kickers/PCs/Lea|Lea]]'s written notes — the DM's own account hadn't been recorded yet at the time of processing. Treat details below as strong in-fiction testimony from one player's account, not a DM-verified record; a DM pass and reprocess is expected to follow and may correct specifics.
-
 **In-world date:** Late 30th Uktar rolling into the [[Feast of the Moon]] (the intercalary day between 30 Uktar and 1 Nightal), Year 222 PA — the same night the Corvin Adder deal closed in Session 25.
 
 **Present:** [[The Exodus/The Door Kickers/PCs/Lea|Lea]] (Ming) · [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] (Francis) · [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]] (Chian) · [[Sadiah Ispahani|Sadiah]] (Veronica) · [[Terra]] (Simar) · [[The Exodus/The Door Kickers/PCs/Shen|Shen]] (Avinaash) — Shen split off early for offscreen research and doesn't appear again this session.

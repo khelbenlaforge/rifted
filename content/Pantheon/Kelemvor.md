@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-08-16T17:40:57
+updated: 2026-08-27T15:34:17
 ---
 
 # Kelemvor
@@ -43,6 +43,8 @@ His church in [[Crystal City]] runs three factions under one roof: the Monks of 
 ## Role in the Story
 
 Session 26 closed with the party split (Gil and Lea outside the Temple of Kelemvor) when seven of the temple's own paladins burst out screaming that they'd **lost the Gravelord**, the temple's unnamed leading priest figure (established convention: this faction's clergy names itself sparingly, "names are offered slowly, if at all"). Initiative rolled before anything more was learned. **Note the Gravelord is a temple leadership title, not the god himself.** Keep that distinction clear in play and in future notes, given how easily "Kelemvor" already collides with itself (see DM Notes).
+
+**Session 27 — resolved.** A hidden cult of Shar had kidnapped the Gravelord mid-vigil, using a compromised Knight ([[Ser Tamsin Rook]]) to clear their path, and was working to strip away some of Kelemvor's own duties over the dead at the [[Shrine of Shar]] off Cistern Street. The party tracked the cult down, killed the officiating cleric ([[Mother Ilyra Duskveil]]), and freed the Gravelord before the rite completed — he survived, and the vigil held.
 
 ## Connections
 

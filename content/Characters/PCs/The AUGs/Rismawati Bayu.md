@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-08-26T19:32:34
+updated: 2026-08-27T17:53:24
 created: 2026-08-26T17:33:32
 ---
 
@@ -20,7 +20,7 @@ created: 2026-08-26T17:33:32
 > | | |
 > | ---- | --- |
 > | **Race** | Owlin |
-> | **Class** | Druid |
+> | **Class** | Druid (Circle of the Moon) |
 > | **Background** | House Agent |
 > | **Player** | Stani |
 
@@ -44,11 +44,11 @@ Risma brings the same exacting scrutiny to the wild things around her now that s
 
 ## Key Events
 
-*(Pending first session—joins the AUGs at Level 2.)*
+**Session 1 — Feast of the Moon, Year 222 PA:** One hand was already on her front door, an ordinary Monday barely started, when the MRT doors ahead of her peeled open onto blue light instead of a train car. What followed was a vision she shared with four strangers. Pure panic sent her climbing higher than the rest of her flock dared, and from that height she was the first to notice something the others hadn't: the ocean below wasn't storming, it was boiling, and the land underneath had no curve to its horizon. Just an edge. She landed an owlin inside [[The Drowned Dawn]], her head turning a full circle before she even registered the talons where her feet used to be. Her spectacles, [[Brought Forward]], only showed up when she reached to actually analyze something — not before, not as decoration. Mid-fight she fled upward and put a crystal sconce back to work with Starry Wisp.
 
 ## Relationships
 
-*(Party relationships pending first session.)*
+Everyone in that room read as a threat before Risma's brain caught up: Slenderman-tall over there, horns on the woman next to him, and something seven feet and giant-shaped just past both of them. Gregory was the one exception, the only face that still looked ordinarily human — which is exactly why she latched onto him, and exactly why she promptly offended him anyway by guessing he probably wasn't really Singaporean either.
 
 ## Character Sheet
 
@@ -166,7 +166,7 @@ Risma brings the same exacting scrutiny to the wild things around her now that s
 
 Race:: Owlin
 Subrace::
-Class:: Druid
+Class:: Druid (Circle of the Moon)
 Player:: Stani
 Pronouns:: she/her
 Affiliation::

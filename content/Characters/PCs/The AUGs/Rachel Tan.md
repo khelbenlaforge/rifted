@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:34:11
-updated: 2026-08-26T19:13:57
+updated: 2026-08-27T17:53:32
 ---
 
 # Rachel Tan
@@ -44,11 +44,11 @@ Whatever the mercenary company drilled into this body, it shows up as raw, unpol
 
 ## Key Events
 
-*(Pending first session — joins the AUGs at Level 3.)*
+**Session 1 — Feast of the Moon, Year 222 PA:** Her crossing trigger was never established before this session; now it is. Turned down for the overseas art trip she'd finally worked up the nerve to ask about, she got caught reaching for her father's wallet anyway. What came after that was a march back to her room and a flight-booking screen she wasn't allowed to use — and that's where the pull found her. In the shared vision that followed, a voice that "sounded like fire become sound" bound her to a bargain she never spoke out loud to agree to: *"we help because this is the contract... I want those souls."* She saved fleeing halflings from falling rock she had no reason yet to care about, because the voice told her to, and something about doing it anyway felt like relief instead of shame, maybe the first time rage had ever felt like that. She woke a tiefling barbarian, crumpled on the floor of [[The Drowned Dawn]], veins and eyes glowing red. Her polearm arrived with her already named, [[Permission]], and lived up to it: one reckless, frenzied swing dropped a shadow creature outright and nearly finished a second in the same motion. The fire-voice found her again mid-fight. Still no name for it.
 
 ## Relationships
 
-*(Party relationships pending first session.)*
+For someone who looks like a devil, Rachel spent most of the session fielding questions about why she "sounded so Singaporean." It's a joke she didn't start and hasn't decided how she feels about. Somebody apologized afterward for assuming otherwise; in the chaos, nobody's sure who.
 
 ## Character Sheet
 
@@ -153,7 +153,7 @@ Whatever the mercenary company drilled into this body, it shows up as raw, unpol
 
 Race:: Tiefling
 Subrace:: Infernal
-Class:: Barbarian
+Class:: Barbarian (Path of the Berserker)
 Player:: Roselle
 Pronouns::
 Location::
