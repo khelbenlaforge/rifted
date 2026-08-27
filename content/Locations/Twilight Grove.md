@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-04-26
 secret: false
 created: 2026-04-25T20:00
-updated: 2026-08-02T13:59:14
+updated: 2026-08-27T18:08:29
 ---
 
 # Twilight Grove
@@ -45,7 +45,6 @@ The air smells of cold stone and something sweeter beneath it. The same sweetnes
 - **[[Belak]]** — druid and the tree's keeper; occupies this chamber during the grove's active phase
 - **[[Sir Braford]]** — vine thrall, standing guard
 - **[[Sharwyn Hucrele]]** — mid-conversion, bound to the tree during the ritual
-- **[[Kulket]]** — giant frog, nesting in the upper branches (DC 15 Perception to spot)
 - Assorted **Twig Blights** and **Vine Blights** assigned to grove patrol
 
 ## Current Events

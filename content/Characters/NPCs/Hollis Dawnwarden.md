@@ -49,6 +49,10 @@ Class:: Paladin (Oath of Devotion) 5
 Affiliation:: [[Hall of Justice - Temple of Tyr]]
 Deity:: [[Tyr]]
 
+## Session 27 Update
+
+- Hollis rides a Find Steed mount named Holland, reflavored as an undead horse summoned from the Shadowfell.
+
 ## Character Sheet
 
 | Stat | Value |

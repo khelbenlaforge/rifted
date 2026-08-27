@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-07-26T23:05:33
+updated: 2026-08-27T17:56:49
 ---
 
 # Luks Borg
@@ -32,12 +32,12 @@ Luks Borg is a towering figure at six-and-a-half feet tall, his frame packed wit
 His personality is the great contradiction of his life: a berserker's fury in battle, and a father's gentleness at home. He carries carved wooden toys in his pockets for any child he meets, and his deep, gravelly voice drops to a murmur when he speaks of family.
 
 ## Background
-Born in a northern frontier village plagued by orc raids, Luks learned to fight before he learned to read. At fourteen, he held a bridge against five orcs after his uncle fell beside him, and the rage that ignited in that moment never fully died. Years as a mercenary earned him the name "Borg the Unbreakable," but it was Mara -- a travelling healer with a sharp tongue -- who changed the course of his life. They married seven years ago, and their daughter Lily was born shortly after. The family resides in [[Crystal]]'s Garnet District, where battle axes hang beside finger paintings on the walls.
+Born in a northern frontier village plagued by orc raids, Luks learned to fight before he learned to read. At fourteen, he held a bridge against five orcs after his uncle fell beside him, and the rage that ignited in that moment never fully died. Years as a mercenary earned him the name "Borg the Unbreakable," but it was Mara -- a travelling healer with a sharp tongue -- who changed the course of his life. They married seven years ago, and their daughter Lily was born shortly after. The family resides in [[Crystal City|Crystal]]'s Garnet District, where battle axes hang beside finger paintings on the walls.
 
 As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luks runs morning combat drills, evaluates new recruits, and mentors young fighters -- his trainees affectionately called "Borg's Pups." He travelled with the party aboard the [[Vanny Faire]] to establish the Guild's presence in [[Sunhold]], where he met with [[Harbin Wester]] and took charge of setting up the Guild post. His authority and determination have been instrumental in integrating the [[Adamantine Guild]] into the frontier settlement.
 
 ## Relationships
-- Married to Mara, an herbalist in [[Crystal]]'s Garnet District
+- Married to Mara, an herbalist in [[Crystal City|Crystal]]'s Garnet District
 - Father of Lily
 - Senior member and Training Coordinator of the [[Adamantine Guild]]
 - Works alongside [[Istar Silverlock]] and [[Elmindaria L'Thorian]]

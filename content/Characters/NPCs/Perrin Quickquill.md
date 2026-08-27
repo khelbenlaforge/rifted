@@ -1,15 +1,15 @@
 ---
 title: Perrin Quickquill
 aliases:
-  - Perrin
+- Perrin
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-06-20T18:11
+updated: 2026-08-27T17:56:48
 ---
 
 # Perrin Quickquill
@@ -22,7 +22,7 @@ updated: 2026-06-20T18:11
 > | ---- | --- |
 > | Race | Halfling |
 > | Class | Assistant / Rogue |
-> | Location | [[Jade Spire]], [[Crystal]] |
+> | Location | [[Jade Spire]], [[Crystal City|Crystal]] |
 > | Affiliation | [[Corranor Council]] ([[Garm]]) |
 
 ## Description
@@ -31,7 +31,7 @@ Perrin Quickquill is a sprightly halfling barely over three feet tall, with aubu
 His cheerful, slightly scatter-brained public persona conceals a sharp intellect and a fiercely protective nature. He speaks multiple languages, possesses an eidetic memory, and is surprisingly dangerous in a fight -- wielding sharpened quills with lethal precision.
 
 ## Background
-Fifteen years ago, Perrin corrected a mistranslation in one of [[Garm]]'s research requests and was promptly transferred to the orc wizard's personal staff. He has served as [[Garm]]'s indispensable assistant, bodyguard, and confidant ever since, operating from the [[Jade Spire]] in [[Crystal]].
+Fifteen years ago, Perrin corrected a mistranslation in one of [[Garm]]'s research requests and was promptly transferred to the orc wizard's personal staff. He has served as [[Garm]]'s indispensable assistant, bodyguard, and confidant ever since, operating from the [[Jade Spire]] in [[Crystal City|Crystal]].
 
 When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Lea]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the Citrine District. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
 

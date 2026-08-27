@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-26T19:13:19
-updated: 2026-08-26T19:13:52
+updated: 2026-08-26T19:48:14
 ---
 
 # Rachel Tan - Playbook
@@ -26,7 +26,7 @@ updated: 2026-08-26T19:13:52
 
 **Action:**
 - On the very first attack of the turn, as an independent choice layered on top of whichever weapon attack follows → **Reckless Attack** — advantage on this turn's Strength-based attacks, but attacks against her have advantage until her next turn. While Raging, this also unlocks **Frenzy**: the first creature she hits this turn takes an extra 2d6 damage of the same type as the weapon/Unarmed Strike used, with no Exhaustion cost afterward *(confirmed via a live lookup — the 2024 version of Frenzy dropped the old Exhaustion drawback entirely, unlike its 2014 predecessor)*
-- 2+ enemies within reach of each other → **Permission** *(Cleave, M +7, 1d12+5 slash)* — on a hit, make one free attack against a different creature within 5 ft that's also in reach. That follow-up only deals the weapon's damage die (1d12) with **no Strength or Rage bonus added**, unless that modifier would be negative *(RAW detail from a live lookup — the sheet's cell doesn't spell this out)*; the first time this triggers each turn, **Through the Line** adds an extra 1d6 on top
+- 2+ enemies within reach of each other → **Permission** *(Cleave, M +7, 1d12+5 slash)* — on a hit, make one free attack against a different creature within 5 ft that's also in reach. That follow-up deals the weapon's damage die (1d12) with **no Strength modifier added**, unless that modifier would be negative *(RAW: Cleave's own text excludes only "your ability modifier" — the sheet's cell doesn't spell this out)*; while Raging, her flat Rage damage bonus (+2 at level 3) still applies on top, since that's a separate bonus from Rage, not her ability modifier — and the first time this triggers each turn, **Through the Line** adds another 1d6
 - Single priority target, wants next turn's hit to land → **Handaxe** *(Vex, M/R +6, 1d6+4 slash)* — on a hit, advantage on her next attack against that same target before the end of her next turn
 - Wants to blunt what she just hit rather than chase more damage → **Mace** *(Sap, M +6, 1d6+4 bludgeon)* — on a hit, the target has disadvantage on its next attack roll
 - Not Raging, needs a ranged option → **Fire Bolt** (spell attack +3, 120 ft, 1d10 fire, unlimited) or **Thaumaturgy** (30 ft, minor magical effect, 1 min) — both are spells and unusable while Raging
@@ -37,7 +37,7 @@ updated: 2026-08-26T19:13:52
 **Movement:** 30 ft base, no special movement type. While Raging, a hit with any Strength-based weapon or Unarmed Strike also lets Rachel push the target 5 ft in a direction of her choice, once per turn, no save (**Weight Behind It**) — a free positioning tool riding on whichever attack connects, not a separate action.
 
 **Comparative Notes:**
-- *Permission (Cleave) vs. Handaxe (Vex) vs. Mace (Sap), as the primary weapon:* Cleave rewards 2+ enemies within reach of each other with a follow-up hit (weapon die only, no ability/Rage bonus, plus Through the Line's 1d6 the first time each turn); Vex rewards a single priority target by guaranteeing advantage on her very next swing at it; Sap is purely defensive, weakening whatever she just hit rather than adding damage. Pick based on whether there are multiple adjacent enemies (Cleave), one target worth setting up for next turn (Vex), or incoming damage matters more than dealing it (Sap).
+- *Permission (Cleave) vs. Handaxe (Vex) vs. Mace (Sap), as the primary weapon:* Cleave rewards 2+ enemies within reach of each other with a follow-up hit (weapon die only, no Strength modifier, though the Rage bonus and Through the Line's 1d6 still apply the first time each turn); Vex rewards a single priority target by guaranteeing advantage on her very next swing at it; Sap is purely defensive, weakening whatever she just hit rather than adding damage. Pick based on whether there are multiple adjacent enemies (Cleave), one target worth setting up for next turn (Vex), or incoming damage matters more than dealing it (Sap).
 - *Reckless Attack — take it or not:* advantage on this turn's Strength-based attacks and (while Raging) Frenzy's extra 2d6 on the first hit, against every attacker getting advantage on her until her next turn. Worth it when landing this turn's hit matters more than the added incoming risk — her resistance to Bludgeoning/Piercing/Slashing while Raging offsets some of that risk, but not all of it. Hold back specifically when she's already low and likely to get focused down.
 - *Hellish Rebuke vs. staying Raging:* not really a same-turn choice — Rage bans all spellcasting outright, so Hellish Rebuke (and Fire Bolt/Thaumaturgy) only exist as options on rounds she hasn't Raged yet. Since Rage is her default combat mode, treat Hellish Rebuke as a pre-Rage or "haven't Raged this fight" option, not something to expect mid-Rage.
 
@@ -52,8 +52,9 @@ updated: 2026-08-26T19:13:52
 - Need to forge, repair, or reshape a piece of metal gear → **Smith's Tools proficiency**
 - Need an unsettling or attention-grabbing minor effect for a scene beyond intimidation — flickering flames, a phantom sound, tremors underfoot, a door slamming open → **Thaumaturgy's other effect options** *(same spell, sourced from the same lookup as above)*
 - Need to see in the dark during exploration → **Darkvision 60 ft** *(Tiefling racial)*
+- Need to walk through fire, hot coals, or a burning structure without taking full harm → **Fiendish Legacy (Infernal): Fire Resistance** *(RAW: resistance, not immunity — a big enough fire source still hurts, just half as much)*
 
 ## Completeness Check
 
-Every Actions/Bonus Actions/Reactions table row, every Feature, and the Spellcasting section on Rachel's sheet is addressed above. Unarmored Defense and Tough are left out because they're already reflected in the printed AC (13) and HP (30); mundane inventory with no distinct mechanical effect (Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin, Fine Clothes) is left out for the same reason as the other AUGs playbooks.
+Every Actions/Bonus Actions/Reactions table row, every Feature, and the Spellcasting section on Rachel's sheet is addressed above or explicitly excluded with a stated reason. Unarmored Defense and Tough are left out because they're already reflected in the printed AC (13) and HP (30); mundane inventory with no distinct mechanical effect (Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin, Fine Clothes) is left out for the same reason as the other AUGs playbooks.
 

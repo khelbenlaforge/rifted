@@ -1,6 +1,7 @@
 ---
 title: Temple of Kelemvor
-aliases: null
+aliases:
+- Church of Kelemvor
 tags:
 - location
 - location/temple
@@ -8,7 +9,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 created: 2026-06-24T16:56
-updated: 2026-08-02T13:59:13
+updated: 2026-08-27T17:52:38
 ---
 
 # Temple of Kelemvor
@@ -50,6 +51,11 @@ At the far end of the Knights' hall, three archways stand taller than the surrou
 The institutional feud with the churches of [[Mystra]] and [[Oghma]] is not currently active in an overt sense, but the position has never softened: knowledge without responsibility destabilizes the Weave, wild magic disrupts planar transit, and Kelemvor's people have watched it happen enough times to regard the other two churches with permanent structural skepticism.
 
 Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, and he began joining the [[Knights of the Eternal Order]]. The three internal orders now have standalone faction notes: [[The Gravelords]], [[Knights of the Eternal Order]], and [[Monks of the Long Death]].
+
+## Session 27 Update
+
+- Shar cultists infiltrated the Deeds of the Dead vigil and kidnapped the Gravelord; the vigil ultimately held, and the Gravelord survived after being freed from a hidden Shar shrine off Cistern Street.
+- A compromised Knight, [[Ser Tamsin Rook]], let the cultists pass; [[Mother Ilyra Duskveil]] ran the ritual at the hidden shrine.
 
 ## Scene Features
 

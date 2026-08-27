@@ -2,7 +2,7 @@
 title: The Exodus Wiki
 secret: false
 created: 2026-03-16T00:44
-updated: 2026-08-16T00:30:34
+updated: 2026-08-27T17:33:13
 ---
 
 # Welcome to Aenath
@@ -25,14 +25,18 @@ This is the player-facing wiki for **The Exodus** — a shared setting whose cur
 ## By Table
 
 ### The Door Kickers
-- [[The Door Kickers/PCs/|Player Characters]]
+- [[Characters/PCs/The Door Kickers/|Player Characters]]
 - [[The Door Kickers/Sessions/|Sessions]]
 
 ### The Understudies
-- [[The Understudies/PCs/|Player Characters]]
+- [[Characters/PCs/The Understudies/|Player Characters]]
 - [[The Understudies/Sessions/|Sessions]]
 
 ### The JULYs
-- [[The JULYs/PCs/|Player Characters]]
+- [[Characters/PCs/The JULYs/|Player Characters]]
 - [[The JULYs/Sessions/|Sessions]]
+
+### The AUGs
+- [[Characters/PCs/The AUGs/|Player Characters]]
+- [[The AUGs/Sessions/|Sessions]]
 

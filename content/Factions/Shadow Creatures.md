@@ -1,13 +1,13 @@
 ---
 title: Shadow Creatures
-aliases:
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-03-16T20:11
+updated: 2026-08-27T18:57:13
 ---
 
 # Shadow Creatures
@@ -46,5 +46,12 @@ Combat mechanics established:
 - Cold damage from magical sources works.
 - Psychic damage works.
 - Light effects can paralyze them.
+
+## Session 1 (The AUGs)
+
+- Encountered at [[The Drowned Dawn]] (Feast of the Moon, Year 222 PA), emerging from cracks in the floor of an underground temple chamber.
+- Radiant damage confirmed effective again: striking one of the temple's unlit crystal sconces with radiant damage ignites it, and shadow creatures actively avoid the newly-lit radius rather than cross it.
+- Once enough sconces were lit, the remaining shadow creatures present froze in place rather than fled or kept fighting.
+- A [[Fused Shadow]] formed mid-fight when two bloodied Shadow-family creatures ended up adjacent, per its existing combine rule — hit noticeably harder than either component alone, consistent with its stat block.
 
 

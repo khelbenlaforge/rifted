@@ -1,15 +1,15 @@
 ---
 title: Sharwyn Hucrele
 aliases:
-  - Sharwyn
+- Sharwyn
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2025-11-09
 secret: false
 state: alive (recovering)
 created: 2026-03-16T04:22
-updated: 2026-06-20T18:11
+updated: 2026-08-27T17:56:51
 ---
 
 # Sharwyn Hucrele
@@ -29,7 +29,7 @@ updated: 2026-06-20T18:11
 Sharwyn is the daughter of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]], a young noblewoman whose youthful appearance belies a fierce eagerness to prove herself beyond the shelter of her family's name. She carries herself with the confidence of privilege tempered by genuine curiosity about the wider world.
 
 ## Background
-Raised in [[Crystal]], Sharwyn grew up restless under the comforts of noble life. When Goblin Merchants visited [[Sunhold]] bearing a magical healing fruit and an invitation to their stronghold beyond the marshes, she jumped at the chance to join the delegation alongside her brother [[Talgen Hucrele Jr.]] Their father consented, sending [[Sir Braford]] and [[Karakas]] as escorts.
+Raised in [[Crystal City|Crystal]], Sharwyn grew up restless under the comforts of noble life. When Goblin Merchants visited [[Sunhold]] bearing a magical healing fruit and an invitation to their stronghold beyond the marshes, she jumped at the chance to join the delegation alongside her brother [[Talgen Hucrele Jr.]] Their father consented, sending [[Sir Braford]] and [[Karakas]] as escorts.
 
 The delegation was expected to return within ten days. Twenty-four days have now passed without a single word. Sharwyn's disappearance has thrown the [[Hucrele Family]] into crisis. Her mother [[Keldara Hucrele]] has publicly demanded action and offered a substantial reward -- 500 gold for each child returned alive, 200 gold for their signet rings if found deceased -- while the [[Adamantine Guild]] has taken up the search. Her brother [[Talgen Hucrele Jr.]] was confirmed dead. Sharwyn survived the [[Sunless Citadel]] and is recovering after the [[Gulthias Tree]] went dormant in Session 18.
 

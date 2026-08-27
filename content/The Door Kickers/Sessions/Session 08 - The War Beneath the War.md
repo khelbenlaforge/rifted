@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T16:05
-updated: 2026-08-02T13:58:28
+updated: 2026-08-27T17:57:06
 ---
 
 # Session 08 — The War Beneath the War
@@ -66,7 +66,7 @@ He steadied when calmed. He welcomed the party with the sincerity of someone who
 
 The throne room was assembled from ambition and salvage: a stone seat built from stacked masonry, set against an ancient altar covered in small offerings. A rearing dragon was carved into the stone wall behind the throne — centuries older than [[Yusdrayl]] herself — and she sat beneath it like a crown she had borrowed from history.
 
-Yusdrayl was slim, controlled, and carrying a tension in her jaw she had been carrying for weeks. She welcomed the party with the warmth of someone who needed them more than she wanted to show. To the east: the [[Ordahir Kobold Colony]], with space to rest. Her voice, when she invoked dragons and heritage, had the cadence of ritual rather than devotion.
+Yusdrayl was slim, controlled, and carrying a tension in her jaw she had been carrying for weeks. She welcomed the party with the warmth of someone who needed them more than she wanted to show. To the east: the [[Ordahir Kobolds|Ordahir Kobold Colony]], with space to rest. Her voice, when she invoked dragons and heritage, had the cadence of ritual rather than devotion.
 
 She laid it out plainly: the [[Ordahir Kobolds]] held part of the [[Sunless Citadel]]. The [[Durbuluk Goblins]] held the northern sections. The two factions had been at war for as long as anyone remembered, and the conflict had recently taken on personal weight — the goblins had taken [[Calcryx]], the colony's wyrmling, and Yusdrayl needed it back before her own people tore each other apart over it.
 

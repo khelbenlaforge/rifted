@@ -1,18 +1,16 @@
 ---
-
-
-title: Session 20 — Strange Peace
+title: "Session 20 \u2014 Strange Peace"
 aliases:
-  - Session 20
+- Session 20
 tags:
-  - session
+- session
 campaign: Rifted
 date: 2026-06-24
 session: 20
-in-world-date: "3rd-12th Uktar, Year 222 PA"
+in-world-date: 3rd-12th Uktar, Year 222 PA
 secret: false
 created: 2026-06-24T00:00
-updated: 2026-06-24T21:01:20
+updated: 2026-08-27T17:58:55
 ---
 
 # Session 20 — Strange Peace
@@ -43,7 +41,7 @@ Augie left with an additional Turn Undead available once a day, as if the god ha
 
 The visit had been planned since before they got back. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] arrived to find [[Perrin Quickquill]] at the entrance, more settled than he had been when they'd confronted him in the street, and a tower that looked like it had recently survived something.
 
-The fresh paint was still visible on the rune-work. [[Tensor's Floating Disc]] carried them up to a social space full of apprentices and hovering trays — a [[Garm]]-style solution to the problem of people needing to eat while working magic. Perrin explained the runes. While the party was in [[Sunhold]], the [[Shadow Creatures]] had found the Spire. The assault had been sustained enough to halve the city guard's active deployment; the mages had spent weeks in the ward-work. The runes now held. Garm had a theory: the creatures were extraplanar, but not from any plane he recognised. He was still working on the rest of it.
+The fresh paint was still visible on the rune-work. Tensor's Floating Disc carried them up to a social space full of apprentices and hovering trays — a [[Garm]]-style solution to the problem of people needing to eat while working magic. Perrin explained the runes. While the party was in [[Sunhold]], the [[Shadow Creatures]] had found the Spire. The assault had been sustained enough to halve the city guard's active deployment; the mages had spent weeks in the ward-work. The runes now held. Garm had a theory: the creatures were extraplanar, but not from any plane he recognised. He was still working on the rest of it.
 
 The moss from Sunhold had become a drink. Perrin said it was very nutritious. He seemed genuinely pleased about this.
 

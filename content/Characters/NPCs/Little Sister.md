@@ -1,14 +1,14 @@
 ---
 title: Little Sister
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: dismissed/revealed
 created: 2026-03-22T15:58
-updated: 2026-05-26T16:23
+updated: 2026-08-27T17:57:08
 ---
 
 # Little Sister
@@ -37,7 +37,7 @@ Found caged in [[Durbuluk Goblins]] territory within the [[Sunless Citadel]], he
 
 ## Role in the Story
 
-A companion who joined the party in Session 10 and has since become quietly integral to it. Like [[Balsag]] and [[Erky]], she cannot perceive the [[Sanctum]]'s true contents — only the Ashardalon illusion and the ancient elven architecture. Why the Sanctum reveals itself only to the five from Earth remains an open question.
+A companion who joined the party in Session 10 and has since become quietly integral to it. Like [[Balsag]] and [[Erky]], she cannot perceive the [[Sanctum of Ashardalon|Sanctum]]'s true contents — only the Ashardalon illusion and the ancient elven architecture. Why the Sanctum reveals itself only to the five from Earth remains an open question.
 
 ---
 Race:: Illusory duplicate ([[Velvet Vulper]] disguise)

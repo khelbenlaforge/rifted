@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-15T23:44:49
+updated: 2026-08-27T17:56:47
 ---
 
 # Sylvara Oakwhisper
@@ -31,7 +31,7 @@ Sylvara Oakwhisper is a ninety-four-year-old half-elf ranger who appears no olde
 Her teaching style favours experience over lectures. She would rather have a student kneel in the mud and listen to the forest than sit in a classroom reading about it.
 
 ## Background
-Sylvara grew up in [[Crystal]] and discovered her calling in the balance between civilization and wilderness -- the heart of [[Mielikki]]'s philosophy. She serves as a ranger and teacher at [[Mielikki's Grove]], where she instructs those drawn to the natural world in sustainable practices, forest defence, and communion with animals.
+Sylvara grew up in [[Crystal City|Crystal]] and discovered her calling in the balance between civilization and wilderness -- the heart of [[Mielikki]]'s philosophy. She serves as a ranger and teacher at [[Mielikki's Grove]], where she instructs those drawn to the natural world in sustainable practices, forest defence, and communion with animals.
 
 She took [[The Exodus/The Door Kickers/PCs/Ember]] under her guidance, inviting her to the Grove for lessons in connecting with the land. There, Sylvara shared [[Mielikki]]'s teachings: that all life is sacred, that death is a natural part of the cycle, and that the ranger's role is to protect, teach, and plant. She drew distinctions between [[Mielikki]]'s compassionate stewardship and [[Silvanus]]'s harsher philosophy, identified allies such as the [[Adamantine Guild]] and [[Eldath]]'s peacekeepers, and warned against enemies like [[Malar]]'s followers and reckless fire mages. She also explained that [[Mielikki]] permits her rangers to wear metal armour and bear weapons, for the forest's protectors must sometimes fight.
 

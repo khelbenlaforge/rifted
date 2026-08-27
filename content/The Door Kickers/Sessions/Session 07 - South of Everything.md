@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T00:00
-updated: 2026-08-02T13:58:13
+updated: 2026-08-27T17:57:11
 ---
 
 # Session 07 — South of Everything
@@ -83,7 +83,7 @@ He hasn't returned either.
 
 [[The Exodus/The Door Kickers/PCs/Ember]] spots a Lurkleaf near the shrine as the party makes its final preparations. At the southern stables, they're assigned their mounts for the marsh crossing: Bogstride Salamandrels — large, amphibious, bioluminescent lines tracing the length of their sides, bellies built for hydroplaning across wet ground. The stablers explain that the [[Marsh Snappers]] are spawning this time of year, which draws the predators away from the marsh lanes. Autumn is the safest window for crossing.
 
-The party gathers [[Pebbletoads]] — small, petrified amphibians — before departing.
+The party gathers [[Pebbletoad|Pebbletoads]] — small, petrified amphibians — before departing.
 
 [[Luks Borg]] stays in [[Sunhold]] to build the guild post. [[The Exodus/The Door Kickers/PCs/Gill Bates]] stays to assist [[Sister Garaele]].
 

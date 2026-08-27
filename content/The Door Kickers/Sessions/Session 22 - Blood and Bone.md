@@ -1,18 +1,13 @@
 ---
-
-
-
-
 created: 2026-06-30T21:57:57
-
-title: "Session 22 — Blood and Bone"
+title: "Session 22 \u2014 Blood and Bone"
 tags:
-  - session
+- session
 campaign: Rifted
 session: 22
 date: 2026-06-29
-in-world-date: "21st-30th Uktar, Year 222 PA"
-updated: 2026-07-01T18:00:39
+in-world-date: 21st-30th Uktar, Year 222 PA
+updated: 2026-08-27T17:52:46
 ---
 
 # Session 22 — Blood and Bone
@@ -45,7 +40,7 @@ Daria tipped the pouch onto the table. Metal scraps — the remnants of a magic 
 
 The picture resolved. The transit spell — seventh level, the kind of working that takes years to engineer — required two things: a physical anchor attuned to a target plane, and the matter of a living mind. Blood. Bone. Consciousness. Not creature blood. *Human* blood. The city's magical reagent supply hadn't been bought out for someone's experiments in the abstract. It had been bought out because someone needed the specific material of people to move between worlds.
 
-The [[Church of Kelemvor]] — the god of death, arbiter of where souls go — tracks cross-planar soul movement. They police it. [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] have paths into that institution. Those paths just became relevant.
+The [[Temple of Kelemvor|Church of Kelemvor]] — the god of death, arbiter of where souls go — tracks cross-planar soul movement. They police it. [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] have paths into that institution. Those paths just became relevant.
 
 One further note: the circle is not complete. Daria's read of the residue was clear on that — the formula is directed, it has a target, but where Layla intended it to land is not legible in what Perrin scattered. A question, not an answer.
 
@@ -63,7 +58,7 @@ The statue in the main hall holds scales of justice. JJ had been tasked by Istar
 
 [[Istar Silverlock]] heard the proposal explained to the party and let a moment of silence sit before the cheeky smile arrived. *It could be fun.* The reward he offered: half-proficiency — or full, in his specialties — in any skill, for anyone who helped pull it off. He has proficiency in everything. In deception, insight, investigation, perception, sleight of hand, and stealth, he has double proficiency. He would not be helping directly.
 
-The party's enthusiasm varied. [[The Exodus/The Door Kickers/PCs/Regius]] agreed on the condition he would be compensated — or permitted to pocket something from the church's own coffers. He then talked [[Lea Silverhand|Lea]] into joining. Their participation was settled when the next deadline asserted itself.
+The party's enthusiasm varied. [[The Exodus/The Door Kickers/PCs/Regius]] agreed on the condition he would be compensated — or permitted to pocket something from the church's own coffers. He then talked [[Lea]] into joining. Their participation was settled when the next deadline asserted itself.
 
 ## Open Sesame
 
@@ -71,7 +66,7 @@ The [[The Low Flagon|Low Flagon]] meeting had a ten-day window. The window was c
 
 The code phrase — *I have four litres of blood to sell* — was [[Tinny]]'s intelligence from the previous month. It would get someone into the negotiation, not just past the door. The working theory: go in as sellers. Present as people with product and a need for distribution. JJ had the street credibility. [[The Exodus/The Door Kickers/PCs/Shen]] had the academic vocabulary to speak convincingly about what the material was worth. [[The Exodus/The Door Kickers/PCs/Regius]] was new enough to Crystal City that the [[The Claret|Claret]] had no record of him, and persuasive enough to carry a room.
 
-[[Lea Silverhand|Lea]] would go in separately — in disguise, a different table, a different drink, a second set of eyes at ground level. [[Terra]] would stay outside: sole lookout, with sight lines on the only entrance. Where [[The Exodus/The Door Kickers/PCs/Nanuk]] stood was still under consideration: on the roof with Inukshuk for rapid response, or inside in disguise at his own table. Both options remained when the session closed.
+[[Lea]] would go in separately — in disguise, a different table, a different drink, a second set of eyes at ground level. [[Terra]] would stay outside: sole lookout, with sight lines on the only entrance. Where [[The Exodus/The Door Kickers/PCs/Nanuk]] stood was still under consideration: on the roof with Inukshuk for rapid response, or inside in disguise at his own table. Both options remained when the session closed.
 
 The meeting had not yet happened.
 

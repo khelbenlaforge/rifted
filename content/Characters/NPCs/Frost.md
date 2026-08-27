@@ -1,14 +1,14 @@
 ---
 title: Frost
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-03-18T12:45
+updated: 2026-08-27T17:48:57
 ---
 
 # Frost
@@ -29,7 +29,7 @@ A striking white wolf with a coat of pure, unblemished fur that stands in vivid 
 
 ## Behavior & Abilities
 
-Frost is fiercely loyal to [[Sylvara Oakwhisper]] and rarely strays far from her side. He possesses heightened senses that allow him to detect threats long before they become visible, and he navigates even the most treacherous wilderness terrain with ease. [[Sylvara]] often uses Frost to illustrate her teachings on the balance between civilization and nature — a living embodiment of the forest's spirit.
+Frost is fiercely loyal to [[Sylvara Oakwhisper]] and rarely strays far from her side. He possesses heightened senses that allow him to detect threats long before they become visible, and he navigates even the most treacherous wilderness terrain with ease. [[Sylvara Oakwhisper|Sylvara]] often uses Frost to illustrate her teachings on the balance between civilization and nature — a living embodiment of the forest's spirit.
 
 ## Relationships
 
