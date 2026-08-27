@@ -2,7 +2,7 @@
 title: The Exodus Wiki
 secret: false
 created: 2026-03-16T00:44
-updated: 2026-08-27T17:33:13
+updated: 2026-08-27T19:31:56
 ---
 
 # Welcome to Aenath
@@ -20,7 +20,7 @@ This is the player-facing wiki for **The Exodus** — a shared setting whose cur
 - [[Bestiary/|Bestiary]]
 - [[Vehicles/|Vehicles]]
 - [[House Rules/|House Rules]]
-- [[Campaign Timeline]]
+- [[Timeline/|Campaign Timeline]]
 
 ## By Table
 
