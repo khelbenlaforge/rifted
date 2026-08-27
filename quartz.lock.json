@@ -199,6 +199,12 @@
       "commit": "5737a82486f4fc570ff87c28d151507e7573cc6e",
       "installedAt": "2026-08-27T16:15:41.873Z"
     },
+    "quartz-graph": {
+      "source": "github:khelbenlaforge/quartz-graph",
+      "resolved": "https://github.com/khelbenlaforge/quartz-graph.git",
+      "commit": "43ee4a5ab871cb6cd6ed934a92879c71a2e425f5",
+      "installedAt": "2026-08-27T16:58:16.671Z"
+    },
     "quartz-player-note": {
       "source": "github:khelbenlaforge/quartz-player-note",
       "resolved": "https://github.com/khelbenlaforge/quartz-player-note.git",
