@@ -9,6 +9,7 @@ import {
   Darkmode,
   ReaderMode,
   FiveETools,
+  SessionNotes,
 } from "./.quartz/plugins"
 import type { ExplorerOptions } from "./.quartz/plugins"
 import { MobileOnly, Spacer, Flex } from "./quartz/components"
@@ -76,11 +77,13 @@ config.plugins.pageTypes = (config.plugins.pageTypes ?? [])
 export default config
 
 // Explorer's sortFn is likewise a JS callback that can't live in YAML. loadQuartzLayout()'s
-// `defaults` override is a shallow merge at the FullPageLayout key level (left/right/etc),
-// so overriding `left` means reconstructing the whole column, not just swapping one entry —
-// this mirrors quartz.config.yaml's left-column plugin list/priorities exactly (page-title 10,
-// spacer 25/mobile-only, search+darkmode+reader-mode grouped into the toolbar Flex at 20/30/35,
-// explorer 50 with the custom sortFn, five-e-tools 60). Keep both in sync if either changes.
+// `defaults` override is a shallow merge at the FullPageLayout key level (left/right/etc), so
+// overriding `left` means reconstructing the whole column for CONTENT pages, not just swapping
+// one entry — this only affects `content`; folder/tag build their own `left` independently from
+// quartz.config.yaml's per-plugin priorities (see the byPageType excludes there for why
+// PlayerNote/SessionNotes/FiveETools don't appear on folder/tag pages, matching v4). Order here
+// matches v4's original quartz.layout.ts left column exactly: PageTitle, Spacer, toolbar Flex,
+// Explorer, ChangelogLink (Stage 4, not yet added), SessionNotes, FiveETools.
 export const layout = await loadQuartzLayout({
   defaults: {
     left: [
@@ -94,6 +97,7 @@ export const layout = await loadQuartzLayout({
         ],
       }),
       Explorer({ sortFn: explorerSortFn }),
+      SessionNotes(),
       FiveETools(),
     ],
   },
