@@ -9,14 +9,14 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-27T17:56:50
+updated: 2026-08-28T02:33:48
 ---
 
 # Keldara Hucrele
 
 > [!infobox|right wikipedia]+
 > # Keldara Hucrele
-> ![[Keldara Hucrele.png]]
+> ![[zzz_Attachments/Keldara Hucrele.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

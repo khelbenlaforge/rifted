@@ -9,14 +9,14 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-27T17:56:48
+updated: 2026-08-28T02:33:48
 ---
 
 # Perrin Quickquill
 
 > [!infobox|right wikipedia]+
 > # Perrin Quickquill
-> ![[Perrin Quickquill.png]]
+> ![[zzz_Attachments/Perrin Quickquill.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

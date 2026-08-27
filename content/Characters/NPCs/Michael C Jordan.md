@@ -10,14 +10,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-17T00:00
-updated: 2026-03-17T00:00
+updated: 2026-08-28T02:33:48
 ---
 
 # Michael C Jordan
 
 > [!infobox|right wikipedia]+
 > # Michael C Jordan
-> ![[Michael C Jordan.png]]
+> ![[zzz_Attachments/Michael C Jordan.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

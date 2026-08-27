@@ -9,14 +9,14 @@ introduced: 2025-11-09
 secret: false
 state: dead
 created: 2026-03-16T03:56
-updated: 2026-04-10T18:13
+updated: 2026-08-28T02:33:48
 ---
 
 # Talgen Hucrele Jr.
 
 > [!infobox|right wikipedia]+
 > # Talgen Hucrele Jr.
-> ![[Talgen JR.png]]
+> ![[zzz_Attachments/Talgen JR.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

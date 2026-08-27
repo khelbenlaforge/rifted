@@ -8,14 +8,14 @@ introduced:
 secret: false
 state: dead
 created: 2026-03-16T16:00
-updated: 2026-03-17T22:00
+updated: 2026-08-28T02:33:48
 ---
 
 # Yusdrayl
 
 > [!infobox|right wikipedia]+
 > # Yusdrayl
-> ![[Yusdrayl Portrait.jpg]]
+> ![[zzz_Attachments/Yusdrayl Portrait.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

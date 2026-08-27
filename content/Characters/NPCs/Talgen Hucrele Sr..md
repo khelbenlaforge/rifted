@@ -10,14 +10,14 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-08-27T17:56:54
+updated: 2026-08-28T02:33:48
 ---
 
 # Talgen Hucrele Sr.
 
 > [!infobox|right wikipedia]+
 > # Talgen Hucrele Sr.
-> ![[Talgen SR.png]]
+> ![[zzz_Attachments/Talgen SR.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

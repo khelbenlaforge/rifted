@@ -8,14 +8,14 @@ introduced: null
 secret: false
 state: dismissed/revealed
 created: 2026-03-22T15:58
-updated: 2026-08-27T17:57:08
+updated: 2026-08-28T02:33:48
 ---
 
 # Little Sister
 
 > [!infobox|right wikipedia]+
 > # Little Sister
-> ![[Velvet Vulper.png]]
+> ![[zzz_Attachments/Velvet Vulper.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

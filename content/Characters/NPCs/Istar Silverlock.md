@@ -9,14 +9,14 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-02T13:59:01
+updated: 2026-08-28T02:33:48
 ---
 
 # Istar Silverlock
 
 > [!infobox|right wikipedia]+
 > # Istar Silverlock
-> ![[Istar Silverlock.png]]
+> ![[zzz_Attachments/Istar Silverlock.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

@@ -9,15 +9,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-17T21:14
+updated: 2026-08-28T02:33:48
 ---
 
 # Silvanus
 
 > [!infobox|right wikipedia]+
 > # Silvanus
-> ![[Silvanus Portrait.jpg]]
-> ![[Silvanus Symbol.jpg]]
+> ![[zzz_Attachments/Silvanus Portrait.jpg]]
+> ![[zzz_Attachments/Silvanus Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

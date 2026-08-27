@@ -10,14 +10,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-08-02T14:01:09
+updated: 2026-08-28T02:33:48
 ---
 
 # Torm of the Dales
 
 > [!infobox|right wikipedia]+
 > # Torm of the Dales
-> ![[Torm of the Dales.jpg]]
+> ![[zzz_Attachments/Torm of the Dales.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

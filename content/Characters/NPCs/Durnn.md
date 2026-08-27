@@ -8,14 +8,14 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-03-19T03:37
+updated: 2026-08-28T02:33:48
 ---
 
 # Durnn
 
 > [!infobox|right wikipedia]+
 > # Durnn
-> ![[Durnn Portrait.png]]
+> ![[zzz_Attachments/Durnn Portrait.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

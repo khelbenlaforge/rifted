@@ -10,15 +10,15 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-03-17T21:14
+updated: 2026-08-28T02:33:48
 ---
 
 # Waukeen
 
 > [!infobox|right wikipedia]+
 > # Waukeen
-> ![[Waukeen Portrait.jpg]]
-> ![[Waukeen Symbol.jpg]]
+> ![[zzz_Attachments/Waukeen Portrait.jpg]]
+> ![[zzz_Attachments/Waukeen Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

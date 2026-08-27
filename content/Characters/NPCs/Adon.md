@@ -8,14 +8,14 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-08-02T14:11:50
+updated: 2026-08-28T02:33:48
 ---
 
 # Adon
 
 > [!infobox|right wikipedia]+
 > # Adon
-> ![[Adon Portrait.png]]
+> ![[zzz_Attachments/Adon Portrait.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |

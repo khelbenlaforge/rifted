@@ -9,15 +9,15 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-02T13:59:35
+updated: 2026-08-28T02:33:48
 ---
 
 # Oghma
 
 > [!infobox|right wikipedia]+
 > # Oghma
-> ![[Oghma Portrait.jpg]]
-> ![[Oghma Symbol.jpg]]
+> ![[zzz_Attachments/Oghma Portrait.jpg]]
+> ![[zzz_Attachments/Oghma Symbol.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
