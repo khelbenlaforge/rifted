@@ -10,8 +10,9 @@ import { ContentDetails } from "./quartz/plugins/emitters/contentIndex"
 // file explorer already relies on.
 const explorerSortFn = (a: FileTrieNode<ContentDetails>, b: FileTrieNode<ContentDetails>) => {
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-    const inTimeline = (n: FileTrieNode<ContentDetails>) => n.data?.filePath?.includes("Timeline/")
-    if (inTimeline(a) && inTimeline(b)) {
+    const aInTimeline = a.data?.filePath?.includes("Timeline/")
+    const bInTimeline = b.data?.filePath?.includes("Timeline/")
+    if (aInTimeline && bInTimeline) {
       return a.slugSegment.localeCompare(b.slugSegment, undefined, {
         numeric: true,
         sensitivity: "base",
