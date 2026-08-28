@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 state: alive
-updated: 2026-08-05T01:17:04
+updated: 2026-08-28T14:52:43
 ---
 
 > [!infobox]
@@ -21,7 +21,7 @@ Race:: Birdfolk
 Location:: Azure Tamers Tower, [[Crystal City]]
 Affiliation:: [[Azure Tamers]]
 
-- Took [[The Exodus/The Door Kickers/PCs/Nanuk]] on aerial scouting aboard Little Bella during approximately 21st Uktar downtime
+- Took [[Nanuk]] on aerial scouting aboard Little Bella during approximately 21st Uktar downtime
 - Showed Nanuk the supply chain: magical creature blood flows east to [[Crystal City]] via the alabaster highway and then to the Academy and Alchemist's Guild
 - Does not track who buys the blood after it arrives
 - Aware of the [[Azure Tamers]] patrol network covering the eastern road and frontier communities

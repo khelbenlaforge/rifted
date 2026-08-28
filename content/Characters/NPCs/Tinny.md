@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-06-24
 secret: false
 state: alive
-updated: 2026-08-05T01:15:12
+updated: 2026-08-28T14:52:43
 ---
 
 # Tinny

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-17
 secret: false
 created: 2026-03-17T19:49
-updated: 2026-08-27T17:57:15
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 13 - The Fall of the Weave
@@ -16,7 +16,7 @@ updated: 2026-08-27T17:57:15
 > **Date Played:** 2026-03-17
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Arabel → Castle Kilgrave, Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
-> **Party (present):** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Lea]]
+> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Lea]]
 > **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]]
 > **Source:** Voice memo + module annotations, processed 2026-03-17
 
@@ -26,9 +26,9 @@ updated: 2026-08-27T17:57:15
 
 It starts with a hand.
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] reaches out in the Sanctum — because he always does — and touches the mural. The cosmological figures carved into that ancient stone surge with light, and something vast and old and hungry for witnesses reaches back. In an instant, the five of them are somewhere else in their minds. Three in body.
+[[Augustus Kennedy]] reaches out in the Sanctum — because he always does — and touches the mural. The cosmological figures carved into that ancient stone surge with light, and something vast and old and hungry for witnesses reaches back. In an instant, the five of them are somewhere else in their minds. Three in body.
 
-Only [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Lea]] are present at the table tonight. They watch their own pasts.
+Only [[Jonathan Jordan]], [[Gill Bates]], and [[Lea]] are present at the table tonight. They watch their own pasts.
 
 ---
 
@@ -56,11 +56,11 @@ Then the scenes dissolve.
 
 They land in a tavern in Arabel, Cormyr. Not in their own bodies.
 
-[[The Exodus/The Door Kickers/PCs/Lea]] is [[Midnight]] — a raven-haired wizard of some reputation, carrying a blue-white star pendant seared into the skin of her collarbone. She met [[Mystra]] the night of the Storm and received her trust. The pendant grants her *pass without trace* at will, and one chosen spell — she has chosen *magic missile* — that she may cast four times without consuming a slot.
+[[Lea]] is [[Midnight]] — a raven-haired wizard of some reputation, carrying a blue-white star pendant seared into the skin of her collarbone. She met [[Mystra]] the night of the Storm and received her trust. The pendant grants her *pass without trace* at will, and one chosen spell — she has chosen *magic missile* — that she may cast four times without consuming a slot.
 
-[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] is [[Torm of the Dales]] — a Knight of Myth Drannor, a Harper working undercover in Arabel. He knows things about this city and certain people within it that he has not yet disclosed to anyone in this room.
+[[Jonathan Jordan]] is [[Torm of the Dales]] — a Knight of Myth Drannor, a Harper working undercover in Arabel. He knows things about this city and certain people within it that he has not yet disclosed to anyone in this room.
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] is [[Adon]] — a cleric of [[Sune]], devoted, good-hearted, and openly vain. He cares about his image in a way that is not cruel but is very, very consistent.
+[[Gill Bates]] is [[Adon]] — a cleric of [[Sune]], devoted, good-hearted, and openly vain. He cares about his image in a way that is not cruel but is very, very consistent.
 
 The others in their company are [[Cyric]], a rogue of uncertain allegiance who moves like he is always measuring exits, and [[Kelemvor Lyonsbane|Kelemvor]], a fighter who charges fairly for his work and will never explain why.
 

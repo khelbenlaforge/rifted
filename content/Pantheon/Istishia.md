@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Istishia
@@ -46,6 +46,6 @@ His role during the Exodus is remembered by his faithful as a pivotal act that s
 ## Followers & Influence
 Istishia's worship draws those attuned to water in all its forms: sailors, fishers, healers who work with tides and currents, and arcanists who blend divine and elemental magic. His faith is centred at the [[Tidecaller's Sanctuary]], where acolytes study divine water-related teachings and explore hybrid spells that merge arcane knowledge with elemental power.
 
-[[Tidecaller Marin Deepcurrent]], a blue-tinged water genasi whose skin bears wave-like patterns, serves as a prominent priest and mentor at the Sanctuary. Among his students is [[The Exodus/The Door Kickers/PCs/Gill Bates]], a devoted acolyte training in the Arcana Domain who embodies Istishia's principles of patience and adaptability in his dual calling as fisher and healer.
+[[Tidecaller Marin Deepcurrent]], a blue-tinged water genasi whose skin bears wave-like patterns, serves as a prominent priest and mentor at the Sanctuary. Among his students is [[Gill Bates]], a devoted acolyte training in the Arcana Domain who embodies Istishia's principles of patience and adaptability in his dual calling as fisher and healer.
 
 

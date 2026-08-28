@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-08-28T14:52:43
 ---
 
 # Amethyst District
@@ -31,6 +31,6 @@ The arcane quarter of [[Crystal City]], where shimmering amethyst crystals adorn
 
 ## Notable Features
 
-- **[[Ether Scryer's Academy]]** — The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[The Exodus/The Door Kickers/PCs/Lea]] here.
+- **[[Ether Scryer's Academy]]** — The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[Lea]] here.
 
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-19T03:52
+updated: 2026-08-28T14:52:43
 ---
 # Tidecaller's Sanctuary
 
@@ -39,9 +39,9 @@ At the heart of the sanctuary lies a spring-fed pool with an altar that appears 
 
 ## Notable Residents
 
-- **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]] who mentors [[The Exodus/The Door Kickers/PCs/Gill Bates]], teaching patience, adaptability, and the philosophy that water flows rather than fights
+- **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]] who mentors [[Gill Bates]], teaching patience, adaptability, and the philosophy that water flows rather than fights
 
 ## Current Events
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
+[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — Sacred Sea, Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-05T16:27:10
+updated: 2026-08-28T14:52:43
 ---
 
 # Jade Spire
@@ -46,6 +46,5 @@ The shadow creature attack sites are now walled off with fresh runes and paint; 
 
 [[Layla]] kept a reagent drawer at the [[Jade Spire]] containing her teleportation circle components: magic item scraps, humanoid blood (dried), and bone fragments.
 
-[[Perrin Quickquill]] found this drawer on 21st Uktar and used the contents to redraw her circle. He did not direct it at anyone. The circle opened and pulled [[The Exodus/The Door Kickers/PCs/Regius]] through by infernal resonance.
-
+[[Perrin Quickquill]] found this drawer on 21st Uktar and used the contents to redraw her circle. He did not direct it at anyone. The circle opened and pulled [[Regius]] through by infernal resonance.
 

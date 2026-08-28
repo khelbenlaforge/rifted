@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-08-07T18:48:24
+updated: 2026-08-28T14:52:43
 ---
 
 # Sadiah Ispahani
@@ -193,16 +193,16 @@ None.
 - Shared the Calamity vision on arrival
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Has two glowing sickles; in Session 21 the DM called them Jukun and Sukun, but existing notes elsewhere use Sukoon and Junoon. Name discrepancy pending confirmation; existing names not changed.
-- PvP test: landed a sneak attack on [[The Exodus/The Door Kickers/PCs/Nanuk]] for 20 piercing damage, also hit [[The Exodus/The Door Kickers/PCs/Lea]], and used Steady Aim
+- PvP test: landed a sneak attack on [[Nanuk]] for 20 piercing damage, also hit [[Lea]], and used Steady Aim
 - Level 4 after leveling during the session; Level 5 may also have been granted and is pending confirmation
 
-Session 23: Did not appear. Per [[The Exodus/The Door Kickers/PCs/Shen]], she remained in her room, traumatized.
+Session 23: Did not appear. Per [[Shen]], she remained in her room, traumatized.
 
 ## Session 24
 
 - Leveled up to 5.
 - Returned to active participation after trauma-related absence in Session 23.
-- Led the morning reconnaissance of [[The Low Flagon]] disguised, not stealthed, alongside [[The Exodus/The Door Kickers/PCs/Nanuk]], helping discover the hidden pocket-dimension vault and the trapped window.
+- Led the morning reconnaissance of [[The Low Flagon]] disguised, not stealthed, alongside [[Nanuk]], helping discover the hidden pocket-dimension vault and the trapped window.
 - Held position near the city wall during the night's meeting, unlike [[Terra]], and went completely unnoticed by [[Tavia Orn]] the entire night; did not enter the Claret's inner sanctum.
 
 ## Session 26

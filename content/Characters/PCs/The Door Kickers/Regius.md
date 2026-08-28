@@ -8,7 +8,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-08-14T15:54:56
+updated: 2026-08-28T14:52:43
 ---
 
 # Regius
@@ -168,7 +168,7 @@ PassiveStealth:: 11
 
 Regius arrived in Aenath on 21st Uktar, Year 222 PA, materializing at the top of the [[Jade Spire]] tower via [[Layla]]'s runic circle, which [[Perrin Quickquill]] had accidentally reactivated.
 
-He was immediately caught in a [[Shadow Creatures|shadow creature]] assault and went unconscious (0 HP) during the encounter. [[The Exodus/The Door Kickers/PCs/Shen]] dragged him down the tower stairwell.
+He was immediately caught in a [[Shadow Creatures|shadow creature]] assault and went unconscious (0 HP) during the encounter. [[Shen]] dragged him down the tower stairwell.
 
 After the short rest outside, he was brought to the [[Adamantine Guild]] and introduced by [[Istar Silverlock]]. He is now an official guild member.
 
@@ -178,7 +178,7 @@ His echo had been appearing as a faceless flickering silhouette in Crystal City'
 
 Regius spent the session chasing work, leverage, and answers.
 
-- He and [[The Exodus/The Door Kickers/PCs/Lea]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
+- He and [[Lea]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
 - House Verenthal hired him to discreetly trail [[Sellas Verenthal]] at night without making contact unless she was in danger.
 - Pay for the Verenthal work came to 51 gp, and the house handed him 10 crystal glyphs to break if Sellas needs emergency help.
 - A second job at the docks paid another 10 gp and unlocked access to [[Azure Tamers]] resources, including their sky tower and their dock-delivery pipeline of tamed griffins and eagles.
@@ -186,11 +186,11 @@ Regius spent the session chasing work, leverage, and answers.
 
 ## Session 24
 
-- Recapped a patrol with [[The Exodus/The Door Kickers/PCs/Lea]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
+- Recapped a patrol with [[Lea]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
 - Fought alongside those newcomers against unusually solid and resistant shadow creatures.
 - Left for the Claret meeting before the aftermath fully settled, watching the four newcomers routed toward [[Stormberg]].
-- Held back two streets with [[The Exodus/The Door Kickers/PCs/Gill Bates]] as backup during [[Sadiah Ispahani|Sadiah]] and [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
+- Held back two streets with [[Gill Bates]] as backup during [[Sadiah Ispahani|Sadiah]] and [[Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
 - Donated a vial of blood as leverage for the Claret deal.
-- Part of the talking group with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] and [[The Exodus/The Door Kickers/PCs/Shen]].
+- Part of the talking group with [[Jonathan Jordan]] and [[Shen]].
 - Entered the Claret's inner sanctum.
 

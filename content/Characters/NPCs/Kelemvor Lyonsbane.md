@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Kelemvor Lyonsbane
@@ -42,7 +42,7 @@ He revealed this at camp, during Session 13, after the party found him unconscio
 
 In Session 14, the transformation was witnessed for the first time by the full party — including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a Zhentarim Agent to save [[Midnight]] being dragged toward the gate — no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
 
-In Session 15, he woke on those cobblestones with [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
+In Session 15, he woke on those cobblestones with [[Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
 
 Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Official orders. Service to a lord. For Shadowdale rather than for personal coin. The curse read it as employment rather than selflessness, and let it pass unpunished. He filed it away. He had not known that before.
 
@@ -52,7 +52,7 @@ A fighter from [[Arabel]] who joined the party assembled around [[Caitlan Moonso
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] inhabits Kelemvor's body beginning in Session 14.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). [[Augustus Kennedy]] inhabits Kelemvor's body beginning in Session 14.
 
 ## Character Sheet
 
@@ -156,5 +156,5 @@ His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that kno
 
 The Church of Kelemvor was named as the authority that polices interplanar soul movement. The god of death arbitrates where souls go and prevents souls from being pulled across planes without sanction.
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] both have established paths into the Church, making them the party's natural contacts for this thread.
+[[Gill Bates]] and [[Augustus Kennedy]] both have established paths into the Church, making them the party's natural contacts for this thread.
 

@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Adon
@@ -47,7 +47,7 @@ It will build slowly. Adon serves a goddess who holds beauty as sacred. He carri
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[The Exodus/The Door Kickers/PCs/Gill Bates]] temporarily inhabited Adon's body.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[Gill Bates]] temporarily inhabited Adon's body.
 
 ## Session 15
 

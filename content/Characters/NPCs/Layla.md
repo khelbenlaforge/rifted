@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Layla
@@ -74,7 +74,7 @@ Deity:: Unknown
 - Had exactly three brass [[Adamantine Guild]] bracers pre-loaded before the circle opened
 - Knows the [[The Claret|Claret]] code phrase, "four litres of blood to sell"; connection to the Claret runs further than previously confirmed
 - [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
-- Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
+- Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
 - Location as of approximately 12th Uktar: outside [[Crystal City]], near [[Corran's Spike]]
 
 ## Session 1 Update (The JULYs)
@@ -90,7 +90,7 @@ Deity:: Unknown
 - 29th Uktar, Year 222 PA: the Shadow Creatures present were more solid, more humanoid, and more resistant than previous encounters, consistent with her creatures growing stronger.
 - 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant bats before leaving, giving them no choice of destination.
 - 29th Uktar, Year 222 PA (Session 2): misrouted two new arrivals, [[Keith Poe]] and [[Roberto]], into [[The Hollowreach]] instead of the Stormberg route the other four took. Arrived winded and visibly embarrassed over her own miscount, warned them a Shadow Creature attack was coming and transport (redirected goblin-riders on giant bats) was inbound, then misty-stepped away immediately — did not stay for the fight and did not return this session. [[Kili]], not Layla, was the one dropped back with Keith Poe and Roberto afterward — she'd been a passenger on that goblin-rider's bat since Session 01, not someone who reunited with them there; her player was absent, so no scene was played for it.
-- Corroborated from the Door Kickers' side (Session 24): [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
+- Corroborated from the Door Kickers' side (Session 24): [[Regius]] and [[Lea]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
 ## Session 3 Update
 
@@ -102,7 +102,7 @@ Deity:: Unknown
 
 ## Session 25 Update
 
-- In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[The Exodus/The Door Kickers/PCs/Lea|Lea]] cast *Elminster's Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
+- In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[Lea|Lea]] cast *Elminster's Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
 
 ## Session 1 Update (The AUGs)
 

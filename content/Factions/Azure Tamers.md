@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-08-14T15:46:35
+updated: 2026-08-28T14:52:43
 ---
 
 > [!infobox]
@@ -21,5 +21,5 @@ Headquarters:: Western Wall Towers, [[Crystal City]]
 
 ## Current Notes
 
-[[The Exodus/The Door Kickers/PCs/Regius|Reggie]]'s second job at the docks unlocked access to Azure Tamers resources, including their sky tower. The docks and the Azure Tamers work closely together — goods arriving at the docks that need speedy delivery to other towns and cities (and vice versa) move through a standing Azure Tamers pipeline, riding their tamed griffins and eagles rather than any airship.
+[[Regius|Reggie]]'s second job at the docks unlocked access to Azure Tamers resources, including their sky tower. The docks and the Azure Tamers work closely together — goods arriving at the docks that need speedy delivery to other towns and cities (and vice versa) move through a standing Azure Tamers pipeline, riding their tamed griffins and eagles rather than any airship.
 

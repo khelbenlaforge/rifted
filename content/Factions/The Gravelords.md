@@ -9,7 +9,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-06-24T18:53:48
+updated: 2026-08-28T14:52:43
 ---
 
 # The Gravelords
@@ -35,7 +35,7 @@ They keep a library. It is not public. Accounts of clerics who plane-shifted to 
 
 No named high priest has made themselves known to the party. The Gravelords present a collective face: individual clerics are identifiable by their vestments and subdued manner, but names are offered slowly, if at all. The institutional preference is for the work to speak.
 
-- **[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]** — Adherent. Not ordained; not a cleric. A recognized affiliate granted library access and formal standing because the divine signature on his [[Kelemvor's Brand|Brand]] was too clear to argue with. The Gravelords do not argue with clear signatures.
+- **[[Augustus Kennedy]]** — Adherent. Not ordained; not a cleric. A recognized affiliate granted library access and formal standing because the divine signature on his [[Kelemvor's Brand|Brand]] was too clear to argue with. The Gravelords do not argue with clear signatures.
 
 ## Operations
 
@@ -47,7 +47,7 @@ Their plane-shifting operations are historical rather than current. The library 
 
 Stable and well-resourced within Crystal City. They hold institutional respect across the [[Diamond District]] and maintain the feud with the Churches of [[Mystra]] and [[Oghma]] as a point of principle rather than active hostility — wild magic destabilizing the Weave disrupts planar transit, and disrupted planar transit creates administrative nightmares. The Gravelords have long memories and a comprehensive filing system.
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] now holds adherent status. It is not a common distinction for someone who is not a cleric. The Brand made the argument for him.
+[[Augustus Kennedy]] now holds adherent status. It is not a common distinction for someone who is not a cleric. The Brand made the argument for him.
 
 ## Membership
 

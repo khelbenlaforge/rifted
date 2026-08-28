@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-27T17:57:01
+updated: 2026-08-28T14:52:43
 ---
 
 # Lea
@@ -40,7 +40,7 @@ Lea is a wizard in training, wielding arcane magic with growing proficiency. She
 Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizard, at the [[Ether Scryer's Academy]] in the [[Amethyst District]] of [[Crystal City]]. Elmindaria determined that unsupervised wizardry was too dangerous and whisked Lea to the Academy for formal instruction. Her training covers the disciplined study of incantations, gestures, and components; spell preparation and ritual casting; and the philosophical underpinnings of wizardry -- that a wizard earns power through study, sacrifice, and understanding of the Weave, not through innate gifts or divine favour. Elmindaria has warned her of wizardry's costs: the fragility of the spellbook, the physical vulnerability of a wizard in combat, and the peril of obsessive knowledge-seeking that can lead to dark paths.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Ember]], [[Augustus Kennedy]], [[Gill Bates]], and [[Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the campfire with the dark-haired woman and the spectral exchange with [[Corran Blackstaff|Corran]], who addressed her as "my Lady"
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
@@ -53,16 +53,16 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - Attended the [[Council Tent]] meeting and accepted [[Adamantine Guild]] duties
 - At the [[Hucrele Pavilion]], cast Detect Magic on the [[Goblin Fruit]], revealing necromantic and divine/draconic energies; spoke with [[Talgen Hucrele Sr.]] and accepted the rescue mission
 - Obtained healing potions from [[Tymora's Shrine]]; received Bogstride Salamandrel mounts for marsh travel
-- Departed south with [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] to rescue the Hucrele children
+- Departed south with [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and followed tracks to a ravine; descended into a subterranean fortress
 - Cast Detect Magic within the fortress, sensing necromantic magic behind a trapped hidden door; used Mage Hand to trigger the trap remotely
-- **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
+- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
 - **Marpenoth, 222 PA (Session 14)** — Arrived in [[Shadowdale]] as Midnight; clocked by [[Selmavra Elsree]] at the gate before entering. At the [[Old Skull Inn]], decoded the Zhentarim cipher recovered from the Commander's hidden lining — *Operation Shadowfall*, pendant bearer flagged as CRITICAL — and shared a version with the group that omitted certain details. She is not lying. She is editing. In the liminal space between her Earth-mind and Midnight, Lea shared the full text; the party pieced together [[Elminster]], [[Khelben Blackstaff]], and [[Manshoon]] — and on a natural 20, a name that landed wrong: *Corran Blackstaff*, son of the Archmage of Waterdeep. In the courtyard, Midnight was seized by a Zhentarim Agent and freed by [[Torm of the Dales]]'s crossbow bolt; cast *Command* on the Commander; when Reverse Gravity launched her into the air, the pendant activated on its own — a shard of [[Mystra]] reaching up to catch itself on the way down
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower: learned the Tablets of Fate rest in Tantras, east; the Celestial Stairway lies beneath the Temple of Lathander; multiple people carry fragments of [[Mystra]], including Elminster and [[Storm Silverhand]]. Storm wove a warding song specifically around Midnight to close her off from Zhentarim scrying. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge — a Tasha's Mind Whip on the Battlelord fed the Chaos table and scattered the damage in directions it was not aimed. When [[Bane]] entered the Temple of Lathander, the pendant pulled toward the Stairway and the party held her back — four sets of hands against a divine current. [[Elminster]] dropped to one knee and found her eyes: *"Be brave, lass. Take him down."* The pendant ignited. Midnight became something older than herself — wild-haired, glowing, made of blue-white starmotes — and spoke in a voice that was not entirely hers: *"You killed me once. I thought you should know — I remember."* She bound herself to [[Bane]] and pulled him through the Stairway, smiling. The pendant went cold. For the first time since Castle Kilgrave, it was just a pendant. The vision fractured on [[Sharantyr]]'s mid-sentence accusation of Elminster's murder. All five returned to Durnn's Research Lab
 - **Crossing vision resolved** — The words heard crossing from Earth — *"Midnight. ke-le."* — were a name and a name: Midnight and [[Kelemvor Lyonsbane|Kelemvor]]. The campfire at the edge of a dark forest. The armoured warrior watching the fire. The moment glimpsed across two worlds is no longer a mystery
 
 ## Relationships
-- **[[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
+- **[[Ember]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
 - **[[Elmindaria L'Thorian]]** -- Mentor and instructor at the [[Ether Scryer's Academy]]; a demanding teacher who sees Lea's potential and its dangers
 - **[[Corran Blackstaff|Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
@@ -214,8 +214,8 @@ Session 21 downtime:
 
 PvP test:
 - Cast *Suggestion* on [[Sadiah Ispahani]]; the Wisdom save failed
-- Silenced by [[The Exodus/The Door Kickers/PCs/Nanuk]]'s quiver arrow
-- Cast *Fireball* hitting [[The Exodus/The Door Kickers/PCs/Nanuk]] and [[The Exodus/The Door Kickers/PCs/Gill Bates]]
+- Silenced by [[Nanuk]]'s quiver arrow
+- Cast *Fireball* hitting [[Nanuk]] and [[Gill Bates]]
 
 Level: 5
 
@@ -233,12 +233,12 @@ Session 23 downtime:
 
 ## Session 24
 
-- Recapped a patrol with [[The Exodus/The Door Kickers/PCs/Regius]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
+- Recapped a patrol with [[Regius]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
 - Helped fight off unusually solid and resistant shadow creatures there.
 - Flew back to [[Crystal City]] in time for the Claret meeting.
 - Spent the morning copying spells rather than joining the [[The Low Flagon]] reconnaissance.
-- That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] as cover.
-- Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Nanuk]].
+- That night, sat at a table with drinks alongside [[Gill Bates]] and [[Nanuk]] as cover.
+- Entered the Claret's inner sanctum with [[Jonathan Jordan]], [[Shen]], [[Regius]], [[Gill Bates]], and [[Nanuk]].
 
 ---
 

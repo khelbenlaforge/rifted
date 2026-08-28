@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-08-15T21:57:55
+updated: 2026-08-28T14:52:43
 ---
 
 # Terra
@@ -190,14 +190,14 @@ She was in a shelter in California when the light took her.
 - Shared the Calamity vision on arrival: [[Corran Blackstaff|Corran]] pressing his hands to the earth as the Spike rose
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Pendant glowed with multiple types of magic
-- PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[The Exodus/The Door Kickers/PCs/Nanuk]]
+- PvP test: activated Heavenly Wings as a bonus action, flew 30 feet up, and fired a longbow during the three-way test with [[Nanuk]]
 - Level 5
 
 ## Session 22
 
 - Went unconscious (0 HP) during the [[Jade Spire]] shadow creature encounter.
 - Stabilized via death saving throws (rolled 19 on the decisive roll).
-- Carried out by [[Inukshuk]], [[The Exodus/The Door Kickers/PCs/Nanuk]]'s bear companion.
+- Carried out by [[Inukshuk]], [[Nanuk]]'s bear companion.
 - Woke with 10 HP after healing.
 - During the battle, stood in the center of the combat room and activated Inner Radiance, dealing radiant damage to multiple shadows simultaneously; paralyzed two of the smaller forms and allowed the party to extract.
 - Received heroic inspiration from the DM.
@@ -211,7 +211,7 @@ She was in a shelter in California when the light took her.
 - Sylvara gave her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
 - While touching the earth at the grove, Terra sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects responding to her.
 - Earned 26 gp from this work.
-- Attended the meeting at [[Blackstaff Mansion]] with [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Regius]].
+- Attended the meeting at [[Blackstaff Mansion]] with [[Lea]], [[Nanuk]], and [[Regius]].
 
 ## Session 24
 

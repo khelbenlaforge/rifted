@@ -7,27 +7,27 @@ campaign: Rifted
 date: 2026-08-16
 secret: false
 created: 2026-08-16
-updated: 2026-08-27T16:55:38
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 27 - Rising of the Dark
 
 **In-world date:** Feast of the Moon (the intercalary day between 30 Uktar and 1 Nightal), Year 222 PA — the same night as Session 26, opening on its cliffhanger.
 
-**Present:** [[Terra]] (Simar) · [[The Exodus/The Door Kickers/PCs/Lea|Lea]] (Ming) · [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] (Francis) · [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]] (Chian) · [[The Exodus/The Door Kickers/PCs/Ember|Ember]] (Dora) · [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]] (Justin) · [[Hollis Dawnwarden|Hollis]] (guest-controlled NPC)
-**Absent:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] (Jonathan) · [[Sadiah Ispahani|Sadiah]] (Veronica) · [[The Exodus/The Door Kickers/PCs/Regius|Regius]] (Clarissa) · [[The Exodus/The Door Kickers/PCs/Shen|Shen]] (Avinaash)
+**Present:** [[Terra]] (Simar) · [[Lea|Lea]] (Ming) · [[Nanuk|Nanuk]] (Francis) · [[Gill Bates|Gill]] (Chian) · [[Ember|Ember]] (Dora) · [[Augustus Kennedy|Augustus]] (Justin) · [[Hollis Dawnwarden|Hollis]] (guest-controlled NPC)
+**Absent:** [[Jonathan Jordan|JJ]] (Jonathan) · [[Sadiah Ispahani|Sadiah]] (Veronica) · [[Regius|Regius]] (Clarissa) · [[Shen|Shen]] (Avinaash)
 
 ## What Happened
 
-The scream that ended Session 26 kept going the moment it started again: seven Knights spilling out of the Temple of Kelemvor into torchlight, one missing his helm, none of them stopping for the line of citizens still queued to give the monks a name before midnight. Behind them the chant never wavered. [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]] saw nothing at first, only heard the screams from inside, and rushed in; [[The Exodus/The Door Kickers/PCs/Lea|Lea]] found four or five injured citizens and a room full of monks still locked around the statue of Kelemvor, none of them moving.
+The scream that ended Session 26 kept going the moment it started again: seven Knights spilling out of the Temple of Kelemvor into torchlight, one missing his helm, none of them stopping for the line of citizens still queued to give the monks a name before midnight. Behind them the chant never wavered. [[Gill Bates|Gill]] saw nothing at first, only heard the screams from inside, and rushed in; [[Lea|Lea]] found four or five injured citizens and a room full of monks still locked around the statue of Kelemvor, none of them moving.
 
 Lea felt illusion magic wrapped around two of the figures still holding the door — cultists in plain clothes, knives out, one glancing back like he was counting seconds. Her Sleep dropped one instantly. [[Terra]] arrived a breath later, took in the scene, and put the other through the heart before he'd finished deciding to run.
 
-Inside, [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]] had been meditating in a back chamber when the breach happened around him. He caught the loudest of the fleeing Knights, grabbed him, and slapped the panic out of him. **[[Ser Tamsin Rook]]** — five years without incident, until tonight — didn't know if the Gravelord was alive. He knew the chamber was sealed, no other way in or out, and that of the seven Knights who'd rushed it, he alone hadn't felt the wash of evil rushing past them on the way out. He looked it, too. Shaken in a way the other six weren't.
+Inside, [[Augustus Kennedy|Augustus]] had been meditating in a back chamber when the breach happened around him. He caught the loudest of the fleeing Knights, grabbed him, and slapped the panic out of him. **[[Ser Tamsin Rook]]** — five years without incident, until tonight — didn't know if the Gravelord was alive. He knew the chamber was sealed, no other way in or out, and that of the seven Knights who'd rushed it, he alone hadn't felt the wash of evil rushing past them on the way out. He looked it, too. Shaken in a way the other six weren't.
 
 Across the district, at the Hall of Justice, word reached [[Hollis Dawnwarden|Hollis]] and Sir Gareth Ironhand together that something had happened at Kelemvor's Temple — the two of them looked up at the same moment and started suiting up. Hollis summoned Holland, an undead horse out of the Shadowfell that answers to him as a steed, and rode for the temple.
 
-[[The Exodus/The Door Kickers/PCs/Ember|Ember]], Wildshaped into a wolf, was still approaching the North Gate to meet friends at Mielikki's Grove when the hush hit her — nothing named yet, just a held breath the whole city seemed to be sharing. [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] felt it as an overwhelming predator-presence pouring out of the temple itself, and Inukshuk's head came up before Nanuk said a word. Two rounds out, they turned toward it together.
+[[Ember|Ember]], Wildshaped into a wolf, was still approaching the North Gate to meet friends at Mielikki's Grove when the hush hit her — nothing named yet, just a held breath the whole city seemed to be sharing. [[Nanuk|Nanuk]] felt it as an overwhelming predator-presence pouring out of the temple itself, and Inukshuk's head came up before Nanuk said a word. Two rounds out, they turned toward it together.
 
 Terra was still mid-dance at Sehanine's shrine when every worshiper around her turned at once, unbidden, toward the Temple of Kelemvor. An older worshiper beside her breathed out, *That is not right at all* — recognition, not fear. Somewhere nearby, an old priest said the name outright: *Shar.* There are no clerics of Shar anywhere in the city; no one would admit to serving a goddess of evil even if there were. And yet her energy was here, now, close enough to feel. Terra didn't wait to understand it. She turned to the dancers around her, the same lights that had carried Sehanine's rite the night before, and sent them fanning out across Crystal City to warn what they could, a good number breaking for the Jade Spire, before she and a handful of others made for the temple herself.
 

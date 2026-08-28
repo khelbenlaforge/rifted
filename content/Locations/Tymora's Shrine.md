@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-03-19T03:52
+updated: 2026-08-28T14:52:43
 ---
 # Tymora's Shrine
 
@@ -34,5 +34,5 @@ Perched on a small rise at the edge of [[Sunhold]], this humble shrine is built 
 
 ## Current Events
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the Hucrele children and had not returned. The party received healing potions before departing on their own rescue mission.
+[[Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the Hucrele children and had not returned. The party received healing potions before departing on their own rescue mission.
 

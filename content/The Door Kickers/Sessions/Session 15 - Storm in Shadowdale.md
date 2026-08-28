@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-30
 secret: false
 created: 2026-03-30T17:37
-updated: 2026-08-02T14:00:16
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 15 - Storm in Shadowdale
@@ -16,7 +16,7 @@ updated: 2026-08-02T14:00:16
 > **Date Played:** 2026-03-30
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Old Skull Inn courtyard → Elminster's Tower → Mourngrym's Hall → Ashaba Bridge → Temple of Lathander (Shadowdale)
-> **Party (present):** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
+> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions (in vision):** [[Midnight]] (Lea), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor Lyonsbane|Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
 > **Source:** Voice memo, processed 2026-03-30
 
@@ -26,7 +26,7 @@ updated: 2026-08-02T14:00:16
 
 [[Kelemvor Lyonsbane|Kelemvor]] wakes up naked on the courtyard stones with no memory of the last ten minutes.
 
-This is the arrangement: [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] is conscious, passenger inside a body that was recently a panther, and Kelemvor is present the way a man is present after a high fever breaks — awake, confused, in possession of his name but not much else. Augi is watching from the inside. The stones are cold. There is blood nearby that is not all from the Zhentarim.
+This is the arrangement: [[Augustus Kennedy]] is conscious, passenger inside a body that was recently a panther, and Kelemvor is present the way a man is present after a high fever breaks — awake, confused, in possession of his name but not much else. Augi is watching from the inside. The stones are cold. There is blood nearby that is not all from the Zhentarim.
 
 He finds two grain sacks and makes the best of it.
 
@@ -62,7 +62,7 @@ She is not lying. She is editing. There is a difference, and Midnight is very co
 
 Somewhere the PCs are not — the gray space between conscious and story, the room with no walls where their original minds keep finding each other — there is a powwow.
 
-[[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]: five people from Earth who are also, currently, five people in Shadowdale, sitting in a courtyard full of bodies. In the liminal space it is quieter. Lea lays out more of the cipher than Midnight shared. The group turns the new information over.
+[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]: five people from Earth who are also, currently, five people in Shadowdale, sitting in a courtyard full of bodies. In the liminal space it is quieter. Lea lays out more of the cipher than Midnight shared. The group turns the new information over.
 
 They make History checks on the names. The picture assembles: two mages at the top of the world, standing on opposite poles. [[Elminster]], wanderer and sage, counsel to kings and servant of Mystra. [[Khelben Blackstaff]], Archmage of Waterdeep, institutional and deliberate, reaching through proxies and careful structures. And on the other side of the coin: [[Manshoon]], from [[Zhentil Keep]], the dark counterweight — power exercised without the pretense of service to anything greater than itself.
 

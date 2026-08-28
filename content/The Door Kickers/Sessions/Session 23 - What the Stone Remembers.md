@@ -7,14 +7,14 @@ campaign: Rifted
 session: 23
 date: 2026-07-13
 in-world-date: 21st-28th Uktar, Year 222 PA
-updated: 2026-08-27T18:03:33
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 23 — What the Stone Remembers
 
 ## What the Stone Remembers
 
-[[The Exodus/The Door Kickers/PCs/Shen]] felt it first as color — a night sky that was not the one he'd grown up under, mists moving without wind, a presence beside him too large to be afraid of. He had no body there, only attention. Others traveled with him, formless, headed the same direction he was.
+[[Shen]] felt it first as color — a night sky that was not the one he'd grown up under, mists moving without wind, a presence beside him too large to be afraid of. He had no body there, only attention. Others traveled with him, formless, headed the same direction he was.
 
 The light ahead was red and horizontal, burning at the edges, and as it neared it resolved into something rectangular — a plane, flat and vast, lava spilling on either side of it, scattered across its surface with millions of scintillating lights rising and falling like static. It was Aenath. Not this Aenath — an older one, eons gone, where people were casting the same spells over and over, trying to make magic hold together and failing. Dark shadows raced toward the plane in waves, ignoring Shen entirely, striking a barrier that cracked further with every pass.
 
@@ -61,7 +61,7 @@ By the time they left the mansion, the 28th of Uktar had arrived, Feast of the M
 ---
 
 ## Related
-- [[The Exodus/The Door Kickers/PCs/Shen]] · [[Terra]] · [[The Exodus/The Door Kickers/PCs/Regius]] · [[The Exodus/The Door Kickers/PCs/Lea]]
+- [[Shen]] · [[Terra]] · [[Regius]] · [[Lea]]
 - [[Elminster's Spellbook]] · [[Hollowstone]] · [[Le Fil]]
 - [[Mielikki's Grove]] · [[Sylvara Oakwhisper]] · [[Azure Tamers]]
 - [[Ostrin Feld]] · [[House Verenthal]] · [[Sellas Verenthal]]

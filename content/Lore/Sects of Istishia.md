@@ -11,7 +11,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-08-02T13:59:28
+updated: 2026-08-28T14:52:43
 ---
 
 # Sects of Istishia
@@ -24,7 +24,7 @@ The Sacred Sea emphasises reverence for water in its vast, unchanging form — t
 
 ## Watery Paths
 
-The Watery Paths sect follows the river's logic — going where the current leads, trusting that water always finds its way. Its core teaching is surrender to flow rather than resistance. Marin warned [[The Exodus/The Door Kickers/PCs/Gill Bates]] that this path can make a person seem detached to others; the practitioner may appear unanchored when they are simply moving with forces others cannot perceive.
+The Watery Paths sect follows the river's logic — going where the current leads, trusting that water always finds its way. Its core teaching is surrender to flow rather than resistance. Marin warned [[Gill Bates]] that this path can make a person seem detached to others; the practitioner may appear unanchored when they are simply moving with forces others cannot perceive.
 
 ## Magnificent Storm
 

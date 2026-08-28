@@ -10,7 +10,7 @@ introduced: pre-campaign
 secret: false
 state: historical
 created: 2026-04-08T22:56
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Corran Blackstaff
@@ -55,7 +55,7 @@ Corran Blackstaff is the founding myth of [[Corranor]]. His sacrifice reshaped t
 
 ## Session 23
 
-When [[The Exodus/The Door Kickers/PCs/Lea]] described her landing vision of Corran to [[Lady Blackstaff]] at [[Blackstaff Mansion]], Lady Blackstaff became visibly emotional. She admitted she had never known what Corran looked like, and said Lea's account matched what the family already records of his history.
+When [[Lea]] described her landing vision of Corran to [[Lady Blackstaff]] at [[Blackstaff Mansion]], Lady Blackstaff became visibly emotional. She admitted she had never known what Corran looked like, and said Lea's account matched what the family already records of his history.
 
 ---
 Race:: Human

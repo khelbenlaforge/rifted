@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
-updated: 2026-08-02T13:59:40
+updated: 2026-08-28T14:52:43
 ---
 
 # Hucrele Manor

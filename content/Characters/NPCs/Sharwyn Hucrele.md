@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: alive (recovering)
 created: 2026-03-16T04:22
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Sharwyn Hucrele
@@ -57,5 +57,4 @@ Deity:: Unknown
 ## Session 18 Outcome
 
 Sharwyn was freed from the [[Gulthias Tree]]'s influence in Session 18. Before being freed, she was in a rage state and wanted to kill [[Belak]] even at the cost of her own life. She is now free and recovering.
-
 

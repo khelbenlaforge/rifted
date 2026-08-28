@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-05-26T16:56
+updated: 2026-08-28T14:52:43
 ---
 
 # Garnet District
@@ -32,7 +32,7 @@ The Commons District — a lively quarter of bustling bars, taverns, and humble 
 
 ## Notable Features
 
-- A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].
+- A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].
 - **[[The Low Flagon]]** — Corner tavern, cheapest ale in Crystal City, best fried fish. Front for [[The Claret]]; the back room does not officially exist.
 
 ## Factions

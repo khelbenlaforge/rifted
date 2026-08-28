@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-08-02T14:00:12
+updated: 2026-08-28T14:52:43
 ---
 
 # Monks of the Long Death

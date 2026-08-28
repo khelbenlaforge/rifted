@@ -15,7 +15,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Vesper
@@ -27,8 +27,8 @@ updated: 2026-08-28T02:33:48
 > | | |
 > | ---- | --- |
 > | Race | Wolf (Bonded Companion) |
-> | Location | With [[The Exodus/The Door Kickers/PCs/Ember]] |
-> | Affiliation | [[The Exodus/The Door Kickers/PCs/Ember]] (formerly [[Selmavra Elsree]]) |
+> | Location | With [[Ember]] |
+> | Affiliation | [[Ember]] (formerly [[Selmavra Elsree]]) |
 
 ## Description
 
@@ -48,7 +48,7 @@ The guards at the Shadowdale post have accepted him as a permanent fixture. Some
 
 In Session 14, Vesper fought in his first combat — the Zhentarim ambush at the Old Skull Inn courtyard. He took significant damage and spent most of the fight protecting the stable boy.
 
-When [[The Exodus/The Door Kickers/PCs/Ember]] carried [[Vesper's Amulet|a crystal amulet]] back from that same Shadowdale vision (Session 16), Vesper's bond crossed with it. He no longer runs at Selmavra's side in the Dalelands — he steps out of the crystal's light at Ember's call, into Aenath, into a world he has never smelled before. He has not forgotten Selmavra. He simply belongs to someone else now.
+When [[Ember]] carried [[Vesper's Amulet|a crystal amulet]] back from that same Shadowdale vision (Session 16), Vesper's bond crossed with it. He no longer runs at Selmavra's side in the Dalelands — he steps out of the crystal's light at Ember's call, into Aenath, into a world he has never smelled before. He has not forgotten Selmavra. He simply belongs to someone else now.
 
 ## Role in the Story
 
@@ -56,7 +56,7 @@ Ember's summoned companion. Fights at her side when called; otherwise rests in t
 
 ## Relationships
 
-- **[[The Exodus/The Door Kickers/PCs/Ember]]** — His current bond, formed through [[Vesper's Amulet]]. She calls, he comes.
+- **[[Ember]]** — His current bond, formed through [[Vesper's Amulet]]. She calls, he comes.
 - **[[Selmavra Elsree]]** — His first ranger. Found him injured, got him free, never asked for anything in return. Vesper has decided this is sufficient, and has not stopped being true even though he no longer runs beside her.
 
 ---
@@ -68,8 +68,8 @@ CR:: 1
 Size:: Large (Tier 2) / Medium (prequel)
 Habitat::
 Found In::
-Affiliation:: [[The Exodus/The Door Kickers/PCs/Ember]]
-Location:: With [[The Exodus/The Door Kickers/PCs/Ember]]
+Affiliation:: [[Ember]]
+Location:: With [[Ember]]
 Deity::
 
 ## D&D 5e Stat Block

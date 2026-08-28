@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T16:55
-updated: 2026-08-05T16:30:57
+updated: 2026-08-28T14:52:43
 ---
 
 > [!infobox|right wikipedia]+
@@ -40,7 +40,7 @@ He still holds a key to [[Hucrele Manor]] and visits on the first day of each mo
 
 ## Role in the Story
 
-Soral is a gateway into Crystal City's old-money social world and a connection to the [[Hucrele Family]]'s untold history. He recognised something in [[The Exodus/The Door Kickers/PCs/Lea]] the moment she walked through his door. He has not said what. He will not be pressed on it — but he will not stop watching her either.
+Soral is a gateway into Crystal City's old-money social world and a connection to the [[Hucrele Family]]'s untold history. He recognised something in [[Lea]] the moment she walked through his door. He has not said what. He will not be pressed on it — but he will not stop watching her either.
 
 ---
 Race:: Human
@@ -50,9 +50,9 @@ Affiliation:: [[Hucrele Family]]
 
 ## Session 19
 
-Soral met [[The Exodus/The Door Kickers/PCs/Lea]] during Session 19 downtime at [[Hucrele Manor]]. He told her that the Blackstaff family is [[Crystal City]]'s first family, that their scion sits on the Council of Seven, and that they are a family of wizards.
+Soral met [[Lea]] during Session 19 downtime at [[Hucrele Manor]]. He told her that the Blackstaff family is [[Crystal City]]'s first family, that their scion sits on the Council of Seven, and that they are a family of wizards.
 
 ## Session 23
 
-When [[The Exodus/The Door Kickers/PCs/Regius|Reggie]] and [[The Exodus/The Door Kickers/PCs/Lea]] asked Soral whether any noble houses needed a discreet fixer, he ruled out the Blackstaffs as too scrupulously above board for that kind of hire. Instead he pointed them toward House Verenthal's steward, [[Ostrin Feld]], and told Reggie he could say Soral sent him as a favor for a favor.
+When [[Regius|Reggie]] and [[Lea]] asked Soral whether any noble houses needed a discreet fixer, he ruled out the Blackstaffs as too scrupulously above board for that kind of hire. Instead he pointed them toward House Verenthal's steward, [[Ostrin Feld]], and told Reggie he could say Soral sent him as a favor for a favor.
 

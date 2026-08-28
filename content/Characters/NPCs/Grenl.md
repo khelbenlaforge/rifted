@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Grenl
@@ -56,6 +56,6 @@ When the party arrived claiming alliance with [[Ragh]] and [[Durnn]] and present
 - Sole surviving elder of the [[Durbuluk Goblins]] — all others killed by [[Durnn]]
 - Admitted the party to goblin territory under the ruse of their alliance with [[Durnn]]
 - Potential informant or ally if trust is established — she disapproves of Durnn's war, and she's been waiting for a reason to act on that disapproval for a long time
-- **Session 10:** Released [[Erky]] and [[Little Sister]] from their cages at the party's request; provided information during Durnn's victory revel while [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Ember]] spoke with her; was indifferent to the party's descent into the well
+- **Session 10:** Released [[Erky]] and [[Little Sister]] from their cages at the party's request; provided information during Durnn's victory revel while [[Lea]], [[Gill Bates]], and [[Ember]] spoke with her; was indifferent to the party's descent into the well
 
 

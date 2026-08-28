@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-08-15T23:46:22
+updated: 2026-08-28T14:52:43
 ---
 
 # Nanuk
@@ -183,7 +183,7 @@ PassiveStealth:: 18
 
 ## Session 19
 
-Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] to intimidate Perrin.
+Nanuk joined the [[Azure Tamers]] during [[Crystal City]] downtime and met [[Torem]], who activated the network to search for [[Layla]]. Torem revealed that Layla was close friends with co-apprentice [[Perrin Quickquill]]. Nanuk accompanied [[Jonathan Jordan]] to intimidate Perrin.
 
 Nanuk earned 12 gp, vehicle (riding) proficiency, and free flights anywhere for one month.
 
@@ -199,7 +199,7 @@ Session 21 downtime:
 
 PvP test:
 - Went down first after [[Sadiah Ispahani]]'s sneak attack for 20 damage
-- Healed by [[The Exodus/The Door Kickers/PCs/Gill Bates]], then brought Gill down before the DM called it
+- Healed by [[Gill Bates]], then brought Gill down before the DM called it
 
 Level: 5
 
@@ -215,8 +215,8 @@ Before anything else, Nanuk was a polar bear — no name, no hands, nothing fami
 He woke sure it wasn't a dream. Nobody at the table needed convincing — the grief was still sitting in him hours later, and the checks the others rolled agreed: whatever he'd seen, it happened.
 
 - Present, disguised and stealthed, for the morning recon of [[The Low Flagon]] alongside [[Sadiah Ispahani]] — found the hidden pocket-dimension window (arcana), disarmed a needle-trapped window (thieves' tools), and located an unexplained corridor running from the tavern into the city wall itself.
-- That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Gill Bates]] and [[The Exodus/The Door Kickers/PCs/Lea]] as cover.
-- Entered the Claret's inner sanctum with [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]], and [[The Exodus/The Door Kickers/PCs/Lea]].
+- That night, sat at a table with drinks alongside [[Gill Bates]] and [[Lea]] as cover.
+- Entered the Claret's inner sanctum with [[Jonathan Jordan|JJ]], [[Shen]], [[Regius]], [[Gill Bates|Gill]], and [[Lea]].
 
 ## Session 26
 

@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-08-02T14:00:12
+updated: 2026-08-28T14:52:43
 ---
 
 # Knights of the Eternal Order
@@ -33,7 +33,7 @@ The name is a statement of scope: *eternal* because death does not end, and *ord
 
 The order's internal hierarchy is not publicly displayed. Rank is visible in the trim of the vestment and the number of seals on the sword harness; names are known to those who need to know them.
 
-- **[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]** — Joining as an initiate. A paladin of [[Kelemvor Lyonsbane|Kelemvor]] by divine signature — the [[Kelemvor's Brand|Brand]] made the affiliation clear before the Knights were consulted about it. He will hold his law enforcement post with [[Hall of Justice - Temple of Tyr|Tyr's judiciary]] concurrently; the temple has noted this and appears unconcerned.
+- **[[Augustus Kennedy]]** — Joining as an initiate. A paladin of [[Kelemvor Lyonsbane|Kelemvor]] by divine signature — the [[Kelemvor's Brand|Brand]] made the affiliation clear before the Knights were consulted about it. He will hold his law enforcement post with [[Hall of Justice - Temple of Tyr|Tyr's judiciary]] concurrently; the temple has noted this and appears unconcerned.
 
 ## Operations
 
@@ -47,7 +47,7 @@ Operating at full capacity within the [[Temple of Kelemvor]]. The Gates have bee
 
 [[Garm]]'s assessment that the Shadow Creatures are extraplanar but not from any recognized plane has reached the Knights through temple channels. They have not confirmed or denied an operational response.
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] is joining the order. His background in law enforcement maps cleanly onto the Knights' cross-planar policing function. They are not in the habit of turning away paladins whose Brand is already doing the work.
+[[Augustus Kennedy]] is joining the order. His background in law enforcement maps cleanly onto the Knights' cross-planar policing function. They are not in the habit of turning away paladins whose Brand is already doing the work.
 
 ## Membership
 

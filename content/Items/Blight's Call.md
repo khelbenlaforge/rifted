@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-03-10
 secret: false
 created: 2026-03-19T03:36
-updated: 2026-03-19T03:36
+updated: 2026-08-28T14:52:43
 ---
 
 # Blight's Call
@@ -23,7 +23,7 @@ updated: 2026-03-19T03:36
 > | Rarity | Uncommon |
 > | Attunement | Yes |
 > | Found At | Taken from [[Durnn]] |
-> | Current Holder | [[The Exodus/The Door Kickers/PCs/Ember]] |
+> | Current Holder | [[Ember]] |
 
 Rarity:: Uncommon
 Attunement:: Yes
@@ -33,7 +33,7 @@ Found At:: [[Sunless Citadel]]
 
 A horn carved from one of [[Ashardalon]]'s claws — black-grey, slightly curved, warm to the touch in a way that bone shouldn't be. There is nothing decorative about it. It looks like something pulled from a creature and repurposed, which is exactly what it is.
 
-[[Belak]] fashioned it and gifted it to [[Durnn]] as part of their arrangement. It was meant as a tool of control and intimidation — a way to keep the goblin warchief useful and compliant without Belak needing to be present. [[The Exodus/The Door Kickers/PCs/Ember]] took it from Durnn during the victory revel in Session 10, along with *Toothpick*.
+[[Belak]] fashioned it and gifted it to [[Durnn]] as part of their arrangement. It was meant as a tool of control and intimidation — a way to keep the goblin warchief useful and compliant without Belak needing to be present. [[Ember]] took it from Durnn during the victory revel in Session 10, along with *Toothpick*.
 
 ## Properties
 
@@ -59,6 +59,6 @@ A horn carved from one of [[Ashardalon]]'s claws — black-grey, slightly curved
 - Frightens blights and undead — potentially a double-edged tool inside the grove, where Belak's creatures are everywhere
 - The curse table is a slow corruption mechanic: mostly harmless until it isn't. Result 1 is a time bomb
 - Separating Durnn from the horn visibly changed him — implies attunement is the mechanism of corruption
-- Currently in [[The Exodus/The Door Kickers/PCs/Ember]]'s possession; its properties remain **unknown to the party**
+- Currently in [[Ember]]'s possession; its properties remain **unknown to the party**
 
 

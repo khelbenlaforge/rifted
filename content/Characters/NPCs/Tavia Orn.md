@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-07-27T10:58:20
+updated: 2026-08-28T14:52:43
 ---
 
 > [!infobox|right wikipedia]+
@@ -48,15 +48,15 @@ Affiliation:: [[The Claret]]
 
 ## Session 19
 
-[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] met Tavia at [[The Low Flagon]] during Session 19 downtime, and she confirmed that [[Layla]] is still in the city. He paid 10 gp for intelligence that Layla was buying illegal spell components in the [[Garnet District]] and is a valued Claret client. He paid another 25 gp to arrange a meeting with Tavia's boss; someone from [[The Claret]] will contact him in the coming weeks.
+[[Jonathan Jordan]] met Tavia at [[The Low Flagon]] during Session 19 downtime, and she confirmed that [[Layla]] is still in the city. He paid 10 gp for intelligence that Layla was buying illegal spell components in the [[Garnet District]] and is a valued Claret client. He paid another 25 gp to arrange a meeting with Tavia's boss; someone from [[The Claret]] will contact him in the coming weeks.
 
 ## Session 24
 
-- Accepted two vials of planar-touched blood (from [[The Exodus/The Door Kickers/PCs/Terra]] and [[The Exodus/The Door Kickers/PCs/Regius]]) plus rare reagents talked out of an [[Alchemist's Guild]] contact (via [[The Exodus/The Door Kickers/PCs/Shen]]) as a gift/leverage package from the party.
+- Accepted two vials of planar-touched blood (from [[Terra]] and [[Regius]]) plus rare reagents talked out of an [[Alchemist's Guild]] contact (via [[Shen]]) as a gift/leverage package from the party.
 - Agreed the blood vials were the real prize, not the reagents.
-- Offered [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|Jonathan Jordan (JJ)]] a future position under her if the deal with her boss goes through.
-- Noticed [[The Exodus/The Door Kickers/PCs/Terra|Terra]] on the roof outright (a natural 1); the party sent her home rather than risk it. Never noticed [[Sadiah Ispahani|Sadiah]] holding position near the city wall all night.
-- Escorted the party — JJ, [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
+- Offered [[Jonathan Jordan|Jonathan Jordan (JJ)]] a future position under her if the deal with her boss goes through.
+- Noticed [[Terra|Terra]] on the roof outright (a natural 1); the party sent her home rather than risk it. Never noticed [[Sadiah Ispahani|Sadiah]] holding position near the city wall all night.
+- Escorted the party — JJ, [[Shen]], [[Regius]], [[Gill Bates]], [[Nanuk]], and [[Lea]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
 
 ## Session 25 Update
 

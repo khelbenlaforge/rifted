@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-27T17:57:34
+updated: 2026-08-28T14:52:43
 ---
 
 # Gill Bates
@@ -41,7 +41,7 @@ Gill's power flows from [[Istishia]], the Lord of Water -- one of the four Primo
 Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[Istishia]] (Arcana Domain), at the [[Tidecaller's Sanctuary]] in the [[Diamond District]] of [[Crystal City]]. The Sanctuary is built over a natural underground spring, its interior adorned with ocean mosaics, a central spring-fed pool, and features including the [[Blessing Pool]], [[Divination Fountain]], and [[Rainfall Chamber]]. Marin teaches through water-based exercises and metaphors -- instructing Gill to stop resisting the current, to observe water closely for hidden patterns, and to let his calling surface naturally. He has presented four sects of [[Istishia]]'s faith: the [[Sects of Istishia|Sacred Sea]], [[Sects of Istishia|Watery Paths]], [[Sects of Istishia|Magnificent Storm]], and [[Sects of Istishia|Eternal Transformation]]. Gill supplements his temple study with combat training under [[Luks Borg]] at the [[Adamantine Guild]].
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], and [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the astral procession and the prayer circle crushed by falling land
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
@@ -54,12 +54,12 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - Attended the [[Council Tent]] meeting; assigned to assist at [[Tymora's Shrine]] under [[Sister Garaele]]
 - Helped distribute healing potions and tend to the settlement's wounded
 - Remained in [[Sunhold]] with [[Luks Borg|Luks]] while the rest of the party departed south to rescue the Hucrele children
-- **Marpenoth, 222 PA (Session 13)** — When [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
+- **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Adon]] — a cleric of Sune from Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Torm of the Dales]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]]; witnessed [[Mystra]]'s rescue and destruction at [[Helm]]'s hands
 - **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: Gill watches himself at the family table in Greece. His parents want him to call his cousin in Athens — the cousin who salted his fish when they were children. He wants the boats and the coast and none of this. He is outside the moment, watching himself refuse. In the liminal void, debriefed with the others. Arrived in [[Shadowdale]] as Adon; made no effort to conceal that the [[Old Skull Inn]] did not meet his standards. [[Jhaele Silvermane]] clocked his holy symbol — [[Sune]], goddess of beauty — and served him a crystal carafe of expensive wine without being asked: *"Your Majesty. Wine it is."* He accepted this as his due. Fought in the courtyard battle
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower, learned the shape of the crisis: Tablets of Fate, Celestial Stairway, multiple Mystra fragment carriers. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, during [[Midnight]]'s final transformation — when the pendantignited and the east wall blew outward — a masonry shard from the crumbling wall caught Adon across the face. Under the radar. He noticed the blood on his fingers only after. It will leave a scar. Permanent. A cleric of [[Sune]] — the goddess of beauty — marked permanently across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
-- **[[The Exodus/The Door Kickers/PCs/Lea]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
+- **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
 - **[[Tidecaller Marin Deepcurrent]]** -- Primary mentor; teaches the ways of [[Istishia]] through water and patience
 - **[[Luks Borg]]** -- Combat trainer at the [[Adamantine Guild]]
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine and celestial essence; enjoys his enthusiasm for ocean lore
@@ -204,7 +204,7 @@ Session 21 downtime:
 
 PvP test:
 - Cast *Magic Missile*
-- Healed [[The Exodus/The Door Kickers/PCs/Nanuk]] for 9 HP with *Healing Word*
+- Healed [[Nanuk]] for 9 HP with *Healing Word*
 - Brought down by Nanuk after healing him
 
 Level: 5
@@ -233,9 +233,9 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 
 ## Session 24
 
-- Held back two streets with [[The Exodus/The Door Kickers/PCs/Regius]] as backup during [[Sadiah Ispahani|Sadiah]] and [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
-- That night, sat at a table with drinks alongside [[The Exodus/The Door Kickers/PCs/Nanuk]] and [[The Exodus/The Door Kickers/PCs/Lea]] as cover — a "fisherman" contact — while [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] negotiated with [[Tavia Orn]].
-- Entered the Claret's inner sanctum alongside [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], [[The Exodus/The Door Kickers/PCs/Regius]], [[The Exodus/The Door Kickers/PCs/Nanuk]], and [[The Exodus/The Door Kickers/PCs/Lea]].
+- Held back two streets with [[Regius]] as backup during [[Sadiah Ispahani|Sadiah]] and [[Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
+- That night, sat at a table with drinks alongside [[Nanuk]] and [[Lea]] as cover — a "fisherman" contact — while [[Jonathan Jordan|JJ]] negotiated with [[Tavia Orn]].
+- Entered the Claret's inner sanctum alongside [[Jonathan Jordan]], [[Shen]], [[Regius]], [[Nanuk]], and [[Lea]].
 
 ## Session 26
 
@@ -243,5 +243,5 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - [[Adon]] spoke through [[Fair Catch]], warning that [[Istishia]] and unnamed sibling primordials are weakening; Adon apologized to someone named Midnight.
 - Received guidance to pay closer attention to his studies with [[Tidecaller Marin Deepcurrent]].
 - Sensed Istishia faintly: steam shielded a baby in a crib from a reaching dark hand.
-- Walked to the [[Temple of Kelemvor]] with [[The Exodus/The Door Kickers/PCs/Lea|Lea]] and was present when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
+- Walked to the [[Temple of Kelemvor]] with [[Lea|Lea]] and was present when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
 

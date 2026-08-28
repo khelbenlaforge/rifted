@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T16:28
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Bahamut
@@ -58,6 +58,6 @@ His conventional enmity with [[Takhisis]] means that followers of each rarely co
 
 - **[[Takhisis]]** — Eternal opposite in conventional theology. Depicted as co-protector in the Sanctum — wings spread, standing side by side.
 - **[[Mystra]]**, **[[Gond]]** — Depicted alongside them in the Sanctum statuary, part of a four-deity covenant of world-protection.
-- **[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]** — Paladin of [[Tyr]], whose domain of justice overlaps significantly with Bahamut's. The god of the platinum dragon may take an interest.
+- **[[Augustus Kennedy]]** — Paladin of [[Tyr]], whose domain of justice overlaps significantly with Bahamut's. The god of the platinum dragon may take an interest.
 
 

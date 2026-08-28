@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-03-16T20:11
+updated: 2026-08-28T14:52:43
 ---
 
 # Vanny Faire
@@ -31,6 +31,6 @@ A seagoing vessel equipped with conventional sails but propelled primarily by ar
 ## Notable Voyages
 
 - **7th Marpenoth PA 222** — The party boarded the Vanny Faire with [[Luks Borg]], departing [[Crystal City]] for the [[Sunhold]] jetty
-- **9th Marpenoth PA 222** — Docked at a small jetty on the western island, delivering animals and goods. Another shipment had arrived a day earlier. [[Luks Borg]] remained at the jetty to await [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], who departed on a second ship the following day
+- **9th Marpenoth PA 222** — Docked at a small jetty on the western island, delivering animals and goods. Another shipment had arrived a day earlier. [[Luks Borg]] remained at the jetty to await [[Jonathan Jordan]], who departed on a second ship the following day
 
 
