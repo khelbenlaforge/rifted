@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T05:22
-updated: 2026-08-02T13:59:32
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 11 — Echoes of Divinity
@@ -17,7 +17,7 @@ updated: 2026-08-02T13:59:32
 > **Date Played:** January 2026
 > **In-Game Date:** Year 222 PA, 16th Marpenoth
 > **Location:** [[Sunless Citadel]], Grove Level
-> **Party:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
 > **Source:** Voice memo, processed 2026-03-16
 
@@ -43,7 +43,7 @@ Heading south through the Grove Level, the architecture of the citadel began to 
 
 Before committing south, they checked the routes to the northeast — the scurrying of small feet, possibly goblins, behind a closed door. Something for another time.
 
-[[The Exodus/The Door Kickers/PCs/Lea]] cast Detect Magic. To the southwest, elemental energy — familiar, if distant. But to the south... she couldn't place it. Every school of magic at once. Arcane. Divine. Primal. Layered atop one another in a convergence that shouldn't exist. The entire party felt the pull of it.
+[[Lea]] cast Detect Magic. To the southwest, elemental energy — familiar, if distant. But to the south... she couldn't place it. Every school of magic at once. Arcane. Divine. Primal. Layered atop one another in a convergence that shouldn't exist. The entire party felt the pull of it.
 
 They went south.
 
@@ -51,21 +51,21 @@ They went south.
 
 ## The Basalt Door
 
-The corridor ended at a wall of black stone — basalt, seamless, monolithic. No door frame. No handle. No seams. Just a slab of dark rock that radiated the impossible energy [[The Exodus/The Door Kickers/PCs/Lea]] had sensed. And across its surface, *moving*, hundreds of symbols — engraved into the stone yet drifting like living things. Some slow, almost meditative. Others darting with frenetic purpose.
+The corridor ended at a wall of black stone — basalt, seamless, monolithic. No door frame. No handle. No seams. Just a slab of dark rock that radiated the impossible energy [[Lea]] had sensed. And across its surface, *moving*, hundreds of symbols — engraved into the stone yet drifting like living things. Some slow, almost meditative. Others darting with frenetic purpose.
 
 It took the party a moment to recognize them. Deity symbols. Gods they knew. Gods they didn't. Gods that had no business being carved into the same surface.
 
 As the party approached, the symbols began to respond.
 
-Toward [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] — the lawful, the protective. [[Tyr]]'s scale. Shields. Swords held in service. The symbols of order and duty gathered around him like soldiers answering a marshal's call.
+Toward [[Augustus Kennedy]] — the lawful, the protective. [[Tyr]]'s scale. Shields. Swords held in service. The symbols of order and duty gathered around him like soldiers answering a marshal's call.
 
-Toward [[The Exodus/The Door Kickers/PCs/Gill Bates]] — the primal. Waves and flame and stone and wind. The symbols of the four elemental primordials surged toward him, ancient beyond reckoning.
+Toward [[Gill Bates]] — the primal. Waves and flame and stone and wind. The symbols of the four elemental primordials surged toward him, ancient beyond reckoning.
 
-Toward [[The Exodus/The Door Kickers/PCs/Lea]] — knowledge. Magic. [[Mystra]]'s star blazed brightest, flanked by the signs of [[Oghma]] and others who prize understanding above all.
+Toward [[Lea]] — knowledge. Magic. [[Mystra]]'s star blazed brightest, flanked by the signs of [[Oghma]] and others who prize understanding above all.
 
-Toward [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] — the tricksters. The shadowed. Gods of strife and mischief, of necessary chaos and uncomfortable truths. They drifted to him like smoke.
+Toward [[Jonathan Jordan]] — the tricksters. The shadowed. Gods of strife and mischief, of necessary chaos and uncomfortable truths. They drifted to him like smoke.
 
-And toward [[The Exodus/The Door Kickers/PCs/Ember]] — two groups at once.
+And toward [[Ember]] — two groups at once.
 
 From one direction, the nature deities. [[Mielikki]]. [[Silvanus]]. The wild and the green and the breathing earth. They moved toward her as they always had.
 
@@ -105,17 +105,17 @@ Ember couldn't process it. The rolls refused her. The dual nature that had alway
 
 ### Lea — The Dead God's Wall
 
-Isolated at the battlefield's center, [[The Exodus/The Door Kickers/PCs/Lea]] stood among the echoes of [[Mystra]], [[Oghma]], and the gods of art and knowledge. Her group was powerful but incomplete. She could feel it — the puzzle needed *everyone*.
+Isolated at the battlefield's center, [[Lea]] stood among the echoes of [[Mystra]], [[Oghma]], and the gods of art and knowledge. Her group was powerful but incomplete. She could feel it — the puzzle needed *everyone*.
 
 Off in the distance, the gods of death had walled themselves away. Bone barriers, high and deliberate. [[Kelemvor]] — the Judge of the Damned — had no interest in the conflict. Whatever this battlefield represented, whatever ancient argument it echoed, the death gods wanted no part of it.
 
-[[Mystra]]'s echo seemed to *ache* toward that wall. And [[The Exodus/The Door Kickers/PCs/Lea]] sensed it — something old between them. Love. Betrayal. A wound that hadn't healed across millennia.
+[[Mystra]]'s echo seemed to *ache* toward that wall. And [[Lea]] sensed it — something old between them. Love. Betrayal. A wound that hadn't healed across millennia.
 
 She went to the wall. She pleaded. The dice said no. But the sensing remained — a thread of narrative she could follow later, a door within the door that she hadn't yet been able to open.
 
 ### Jonathan Jordan — The Necessary Evil
 
-In his corner of the battlefield, [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] discovered what it means to be necessary and despised for it. The trickster gods, the shadow gods, the deities of strife and conflict — *his* gods — were under assault from the forces of good.
+In his corner of the battlefield, [[Jonathan Jordan]] discovered what it means to be necessary and despised for it. The trickster gods, the shadow gods, the deities of strife and conflict — *his* gods — were under assault from the forces of good.
 
 Chaotic good, lawful good — it didn't matter. The bright and righteous saw the dark and treacherous and attacked. Because that's what good *does*, isn't it?
 
@@ -125,7 +125,7 @@ JJ tried to convince the gods of good to relent. Slowly, painfully, with more fa
 
 ### Augustus Kennedy — The Paladin's Revelation
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] saw [[The Exodus/The Door Kickers/PCs/Ember]] surrounded by darkness and did what paladins do. He led the gods of law, order, and protection in a charge to rescue her.
+[[Augustus Kennedy]] saw [[Ember]] surrounded by darkness and did what paladins do. He led the gods of law, order, and protection in a charge to rescue her.
 
 And then he stopped.
 
@@ -135,11 +135,11 @@ Augustus made the most un-paladin-like decision of his life. He stopped fighting
 
 ### Gill Bates — The Primordial Harmony
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] had it easier, or perhaps harder, depending on perspective. The four primordial elemental gods — [[Istishia]] among them — don't think in human terms. They don't war over ideology. They exist in pure opposition: fire against water, earth against air. And yet they've coexisted since before thought itself.
+[[Gill Bates]] had it easier, or perhaps harder, depending on perspective. The four primordial elemental gods — [[Istishia]] among them — don't think in human terms. They don't war over ideology. They exist in pure opposition: fire against water, earth against air. And yet they've coexisted since before thought itself.
 
 Gil understood. Opposition *is* harmony, when you stop trying to resolve it.
 
-He began moving toward the center, and as his group passed other deity factions, they absorbed them. Primal force pulling divine force into its orbit, heading for the heart of the battlefield where [[The Exodus/The Door Kickers/PCs/Lea]] waited.
+He began moving toward the center, and as his group passed other deity factions, they absorbed them. Primal force pulling divine force into its orbit, heading for the heart of the battlefield where [[Lea]] waited.
 
 ---
 
@@ -151,7 +151,7 @@ The light grew. It spread across the landscape of the door, consuming the echoes
 
 If the deities did not come together, this force would consume everything. A universe rendered meaningless. Not destroyed — just... unmade. Rendered irrelevant.
 
-The gods of death were the last holdouts. Walled behind their bone barriers, watching the light approach, stubbornly indifferent. It took [[The Exodus/The Door Kickers/PCs/Lea]] and the echo of [[Mystra]] one more attempt — and this time, with the light searing closer and the DC lower, even [[Kelemvor]] relented. Reluctantly. Bitterly. But he moved toward the center.
+The gods of death were the last holdouts. Walled behind their bone barriers, watching the light approach, stubbornly indifferent. It took [[Lea]] and the echo of [[Mystra]] one more attempt — and this time, with the light searing closer and the DC lower, even [[Kelemvor]] relented. Reluctantly. Bitterly. But he moved toward the center.
 
 All factions converged. Opposing pillars of divine light rose against the incandescent force. And in the final moment — a pulse of energy, a silent detonation that should have ended everything — the unified gods held.
 
@@ -183,7 +183,7 @@ Below them all, carved into the floor with the precision of something far older 
 
 ## The Mural
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] reached out to touch the wall and nearly lost himself.
+[[Augustus Kennedy]] reached out to touch the wall and nearly lost himself.
 
 The mural encircled the chamber — a single continuous image spiraling around the room with no clear beginning or end, except there *was* a beginning. A figure. Humanoid. Featureless. No face, no clothing, no distinguishing mark of any kind. Just a shape that might have been the template from which all other shapes were cut.
 
@@ -207,9 +207,9 @@ The session ended in silence.
 
 - **The Sanctum's Meaning** — What is the featureless figure? What was the exodus? Why are [[Bahamut]] and [[Takhisis]] depicted as allies?
 - **The Other** — The incandescent force that threatened to consume the gods. What is it? Is it connected to [[The Awakening]]?
-- **[[The Exodus/The Door Kickers/PCs/Ember]]'s Dual Nature** — Nature and infernal divinity claim her equally. [[Asmodeus]] watches. [[Mielikki]] waits. Which path?
+- **[[Ember]]'s Dual Nature** — Nature and infernal divinity claim her equally. [[Asmodeus]] watches. [[Mielikki]] waits. Which path?
 - **[[Aenath]]'s Shape** — A flat, rectangular world. What's on the other side?
-- **[[Mystra]] and [[Kelemvor]]** — Love, betrayal, and a wall of bone. [[The Exodus/The Door Kickers/PCs/Lea]] sensed it. Will she pursue it?
+- **[[Mystra]] and [[Kelemvor]]** — Love, betrayal, and a wall of bone. [[Lea]] sensed it. Will she pursue it?
 - **[[Talgen Hucrele Jr.]]** — Dead. The reward shifts to signet rings and grief. How will [[Keldara Hucrele]] receive the news?
 - **Still Missing** — [[Sharwyn Hucrele]] and [[Sir Braford]] — deeper in the citadel, no confirmed fate
 - **[[Karakas]]** — confirmed dead (Session 09, killed by rats in the Upper Level)

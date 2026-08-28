@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-05-08
-updated: 2026-08-02T13:59:59
+updated: 2026-08-28T14:52:43
 ---
 
 # Kelemvor's Brand
@@ -23,11 +23,11 @@ updated: 2026-08-02T13:59:59
 > | Type | Wondrous Item (Tattoo / Mark) |
 > | Rarity | Rare → Legendary (scales) |
 > | Attunement | Bound (cannot be removed or transferred) |
-> | Holder | [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] |
+> | Holder | [[Augustus Kennedy]] |
 
 ## Description
 
-It appeared the morning after [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] returned from the prequel vision — etched into the warforged plating along his left shoulder and down his forearm in lines too deliberate to be damage, too old to be anything Aenath made. The mark resembles a panther mid-leap, rendered in the style of something pre-heraldic: crude and alive. It does not glow. In darkness, it is warm.
+It appeared the morning after [[Augustus Kennedy]] returned from the prequel vision — etched into the warforged plating along his left shoulder and down his forearm in lines too deliberate to be damage, too old to be anything Aenath made. The mark resembles a panther mid-leap, rendered in the style of something pre-heraldic: crude and alive. It does not glow. In darkness, it is warm.
 
 When activated, the lines deepen. The metal around them hums faintly. Something behind Augie's eyes goes very still, as if a much older thing has noticed it is being asked to wake.
 
@@ -149,7 +149,7 @@ The brand chose him anyway. It does not explain itself.
 ---
 
 Rarity:: Rare (scales to Legendary)
-Attunement:: Bound to [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]
+Attunement:: Bound to [[Augustus Kennedy]]
 Found At:: Unknown
 
 

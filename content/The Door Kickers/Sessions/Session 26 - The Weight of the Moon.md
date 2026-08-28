@@ -7,15 +7,15 @@ campaign: Rifted
 date: 2026-08-07
 secret: false
 created: 2026-08-07
-updated: 2026-08-15T23:39:21
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 26 - The Weight of the Moon
 
 **In-world date:** Late 30th Uktar rolling into the [[Feast of the Moon]] (the intercalary day between 30 Uktar and 1 Nightal), Year 222 PA — the same night the Corvin Adder deal closed in Session 25.
 
-**Present:** [[The Exodus/The Door Kickers/PCs/Lea|Lea]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]] (REDACTED) · [[Sadiah Ispahani|Sadiah]] (REDACTED) · [[Terra]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Shen|Shen]] (REDACTED) — Shen split off early for offscreen research and doesn't appear again this session.
-**Absent:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] — narratively away with Tavia · [[The Exodus/The Door Kickers/PCs/Ember|Ember]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]] (REDACTED) — both confirmed returning Session 27 · [[The Exodus/The Door Kickers/PCs/Regius|Regius]] (REDACTED)
+**Present:** [[Lea|Lea]] (REDACTED) · [[Nanuk|Nanuk]] (REDACTED) · [[Gill Bates|Gill]] (REDACTED) · [[Sadiah Ispahani|Sadiah]] (REDACTED) · [[Terra]] (REDACTED) · [[Shen|Shen]] (REDACTED) — Shen split off early for offscreen research and doesn't appear again this session.
+**Absent:** [[Jonathan Jordan|JJ]] — narratively away with Tavia · [[Ember|Ember]] (REDACTED) · [[Augustus Kennedy|Augustus]] (REDACTED) — both confirmed returning Session 27 · [[Regius|Regius]] (REDACTED)
 
 ## What Happened
 

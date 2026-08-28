@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T15:55
-updated: 2026-08-27T17:57:05
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 09 — Debts in the Dark
@@ -17,7 +17,7 @@ updated: 2026-08-27T17:57:05
 > **Date Played:**
 > **In-Game Date:** Year 222 PA, 15th Marpenoth
 > **Location:** [[Sunless Citadel]], Upper Level → Durbuluk Goblin Territory
-> **Party:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions:** [[Meepo]] (guide, Upper Level only)
 
 ---
@@ -82,7 +82,7 @@ The party found the side entrance to the [[Durbuluk Goblins]]' section of the Up
 
 Goblin guards, bows trained. A frozen moment.
 
-[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] moved first — or perhaps [[The Exodus/The Door Kickers/PCs/Ember]], or whoever among them had the presence to make the first words count. The claim was simple: alliance with [[Ragh]] and [[Durnn]], confirmed. The letters helped. They had ink.
+[[Jonathan Jordan]] moved first — or perhaps [[Ember]], or whoever among them had the presence to make the first words count. The claim was simple: alliance with [[Ragh]] and [[Durnn]], confirmed. The letters helped. They had ink.
 
 An older goblin came forward to hear them out. This was [[Grenl]].
 

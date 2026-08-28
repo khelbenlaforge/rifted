@@ -16,7 +16,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-06-29T00:00:00
-updated: 2026-07-01T00:02:41
+updated: 2026-08-28T14:52:43
 ---
 
 > [!infobox]
@@ -44,7 +44,7 @@ Regius tried speaking directly to Le Fil and got nothing back. But when he broug
 
 ## Mechanics
 
-**Carrier:** [[The Exodus/The Door Kickers/PCs/Regius]]
+**Carrier:** [[Regius]]
 **Attunement:** Required (Regius only)
 
 When Regius attunes to Le Fil, he designates one weapon he is holding. That weapon gains all of Le Fil's mechanical benefits for as long as he remains attuned and holds it. If the weapon is lost or destroyed, Regius can designate a new weapon during a Short or Long Rest.
@@ -99,7 +99,7 @@ TBD — pending the "E" reveal.
 ---
 
 Rarity:: Unique
-Owner:: [[The Exodus/The Door Kickers/PCs/Regius]]
+Owner:: [[Regius]]
 Origin:: Unknown sender (Earth; arrived when Regius was eleven)
 
 

@@ -9,7 +9,7 @@ date: 2026-06-20
 session: 19
 secret: false
 created: 2026-06-20T00:00
-updated: 2026-08-27T17:58:55
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 19 — Seven Doors
@@ -24,7 +24,7 @@ Two weeks of road. Marsh snappers in a crate. The sound of the world not trying 
 
 [[Luks Borg]] didn't say much on the walk through the guild. Long hallway, familiar stone, and then the common room — the same impossible space that had been theirs at the beginning, with the same quality of air that didn't quite match what was outside the walls. Two things had changed: the disc rising slowly from the floor when they entered, a platter of jugs that produced whatever you thought of before you touched them, and the doors. Still the original five. Two more now, at the far end of the curve, with names that hadn't been there before.
 
-[[The Exodus/The Door Kickers/PCs/Shen]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] got their rooms without anyone making an announcement about it.
+[[Shen]] and [[Nanuk]] got their rooms without anyone making an announcement about it.
 
 [[Istar Silverlock]] was not in his usual spot. He was somewhere in the building with a mop, or a broom, or a series of cleaning implements that none of them had ever seen deployed institutionally. The pantry heist had a consequence that extended apparently through every surface of the guild's physical premises. He would be occupied for some time. [[Erkaniel Timbers|Erky]] — still being looked at by [[Luks Borg]] with the particular expression of a man who has found what he was looking for and is not at all pleased about it — cast Banishment at the request of [[Elmindaria L'Thorian|Daria]] when the subject of Shen's patron came up. The spell produced a brief blue light. Then it didn't. The patron was there, and then the spell was gone, and Daria was left with the expression of someone who has just tried to move a wall and discovered it is not a wall.
 
@@ -54,13 +54,13 @@ A month of downtime is not nothing. Six people, six sets of instincts, one city 
 
 ### Nanuk — The Network
 
-[[The Exodus/The Door Kickers/PCs/Nanuk]] started with what he had: three good leads and an absence. [[Layla]] was not at her workplace — that was the first answer, and it led to the second. The [[Azure Tamers]] ran out of the western wall towers: a ranger collective with responsibility for transportation and communications across Corranor, with griffins and eagles as daily reality. He found [[Torem]] — birdfolk, senior member, the kind of ranger who has maintained a network long enough that the network has become part of how he sees — and Torem knew something useful. Layla had been close, very close, with her co-apprentice. A halfling named [[Perrin Quickquill]].
+[[Nanuk]] started with what he had: three good leads and an absence. [[Layla]] was not at her workplace — that was the first answer, and it led to the second. The [[Azure Tamers]] ran out of the western wall towers: a ranger collective with responsibility for transportation and communications across Corranor, with griffins and eagles as daily reality. He found [[Torem]] — birdfolk, senior member, the kind of ranger who has maintained a network long enough that the network has become part of how he sees — and Torem knew something useful. Layla had been close, very close, with her co-apprentice. A halfling named [[Perrin Quickquill]].
 
-Nanuk joined the Azure Tamers. The wild animals — the ones with no reason to trust anyone — were comfortable with him before he finished introducing himself. He brought [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] with him when he eventually went to find Perrin.
+Nanuk joined the Azure Tamers. The wild animals — the ones with no reason to trust anyone — were comfortable with him before he finished introducing himself. He brought [[Jonathan Jordan]] with him when he eventually went to find Perrin.
 
 ### Ember — Before and After
 
-Through Nanuk's connection, [[Torem]] had [[The Exodus/The Door Kickers/PCs/Ember]] on an eagle before she had to ask. They went to the [[Ancients of Lava]] — not a place exactly, more a clearing the wilderness had decided to keep for people who refused to live in cities. Elder [[Jess]] was very old in the way that means the body has long since stopped being the defining thing.
+Through Nanuk's connection, [[Torem]] had [[Ember]] on an eagle before she had to ask. They went to the [[Ancients of Lava]] — not a place exactly, more a clearing the wilderness had decided to keep for people who refused to live in cities. Elder [[Jess]] was very old in the way that means the body has long since stopped being the defining thing.
 
 The circle was open, mostly. Elementalism, wilderness tending, the philosophy of going alone rather than in groups — because groups compromise, and compromise is how you end up in cities. They kept loose ties with the nature temples in Crystal. They were open, until [[Belak]]'s name came up.
 
@@ -74,7 +74,7 @@ Forty years is a long time to be tending something in the dark.
 
 ### Gill — The Weight of Scales
 
-[[The Exodus/The Door Kickers/PCs/Gill Bates]] studied with [[Tidecaller Marin Deepcurrent]], and in between the water philosophy he went to the Temple of [[Kelemvor Lyonsbane|Kelemvor]] on his own initiative — you study water long enough, you start thinking about what happens when it stops moving.
+[[Gill Bates]] studied with [[Tidecaller Marin Deepcurrent]], and in between the water philosophy he went to the Temple of [[Kelemvor Lyonsbane|Kelemvor]] on his own initiative — you study water long enough, you start thinking about what happens when it stops moving.
 
 The temple moved with purpose and without affect. Three factions sharing the floor: the Monks of the Long Death, the Priesthood, and the Knights — paladins who guarded the cross-planar exits as much as the living, since Kelemvor's domain covers transit as much as death. Chaotic evil goes to the Abyss. Lawful evil to the Nine Hells. Neutral, the godless, the genuinely unaffiliated — the Outplane, which the priesthood described as complete neutrality. He doesn't keep anyone. He doesn't hold.
 
@@ -88,7 +88,7 @@ Gill went fishing after. Rough crowd on the boat. Seven gold in his pocket by th
 
 ### Jonathan Jordan — The Low Road
 
-[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]] followed threads the way he always did — with patience, a certain stillness, and the willingness to be somewhere until it told him something. The [[Garnet District]] went quiet when he was in it. The threads didn't disappear exactly; they just led somewhere else. The border between Garnet and Citrine.
+[[Jonathan Jordan]] followed threads the way he always did — with patience, a certain stillness, and the willingness to be somewhere until it told him something. The [[Garnet District]] went quiet when he was in it. The threads didn't disappear exactly; they just led somewhere else. The border between Garnet and Citrine.
 
 He stopped a pickpocket without breaking stride — held the ruffian at arm's length by the throat while he finished the thought he'd been having, then let him go.
 
@@ -112,7 +112,7 @@ He now belonged, technically, to two temples. The city did not appear to find th
 
 ### Lea — Weave and Writ
 
-[[The Exodus/The Door Kickers/PCs/Lea]] went where the knowledge was. The Alchemist Guild occupied a factory smell — sulphur, acids, the sharp sparkle of controlled reactions — and the woman she'd been brought to meet was worth the smell. [[Veyris Thantorn]]: tattooed elf, sleeveless, quiver in hand, the kind of person who wears expertise like a garment they've had long enough to stop thinking about it.
+[[Lea]] went where the knowledge was. The Alchemist Guild occupied a factory smell — sulphur, acids, the sharp sparkle of controlled reactions — and the woman she'd been brought to meet was worth the smell. [[Veyris Thantorn]]: tattooed elf, sleeveless, quiver in hand, the kind of person who wears expertise like a garment they've had long enough to stop thinking about it.
 
 She explained the Weave as something woven through three dimensions at once, filling everything — and what alchemists do to it, and what teleportation requires, and what a tiefling carries in their blood that someone with training might be able to pull on. If Layla was tiefling, if she had even a thread of connection to an adjacent plane, it was possible that she hadn't done the shifting spell so much as redirected a current that was already running through her.
 

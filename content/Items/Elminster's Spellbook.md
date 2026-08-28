@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-08-15T23:13:55
+updated: 2026-08-28T14:52:43
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -26,7 +26,7 @@ When [[Lady Blackstaff]] examined the book at [[Blackstaff Mansion]], she recogn
 
 ## Mechanics
 
-**Carrier:** [[The Exodus/The Door Kickers/PCs/Lea]]
+**Carrier:** [[Lea]]
 
 This spellbook contains a selection of [[Elminster]]'s original spells: his own working drafts, unaltered since he wrote them. Lea can read and prepare any spell contained within that is of a level she can currently cast. She cannot transcribe them into her own spellbook while in the dungeon — that requires time, quiet, and proper materials.
 
@@ -86,7 +86,7 @@ Choose a creature, object, or location you can see or have touched in the last m
 
 ---
 Rarity:: Unique
-Owner:: [[The Exodus/The Door Kickers/PCs/Lea]]
+Owner:: [[Lea]]
 Origin:: Shadowdale (prequel vision, Session 15)
 
 

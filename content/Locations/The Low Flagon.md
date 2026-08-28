@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
-updated: 2026-07-27T10:35:36
+updated: 2026-08-28T14:52:43
 ---
 
 # The Low Flagon
@@ -61,16 +61,16 @@ Status:: active
 
 ## Session 22
 
-The party finalized their approach. [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Shen]], and [[The Exodus/The Door Kickers/PCs/Regius]] will enter as sellers. Password: "I have four litres of blood to sell."
+The party finalized their approach. [[Jonathan Jordan]], [[Shen]], and [[Regius]] will enter as sellers. Password: "I have four litres of blood to sell."
 
-[[The Exodus/The Door Kickers/PCs/Nanuk]] will serve as outside lookout on a nearby rooftop; [[Inukshuk]] is cavalry within eyeline. Physical intel: one known entrance, shuttered wooden windows all day, bruisers inside. A blood-supply deal will draw a mid-level [[The Claret|Claret]] contact down to the table.
+[[Nanuk]] will serve as outside lookout on a nearby rooftop; [[Inukshuk]] is cavalry within eyeline. Physical intel: one known entrance, shuttered wooden windows all day, bruisers inside. A blood-supply deal will draw a mid-level [[The Claret|Claret]] contact down to the table.
 
 ## Session 24
 
-- [[The Exodus/The Door Kickers/PCs/Sadiah Ispahani]] (disguised) and [[The Exodus/The Door Kickers/PCs/Nanuk]] (*disguise self* plus stealth) scouted the tavern by day, with [[The Exodus/The Door Kickers/PCs/Regius]] and [[The Exodus/The Door Kickers/PCs/Gill Bates]] holding back two streets as backup.
+- [[Sadiah Ispahani]] (disguised) and [[Nanuk]] (*disguise self* plus stealth) scouted the tavern by day, with [[Regius]] and [[Gill Bates]] holding back two streets as backup.
 - They found a hidden pocket-dimension vault behind a side window (same magical signature as the [[Adamantine Guild]]'s own door), a second window trapped with a needle-firing device (disarmed via thieves' tools), and an unexplained corridor/awning jutting from the tavern into the city wall itself.
 - [[Tavia Orn]] was seen alone inside during the day, writing in a ledger.
-- That night the party approached as planned: JJ, [[The Exodus/The Door Kickers/PCs/Shen]], and Regius as sellers; Gill, Nanuk, and [[The Exodus/The Door Kickers/PCs/Lea]] at a table with drinks as cover; Sadiah holding position near the city wall; [[The Exodus/The Door Kickers/PCs/Terra]] on the roof.
+- That night the party approached as planned: JJ, [[Shen]], and Regius as sellers; Gill, Nanuk, and [[Lea]] at a table with drinks as cover; Sadiah holding position near the city wall; [[Terra]] on the roof.
 - Terra failed her stealth check on a natural 1 and was noticed outright by Tavia; the party sent her home. Sadiah, by contrast, went unnoticed the entire night.
 - The password and leverage were accepted; Tavia brought JJ, Shen, and Regius into a magically warded and silenced back-room booth, then escorted JJ, Shen, Regius, Gill, Nanuk, and Lea through the back room's archway door into the Claret's inner sanctum.
 - All communication — *Message*, psychic whispers, and similar contact — to those left outside (Sadiah) cut off the instant the door closed.

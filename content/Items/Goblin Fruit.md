@@ -8,7 +8,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-04-10T18:13
+updated: 2026-08-28T14:52:43
 ---
 
 # Goblin Fruit
@@ -31,7 +31,7 @@ A vibrant red fruit that remains impossibly fresh long after being picked, its s
 
 ## Properties
 
-When [[The Exodus/The Door Kickers/PCs/Ember]] examined a half-eaten specimen, she sensed its unsettling blood-like quality. [[The Exodus/The Door Kickers/PCs/Lea]]'s Detect Magic revealed a dual signature of **necromantic** and **divine/draconic** energies — a deeply troubling combination for a fruit marketed as a simple healer.
+When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-like quality. [[Lea]]'s Detect Magic revealed a dual signature of **necromantic** and **divine/draconic** energies — a deeply troubling combination for a fruit marketed as a simple healer.
 
 **The fruit heals.** Eating it while alive suppresses whatever lies within. The seeds enter the body with the flesh and *wait*.
 

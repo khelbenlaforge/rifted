@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T21:43
-updated: 2026-08-27T17:57:09
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 14 - A Coin for the Curse
@@ -16,7 +16,7 @@ updated: 2026-08-27T17:57:09
 > **Date Played:** 2026-03-23
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Liminal void (frame); Shadowdale outskirts, Old Skull Inn, Old Skull Inn courtyard (vision)
-> **Party (present):** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], [[The Exodus/The Door Kickers/PCs/Ember]], [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]], [[The Exodus/The Door Kickers/PCs/Lea]]
+> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
 > **Companions (in vision):** [[Midnight]] (Lea), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor Lyonsbane|Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
 > **Source:** Voice memo, processed 2026-03-23
 
@@ -26,11 +26,11 @@ updated: 2026-08-27T17:57:09
 
 The Sanctum mural is still glowing.
 
-[[The Exodus/The Door Kickers/PCs/Ember]] and [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] join the vision last, and they enter it the way everyone does: by watching themselves, at a distance, living a life they are no longer inside.
+[[Ember]] and [[Augustus Kennedy]] join the vision last, and they enter it the way everyone does: by watching themselves, at a distance, living a life they are no longer inside.
 
-[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] is a Brooklyn cop on an ordinary morning. Donuts. Bodega coffee. A dispatch call about a friend making a scene — drunk on the sidewalk, open container, getting loud outside a place Augie loves. The friend sees Augie's badge, his family, his *perfect life*, and starts unpacking something much older than today. On cue: Augie's wife calling about a kid who lashed out at school. A perfectly ordinary day, from the outside. A man held upright by small frictions and minor emergencies.
+[[Augustus Kennedy]] is a Brooklyn cop on an ordinary morning. Donuts. Bodega coffee. A dispatch call about a friend making a scene — drunk on the sidewalk, open container, getting loud outside a place Augie loves. The friend sees Augie's badge, his family, his *perfect life*, and starts unpacking something much older than today. On cue: Augie's wife calling about a kid who lashed out at school. A perfectly ordinary day, from the outside. A man held upright by small frictions and minor emergencies.
 
-[[The Exodus/The Door Kickers/PCs/Ember]] is at work. An animal shelter in the middle of its usual beautiful chaos. A regular volunteer walks in with a crate and something is moving inside it that has no business being in the city. Nat 20. It is a pangolin. Simultaneously, Animal Control calls to say an inspector will be there in fifteen minutes. She tries to talk them down. Her assistant bursts out of the back room and at full volume announces the pangolin's presence to the room — and to the person on the phone, who immediately starts asking questions.
+[[Ember]] is at work. An animal shelter in the middle of its usual beautiful chaos. A regular volunteer walks in with a crate and something is moving inside it that has no business being in the city. Nat 20. It is a pangolin. Simultaneously, Animal Control calls to say an inspector will be there in fifteen minutes. She tries to talk them down. Her assistant bursts out of the back room and at full volume announces the pangolin's presence to the room — and to the person on the phone, who immediately starts asking questions.
 
 Both of them realize, separately, that they are not *in* these moments. They are watching. The same remove JJ and Gill and Lea felt last session: the gap they left, filled in by echo.
 
@@ -40,7 +40,7 @@ Then a woosh, and a door, and somewhere else.
 
 ## The Space Between Sessions
 
-While [[Augustus Kennedy|Augie]] and [[The Exodus/The Door Kickers/PCs/Ember]] floated in the void, [[The Exodus/The Door Kickers/PCs/Jonathan Jordan]], [[The Exodus/The Door Kickers/PCs/Gill Bates]], and [[The Exodus/The Door Kickers/PCs/Lea]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
+While [[Augustus Kennedy|Augie]] and [[Ember]] floated in the void, [[Jonathan Jordan]], [[Gill Bates]], and [[Lea]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
 
 That felt like days. For Augie and Ember, it was nothing. When the prequel party finally sleeps at the end of Session 13, all five ethereal forms drift together in the same liminal space — and the moment of reunion arrives like two conversations colliding. JJ and Gill and Lea are calm. They have the thousand-yard stare of people who have witnessed something and have not fully named it yet. Augie is immediately suspicious of himself: *Is this my fault? I touched the wall.* Yes. Gently — yes.
 
@@ -136,7 +136,7 @@ At a Perception roll of 15 in the inn: dark armor. Dark-armored soldiers, alread
 
 [[Selmavra Elsree|Selmavra]] is piecing it together.
 
-She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[The Exodus/The Door Kickers/PCs/Lea]]. The man with the Harper's walk is probably [[JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
+She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[Lea]]. The man with the Harper's walk is probably [[JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
 
 She finds a way in.
 

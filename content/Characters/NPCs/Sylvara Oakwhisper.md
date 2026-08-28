@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Sylvara Oakwhisper
@@ -33,10 +33,10 @@ Her teaching style favours experience over lectures. She would rather have a stu
 ## Background
 Sylvara grew up in [[Crystal City|Crystal]] and discovered her calling in the balance between civilization and wilderness -- the heart of [[Mielikki]]'s philosophy. She serves as a ranger and teacher at [[Mielikki's Grove]], where she instructs those drawn to the natural world in sustainable practices, forest defence, and communion with animals.
 
-She took [[The Exodus/The Door Kickers/PCs/Ember]] under her guidance, inviting her to the Grove for lessons in connecting with the land. There, Sylvara shared [[Mielikki]]'s teachings: that all life is sacred, that death is a natural part of the cycle, and that the ranger's role is to protect, teach, and plant. She drew distinctions between [[Mielikki]]'s compassionate stewardship and [[Silvanus]]'s harsher philosophy, identified allies such as the [[Adamantine Guild]] and [[Eldath]]'s peacekeepers, and warned against enemies like [[Malar]]'s followers and reckless fire mages. She also explained that [[Mielikki]] permits her rangers to wear metal armour and bear weapons, for the forest's protectors must sometimes fight.
+She took [[Ember]] under her guidance, inviting her to the Grove for lessons in connecting with the land. There, Sylvara shared [[Mielikki]]'s teachings: that all life is sacred, that death is a natural part of the cycle, and that the ranger's role is to protect, teach, and plant. She drew distinctions between [[Mielikki]]'s compassionate stewardship and [[Silvanus]]'s harsher philosophy, identified allies such as the [[Adamantine Guild]] and [[Eldath]]'s peacekeepers, and warned against enemies like [[Malar]]'s followers and reckless fire mages. She also explained that [[Mielikki]] permits her rangers to wear metal armour and bear weapons, for the forest's protectors must sometimes fight.
 
 ## Relationships
-- Mentor and ranger instructor to [[The Exodus/The Door Kickers/PCs/Ember]]
+- Mentor and ranger instructor to [[Ember]]
 - Companion of [[Frost]], her white wolf
 - Devoted servant of [[Mielikki]]
 - Allied with the [[Adamantine Guild]] and followers of [[Eldath]]
@@ -55,7 +55,7 @@ Deity:: [[Mielikki]]
 
 ## Session 19
 
-Sylvara confirmed to [[The Exodus/The Door Kickers/PCs/Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]].
+Sylvara confirmed to [[Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]].
 
 ## Session 23
 
@@ -63,9 +63,8 @@ Sylvara confirmed to [[The Exodus/The Door Kickers/PCs/Ember]] that [[Belak]] di
 
 ## Session 26
 
-- Met with [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] at [[Mielikki's Grove]] and identified him as a child of [[Silvanus]], the Oak Father.
+- Met with [[Nanuk|Nanuk]] at [[Mielikki's Grove]] and identified him as a child of [[Silvanus]], the Oak Father.
 - Explained that [[Silvanus]] and [[Malar]] are locked in an opposition where either's death would collapse a larger balance.
 - Identified the [[Ancients of Lava]] as extremists who do not represent Silvanus's creed; Silvanus opposes only those claiming to stand outside "the tree."
 - Gestured Nanuk in the general direction of [[Stormberg]] — not a confirmed destination.
-
 

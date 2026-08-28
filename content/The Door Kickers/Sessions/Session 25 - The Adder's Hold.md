@@ -7,15 +7,15 @@ campaign: Rifted
 date: 2026-07-27
 secret: false
 created: 2026-07-27T19:00:00
-updated: 2026-08-05T01:29:52
+updated: 2026-08-28T14:52:43
 ---
 
 # Session 25 - The Adder's Hold
 
 **In-world date:** 30th Uktar, Year 222 PA (continuing directly from Session 24's cliffhanger — same night)
-**Present:** [[The Exodus/The Door Kickers/PCs/Lea|Lea]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Regius|Regius]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Gill Bates|Gil]] (REDACTED)
-**DM-voiced (present, fighting, minimal spotlight):** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] · [[The Exodus/The Door Kickers/PCs/Shen|Shen]] (REDACTED)
-**Absent:** [[Sadiah Ispahani|Sadiah]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Terra|Terra]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Ember|Ember]] (REDACTED) · [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]] (REDACTED)
+**Present:** [[Lea|Lea]] (REDACTED) · [[Nanuk|Nanuk]] (REDACTED) · [[Regius|Regius]] (REDACTED) · [[Gill Bates|Gil]] (REDACTED)
+**DM-voiced (present, fighting, minimal spotlight):** [[Jonathan Jordan|JJ]] · [[Shen|Shen]] (REDACTED)
+**Absent:** [[Sadiah Ispahani|Sadiah]] (REDACTED) · [[Terra|Terra]] (REDACTED) · [[Ember|Ember]] (REDACTED) · [[Augustus Kennedy|Augustus]] (REDACTED)
 
 ## What Happened
 

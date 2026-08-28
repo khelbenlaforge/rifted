@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Mystra
@@ -47,9 +47,9 @@ She is often depicted as a luminous woman wreathed in starlight, though her true
 
 ## Followers & Influence
 
-Wizards, sorcerers, and scholars of the arcane revere Mystra above all other deities. The [[Ether Scryer's Academy]] in [[Crystal City]] operates under principles aligned with her teachings, and [[The Exodus/The Door Kickers/PCs/Lea]]'s training under [[Elmindaria L'Thorian]] reflects Mystra's philosophy that wizardry is earned through study and sacrifice.
+Wizards, sorcerers, and scholars of the arcane revere Mystra above all other deities. The [[Ether Scryer's Academy]] in [[Crystal City]] operates under principles aligned with her teachings, and [[Lea]]'s training under [[Elmindaria L'Thorian]] reflects Mystra's philosophy that wizardry is earned through study and sacrifice.
 
-During the trial of the Sealed Door in the [[Sunless Citadel]], Mystra's symbol was the brightest to gravitate toward [[The Exodus/The Door Kickers/PCs/Lea]], flanked by [[Oghma]] and the gods of knowledge. Her echo played a pivotal role in the Battlefield of Echoes, particularly in attempting to convince [[Kelemvor]] to rejoin the divine collective, an effort shaped by an ancient history between them.
+During the trial of the Sealed Door in the [[Sunless Citadel]], Mystra's symbol was the brightest to gravitate toward [[Lea]], flanked by [[Oghma]] and the gods of knowledge. Her echo played a pivotal role in the Battlefield of Echoes, particularly in attempting to convince [[Kelemvor]] to rejoin the divine collective, an effort shaped by an ancient history between them.
 
 ## The Fragment Carriers
 
@@ -78,9 +78,9 @@ The death of a god destabilizes magic — Mystra's death doubled chaos magic rol
 ## Connections
 
 - **[[Azuth]]** — Formerly among the most powerful mages alive, now her devoted adviser on magic's advancement and preservation — amorous, by some accounts. Named alongside her and [[Savras]] in the same temple complex in Session 26.
-- **[[Kelemvor]]** — A complicated history. [[The Exodus/The Door Kickers/PCs/Lea]] sensed love, betrayal, and unhealed wounds between Mystra's echo and the god of death's walled isolation during the Sealed Door trial.
+- **[[Kelemvor]]** — A complicated history. [[Lea]] sensed love, betrayal, and unhealed wounds between Mystra's echo and the god of death's walled isolation during the Sealed Door trial.
 - **[[Gond]]** — Depicted opposite Mystra in the Sanctum statuary, his hammer shaping what her hands protect.
-- **[[The Exodus/The Door Kickers/PCs/Lea]]** — The PC most strongly aligned with Mystra's domain. Corran addressed Lea as "my Lady" in a vision — a title with possible Mystran significance.
+- **[[Lea]]** — The PC most strongly aligned with Mystra's domain. Corran addressed Lea as "my Lady" in a vision — a title with possible Mystran significance.
 - **[[Bane]]** — Mystra remembered her own death. *"You killed me once. I thought you should know — I remember."* She bound him and pulled him through the Celestial Stairway, smiling.
 - **[[Storm Silverhand]]** — One of the Seven Sisters, all daughters of Mystra by mortal men. Storm carries silver fire.
 - **[[Elminster]]** — Chosen of Mystra; fragment carrier. Was working to seal the Stairway when he fell.

@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Midnight
@@ -64,7 +64,7 @@ The pendant is empty now. She carried a goddess without knowing it. What she car
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[The Exodus/The Door Kickers/PCs/Augustus Kennedy]] touching the Sanctum mural, [[The Exodus/The Door Kickers/PCs/Lea]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Lea is not Midnight; no soul connection is implied (at this stage).
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the Sanctum mural, [[Lea]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Lea is not Midnight; no soul connection is implied (at this stage).
 
 ## Character Sheet
 

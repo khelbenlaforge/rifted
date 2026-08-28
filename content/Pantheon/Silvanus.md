@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Silvanus
@@ -46,6 +46,6 @@ Where [[Mielikki]] advocates for compassion and coexistence between the wild and
 ## Followers & Influence
 Silvanus is revered by druids, nature wardens, and those who dwell in the deep wild far from roads and cities. His followers tend to be less approachable than those of [[Mielikki]] — they are ascetics and guardians who enforce nature's balance with unflinching resolve, even when that balance demands hard choices.
 
-[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[The Exodus/The Door Kickers/PCs/Ember]], acknowledges the philosophical divide between her faith and that of Silvanus. She respects his druids but notes that their willingness to accept suffering as intrinsic to life can make them difficult allies. The tension between the two traditions — compassionate stewardship versus impartial natural law — is one of the defining debates among the nature-faithful of [[Aenath]].
+[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], acknowledges the philosophical divide between her faith and that of Silvanus. She respects his druids but notes that their willingness to accept suffering as intrinsic to life can make them difficult allies. The tension between the two traditions — compassionate stewardship versus impartial natural law — is one of the defining debates among the nature-faithful of [[Aenath]].
 
 

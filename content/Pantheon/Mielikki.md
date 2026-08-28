@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T02:33:48
+updated: 2026-08-28T14:52:43
 ---
 
 # Mielikki
@@ -46,6 +46,6 @@ Her philosophy is one of compassionate stewardship. She loves all life — beast
 ## Followers & Influence
 Rangers, woodsmen, and those who make their living at the boundary of settled land and deep forest revere Mielikki above all others. Her living temple, [[Mielikki's Grove]], stands in the [[Diamond District]] of [[Crystal City]] — a sanctuary where ancient trees form natural archways and stone blends seamlessly with living wood. The Grove houses the Healing Grove for the injured, the Wild Nursery for orphaned or wounded animals, and the Ranger's Rest for weary travellers.
 
-[[Sylvara Oakwhisper]], a half-elf ranger, serves as a teacher and spiritual guide within the Grove. She has mentored [[The Exodus/The Door Kickers/PCs/Ember]], instructing them in Mielikki's ways: feeling the goddess's presence in the grass underfoot, learning to coexist with the wild, and understanding the threats posed by [[Malar]]'s followers. Sylvara's lessons emphasise that to follow Mielikki is to protect, to teach, and above all, to listen.
+[[Sylvara Oakwhisper]], a half-elf ranger, serves as a teacher and spiritual guide within the Grove. She has mentored [[Ember]], instructing them in Mielikki's ways: feeling the goddess's presence in the grass underfoot, learning to coexist with the wild, and understanding the threats posed by [[Malar]]'s followers. Sylvara's lessons emphasise that to follow Mielikki is to protect, to teach, and above all, to listen.
 
 

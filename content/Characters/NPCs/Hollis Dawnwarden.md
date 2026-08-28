@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 state: alive
-updated: 2026-08-15T23:09:26
+updated: 2026-08-28T14:52:43
 created: 2026-08-15T22:49:29
 ---
 
@@ -34,7 +34,7 @@ Hollis takes his oaths at face value, which the Hall of Justice trained out of m
 
 ## Background
 
-Hollis came up through the Hall of Justice's training courtyards the standard way: an Acolyte's postulancy, calligrapher's ink still under his nails from years of copying case law before he ever drew a blade in anger. [[Sir Gareth Ironhand]] signed off on his ordination personally, which around the Hall counts for more than most people realize. He was partnered with [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus Kennedy]] not long after Augustus's own conversion path settled — the two of them work the same rounds now, backing each other on whatever the Church of Tyr's judiciary hands down that week.
+Hollis came up through the Hall of Justice's training courtyards the standard way: an Acolyte's postulancy, calligrapher's ink still under his nails from years of copying case law before he ever drew a blade in anger. [[Sir Gareth Ironhand]] signed off on his ordination personally, which around the Hall counts for more than most people realize. He was partnered with [[Augustus Kennedy|Augustus Kennedy]] not long after Augustus's own conversion path settled — the two of them work the same rounds now, backing each other on whatever the Church of Tyr's judiciary hands down that week.
 
 ## Role in the Story
 

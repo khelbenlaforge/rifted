@@ -5,6 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 state: alive
+updated: 2026-08-28T14:52:43
 ---
 
 # Inukshuk
@@ -15,9 +16,9 @@ state: alive
 > | | |
 > | ---- | --- |
 > | Race | Polar Bear (Spirit) |
-> | Affiliation | [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]] |
+> | Affiliation | [[Nanuk|Nanuk]] |
 
-Spirit-guide polar bear companion of [[The Exodus/The Door Kickers/PCs/Nanuk|Nanuk]]. Speaks directly to Nanuk.
+Spirit-guide polar bear companion of [[Nanuk|Nanuk]]. Speaks directly to Nanuk.
 
 ## Session 22
 

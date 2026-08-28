@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-25T22:59
-updated: 2026-08-15T22:31:53
+updated: 2026-08-28T14:52:43
 ---
 > [!infobox]
 > # Fair Catch
@@ -24,7 +24,7 @@ Iron-tipped and barbed like a gaff hook, the shaft worn smooth where a hand has 
 
 ## Mechanics
 
-**Carrier:** [[The Exodus/The Door Kickers/PCs/Gill Bates]]
+**Carrier:** [[Gill Bates]]
 **Attunement:** Required (Gill only)
 
 The spear grows in power as Gill levels. The weapon returns to Gill's hand at the start of his next turn after being thrown, always.
@@ -80,7 +80,7 @@ TBD.
 
 ---
 Rarity:: Unique
-Owner:: [[The Exodus/The Door Kickers/PCs/Gill Bates]]
+Owner:: [[Gill Bates]]
 Origin:: Shadowdale (prequel vision, Session 15)
 
 

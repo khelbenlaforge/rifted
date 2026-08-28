@@ -8,12 +8,12 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-26T03:46
-updated: 2026-08-27T17:57:14
+updated: 2026-08-28T14:52:43
 ---
 > [!infobox]
 > # Rathan's Symbol of Tymora
 
-A holy symbol of Tymora, worn by [[Rathan Thentraver|Rathan]] during the prequel vision of Shadowdale. Carried back by [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]] after the vision ended. The symbol is battered and clearly well-used — the face of the coin goddess still visible despite years of wear.
+A holy symbol of Tymora, worn by [[Rathan Thentraver|Rathan]] during the prequel vision of Shadowdale. Carried back by [[Jonathan Jordan|JJ]] after the vision ended. The symbol is battered and clearly well-used — the face of the coin goddess still visible despite years of wear.
 
 ## Description
 
@@ -21,7 +21,7 @@ A silver medallion, coin-shaped, stamped with the face of Tymora on one side and
 
 ## Mechanics
 
-**Carrier:** [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]]
+**Carrier:** [[Jonathan Jordan|JJ]]
 **Attunement:** Required (JJ only)
 
 Each Luck Point can be spent to: grant yourself **Advantage** on one D20 Test (attack roll, ability check, or saving throw), or impose **Disadvantage** on one attack roll made against you. Luck Points refresh on a Long Rest.
@@ -69,7 +69,7 @@ Each Luck Point can be spent to: grant yourself **Advantage** on one D20 Test (a
 
 ---
 Rarity:: Unique
-Owner:: [[The Exodus/The Door Kickers/PCs/Jonathan Jordan|JJ]]
+Owner:: [[Jonathan Jordan|JJ]]
 Origin:: Shadowdale (prequel vision, Session 15)
 
 

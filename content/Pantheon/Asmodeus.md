@@ -10,7 +10,7 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-updated: 2026-06-25T16:16:49
+updated: 2026-08-28T14:52:43
 ---
 
 # Asmodeus
@@ -44,6 +44,6 @@ Asmodeus does not issue tenets — he issues terms. His faithful serve him throu
 
 Warlocks who bargain for power, tyrants who cloak ambition in order, and those who have decided that the universe is transactional and they may as well be on the winning side. His cults are disciplined and hierarchical in ways most evil faiths are not.
 
-In [[Aenath]], Asmodeus's presence is subtle — felt more in temptation and infernal influence than in open worship. His most significant point of contact with the current campaign is [[The Exodus/The Door Kickers/PCs/Ember]]: during the trial of the Sealed Door in the [[Sunless Citadel]], Asmodeus was the only deity to remain at her side, standing steady while others moved away. What that attentiveness means — offer, claim, or something older — has not yet been made clear.
+In [[Aenath]], Asmodeus's presence is subtle — felt more in temptation and infernal influence than in open worship. His most significant point of contact with the current campaign is [[Ember]]: during the trial of the Sealed Door in the [[Sunless Citadel]], Asmodeus was the only deity to remain at her side, standing steady while others moved away. What that attentiveness means — offer, claim, or something older — has not yet been made clear.
 
 

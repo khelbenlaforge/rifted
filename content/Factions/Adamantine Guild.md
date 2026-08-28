@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-08-24T17:24:13
+updated: 2026-08-28T14:52:43
 ---
 
 # Adamantine Guild
@@ -33,7 +33,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Istar Silverlock]]** — Reluctant Assistant Guildmaster managing day-to-day operations
 - **[[Elmindaria L'Thorian]]** — Ancient elf scholar and remaining senior member
 - **[[Luks Borg]]** — Senior Adventurer, currently establishing the [[Sunhold]] outpost
-- **[[The Exodus/The Door Kickers/PCs/Jonathan Jordan]]**, **[[The Exodus/The Door Kickers/PCs/Gill Bates]]**, **[[The Exodus/The Door Kickers/PCs/Ember]]**, **[[The Exodus/The Door Kickers/PCs/Augustus Kennedy]]**, **[[The Exodus/The Door Kickers/PCs/Lea]]** — Newest recruits, transported from Earth
+- **[[Jonathan Jordan]]**, **[[Gill Bates]]**, **[[Ember]]**, **[[Augustus Kennedy]]**, **[[Lea]]** — Newest recruits, transported from Earth
 
 ## Operations
 
@@ -49,6 +49,5 @@ Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[
 
 ## Session 19
 
-[[The Exodus/The Door Kickers/PCs/Shen]] and [[The Exodus/The Door Kickers/PCs/Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
-
+[[Shen]] and [[Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
 
