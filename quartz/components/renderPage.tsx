@@ -266,10 +266,18 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+  // @quartz-community/utils' getBasePath() reads this attribute to prefix
+  // client-generated hrefs (Explorer, Search, Graph, stacked-pages) when the
+  // site is deployed under a subpath — without it those components fall back
+  // to an empty base path and produce root-absolute links that 404 under a
+  // subpath deployment like this one (baseUrl: khelbenlaforge.github.io/rifted).
+  const basePath = cfg.baseUrl
+    ? new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "")
+    : ""
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body data-slug={slug} data-basepath={basePath}>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
