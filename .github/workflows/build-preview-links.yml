@@ -1,0 +1,54 @@
+name: Build Preview (crawl-links fix, temporary)
+
+on:
+  push:
+    branches:
+      - fix/crawl-links-case-sensitivity
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "build-preview-links"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Cache dependencies
+        uses: actions/cache@v6
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Cache Quartz plugins
+        uses: actions/cache@v6
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-quartz-plugins-${{ hashFiles('quartz.lock.json') }}
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore Quartz plugins
+        run: npx quartz plugin restore
+
+      - name: Build Quartz
+        run: npx quartz build
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: quartz-links-preview
+          path: public
+          retention-days: 3
