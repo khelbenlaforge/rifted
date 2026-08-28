@@ -73,12 +73,6 @@
       "commit": "88903bf8ca884c3e66b993b2ccb455824eae7ef1",
       "installedAt": "2026-08-27T16:01:15.616Z"
     },
-    "crawl-links": {
-      "source": "github:quartz-community/crawl-links",
-      "resolved": "https://github.com/quartz-community/crawl-links.git",
-      "commit": "2673605b9d47a84cc1b0a4a119fe6dfd116b7762",
-      "installedAt": "2026-08-27T16:00:59.064Z"
-    },
     "created-modified-date": {
       "source": "github:quartz-community/created-modified-date",
       "resolved": "https://github.com/quartz-community/created-modified-date.git",
@@ -186,6 +180,12 @@
       "resolved": "https://github.com/khelbenlaforge/quartz-changelog.git",
       "commit": "a185e1ca366d2e1959c961caf5776d07505517c1",
       "installedAt": "2026-08-27T17:54:47.285Z"
+    },
+    "quartz-crawl-links": {
+      "source": "github:khelbenlaforge/quartz-crawl-links",
+      "resolved": "https://github.com/khelbenlaforge/quartz-crawl-links.git",
+      "commit": "76170febb1f6d07a90460dcb254bba7582a9fe8b",
+      "installedAt": "2026-08-28T05:48:55.984Z"
     },
     "quartz-five-e-tools": {
       "source": "github:khelbenlaforge/quartz-five-e-tools",

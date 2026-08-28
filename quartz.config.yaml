@@ -92,11 +92,6 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
-  - source: github:quartz-community/crawl-links
-    enabled: true
-    options:
-      markdownLinkResolution: shortest
-    order: 60
   - source: github:quartz-community/description
     enabled: true
     order: 70
@@ -287,6 +282,16 @@ plugins:
       position: right
       priority: 10
       display: all
+  - source: github:khelbenlaforge/quartz-crawl-links
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+      prettyLinks: true
+      openLinksInNewTab: false
+      lazyLoad: false
+      externalLinkIcon: true
+      disableBrokenWikilinks: false
+    order: 60
 layout:
   groups:
     toolbar:
@@ -304,12 +309,6 @@ layout:
       exclude:
         - reader-mode
         - tag-list
-        # These three's exclude names must match what extractPluginName() derives from the
-        # source URL (the repo name's last path segment: github:khelbenlaforge/quartz-X ->
-        # "quartz-X"), NOT the plugin's own internal quartz.name manifest field ("five-e-tools"
-        # etc) — confirmed via config-loader.ts's extractPluginName(). Using the manifest name
-        # here silently matched nothing, so these three leaked onto folder/tag/changelog pages
-        # (a real v4-behavior regression) undetected since Stage 4/6 until a full recheck caught it.
         - quartz-player-note
         - quartz-session-notes
         - quartz-five-e-tools
@@ -319,12 +318,6 @@ layout:
       exclude:
         - reader-mode
         - tag-list
-        # These three's exclude names must match what extractPluginName() derives from the
-        # source URL (the repo name's last path segment: github:khelbenlaforge/quartz-X ->
-        # "quartz-X"), NOT the plugin's own internal quartz.name manifest field ("five-e-tools"
-        # etc) — confirmed via config-loader.ts's extractPluginName(). Using the manifest name
-        # here silently matched nothing, so these three leaked onto folder/tag/changelog pages
-        # (a real v4-behavior regression) undetected since Stage 4/6 until a full recheck caught it.
         - quartz-player-note
         - quartz-session-notes
         - quartz-five-e-tools
@@ -334,12 +327,6 @@ layout:
       exclude:
         - reader-mode
         - tag-list
-        # These three's exclude names must match what extractPluginName() derives from the
-        # source URL (the repo name's last path segment: github:khelbenlaforge/quartz-X ->
-        # "quartz-X"), NOT the plugin's own internal quartz.name manifest field ("five-e-tools"
-        # etc) — confirmed via config-loader.ts's extractPluginName(). Using the manifest name
-        # here silently matched nothing, so these three leaked onto folder/tag/changelog pages
-        # (a real v4-behavior regression) undetected since Stage 4/6 until a full recheck caught it.
         - quartz-player-note
         - quartz-session-notes
         - quartz-five-e-tools
