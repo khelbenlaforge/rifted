@@ -10,6 +10,7 @@ import { StaticResources } from "../../util/resources"
 import { render } from "preact-render-to-string"
 import { fromHtml } from "hast-util-from-html"
 import { Root as HtmlRoot } from "hast"
+import { clone } from "../../util/clone"
 
 function getPageTypes(ctx: BuildCtx): QuartzPageTypePluginInstance[] {
   return (ctx.cfg.plugins.pageTypes ?? []) as unknown as QuartzPageTypePluginInstance[]
@@ -170,6 +171,22 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
       // for transclude resolution in renderPage (e.g. ![[file.canvas]], ![[file.base]])
       const virtualEntries: Array<{
         tree: ProcessedContent[0]
+        // Pristine (pre-populateVirtualPageHtmlAst) clone of `tree`, used for this virtual
+        // page's OWN render in Phase 3 below. populateVirtualPageHtmlAst() mutates `tree`
+        // in place (`ve.tree.children = htmlAst.children`) so OTHER consumers reading
+        // `ctx.virtualPages`/`content` (ContentIndex search snippets, transclusion) see
+        // real rendered content instead of an empty placeholder tree. But page types that
+        // generate content beyond just the tree (FolderPage's listing, TagPage's listing,
+        // any future page type with the same shape) would then render TWICE if their own
+        // Phase-3 emitPage() call also received that now-non-empty mutated tree: once via
+        // their own `hastRoot.children.length === 0 ? description : htmlToJsx(hastRoot)`
+        // fallback picking up the baked-in HTML, and once via their normal listing-generation
+        // logic running fresh on top of it — confirmed live (2026-08-28): every folder page
+        // rendered its whole `<article>`+`.page-listing` block twice. Using the untouched
+        // clone here for the page's own render, while still letting the mutated `tree` reach
+        // ContentIndex/transclusion via `vfile.data.htmlAst` and `ctx.virtualPages`, fixes the
+        // duplication without touching what those other consumers depend on.
+        originalTree: ProcessedContent[0]
         vfile: ProcessedContent[1]
         layout: FullPageLayout
         vpSlug: FullSlug
@@ -190,7 +207,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
           if (vpSlug !== "404") {
             ctx.virtualPages.push([tree, vfile])
           }
-          virtualEntries.push({ tree, vfile, layout, vpSlug })
+          virtualEntries.push({ tree, originalTree: clone(tree), vfile, layout, vpSlug })
         }
       }
 
@@ -227,7 +244,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         yield emitPage(
           ctx,
           ve.vpSlug,
-          ve.tree,
+          ve.originalTree,
           ve.vfile.data,
           allFilesWithVirtual,
           ve.layout,
@@ -260,6 +277,22 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
       // Phase 1: Generate all virtual pages first so their data is available in allFiles
       const virtualEntries: Array<{
         tree: ProcessedContent[0]
+        // Pristine (pre-populateVirtualPageHtmlAst) clone of `tree`, used for this virtual
+        // page's OWN render in Phase 3 below. populateVirtualPageHtmlAst() mutates `tree`
+        // in place (`ve.tree.children = htmlAst.children`) so OTHER consumers reading
+        // `ctx.virtualPages`/`content` (ContentIndex search snippets, transclusion) see
+        // real rendered content instead of an empty placeholder tree. But page types that
+        // generate content beyond just the tree (FolderPage's listing, TagPage's listing,
+        // any future page type with the same shape) would then render TWICE if their own
+        // Phase-3 emitPage() call also received that now-non-empty mutated tree: once via
+        // their own `hastRoot.children.length === 0 ? description : htmlToJsx(hastRoot)`
+        // fallback picking up the baked-in HTML, and once via their normal listing-generation
+        // logic running fresh on top of it — confirmed live (2026-08-28): every folder page
+        // rendered its whole `<article>`+`.page-listing` block twice. Using the untouched
+        // clone here for the page's own render, while still letting the mutated `tree` reach
+        // ContentIndex/transclusion via `vfile.data.htmlAst` and `ctx.virtualPages`, fixes the
+        // duplication without touching what those other consumers depend on.
+        originalTree: ProcessedContent[0]
         vfile: ProcessedContent[1]
         layout: FullPageLayout
         vpSlug: FullSlug
@@ -280,7 +313,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
           if (vpSlug !== "404") {
             ctx.virtualPages.push([tree, vfile])
           }
-          virtualEntries.push({ tree, vfile, layout, vpSlug })
+          virtualEntries.push({ tree, originalTree: clone(tree), vfile, layout, vpSlug })
         }
       }
 
@@ -319,7 +352,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         yield emitPage(
           ctx,
           ve.vpSlug,
-          ve.tree,
+          ve.originalTree,
           ve.vfile.data,
           allFilesWithVirtual,
           ve.layout,
