@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-30
 secret: false
 state: alive
-updated: 2026-08-30T15:37:38
+updated: 2026-08-30T18:57:53
 created: 2026-08-30T13:46:46
 ---
 
@@ -168,5 +168,6 @@ PassivePerception:: 12
 PassiveInsight:: 10
 PassiveInvestigation:: 10
 PassiveStealth:: 16
+Playbook:: [[Finnick - Playbook]]
 
 

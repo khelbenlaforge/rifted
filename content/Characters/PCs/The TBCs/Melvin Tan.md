@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-29
 secret: false
 state: alive
-updated: 2026-08-30T16:42:48
+updated: 2026-08-30T18:44:54
 created: 2026-08-29T20:43:25
 ---
 
@@ -155,5 +155,6 @@ PassivePerception:: 10
 PassiveInsight:: 10
 PassiveInvestigation:: 10
 PassiveStealth:: 15
+Playbook:: [[Melvin Tan - Playbook]]
 
 

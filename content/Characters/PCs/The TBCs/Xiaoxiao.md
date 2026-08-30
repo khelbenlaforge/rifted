@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-29
 secret: false
 state: alive
-updated: 2026-08-30T17:32:33
+updated: 2026-08-30T18:42:51
 created: 2026-08-29T16:13:56
 ---
 
@@ -182,5 +182,6 @@ PassivePerception:: 13
 PassiveInsight:: 15
 PassiveInvestigation:: 9
 PassiveStealth:: 13
+Playbook:: [[Xiaoxiao - Playbook]]
 
 

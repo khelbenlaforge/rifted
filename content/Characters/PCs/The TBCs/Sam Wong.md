@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-29
 secret: false
 state: alive
-updated: 2026-08-30T16:42:50
+updated: 2026-08-30T18:55:50
 created: 2026-08-29T21:42:57
 ---
 
@@ -182,5 +182,6 @@ PassivePerception:: 11
 PassiveInsight:: 9
 PassiveInvestigation:: 12
 PassiveStealth:: 11
+Playbook:: [[Sam Wong - Playbook]]
 
 
