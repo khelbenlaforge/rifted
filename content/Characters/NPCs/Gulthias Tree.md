@@ -8,7 +8,7 @@ tags:
 - npc
 campaign: Rifted
 secret: false
-updated: 2026-08-05T17:57:33
+updated: 2026-09-04T14:42:04
 created: 2026-08-05T16:24:05
 ---
 

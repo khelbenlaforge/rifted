@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-16
 secret: false
 state: dead
-updated: 2026-08-27T16:55:43
+updated: 2026-09-04T15:43:27
 ---
 > [!infobox]
 > # Mother Ilyra Duskveil
@@ -28,10 +28,10 @@ What Ilyra was before she took the shrine off Cistern Street never surfaced — 
 
 ## Role in the Story
 
-Session 27: the officiating cleric of the Rising of the Dark, holding the kidnapped Gravelord bound at her altar in the hidden shrine off Cistern Street, working to complete the sacrifice before midnight. Recruited [[Ser Tamsin Rook]]'s cooperation using his dead sister's stranded soul — one thread among what was likely several similar arrangements citywide, given how organized the night's operation was. Killed by Lea's Tasha's Mind Whip before the ritual completed. Her body was then absorbed by an unnamed fiend that arrived in the instant of her death — whether that thing was already watching her, or something she'd unknowingly served all along, is unconfirmed.
+Session 27: the officiating cleric of the Rising of the Dark, holding the kidnapped Gravelord bound at her altar in the hidden shrine off Cistern Street, working to complete the sacrifice before midnight. Recruited [[Ser Tamsin Rook]]'s cooperation a week earlier, approaching him in the Citrine District as a pale, hooded elf using his dead sister's stranded soul — one thread among what was likely several similar arrangements citywide, given how organized the night's operation was. Killed by Lea's Tasha's Mind Whip before the ritual completed. Her body was then absorbed by an unnamed fiend that arrived in the instant of her death — whether that thing was already watching her, or something she'd unknowingly served all along, is unconfirmed.
 
 ---
-Race:: Unconfirmed
+Race:: Elf
 Pronouns:: She/her
 Location:: [[Shrine of Shar]], [[Diamond District]], [[Crystal City]]
 Affiliation:: Shar

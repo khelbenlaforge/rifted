@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T15:50:49
 ---
 
 # Mystra
@@ -80,7 +80,7 @@ The death of a god destabilizes magic — Mystra's death doubled chaos magic rol
 - **[[Azuth]]** — Formerly among the most powerful mages alive, now her devoted adviser on magic's advancement and preservation — amorous, by some accounts. Named alongside her and [[Savras]] in the same temple complex in Session 26.
 - **[[Kelemvor]]** — A complicated history. [[Lea]] sensed love, betrayal, and unhealed wounds between Mystra's echo and the god of death's walled isolation during the Sealed Door trial.
 - **[[Gond]]** — Depicted opposite Mystra in the Sanctum statuary, his hammer shaping what her hands protect.
-- **[[Lea]]** — The PC most strongly aligned with Mystra's domain. Corran addressed Lea as "my Lady" in a vision — a title with possible Mystran significance.
+- **[[Lea]]** — The PC most strongly aligned with Mystra's domain. During Lea's vision, Corran addressed [[Midnight]] — whose body Lea inhabited — as "my Lady," not Lea herself; a title with possible Mystran significance, unexplained.
 - **[[Bane]]** — Mystra remembered her own death. *"You killed me once. I thought you should know — I remember."* She bound him and pulled him through the Celestial Stairway, smiling.
 - **[[Storm Silverhand]]** — One of the Seven Sisters, all daughters of Mystra by mortal men. Storm carries silver fire.
 - **[[Elminster]]** — Chosen of Mystra; fragment carrier. Was working to seal the Stairway when he fell.

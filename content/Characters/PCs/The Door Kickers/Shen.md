@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:58:31
 ---
 
 # Shen
@@ -190,6 +190,11 @@ PassivePerception:: 14
 PassiveInsight:: 13
 PassiveInvestigation:: 16
 PassiveStealth:: 10
+
+## Session 19
+
+- At [[Elmindaria L'Thorian|Daria]]'s request, [[Erkaniel Timbers|Erky]] cast Banishment on Shen's patron when the subject came up — the spell produced a brief blue light, then nothing. The patron remained, untouched.
+- Daria, quietly, after: *"Not supposed to exist in this universe."* Then stopped saying things.
 
 ## Session 22
 

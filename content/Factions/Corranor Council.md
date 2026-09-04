@@ -1,13 +1,13 @@
 ---
 title: Corranor Council
-aliases:
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-09-04T18:57:50
 ---
 
 # Corranor Council
@@ -30,8 +30,19 @@ The ruling body of the [[Magocracy of Corranor]], comprising seven archmages who
 
 ## Leadership & Members
 
-- **[[Garm]]** — Orc wizard, 18th level; the most prominently active member, specializing in dimensional magic
-- Six other archmages (names not yet established)
+All seven hold the title **Keeper**, each answering for one portfolio of the realm.
+
+- **[[Garm]]** — *Keeper of the Jade Spire.* Orc wizard, 18th level; the most prominently active member, specializing in dimensional magic. The presiding seat: the Spire's own house and research staff, petitions, the guilds, and the city's people
+- **Oriel Blackstaff** — *Keeper of the Writ.* Law and judgment. Head of House Blackstaff
+- **Ysolde** — *Keeper of the Works.* The realm's arcane infrastructure: glyph networks, civic workings, airship engines, and the teleportation circles
+- **Doran** — *Keeper of the Bulwark.* Dwarf abjurer. City defence and the wards; decides what they are pointed at
+- **Merrit** — *Keeper of the Sky Roads.* Established routes, trade, cargo and supply, including the eastern lanes
+- **Wystan** — *Keeper of the Archive.* Knowledge and antiquities, with oversight of the autonomous [[Ether Scryer's Academy]]
+- **Nerise** — *Keeper of Exploration.* Everything not yet on a map. Rarely in Crystal City
+
+**Renunciation:** a member sets aside their affiliations on investiture and may not speak for or involve themselves in the business of a house, order or guild they came from. Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour that — which is why the family head was absent from the Session 23 mansion meeting. The city still calls it the Blackstaff seat regardless: the rule is real in law and a fiction socially, and [[Soral Vayne]] described it to [[Lea]] in Session 19 as a mark of the family's prestige.
+
+*(The five non-Garm names above were established during Session 28 prep and do not yet have their own notes. Portfolio boundaries: Ysolde builds and maintains the wards, Doran commands them; Ysolde makes airship engines run, Merrit decides where ships go; Garm oversees the Spire's in-house research, Wystan oversees the Academy.)*
 
 ## Operations
 

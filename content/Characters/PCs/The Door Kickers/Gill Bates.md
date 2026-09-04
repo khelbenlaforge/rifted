@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:28:01
 ---
 
 # Gill Bates
@@ -200,7 +200,7 @@ Session 21 downtime:
 3. Storm: chaos in water
 4. Eternal Transformation
 - To begin the Sacred Sea path: spend 2 downtime tracks next session in meditation; may be bumped if he rolls well
-- Mentor note: elemental gods work closely with gods of justice; the [[Kelemvor Lyonsbane|Kelemvor]] and [[The Gravelords|Gravelords]] relationship is worth maintaining
+- Mentor note: the [[Temple of Kelemvor|Church of Kelemvor]]/[[The Gravelords|Gravelords]] relationship matters for information and networking, not any elemental-god connection — worth maintaining
 
 PvP test:
 - Cast *Magic Missile*

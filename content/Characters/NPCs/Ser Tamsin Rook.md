@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-16
 secret: false
 state: alive
-updated: 2026-08-27T16:55:39
+updated: 2026-09-04T15:43:19
 ---
 > [!infobox]
 > # Ser Tamsin Rook
@@ -26,7 +26,7 @@ Five years without incident takes a particular kind of discipline — the boring
 
 Five years ago, Rook's sister died — the specifics never surfaced in play, only that something about how the temple processed her soul went wrong. He never pursued it; the Knights of the Eternal Order exist to make sure the dead go where they belong, and believing his own order had failed his own sister wasn't a thought he let himself finish. He kept serving. He kept believing in the gates, mostly, and in the specific comfort of a job that made him useful to something larger than his own unfinished mourning.
 
-A week before Session 27, a pale, hooded elf approached him in the Citrine District while he was handing out temple notices — ordinary work, no reason to be wary. She knew about his sister. She showed him proof enough that her soul was still wandering the Material Plane, never delivered, never at rest, and offered to set right what the temple broke. All she needed, eventually, was a night when he looked the other way.
+A week before Session 27, a pale, hooded elf — [[Mother Ilyra Duskveil]] herself — approached him in the Citrine District while he was handing out temple notices — ordinary work, no reason to be wary. She knew about his sister. She showed him proof enough that her soul was still wandering the Material Plane, never delivered, never at rest, and offered to set right what the temple broke. All she needed, eventually, was a night when he looked the other way.
 
 ## Role in the Story
 

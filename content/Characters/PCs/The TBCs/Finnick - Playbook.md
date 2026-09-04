@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:57:19
-updated: 2026-08-30T18:57:51
+updated: 2026-08-30T19:22:50
 ---
 
 # Finnick - Playbook
@@ -21,7 +21,7 @@ updated: 2026-08-30T18:57:51
 - Finnick or an ally about to fail (or just failed) a big attack/check/save → Reaction **Silvery Barbs** — reroll it, then grant another creature advantage on their own next roll; costs a spell slot
 - Frightened save incoming → **Brave** gives advantage automatically
 - Rolled a natural 1 on a d20 test → **Luck** forces a reroll automatically (must use the new result) — a passive safety net, separate from Tides of Chaos below
-- One roll this turn absolutely has to land → **Tides of Chaos**: banked advantage on one d20 Test, free to use, no action required — but spending it means the *next* slotted Sorcerer spell he casts (or a Long Rest) resets it, and that resetting cast automatically triggers a Wild Magic Surge (see Comparative Notes)
+- One roll this turn absolutely has to land → **Tides of Chaos**: banked advantage on one d20 Test, free to use, no action required — but spending it means the *next* slotted Sorcerer spell he casts (or a Long Rest) resets it, and that resetting cast automatically and unavoidably triggers a Wild Magic Surge — different from the ordinary optional d20 check after any slotted-spell cast (roll only on a natural 20, and skipping it costs nothing)
 
 **Action:**
 - Reliable single-target damage, no resource cost → **Fire Bolt** (R +6, 120 ft, 1d10 fire)
@@ -52,7 +52,6 @@ updated: 2026-08-30T18:57:51
 **Comparative Notes:**
 - *Tides of Chaos vs. Innate Sorcery, both about getting an edge:* Tides of Chaos costs no action at all — it's a standing benefit, already banked, that applies to any one roll for free — but spending it locks in a guaranteed Wild Magic Surge the next time he casts a slotted spell (or it resets on a Long Rest, unused). Innate Sorcery costs a Bonus Action and one of only 2 uses/Long Rest, but boosts every spell attack and the save DC for a full minute rather than a single roll. Reach for Tides of Chaos on one specific make-or-break roll; reach for Innate Sorcery when the whole turn (or several turns) will be spell-heavy.
 - *Quickened Spell vs. Subtle Spell for the 2 Sorcery Points:* Quickened Spell spends the entire pool on one cast, buying back the Action that turn. Subtle Spell costs only 1 point per use — twice from the same pool, or once with a point spare — but doesn't change the spell's action cost, only whether anyone can tell he's casting. He can't do a full Quickened cast and a Subtle cast in the same Long Rest; decide which the moment actually needs before spending either.
-- *Wild Magic Surge, passive vs. forced:* after any slotted spell, he can optionally roll a d20 — only a natural 20 triggers a random surge-table effect, and skipping the roll costs nothing. The surge Tides of Chaos forces on its reset cast isn't optional — it happens automatically, whatever the table gives him.
 - *Fire Bolt vs. Chaos Bolt:* Fire Bolt is free, at-will, reliable 1d10 fire. Chaos Bolt spends a spell slot for a bigger, unpredictable 2d8+1d6 of a random type with a chance to leap to a second target on a matching roll — worth it when the fight can use the bigger number or the possible extra hit, less so against a target that might resist whatever type comes up.
 
 ## Non-Combat & Creative Uses
@@ -67,7 +66,7 @@ updated: 2026-08-30T18:57:51
 - Need a small distraction — a sound from the wrong room, a flicker that isn't real → **Minor Illusion** (30 ft; RAW: an Investigation check reveals it as illusory)
 - Need to manipulate an object at range — a lever, a latch, a small item out of reach → **Mage Hand** (30 ft, 10 lb.)
 - Force open a locked chest, door, or grate the mundane way → **Crowbar**
-- *Possible DM-adjudicated stretch, not RAW* — pairing Subtle Spell with Friends or Suggestion so nobody nearby notices him casting anything at all, not just that the spell's effect went unnoticed → **Subtle Spell** *(RAW printed effect: removes Verbal/Somatic/non-costly-non-consumed-Material components, 1 Sorcery Point)*
+- Need to cast Friends or Suggestion without anyone nearby noticing he's casting at all, not just that the effect goes unnoticed → **Subtle Spell** *(RAW: removes Verbal/Somatic/non-costly-non-consumed-Material components, 1 Sorcery Point)*
 
 Playbook link added to [[Finnick]]'s inline-field block.
 

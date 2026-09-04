@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: escaped
 created: 2026-03-16T15:52
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:45:30
 ---
 
 # Belak
@@ -23,7 +23,7 @@ updated: 2026-08-28T14:52:43
 > | Race | Human |
 > | Class | Druid |
 > | Location | Unknown |
-> | Affiliation | Unknown |
+> | Affiliation | Formerly [[Ancients of Lava]] |
 > | Deity | Unknown |
 
 Race:: Human
@@ -31,7 +31,7 @@ Subrace::
 Pronouns:: he/him
 Class:: Druid
 Location:: Unknown
-Affiliation::
+Affiliation:: Formerly [[Ancients of Lava]]
 Deity::
 
 ## Appearance
@@ -47,6 +47,8 @@ He does not seem to need allies. The [[Durbuluk Goblins]] have an exclusive arra
 ## Background
 
 Belak is the unseen hand behind the [[Goblin Fruit]]. He occupies the Grove Level of the [[Sunless Citadel]] and supplies the [[Durbuluk Goblins]] with the fruit on an exclusive basis — an arrangement [[Yusdrayl]] of the [[Ordahir Kobolds]] deeply envies and has been unable to replicate.
+
+Belak was formerly one of the [[Ancients of Lava]]'s best, before disappearing forty years ago (Session 19) — confirmed independently by Elder [[Jess]] of the Ancients' own circle and by [[Sylvara Oakwhisper]] at the Temple of [[Mielikki]], both via [[Ember]]'s inquiries.
 
 The fruit carries a dual magical signature — **necromantic and divine/draconic** — that has nothing to do with ordinary druidcraft. Whatever Belak is cultivating, it is not wild. It answers to something specific.
 

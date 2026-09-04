@@ -94,7 +94,7 @@ She was redirecting a private art collection to a family of displaced farmers wh
 
 **Skills:** Acrobatics +8 (expertise) · Animal Handling +2 · Arcana +2 · Athletics +1 (prof) · Deception +3 · History +2 · Insight +2 · Intimidation +7 (expertise) · Investigation +2 · Medicine +2 · Nature +2 · Perception +2 · Performance +5 (prof) · Persuasion +5 (prof) · Religion +2 · Sleight of Hand +6 (prof) · Stealth +4 · Survival +4 (prof)
 **Languages:** Common · Elvish · Thieves' Cant
-**Tools:** Thieves' Tools · Musical Instrument (Entertainer background — not yet selected on sheet: drum, flute, or viol; pending)
+**Tools:** Thieves' Tools · Drum · Flute · Viol *(Entertainer background — all three granted by DM ruling, 2026-09-04, rather than the usual single pick)*
 
 ---
 
@@ -220,6 +220,7 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+Playbook:: [[Sadiah Ispahani - Playbook]]
 PassivePerception:: 12
 PassiveInsight:: 12
 PassiveInvestigation:: 12

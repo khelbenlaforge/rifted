@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:14:21
 ---
 
 # Jonathan Jordan
@@ -25,7 +25,7 @@ updated: 2026-08-28T14:52:43
 > | **Class** | Rogue (Soulknife) |
 > | **Background** | Urchin |
 > | **Player** | Jonathan |
-> | **Affiliation** | [[Adamantine Guild]] |
+> | **Affiliation** | [[Adamantine Guild]] · [[The Claret]] (first rung, under [[Tavia Orn]]) |
 
 ## Description
 Jonathan Jordan -- known universally as JJ -- is a lanky human, nimble, with hands calloused from years of scraping by. Practical and sharp-eyed, he dresses for function over form, carrying himself with a rugged frontiersman's ease. His dagger is never far from his fingers. Among the five who crossed from Earth, JJ was the most hesitant to commit -- and the last to prove he belonged.
@@ -70,6 +70,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - **[[Illistyl Elventree]]** -- Knight of Myth Drannor; found Torm on the battlefield and kissed him on the cheek before launching him into the fray. Said "You're alive" the way you say something you've been carrying
 - **[[Elminster]]** -- The Sage of Shadowdale, who saw through Torm immediately and was not surprised by any of it. Held [[Bane]] in the Temple of Lathander until [[Midnight]] could finish the job
 - **[[Michael C Jordan]]** — His rat from Earth. Followed him through the rift. Wears a tiny rogue outfit. Obeys orders. Somehow this is fine.
+- **[[Tavia Orn]]** — Claret contact turned direct superior; formally inducted JJ into the Claret's first rung, reporting to her, after Corvin Adder confirmed it in person (Session 25)
 
 ## Character Sheet
 
@@ -170,7 +171,7 @@ Subrace::
 Class:: Rogue (Soulknife)
 Player:: Jonathan
 Pronouns:: he/him
-Affiliation:: [[Adamantine Guild]]
+Affiliation:: [[Adamantine Guild]], [[The Claret]]
 Location:: [[Crystal City]]
 Deity::
 PassivePerception:: 19

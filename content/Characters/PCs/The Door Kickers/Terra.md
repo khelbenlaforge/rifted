@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T15:41:25
 ---
 
 # Terra
@@ -96,7 +96,7 @@ She was in a shelter in California when the light took her.
 
 **Resistances & Vulnerabilities:** Necrotic (resistance) · Radiant (resistance)
 
-**Skills:** Acrobatics +3 · Animal Handling +5 · Arcana +1 · Athletics +5 (prof) · Deception +6 · History +1 · Insight +8 (prof) · Intimidation +6 · Investigation +1 · Medicine +5 · Nature +1 · **Perception +11** *(expertise)* · Performance +6 · Persuasion +6 · Religion +4 (prof) · Sleight of Hand +3 · Stealth +6 (prof) · Survival +5
+**Skills:** Acrobatics +3 · Animal Handling +5 · Arcana +1 · Athletics +5 (prof) · Deception +6 · History +1 · Insight +8 (prof) · Intimidation +6 · Investigation +1 · Medicine +5 · Nature +1 · **Perception +11** *(expertise)* · **Performance +9** *(prof)* · Persuasion +6 · Religion +4 (prof) · Sleight of Hand +3 · Stealth +6 (prof) · Survival +5
 **Languages:** Common · Celestial
 **Tools:** Calligrapher's Supplies
 
@@ -111,22 +111,21 @@ She was in a shelter in California when the light took her.
 | **Shortsword** | M +6 | 5 ft. | 1d6+3 pierce | — | — | — |
 | **Longbow** *(Slow)* | R +8 | 150/600 ft. | 1d8+3 pierce; target -10 ft. speed | — | — | — |
 | **Charm Person** | WIS 16 | 30 ft. | Humanoid charmed 1 hr; ends if harmed | 1st | V, S | — |
-| **Entangle** | STR 16 | 90 ft. | 20-ft square; Restrained, repeat save; 1 min | 1st | V, S | Conc. |
-| **Goodberry** | — | Touch | Create 10 berries; 1 HP each, 1 day food | 1st | V, S, M (mistletoe) | — |
-| **Gust of Wind** | STR 16 | Self (60-ft line) | Push 15 ft.; line is difficult terrain; 1 min | 2nd | V, S, M (seed) | Conc. |
-| **Alarm** | — | 30 ft. | Ward door/window/20-ft cube; 8 hr alarm | 1st | V, S, M (bell & wire) | Ritual |
+| **Spike Growth** | — | 150 ft. | 20-ft radius sphere becomes difficult terrain; 2d4 pierce per 5 ft moved through; camouflaged (Search + WIS Perception/Survival vs DC 16 to spot before entering) | 2nd | V, S, M | Conc. |
 | **Healing Hands** | — | Touch | Restore 3 HP | — | — | 1/LR |
 | **First Signal** ([[Hollowstone]]) | — | Self | Hold stone and ask one question; The Unbound (or something wearing his pattern) answers once — always knows more than it says | — | — | 1/day |
 | **Light** | — | Touch | Object sheds 20/20 light; 1 hr | Cantrip | V, M (firefly or moss) | — |
+
+*Entangle, Goodberry, Gust of Wind, Alarm and Zephyr Strike were on the previous sheet but Foundry shows none of them prepared — removed rather than kept as unavailable filler. Spike Growth and Ensnaring Strike added; both were prepared in Foundry but missing here (corrected 2026-09-04).*
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Hail of Thorns** | DEX 16 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
+| **Ensnaring Strike** | STR 16 | Self | After a weapon hit: Restrained (Large or larger has adv. on the save); 1d6 pierce at start of each of its turns; action + Athletics vs DC 16 to end | 1st | V | Conc. |
 | **Hunter's Mark** | — | 90 ft. | +1d6 force per hit; adv. to track/find; 1 hr | 1st | V | Conc. |
 | **Misty Step** | — | Self | Teleport up to 30 ft. | 2nd | V | — |
-| **Zephyr Strike** | — | Self | No OA; next atk has adv. +1d8 force; 1 min | 1st | V | Conc. |
 | **Celestial Revelation** | CHA 12 | Self | 1 min transform; Wings, Radiance, or Shroud | — | — | 1/LR |
 | **Threshold** ([[Hollowstone]]) | — | Self | Teleport up to 15 ft. to an unoccupied space Terra can see (no obstacle pass-through) | — | — | 1/LR |
 
@@ -142,7 +141,7 @@ She was in a shelter in California when the light took her.
 
 - **Extra Attack** — Make two attacks when you take the Attack action.
 - **Dreadful Strikes** — Once per turn, a weapon hit deals an extra 1d4 psychic damage.
-- **Otherworldly Glamour** — Adds Wisdom modifier (min +1) to *any* Charisma check, not just Deception/Intimidation/Persuasion as previously noted (confirmed via XPHB text) — this is why Performance also carries the bonus. Also grants proficiency in one of Deception, Performance, or Persuasion (choice); Foundry doesn't show any of the three as proficient yet, so that pick may still be open.
+- **Otherworldly Glamour** — Adds Wisdom modifier (min +1) to *any* Charisma check, not just Deception/Intimidation/Persuasion as previously noted (confirmed via XPHB text) — this is why Performance also carries the bonus. Also grants proficiency in one of Deception, Performance, or Persuasion — **Performance chosen** (DM ruling, 2026-09-04), which is why it sits at +9 while Deception and Persuasion stay at +6.
 - **Fey Wanderer Spells** — *Charm Person* and *Misty Step* are always prepared.
 - **Favored Enemy** — Advantage on Survival checks to track creatures and Intelligence checks to recall them.
 - **Deft Explorer** — Expertise in Perception; one additional language.
@@ -172,7 +171,7 @@ She was in a shelter in California when the light took her.
 
 #### Ritual Spells
 
-- *Alarm* (XPHB, 1st) — 1 min cast — Ward a door, window, or 20-ft cube for 8 hours.
+None. Alarm was previously listed here but is not prepared; Rangers also lack the Ritual Casting feature, so it could not be cast as a ritual regardless.
 
 ---
 
@@ -221,7 +220,8 @@ She was in a shelter in California when the light took her.
 
 ## Session 26
 
-- Learned (per the DM's direct account, not Lea's original notes) that her Cold Open celestial companion chose to merge with a massive being under attack, giving up its continuity/soul to empower it; the companion's body was left dead in the vision.
+- Cold Open: a flashback vision to the Time of Troubles, experienced as a follower of Sehanine (unspoken in play).
+- Another follower of Sehanine gave up its own soul to empower her in the fight against Lolth and her followers (both unspoken in play); a familiar presence was sensed on Lolth's side. Terra chose not to give up her own soul, and watched it happen.
 - Danced Sehanine's Feast rite unknowingly alongside worshipers who knew the same steps; her wings glowed silver.
 - [[Hollowstone]], worn as her pendant, grew hotter through the rite — melted its cord twice, fell, and reappeared around her neck both times; once it said, "This is not the never after I was speaking of."
 - Remained at [[Sehanine Moonbow|Sehanine]]'s shrine when initiative rolled, separated from the rest of the party.
@@ -236,6 +236,7 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+Playbook:: [[Terra - Playbook]]
 PassivePerception:: 21
 PassiveInsight:: 18
 PassiveInvestigation:: 11

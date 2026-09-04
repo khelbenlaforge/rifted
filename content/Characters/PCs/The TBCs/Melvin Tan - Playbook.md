@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:44:21
-updated: 2026-08-30T18:44:51
+updated: 2026-08-30T19:22:15
 ---
 
 # Melvin Tan - Playbook
@@ -43,7 +43,7 @@ updated: 2026-08-30T18:44:51
 **Movement:**
 - Long-Limbed gives 5 ft. extra melee reach (already folded into the 10 ft. ranges above) — Melvin doesn't need to close as tight as most melee to stay in range.
 
-*Footnote: no armor worn — AC 16 comes from Unarmored Defense (10 + DEX mod + CON mod), not a suit that needs managing.*
+*Footnote: no armor worn — AC 16 comes from Unarmored Defense (10 + DEX mod + CON mod), not a suit that needs managing. Melvin's Creature Type is Humanoid, but he's also considered a goblinoid for prerequisites and effects — relevant if an item, spell, or hazard specifically keys off goblinoid.*
 
 **Comparative Notes:**
 - *Greataxe (Cleave) vs. Handaxe (Vex):* Cleave adds a second, non-automatic attack roll against a nearby target (no STR bonus on that second hit) — strong when enemies are clustered. Vex doesn't hit harder itself, but guarantees advantage on the *next* attack against the same target — better when one target needs to go down and staying accurate matters more than spreading damage.
@@ -62,6 +62,7 @@ updated: 2026-08-30T18:44:51
 - Need underworld information or a message sent quietly across a long distance → **Criminal Contact** *(RAW: a reliable contact relays messages through local messengers, corrupt caravan masters, and seedy sailors)*
 - Need to pick a lock or disarm a mundane trap → **Thieves' Tools** proficiency
 - A scene calls for gambling, a con, or a distraction → **Playing Card Set** proficiency
+- While Raging, a Stealth, Perception, Survival, Intimidation, or Acrobatics check calls for muscle over finesse → **Primal Knowledge** *(RAW: proficiency in Animal Handling; while Raging, use STR in place of the normal ability for Acrobatics, Intimidation, Perception, Stealth, or Survival checks)*
 - *Possible DM-adjudicated stretch, not RAW* — letting Reckless Attack's drawback work in Melvin's favor, deliberately eating the incoming advantage to hold enemy attention while a stealthier ally slips past → not an automatic effect, just a tactic worth proposing to the table
 
 Playbook link added to [[Melvin Tan]]'s inline-field block.

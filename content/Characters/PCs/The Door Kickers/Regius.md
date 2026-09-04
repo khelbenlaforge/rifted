@@ -8,7 +8,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:51:27
 ---
 
 # Regius
@@ -158,6 +158,7 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+Playbook:: [[Regius - Playbook]]
 PassivePerception:: 13
 PassiveInsight:: 10
 PassiveInvestigation:: 9

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-08-27T18:57:13
+updated: 2026-09-04T15:26:49
 ---
 
 # Shadow Creatures

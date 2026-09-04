@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 date: 2026-06-25
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T16:11:54
 ---
 
 # Session 21 — Three More
@@ -73,7 +73,7 @@ By the end of the evening, it wasn't subtle anymore.
 
 [[Erwina Lesmana]] was a silhouette in direct light. The edges of her were going the way the test stone had gone — she had arrived the way it arrived, briefly, materially, and her soul carried no anchor in Aenath's architecture to hold her here. She was not in pain. She was not, as far as anyone could tell, afraid. She had spent an afternoon in a pocket arena swinging a keris and healing strangers she'd only just met, and she had been, in whatever way mattered, herself.
 
-Her keris — [[Nyala]] — stayed behind. It sat on the table in the torchlight and did not fade with her. Whatever that meant, it would wait for someone to decide.
+Her keris — Nyala — stayed behind. It sat on the table in the torchlight and did not fade with her. Whatever that meant, it would wait for someone to decide.
 
 ---
 

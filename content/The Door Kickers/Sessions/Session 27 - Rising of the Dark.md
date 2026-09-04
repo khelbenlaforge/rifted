@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-08-16
 secret: false
 created: 2026-08-16
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T16:12:36
 ---
 
 # Session 27 - Rising of the Dark
@@ -41,7 +41,7 @@ It was Terra who finally cracked Rook open, asking him plainly what he was most 
 
 The scattered fight wound down around him — Augustus's warhorse ran one fleeing cultist down, another dropped trying to run, and the man who looked like the Gravelord turned out to be a decoy, knocked cold by one punch. As the sun went down, Sehanine answered Terra once more: wings for a minute, and radiant force waiting in her next strike. Lea's Elminster's Inquiry placed the real Gravelord still in the Diamond District, and the party came back together at the temple.
 
-Under Augustus's questioning, the captured cultists gave up the shape of it. Selûne and Shar are sister goddesses, two faces of the same moon, and whenever Selûne nears full, Shar's faithful surge in secret — working, this time, to peel away some of Kelemvor's own duties over the dead. *Who says anyone, even a god, is allowed to judge the dead?* one of them said. *We should all return to shadow.* Rook added the last piece himself: a pale, hooded elf had approached him a week ago in the Citrine District, while he handed out notices, and shown him proof his sister's soul hadn't crossed over at all.
+Under Augustus's questioning, the captured cultists gave up the shape of it. Selûne and Shar are sister goddesses, two faces of the same moon, and whenever Selûne nears full, Shar's faithful surge in secret — working, this time, to circumvent Kelemvor's process and return souls to nothingness instead, Shar's own domain. *Who says anyone, even a god, is allowed to judge the dead?* one of them said. *We should all return to shadow.* Rook added the last piece himself: a pale, hooded elf had approached him a week ago in the Citrine District, while he handed out notices, and shown him proof his sister's soul hadn't crossed over at all.
 
 By night, the party followed the boulevard toward Cistern Street. A woman stood motionless at the mouth of an alley, unbothered by the Feast still going on around her, watching them arrive. Her voice didn't sound human. *Somehow, some people go through the barrier. Time for endings and chaotic beginnings.* She was gone before anyone reached her. The alley led to one unremarkable room — low ceiling, nothing anyone would look at twice, just a patch of wall painted flat black and utterly dark.
 
@@ -58,7 +58,7 @@ The Gravelord survived the night. Freed before the rite could finish what it sta
 - **Ser Tamsin Rook** — Knight of the Eternal Order, five years clean, compromised by grief: let Shar cultists past his post in exchange for a promise about his dead sister's stranded soul. Confessed to the party; what happens to him next within the Order is unresolved.
 - **Mother Ilyra Duskveil** — the Shar cleric running the Rising of the Dark sacrifice, killed by Lea's Tasha's Mind Whip.
 - **A new, unnamed fiend** — absorbed Ilyra's body and escaped; reads as a fallen celestial rather than a devil or demon. How it crossed the barrier is an open question, not an answer anyone has.
-- **The Shar cult** — a hidden shrine off Cistern Street, working to take away some of Kelemvor's duties over the dead whenever Selûne nears full. Shrine exposed, its leader dead; unknown how much of the cult remains.
+- **The Shar cult** — a hidden shrine off Cistern Street, working to circumvent Kelemvor's process and return souls to nothingness instead — Shar's own domain — whenever Selûne nears full. Shrine exposed, its leader dead; unknown how much of the cult remains.
 - **Hollis's steed has a name** — Holland, an undead horse summoned from the Shadowfell.
 - **The Gravelord survived** and the vigil held, though the temple came within a rite of failing its dead for the first time.
 

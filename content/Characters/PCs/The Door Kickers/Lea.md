@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T16:35:22
 ---
 
 # Lea
@@ -118,24 +118,18 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 | **Mage Hand** | — | 30 ft. | Spectral hand; carry 10 lb.; 1 min | Cantrip | V/S | — |
 | **Mending** | — | Touch | 1 min cast; mend one break or tear | Cantrip | V/S/M | — |
 | **Prestidigitation** | — | 10 ft. | Minor magical trick; lasts up to 1 hr | Cantrip | V/S | — |
-| **Command** | WIS 15 | 60 ft. | 1-word command; fail obeys next turn | 1st | V | — |
 | **Detect Magic** | — | Self | Sense magic within 30 ft.; 10 min | 1st | V/S | 1/LR free · Ritual |
 | **Magic Missile** | — | 120 ft. | 3 darts, 1d4+1 force each; auto-hit | 1st | V/S | — |
 | **Chromatic Orb** | R +7 | 90 ft. | 3d8 dmg (choose acid/cold/fire/lightning/poison/thunder); leaps to new target if a die shows matching value | 1st | V/S/M† | — |
-| **Sleep** | WIS 15 | 60 ft. | Fail Incap. until end of next turn, then repeat save; 1 min | 1st | V/S/M | Conc. |
 | **Comprehend Languages** | — | Self | Understand spoken/written language; 1 hr | 1st | V/S/M | Ritual |
 | **Identify** | — | Touch | Learn magic item's or spell's properties | 1st | V/S/M† | Ritual |
 | **Unseen Servant** | — | 60 ft. | Invisible servant; simple tasks for 1 hr | 1st | V/S/M | Ritual |
-| **Alter Self** | — | Self | Choose 1: aquatic adaptation, change appearance, or natural weapons (unarmed dmg 1d6, magical) | 2nd | V/S | Conc. |
-| **Knock** | — | 60 ft. | Unlocks/unsticks/unbars one lock on target object (1 of multiple locks); suppresses *Arcane Lock* 10 min; loud knock audible 300 ft. | 2nd | V | — |
-| **Cloud of Daggers** | — | 60 ft. | 4d4 slash in 5-ft cube; once/turn | 2nd | V/S/M | Conc. |
-| **Tasha's Mind Whip**‡ | INT 15 | 90 ft. | Fail: 3d6 psychic + no Reactions until end of next turn + next turn only 1 of move/action/BA; success: ½ dmg only | 2nd | V/S | — |
 | **Suggestion** | WIS 15 | 30 ft. | Fail Charmed; follows brief suggestion | 2nd | V/M | Conc. |
 | **Fireball** | DEX 15 | 150 ft. | 8d6 fire in 20-ft radius sphere; ½ dmg on save; ignites unattended flammables | 3rd | V/S/M | — |
 | **Elminster's Inquiry** ([[Elminster's Spellbook|Spellbook]]) | — | 60 ft. | Ask one yes/no question of creature, object, or location seen in last 1 min | 1st | V, S | — |
 
 † Material component has a listed cost and is not consumed (Chromatic Orb: diamond worth 50+ gp; Identify: pearl worth 100+ gp and an owl feather).
-‡ Tasha's Mind Whip is TCE (2014) — no XPHB reprint found; already on Lea's Foundry sheet, flagging edition status rather than excluding it (same treatment as the already-present Silvery Barbs, also 2014-sourced).
+*Command, Sleep, Alter Self, Knock, Cloud of Daggers and Tasha's Mind Whip were on the previous sheet but Foundry shows none of them prepared — removed rather than kept as unavailable filler (corrected 2026-09-04). Prepared list is now 9/9, the Wizard level-5 limit.*
 
 ### Bonus Actions
 
@@ -147,6 +141,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 | **Elminster's Misdirection** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Until next turn, 1st atk vs Lea has disadv.; Lea's 1st save has adv. | 2nd | V | — |
 | **Elminster's Parting Gift** ([[Elminster's Spellbook|Spellbook]]) | DEX 15 | Touch | Conjure bead (1 hr); holder squeezes for 3d6+4 HP or adv. on a save, or throws 20/60 ft. — 5 ft. DEX 15 or 6d6 force, ½ on save; bead consumed on use | 3rd | V, S | — |
 | **Elminster's Footnote** ([[Elminster's Spellbook|Spellbook]]) | — | Touch | Instantly read/comprehend any touched text regardless of language/script/obfuscation; senses deliberate falsehood (not the truth). Unlocked Session 26. | Cantrip | V, S | — |
+| **Elminster's Marginalia** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Cast a spell from the book (up to 2nd level) without expending a spell slot | — | — | 1/LR |
 
 ### Reactions
 
@@ -166,7 +161,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 - **Arcane Recovery** — 1/LR after a short rest, recover spell slots totaling 2 levels.
 - **Ritual Adept** — Can cast Wizard ritual spells from her spellbook without preparing them.
-- **[[Elminster's Spellbook]]** — Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* unlocked in Session 26, once Lea had successfully cast 3 spells from the book in play.
+- **[[Elminster's Spellbook]] (Tier 2, prequel item):** Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* unlocked in Session 26, once Lea had successfully cast 3 spells from the book in play. **Borrowed Focus** *(passive)*: once per turn, the first creature damaged by one of Lea's spells or cantrips takes an extra 1d6 force damage. **Anchor's Steadiness** *(passive)*: advantage on Constitution saving throws to maintain Concentration. **Not Quite There** *(passive)*: once per turn, when Lea casts a spell from the book, she may shift up to 5 ft without provoking opportunity attacks as part of the same action. **Elminster's Marginalia:** see Bonus Actions.
 - **Detect Magic (Elven Lineage)** — Cast *Detect Magic* 1/LR without a spell slot.
 - **Temporal Awareness** — Add Intelligence modifier to initiative rolls.
 - **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.
@@ -250,6 +245,7 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+Playbook:: [[Lea - Playbook]]
 PassivePerception:: 12
 PassiveInsight:: 15
 PassiveInvestigation:: 17

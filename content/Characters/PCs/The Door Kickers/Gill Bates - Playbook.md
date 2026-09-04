@@ -4,87 +4,117 @@ tags:
 - reference
 campaign: Rifted
 secret: false
-updated: 2026-08-24T22:33:00
-created: 2026-08-24T20:17:25
+updated: 2026-09-04T17:17:46
+created: 2026-09-04T17:17:46
 ---
 
 # Gill Bates - Playbook
 
-*Companion to [[Gill Bates]] — regenerated from the synced Character Sheet on 2026-08-24. Rerun `pc-playbook` after any `character-sheet-sync` update to keep it current.*
+*Companion to [[Gill Bates]]—regenerated from the synced Character Sheet on 2026-09-04. Rerun `pc-playbook` after any `character-sheet-sync` update to keep it current.*
 
 ## Combat Decision Flowchart
 
-**Triage first — check every turn before anything else:**
-- Ally just died (within the last minute) → **Revivify** (touch, L3 slot) — revives a creature dead 1 minute or less, at 1 HP; this is the actual emergency button, not Healing Word
-- Ally at 0 HP or about to drop → Bonus Action **Healing Word** (60 ft, 1d4+4 heal, upcast +1d4 per slot level above L1) if a slot's available, or a **Potion of Healing** (2 in Inventory) if slots are gone
-- Multiple allies hurt at once → Bonus Action **Mass Healing Word** (60 ft, up to 6 creatures, 2d4+4 each, L3) if a 3rd-level slot is worth spending
-- About to get focused down → Bonus Action **Sanctuary** (WIS DC 15, 30 ft, L1) — attackers must save or choose a new target, until Gill's next turn or until he attacks/casts, whichever comes first
+**Triage first, before anything else:**
+- **Ally at 0 HP →** **Healing Word** (BA, 60 ft., 1d4+4, upcast +1d4 per level, 1st)
+- **Several allies hurt at once →** **Mass Healing Word** (BA, 60 ft., up to 6 creatures, 2d4+4 each, 3rd)
+- **Ally is dead, under a minute →** **Revivify** (Action, touch, back at 1 HP, 3rd; costly material component)
+- **He is being focused →** **Sanctuary** (BA, WIS DC 15, 30 ft.; attackers must save or pick a new target). Ends if he attacks or casts a spell at an enemy.
+- **Ally needs to survive one more round →** **Shield of Faith** (BA, 60 ft., +2 AC, Conc., 10 min, 1st)
 
 **Action:**
-- Undead specifically → **Turn Undead** (WIS DC 15, 30 ft) — undead flee 1 min; turned undead also take radiant damage equal to Gill's CHA mod (min 1 — currently 1, via Sear Undead)
-- Aberration/celestial/elemental/fey/fiend/undead at CR ½ or less → **Arcane Abjuration** (WIS DC 15, 30 ft) — banished 1 min; CR ½–3 turned instead
-- (Turn Undead and Arcane Abjuration draw from the same shared 2-use Channel Divinity pool with Divine Spark below — not three separate pools, see Resource tiering)
-- Ally needs a big single-target save → **Divine Spark** (CON DC 15, 30 ft, 2/SR) — heal 2d8+4, or deal 2d8+4 radiant/necrotic damage (save for half)
-- Single tough target, want to set up the party's next hit → **Guiding Bolt** (M/R +7, 120 ft, 4d6 radiant, grants advantage on the next attack against it, L1 slot)
-- Need a target restrained cheaply → **Net** (R +2, 5/15 ft, Large or smaller restrained, STR DC 10 to escape — at-will, no slot)
-- Enemy needs to obey one instruction → **Command** (WIS DC 15, 60 ft, L1 slot) — obey a one-word command for 1 turn
-- Multiple adjacent enemies → **Word of Radiance** (CON DC 15, 1d6 radiant per adjacent creature, 5 ft radius, cantrip — free)
-- Enemy effect needs stripping → **Dispel Magic** (120 ft, L3 slot) — ends one spell (automatic at L3 or lower; roll to end a higher-level one)
-- Free damage/utility from Magic Initiate: Wizard, 1/LR each, no slot — worth using before defaulting to a plain cantrip → **Magic Missile** (120 ft, 3 darts, 1d4+1 force each, auto-hit — guaranteed damage when a save-based option risks whiffing) or **Fog Cloud** (120 ft, 20 ft heavily obscured sphere, Conc. 1 hr — escape or deny enemy sightlines)
-- Nothing urgent, at range → cantrip: **Toll the Dead** (WIS DC 15, 60 ft, 1d8 necrotic, 1d12 if target is missing HP), **Mind Sliver** (INT DC 15, 60 ft, 1d6 psychic + the target takes -1d4 on its next save before Gill's next turn — good setup before someone else needs that target to fail a save), or **Lightning Lure** (STR DC 15, 15 ft, pull 10 ft + 1d8 lightning if pulled into range — control over damage)
-- Nothing urgent, in melee → **True Strike** (uses an already-proficient weapon, 1d6+4 force using WIS mod instead of the weapon's own stat) or weapon attack with **Fair Catch** (M/R +4, 20/60 ft, 1d6+1 pierce, versatile 1d8+1) or **Mace** (M +2, 5 ft, 1d6-1 bludgeon) *(both Sap — on hit, target has disadvantage on its next attack roll until the start of Gill's next turn)*
+- **Default →** **[[Fair Catch]]** *(Sap)*, M/R +4, 20/60 ft., 1d6+1 (versatile 1d8+1). *Sap* gives the target disadvantage on its next attack roll, and the spear **returns to his hand** at the start of his next turn when thrown.
+- **Single tough target, setting the party up →** **Guiding Bolt** (M/R +7, 120 ft., 4d6 radiant; the next attack against it has advantage, 1st)
+- **Big single swing, heal or harm →** **Divine Spark** (CON DC 15, 30 ft., 2d8+4 healing, or 2d8+4 radiant/necrotic with save for half; Channel Divinity)
+- **Undead →** **Turn Undead** (WIS DC 15, 30 ft., flee 1 min; **Sear Undead** adds CHA-mod radiant, minimum 1). Aberration/celestial/elemental/fey/fiend/undead at **CR ½ or less** → **Arcane Abjuration** instead: banished 1 min, CR ½–3 turned.
+- **Enemy spell needs to end →** **Dispel Magic** (120 ft., automatic on 3rd level or lower, roll for higher, 3rd)
+- **Adjacent enemies →** **Word of Radiance** (CON DC 15, 5-ft. radius, 1d6 radiant each) — his only area cantrip and it costs nothing
+- **Free damage at range →** **Toll the Dead** (WIS DC 15, 60 ft., 1d8 necrotic, **1d12 if the target is already missing HP**) or **Mind Sliver** (INT DC 15, 60 ft., 1d6 psychic and −1d4 on the target's next save)
+- **Something needs to come to him →** **Lightning Lure** (STR DC 15, 15 ft., pulled 10 ft., 1d8 lightning if pulled into range)
+- **One-word solution →** **Command** (WIS DC 15, 60 ft., 1st)
+- **Party needs to disappear →** **Fog Cloud** (120 ft., 20-ft. sphere heavily obscured, Conc. 1 hr; **free 1/LR**)
+- **Guaranteed damage →** **Magic Missile** (120 ft., 3 darts, 1d4+1 each, auto-hit; **free 1/LR**)
 
-**Bonus Action** (independent of the above — pick whichever the situation calls for):
-- Ally down → Healing Word / Mass Healing Word (see Triage)
-- Need to buy a turn of survivability → Sanctuary (see Triage) or **Shield of Faith** (60 ft, +2 AC to one creature, Conc. 10 min, L1)
-- Melee ally's weapon underperforming → **Magic Weapon** (touch, +1 magical for 1 hr, L2)
+**The Fair Catch chain — one hit, four riders:**
+1. **Hit** with the spear, 1d6+1 (or 1d8+1 two-handed)
+2. ***Sap*** → target has disadvantage on its next attack roll
+3. **Reel In** *(1/turn)* → **STR DC 15** or pulled up to 10 ft. toward him
+4. On a failed Reel In: **Sune's Grace** → disadvantage on its next attack against Gill, **and Barbed** → **Grappled** (escape DC 15) until the start of his next turn
+
+**Bonus Action:**
+- **Healing →** Healing Word / Mass Healing Word (see Triage)
+- **Defence →** Sanctuary or Shield of Faith (see Triage)
+- **A melee ally's weapon isn't landing →** **Magic Weapon** (touch, +1 magical, 1 hr, 2nd)
 
 **Reaction:**
-- Rolls a 1 on an attack roll with Fair Catch → **Adon's Murmur** triggers automatically (reroll and use the new result, 1/LR) — not a choice, just don't forget it's there
+- **Natural 1 on a Fair Catch attack →** **Adon's Murmur** (1/LR): reroll and use the new result. Not a choice; just don't forget it.
 
-**Movement:**
-- Fair Catch's Returns property means throwing it doesn't cost repositioning next turn — hold at range for Guiding Bolt/Turn Undead/cantrips when the fight allows it, and use the Reel In pull (once/turn on a hit, target makes a **STR DC 15 save or is pulled 10 ft**; on a failed save the target also gets disadvantage on its next attack against Gill via Sune's Grace, and is Grappled via Barbed — escape DC 15, until the start of Gill's next turn or until the spear leaves his hand) to drag a target into range instead of closing distance yourself
+**Movement (30 ft.):**
+- **AC 17 with 49 HP** — the second-sturdiest PC here. He can stand in the front line, and Reel In only works if enemies are within reach of being pulled to him.
+- **Hold within 30 ft.** for the Channel Divinity options and Divine Spark; 60 ft. for Healing Word.
 
-**Resource tiering, at a glance:** at-will (weapon attacks, cantrips, Net) → **Channel Divinity — one shared pool of 2 uses/SR**, spent on any combination of Turn Undead, Divine Spark, or Arcane Abjuration (not 2 uses of each) → spell slots (1st ×4, 2nd ×3, 3rd ×2) — default to the first tier when nothing in Triage calls for spending a slot.
+**Resource tiering, at a glance:**
+- **At-will:** Fair Catch (M/R +4), Mace, Net, and every cantrip — Toll the Dead, Word of Radiance, Mind Sliver, Lightning Lure, Guidance, Friends, Thaumaturgy, True Strike
+- **Spell slots: 1st ×4, 2nd ×3, 3rd ×2**
+- **Channel Divinity: one shared pool of 2 uses per Short Rest**, spent on **any** of Turn Undead, Divine Spark or Arcane Abjuration. The sheet tags all three `2/SR` — that is **2 total across all three**, not 2 of each.
+- **Free 1/Long Rest, no slot:** *Fog Cloud* and *Magic Missile* (Divine Order: Thaumaturge plus the Magic Initiate: Wizard feat)
+- **1/Long Rest:** Adon's Murmur. **1/day:** Adon's Counsel.
+- **Costly components:** Augury, Magic Circle and Revivify all consume or require them — check the pouch before relying on Revivify.
 
 **Comparative Notes:**
-- *Command vs. a weapon attack, single non-immune target:* Command (WIS DC 15, L1 slot) can fully neutralize the target for a turn but is entirely save-or-nothing; the weapon attack (Fair Catch/Mace, Sap) is free, repeatable, and always lands its disadvantage debuff on a hit. Spend Command when losing a single enemy's turn actually matters right now; fall back to the weapon attack when steady chip damage is enough.
-- *Guiding Bolt vs. Divine Spark, single tough target:* Guiding Bolt costs a renewable L1 slot and sets up an ally's next hit with advantage; Divine Spark draws from the scarcer 2-use Channel Divinity pool instead of a slot, and can flip to healing if the situation changes mid-decision. Spend Divine Spark when slots are running low or healing might be needed next turn; spend the slot on Guiding Bolt when Channel Divinity needs to stay in reserve for an undead/aberrant threat.
-- *Turn Undead vs. Arcane Abjuration, against undead specifically (both apply):* Turn Undead adds Sear Undead radiant damage on a failed save, on top of the flee effect; Arcane Abjuration doesn't add damage at all. Default to Turn Undead against undead; reach for Arcane Abjuration when the target isn't undead at all (aberration/celestial/elemental/fey/fiend), which Turn Undead can't touch, or when the CR is low enough that the banish outcome specifically matters.
+
+- *Divine Spark as a heal vs. Healing Word.* Divine Spark heals 2d8+4 as an **Action** from the shared 2/SR pool; Healing Word heals 1d4+4 as a **Bonus Action** from a renewable 1st-level slot. Healing Word is smaller but leaves his Action free to also attack or cast, and picking someone up off 0 doesn't need to be efficient. **Healing Word to stand someone up; Divine Spark when the heal itself has to be large, or when he wants the damage mode instead.**
+- *Which Channel Divinity, given only 2 per short rest.* Turn Undead and Arcane Abjuration overlap on undead, and Arcane Abjuration is strictly better against CR ½ or lower — it **banishes** rather than making them flee. Divine Spark competes with both for the same pool and is the only one that works on anything at all. **Against a mixed room, Divine Spark; against low-CR extraplanar or undead specifically, Arcane Abjuration; Turn Undead when the undead are above CR 3 and Abjuration would do nothing.**
+- *Guiding Bolt vs. Divine Spark's damage mode on one target.* Guiding Bolt is an attack roll (M/R +7) for 4d6 radiant and hands **advantage** on the next attack against the target — real value when an ally is about to swing anyway. Divine Spark is a CON save for 2d8+4 with **half on a success**, so it never fully whiffs. **Guiding Bolt is the better play whenever an ally is already lined up to swing at the same target.** Without that follow-up, Divine Spark's half-on-a-success is the safer spend.
+- *Command vs. simply attacking a single non-immune target.* Command (WIS DC 15) can end an exchange outright but is entirely save-or-nothing. The spear is repeatable at-will damage plus the whole Reel In chain — still an attack roll, not automatic, but nothing stops him trying again next turn. **Command when losing the gamble costs nothing; the spear when it costs the turn.**
+- *Throwing Fair Catch vs. keeping it in hand.* Thrown, it *Returns* at the start of his next turn, so there is no downside to range — except that **Barbed's grapple ends the moment the spear leaves his hand**. **Throw it freely when he only wants damage and Sap; keep it held when the grapple is the point.**
 
 ## Loadout Selection
 
-*Cleric prepares from its full class spell list and can swap the whole list after every long rest — pick the set below that matches the next expedition. Currently prepared (from the sheet — this spans both the Actions and Bonus Actions tables, since spells are split between those two purely by cast time, not by prep status): Command, Guiding Bolt, Augury, Nystul's Magic Aura, Dispel Magic, Magic Circle, Revivify, Water Walk, Healing Word, Sanctuary, Shield of Faith, Magic Weapon, Mass Healing Word. (Fog Cloud and Magic Missile are Magic Initiate: Wizard feat spells — the sheet lists them `1/LR free (no slot required)`, separate from this swappable Cleric pool. Per the Magic Initiate feat's own rules text, confirmed live via 5etools, the chosen L1 spell is also always prepared and doesn't compete for a spot in the Cleric's prep list — they're fixed regardless of prep choice.)*
+*Cleric prepares 9 spells at level 5 (confirmed against the XPHB Cleric class table) from the entire Cleric spell list, and can swap the whole set after every Long Rest.*
+
+*Six **Arcana Domain** spells are always prepared and don't count against the 9 (verified via 5etools): **Detect Magic** and **Magic Missile** (1st), **Magic Weapon** and **Nystul's Magic Aura** (3rd), **Dispel Magic** and **Magic Circle** (5th). Note **Detect Magic isn't on the sheet's action tables** but he has it permanently — worth adding.*
+
+**Currently prepared (8/9):** *Command* · *Guiding Bolt* · *Augury* · *Revivify* · *Water Walk* · *Healing Word* · *Sanctuary* · *Shield of Faith*
+
+*Fog Cloud is **not** among them: it isn't on the Cleric spell list at all (verified via `query_5etools.py`), so it can only be the Magic Initiate / Divine Order grant, castable free 1/LR and never occupying a prepared slot. That leaves him **one prepared slot genuinely empty** — the easiest free upgrade on his sheet.*
 
 **Dungeon / combat-heavy:**
-- Swap in: *Spirit Guardians* (L3, sustained AoE damage aura), *Spiritual Weapon* (L2, bonus-action recurring damage), *Bane* (L1, -1d4 on enemy attacks/saves)
-- Keep: Guiding Bolt, Command, Healing Word, Sanctuary — the current combat/support core is already solid
+- Keep: *Healing Word*, *Guiding Bolt*, *Revivify*, *Sanctuary*
+- Swap in: *Spirit Guardians* (the single strongest 3rd-level combat option a Cleric has at this level), *Aid*, *Lesser Restoration*, *Prayer of Healing*
+- Swap out: *Augury*, *Water Walk*
 
-**Social / exploration-heavy:**
-- Swap in: *Zone of Truth* (L2, detect lies), *Speak with Dead* (L3, interrogate a corpse), *Sending* (L3, long-range message)
-- Keep: Augury — a ritual, so it costs no slot to cast, only a spot on the prepared list he already gives it
+**Social / urban:**
+- Keep: *Command*, *Augury*, *Sanctuary*
+- Swap in: *Zone of Truth*, *Calm Emotions*, *Enhance Ability*
+- Swap out: *Revivify*, *Guiding Bolt*
 
-**Wilderness / travel-heavy:**
-- Swap in: *Protection from Energy*, *Warding Bond*, *Purify Food and Drink*
-- Keep: Water Walk — already a strong fit given Gill's Fisher background, and it's a ritual so no slot is spent casting it
+**Wilderness / travel / maritime:**
+- Keep: *Water Walk*, *Augury*, *Healing Word*
+- Swap in: *Create Food and Water*, *Protection from Poison*, *Lesser Restoration*
+- His Fisher background and the [[Istishia]] water-mastery track both point here; *Water Walk* is already a strong signature.
 
-**Balanced / unknown expedition type:**
-- Default to what's currently prepared — the existing 13-spell spread already covers healing (Healing Word, Mass Healing Word), defense (Sanctuary, Shield of Faith), damage/control (Guiding Bolt, Command), and utility/travel (Augury, Water Walk, Dispel Magic, Magic Circle, Revivify, Nystul's Magic Aura, Magic Weapon)
-
-*Candidates pulled live from the full Cleric spell list at levels 1–3 (Gill's accessible slot levels) via 5etools, `edition = 'modern'` — not just what's currently on the sheet.*
+**Balanced / unknown:**
+- *Healing Word*, *Revivify*, *Sanctuary* and *Guiding Bolt* are never wrong. **The most consequential change available is adding *Spirit Guardians*** — it is the one thing missing that would change how his combat turns look.
 
 ## Non-Combat & Creative Uses
 
-- Puzzle or decision point, not just pre-fight prep → **Adon's Counsel** *(RAW: 1/day, ask Fair Catch a question and Adon answers — non-combat by design)* — it'll comment on local water quality first, so budget a beat for that
-- Need a gut-check before a risky exploration or social gambit → **Augury** *(RAW: ritual, senses the near-future outcome of a course of action)* — casting it as a ritual costs no spell slot, though it still has to be one of his prepared spells (it already is)
-- *Possible DM-adjudicated stretch, not RAW* — a gentler toss-and-pull could retrieve a dropped object or draw a willing NPC/witness closer without threat, if the table's comfortable stretching a combat mechanic that far → **Fair Catch's Reel In** *(RAW printed trigger: once per turn, on a hit against a creature, pull it 10 ft toward Gill; target makes a STR DC 15 save or is pulled)*
-- River/coastal exploration, given Gill's Fisher background → **Water Walk** *(RAW: ritual, up to 10 creatures walk on liquid for 1 hr)* — ritual-casting it costs no spell slot (it still occupies one of his prepared-spell picks, which he already spends on it)
-- Need the party's strongest read on magical phenomena or religious lore in the field, not just in a library → **Arcana +8 / Religion +8** *(RAW: skill checks, boosted by Divine Order: Thaumaturge adding WIS)*
-- Need to open a door Persuasion alone wouldn't → **Guild Brass Armlet** *(guild membership token — RAW: none stated, pure flavor item)* — social proof of standing
-- Need to smuggle an actual magic item past detection, or plant a false lead for someone else's Detect Magic → **Nystul's Magic Aura** *(RAW: L2 slot, 24 hrs; sheet says "mask magical aura" — full spell text, confirmed live via 5etools, specifies this covers a willing creature or unattended object: a creature reads as a different creature type, an object can be made to appear magical, appear nonmagical, or show a chosen school of magic)*
-- Party already knows they're walking into something aberrant/celestial/elemental/fey/fiend → **Magic Circle** *(RAW: L3 slot, 10 ft cylinder, barrier vs. extraplanar creatures for 1 hr)* — worth prepping the slot ahead of time, not just a combat reaction
-- Any skill check the party's about to lean on, not just Gill's own → **Guidance** *(RAW: cantrip, touch, +1d4 to one ability check within 1 min, Conc.)* — free and repeatable
-- Need small environmental theatrics for a scene → **Thaumaturgy** *(RAW: cantrip, 30 ft, a minor magical effect for 1 min)* — a door that won't budge groans open, a voice carries further than it should, exactly the kind of scene-setting a Fisher-turned-Cleric would lean into
-- Need real leverage for one short conversation → **Friends** *(RAW: cantrip, 10 ft, target charmed 1 min, Conc.; becomes hostile toward Gill once it ends)* — the hostility afterward is a real cost, not a footnote; use it knowing the relationship doesn't survive it
-- Known fire-heavy encounter or hazard coming up → **Potion of Fire Resistance** *(consumable, 2 in Inventory)* — a hedge worth remembering, not just something to forget is sitting in the pack
+- Needs to know whether a plan is a bad idea → **Augury** *(RAW: ritual, 1 min cast; a divine omen of weal, woe, both, or nothing, covering a course of action within the next 30 minutes; costly material component)*. Ten minutes of prep can save an hour of regret.
+- Any arcane or religious question → **Arcana +8** and **Religion +8**, both boosted by Wisdom through **Divine Order: Thaumaturge**
+- Someone needs to succeed at something and he can spare a hand → **Guidance** *(RAW: touch, the ally adds 1d4 to one ability check within the next minute, Conc.)*. At-will, and the cheapest help he can give anyone.
+- Reading a person, or field medicine → **Insight +7**, **Medicine +7**, **Survival +7**
+- Anything the party would otherwise have to swim → **Water Walk** *(RAW: ritual, 1 min cast, up to 10 creatures walk on liquid for 1 hour)*. A ritual, so it costs no slot — and it fits his Fisher background and the [[Istishia]] track exactly.
+- Party needs to vanish or break line of sight → **Fog Cloud** *(RAW: 120 ft., 20-ft. sphere, heavily obscured, Conc. up to 1 hr; **free 1/LR**)*
+- Something extraplanar must be kept out, or kept in → **Magic Circle** *(RAW: 10-ft. cylinder, barrier against extraplanar creatures, 1 hr; always prepared as a domain spell; costly component)*
+- Needs an item's magic hidden from inspection → **Nystul's Magic Aura** *(RAW, from a live 5etools lookup because the sheet's one-line summary compresses it: it works differently on a **creature** than on an **object**, and the effect chosen must be specified — don't assume one blanket "mask magic" result; always prepared as a domain spell)*
+- Needs to know if anything nearby is magical → **Detect Magic** *(always prepared via Arcana Domain, though it isn't currently on his action tables)*
+- A curse, contract, or lingering effect needs breaking → **Dispel Magic** *(RAW: 120 ft., automatic against 3rd level or lower; always prepared as a domain spell)*
+- Needs an answer the spear can give → **Adon's Counsel** *([[Fair Catch]], RAW: 1/day, ask the spear a question and Adon answers honestly — and he will usually comment on the local water quality first)*. Non-combat only; a character tool as much as an information one.
+- Needs to catch something alive → **Net** *(RAW: R +2, 5/15 ft., a Large or smaller creature is Restrained, STR DC 10 to escape)*, or the full **Reel In → Barbed** chain to pull and grapple
+- Small honest work, or a cover identity on a dock → the **Fisher** background and its standard gear (tackle, lamp, rations, tinderbox, rope, pouch), plus his standing at the [[Tidecaller's Sanctuary|Temple of Istishia]]
+- Wants to be believed when he leans on someone → **Thaumaturgy** *(RAW: 30 ft., 1 min — and the booming-voice option gives **Advantage on Charisma (Intimidation) checks** for the duration, which matters more than it sounds on a cleric sitting at Intimidation +0. Other options: flickering flames, ground tremors, a sourceless sound, altered eyes, an unlocked door flung open or slammed. Up to three 1-minute effects can run at once.)*
+- Needs one person disarmed for a minute → **Friends** *(RAW, XPHB: 10 ft., Conc. 1 min — the target makes a **Wisdom save or is Charmed**. It succeeds automatically if it isn't a Humanoid, if he is already fighting it, or if he cast this on it in the past 24 hours; the spell ends early if the target takes damage or he attacks, deals damage or forces a save. **When it ends, the target knows he Charmed it.** Spend it where the relationship is already expendable.)*
+- Wants a weapon attack to run off Wisdom instead of his −1 Strength → **True Strike** *(RAW: one attack with the weapon used to cast it, using his spellcasting ability for both attack and damage; the damage can be **Radiant or the weapon's normal type**, his choice. His sheet records it as 1d6+4 force — worth reconciling, since RAW offers radiant, not force.)*
+- A door that needs opening socially → **Guild Brass Armlet** *(guild membership token — RAW: no mechanical effect, pure social proof)*. At Persuasion +0 he is leaning entirely on the armlet and on whoever else is doing the talking.
+- *Possible DM-adjudicated stretch, not RAW* — the threat of Turn Undead as a bluff against something merely undead-adjacent, where the mechanic wouldn't actually fire → **Turn Undead** *(RAW printed trigger: it affects actual Undead within 30 ft. that fail a WIS DC 15 save)*
+- *Possible DM-adjudicated stretch, not RAW* — a thrown, non-lethal spear hit in a chase or a standoff carrying *Sap*'s rattled quality narratively, outside a structured fight → **[[Fair Catch]]** *(RAW printed trigger: on a weapon-attack hit, the target has disadvantage on its next attack roll)*
 

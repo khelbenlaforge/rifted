@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T16:41:52
 ---
 
 # Nanuk
@@ -176,6 +176,7 @@ Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
+Playbook:: [[Nanuk - Playbook]]
 PassivePerception:: 16
 PassiveInsight:: 13
 PassiveInvestigation:: 11
@@ -222,8 +223,8 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 
 - Received a vision echoing his Session 24 vision: merging with a larger being would cost his body and empower that being.
 - [[Inukshuk]] told him the Great Spirit is hurt but alive and needs him; the four spirits of the North, South, East, and West are converging to form a new world.
-- Met [[Sylvara Oakwhisper]] at [[Mielikki's Grove]] and learned he is a child of [[Silvanus]], the Oak Father.
+- Met [[Sylvara Oakwhisper]] at [[Mielikki's Grove]] and learned he is a child of [[Silvanus]], the Oak Father — a devoted follower/adherent, not a literal offspring.
 - Learned that Silvanus and [[Malar]] are in an opposition whose collapse would upset a larger balance; the [[Ancients of Lava]] are extremists rather than representatives of Silvanus's creed.
-- Sylvara gestured him in the general direction of [[Stormberg]] — not a confirmed destination.
+- Sylvara gestured him in the general direction of [[Stormberg]] — read as "the wilds to the north" broadly (where the Ancients of Lava also are), not a specific pointer worth over-reading.
 - Was walking back toward the [[Jade Spire]] when initiative rolled.
 

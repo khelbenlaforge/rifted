@@ -1,14 +1,14 @@
 ---
 title: Goblin Fruit
-aliases:
+aliases: null
 tags:
-  - item
-  - item/consumable
+- item
+- item/consumable
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T15:12:58
 ---
 
 # Goblin Fruit
@@ -41,12 +41,12 @@ When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-l
 
 ## Supply Chain
 
-[[Belak]] — the druid operating on the Grove Level of the [[Sunless Citadel]] — grows the fruit and delivers it via plant minions to [[Durnn]]'s goblins. Durnn distributes it to aboveground communities through goblin merchant teams. Belak demands nothing in return — only that the fruit be spread as widely as possible, and that communities be enticed to travel south toward the citadel.
+The fruit is grown by the [[Gulthias Tree]] itself, not by [[Belak]] — he tended the tree and delivered its fruit via plant minions to [[Durnn]]'s goblins on the Grove Level of the [[Sunless Citadel]]. Durnn distributed it to aboveground communities through goblin merchant teams. Belak demanded nothing in return — only that the fruit be spread as widely as possible, and that communities be enticed to travel south toward the citadel. **Distribution is now halted** — Belak's bond to the tree severed and the tree went dormant when he escaped (Session 18); Durnn's goblin distribution network within the Sunless Citadel is no longer operating.
 
 ## Significance
 
 The Goblin Merchants introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence.
 
-Every community that bought fruit from the goblin merchants is now seeded — a potential grove of twig blights waiting for its hosts to die.
+Every community that bought fruit from the goblin merchants before distribution halted is seeded — a potential grove of twig blights waiting for its hosts to die.
 
 

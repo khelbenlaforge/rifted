@@ -9,7 +9,7 @@ date: 2026-05-26
 session: 18
 secret: false
 created: 2026-05-26T00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:42:21
 ---
 
 # Session 18 — Into the Roots
@@ -101,5 +101,5 @@ Two weeks of road northward. [[Crystal City]] waiting at the end of it. And the 
 ## Related
 
 - [[Gulthias Tree]] — the dormant entity at the center of the finale
-- [[Gulthias]] — the ancient vampire whose blood seeded the tree; resurrection possible within one week
+- [[Gulthias]] — the ancient vampire whose blood seeded the tree; resurrection timeline undecided
 

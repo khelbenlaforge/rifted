@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:55:09
-updated: 2026-08-30T18:55:48
+updated: 2026-08-30T19:22:37
 ---
 
 # Sam Wong - Playbook
@@ -21,6 +21,7 @@ updated: 2026-08-30T18:55:48
 - Ally Poisoned → Bonus Action **Lay on Hands (remove Poisoned)** (touch, costs 5 HP from the same pool)
 - Multiple allies below half HP after a bad exchange → Bonus Action **Turn the Tide** (30 ft, chosen creatures at ≤½ HP heal 1d6+4 each) — costs a Channel Divinity charge, no roll required
 - A Charm attempt lands on Sam → **Fey Ancestry** gives advantage on the save automatically
+- Necrotic damage incoming → **Scion of the Outer Planes** gives resistance automatically — passive, no action needed
 
 **Action:**
 - Undead or Fiend in range → **Holy Water** (thrown, DEX save DC 11, 2d8 radiant on a failed save)
@@ -29,7 +30,7 @@ updated: 2026-08-30T18:55:48
 - Need to stop healing on a tough single target → **Chill Touch** (M +6, touch, 1d10 necrotic; target can't regain HP until the end of Sam's next turn)
 - Crowd control with a single word, in or out of combat → **Command** (WIS DC 14, 60 ft, one-word order the target obeys next turn on a failed save — always prepared)
 - Need a defensive ward against a specific creature category → **Protection from Evil and Good** (touch, Concentration, 10 min — wards against Aberrations, Celestials, Elementals, Fey, Fiends, Undead)
-- Ally needs emergency healing at range instead of touch → **Cure Wounds** (touch, 2d8+4 HP) — costs a slot, shorter range than Lay on Hands but doesn't touch the 15-HP pool
+- Ally needs healing without touching the Lay on Hands pool → **Cure Wounds** (touch, 2d8+4 HP) — costs a spell slot instead, worth it once the pool's running low
 - Nothing better to do with the Action → **Unarmed Strike** (M +4, 5 ft, 1+2 bludgeoning)
 - First hit each turn, any weapon → **Power Chord** *(Encore, passive)* adds +1d6 thunder automatically
 
@@ -49,11 +50,11 @@ updated: 2026-08-30T18:55:48
 
 **Movement:** nothing beyond normal 30 ft. — Starlight Step (Bonus Action) is the mobility tool.
 
-*Footnote: a creature already under Champion Challenge or Compelled Duel that attacks someone other than Sam automatically takes 1d6 thunder the first time each turn — **Feedback** *(Encore, passive)*, no action spent, just a reason the lock keeps paying off even when the target doesn't come after Sam directly.*
+*Footnote: a creature already under Champion Challenge or Compelled Duel that hits someone other than Sam with an attack automatically takes 1d6 thunder the first time each turn — **Feedback** *(Encore, passive)*, no action spent, just a reason the lock keeps paying off even when the target doesn't come after Sam directly. It has to actually land the hit, not just attempt it. Keen Senses grants Perception proficiency (already folded into his Perception +1 above); Creature Type is Humanoid, but he's also considered an elf for prerequisites and effects.*
 
 **Comparative Notes:**
 - *Divine Sense vs. Champion Challenge vs. Turn the Tide, all drawing on the same 2-charge Channel Divinity pool (1 back on a Short Rest):* Divine Sense spends a charge on a 10-minute detection window; Champion Challenge spends one to lock down a single dangerous target's movement (no repeat save, just a one-time check); Turn the Tide spends one on guaranteed field healing for everyone at half HP or below, no roll involved. With only 2 charges, using one on Divine Sense out of habit can leave nothing for a fight that actually needs the lock or the heal.
-- *Champion Challenge vs. Compelled Duel, the two single-target locks:* Champion Challenge only stops the target from moving away — no restriction on what it attacks — and costs a Channel Divinity charge, not Concentration. Compelled Duel adds disadvantage on attacking anyone but Sam, but requires Concentration (breaks if Sam takes a solid hit, and competes with Protection from Evil and Good for the same Concentration slot) and spends a spell slot instead. Reach for Champion Challenge when Concentration is already committed elsewhere or Channel Divinity is flush; reach for Compelled Duel when the target attacking an ally is the actual danger.
+- *Champion Challenge vs. Compelled Duel, the two single-target locks:* Champion Challenge only stops the target from moving away — no restriction on what it attacks — and costs a Channel Divinity charge, not Concentration. Compelled Duel adds disadvantage on attacking anyone but Sam, but requires Concentration (can be lost if Sam takes damage and fails the resulting Constitution save, and competes with Protection from Evil and Good for the same Concentration slot) and spends a spell slot instead. Reach for Champion Challenge when Concentration is already committed elsewhere or Channel Divinity is flush; reach for Compelled Duel when the target attacking an ally is the actual danger.
 - *Divine Smite vs. Searing Smite:* Divine Smite is the bigger single burst (2d8, +1d8 more vs. Fiend/Undead) and the first use each Long Rest is free. Searing Smite deals less up front (1d6, guaranteed) but adds a recurring 1d6 fire each turn until the target makes a CON save — better against a target likely to keep failing that save, worse against one with a strong CON that shakes it off turn one.
 
 ## Loadout Selection
