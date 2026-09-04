@@ -1,14 +1,14 @@
 ---
 title: Meepo
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:51
-updated: 2026-08-28T02:33:48
+updated: 2026-09-04T15:05:43
 ---
 
 # Meepo

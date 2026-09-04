@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-04-26
 secret: false
 created: 2026-04-25T20:00
-updated: 2026-08-27T18:08:29
+updated: 2026-09-04T14:42:07
 ---
 
 # Twilight Grove

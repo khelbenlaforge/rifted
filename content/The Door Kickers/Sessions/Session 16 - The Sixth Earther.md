@@ -1,15 +1,15 @@
 ---
 title: 2026-04-19 - The Sixth Earther
 aliases:
-  - Session 16
+- Session 16
 tags:
-  - session
+- session
 campaign: Rifted
 session: 16
 date: 2026-04-19
 secret: false
 created: 2026-04-20T00:00
-updated: 2026-04-20T21:17
+updated: 2026-09-04T15:54:43
 ---
 
 # Session 16 — The Sixth Earther
@@ -52,7 +52,7 @@ The Northeast Arboretum proved that academic excitement and dungeon survival req
 
 ---
 
-A52 passed without incident. A53's lock gave way to patient work. The room breathed — soil floor, growing things, the smell of something that had been studied obsessively for years. Shen and Ember found little. JJ found the desk. Letters. Three of them, and a note from someone called Droki, referencing shipments heading to Sunhold.
+A52 passed without incident. A53's lock gave way to patient work. The room breathed — soil floor, growing things, the smell of something that had been studied obsessively for years. Shen and Ember found little. JJ found the desk. Letters. Three of them, referencing shipments planned for Sunhold — a plan the party later stopped.
 
 Lea found everything else — including a book she shouldn't have opened.
 

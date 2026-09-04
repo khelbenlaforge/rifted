@@ -1,15 +1,15 @@
 ---
 title: Silvanus
 aliases:
-  - The Wild Guardian
-  - The Oak Father
+- The Wild Guardian
+- The Oak Father
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:58:19
 ---
 
 # Silvanus

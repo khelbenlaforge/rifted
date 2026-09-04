@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T17:06:44
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -34,13 +34,54 @@ As Lea gains levels and can cast higher-level spells, more of the book's content
 
 **Transcription:** Once out of the dungeon, Lea may spend the normal time and gold to transcribe spells from this book into her own.
 
+The book has begun to answer for itself, beyond the spells it holds — a fragment of Mystra settling into the shape of a second, quieter magic.
+
+| Tier | Level | New Abilities |
+|------|-------|---------------|
+| 1 | 4 | Borrowed Focus · Anchor's Steadiness · Elminster's Marginalia |
+| 2 | 5 (current) | Elminster's Marginalia (upgraded) · Not Quite There |
+| 3 | 9 | TBD |
+| 4 | 13+ | TBD |
+
+---
+
+### Tier 1 — The Anchor Holds *(L4)*
+
+**Borrowed Focus *(passive)*:** Once per turn, the first creature damaged by one of Lea's spells or cantrips takes an extra 1d6 force damage. A fragment of the Weave, answering before she's finished speaking.
+
+**Anchor's Steadiness *(passive)*:** Lea has advantage on Constitution saving throws to maintain Concentration.
+
+**Elminster's Marginalia *(1/Long Rest)*:** Lea may cast a spell from the book of 1st level or lower without expending a spell slot, once per long rest. The book reads its own page. Just this once.
+
+---
+
+### Tier 2 — Not Quite Where You Think *(L5 — current)*
+
+**Elminster's Marginalia (upgraded):** Now works on spells of up to 2nd level.
+
+**Not Quite There *(passive)*:** Once per turn, when Lea casts a spell from the book, she may shift up to 5 ft without provoking opportunity attacks as part of the same action. The old wizard isn't quite where you think he is. Neither, for a half-second, is she.
+
+---
+
+### Tier 3 *(L9)*
+
+TBD.
+
+---
+
+### Tier 4 *(L13+)*
+
+TBD.
+
+---
+
 ### Spells in the Book
 
 All are Elminster originals — his own devising, codified over four centuries.
 
 | Spell | Level | School | Action | Notes |
 |---|---|---|---|---|
-| Elminster's Footnote | Cantrip | Divination | Bonus Action | Touch text; read it instantly. **Locked** — see below. |
+| Elminster's Footnote | Cantrip | Divination | Bonus Action | Touch text; read it instantly. Unlocked Session 26 — see below. |
 | Elminster's Inquiry | 1st | Divination | Action | Ask a yes/no question; Weave answers in ≤3 words |
 | Elminster's Rebuke | 2nd | Abjuration | Reaction | CON save vs. force dmg + disadv. next atk/save; ½ dmg on save (upcast +1d8/slot) |
 | Elminster's Misdirection | 2nd | Illusion | Bonus Action | First atk vs. caster has disadv.; first save has adv.; until next turn |

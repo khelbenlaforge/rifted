@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:53:13
-updated: 2026-08-30T18:53:42
+updated: 2026-08-30T19:22:26
 ---
 
 # Sabina Chiong - Playbook
@@ -29,6 +29,7 @@ updated: 2026-08-30T18:53:42
 - Need an ally (or herself) to vanish → **Invisibility** (touch, 1 hr, Concentration, ends on attack/cast) — slot-cast, can trigger Beguiling Magic
 - Under pressure herself, want passive defense → **Mirror Image** (self, three duplicates; always prepared) — slot-cast, can trigger Beguiling Magic
 - Need to shrink or enlarge a target → **Enlarge/Reduce** (CON DC 14, 30 ft, Concentration)
+- Fire-damage setup with an ally's own fire source → **Oil** (DEX save DC 12, coats target, next fire hit within 1 min. does +5 fire)
 - Nothing worth a slot → **Dagger** (M/R +4, 5 ft./20/60 ft., 1d4+2 pierce) or **Unarmed Strike** (M +1, 1 bludgeoning)
 
 **Beguiling Magic** *(once per Long Rest, immediately after casting Charm Person, Invisibility, or Mirror Image using a spell slot — these are the only spells on her list that are both Enchantment/Illusion and slot-cast, confirmed via a live 5etools school lookup, not shown on the sheet itself)*: force one creature within 60 ft. to make a WIS save (DC 14) or be Charmed or Frightened (her choice) for 1 minute, resaving at the end of each of its turns. Once spent, restorable early by expending one use of Bardic Inspiration (no action required) — see Comparative Notes for why that costs more than it looks like.
@@ -45,9 +46,10 @@ updated: 2026-08-30T18:53:42
 
 **Movement:** nothing beyond normal 30 ft. — Fey Step is the mobility tool, and it's a Bonus Action, not free movement.
 
+*Footnote: Keen Senses grants Perception proficiency (already folded into her Perception +2 above); Creature Type is Humanoid, but she's also considered an elf for prerequisites and effects. Only Charm Person, Invisibility, and Mirror Image qualify to trigger Beguiling Magic — Vicious Mockery is Enchantment but never costs a slot (it's a cantrip), and Faerie Fire/Thunderwave are Evocation, so none of those three trigger it even though all three force saves.*
+
 **Comparative Notes:**
 - *Bardic Inspiration, Mantle of Inspiration, and Beguiling Magic's early restore all draw from one shared pool of 4 dice per Long Rest* — not three separate resources. Handing out a die to one ally, spending one on the AoE Mantle effect, and spending one to reset Beguiling Magic early are all pulling from the same 4 uses; burning two on Mantle/early-restore in one fight leaves at most 2 individual Inspiration dice for the rest of the day.
-- *What actually triggers Beguiling Magic's free rider:* only a slot-cast Enchantment or Illusion spell qualifies. Vicious Mockery is Enchantment but never costs a slot (it's a cantrip), and Faerie Fire/Thunderwave are Evocation — none of the three trigger it even though all three force saves. Only Charm Person, Invisibility, or Mirror Image cast with a slot does.
 - *Silvery Barbs vs. Bardic Inspiration for salvaging a bad roll:* Silvery Barbs forces a full reroll after seeing the result, but hands the resulting advantage to a *different* creature's next roll, and costs a spell slot. Bardic Inspiration hands a d6 to one ally to add to their own roll (before or after it's made) from the shared pool above, no slot required. Reach for Silvery Barbs on a single roll that already went badly wrong; reach for Bardic Inspiration as a cheaper, proactive nudge.
 
 ## Non-Combat & Creative Uses

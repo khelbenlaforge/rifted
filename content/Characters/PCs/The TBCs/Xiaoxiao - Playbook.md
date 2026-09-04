@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:36:56
-updated: 2026-08-30T18:42:48
+updated: 2026-08-30T19:31:14
 ---
 
 # Xiaoxiao - Playbook
@@ -21,6 +21,7 @@ updated: 2026-08-30T18:42:48
 - Ally Poisoned → Bonus Action **Lay on Hands (remove Poisoned)** (touch, costs 5 HP from the same pool)
 - Ally falling → Reaction **Feather Fall** (60 ft, up to 5 falling creatures descend 60 ft/round, no fall damage on landing) — free once per Long Rest, a spell slot after that
 - Rolled a natural 1 on a d20 test → **Intrusive Echoes** triggers automatically: CON save DC 15 or Incapacitated and Speed halved until end of next turn — not a choice, just don't get caught flat-footed by it
+- Lightning damage incoming → **Lightning Resistance** halves it automatically — passive, no action needed
 - A creature within 5 ft. of Xiaoxiao gets hit → **Between You and the Aisle** *(Cabin Ready, passive)* triggers automatically the first time each turn: the attacker has disadvantage on its next attack against that same target — no action spent, just a standing effect worth remembering when deciding where to stand
 
 **Action:**
@@ -34,7 +35,7 @@ updated: 2026-08-30T18:42:48
 
 **Bonus Action** (independent of the Action above — pick whichever the situation calls for):
 - Ally down/Poisoned → Lay on Hands (see Triage)
-- Just hit with a melee/unarmed attack, want guaranteed extra damage → **Divine Smite** (+2d8 radiant, +1d8 more vs. Fiend/Undead) — first use each Long Rest is free, after that it costs a spell slot
+- Just hit with a melee/unarmed attack, want guaranteed extra damage → **Divine Smite** (+2d8 radiant, +1d8 more vs. Fiend/Undead) — first use each Long Rest is free, spend that one before dipping into the same 3-slot pool that Chromatic Orb, Detect Evil and Good, and Shield of Faith also draw from
   - Also spending a Channel Divinity charge on the same hit → **Elemental Smite**, choose one: **Dao's Crush** (Grappled + Restrained, escape DC 14), **Djinni's Escape** (teleport 30 ft.; resist B/P/S and immune Grappled/Prone/Restrained until end of next turn), **Efreeti's Fury** (2d4 fire to the target and one more creature within 30 ft.), or **Marid's Surge** (STR DC 14 save or pushed 15 ft. and Prone, target + chosen creatures in a 10-ft. emanation)
 - Just hit, want control instead of raw damage → **Thunderous Smite** (+2d6 thunder, guaranteed; STR DC 14 save or pushed 10 ft. and Prone) or **Wrathful Smite** (+1d6 necrotic, guaranteed; WIS DC 14 save or Frightened, resaves each turn) — both cost a spell slot (see Comparative Notes)
 - Ally needs a defensive buff before the hits land → **Shield of Faith** (60 ft, +2 AC for 10 min, Concentration) — costs a spell slot
@@ -50,10 +51,9 @@ updated: 2026-08-30T18:42:48
 *Footnote: Genie's Splendor's unarmored AC formula (10 + DEX + CHA) doesn't apply while Xiaoxiao is in Chain Mail, which is what's currently equipped — so it's not a live option in this loadout unless the armor comes off.*
 
 **Comparative Notes:**
-- *Divine Smite vs. Thunderous Smite vs. Wrathful Smite, all triggered off the same melee/unarmed hit:* Divine Smite's die is bigger (2d8, +1d8 more vs. Fiend/Undead) but adds no control. Thunderous Smite trades some of that damage (2d6, still guaranteed) for a save-gated push+Prone. Wrathful Smite trades the most damage (1d6, guaranteed) for a save-gated, repeating Frightened. Reach for Divine Smite when the target just needs to go down faster; reach for Thunderous when knocking it prone matters (denies its turn, sets up allies); reach for Wrathful when locking down a single dangerous target's actions matters more than the damage.
+- *Divine Smite vs. Thunderous Smite vs. Wrathful Smite, all triggered off the same melee/unarmed hit:* Divine Smite's die is bigger (2d8, +1d8 more vs. Fiend/Undead) but adds no control. Thunderous Smite trades some of that damage (2d6, still guaranteed) for a save-gated push+Prone. Wrathful Smite trades the most damage (1d6, guaranteed) for a save-gated, repeating Frightened. Reach for Divine Smite when the target just needs to go down faster; reach for Thunderous when knocking it prone matters (attackers within 5 ft. get advantage against a Prone target, farther away it's disadvantage, and it needs half its movement to stand); reach for Wrathful when locking down a single dangerous target's actions matters more than the damage.
 - *Divine Sense vs. Elemental Smite for the Channel Divinity pool (2 uses, 1 back on a Short Rest):* Divine Sense spends a charge on a 10-minute detection window; Elemental Smite spends one on a rider to a Divine Smite already in progress. With only 2 charges before a Short Rest, using one on Divine Sense pre-emptively (out of habit rather than a real need to detect Undead/Fiends/hallowed ground) can leave nothing for Elemental Smite when a fight actually calls for the extra control.
 - *Chromatic Orb vs. Longsword:* Chromatic Orb costs a scarce spell slot for a bigger single hit (3d8) at range, with a chance to chain to a second target if an ally can exploit the matching damage type; the Longsword is an at-will, no-slot-cost melee option that also sets up the Divine/Thunderous/Wrathful Smite Bonus Action. With only 3 first-level slots total, default to the Longsword unless the range or the extra burst is specifically needed.
-- *Divine Smite's free use vs. every other 1st-level slot consumer:* the first Divine Smite each Long Rest costs nothing, but Chromatic Orb, Detect Evil and Good, Shield of Faith, and a second Divine/Thunderous/Wrathful Smite all draw from the same 3-slot pool. Spend the free Divine Smite first before dipping into slots for anything else.
 
 ## Loadout Selection
 
@@ -65,7 +65,7 @@ updated: 2026-08-30T18:42:48
 
 **Social / exploration-heavy:**
 - Swap in: *Detect Magic* — scout for wards/enchanted traps before triggering them; *Protection from Evil and Good* — a ward specifically against Fiend/Undead/Celestial/Elemental threats while investigating them
-- Keep: *Detect Evil and Good* — already covers a broad first-pass read on a room or NPC
+- Keep: *Detect Evil and Good* — already covers a first-pass scan for Celestials/Fiends/Undead/Elementals and consecrated/desecrated ground
 
 **Balanced / unknown expedition type:**
 - Default to what's currently prepared (*Detect Evil and Good*, *Shield of Faith*, *Thunderous Smite*, *Wrathful Smite*) — it's already a reasonable spread
@@ -76,7 +76,7 @@ updated: 2026-08-30T18:42:48
 
 - Need to calm a hostile or frightened NPC before a scene turns violent → **The Right Tone** *(Cabin Ready, RAW: advantage on Persuasion checks to calm, reassure, or de-escalate a hostile or frightened creature)*
 - Need to know if something dangerous (Celestial, Fiend, Undead, consecrated/desecrated ground) is nearby before walking in → **Divine Sense** (self, 60 ft, 10 min) — costs a Channel Divinity charge, so weigh it against holding one back for Elemental Smite
-- Need a first-pass read on whether an NPC or item is aligned toward good or evil → **Detect Evil and Good** — costs a spell slot and Concentration, not free to keep running
+- Need to know if a Celestial, Fiend, Undead, or Elemental is nearby, or whether ground is consecrated or desecrated → **Detect Evil and Good** — costs a spell slot and Concentration, not free to keep running
 - A lie or hidden motive needs catching in negotiation → **Insight +5** *(expertise)*
 - Need to force a door, gate, or heavy obstacle open → **Athletics +6**
 - Need to talk (or lie) someone out of a confrontation → **Persuasion +4** / **Deception +4**
@@ -86,6 +86,7 @@ updated: 2026-08-30T18:42:48
 - Need to swap out a proficiency or expertise for a specific job overnight → **Channeled Prowess (Echoing Soul)** *(RAW: reassign two skill proficiencies and one Expertise after every Long Rest — currently Insight)*
 - *Possible DM-adjudicated stretch, not RAW* — a flask of Oil could double as a mundane tool outside combat (greasing a stuck mechanism, laying a fire, fouling a surface to slow pursuit) → **Oil** ×5 *(RAW printed use: coats a creature/object on a failed DEX save, +5 fire damage within 1 min. if ignited)*
 - Non-combat fall or drop scenario (a cliffside puzzle, a collapsing floor) → **Feather Fall** — same Reaction as in combat, still usable outside it
+- Need a minor utility effect — light a candle, chill a drink, clear dust, a small sculpted flourish → **Elementalism** *(RAW: create one minor air, earth, fire, water, or sculpting effect, 30 ft.)*
 
 Playbook link added to [[Xiaoxiao]]'s inline-field block.
 

@@ -9,7 +9,7 @@ date: 2026-06-20
 session: 19
 secret: false
 created: 2026-06-20T00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-04T14:42:18
 ---
 
 # Session 19 — Seven Doors
@@ -44,7 +44,7 @@ The [[Jade Spire]] was warded now — the attacks hadn't stopped because the att
 
 On the matter of their souls: the missing half was growing back. They had noticed, probably, that they were thinking in Common more than English. The Council had noticed that too.
 
-One more thing. The [[Gulthias Tree|Gulthias]] island would resurface in approximately two weeks. [[Belak]]'s own notes had suggested a week for a potential vampiric resurrection if the conditions were right. No one could go back in time to change the timetable. They could only know it was running.
+One more thing. The [[Gulthias Tree|Gulthias]] island would resurface in approximately two weeks. No one could go back in time to change the timetable. They could only know it was running.
 
 ---
 
