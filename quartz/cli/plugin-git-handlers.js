@@ -231,8 +231,8 @@ export async function handlePluginInstall() {
         }
         if (currentCommit !== entry.commit) {
           console.log(styleText("cyan", `  → ${name}: updating to ${entry.commit.slice(0, 7)}...`))
-          const fetchRef = entry.ref ? ` ${entry.ref}` : ""
-          execSync(`git fetch --depth 1 origin${fetchRef}`, { cwd: pluginDir, stdio: "ignore" })
+          const fetchTarget = entry.ref || entry.commit
+          execSync(`git fetch --depth 1 origin ${fetchTarget}`, { cwd: pluginDir, stdio: "ignore" })
           execSync(`git reset --hard ${entry.commit}`, { cwd: pluginDir, stdio: "ignore" })
         }
         pluginsToBuild.push({ name, pluginDir })

@@ -48,8 +48,19 @@ jobs:
 
       - name: Restore Quartz plugins
         run: |
-          rm -rf .quartz/plugins
-          npx quartz plugin restore
+          if [ -d .quartz/plugins ]; then
+            LOCKED=" $(node -e "console.log(Object.keys(require('./quartz.lock.json').plugins).join(' '))") "
+            shopt -s nullglob dotglob
+            for dir in .quartz/plugins/*/; do
+              name=$(basename "$dir")
+              case "$LOCKED" in
+                *" $name "*) ;;
+                *) echo "Pruning orphaned plugin directory: $name"; rm -rf "$dir" ;;
+              esac
+            done
+            shopt -u nullglob dotglob
+          fi
+          npx quartz plugin install
 
       - name: Build Quartz
         run: npx quartz build
