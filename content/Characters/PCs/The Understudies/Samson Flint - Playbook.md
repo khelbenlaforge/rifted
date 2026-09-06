@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:06:53
+updated: 2026-09-06T19:02:45
 ---
 
 # Samson Flint - Playbook
@@ -44,20 +44,20 @@ updated: 2026-09-06T18:06:53
 **Movement:** Echo Swap trades a flat 15 ft. of movement for teleporting any distance to or from your echo's position — cheaper than actually walking there for anything past 15 ft.
 
 **Comparative Notes:**
-- *Greatsword (Graze) vs. Flail (Sap):* Greatsword deals more raw damage (2d6+4) and still chips 4 damage on a miss. Flail deals less (1d8+4) but inflicts disadvantage on the target's next attack if it hits. Reach for Greatsword for maximum output; reach for Flail when blunting that enemy's next swing back matters more than raw damage.
-- *Manifest Echo + Attack action vs. Echo Swap for repositioning:* keeping the echo out while attacking lets Unleash Incarnation add a free extra melee attack from its space (3/day) — more damage without moving there yourself. Echo Swap instead teleports you directly into the echo's space (or vice versa) for a flat 15 ft. of movement. Reach for the extra attack when damage is the goal; reach for Echo Swap when position matters more.
-- *Second Wind vs. Tactical Mind on the same die roll:* Second Wind as a straightforward self-heal (1d10+3) always succeeds and always costs the use. Tactical Mind spends the same use on a failed ability check instead — if it still fails after adding 1d10, the use isn't spent at all. Reach for the heal when HP is the real problem; reach for Tactical Mind when a check just failed and HP isn't the emergency, since a failed roll there costs nothing.
-- *Javelin (Slow) vs. Flail (Sap) against one dangerous melee attacker:* Javelin's Slow cuts the target's Speed by 10 ft., useful for keeping distance or stopping a charge, but doesn't touch its attacks. Flail's Sap gives it disadvantage on its very next attack, directly reducing incoming damage that turn. Reach for Javelin when you need it to not reach someone; reach for Flail when it's already adjacent and about to swing back.
+- *Greatsword (Graze) vs. Flail (Sap):* Greatsword deals more raw damage (2d6+4) and still chips 4 damage on a miss. Flail deals less (1d8+4) but inflicts disadvantage on the target's next attack if it hits. Greatsword is the default for maximum output. Flail only earns the swap when blunting that enemy's next attack matters more than raw damage.
+- *Manifest Echo + Attack action vs. Echo Swap for repositioning:* keeping the echo out while attacking lets Unleash Incarnation add a free extra melee attack from its space (3/day) — more damage without moving there yourself. Echo Swap instead teleports you directly into the echo's space (or vice versa) for a flat 15 ft. of movement. When damage is the goal, keeping the echo out for the extra attack wins; when position matters more, Echo Swap does the job instead.
+- *Second Wind vs. Tactical Mind on the same die roll:* Second Wind as a straightforward self-heal (1d10+3) always succeeds and always costs the use. Tactical Mind spends the same use on a failed ability check instead — if it still fails after adding 1d10, the use isn't spent at all. A real HP problem points to the heal. A failed check with no HP emergency instead makes Tactical Mind the free option, since a failed roll there costs nothing at all.
+- *Javelin (Slow) vs. Flail (Sap) against one dangerous melee attacker:* Javelin's Slow cuts the target's Speed by 10 ft., useful for keeping distance or stopping a charge, but doesn't touch its attacks. Flail's Sap gives it disadvantage on its very next attack, directly reducing incoming damage that turn. Keeping something at bay is Javelin's job; Flail takes over once it's already adjacent and about to swing back.
 
 ## Non-Combat & Creative Uses
 
-- Need to intimidate someone without a fight → **Intimidation +5**
+- Intimidating someone without a fight → **Intimidation +5**
 - Need to physically force something open, climb, or haul → **Athletics +6**
-- Need to spot an ambush or a hidden detail, in darkness or otherwise → **Perception +4** paired with **Darkvision 60 ft.**
+- Spotting an ambush or a hidden detail, in darkness or otherwise → **Perception +4** paired with **Darkvision 60 ft.**
 - Need to light a dark room without a torch → **Light** cantrip (touch, 20-ft. bright + 20-ft. dim, 1 hr.; can suppress another light source in range)
-- Need to read or understand an unfamiliar language or inscription → **Comprehend Languages** (self, 1 hr., 1/LR free)
+- Reading or understanding an unfamiliar language or inscription → **Comprehend Languages** (self, 1 hr., 1/LR free)
 - Need a precious burst of healing before a fight even starts → **Healing Hands** (touch, 2d4 HP, 1/LR — the same limited use as in Triage, so spend it deliberately)
-- Need a moment of genuine celestial presence — awe, intimidation, or a deliberate reveal of what he is → **Celestial Revelation** *(RAW: not restricted to combat — 1/LR, 1 min, choose Wings/Radiance/Shroud)*
+- A moment of genuine celestial presence — awe, intimidation, or a deliberate reveal of what he is — calls for **Celestial Revelation** *(RAW: not restricted to combat — 1/LR, 1 min, choose Wings/Radiance/Shroud)*
 - Need a second set of eyes watching a different doorway or angle while Samson does something else → **Manifest Echo** (15 ft., moves 30 ft./turn on command, immune to all conditions)
-- Possible DM-adjudicated stretch, not RAW — Rune Shaper's underlying premise (reading the hidden geometric order in a structure, per his established construction background) could plausibly let him instinctively judge whether scaffolding, a floor, or a wall is actually sound before trusting it → not a listed mechanic; worth proposing to the table as a free flavor read tied to his established background, not an automatic check
+- Possible DM-adjudicated stretch, not RAW — Rune Shaper's underlying premise (reading the hidden geometric order in a structure, per his established construction background) could plausibly let him instinctively judge whether scaffolding, a floor, or a wall is actually sound before trusting it → nothing on the sheet grants this outright; it would land as a DM call in the moment, not a check he can force
 

@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:33:35
+updated: 2026-09-06T19:02:22
 ---
 
 # Keith Poe - Playbook
@@ -44,9 +44,9 @@ updated: 2026-09-06T18:33:35
 **Movement:** Dreadnaught and Guardian both want to be in melee (5–10 ft.); Infiltrator wants range (90/300 ft.) and also grants **Powered Steps** (+5 ft. Speed while active) and **Dampening Field** (advantage on Stealth while active) — neither is captured in any table, but both apply automatically whenever Infiltrator is the active model. Since the model can't be swapped mid-fight, plan the model choice around the expected fight before it starts, not around this turn's positioning.
 
 **Comparative Notes:**
-- *Magic Missile vs. Catapult, single target:* Magic Missile auto-hits for a flat 1d4+1 per dart across up to 3 darts, splittable, with no save or attack roll to miss. Catapult needs an unattended 1–5 lb. object on hand and forces a DEX save for a bigger one-shot (3d8) but does nothing on a success. Reach for Magic Missile when landing damage matters more than volume; reach for Catapult only when a suitable object is available and you want to swing bigger.
+- *Magic Missile vs. Catapult, single target:* Magic Missile auto-hits for a flat 1d4+1 per dart across up to 3 darts, splittable, with no save or attack roll to miss. Catapult needs an unattended 1–5 lb. object on hand and forces a DEX save for a bigger one-shot (3d8) but does nothing on a success. Landing damage matters more than volume against a single target, which is where Magic Missile wins out — Catapult only makes sense with a suitable object in reach and an appetite for the bigger, riskier hit.
 - *Choosing an Armor Model before the fight:* Force Demolisher (Dreadnaught) trades range for reach and a forced-movement rider; Thunder Pulse (Guardian) trades damage for a control debuff that protects allies rather than Kay; Lightning Launcher (Infiltrator) trades melee presence for range and repeatable bonus damage on a hit. This isn't a mid-turn choice — it's set on the last Short or Long Rest, so pick based on what the next fight is expected to need.
-- *Thunderwave vs. Magic Missile against multiple enemies:* Thunderwave hits everyone in a 15-ft. cube from you at zero risk of missing entirely (save for half, no push on success), but requires enemies to be close. Magic Missile's darts can be split across separate targets at 120 ft. with guaranteed damage on each, but each dart alone is small. Reach for Thunderwave when enemies are grouped near you; reach for Magic Missile to guarantee chip damage on several separate targets at range.
+- *Thunderwave vs. Magic Missile against multiple enemies:* Thunderwave hits everyone in a 15-ft. cube from you at zero risk of missing entirely (save for half, no push on success), but requires enemies to be close. Magic Missile's darts can be split across separate targets at 120 ft. with guaranteed damage on each, but each dart alone is small. A cluster near him is Thunderwave's moment. Scattered targets at range belong to Magic Missile instead, for guaranteed chip damage on each.
 
 ## Loadout Selection
 
@@ -67,22 +67,22 @@ updated: 2026-09-06T18:33:35
 
 ## Non-Combat & Creative Uses
 
-- Need to sense whether magic is present nearby, and what school → **Detect Magic** (self, 30 ft.) — cast as a ritual instead of spending a prepared use, whenever there's time to spare
-- Need to learn what a mysterious item actually does → **Identify** (touch, ritual, 1-min. cast — properties, attunement requirement, charges)
+- Sensing whether magic is present nearby, and what school → **Detect Magic** (self, 30 ft.); ten minutes of ritual casting keeps the prepared use in reserve
+- Learning what a mysterious item actually does → **Identify** (touch, ritual, 1-min. cast — properties, attunement requirement, charges)
 - Need to fix a broken tool, lock, or object on the fly → **Mending** (touch, 1-min. cast, repairs a single break/tear ≤1 ft.; free, doesn't count against prepared spells)
-- Need to craft a one-off magical gadget for a specific problem → **Tinker's Magic** (Magic action with Tinker's Tools in hand, create one Tinker's Magic item from the XPHB list within 5 ft.; usable 4×/day, lasts until Long Rest)
+- Crafting a one-off magical gadget for a specific problem → **Tinker's Magic** (Magic action with Tinker's Tools in hand, create one Tinker's Magic item from the XPHB list within 5 ft.; usable 4×/day, lasts until Long Rest)
 - Need to grab or manipulate something at a distance without getting close → **Mage Hand** (30 ft., carries ≤10 lb., can move up to 30 ft. as a Magic action)
 - Expecting a stealth- or speed-heavy stretch coming up (scouting, infiltration, covering ground fast) → swap into **Infiltrator model** at your next Short or Long Rest for **Dampening Field** (adv. on Stealth) and **Powered Steps** (+5 ft. Speed), both automatic while it's active — not a mid-scene switch, so plan ahead
 - Need a minor magical trick — a spark, a clean-up, a mark, a flavor change → **Prestidigitation** (10 ft., 1 of 6 minor effects)
-- Need to speak to an ally silently across a room without a shared language → **Limited Telepathy** *(Verdan, RAW: 30 ft., no shared language needed, but the target must understand at least one language; simple ideas only)*
+- Speaking to an ally silently across a room without a shared language → **Limited Telepathy** *(Verdan, RAW: 30 ft., no shared language needed, but the target must understand at least one language; simple ideas only)*
 - Need an edge resisting a Charm or Fear effect → **Telepathic Insight** *(Verdan, RAW: advantage on all WIS and CHA saving throws)*
-- Need to hold your breath through gas, smoke, or submersion → **Breathless** *(Aberrant Anatomy, RAW: hold breath for 1 hour)*
+- Holding his breath through gas, smoke, or submersion → **Breathless** *(Aberrant Anatomy, RAW: hold breath for 1 hour)*
 - Need to spot something everyone else missed → **Perception +8 (expertise)** paired with **Blindsight 15 ft.**
-- Need to investigate a scene, chase a lead, or piece together what happened → **Investigation +6**, **History +6**, **Arcana +6** — the old journalist's instincts didn't retire
+- Investigating a scene, chasing a lead, or piecing together what happened → **Investigation +6**, **History +6**, **Arcana +6** — the old journalist's instincts didn't retire
 - Need to talk your way past someone → **Persuasion +2** *(Verdan)*
-- Need to build, repair, forge, or fake an ID → **Smith's Tools**, **Tinker's Tools**, **Disguise Kit**, **Thieves' Tools** proficiencies
+- Building, repairing, forging, or faking an ID → **Smith's Tools**, **Tinker's Tools**, **Disguise Kit**, **Thieves' Tools** proficiencies
 - Need a better night's recovery after a rough Short Rest → **Black Blood Healing** *(Verdan, RAW: reroll a 1 or 2 on any Hit Die spent at the end of a Short Rest, must use the new roll)*
-- Possible DM-adjudicated stretch, not RAW — Aberrant Anatomy's Warping Flesh is written as an involuntary liability (a natural 1 risks Stunning him), but the same unstable biology could plausibly be provoked deliberately in the right narrative moment rather than only triggering by accident → worth proposing to the table, not assuming it's ever voluntary as written
+- Possible DM-adjudicated stretch, not RAW — Aberrant Anatomy's Warping Flesh is written as an involuntary liability (a natural 1 risks Stunning him), but the same unstable biology could plausibly be provoked deliberately in the right narrative moment rather than only triggering by accident → the sheet only describes the accidental version, so a deliberate trigger would need the table to agree it works that way
 
 *Replicate Magic Item plans (4 known) aren't itemized in Foundry — no specific creative uses can be built for them until confirmed at the table.*
 

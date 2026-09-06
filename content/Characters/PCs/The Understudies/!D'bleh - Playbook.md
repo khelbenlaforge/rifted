@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:27:24
+updated: 2026-09-06T19:00:37
 ---
 
 # !D'bleh - Playbook
@@ -43,26 +43,26 @@ updated: 2026-09-06T18:27:24
 - Weapon Mastery assignments (Dagger: Nick, Shortsword/Shortbow: Vex) are flagged on the sheet as approximate — confirm current picks before relying on them turn to turn.
 
 **Comparative Notes:**
-- *Psychic Blade vs. Vicious Mockery, single squishy target:* Psychic Blade rides Sneak Attack (2d6) and Verdict (+1d6) but only pays off if you already have advantage or an ally is adjacent to the target — without that, it's a plain 1d6+3 attack roll. Vicious Mockery needs no advantage at all and still lands a guaranteed debuff (disadvantage on the target's next attack) whenever the save fails. Reach for Vicious Mockery when Sneak Attack's conditions aren't met; reach for Psychic Blade when they are.
-- *Dagger (Nick) vs. Psychic Blade for the Attack action:* Dagger's Nick grants a genuine extra attack as part of the same action, at no Bonus Action cost — a guaranteed second attack roll, not a guaranteed hit. Psychic Blade doesn't get a free extra attack, but its first hit each turn carries Verdict's +1d6. Take Dagger when you want raw attack volume; take Psychic Blade when the first hit needs to hit hardest.
-- *Steady Aim vs. Cunning Action (Hide) as the Bonus Action:* Steady Aim guarantees advantage right now but zeroes your Speed — only worth it when there's no need to move. Hide sets up advantage for the attack you'll make from ambush next turn instead, while keeping full movement now. Use Steady Aim when already in position; use Hide when repositioning matters more than this turn's hit.
-- *Daunting Roar vs. Cunning Action (Disengage) when about to be swarmed:* Daunting Roar can push multiple nearby attackers away without spending movement, but it's save-or-nothing (WIS 12) and burns your only short-rest use. Disengage guarantees your own safe exit with no save, but only protects you. Reach for Daunting Roar when several attackers are within the 10 ft radius; reach for Disengage when it's just about getting yourself out.
+- *Psychic Blade vs. Vicious Mockery, single squishy target:* Psychic Blade rides Sneak Attack (2d6) and Verdict (+1d6) but only pays off if you already have advantage or an ally is adjacent to the target — without that, it's a plain 1d6+3 attack roll. Vicious Mockery needs no advantage at all and still lands a guaranteed debuff (disadvantage on the target's next attack) whenever the save fails. The real trigger is Sneak Attack's own condition: no advantage and no adjacent ally means Vicious Mockery, either one present flips it to Psychic Blade.
+- *Dagger (Nick) vs. Psychic Blade for the Attack action:* Dagger's Nick grants a genuine extra attack as part of the same action, at no Bonus Action cost — a guaranteed second attack roll, not a guaranteed hit. Psychic Blade doesn't get a free extra attack, but its first hit each turn carries Verdict's +1d6. Dagger adds a second swing for raw volume, while Psychic Blade puts everything into making the first hit land as hard as possible.
+- *Steady Aim vs. Cunning Action (Hide) as the Bonus Action:* Steady Aim guarantees advantage right now but zeroes your Speed — only worth it when there's no need to move. Hide sets up advantage for the attack you'll make from ambush next turn instead, while keeping full movement now. Steady Aim only costs something when movement was already off the table; otherwise, Hide's setup for next turn beats this turn's guaranteed edge.
+- *Daunting Roar vs. Cunning Action (Disengage) when about to be swarmed:* Daunting Roar can push multiple nearby attackers away without spending movement, but it's save-or-nothing (WIS 12) and burns your only short-rest use. Disengage guarantees your own safe exit with no save, but only protects you. Several attackers inside that 10 ft radius make the save-or-nothing gamble worth it; for a solo exit, Disengage is simpler and needs no roll at all.
 
 ## Non-Combat & Creative Uses
 
-- Need to know if a stranger is dangerous before committing to anything → **The Audit** *(Die Seël, 1/SR, action, 30 ft — RAW: an impression of whether the target has knowingly harmed someone weaker in the last year, not proof)*
-- Need to slip past a guard, watch, or crowd unseen → **Practiced Stillness** *(Die Seël passive, RAW: advantage on Stealth checks in dim light, foliage, or a crowd)*
+- Sizing up a stranger before committing to anything → **The Audit** *(Die Seël, 1/SR, action, 30 ft — see Triage above for what it actually tells him)*
+- Slipping past a guard, watch, or crowd unseen → **Practiced Stillness** *(Die Seël passive, RAW: advantage on Stealth checks in dim light, foliage, or a crowd)*
 - Need to vanish or reposition mid-scene without burning an action → **Cunning Action** *(Dash / Disengage / Hide as a Bonus Action)*
-- Need the social lever that actually works → **Intimidation +3 (expertise)** — with Deception and Persuasion both negative, this is the one CHA skill worth leaning on
+- The one social lever that actually works → **Intimidation +3 (expertise)** — with Deception and Persuasion both negative, this is the CHA skill worth leaning on
 - Need to pick a lock, disarm a trap, or palm something → **Thieves' Tools proficiency** + **Sleight of Hand +3**
-- Need to pass a message in front of enemies or authorities without them understanding it → **Thieves' Cant** *(RAW: a secret rogue cipher/language)*
-- Need to read an unfamiliar language, sign, or inscription → **Comprehend Languages** — cast it as a ritual instead of spending its 1/LR free use, whenever there's time to spare
+- Passing a message in front of enemies or authorities without them understanding it → **Thieves' Cant** *(RAW: a secret rogue cipher/language)*
+- An unfamiliar language, sign, or inscription needs reading → **Comprehend Languages**, cast as a ritual so the 1/LR free use stays banked for when there isn't a spare ten minutes
 - Need to coordinate silently with an ally at range — a heist, an ambush, splitting up → **Psychic Whispers** *(link ≤2 creatures, telepathy within 1 mile for d6 hrs; first use free after a Long Rest, then 1 Psionic Energy Die)*
 - Failed a proficient check that really needed to land → **Psi-Bolstered Knack** *(RAW: roll 1 Psionic Energy Die and add it to the same check; the die is only spent if the check then succeeds)*
-- Need to move or see in total darkness → **Darkvision 60 ft.** *(RAW: dim light reads as bright, darkness reads as dim, no light source needed)*
+- Moving or seeing in total darkness → **Darkvision 60 ft.** *(RAW: dim light reads as bright, darkness reads as dim, no light source needed)*
 - Possible DM-adjudicated stretch, not RAW — bared claws could serve as a wordless threat display in a negotiation or standoff, backing an Intimidation check with a visible physical one → **Claws** *(RAW printed effect: unarmed strikes deal 1d4+3 slashing instead of bludgeoning)*
 - Need to physically force, climb, or jump past something → **Athletics +5**
-- Need to identify a divine sign, holy site, or clergy custom → **Religion +5** *(Astral Drifter proficiency)*
+- Identifying a divine sign, holy site, or clergy custom → **Religion +5** *(Astral Drifter proficiency)*
 - Need to read whether someone's lying or under duress → **Insight +4** *(Astral Drifter proficiency)*
-- Need to understand Far Realm/aberrant speech or writing → **Deep Speech** *(known language)*
+- Far Realm or aberrant speech and writing that needs translating → **Deep Speech** *(known language)*
 

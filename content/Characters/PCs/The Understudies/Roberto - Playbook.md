@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:27:46
+updated: 2026-09-06T19:01:16
 ---
 
 # Roberto - Playbook
@@ -44,11 +44,11 @@ updated: 2026-09-06T18:27:46
 - Owlin Flight is currently **suppressed** by his equipped Chain Shirt (medium armor) — no flying repositioning until that changes.
 
 **Comparative Notes:**
-- *Healing Word vs. Cure Wounds:* Healing Word heals less (2d4+4) but costs only a Bonus Action and reaches 60 ft., leaving the action free to attack or cast something else. Cure Wounds heals more (2d8+4) but costs the action and requires touch. Reach for Healing Word when tempo or range matters; reach for Cure Wounds when you're already adjacent with nothing better to do with the action.
-- *Divine Spark vs. Guiding Bolt:* Divine Spark draws from the scarce 2/LR Channel Divinity pool but flexibly heals or deals CON-save damage; Guiding Bolt spends a renewable 1st-level slot instead, needs a hit (not a save) to land, and grants advantage to whoever hits the target next. Reach for Guiding Bolt when an ally is about to swing at the same target; reach for Divine Spark when the heal option matters or the target's AC is the bigger problem.
-- *Sanctuary vs. Warding Flare, protecting someone about to be swarmed:* Sanctuary fully redirects attacks and spells away from the warded creature (unless the attacker beats WIS 14) but ends the moment that creature attacks, casts, or deals damage — it only works on someone standing down. Warding Flare doesn't require the target to hold back; it just knocks disadvantage onto any attack roll in sight, including ones against other allies, but doesn't stop the attack outright. Reach for Sanctuary on someone who can afford to disengage; reach for Warding Flare when they still need to fight.
-- *Turn Undead vs. Radiance of the Dawn against a group including undead:* Turn Undead can hit every undead you choose within 30 ft. at once, forcing a fail to Frightened + Incapacitated and fleeing, from the same 2/LR pool — but it does nothing to non-undead in the same group. Radiance of the Dawn instead hits everyone (undead or not) in a 30-ft. emanation around Roberto for CON-save damage and also dispels magical darkness in range. Reach for Turn Undead when the group is entirely or mostly undead; reach for Radiance of the Dawn when it's mixed, or the darkness itself needs to go.
-- *Burning Hands vs. Scorching Ray vs. Radiance of the Dawn against multiple enemies:* Burning Hands is a close-range cone (self, 15 ft.) trading proximity for a flat 3d6 fire, half on a successful save. Scorching Ray is safer at 120 ft. and splits three separate attack rolls across targets, so one miss doesn't waste the others. Radiance of the Dawn also centers on Roberto but only spends from the scarce Channel Divinity pool, and it doubles as darkness removal. Reach for Scorching Ray when closing the distance isn't safe; reach for Burning Hands when already in the thick of it; save Radiance of the Dawn for when darkness is the actual problem or the pool has a spare use.
+- *Healing Word vs. Cure Wounds:* Healing Word heals less (2d4+4) but costs only a Bonus Action and reaches 60 ft., leaving the action free to attack or cast something else. Cure Wounds heals more (2d8+4) but costs the action and requires touch. Tempo and range make Healing Word the default; only once he's already adjacent, with nothing better to spend the action on, does Cure Wounds' bigger heal pull ahead.
+- *Divine Spark vs. Guiding Bolt:* Divine Spark draws from the scarce 2/LR Channel Divinity pool but flexibly heals or deals CON-save damage; Guiding Bolt spends a renewable 1st-level slot instead, needs a hit (not a save) to land, and grants advantage to whoever hits the target next. An ally about to swing at the same target tips it toward Guiding Bolt; a target with high AC, or the chance he'll need the heal instead, tips it toward Divine Spark.
+- *Sanctuary vs. Warding Flare, protecting someone about to be swarmed:* Sanctuary fully redirects attacks and spells away from the warded creature (unless the attacker beats WIS 14) but ends the moment that creature attacks, casts, or deals damage — it only works on someone standing down. Warding Flare doesn't require the target to hold back; it just knocks disadvantage onto any attack roll in sight, including ones against other allies, but doesn't stop the attack outright. Someone who can afford to disengage is a job for Sanctuary; someone who still has to swing back needs Warding Flare instead.
+- *Turn Undead vs. Radiance of the Dawn against a group including undead:* Turn Undead can hit every undead you choose within 30 ft. at once, forcing a fail to Frightened + Incapacitated and fleeing, from the same 2/LR pool — but it does nothing to non-undead in the same group. Radiance of the Dawn instead hits everyone (undead or not) in a 30-ft. emanation around Roberto for CON-save damage and also dispels magical darkness in range. An all-undead group favors Turn Undead outright; a mixed group, or darkness that needs clearing, favors Radiance of the Dawn instead.
+- *Burning Hands vs. Scorching Ray vs. Radiance of the Dawn against multiple enemies:* Burning Hands is a close-range cone (self, 15 ft.) trading proximity for a flat 3d6 fire, half on a successful save. Scorching Ray is safer at 120 ft. and splits three separate attack rolls across targets, so one miss doesn't waste the others. Radiance of the Dawn also centers on Roberto but only spends from the scarce Channel Divinity pool, and it doubles as darkness removal. Scorching Ray is the safer pick when closing the distance isn't an option; Burning Hands makes more sense once he's already in the thick of it; Radiance of the Dawn is worth saving for when darkness itself is the problem, or the pool has a use to spare.
 
 ## Loadout Selection
 
@@ -69,16 +69,16 @@ updated: 2026-09-06T18:27:46
 
 ## Non-Combat & Creative Uses
 
-- Need to determine an injury's cause or severity, or read a corpse — grim ground he already knows from his old career → **Medicine +6**
+- An injury's cause or severity needs determining, or a corpse needs reading — grim ground he already knows from his old career → **Medicine +6**
 - Need to tell whether someone's lying, scared, or hiding something → **Insight +6**
-- Need to de-escalate or redirect a hostile standoff without violence → **Command** *(RAW: forces a single one-word action — Approach/Drop/Flee/Grovel/Halt — no restriction to combat)*
+- A hostile standoff needs de-escalating or redirecting without violence → **Command** *(RAW: forces a single one-word action — Approach/Drop/Flee/Grovel/Halt — no restriction to combat)*
 - Need to give the whole party a Short Rest's worth of healing without actually resting → **Prayer of Healing** *(10-min cast, up to 5 creatures in range gain the benefit of a Short Rest, 2d8 each; a creature can't benefit again until its next Long Rest)*
 - Need to boost an ally's (or your own) skill check before it matters → **Guidance** (touch, +1d4, Conc. 1 min)
 - Need a discreet arcane or religious read on something → **Divine Order: Thaumaturge** *(RAW: adds his WIS modifier to INT (Arcana or Religion) checks, stacking with his already-high Religion +5)*
-- Need somewhere to lie low among ordinary people → **Rustic Hospitality** *(RAW: Folk Hero feature — common folk will hide, feed, or shelter him, short of risking their own lives, unless he's shown himself dangerous to them)*
+- Somewhere to lie low among ordinary people → **Rustic Hospitality** *(RAW: Folk Hero feature — common folk will hide, feed, or shelter him, short of risking their own lives, unless he's shown himself dangerous to them)*
 - Need to move or observe unseen or unheard → **Owlin: Silent Feathers** (Stealth +4) paired with **Darkvision 120 ft.**
-- Need to spot doctored goods or a mislabeled barrel → **Brewer's Supplies proficiency** — one of the few skills that carried over cleanly from his old life
+- Doctored goods or a mislabeled barrel need spotting → **Brewer's Supplies proficiency** — one of the few skills that carried over cleanly from his old life
 - Need to drive or handle a wagon or cart → **Vehicles (Land) proficiency**
-- Need the edge of reacting the instant a fight starts → **Alert** *(RAW: adds proficiency bonus to Initiative; immediately after rolling Initiative, can swap it with a willing ally's in the same combat — no adjacency required, neither can be Incapacitated)*
-- Possible DM-adjudicated stretch, not RAW — years spent professionally erasing crime scenes for the mob could plausibly let Roberto recognize when someone else has cleaned one up too well → drawn from his established Folk Hero/biohazard-remediation background, not a listed mechanic — worth proposing to the table as a free flavor read rather than assuming it as an automatic check
+- The edge of reacting the instant a fight starts → **Alert** *(RAW: adds proficiency bonus to Initiative; immediately after rolling Initiative, can swap it with a willing ally's in the same combat — no adjacency required, neither can be Incapacitated)*
+- Possible DM-adjudicated stretch, not RAW — years spent professionally erasing crime scenes for the mob could plausibly let Roberto recognize when someone else has cleaned one up too well → nothing on the sheet backs this, just the background note above; raise it at the table rather than rolling it as a check
 

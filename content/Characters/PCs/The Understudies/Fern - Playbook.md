@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:28:43
+updated: 2026-09-06T19:03:45
 ---
 
 # Fern - Playbook
@@ -42,9 +42,9 @@ updated: 2026-09-06T18:28:43
 **Resource note:** While the Wildfire Spirit is active, **Kindled Bond** adds +1d6 fire damage or healing the first time each turn it deals fire damage or heals through Enhanced Bond, and **Scorched Ground** gives the first creature it burns each turn disadvantage on its next DEX save before the start of Fern's next turn — worth timing a DEX-save spell (Flaming Sphere, Burning Hands, Summon Wildfire Spirit's cast) right after the spirit tags a target.
 
 **Comparative Notes:**
-- *Burning Hands vs. Flaming Sphere vs. Scorching Ray, against multiple/grouped enemies:* Burning Hands is a one-time close-range cone for a flat 3d6 fire, half on success, with no lasting effect. Flaming Sphere costs the same action to cast but then persists — every later turn you can move it 30 ft. as a Bonus Action into a new target for another 2d6 fire, turning one spell into repeated damage. Scorching Ray trades the AoE for three separate ranged attack rolls (2d6 fire each) splittable across targets at 120 ft. Reach for Flaming Sphere when the fight will run several turns; reach for Burning Hands for a one-time close burst; reach for Scorching Ray when you need range and per-attack reliability instead of a save-based AoE.
+- *Burning Hands vs. Flaming Sphere vs. Scorching Ray, against multiple/grouped enemies:* Burning Hands is a one-time close-range cone for a flat 3d6 fire, half on success, with no lasting effect. Flaming Sphere costs the same action to cast but then persists — every later turn you can move it 30 ft. as a Bonus Action into a new target for another 2d6 fire, turning one spell into repeated damage. Scorching Ray trades the AoE for three separate ranged attack rolls (2d6 fire each) splittable across targets at 120 ft. A fight expected to run several turns makes Flaming Sphere the better pick; a one-time close burst makes Burning Hands the better pick; needing range and per-attack reliability over a save-based AoE makes Scorching Ray the better pick.
 - *Commanding the Wildfire Spirit vs. letting it Dodge:* the spirit acts after Fern and defaults to Dodging unless she spends her own Bonus Action to command it — every turn it's out is a real Bonus Action cost, not a free pet. Command it when the extra fire damage (boosted by Kindled Bond) or the ally-saving teleport is worth that Bonus Action; let it Dodge on a turn where moving Flaming Sphere or using Steady Hand matters more.
-- *Faerie Fire vs. Scorching Ray as an Action, against a target you can't reliably hit:* Faerie Fire deals no damage itself but outlines the target for a full minute of concentration, denying Invisible and granting advantage to everyone who attacks it while outlined — a force multiplier for the whole party. Scorching Ray deals real, immediate damage but does nothing for anyone else's aim. Reach for Faerie Fire when the party needs the advantage more than one more hit right now; reach for Scorching Ray when the damage needs to land immediately.
+- *Faerie Fire vs. Scorching Ray as an Action, against a target you can't reliably hit:* Faerie Fire deals no damage itself but outlines the target for a full minute of concentration, denying Invisible and granting advantage to everyone who attacks it while outlined — a force multiplier for the whole party. Scorching Ray deals real, immediate damage but does nothing for anyone else's aim. The party needing the advantage more than one more hit right now is Faerie Fire's moment. Scorching Ray takes over once the damage has to land immediately.
 
 ## Loadout Selection
 
@@ -63,14 +63,14 @@ updated: 2026-09-06T18:28:43
 
 ## Non-Combat & Creative Uses
 
-- Need to question a beast, calm a spooked mount, or gather word from local wildlife → **Speak with Animals** (self, 10 min.) — cast as a ritual, free
+- Questioning a beast, calming a spooked mount, or gathering word from local wildlife → **Speak with Animals** (self, 10 min.) — cast as a ritual, free
 - Need a minor elemental trick — light a fire, chill water, stir a breeze, mimic a sound → **Druidcraft** / **Elementalism** cantrips
-- Need a scouting or messenger companion → **Wild Companion: Find Familiar** (10 ft., summon a Fey familiar until Long Rest; costs a Wild Shape use or a slot)
+- A scouting or messenger companion is needed → **Wild Companion: Find Familiar** (10 ft., summon a Fey familiar until Long Rest; costs a Wild Shape use or a slot)
 - Need to fly over an obstacle or gain vertical ground → **Flight** (currently usable — Leather Armor is light, not medium/heavy)
-- Need to approach or identify a dangerous or skittish creature without provoking it → **Steady Hand** (1/SR, adv. on a check to calm, read, or care for a living creature) — squarely in her zoology background
+- Approaching or identifying a dangerous or skittish creature without provoking it → **Steady Hand** (1/SR, adv. on a check to calm, read, or care for a living creature) — squarely in her zoology background
 - Need a bonus specifically on an Arcana or Nature check → **Primal Order: Magician** *(RAW: adds her WIS modifier on top of INT for Arcana and Nature checks)*
-- Need to scout, escape, or fit through a small space → **Wild Shape** (2/LR, known Beast form only)
+- Scouting, escaping, or fitting through a small space → **Wild Shape** (2/LR, known Beast form only)
 - Need to move or hunt in total darkness → **Darkvision 120 ft.**
-- Need a strong wilderness or creature-handling check → **Animal Handling +6**, **Survival +6**, **Nature +7**
-- Possible DM-adjudicated stretch, not RAW — her Fey creature type could plausibly make her a more sympathetic or trusted figure to fey creatures or courts specifically, beyond any listed mechanic → worth proposing to the table as a roleplay hook, tied to her established conservation-minded background
+- A strong wilderness or creature-handling check is needed → **Animal Handling +6**, **Survival +6**, **Nature +7**
+- Possible DM-adjudicated stretch, not RAW — her Fey creature type could plausibly make her a more sympathetic or trusted figure to fey creatures or courts specifically, beyond any listed mechanic → nothing mechanical backs this; it's a roleplay hook tied to her established background, there for the table to pick up or not
 
