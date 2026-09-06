@@ -1,14 +1,14 @@
 ---
-title: "Samson Flint"
+title: Samson Flint
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-08-14T09:00:00
+updated: 2026-09-06T18:06:57
 ---
 
 # Samson Flint
@@ -143,5 +143,6 @@ Pronouns::
 Affiliation:: The Understudies
 Location:: [[Stormberg]]
 Deity::
+Playbook:: [[Samson Flint - Playbook]]
 
 

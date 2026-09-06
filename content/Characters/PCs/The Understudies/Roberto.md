@@ -1,14 +1,14 @@
 ---
-title: "Roberto"
+title: Roberto
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-08-14T00:00:00
+updated: 2026-09-06T18:01:32
 ---
 
 # Roberto
@@ -172,5 +172,6 @@ Pronouns:: he/him
 Affiliation::
 Location:: [[The Hollowreach]]
 Deity:: Lathander
+Playbook:: [[Roberto - Playbook]]
 
 

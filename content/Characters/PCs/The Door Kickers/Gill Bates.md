@@ -41,7 +41,7 @@ Gill's power flows from [[Istishia]], the Lord of Water -- one of the four Primo
 Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[Istishia]] (Arcana Domain), at the [[Tidecaller's Sanctuary]] in the [[Diamond District]] of [[Crystal City]]. The Sanctuary is built over a natural underground spring, its interior adorned with ocean mosaics, a central spring-fed pool, and features including the [[Blessing Pool]], [[Divination Fountain]], and [[Rainfall Chamber]]. Marin teaches through water-based exercises and metaphors -- instructing Gill to stop resisting the current, to observe water closely for hidden patterns, and to let his calling surface naturally. He has presented four sects of [[Istishia]]'s faith: the [[Sects of Istishia|Sacred Sea]], [[Sects of Istishia|Watery Paths]], [[Sects of Istishia|Magnificent Storm]], and [[Sects of Istishia|Eternal Transformation]]. Gill supplements his temple study with combat training under [[Luks Borg]] at the [[Adamantine Guild]].
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Min Ji-ah]], [[Ember]], [[Augustus Kennedy]], and [[Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the astral procession and the prayer circle crushed by falling land
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
@@ -59,7 +59,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower, learned the shape of the crisis: Tablets of Fate, Celestial Stairway, multiple Mystra fragment carriers. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. In the Temple of Lathander, during [[Midnight]]'s final transformation — when the pendantignited and the east wall blew outward — a masonry shard from the crumbling wall caught Adon across the face. Under the radar. He noticed the blood on his fingers only after. It will leave a scar. Permanent. A cleric of [[Sune]] — the goddess of beauty — marked permanently across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
-- **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
+- **[[Min Ji-ah]], [[Ember]], [[Augustus Kennedy]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions forged through shared displacement
 - **[[Tidecaller Marin Deepcurrent]]** -- Primary mentor; teaches the ways of [[Istishia]] through water and patience
 - **[[Luks Borg]]** -- Combat trainer at the [[Adamantine Guild]]
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified his divine and celestial essence; enjoys his enthusiasm for ocean lore
@@ -234,8 +234,8 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 ## Session 24
 
 - Held back two streets with [[Regius]] as backup during [[Sadiah Ispahani|Sadiah]] and [[Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
-- That night, sat at a table with drinks alongside [[Nanuk]] and [[Lea]] as cover — a "fisherman" contact — while [[Jonathan Jordan|JJ]] negotiated with [[Tavia Orn]].
-- Entered the Claret's inner sanctum alongside [[Jonathan Jordan]], [[Shen]], [[Regius]], [[Nanuk]], and [[Lea]].
+- That night, sat at a table with drinks alongside [[Nanuk]] and [[Min Ji-ah]] as cover — a "fisherman" contact — while [[Jonathan Jordan|JJ]] negotiated with [[Tavia Orn]].
+- Entered the Claret's inner sanctum alongside [[Jonathan Jordan]], [[Shen]], [[Regius]], [[Nanuk]], and [[Min Ji-ah]].
 
 ## Session 26
 
@@ -243,5 +243,20 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - [[Adon]] spoke through [[Fair Catch]], warning that [[Istishia]] and unnamed sibling primordials are weakening; Adon apologized to someone named Midnight.
 - Received guidance to pay closer attention to his studies with [[Tidecaller Marin Deepcurrent]].
 - Sensed Istishia faintly: steam shielded a baby in a crib from a reaching dark hand.
-- Walked to the [[Temple of Kelemvor]] with [[Lea|Lea]] and was present when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
+- Walked to the [[Temple of Kelemvor]] with [[Min Ji-ah]] and was present when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
+
+
+## Session 27
+
+- Heard the screams from inside the [[Temple of Kelemvor]] and went in without waiting.
+- Threw his own spear to tear the Gravelord clear of [[Mother Ilyra Duskveil]]'s altar at the [[Shrine of Shar]]—the act that saved the man's life and the vigil with it.
+
+## Session 28
+
+- Stood on the platform beside **[[Cadmus Tallow]]** for the whole address, invited up by the man whose life he had saved, and caught him when he collapsed at the end of his blessing.
+- Saw the soul-recitation in full: not just motes of light but the people themselves, drifting up half-blind until the chant turned their heads, each one taken by its own name in gold. Some in the crowd never rose at all.
+- Named the four elemental primordials with [[Nanuk]] and Uki: [[Istishia]], [[Grumbar]], [[Kossuth]] and [[Akadi]]. Confirmed that Istishia's voice reaching him is possible precisely because she is inside the barrier with everyone else.
+- On 1 Nightal, [[Tidecaller Marin Deepcurrent|Marin]] told him what the four elemental clergies have sworn never to admit—**the Brotherhood of the Four Winds**—that they can hear their gods, that the voices have faded for thirty years, and that their public rivalries are staged. Marin has been funnelling etheric energy to Istishia alone.
+- Marin also named the making of the world: [[Gond]] hammered the four primordials' own divine essences into its fabric, and a fifth deity gave himself the same way to bring life. Marin does not know who the fifth was. Gill can guess.
+- **Sacred Sea track unstuck:** the first level no longer needs a full downtime and can be completed in a single day next visit.
 

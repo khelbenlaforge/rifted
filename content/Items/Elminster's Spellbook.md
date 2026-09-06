@@ -20,19 +20,19 @@ The cover is worn leather, cracked at the spine, with no title or marking. Insid
 
 ## Recent Discoveries
 
-During the week before the party's meeting with the Claret, the group compared their strange carried items and discovered that the spellbook is not entirely material. In the right light it appears faintly translucent, as though parts of it are only partially in this world. Through that investigation, Lea came to understand that the book holds a fragment of [[Mystra]]'s own essence and functions as her personal anchor — a realization that echoed [[Terra]]'s parallel understanding of the [[Hollowstone]].
+During the week before the party's meeting with the Claret, the group compared their strange carried items and discovered that the spellbook is not entirely material. In the right light it appears faintly translucent, as though parts of it are only partially in this world. Through that investigation, Min Ji-ah came to understand that the book holds a fragment of [[Mystra]]'s own essence and functions as her personal anchor — a realization that echoed [[Terra]]'s parallel understanding of the [[Hollowstone]].
 
 When [[Lady Blackstaff]] examined the book at [[Blackstaff Mansion]], she recognized spells written in a script only very advanced wizards would know. Her conclusion was blunt: whatever the Blackstaff family remembers of its own arcane inheritance, this book is older than that knowledge.
 
 ## Mechanics
 
-**Carrier:** [[Lea]]
+**Carrier:** [[Min Ji-ah]]
 
-This spellbook contains a selection of [[Elminster]]'s original spells: his own working drafts, unaltered since he wrote them. Lea can read and prepare any spell contained within that is of a level she can currently cast. She cannot transcribe them into her own spellbook while in the dungeon — that requires time, quiet, and proper materials.
+This spellbook contains a selection of [[Elminster]]'s original spells: his own working drafts, unaltered since he wrote them. Min Ji-ah can read and prepare any spell contained within that is of a level she can currently cast. She cannot transcribe them into her own spellbook while in the dungeon — that requires time, quiet, and proper materials.
 
-As Lea gains levels and can cast higher-level spells, more of the book's contents become legible to her. At **Level 3** she can read and prepare 1st–2nd level spells. The cantrip unlocked in Session 26 — see below.
+As Min Ji-ah gains levels and can cast higher-level spells, more of the book's contents become legible to her. At **Level 3** she can read and prepare 1st–2nd level spells. The cantrip unlocked in Session 26 — see below.
 
-**Transcription:** Once out of the dungeon, Lea may spend the normal time and gold to transcribe spells from this book into her own.
+**Transcription:** Once out of the dungeon, Min Ji-ah may spend the normal time and gold to transcribe spells from this book into her own.
 
 The book has begun to answer for itself, beyond the spells it holds — a fragment of Mystra settling into the shape of a second, quieter magic.
 
@@ -47,11 +47,11 @@ The book has begun to answer for itself, beyond the spells it holds — a fragme
 
 ### Tier 1 — The Anchor Holds *(L4)*
 
-**Borrowed Focus *(passive)*:** Once per turn, the first creature damaged by one of Lea's spells or cantrips takes an extra 1d6 force damage. A fragment of the Weave, answering before she's finished speaking.
+**Borrowed Focus *(passive)*:** Once per turn, the first creature damaged by one of Min Ji-ah's spells or cantrips takes an extra 1d6 force damage. A fragment of the Weave, answering before she's finished speaking.
 
-**Anchor's Steadiness *(passive)*:** Lea has advantage on Constitution saving throws to maintain Concentration.
+**Anchor's Steadiness *(passive)*:** Min Ji-ah has advantage on Constitution saving throws to maintain Concentration.
 
-**Elminster's Marginalia *(1/Long Rest)*:** Lea may cast a spell from the book of 1st level or lower without expending a spell slot, once per long rest. The book reads its own page. Just this once.
+**Elminster's Marginalia *(1/Long Rest)*:** Min Ji-ah may cast a spell from the book of 1st level or lower without expending a spell slot, once per long rest. The book reads its own page. Just this once.
 
 ---
 
@@ -59,7 +59,7 @@ The book has begun to answer for itself, beyond the spells it holds — a fragme
 
 **Elminster's Marginalia (upgraded):** Now works on spells of up to 2nd level.
 
-**Not Quite There *(passive)*:** Once per turn, when Lea casts a spell from the book, she may shift up to 5 ft without provoking opportunity attacks as part of the same action. The old wizard isn't quite where you think he is. Neither, for a half-second, is she.
+**Not Quite There *(passive)*:** Once per turn, when Min Ji-ah casts a spell from the book, she may shift up to 5 ft without provoking opportunity attacks as part of the same action. The old wizard isn't quite where you think he is. Neither, for a half-second, is she.
 
 ---
 
@@ -99,7 +99,7 @@ Touch any written text — a book, scroll, inscription, cipher, or magical notat
 *He reads everything. He always has.*
 
 > [!success] Unlocked (Session 26)
-> This cantrip occupied a page at the back of the book written in a cipher that shifted as Lea read it, legible only after she'd successfully cast 3 spells from the book in actual play. Her third casting — Elminster's Inquiry, asking the Weave how to reach the gods — was the one that satisfied it. The page simply clarified. No ceremony.
+> This cantrip occupied a page at the back of the book written in a cipher that shifted as Min Ji-ah read it, legible only after she'd successfully cast 3 spells from the book in actual play. Her third casting — Elminster's Inquiry, asking the Weave how to reach the gods — was the one that satisfied it. The page simply clarified. No ceremony.
 
 ---
 
@@ -127,7 +127,7 @@ Choose a creature, object, or location you can see or have touched in the last m
 
 ---
 Rarity:: Unique
-Owner:: [[Lea]]
+Owner:: [[Min Ji-ah]]
 Origin:: Shadowdale (prequel vision, Session 15)
 
 

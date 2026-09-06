@@ -33,13 +33,13 @@ An esteemed scholar perpetually surrounded by scrolls and tomes, Miriam carries 
 
 Miriam serves as High Lorekeeper at [[Oghma]]'s Temple, the Endless Library, where she employs magical detection and careful questioning to identify the divine callings of individuals. When the five newcomers arrived in [[Corranor]], Miriam was instrumental in determining each person's path and matching them with appropriate mentors.
 
-Her assessments placed [[Lea]] under the tutelage of [[Elmindaria L'Thorian]] at the [[Ether Scryer's Academy]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]] at the [[Tidecaller's Sanctuary]], and guided [[Augustus Kennedy]] in his alignment with the gods of justice. Her recommendations proved remarkably accurate, earning the trust of both the newcomers and the [[Adamantine Guild]].
+Her assessments placed [[Min Ji-ah]] under the tutelage of [[Elmindaria L'Thorian]] at the [[Ether Scryer's Academy]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]] at the [[Tidecaller's Sanctuary]], and guided [[Augustus Kennedy]] in his alignment with the gods of justice. Her recommendations proved remarkably accurate, earning the trust of both the newcomers and the [[Adamantine Guild]].
 
 ## Relationships
 
 - **[[Adamantine Guild]]** — Respected authority and advisor
 - **[[Oghma]]** — Serves as High Lorekeeper at his temple
-- **[[Lea]]**, **[[Gill Bates]]**, **[[Augustus Kennedy]]** — Identified their divine callings and assigned mentors
+- **[[Min Ji-ah]]**, **[[Gill Bates]]**, **[[Augustus Kennedy]]** — Identified their divine callings and assigned mentors
 
 ---
 ## Tags

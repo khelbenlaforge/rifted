@@ -1,14 +1,14 @@
 ---
-title: "Fern"
+title: Fern
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-08-02T00:00:00
+updated: 2026-09-06T18:11:38
 ---
 
 # Fern
@@ -164,6 +164,7 @@ Pronouns:: she/her
 Affiliation::
 Location::
 Deity::
+Playbook:: [[Fern - Playbook]]
 
 ## Session 1 Update
 

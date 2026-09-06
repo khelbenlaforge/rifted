@@ -44,7 +44,7 @@ The **Benign Order of the Third Eye** is a secretive cult of archivists — the 
 
 ## Role in the Story
 
-Named in Session 26 alongside Azuth by Lea — a lesser deity of magic present in Mystra's temple complex (not the Temple of Kelemvor, a separate location). Like Azuth, he keeps only a sparse, small clergy rather than a proper priesthood — devoted magic-users worship him informally far more often than any of them serve as ordained clerics.
+Named in Session 26 alongside Azuth by Min Ji-ah — a lesser deity of magic present in Mystra's temple complex (not the Temple of Kelemvor, a separate location). Like Azuth, he keeps only a sparse, small clergy rather than a proper priesthood — devoted magic-users worship him informally far more often than any of them serve as ordained clerics.
 
 ## Connections
 

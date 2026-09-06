@@ -1,14 +1,14 @@
 ---
-title: "Kili"
+title: Kili
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-08-15T00:00:00
+updated: 2026-09-06T18:02:58
 ---
 
 # Kili
@@ -152,6 +152,7 @@ Pronouns::
 Affiliation::
 Location::
 Deity::
+Playbook:: [[Kili - Playbook]]
 
 ## Session 1 Update
 

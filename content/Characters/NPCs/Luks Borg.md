@@ -149,7 +149,7 @@ Athletics +7 · Intimidation +3 · Perception +4 · Survival +4
 ---
 ## Session 1 Update (The Understudies)
 
-- 29th Uktar, Year 222 PA: Lea contacted Luks remotely for guidance on what to do with four newly arrived Understudies PCs stranded near [[The Sundered Choir]]; he advised getting them to the nearest [[Adamantine Guild]] presence.
+- 29th Uktar, Year 222 PA: Min Ji-ah contacted Luks remotely for guidance on what to do with four newly arrived Understudies PCs stranded near [[The Sundered Choir]]; he advised getting them to the nearest [[Adamantine Guild]] presence.
 
 Location updated to [[Crystal City]] (2026-07-26, DM confirmed) — has since returned from establishing the Guild post in [[Sunhold]] (see Background).
 

@@ -216,8 +216,8 @@ Before anything else, Nanuk was a polar bear — no name, no hands, nothing fami
 He woke sure it wasn't a dream. Nobody at the table needed convincing — the grief was still sitting in him hours later, and the checks the others rolled agreed: whatever he'd seen, it happened.
 
 - Present, disguised and stealthed, for the morning recon of [[The Low Flagon]] alongside [[Sadiah Ispahani]] — found the hidden pocket-dimension window (arcana), disarmed a needle-trapped window (thieves' tools), and located an unexplained corridor running from the tavern into the city wall itself.
-- That night, sat at a table with drinks alongside [[Gill Bates]] and [[Lea]] as cover.
-- Entered the Claret's inner sanctum with [[Jonathan Jordan|JJ]], [[Shen]], [[Regius]], [[Gill Bates|Gill]], and [[Lea]].
+- That night, sat at a table with drinks alongside [[Gill Bates]] and [[Min Ji-ah]] as cover.
+- Entered the Claret's inner sanctum with [[Jonathan Jordan|JJ]], [[Shen]], [[Regius]], [[Gill Bates|Gill]], and [[Min Ji-ah]].
 
 ## Session 26
 
@@ -227,4 +227,18 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - Learned that Silvanus and [[Malar]] are in an opposition whose collapse would upset a larger balance; the [[Ancients of Lava]] are extremists rather than representatives of Silvanus's creed.
 - Sylvara gestured him in the general direction of [[Stormberg]] — read as "the wilds to the north" broadly (where the Ancients of Lava also are), not a specific pointer worth over-reading.
 - Was walking back toward the [[Jade Spire]] when initiative rolled.
+
+
+## Session 27
+
+- Felt the wrongness as an overwhelming predator-presence pouring out of the [[Temple of Kelemvor]]; [[Inukshuk]]'s head came up before Nanuk said a word, and the two of them turned toward it together.
+- Was there when a citizen in the crowd shot a monk mid-chant; Inukshuk put a paw on the shooter to hold him, and [[Terra]] caught him smiling as though he already knew something the party did not.
+
+## Session 28
+
+- [[Inukshuk]] watched the soul-recitation without distress and told him the spirits of Nanuk's own people are stuck here too, as is the Great Spirit, but that there is hope in it. Nanuk was not moved to grief; this is simply what is supposed to happen.
+- Saw the recitation himself as small lights rising from the ground, each climbing to a single line of text and vanishing with it. ([[Gill Bates|Gill]] saw further; [[Terra]] saw nothing.)
+- With Gill and Uki, finally put names to the four spirits of the north, south, east and west that Inukshuk has spoken of for months: [[Istishia]], [[Grumbar]], [[Kossuth]] and [[Akadi]], the primordials of water, earth, fire and air. All four are weakening.
+- Learned that the Great Spirit, [[Silvanus]], is **not** one of the four but a separate deity in the same condition—inside the barrier, in pain, and still able to speak, which is why he could reach Nanuk when no other god can reach anyone.
+- Can feel the pull toward Silvanus's grove well enough to follow it. It points north, and the party has committed to going.
 

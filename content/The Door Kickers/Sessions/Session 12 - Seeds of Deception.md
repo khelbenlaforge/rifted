@@ -17,7 +17,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:** March 2026
 > **In-Game Date:** Year 222 PA, 16th Marpenoth (continuous from Session 11)
 > **Location:** [[Sunless Citadel]], Grove Level
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
 > **Source:** Brain dump, processed 2026-03-16
 
@@ -47,7 +47,7 @@ The Sanctum had revealed itself only to the five from Earth.
 
 ## Hang Tight
 
-[[Lea]] reached for the Sending Stone.
+[[Min Ji-ah]] reached for the Sending Stone.
 
 She spoke quickly and precisely — a wizard's habit — relaying everything: the door, the trials, the statues, the shape of [[Aenath]], the mural and the featureless figure leading the divine exodus, the gods of the lower planes at the rearguard. Everything they had seen and failed to decode, compressed into the tight syllable-budget of a Sending spell.
 

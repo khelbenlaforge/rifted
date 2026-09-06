@@ -49,7 +49,7 @@ On a normal day, nothing happens here at all — no one has lived on the Sundere
 
 - 29th Uktar, Year 222 PA: confirmed in play to be a previously undiscovered, abandoned temple to [[Lathander]], rather than merely an unidentified ruined temple.
 - 29th Uktar, Year 222 PA: four Understudies PCs — !D'bleh, Esca, Fern, and Kili — were pulled here and survived a Shadow Creature ambush.
-- 29th Uktar, Year 222 PA: Regius and Lea of the Door Kickers arrived as reinforcements during the ambush.
+- 29th Uktar, Year 222 PA: Regius and Min Ji-ah of the Door Kickers arrived as reinforcements during the ambush.
 
 ## Scene Features
 

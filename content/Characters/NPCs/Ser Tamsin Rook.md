@@ -39,4 +39,10 @@ Rank:: Knight-Warden
 Location:: [[Temple of Kelemvor]], [[Diamond District]], [[Crystal City]]
 Affiliation:: [[Knights of the Eternal Order]]
 
+## Session 28
+
+- Was remanded to the [[Knights of the Eternal Order]] for judgment by the [[Corranor Council]].
+- The Order will report to the Council, not publicly.
+- The First Gravelord publicly named his dead sister as [[Alys Rook]].
+
 

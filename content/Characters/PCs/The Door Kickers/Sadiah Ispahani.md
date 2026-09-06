@@ -193,7 +193,7 @@ None.
 - Shared the Calamity vision on arrival
 - Now in [[Crystal City]], staying at the [[Adamantine Guild]]
 - Has two glowing sickles; in Session 21 the DM called them Jukun and Sukun, but existing notes elsewhere use Sukoon and Junoon. Name discrepancy pending confirmation; existing names not changed.
-- PvP test: landed a sneak attack on [[Nanuk]] for 20 piercing damage, also hit [[Lea]], and used Steady Aim
+- PvP test: landed a sneak attack on [[Nanuk]] for 20 piercing damage, also hit [[Min Ji-ah]], and used Steady Aim
 - Level 4 after leveling during the session; Level 5 may also have been granted and is pending confirmation
 
 Session 23: Did not appear. Per [[Shen]], she remained in her room, traumatized.
@@ -226,4 +226,11 @@ PassiveInsight:: 12
 PassiveInvestigation:: 12
 PassiveStealth:: 14
 
+## Session 28
+
+- Watched the Council's address without much reverence, focused on what the seven on the platform actually wanted; read the whole thing correctly as powerful people taking shots at each other in political language.
+- **Had no vision, and found the piece anyway.** Going back to her forms and her breathing, she surfaced something new: when she was pulled through, she watched herself come loose from her own body, and the first thing she felt was relief. Enormous relief.
+- Understood that on Earth she had been holding on to yoga the way you hold the one thing keeping you upright—a life she disliked, a family that had come apart, counting money for the electricity. Here, a piece she did not know was loose has clicked into place.
+- Is the only one of the party speaking Common natively, switching in and out of it without noticing she has done it.
+- Her realisation reframed [[Layla]] for everyone: if Layla is carrying souls *into* Aenath and those souls began here, the party may have been returned rather than taken. Held as the party's theory, not confirmed.
 

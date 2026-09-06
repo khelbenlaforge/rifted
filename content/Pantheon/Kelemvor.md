@@ -42,13 +42,13 @@ His church in [[Crystal City]] runs three factions under one roof: the Monks of 
 
 ## Role in the Story
 
-Session 26 closed with the party split (Gil and Lea outside the Temple of Kelemvor) when seven of the temple's own paladins burst out screaming that they'd **lost the Gravelord**, the temple's unnamed leading priest figure (established convention: this faction's clergy names itself sparingly, "names are offered slowly, if at all"). Initiative rolled before anything more was learned. **Note the Gravelord is a temple leadership title, not the god himself.** Keep that distinction clear in play and in future notes, given how easily "Kelemvor" already collides with itself (see DM Notes).
+Session 26 closed with the party split (Gil and Min Ji-ah outside the Temple of Kelemvor) when seven of the temple's own paladins burst out screaming that they'd **lost the Gravelord**, the temple's unnamed leading priest figure (established convention: this faction's clergy names itself sparingly, "names are offered slowly, if at all"). Initiative rolled before anything more was learned. **Note the Gravelord is a temple leadership title, not the god himself.** Keep that distinction clear in play and in future notes, given how easily "Kelemvor" already collides with itself (see DM Notes).
 
 **Session 27 — resolved.** A hidden cult of Shar had kidnapped the Gravelord mid-vigil, using a compromised Knight ([[Ser Tamsin Rook]]) to clear their path, and was working to strip away some of Kelemvor's own duties over the dead at the [[Shrine of Shar]] off Cistern Street. The party tracked the cult down, killed the officiating cleric ([[Mother Ilyra Duskveil]]), and freed the Gravelord before the rite completed — he survived, and the vigil held.
 
 ## Connections
 
-- **[[Mystra]]** — A complicated, ancient history. During the Sealed Door trial and the Battlefield of Echoes ([[Session 11 - Echoes of Divinity]]), Lea sensed love, betrayal, and unhealed wounds between them; Mystra's echo worked to draw him back toward the divine collective.
+- **[[Mystra]]** — A complicated, ancient history. During the Sealed Door trial and the Battlefield of Echoes ([[Session 11 - Echoes of Divinity]]), Min Ji-ah sensed love, betrayal, and unhealed wounds between them; Mystra's echo worked to draw him back toward the divine collective.
 - **[[Temple of Kelemvor]]** — His church in Crystal City; site of the Session 26 cliffhanger.
 - **[[Kelemvor's Brand]]** — A magic item bound to Augustus Kennedy, drawing on the same hereditary curse Kelemvor himself once carried as a mortal. *Kelemvor does not know the brand exists. If they ever meet, this is a scene* (per the item's own DM Notes).
 - **Velsharoon** and **Talona** — Enemies; Velsharoon for animating the dead into undead, Talona for the unnatural deaths her diseases cause. No notes yet — not a current priority to build out.

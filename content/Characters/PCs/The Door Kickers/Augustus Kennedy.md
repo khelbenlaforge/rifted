@@ -46,7 +46,7 @@ Extra Turn Undead 1/day (gained Session 20 via [[Kelemvor's Brand]] / adherent r
 Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the [[Adamantine Guild]], teaches him combat -- weapons, shield techniques, and the practical realities of battle. [[Sir Gareth Ironhand]], a one-armed human paladin of [[Tyr]] at the [[Hall of Justice - Temple of Tyr]], guides his spiritual path. Gareth has pressed Augustus to find a personal calling beyond mere duty, instructing him to train his body, question his mind, and examine his heart. Augustus has deferred choosing between [[Tyr]], [[Helm]], and [[Torm]], though his training at the Temple of [[Tyr]] continues to shape his understanding of justice and redemption.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Ember]], [[Gill Bates]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Min Ji-ah]], [[Ember]], [[Gill Bates]], and [[Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] after [[Shadow Creatures]] rendered the Spire unsafe
 - Experienced visions of the Cataclysm, including the sealing of [[Corran's Spike]]
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment and was decisively defeated alongside companions
@@ -58,8 +58,8 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] who ambushed the party at a wrecked wagon site
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the confrontation between [[Keldara Hucrele]] and [[Harbin Wester]]; reported to [[Harbin Wester]] on behalf of the [[Adamantine Guild]]
 - Attended the [[Council Tent]] meeting and accepted duties for safety, exploration, and outreach
-- Traveled to the [[Hucrele Pavilion]] with [[Lea]] and [[Ember]]; learned of the missing Hucrele children and accepted the rescue mission
-- Departed south with [[Lea]], [[Ember]], and [[Jonathan Jordan]], leaving [[Luks Borg|Luks]] and [[Gill Bates]] in [[Sunhold]]
+- Traveled to the [[Hucrele Pavilion]] with [[Min Ji-ah]] and [[Ember]]; learned of the missing Hucrele children and accepted the rescue mission
+- Departed south with [[Min Ji-ah]], [[Ember]], and [[Jonathan Jordan]], leaving [[Luks Borg|Luks]] and [[Gill Bates]] in [[Sunhold]]
 - Traversed marshes on Bogstride Salamandrels, followed tracks to a ravine, and descended into a subterranean fortress
 - Explored the ruins, encountering dead goblins and necromantic magic behind a trapped hidden door
 - **Session 13** — Touched the Sanctum mural in the Grove Level, triggering the prequel vision for all five. He and Ember floated in the liminal void while the other three experienced the Avatar Crisis as Midnight/Torm/Adon.
@@ -68,7 +68,7 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 - **~3rd Uktar, 222 PA (Session 19)** — During downtime in [[Crystal City]], [[Sir Gareth Ironhand]] detected the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought Augustus to the [[Temple of Kelemvor]]. The clerics and paladins welcomed him without deliberation — the Brand had already named him. He left the Church of [[Tyr]] gracefully and joined the Church of [[Kelemvor Lyonsbane|Kelemvor]]. Shortly after, he returned to the [[Hall of Justice - Temple of Tyr]] to sign up with Tyr's law enforcement arm, taking a junior position in the judiciary using his NPYC background.
 
 ## Relationships
-- **[[Lea]], [[Ember]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bonded through shared displacement and the trials of [[Aenath]]
+- **[[Min Ji-ah]], [[Ember]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bonded through shared displacement and the trials of [[Aenath]]
 - **[[Sir Gareth Ironhand]]** -- Paladin mentor at the Temple of [[Tyr]]; teaches the weight and meaning of an oath; recognized the Brand's panther energies and brought Augustus to the Temple of Kelemvor
 - **[[Luks Borg]]** -- Combat trainer; practical and demanding
 - **[[Istar Silverlock]]** -- Assistant Guildmaster of the [[Adamantine Guild]]; assigned the party to [[Sunhold]]
@@ -215,4 +215,17 @@ PassiveInsight:: 14
 PassiveInvestigation:: 11
 PassiveStealth:: 9
 
+## Session 27
+
+- Was meditating in a back chamber of the [[Temple of Kelemvor]] when the breach happened around him; caught the loudest of the fleeing Knights and shook the panic out of him, drawing out **[[Ser Tamsin Rook]]**'s first admission that the chamber was sealed and the Gravelord gone.
+- Ran the real trail down alone through a long bending alley. **Failed a Loss of Control save**, and [[Kelemvor's Brand]]'s panther-energy took over outright, pinning three Shar cultists at the alley's mouth.
+- Knocked the decoy Gravelord cold with a single punch, confirming the misdirection.
+- Opened the fight at the [[Shrine of Shar]] with Guiding Bolt.
+
+## Session 28
+
+*(DM-voiced this session; player absent.)*
+
+- Present at the [[Jade Spire]] for the Council's address, and visibly shaken when [[Oriel Blackstaff]] opened an inquiry into the [[Temple of Kelemvor]] and the [[Knights of the Eternal Order]]'s vigil admissions—Augustus belongs to that Order, and nobody touches Kelemvor's church.
+- Confirmed to the party afterward that everyone is expected to bring their loved ones' names to the temple, so he has no explanation for why [[Ser Tamsin Rook]] withheld his sister's for four years.
 

@@ -38,7 +38,7 @@ He'd found his way out with help — a voice in his mind that spoke in the caden
 
 ---
 
-Healed, rested, and slightly lectured by Lea — who had opinions about running into unknown rooms — the group moved northeast under the cover of Ember's Pass Without a Trace. The Garden Galleries were warm and fragrant and wrong. At the center of the room, Gork moved through her work with the mechanical rhythm of something that no longer had a choice. Balsag stopped when he saw her.
+Healed, rested, and slightly lectured by Min Ji-ah — who had opinions about running into unknown rooms — the group moved northeast under the cover of Ember's Pass Without a Trace. The Garden Galleries were warm and fragrant and wrong. At the center of the room, Gork moved through her work with the mechanical rhythm of something that no longer had a choice. Balsag stopped when he saw her.
 
 He'd known her. A hunter. One of the foraging team — skilled, reliable, the kind of warrior whose absence goes noticed. She looked like herself except for the vines. They grew inside her, threading through skin and muscle, moving with her breath.
 
@@ -48,13 +48,13 @@ They debated it in low voices and moved on.
 
 ---
 
-The Northeast Arboretum proved that academic excitement and dungeon survival require different instincts. Shen, confronted with plants he had never categorized, made a choice his colleagues would later describe as "characteristic." The Gulthias Grave Tenders did not appreciate the intrusion. The fight was brief and decisive. Lea's follow-up commentary was briefer and more decisive still.
+The Northeast Arboretum proved that academic excitement and dungeon survival require different instincts. Shen, confronted with plants he had never categorized, made a choice his colleagues would later describe as "characteristic." The Gulthias Grave Tenders did not appreciate the intrusion. The fight was brief and decisive. Min Ji-ah's follow-up commentary was briefer and more decisive still.
 
 ---
 
 A52 passed without incident. A53's lock gave way to patient work. The room breathed — soil floor, growing things, the smell of something that had been studied obsessively for years. Shen and Ember found little. JJ found the desk. Letters. Three of them, referencing shipments planned for Sunhold — a plan the party later stopped.
 
-Lea found everything else — including a book she shouldn't have opened.
+Min Ji-ah found everything else — including a book she shouldn't have opened.
 
 The glyph of warding had been waiting for exactly this moment. Cold light erupted outward in a sphere. JJ took the blast alongside her. The sound it made didn't echo so much as announce.
 

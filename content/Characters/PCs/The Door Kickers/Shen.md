@@ -39,7 +39,7 @@ Shen was transported from Earth on High Harvestide, Year 222 PA — the same cro
 
 He spent weeks imprisoned there — long enough to witness Belak's operations up close: the [[Gulthias Tree]], the vine-thralls, the slow conversion of the willing and unwilling alike. He shared that captivity with [[Sharwyn Hucrele]] and [[Sir Braford]], both of whom were already too far gone to want out. When the party's advance into the Grove Level created enough chaos, Shen escaped.
 
-He found them at the worst possible moment. [[Lea]] had just triggered a glyph of warding, a patrol was incoming, and five strangers he had never met were the most viable option available.
+He found them at the worst possible moment. [[Min Ji-ah]] had just triggered a glyph of warding, a patrol was incoming, and five strangers he had never met were the most viable option available.
 
 From Kunming, Yunnan — though his academic years were spent abroad, first in the UK and later briefly in Singapore. There is a possibility he crossed paths with one of the party on Earth before the transport; if so, neither has placed it yet.
 
@@ -52,11 +52,11 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 - **High Harvestide, 222 PA** — Transported from Earth; landed near the Sunless Citadel, not the [[Jade Spire]]
 - Captured by Durbuluk goblins; taken to the Grove Level of the Sunless Citadel
 - Imprisoned alongside [[Sharwyn Hucrele]] and [[Sir Braford]], observing [[Belak]]'s vine-thrall operation from the inside
-- **Marpenoth, 222 PA (Session 16)** — The party's advance broke enough of [[Belak]]'s containment to allow escape. Found the five mid-crisis — Lea's glyph just triggered, patrol incoming. Cast *Detect Thoughts* on [[Gork]] and received: *"Kill me."* Joined the party as the sixth Earther
+- **Marpenoth, 222 PA (Session 16)** — The party's advance broke enough of [[Belak]]'s containment to allow escape. Found the five mid-crisis — Min Ji-ah's glyph just triggered, patrol incoming. Cast *Detect Thoughts* on [[Gork]] and received: *"Kill me."* Joined the party as the sixth Earther
 
 ## Relationships
 
-- **[[Lea]], [[Jonathan Jordan]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** — Fellow Earthers; strangers he chose to stay with when better options were unavailable
+- **[[Min Ji-ah]], [[Jonathan Jordan]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** — Fellow Earthers; strangers he chose to stay with when better options were unavailable
 - **[[Adamantine Guild]]** — Member by association; the party vouched for him
 - **[[Belak]]** — Captor during the weeks of Grove Level imprisonment; observed his methods at close range
 - **[[Sharwyn Hucrele]] & [[Sir Braford]]** — Shared captivity in the Grove Level; last seen as willing thralls, not freed
@@ -202,7 +202,7 @@ Shen completed two retroactive weeks of downtime.
 
 - Relationship track (DC 5, rolled 21): joined the herbalist society at the [[Ether Scryer's Academy]]; gained Herbalism Kit and proficiency in Herbalism.
 - Work track (DC 5 + DC 10, advantage from Academy employment, rolled 21 total): earned 64 gold. Employed at the [[Ether Scryer's Academy]].
-- Investigation track (DC 15, rolled 25 combined with [[Lea]]): helped reverse-engineer the teleportation formula. Described the [[Sunless Citadel]] murals to the Director of Antiquities and became a collaborator in the antiquities department's project to recover [[Aenath]]'s missing 200-year history.
+- Investigation track (DC 15, rolled 25 combined with [[Min Ji-ah]]): helped reverse-engineer the teleportation formula. Described the [[Sunless Citadel]] murals to the Director of Antiquities and became a collaborator in the antiquities department's project to recover [[Aenath]]'s missing 200-year history.
 
 ## Session 23
 

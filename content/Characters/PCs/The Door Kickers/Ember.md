@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-08-28T14:52:43
+updated: 2026-09-05T05:51:37
 ---
 
 # Ember
@@ -40,7 +40,7 @@ Ember wields druidic magic rooted in her connection to nature. She can manipulat
 Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at [[Mielikki]]'s Grove in the [[Diamond District]] of [[Crystal City]]. The grove is a living temple where ancient trees form natural archways that blend with the architecture, housing a Healing Grove, a Wild Nursery for orphaned creatures, and the Ranger's Rest. Sylvara teaches through observation and immersion, emphasizing the balance between wilderness and civilization that defines [[Mielikki]]'s philosophy. She has counselled Ember to protect, to teach, to plant after death, and to truly listen while walking the woods. Ember initially considered [[Silvanus]] and [[Eldath]] as well, but has settled into [[Mielikki]]'s path.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Augustus Kennedy]], [[Gill Bates]], and [[Jonathan Jordan]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Min Ji-ah]], [[Augustus Kennedy]], [[Gill Bates]], and [[Jonathan Jordan]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]] to escape [[Shadow Creatures]]
 - Experienced visions of the Cataclysm -- the hunter in the forest and the winged rescuer struck down
 - Agreed to join the [[Adamantine Guild]]; underwent combat assessment
@@ -50,17 +50,17 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 - **7th Marpenoth** -- Boarded the [[Vanny Faire]] bound for the western [[Aenath Landmass Types|Terra Bound island]]
 - **10th Marpenoth** -- Fought [[Goblin Bandits]] during the wagon ambush
 - **11th Marpenoth** -- Arrived at [[Sunhold]]; witnessed the [[Keldara Hucrele]] and [[Harbin Wester]] confrontation
-- Examined the [[Goblin Fruit]] at the [[Hucrele Pavilion]], sensing its red, blood-like nature; [[Lea]]'s Detect Magic confirmed necromantic and divine/draconic energies
+- Examined the [[Goblin Fruit]] at the [[Hucrele Pavilion]], sensing its red, blood-like nature; [[Min Ji-ah]]'s Detect Magic confirmed necromantic and divine/draconic energies
 - Spotted a Lurkleaf near [[Tymora's Shrine]]
 - Collected several [[Pebbletoad|Pebbletoads]] before the marsh crossing
-- Departed south with [[Lea]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
+- Departed south with [[Min Ji-ah]], [[Augustus Kennedy]], and [[Jonathan Jordan]] to rescue the Hucrele children
 - Traversed marshes and descended into the [[Sunless Citadel]], encountering dead goblins and signs of necromancy
 - **Session 11** — During the trial of the Sealed Door in the [[Sunless Citadel]], deity symbols of both nature and the lower planes gravitated toward her simultaneously, exposing her dual nature. Inside a spiritual battlefield, an echo of [[Mielikki]] urged her to accept both sides of herself. [[Asmodeus]]'s manifestation refused to leave her side even after the other infernal deities withdrew
-- **Session 14** — Cold open revealed her Earth backstory: she worked at an animal shelter. Chaos of an ordinary shift: a regular volunteer walked in with a pangolin. Animal Control was on the phone. Her assistant announced the pangolin to the room at full volume — and to the inspector on the other end of the line. She was watching herself from outside, just like the others. Rejoined JJ/Gill/Lea in the liminal void, then descended into the prequel to inhabit [[Selmavra Elsree]] — a Harper skirmish commander stationed in [[Shadowdale]] during the Avatar Crisis.
+- **Session 14** — Cold open revealed her Earth backstory: she worked at an animal shelter. Chaos of an ordinary shift: a regular volunteer walked in with a pangolin. Animal Control was on the phone. Her assistant announced the pangolin to the room at full volume — and to the inspector on the other end of the line. She was watching herself from outside, just like the others. Rejoined JJ/Gill/Min Ji-ah in the liminal void, then descended into the prequel to inhabit [[Selmavra Elsree]] — a Harper skirmish commander stationed in [[Shadowdale]] during the Avatar Crisis.
 - **Marpenoth, 222 PA (Session 15)** — After the courtyard battle, [[Vael]] dropped silently from the rooftop ledge and studied the aftermath. Her eyes moved to Selmavra: *"Jumping into danger for strangers? Fascinating."* Then she went invisible and did not leave. She walked the road to [[Elminster]]'s tower at Selmavra's shoulder — invisible, present, close enough to feel as a displacement in the air. At Elminster's tower, the shape of the crisis was laid out: Tablets of Fate, Celestial Stairway, [[Bane]] coming for [[Midnight]]'s pendant. At [[Mourngrym Amcathra]]'s war council, Selmavra's Harper intelligence on the West Fang was the weakest strand — movement sightings, no numbers. Commissioned as Sword of [[Shadowdale]]. Fought the West Fang at Ashaba Bridge: Hunter's Mark on the Battlelord through the press; cast Hail of Thorns and took the Chaos rebound herself — eight damage, shook it off; [[Vesper]] fought alongside [[Cyric]], two animals that didn't trust each other and were efficient because of it. When the Ninth arrived, the bridge held. In the Temple of Lathander, held Midnight against the pull of the Stairway as [[Bane]] arrived. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
-- **[[Lea]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger
+- **[[Min Ji-ah]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; companions through displacement and danger
 - **[[Sylvara Oakwhisper]]** -- Ranger mentor at [[Mielikki]]'s Grove; teaches the balance of wild and civilised
 - **[[Elmindaria L'Thorian]]** -- Guild scholar who identified her druidic essence; unwitting victim of the Pantry Heist
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
@@ -200,4 +200,20 @@ PassiveStealth:: 16
 Through [[Nanuk]]'s [[Azure Tamers]] connection, [[Torem]] flew Ember on an eagle to meet the [[Ancients of Lava]] in a wilderness clearing. Elder [[Jess]] leads the circle. The druids went quiet when Ember mentioned [[Belak]], saying that he had been one of their best before disappearing forty years ago.
 
 Ember also joined the Azure Tamers alongside Nanuk. She visited the Temple of [[Mielikki]], where [[Sylvara Oakwhisper]] confirmed that Belak left the Ancients of Lava forty years ago. Ember earned 23 gp and free transport anywhere for one month.
+
+
+## Session 27
+
+- Wildshaped into a wolf and approaching the North Gate for [[Mielikki's Grove]] when the hush hit the city—nothing named yet, just a held breath.
+- Went into the [[Temple of Kelemvor]] proper and picked two hidden cultists out of the crowd by their too-calm faces; [[Vesper]] dragged the halfling toward [[Nanuk]] while Ember took the elf herself.
+- **Dispelled the darkness** at the [[Shrine of Shar]]—the spell covering the whole room—which is what let the party see [[Mother Ilyra Duskveil]] and the bound Gravelord at all.
+- Caught Ilyra and the cultists together in one casting, bloodying the fourth.
+
+## Session 28
+
+*(DM-voiced this session; player absent.)*
+
+- Felt out the shape of the Lower Planes and surfaced the **soul economy**: no gods in the Nine Hells, the Abyss or Hades, but an appetite for souls in circulation, because souls are what can be traded, contracted and spent. This is the frame that finally gives "Layla and [[Asmodeus]]" a meaning.
+- The same thread produced a clarification the table pulled out of the DM, though the transcript does not make clear who asked: warlock *patrons* participate in the soul economy, while warlocks themselves, working by contract rather than on soul power, sit outside it. Relevant to [[Shen]] rather than to Ember.
+- Reported that the [[Belak|Ancients of Lava]] are still searching for [[Silvanus]]'s grove and have never been welcomed into it.
 

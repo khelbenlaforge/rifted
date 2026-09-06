@@ -210,7 +210,7 @@ None. Alarm was previously listed here but is not prepared; Rangers also lack th
 - Sylvara gave her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
 - While touching the earth at the grove, Terra sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects responding to her.
 - Earned 26 gp from this work.
-- Attended the meeting at [[Blackstaff Mansion]] with [[Lea]], [[Nanuk]], and [[Regius]].
+- Attended the meeting at [[Blackstaff Mansion]] with [[Min Ji-ah]], [[Nanuk]], and [[Regius]].
 
 ## Session 24
 
@@ -242,4 +242,17 @@ PassiveInsight:: 18
 PassiveInvestigation:: 11
 PassiveStealth:: 16
 
+## Session 27
+
+- Was mid-dance at [[Sehanine Moonbow|Sehanine]]'s shrine when every worshiper turned at once toward the [[Temple of Kelemvor]]; sent the dancers fanning out across [[Crystal City]] to warn it, then went to the temple herself.
+- Arrived at the steps in time to put the second disguised cultist through the heart before he finished deciding to run.
+- **Broke [[Ser Tamsin Rook]] open** by asking him plainly what he was most afraid of, drawing out the confession about his dead sister and the Sharites' offer.
+- Sehanine answered her again as the sun went down: wings for a minute, and radiant force waiting in her next strike.
+
+## Session 28
+
+- Had originally been the one to pick the three moons out of the sky during the Feast, which is what gave [[Min Ji-ah]] something to put an Inquiry to.
+- Reached for the soul-recitation and got nothing—she failed the roll where [[Nanuk]] and [[Gill Bates|Gill]] succeeded.
+- Distrustful of the whole rite, unconvinced the souls were going anywhere she could verify, and reminded of the cult she came from.
+- **Her Cold Open resolved.** The familiar presence she had sensed on the enemy side of her Time of Troubles vision was **[[The Unbound]]**, her own Earth cult leader, standing among [[Lolth]]'s in a memory of Aenath's distant past. He is therefore either here or inside her [[Hollowstone]], and in either case no longer on Earth. Whether she brought him through or he preceded her is open.
 

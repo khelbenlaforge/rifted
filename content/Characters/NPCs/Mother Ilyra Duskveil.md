@@ -12,11 +12,11 @@ updated: 2026-09-04T15:43:27
 > [!infobox]
 > # Mother Ilyra Duskveil
 
-Mother Ilyra Duskveil was a cleric of Shar who ran the Rising of the Dark sacrifice at the [[Shrine of Shar]] before Lea killed her with Tasha's Mind Whip in Session 27; an unnamed fiend then absorbed her body.
+Mother Ilyra Duskveil was a cleric of Shar who ran the Rising of the Dark sacrifice at the [[Shrine of Shar]] before Min Ji-ah killed her with Tasha's Mind Whip in Session 27; an unnamed fiend then absorbed her body.
 
 ## Appearance
 
-Tall, pale-skinned, with a stillness that read as serenity right up until you noticed how total it was — she didn't so much stand at the altar as occupy it, the way a held breath occupies a room. Robes the color of a bruise gone old, no jewelry, no symbol worn openly; whatever marked her as Shar's own showed in what she did at that altar, never in anything she wore. Even mid-ritual, even with the party's blades already drawn, her face held onto something close to compassion right up until Lea's spell ended it.
+Tall, pale-skinned, with a stillness that read as serenity right up until you noticed how total it was — she didn't so much stand at the altar as occupy it, the way a held breath occupies a room. Robes the color of a bruise gone old, no jewelry, no symbol worn openly; whatever marked her as Shar's own showed in what she did at that altar, never in anything she wore. Even mid-ritual, even with the party's blades already drawn, her face held onto something close to compassion right up until Min Ji-ah's spell ended it.
 
 ## Personality
 
@@ -28,7 +28,7 @@ What Ilyra was before she took the shrine off Cistern Street never surfaced — 
 
 ## Role in the Story
 
-Session 27: the officiating cleric of the Rising of the Dark, holding the kidnapped Gravelord bound at her altar in the hidden shrine off Cistern Street, working to complete the sacrifice before midnight. Recruited [[Ser Tamsin Rook]]'s cooperation a week earlier, approaching him in the Citrine District as a pale, hooded elf using his dead sister's stranded soul — one thread among what was likely several similar arrangements citywide, given how organized the night's operation was. Killed by Lea's Tasha's Mind Whip before the ritual completed. Her body was then absorbed by an unnamed fiend that arrived in the instant of her death — whether that thing was already watching her, or something she'd unknowingly served all along, is unconfirmed.
+Session 27: the officiating cleric of the Rising of the Dark, holding the kidnapped Gravelord bound at her altar in the hidden shrine off Cistern Street, working to complete the sacrifice before midnight. Recruited [[Ser Tamsin Rook]]'s cooperation a week earlier, approaching him in the Citrine District as a pale, hooded elf using his dead sister's stranded soul — one thread among what was likely several similar arrangements citywide, given how organized the night's operation was. Killed by Min Ji-ah's Tasha's Mind Whip before the ritual completed. Her body was then absorbed by an unnamed fiend that arrived in the instant of her death — whether that thing was already watching her, or something she'd unknowingly served all along, is unconfirmed.
 
 ---
 Race:: Elf

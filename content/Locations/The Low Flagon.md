@@ -70,8 +70,8 @@ The party finalized their approach. [[Jonathan Jordan]], [[Shen]], and [[Regius]
 - [[Sadiah Ispahani]] (disguised) and [[Nanuk]] (*disguise self* plus stealth) scouted the tavern by day, with [[Regius]] and [[Gill Bates]] holding back two streets as backup.
 - They found a hidden pocket-dimension vault behind a side window (same magical signature as the [[Adamantine Guild]]'s own door), a second window trapped with a needle-firing device (disarmed via thieves' tools), and an unexplained corridor/awning jutting from the tavern into the city wall itself.
 - [[Tavia Orn]] was seen alone inside during the day, writing in a ledger.
-- That night the party approached as planned: JJ, [[Shen]], and Regius as sellers; Gill, Nanuk, and [[Lea]] at a table with drinks as cover; Sadiah holding position near the city wall; [[Terra]] on the roof.
+- That night the party approached as planned: JJ, [[Shen]], and Regius as sellers; Gill, Nanuk, and [[Min Ji-ah]] at a table with drinks as cover; Sadiah holding position near the city wall; [[Terra]] on the roof.
 - Terra failed her stealth check on a natural 1 and was noticed outright by Tavia; the party sent her home. Sadiah, by contrast, went unnoticed the entire night.
-- The password and leverage were accepted; Tavia brought JJ, Shen, and Regius into a magically warded and silenced back-room booth, then escorted JJ, Shen, Regius, Gill, Nanuk, and Lea through the back room's archway door into the Claret's inner sanctum.
+- The password and leverage were accepted; Tavia brought JJ, Shen, and Regius into a magically warded and silenced back-room booth, then escorted JJ, Shen, Regius, Gill, Nanuk, and Min Ji-ah through the back room's archway door into the Claret's inner sanctum.
 - All communication — *Message*, psychic whispers, and similar contact — to those left outside (Sadiah) cut off the instant the door closed.
 

@@ -1,14 +1,14 @@
 ---
-title: "Keith Poe"
+title: Keith Poe
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-08-14T00:00:00
+updated: 2026-09-06T18:05:39
 ---
 
 # Keith Poe
@@ -165,5 +165,6 @@ Pronouns::
 Affiliation::
 Location:: [[The Hollowreach]]
 Deity::
+Playbook:: [[Keith Poe - Playbook]]
 
 

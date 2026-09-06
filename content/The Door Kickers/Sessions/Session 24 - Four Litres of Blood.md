@@ -24,7 +24,7 @@ He woke certain of one thing that the others, when he described enough of it to 
 
 Morning of the 30th, Feast of the Moon a day out, the Claret meeting hours away. [[Sadiah Ispahani|Sadiah]] came down to breakfast for the first time since Session 23 — no explanation needed, none offered.
 
-[[Regius|Regius]] and [[Lea|Lea]] had a story the rest of the table hadn't heard yet. Routine patrol, the day before, out over the Corranor mainland to the northeast, nearer Stormberg than Crystal City — until a blue flash cracked a floating ruin open above the clouds, and four strangers were fighting shadow creatures that had never looked like this before: solid, humanoid, resistant to fire in a way the old ones weren't. The ruin's three braziers were the answer — unlit, somehow wired to the magic circle at its heart. Once that link was cut they lit, and the radiant light scattered the shadows outright. Regius and Lea helped where they could, then had to leave — the Claret clock doesn't wait for anyone — and watched the four strangers get routed toward Stormberg instead of home. Whoever's pulling people through anymore, she's gotten better at it. She summoned four this time, not one.
+[[Regius|Regius]] and [[Min Ji-ah]] had a story the rest of the table hadn't heard yet. Routine patrol, the day before, out over the Corranor mainland to the northeast, nearer Stormberg than Crystal City — until a blue flash cracked a floating ruin open above the clouds, and four strangers were fighting shadow creatures that had never looked like this before: solid, humanoid, resistant to fire in a way the old ones weren't. The ruin's three braziers were the answer — unlit, somehow wired to the magic circle at its heart. Once that link was cut they lit, and the radiant light scattered the shadows outright. Regius and Min Ji-ah helped where they could, then had to leave — the Claret clock doesn't wait for anyone — and watched the four strangers get routed toward Stormberg instead of home. Whoever's pulling people through anymore, she's gotten better at it. She summoned four this time, not one.
 
 The morning's other business: [[Jonathan Jordan|JJ]] walked the table back through how he'd gotten this deep with the Claret in the first place — a Garnet district shakedown that turned into an introduction. A group investigation check, rolled well past anything the table expected, confirmed what they'd suspected: the Claret has eyes on most of them already. Six faces clocked, JJ's chief among them, tied to the party since before they knew they were being watched.
 
@@ -38,7 +38,7 @@ The afternoon went to building something worth Tavia's attention: vials of blood
 
 ## Into the Flagon
 
-Night. The plan changed shape one more time before the shutters came into view — no disguises for the front line, upfront and plain. JJ, [[Shen|Shen]], and Regius went in as sellers; [[Gill Bates|Gil]], Nanuk, and Lea took a table with drinks as cover; Sadiah held ground near the wall, out of sight; Terra took the roof.
+Night. The plan changed shape one more time before the shutters came into view — no disguises for the front line, upfront and plain. JJ, [[Shen|Shen]], and Regius went in as sellers; [[Gill Bates|Gil]], Nanuk, and Min Ji-ah took a table with drinks as cover; Sadiah held ground near the wall, out of sight; Terra took the roof.
 
 Terra's stealth failed on a natural 1 — half the street looked up. Tavia noticed and asked after her directly; the party told her to go home, and she pulled back to the Guild rather than push the scene further. Sadiah, watching from near the wall, went unremarked the entire night — Tavia never clocked her at all.
 
@@ -48,7 +48,7 @@ She turned them over once, asked where they'd come from, and didn't get a clean 
 
 ## Through the Door
 
-The back room's archway door hummed with the same feel as the Guild's own — a vault dressed as a doorway. Terra was already gone, sent home after Tavia noticed her on the roof. Sadiah, never noticed at all, stayed near the wall rather than follow the group in. JJ, Shen, Regius, Gil, Nanuk, and Lea crossed the threshold together — the whole table, minus the two who'd stayed outside.
+The back room's archway door hummed with the same feel as the Guild's own — a vault dressed as a doorway. Terra was already gone, sent home after Tavia noticed her on the roof. Sadiah, never noticed at all, stayed near the wall rather than follow the group in. JJ, Shen, Regius, Gil, Nanuk, and Min Ji-ah crossed the threshold together — the whole table, minus the two who'd stayed outside.
 
 Tavia and her people escorted the party physically through the archway rather than just pointing the way. Once inside, she and her minions handed off and withdrew back through the threshold — "this part isn't mine to walk you through," final but not unkind — leaving the six of them alone on the other side.
 
@@ -57,6 +57,6 @@ The moment the door closed, every line of communication back to the street went 
 ---
 
 ## Related
-- [[Nanuk]] · [[Jonathan Jordan]] · [[Shen]] · [[Regius]] · [[Gill Bates]] · [[Sadiah Ispahani]] · [[Terra]] · [[Lea]]
+- [[Nanuk]] · [[Jonathan Jordan]] · [[Shen]] · [[Regius]] · [[Gill Bates]] · [[Sadiah Ispahani]] · [[Terra]] · [[Min Ji-ah]]
 - [[Tavia Orn]] · [[The Low Flagon]] · [[The Claret]] · [[Layla]]
 

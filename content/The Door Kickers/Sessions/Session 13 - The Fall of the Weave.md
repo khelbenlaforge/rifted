@@ -16,7 +16,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:** 2026-03-17
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Arabel → Castle Kilgrave, Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
-> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Lea]]
+> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Min Ji-ah]]
 > **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]]
 > **Source:** Voice memo + module annotations, processed 2026-03-17
 
@@ -28,7 +28,7 @@ It starts with a hand.
 
 [[Augustus Kennedy]] reaches out in the Sanctum — because he always does — and touches the mural. The cosmological figures carved into that ancient stone surge with light, and something vast and old and hungry for witnesses reaches back. In an instant, the five of them are somewhere else in their minds. Three in body.
 
-Only [[Jonathan Jordan]], [[Gill Bates]], and [[Lea]] are present at the table tonight. They watch their own pasts.
+Only [[Jonathan Jordan]], [[Gill Bates]], and [[Min Ji-ah]] are present at the table tonight. They watch their own pasts.
 
 ---
 
@@ -40,9 +40,9 @@ The vision doesn't begin in a dungeon or a dying world. It begins in the ordinar
 
 **Gill Bates** sits at the family table in Greece. His parents want him to call his cousin in Athens, the one who is doing so well as a businessman — the same cousin who, when they were children, salted his fish. Gill wants none of it. He wants the boats. He wants the coast and the catch and the sea. His cousin would understand nothing of that, and Gill trusts nothing he cannot see with his own hands.
 
-**Lea** descends into the living room of a Singapore mansion — the kind of wealth that a foreigner sees from the outside and cannot quite believe is real. Her mother is seated. There is talk of a matchmaking appointment tomorrow: a foundation chairman's son, very suitable. Lea is resistant, but her mother has a softer edge to her pressure tonight. She suggests postponing — and perhaps a visit to the private doctor first, for some Botox. *You don't need to look thirty-six, darling.*
+**Min Ji-ah** descends into the living room of a Singapore mansion — the kind of wealth that a foreigner sees from the outside and cannot quite believe is real. Her mother is seated. There is talk of a matchmaking appointment tomorrow: a foundation chairman's son, very suitable. Min Ji-ah is resistant, but her mother has a softer edge to her pressure tonight. She suggests postponing — and perhaps a visit to the private doctor first, for some Botox. *You don't need to look thirty-six, darling.*
 
-*I am thirty-six,* Lea replies. *I should look thirty-six.*
+*I am thirty-six,* Min Ji-ah replies. *I should look thirty-six.*
 
 Her mother coughs. The subject is tabled. The subject is never truly tabled.
 
@@ -56,7 +56,7 @@ Then the scenes dissolve.
 
 They land in a tavern in Arabel, Cormyr. Not in their own bodies.
 
-[[Lea]] is [[Midnight]] — a raven-haired wizard of some reputation, carrying a blue-white star pendant seared into the skin of her collarbone. She met [[Mystra]] the night of the Storm and received her trust. The pendant grants her *pass without trace* at will, and one chosen spell — she has chosen *magic missile* — that she may cast four times without consuming a slot.
+[[Min Ji-ah]] is [[Midnight]] — a raven-haired wizard of some reputation, carrying a blue-white star pendant seared into the skin of her collarbone. She met [[Mystra]] the night of the Storm and received her trust. The pendant grants her *pass without trace* at will, and one chosen spell — she has chosen *magic missile* — that she may cast four times without consuming a slot.
 
 [[Jonathan Jordan]] is [[Torm of the Dales]] — a Knight of Myth Drannor, a Harper working undercover in Arabel. He knows things about this city and certain people within it that he has not yet disclosed to anyone in this room.
 

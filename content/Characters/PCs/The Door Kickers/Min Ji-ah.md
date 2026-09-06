@@ -1,5 +1,5 @@
 ---
-title: Lea
+title: Min Ji-ah
 aliases: null
 tags:
 - pc
@@ -11,11 +11,11 @@ created: 2026-03-16T04:21
 updated: 2026-09-04T16:35:22
 ---
 
-# Lea
+# Min Ji-ah
 
 > [!infobox|right wikipedia]+
-> # Lea
-> ![[Lea.jpg]]
+> # Min Ji-ah
+> ![[Min Ji-ah.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -26,18 +26,18 @@ updated: 2026-09-04T16:35:22
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Lea carries herself like someone who agreed to a responsibility before she understood what it would cost her. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She's protective by nature -- first to step between danger and her companions -- and just as at home buried in arcane theory. Something regal shows in how she holds herself, though she probably hasn't noticed it yet.
+Min Ji-ah carries herself like someone who agreed to a responsibility before she understood what it would cost her. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She's protective by nature -- first to step between danger and her companions -- and just as at home buried in arcane theory. Something regal shows in how she holds herself, though she probably hasn't noticed it yet.
 
 ## Origin
-Lea was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. She was one of three who underwent partial non-human changes during the crossing. [[Elmindaria L'Thorian]]'s magical scan revealed potent arcane potential within her, along with the loss of roughly half her essence -- slowly regenerating.
+Min Ji-ah was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. She was one of three who underwent partial non-human changes during the crossing. [[Elmindaria L'Thorian]]'s magical scan revealed potent arcane potential within her, along with the loss of roughly half her essence -- slowly regenerating.
 
 Her visions during the crossing hinted at something ancient and deeply personal. In the first, she viewed through the eyes of a dark-haired woman by a campfire with an armoured warrior, watching a colossal glowing humanoid struck by an inky-black figure as the muffled words "Midnight. ke-le." sounded before darkness fell. In the second vision, she was incorporeal, drifting above the destruction of the Cataclysm. She whispered "I'm sorry, my child" to the robed figure of [[Corran Blackstaff|Corran]], who replied "Be well, my Lady!" -- a connection to a past life that suggests a deeper significance to her existence in [[Aenath]] than she yet understands.
 
 ## Abilities
-Lea is a wizard in training, wielding arcane magic with growing proficiency. She has demonstrated practical spellcasting in the field -- using Prestidigitation to clean and reduce odours at [[The Stonehill Inn]], casting Detect Magic to analyse the [[Goblin Fruit]] (uncovering necromantic and divine/draconic energies), sensing necromantic magic behind hidden doors in the subterranean fortress, and employing Mage Hand to remotely trigger traps. Her magical awareness makes her invaluable in exploration and investigation, and she has shown bravery in combat despite nearly falling unconscious during the [[Goblin Bandits]] ambush.
+Min Ji-ah is a wizard in training, wielding arcane magic with growing proficiency. She has demonstrated practical spellcasting in the field -- using Prestidigitation to clean and reduce odours at [[The Stonehill Inn]], casting Detect Magic to analyse the [[Goblin Fruit]] (uncovering necromantic and divine/draconic energies), sensing necromantic magic behind hidden doors in the subterranean fortress, and employing Mage Hand to remotely trigger traps. Her magical awareness makes her invaluable in exploration and investigation, and she has shown bravery in combat despite nearly falling unconscious during the [[Goblin Bandits]] ambush.
 
 ## Mentorship
-Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizard, at the [[Ether Scryer's Academy]] in the [[Amethyst District]] of [[Crystal City]]. Elmindaria determined that unsupervised wizardry was too dangerous and whisked Lea to the Academy for formal instruction. Her training covers the disciplined study of incantations, gestures, and components; spell preparation and ritual casting; and the philosophical underpinnings of wizardry -- that a wizard earns power through study, sacrifice, and understanding of the Weave, not through innate gifts or divine favour. Elmindaria has warned her of wizardry's costs: the fragility of the spellbook, the physical vulnerability of a wizard in combat, and the peril of obsessive knowledge-seeking that can lead to dark paths.
+Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizard, at the [[Ether Scryer's Academy]] in the [[Amethyst District]] of [[Crystal City]]. Elmindaria determined that unsupervised wizardry was too dangerous and whisked Min Ji-ah to the Academy for formal instruction. Her training covers the disciplined study of incantations, gestures, and components; spell preparation and ritual casting; and the philosophical underpinnings of wizardry -- that a wizard earns power through study, sacrifice, and understanding of the Weave, not through innate gifts or divine favour. Elmindaria has warned her of wizardry's costs: the fragility of the spellbook, the physical vulnerability of a wizard in combat, and the peril of obsessive knowledge-seeking that can lead to dark paths.
 
 ## Key Events
 - **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Ember]], [[Augustus Kennedy]], [[Gill Bates]], and [[Jonathan Jordan]]
@@ -57,17 +57,17 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 - Traversed marshes and followed tracks to a ravine; descended into a subterranean fortress
 - Cast Detect Magic within the fortress, sensing necromantic magic behind a trapped hidden door; used Mage Hand to trigger the trap remotely
 - **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Midnight]] — a wizard from Arabel and canonical Avatar Series character. Experienced the rescue of [[Mystra]] from Castle Kilgrave, witnessed her destruction at [[Helm]]'s hands, and saw [[Midnight]] recover a shard of divine power. Her crossing vision — *"Midnight. ke-le."* beside a dark-haired woman and an armoured warrior — now resonates with what she witnessed firsthand
-- **Marpenoth, 222 PA (Session 14)** — Arrived in [[Shadowdale]] as Midnight; clocked by [[Selmavra Elsree]] at the gate before entering. At the [[Old Skull Inn]], decoded the Zhentarim cipher recovered from the Commander's hidden lining — *Operation Shadowfall*, pendant bearer flagged as CRITICAL — and shared a version with the group that omitted certain details. She is not lying. She is editing. In the liminal space between her Earth-mind and Midnight, Lea shared the full text; the party pieced together [[Elminster]], [[Khelben Blackstaff]], and [[Manshoon]] — and on a natural 20, a name that landed wrong: *Corran Blackstaff*, son of the Archmage of Waterdeep. In the courtyard, Midnight was seized by a Zhentarim Agent and freed by [[Torm of the Dales]]'s crossbow bolt; cast *Command* on the Commander; when Reverse Gravity launched her into the air, the pendant activated on its own — a shard of [[Mystra]] reaching up to catch itself on the way down
+- **Marpenoth, 222 PA (Session 14)** — Arrived in [[Shadowdale]] as Midnight; clocked by [[Selmavra Elsree]] at the gate before entering. At the [[Old Skull Inn]], decoded the Zhentarim cipher recovered from the Commander's hidden lining — *Operation Shadowfall*, pendant bearer flagged as CRITICAL — and shared a version with the group that omitted certain details. She is not lying. She is editing. In the liminal space between her Earth-mind and Midnight, Min Ji-ah shared the full text; the party pieced together [[Elminster]], [[Khelben Blackstaff]], and [[Manshoon]] — and on a natural 20, a name that landed wrong: *Corran Blackstaff*, son of the Archmage of Waterdeep. In the courtyard, Midnight was seized by a Zhentarim Agent and freed by [[Torm of the Dales]]'s crossbow bolt; cast *Command* on the Commander; when Reverse Gravity launched her into the air, the pendant activated on its own — a shard of [[Mystra]] reaching up to catch itself on the way down
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s tower: learned the Tablets of Fate rest in Tantras, east; the Celestial Stairway lies beneath the Temple of Lathander; multiple people carry fragments of [[Mystra]], including Elminster and [[Storm Silverhand]]. Storm wove a warding song specifically around Midnight to close her off from Zhentarim scrying. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge — a Tasha's Mind Whip on the Battlelord fed the Chaos table and scattered the damage in directions it was not aimed. When [[Bane]] entered the Temple of Lathander, the pendant pulled toward the Stairway and the party held her back — four sets of hands against a divine current. [[Elminster]] dropped to one knee and found her eyes: *"Be brave, lass. Take him down."* The pendant ignited. Midnight became something older than herself — wild-haired, glowing, made of blue-white starmotes — and spoke in a voice that was not entirely hers: *"You killed me once. I thought you should know — I remember."* She bound herself to [[Bane]] and pulled him through the Stairway, smiling. The pendant went cold. For the first time since Castle Kilgrave, it was just a pendant. The vision fractured on [[Sharantyr]]'s mid-sentence accusation of Elminster's murder. All five returned to Durnn's Research Lab
 - **Crossing vision resolved** — The words heard crossing from Earth — *"Midnight. ke-le."* — were a name and a name: Midnight and [[Kelemvor Lyonsbane|Kelemvor]]. The campfire at the edge of a dark forest. The armoured warrior watching the fire. The moment glimpsed across two worlds is no longer a mystery
 
 ## Relationships
 - **[[Ember]], [[Augustus Kennedy]], [[Gill Bates]], [[Jonathan Jordan]]** -- Fellow travellers from Earth; bound together by displacement and purpose
-- **[[Elmindaria L'Thorian]]** -- Mentor and instructor at the [[Ether Scryer's Academy]]; a demanding teacher who sees Lea's potential and its dangers
-- **[[Corran Blackstaff|Corran]]** -- The archmage who sealed the Cataclysm addressed Lea's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
+- **[[Elmindaria L'Thorian]]** -- Mentor and instructor at the [[Ether Scryer's Academy]]; a demanding teacher who sees Min Ji-ah's potential and its dangers
+- **[[Corran Blackstaff|Corran]]** -- The archmage who sealed the Cataclysm addressed Min Ji-ah's vision-self as "my Lady," implying a connection across lifetimes that remains unexplained
 - **[[Talgen Hucrele Sr.]]** -- Noble patriarch in [[Sunhold]] who entrusted the party with rescuing his missing children
 - **[[Adamantine Guild]]** -- Sworn member; currently assigned to the [[Sunhold]] outpost
-- **[[Midnight]]** -- The Avatar Series wizard whose body Lea inhabited across three sessions of the prequel vision. The connection to Lea's crossing vision is now resolved: *"Midnight. ke-le."* was Midnight's name and Kelemvor's. In the final moments, Midnight became the instrument of [[Mystra]]'s last act — and the pendant she carried went cold in her hand
+- **[[Midnight]]** -- The Avatar Series wizard whose body Min Ji-ah inhabited across three sessions of the prequel vision. The connection to Min Ji-ah's crossing vision is now resolved: *"Midnight. ke-le."* was Midnight's name and Kelemvor's. In the final moments, Midnight became the instrument of [[Mystra]]'s last act — and the pendant she carried went cold in her hand
 - **[[Elminster]]** -- The Sage of Shadowdale, who held [[Bane]] in the Temple of Lathander long enough for Midnight to end it. He did not survive the exchange in any conventional sense. His last words to Midnight, before dropping to one knee, were an instruction and a kindness
 - **[[Storm Silverhand]]** -- [[Mystra]]'s Chosen and Elminster's companion; wove a warding song around Midnight to close her off from Zhentarim scrying. Carries a fragment of Mystra's power, like Midnight. The grief behind her neutrality was visible to anyone paying attention
 - **[[Sharantyr]]** -- Harper who arrived at the Temple of Lathander to find five strangers in the wreckage where Elminster had been. She got as far as "murder of Elminster, Sage of Shadowdale" before the vision fractured. She does not know what happened. She does not know who they are
@@ -137,8 +137,8 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 |------|------------|-------|-----------------|-----|-------|----------|
 | **Potion of Healing** | — | Self | 2d4+2 HP; to another creature = Action | — | — | 1 use |
 | **Expeditious Retreat** | — | Self | Dash as BA for duration; 10 min | 1st | V/S | Conc. |
-| **Misty Step** | — | Self | Teleport up to 30 ft. to an unoccupied space Lea can see | 2nd | V | — |
-| **Elminster's Misdirection** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Until next turn, 1st atk vs Lea has disadv.; Lea's 1st save has adv. | 2nd | V | — |
+| **Misty Step** | — | Self | Teleport up to 30 ft. to an unoccupied space Min Ji-ah can see | 2nd | V | — |
+| **Elminster's Misdirection** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Until next turn, 1st atk vs Min Ji-ah has disadv.; Min Ji-ah's 1st save has adv. | 2nd | V | — |
 | **Elminster's Parting Gift** ([[Elminster's Spellbook|Spellbook]]) | DEX 15 | Touch | Conjure bead (1 hr); holder squeezes for 3d6+4 HP or adv. on a save, or throws 20/60 ft. — 5 ft. DEX 15 or 6d6 force, ½ on save; bead consumed on use | 3rd | V, S | — |
 | **Elminster's Footnote** ([[Elminster's Spellbook|Spellbook]]) | — | Touch | Instantly read/comprehend any touched text regardless of language/script/obfuscation; senses deliberate falsehood (not the truth). Unlocked Session 26. | Cantrip | V, S | — |
 | **Elminster's Marginalia** ([[Elminster's Spellbook|Spellbook]]) | — | Self | Cast a spell from the book (up to 2nd level) without expending a spell slot | — | — | 1/LR |
@@ -153,7 +153,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 | **Chronal Shift** | — | 30 ft. | Force reroll of atk/check/save | — | — | 2×/LR |
 | **Elminster's Rebuke** ([[Elminster's Spellbook|Spellbook]]) | CON 15 | 60 ft. | Trigger: hit by atk/forced save; fail = 3d8 force dmg + disadv. next atk/save; ½ dmg on save | 2nd | V | — |
 
-‡ Silvery Barbs is XGE/SCC (2014) — no XPHB reprint found; already on Lea's Foundry sheet, flagging edition status rather than excluding it.
+‡ Silvery Barbs is XGE/SCC (2014) — no XPHB reprint found; already on Min Ji-ah's Foundry sheet, flagging edition status rather than excluding it.
 
 ---
 
@@ -161,7 +161,7 @@ Lea studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven wizar
 
 - **Arcane Recovery** — 1/LR after a short rest, recover spell slots totaling 2 levels.
 - **Ritual Adept** — Can cast Wizard ritual spells from her spellbook without preparing them.
-- **[[Elminster's Spellbook]] (Tier 2, prequel item):** Contains [[Elminster]]'s original spells. Lea can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* unlocked in Session 26, once Lea had successfully cast 3 spells from the book in play. **Borrowed Focus** *(passive)*: once per turn, the first creature damaged by one of Lea's spells or cantrips takes an extra 1d6 force damage. **Anchor's Steadiness** *(passive)*: advantage on Constitution saving throws to maintain Concentration. **Not Quite There** *(passive)*: once per turn, when Lea casts a spell from the book, she may shift up to 5 ft without provoking opportunity attacks as part of the same action. **Elminster's Marginalia:** see Bonus Actions.
+- **[[Elminster's Spellbook]] (Tier 2, prequel item):** Contains [[Elminster]]'s original spells. Min Ji-ah can read and prepare any spell in the book of a level she can currently cast; at Level 5, entries up to 3rd level are now legible, and higher-level entries become legible as she gains levels and can cast spells of those levels. She cannot transcribe them into her own spellbook while in the dungeon. *Elminster's Footnote* unlocked in Session 26, once Min Ji-ah had successfully cast 3 spells from the book in play. **Borrowed Focus** *(passive)*: once per turn, the first creature damaged by one of Min Ji-ah's spells or cantrips takes an extra 1d6 force damage. **Anchor's Steadiness** *(passive)*: advantage on Constitution saving throws to maintain Concentration. **Not Quite There** *(passive)*: once per turn, when Min Ji-ah casts a spell from the book, she may shift up to 5 ft without provoking opportunity attacks as part of the same action. **Elminster's Marginalia:** see Bonus Actions.
 - **Detect Magic (Elven Lineage)** — Cast *Detect Magic* 1/LR without a spell slot.
 - **Temporal Awareness** — Add Intelligence modifier to initiative rolls.
 - **Fey Ancestry** — Advantage on saves against being Charmed; immune to magical sleep.
@@ -202,7 +202,7 @@ Session 21 downtime:
 - Beholder bone is far-astral and useless for teleportation
 - Wolf bone from [[Arborea]] is not evil; a whole wolf could create a through-line to Arborea
 - Theory: planar items from living magical creatures may break the astral barrier
-- Ledger review: the week before Lea arrived, a huge blood shipment came through and sold out; margin note said creature blood; the city is low on healing potions
+- Ledger review: the week before Min Ji-ah arrived, a huge blood shipment came through and sold out; margin note said creature blood; the city is low on healing potions
 - Learned that an old senile ancient dragon flew out of the northern reaches and died in the land, not in combat
 - Work track: 2 more successes needed for half-proficiency in alchemist's tools
 - Relationship track: no roll
@@ -245,7 +245,7 @@ Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]
 Deity::
-Playbook:: [[Lea - Playbook]]
+Playbook:: [[Min Ji-ah - Playbook]]
 PassivePerception:: 12
 PassiveInsight:: 15
 PassiveInvestigation:: 17
@@ -253,9 +253,9 @@ PassiveStealth:: 11
 
 ## Session 19
 
-Lea visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Lea unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.
+Min Ji-ah visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Min Ji-ah unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.
 
-Lea then visited [[Hucrele Manor]] in the [[Sapphire District]], where she met [[Sorelle]], the maid, and [[Soral Vayne]], the steward. Soral told her that the Blackstaff family is [[Crystal City]]'s first family, that its scion sits on the Council of Seven, and that it is a family of wizards. Lea earned 24 gp.
+Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she met [[Sorelle]], the maid, and [[Soral Vayne]], the steward. Soral told her that the Blackstaff family is [[Crystal City]]'s first family, that its scion sits on the Council of Seven, and that it is a family of wizards. Min Ji-ah earned 24 gp.
 
 ## Session 26
 
@@ -265,4 +265,19 @@ Lea then visited [[Hucrele Manor]] in the [[Sapphire District]], where she met [
 - Recalled the [[Mystra]] and [[Bane]] flashback in which gods died.
 - Cast [[Elminster's Spellbook|Elminster's Inquiry]] to ask the Weave directly how the party can get help from the gods; answer, in three words: "Get past barrier." Confirmed Layla herself has not crossed that barrier. This casting was the third from the spellbook — it unlocked the book's locked cantrip, Elminster's Footnote.
 - Was present outside the [[Temple of Kelemvor]] when paladins emerged screaming that they had lost the Gravelord; initiative rolled.
+
+
+## Session 27
+
+- Reached the [[Temple of Kelemvor]] steps with [[Gill Bates|Gill]] as seven Knights spilled out screaming they had lost the Gravelord; found four or five injured citizens inside and a room of monks still locked around Kelemvor's statue.
+- Sensed illusion magic wrapped around two of the figures holding the door and dropped one instantly with Sleep.
+- Cast [[Elminster's Spellbook|Elminster's Inquiry]] to place the real Gravelord, and got back that he was still in the [[Diamond District]].
+- Killed [[Mother Ilyra Duskveil]] with Tasha's Mind Whip at the [[Shrine of Shar]], ending the Rising of the Dark rite before it completed.
+
+## Session 28
+
+- Spent the Council's address at the [[Jade Spire]] reading the seven with Insight rather than listening: [[Garm]] hates the platform, [[Doran]] is personally embarrassed and blames the party for the city's breached defences, and [[Wystan]] heard none of the speeches and watched only her and Gill. She stared back at Wystan until it was uncomfortable.
+- Read [[Nerise]] as focused entirely outward, on the expedition now returning, rather than on Council business.
+- Cast [[Elminster's Spellbook|Elminster's Inquiry]] on the three moons [[Terra]] had spotted during the Feast, and heard a pipe being smoked. [[Elminster]] again. She saw three demigods kneel to [[Mystra]], Mystra kneel back weeping, and the bargain made: [[Solinari]], [[Lunitari]] and [[Nuitari]] gave themselves up willingly to become Aenath's moons and anchor the Weave in her stead.
+- **Renamed this session.** The PC formerly played as "Lea" is retconned to Min Ji-ah, of Korean origin. Backstory unchanged; only her country of origin differs.
 

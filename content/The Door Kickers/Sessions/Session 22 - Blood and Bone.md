@@ -58,7 +58,7 @@ The statue in the main hall holds scales of justice. JJ had been tasked by Istar
 
 [[Istar Silverlock]] heard the proposal explained to the party and let a moment of silence sit before the cheeky smile arrived. *It could be fun.* The reward he offered: half-proficiency — or full, in his specialties — in any skill, for anyone who helped pull it off. He has proficiency in everything. In deception, insight, investigation, perception, sleight of hand, and stealth, he has double proficiency. He would not be helping directly.
 
-The party's enthusiasm varied. [[Regius]] agreed on the condition he would be compensated — or permitted to pocket something from the church's own coffers. He then talked [[Lea]] into joining. Their participation was settled when the next deadline asserted itself.
+The party's enthusiasm varied. [[Regius]] agreed on the condition he would be compensated — or permitted to pocket something from the church's own coffers. He then talked [[Min Ji-ah]] into joining. Their participation was settled when the next deadline asserted itself.
 
 ## Open Sesame
 
@@ -66,7 +66,7 @@ The [[The Low Flagon|Low Flagon]] meeting had a ten-day window. The window was c
 
 The code phrase — *I have four litres of blood to sell* — was [[Tinny]]'s intelligence from the previous month. It would get someone into the negotiation, not just past the door. The working theory: go in as sellers. Present as people with product and a need for distribution. JJ had the street credibility. [[Shen]] had the academic vocabulary to speak convincingly about what the material was worth. [[Regius]] was new enough to Crystal City that the [[The Claret|Claret]] had no record of him, and persuasive enough to carry a room.
 
-[[Lea]] would go in separately — in disguise, a different table, a different drink, a second set of eyes at ground level. [[Terra]] would stay outside: sole lookout, with sight lines on the only entrance. Where [[Nanuk]] stood was still under consideration: on the roof with Inukshuk for rapid response, or inside in disguise at his own table. Both options remained when the session closed.
+[[Min Ji-ah]] would go in separately — in disguise, a different table, a different drink, a second set of eyes at ground level. [[Terra]] would stay outside: sole lookout, with sight lines on the only entrance. Where [[Nanuk]] stood was still under consideration: on the roof with Inukshuk for rapid response, or inside in disguise at his own table. Both options remained when the session closed.
 
 The meeting had not yet happened.
 

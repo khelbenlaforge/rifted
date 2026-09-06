@@ -179,7 +179,7 @@ His echo had been appearing as a faceless flickering silhouette in Crystal City'
 
 Regius spent the session chasing work, leverage, and answers.
 
-- He and [[Lea]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
+- He and [[Min Ji-ah]] asked [[Soral Vayne]] about discreet fixer work among [[Crystal City]]'s noble houses. Soral ruled out the Blackstaffs and sent him instead to [[Ostrin Feld]] of [[House Verenthal]].
 - House Verenthal hired him to discreetly trail [[Sellas Verenthal]] at night without making contact unless she was in danger.
 - Pay for the Verenthal work came to 51 gp, and the house handed him 10 crystal glyphs to break if Sellas needs emergency help.
 - A second job at the docks paid another 10 gp and unlocked access to [[Azure Tamers]] resources, including their sky tower and their dock-delivery pipeline of tamed griffins and eagles.
@@ -187,11 +187,30 @@ Regius spent the session chasing work, leverage, and answers.
 
 ## Session 24
 
-- Recapped a patrol with [[Lea]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
+- Recapped a patrol with [[Min Ji-ah]] from the previous day: they discovered a floating ruined temple where [[Layla]] pulled four new Rifted arrivals through a summoning circle.
 - Fought alongside those newcomers against unusually solid and resistant shadow creatures.
 - Left for the Claret meeting before the aftermath fully settled, watching the four newcomers routed toward [[Stormberg]].
 - Held back two streets with [[Gill Bates]] as backup during [[Sadiah Ispahani|Sadiah]] and [[Nanuk|Nanuk]]'s morning reconnaissance of [[The Low Flagon]].
 - Donated a vial of blood as leverage for the Claret deal.
 - Part of the talking group with [[Jonathan Jordan]] and [[Shen]].
 - Entered the Claret's inner sanctum.
+
+## Session 25
+
+- Entered [[Corvin's Hold]] with the party when the archway from [[The Low Flagon]]'s back room sealed behind [[Tavia Orn]]—the private pocket-dimension gauntlet of the Garnet and Sunstone Districts' Claret lieutenant.
+- Fought the Floor Test non-lethally once [[Min Ji-ah]]'s Elminster's Inquiry returned *"Don't kill me"*—worked his echo in and out of the melee to buy space for others to slip past rather than cutting guards down. Two guards still died before the shift in tactics took hold, and a third was killed by Corvin himself for showing the party mercy.
+- Present in [[The Marrow Ledger]] when Elminster's Inquiry named the redacted major client as **"Layla and Asmodeus."**
+- **[[House Verenthal]] appeared by name in the older ledgers on those same shelves**, alongside [[Tinny]], a scattering of Academy librarians and lecturers, and a few religious titles. Regius was in the room when his own employer's name surfaced in a Claret account book; the session record does not say whether he registered it.
+- Played along as [[Fillis]]'s requested "backup" while Fillis pressured a debtor into a payment promise; Fillis owes the party a favour afterward.
+- Met [[Corvin Adder]] in person and was party to the deal struck: 100 platinum, a sending-stone lead on [[Layla]] gated behind the [[Sunless Citadel]] trip, [[Vashti Corel]] named as the rival lieutenant pushing into Corvin's territory, and an unspecified future favour owed to Corvin, no questions asked.
+
+
+## Session 28
+
+- Returned to the party late, having spent his absence working for [[Ostrin Feld]].
+- **Cold-open vision, the night of the Claret meeting.** A river black as night, memory dissolving the longer he floated in it, and four people beside him he knew mattered and could not name. Something with enormous wings drove off the scavengers, and the only lucid one among them held up a scroll: *As we agreed. Three souls for mine.* The rest folded down into coins. She collected three and looked at him last. He reads the four as his own family, and the buyer as [[Asmodeus]].
+- **The Verenthal nights.** Unable to tail anyone quietly in scale mail, he worked it as social surveillance instead. Night one: [[Ostrin Feld]] leaves with a flat black case, [[Sellas Verenthal]] follows ten minutes later dressed for a party she never attends, and both end up at a shuttered florist's still taking deliveries. Night two: Sellas goes inside, talks to a rough-looking man with a single ruby ear stud, shoves him out of view—a flash of light, the smell of cooked meat—and walks home calm, one scroll lighter, leaving a smoking body otherwise untouched.
+- Reported it to Ostrin badly, having first tried to establish whether the young lady had tortured animals as a child. Paid 18 gold the first night and 52 the second.
+- **He was seen.** Ostrin knows he knows.
+- Announced his intention to strangle the Lord of the Nine Hells. He is level 5.
 

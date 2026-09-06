@@ -17,7 +17,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:** 2025-11-09
 > **In-Game Date:** Year 222 PA, 11th–12th+ Marpenoth
 > **Location:** [[Sunhold]], southern marshes, [[Sunless Citadel]] (Upper Level)
-> **Party:** [[Jonathan Jordan]], [[Ember]], [[Augustus Kennedy]], [[Lea]], [[Gill Bates]]
+> **Party:** [[Jonathan Jordan]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]], [[Gill Bates]]
 > **Companions:** [[Luks Borg]]
 > **Source:** Archivist export (2026-03-16) — no transcript available; this is the canonical record
 
@@ -53,7 +53,7 @@ The council lays it out plainly. [[Sunhold]] is less than eight months old, foun
 
 ## The Fruit
 
-The team splits. [[Gill Bates]] is sent to [[Tymora's Shrine]] on the settlement's edge. [[Jonathan Jordan]] drifts back toward [[The Stonehill Inn]] for one more round of listening. [[Lea]], [[Ember]], and [[Augustus Kennedy]] follow the directions to the [[Hucrele Pavilion]].
+The team splits. [[Gill Bates]] is sent to [[Tymora's Shrine]] on the settlement's edge. [[Jonathan Jordan]] drifts back toward [[The Stonehill Inn]] for one more round of listening. [[Min Ji-ah]], [[Ember]], and [[Augustus Kennedy]] follow the directions to the [[Hucrele Pavilion]].
 
 [[Talgen Hucrele Sr.]] is not what his wife's public grief suggested. He is graying, careful, with calloused hands that don't quite fit the noble's ring on his finger. He explains the family's position: they came to [[Sunhold]] to invest capital and labor, to build something at the frontier. Two family guards, [[Sir Braford]] and [[Sir Gareth Ironhand]], have been supporting settlement security.
 
@@ -61,7 +61,7 @@ Then: two weeks before the disappearance, Goblin Merchants arrived from the deep
 
 Twenty-four days have passed.
 
-[[Keldara Hucrele]] produces the evidence: a half-eaten piece of [[Goblin Fruit]], impossibly fresh. [[Ember]] takes it in her hands. The color is red the way blood is red, wrong for something that grows. [[Lea]] casts Detect Magic. The fruit hums with two distinct signatures: necromantic, coiled beneath the surface, and something divine or draconic above it.
+[[Keldara Hucrele]] produces the evidence: a half-eaten piece of [[Goblin Fruit]], impossibly fresh. [[Ember]] takes it in her hands. The color is red the way blood is red, wrong for something that grows. [[Min Ji-ah]] casts Detect Magic. The fruit hums with two distinct signatures: necromantic, coiled beneath the surface, and something divine or draconic above it.
 
 The terms: 500 gold per child returned alive. 200 gold for signet rings if the worst has happened. A family heirloom besides.
 
@@ -87,7 +87,7 @@ The party gathers [[Pebbletoad|Pebbletoads]] — small, petrified amphibians —
 
 [[Luks Borg]] stays in [[Sunhold]] to build the guild post. [[Gill Bates]] stays to assist [[Sister Garaele]].
 
-[[Ember]], [[Lea]], [[Jonathan Jordan]], and [[Augustus Kennedy]] head south.
+[[Ember]], [[Min Ji-ah]], [[Jonathan Jordan]], and [[Augustus Kennedy]] head south.
 
 ---
 
@@ -113,11 +113,11 @@ They go down.
 
 ## What the Dark Contains
 
-Below the rope: a vast subterranean fortress. The [[Sunless Citadel]] — its scale only becoming apparent as [[Lea]]'s light pushes back the dark in sections.
+Below the rope: a vast subterranean fortress. The [[Sunless Citadel]] — its scale only becoming apparent as [[Min Ji-ah]]'s light pushes back the dark in sections.
 
 In a courtyard before a ruined tower: a trapdoor. They go around it. In the tower: dead goblins, recently dead. Behind the top-left door: footsteps. Behind the bottom-left door: skittering.
 
-[[Lea]] casts Detect Magic. Necromantic energy bleeds from behind a trapped hidden door to the south.
+[[Min Ji-ah]] casts Detect Magic. Necromantic energy bleeds from behind a trapped hidden door to the south.
 
 [[Augustus Kennedy]] uses Mage Hand to trigger the trap remotely.
 

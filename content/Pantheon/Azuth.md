@@ -50,7 +50,7 @@ Two suborders divide on temperament rather than doctrine: one distrusts sorcerer
 
 ## Role in the Story
 
-Session 26 named Azuth only in passing, via Lea — one of two "lesser deities of magic" (with Savras) she recognized as present in the same temple complex as Mystra (not the Temple of Kelemvor, a separate location). Mystra gives magic freely enough that no priesthood is needed for her; Azuth and Savras both keep small, sparse clergies by comparison — Azuth's Magistrati (see Worshipers above) and Savras's own thin ranks — nothing like the scale of a major temple faith.
+Session 26 named Azuth only in passing, via Min Ji-ah — one of two "lesser deities of magic" (with Savras) she recognized as present in the same temple complex as Mystra (not the Temple of Kelemvor, a separate location). Mystra gives magic freely enough that no priesthood is needed for her; Azuth and Savras both keep small, sparse clergies by comparison — Azuth's Magistrati (see Worshipers above) and Savras's own thin ranks — nothing like the scale of a major temple faith.
 
 ## Connections
 

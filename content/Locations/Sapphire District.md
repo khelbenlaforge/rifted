@@ -42,7 +42,7 @@ The [[Magocracy of Corranor]] governs this district nominally. In practice, the 
 
 The district is quieter than it has been in a generation. Several families relocated from Crystal City during the city's descent from the Floating Lands — some to [[Sunhold]], some farther east. The estates they left behind are watched over by retainers and caretakers, but the warmth has gone out of them. Those who remain notice it. Soral Vayne, who has watched this neighborhood for forty years, says it feels like a held breath.
 
-[[Lea]] arrived in the district seeking connections. What [[Soral Vayne]] saw when she walked through his door is not something he has shared.
+[[Min Ji-ah]] arrived in the district seeking connections. What [[Soral Vayne]] saw when she walked through his door is not something he has shared.
 
 ## Scene Features
 

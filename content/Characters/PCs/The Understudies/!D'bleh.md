@@ -1,14 +1,14 @@
 ---
-title: "!D'bleh"
+title: '!D''bleh'
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-08-02T00:00:00
+updated: 2026-09-06T17:46:18
 ---
 
 # !D'bleh
@@ -158,6 +158,7 @@ Pronouns::
 Affiliation::
 Location::
 Deity::
+Playbook:: [[!D'bleh - Playbook]]
 
 ## Session 1 Update
 

@@ -56,7 +56,7 @@ Affiliation:: [[The Claret]]
 - Agreed the blood vials were the real prize, not the reagents.
 - Offered [[Jonathan Jordan|Jonathan Jordan (JJ)]] a future position under her if the deal with her boss goes through.
 - Noticed [[Terra|Terra]] on the roof outright (a natural 1); the party sent her home rather than risk it. Never noticed [[Sadiah Ispahani|Sadiah]] holding position near the city wall all night.
-- Escorted the party — JJ, [[Shen]], [[Regius]], [[Gill Bates]], [[Nanuk]], and [[Lea]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
+- Escorted the party — JJ, [[Shen]], [[Regius]], [[Gill Bates]], [[Nanuk]], and [[Min Ji-ah]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
 
 ## Session 25 Update
 

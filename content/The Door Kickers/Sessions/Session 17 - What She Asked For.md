@@ -16,7 +16,7 @@ updated: 2026-08-28T14:52:43
 
 The glyph's echo was still ringing off the stone when the blights started moving.
 
-[[Jonathan Jordan|JJ]], [[Lea]], and [[Ember]] moved fast through Belak's study, [[Balsag]] at the rear with [[Shen]] across his back — unconscious, breathing, dead weight. No time for a full accounting of what Lea had pulled from the desk. No time for anything but speed and dark and the sound of something large stirring deeper in the citadel.
+[[Jonathan Jordan|JJ]], [[Min Ji-ah]], and [[Ember]] moved fast through Belak's study, [[Balsag]] at the rear with [[Shen]] across his back — unconscious, breathing, dead weight. No time for a full accounting of what Min Ji-ah had pulled from the desk. No time for anything but speed and dark and the sound of something large stirring deeper in the citadel.
 
 ---
 

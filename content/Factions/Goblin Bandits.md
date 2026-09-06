@@ -34,6 +34,6 @@ They favor ambush tactics, striking at isolated wagons and travelers on the rura
 
 ## Current Status
 
-The party encountered a battle site and was later ambushed by Goblin Bandits on the road to [[Sunhold]]. They fought their way through, though [[Lea]] nearly fell. Roughly 20-30 footprints led into the wilderness, but the party declined to pursue.
+The party encountered a battle site and was later ambushed by Goblin Bandits on the road to [[Sunhold]]. They fought their way through, though [[Min Ji-ah]] nearly fell. Roughly 20-30 footprints led into the wilderness, but the party declined to pursue.
 
 

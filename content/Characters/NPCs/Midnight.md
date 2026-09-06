@@ -64,7 +64,7 @@ The pendant is empty now. She carried a goddess without knowing it. What she car
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the Sanctum mural, [[Lea]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Lea is not Midnight; no soul connection is implied (at this stage).
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the Sanctum mural, [[Min Ji-ah]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Min Ji-ah is not Midnight; no soul connection is implied (at this stage).
 
 ## Character Sheet
 

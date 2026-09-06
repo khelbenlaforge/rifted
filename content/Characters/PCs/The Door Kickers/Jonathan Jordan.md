@@ -41,7 +41,7 @@ JJ excels in stealth, quick manoeuvres, and dagger work. He possesses a natural 
 JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamantine Guild]] and effectively its day-to-day leader in [[Crystal City]]. JJ earned this apprenticeship by completing Istar's test: stealing a gold coin from [[Elmindaria L'Thorian]] without being identified as the thief. The Pantry Heist -- a coordinated caper involving [[Ember]]'s Fog Cloud and stench spell, [[Augustus Kennedy]]'s false alarm, [[Gill Bates]]'s ocean-facts distraction, and [[Luks Borg]]'s enthusiastic participation -- succeeded despite a brief moment where Elmindaria caught JJ's wrist. The lift was completed, the coin secured, and Elmindaria was more impressed than angry. Istar accepted JJ as his apprentice on the spot.
 
 ## Key Events
-- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Lea]], [[Ember]], [[Augustus Kennedy]], and [[Gill Bates]]
+- **High Harvestide, 222 PA** -- Transported from Earth to the [[Jade Spire]] in [[Crystal City]] alongside [[Min Ji-ah]], [[Ember]], [[Augustus Kennedy]], and [[Gill Bates]]
 - Guided by [[Perrin Quickquill]] to the [[Adamantine Guild]]; deferred membership when others accepted
 - Experienced visions of the Cataclysm -- the brotherhood in the tower, the cleric's sacrifice, and disintegration at the [[Corran's Spike]]
 - Joined [[Elmindaria L'Thorian]]'s invisible prank on [[Luks Borg]] in the training arena; stabbed at Luks's Achilles tendon and was knocked out by [[Istar Silverlock]]'s Cloud of Daggers
@@ -53,14 +53,14 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 - Reported to [[Harbin Wester]] on behalf of the [[Adamantine Guild]]; visited [[Barthen's Supplies]]
 - Gathered intelligence at [[The Stonehill Inn]], collecting rumours about the settlement, the missing Hucrele children, and the Goblin Merchants
 - Helped establish the [[Adamantine Guild]] post in [[Sunhold]]
-- Departed south with [[Lea]], [[Ember]], and [[Augustus Kennedy]] to rescue the Hucrele children
+- Departed south with [[Min Ji-ah]], [[Ember]], and [[Augustus Kennedy]] to rescue the Hucrele children
 - Traversed marshes and descended into a subterranean fortress
 - **Marpenoth, 222 PA (Session 13)** — When [[Augustus Kennedy]] touched the Sanctum mural, was pulled into a prequel vision of the Avatar Crisis, inhabiting the body of [[Torm of the Dales]] — a Knight of Myth Drannor and Harper operating undercover in Arabel, canonical Avatar Series character. Traveled with [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]]; witnessed [[Mystra]]'s rescue and death at [[Helm]]'s hands; headed toward [[Shadowdale]] to find [[Elminster]]
 - **Marpenoth, 222 PA (Session 14)** — Earth backstory surfaced: JJ watches himself in a Los Angeles agent meeting — pitch is good, not a name yet, the pool won't clean itself. He is outside the moment, watching the gap he left. In the liminal void, debriefed the others on what he'd witnessed. Arrived in [[Shadowdale]] as Torm; [[Selmavra Elsree]] clocked his Harper walk from a mile out at the gate and said nothing. At the [[Old Skull Inn]], Selmavra played the password: she "almost named Vesper Michael C. Jordan." Torm's counter: *"Augie would be a great name for a familiar. Gill also, actually."* Cover held. In the courtyard, put a crossbow bolt through the Zhentarim Agent's throat — crit — and freed [[Midnight]]. Went down in the fighting; got revived; came back up
 - **Marpenoth, 222 PA (Session 15)** — At [[Elminster]]'s pond, [[Rathan Thentraver]] dropped off the wall: *"Two silver, Torm."* An inside joke from a long time ago between people who have been in danger together — a door opening. Torm walked into the hug without hesitation. Elminster, without standing: *"Did ye, at any point this evening, attempt to pick someone's pocket during an armed altercation?"* Rathan explained Torm to the room while Torm pretended not to be listening — Knights of Myth Drannor, Ninth regiment, years of history in this town he mentioned to nobody. Commissioned as Sword of [[Shadowdale]] by [[Mourngrym Amcathra]]. Fought the West Fang at Ashaba Bridge. When the Ninth arrived, [[Illistyl Elventree]] found him: *"You're alive."* — said the way you say things held in one hand for a very long time. She raised the other and launched him into the fray with a force spell, and in the exact moment he left the ground, kissed him on the cheek. He flew. He was smiling. Held [[Midnight]] against the pull of the Celestial Stairway in the Temple of Lathander as [[Bane]] arrived. Vision fractured on [[Sharantyr]]'s accusation. All five returned to Durnn's Research Lab
 
 ## Relationships
-- **[[Lea]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** -- Fellow travellers from Earth; party members through shared danger
+- **[[Min Ji-ah]], [[Ember]], [[Augustus Kennedy]], [[Gill Bates]]** -- Fellow travellers from Earth; party members through shared danger
 - **[[Istar Silverlock]]** -- Mentor and master; the man who saw JJ's potential when JJ himself hesitated
 - **[[Elmindaria L'Thorian]]** -- Guild scholar; pranked him with Invisibility, then became the target of his heist test -- and respected him for it
 - **[[Luks Borg]]** -- Guild combatant; travelled together to [[Sunhold]]; Luks has a daughter in [[Crystal City]]
@@ -193,7 +193,7 @@ Jonathan earned 19 gp and spent 35 gp with Tavia, for a net change of -16 gp.
 - Led negotiations with Tavia Orn at [[The Low Flagon]], offering blood vials and rare reagents as leverage.
 - Was honest with Tavia about the party's goal of getting home and their suspicion of [[Layla]]'s involvement.
 - Tavia offered him a future position under her.
-- Entered the Claret's inner sanctum with [[Shen]], [[Regius]], [[Gill Bates]], [[Nanuk]], and [[Lea]].
+- Entered the Claret's inner sanctum with [[Shen]], [[Regius]], [[Gill Bates]], [[Nanuk]], and [[Min Ji-ah]].
 
 ## Session 25
 

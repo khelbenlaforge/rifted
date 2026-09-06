@@ -160,7 +160,7 @@ Arcana +19 · Investigation +19 · History +13 · Insight +12 · Perception +12 
 - **Expertise** — Double PB in Arcana (+19) and Investigation (+19).
 - **Cunning Action** — Dash, Disengage, or Hide as a Bonus Action.
 - **Chosen of Mystra** — Truesight 60 ft. · Immune: Charmed, Frightened · Weave Sense: automatically senses all magical effects and other Chosen within 120 ft. · Knows Midnight's pendant for what it is on approach.
-- **Elminster Originals** — *Whispered Doom · Arcane Erasure · Unmooring · Misdirection · Parting Gift · Rebuke · Echo* — spells of his own devising, codified over four centuries. Lea will receive a copy of these in his spellbook; she may scribe each when she can cast spells of that level.
+- **Elminster Originals** — *Whispered Doom · Arcane Erasure · Unmooring · Misdirection · Parting Gift · Rebuke · Echo* — spells of his own devising, codified over four centuries. Min Ji-ah will receive a copy of these in his spellbook; she may scribe each when she can cast spells of that level.
 
 ---
 

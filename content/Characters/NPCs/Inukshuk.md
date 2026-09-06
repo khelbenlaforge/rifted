@@ -32,3 +32,7 @@ Spirit-guide polar bear companion of [[Nanuk|Nanuk]]. Speaks directly to Nanuk.
 - Said the four spirits of the North, South, East, and West are converging to form a new world.
 - Mourned quietly during the three-moons reveal.
 
+## Session 28
+
+- Told [[Nanuk|Nanuk]] that the spirits of his own people are also stuck here, as is the Great Spirit, but that there is hope.
+

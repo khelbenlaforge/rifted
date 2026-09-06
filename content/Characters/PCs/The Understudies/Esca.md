@@ -1,14 +1,14 @@
 ---
-title: "Esca"
+title: Esca
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-08-02T00:00:00
+updated: 2026-09-06T18:09:02
 ---
 
 # Esca
@@ -174,12 +174,13 @@ Pronouns::
 Affiliation:: The Understudies
 Location:: [[Stormberg]]
 Deity:: 
+Playbook:: [[Esca - Playbook]]
 
 ## Session 1 Update
 
 - 29th Uktar, Year 222 PA: the played cold open matched the prepped version closely, including the throw and then his mother 11 years later in Mokpo.
-- 29th Uktar, Year 222 PA: Lea of the Door Kickers retconned her own background in play to be from Korea and recognized Esca.
-- 29th Uktar, Year 222 PA: Lea now knows in-world about Esca's match-fixing and prison history.
-- 29th Uktar, Year 222 PA: Esca's Earth criminal past is no longer purely private backstory; it is confirmed known to at least Lea and may be more broadly known.
+- 29th Uktar, Year 222 PA: Min Ji-ah of the Door Kickers retconned her own background in play to be from Korea and recognized Esca.
+- 29th Uktar, Year 222 PA: Min Ji-ah now knows in-world about Esca's match-fixing and prison history.
+- 29th Uktar, Year 222 PA: Esca's Earth criminal past is no longer purely private backstory; it is confirmed known to at least Min Ji-ah and may be more broadly known.
 
 

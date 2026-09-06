@@ -13,7 +13,7 @@ updated: 2026-08-28T14:52:43
 > [!infobox]
 > # Sorelle
 
-Sorelle is the maid at [[Hucrele Manor]] in the [[Sapphire District]] who admitted [[Lea]] and summoned [[Soral Vayne]] on her behalf.
+Sorelle is the maid at [[Hucrele Manor]] in the [[Sapphire District]] who admitted [[Min Ji-ah]] and summoned [[Soral Vayne]] on her behalf.
 
 ---
 

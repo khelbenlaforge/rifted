@@ -30,6 +30,6 @@ Status:: active
 
 Its first layer, Arvandor, holds Corellon's Crescent Grove palace, shared with his consort Sehanine Moonbow. Elven souls are said to be guided there toward a final, perfected state.
 
-In Aenath, Arborea has come up so far through the theory and practice of planar teleportation: [[Veyris Thantorn]] taught [[Lea]] that wolf bone from Arborea is not evil, and that a whole wolf could create a through-line to the plane — one working theory among several on how the astral barrier might be crossed.
+In Aenath, Arborea has come up so far through the theory and practice of planar teleportation: [[Veyris Thantorn]] taught [[Min Ji-ah]] that wolf bone from Arborea is not evil, and that a whole wolf could create a through-line to the plane — one working theory among several on how the astral barrier might be crossed.
 
 

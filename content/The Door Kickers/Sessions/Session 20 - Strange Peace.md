@@ -61,7 +61,7 @@ They had cast Locate Person. Thousand-foot radius. She was not there.
 
 [[Tinny]] had information, for the same reason that people at the bottom of a supply chain always have information: he knew where the handoff happened and when. The [[The Claret|Claret]] bosses would come to the [[The Low Flagon|Low Flagon]] in four hours to collect the day's take. The supply chain itself came from outside the city — whatever was moving through the [[Garnet District]] was coming in from somewhere else and being distributed locally. Which raised a question that no one had fully answered: if the chain was external, what was [[Layla]] doing in the Garnet District? Was she buying from it, or was the Claret's intelligence about her location something other than a neutral observation?
 
-[[Lea]] sent a message to [[Luks Borg]]: would the Blackstaff family be involved in illegal trade. Luks said no. She believed him.
+[[Min Ji-ah]] sent a message to [[Luks Borg]]: would the Blackstaff family be involved in illegal trade. Luks said no. She believed him.
 
 Tinny gave them the code: four litres of blood to sell. The [[The Low Flagon|Low Flagon]] was the location. The Claret's street operation was about to have company it did not yet know was coming.
 
