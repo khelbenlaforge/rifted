@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:11:35
+updated: 2026-09-06T18:28:43
 ---
 
 # Fern - Playbook
@@ -23,9 +23,9 @@ updated: 2026-09-06T18:11:35
 **Action:**
 - **Want ongoing pressure across several turns, not just one hit →** **Summon Wildfire Spirit** *(DEX 14, 30 ft., 2d6 fire in 10 ft. on cast, 1 Wild Shape use)* — once out, its Bonus Action options and the Kindled Bond/Scorched Ground passives kick in (see Resource note below).
 - **Enemies grouped in melee range of you →** **Burning Hands** *(Circle Spell)* (self, 15-ft. cone, DEX 14, 3d6 fire, ½ on success).
-- **Enemies grouped at range, fight expected to run long →** **Flaming Sphere** *(Circle Spell)* (60 ft., DEX 14, 2d6 fire, ½ on save; movable 30 ft. as a Bonus Action on later turns).
+- **Enemies grouped at range, fight expected to run long →** **Flaming Sphere** *(Circle Spell)* (60 ft., DEX 14, 2d6 fire, ½ on save; the sheet confirms it's movable as a Bonus Action but doesn't give a distance — per a live 5etools lookup, that's up to 30 ft. per move).
 - **Ranged, want reliable per-hit damage or to split across targets →** **Scorching Ray** *(Circle Spell)* (R +6, 120 ft., 3 rays, 2d6 fire each on hit).
-- **Need to strip Invisibility or set up the whole party's next attacks →** **Faerie Fire** *(always prepared)* (60 ft., 20-ft. cube, DEX 14; outlined targets can't be Invisible and grant adv. to attackers, Conc. 1 min).
+- **Need to strip Invisibility or set up the whole party's next attacks →** **Faerie Fire** *(always prepared, 1/LR free or via spell slot)* (60 ft., 20-ft. cube, DEX 14; outlined targets can't be Invisible and grant adv. to attackers, Conc. 1 min).
 - **Cheap ranged cantrip, or need to strip Invisible on a budget →** **Starry Wisp** (R +6, 60 ft., 1d8 radiant; target glows, loses Invisible).
 - **Nothing better worth spending →** **Sickle** *(Nick)* (M +2, 1d4 slash — Nick grants an extra Light-weapon attack as part of the Attack action) or **Shortbow** *(Vex)* (R +2, 1d6 pierce; on hit, adv. on your next attack vs. that target). Both weak for a WIS-caster — lean on spells first.
 
@@ -37,7 +37,7 @@ updated: 2026-09-06T18:11:35
 
 **Reaction:** None at this level.
 
-**Movement:** Flight is open to her right now (light armor doesn't suppress it) — use vertical positioning and escape routes a grounded party can't take.
+**Movement:** Flight is open to her right now (light armor doesn't suppress it) — use vertical positioning and escape routes a grounded party can't take. **Banked Heat** also gives her resistance to fire — she can stand closer to her own Flaming Sphere or the Wildfire Spirit's fire than an ally safely could.
 
 **Resource note:** While the Wildfire Spirit is active, **Kindled Bond** adds +1d6 fire damage or healing the first time each turn it deals fire damage or heals through Enhanced Bond, and **Scorched Ground** gives the first creature it burns each turn disadvantage on its next DEX save before the start of Fern's next turn — worth timing a DEX-save spell (Flaming Sphere, Burning Hands, Summon Wildfire Spirit's cast) right after the spirit tags a target.
 

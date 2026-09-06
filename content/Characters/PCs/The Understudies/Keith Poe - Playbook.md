@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:05:35
+updated: 2026-09-06T18:33:35
 ---
 
 # Keith Poe - Playbook
@@ -31,7 +31,7 @@ updated: 2026-09-06T18:05:35
 - **Infiltrator model active, want range →** **Lightning Launcher** (R +6, 90/300 ft., 1d6 lightning; once/turn on hit, +1d6 lightning).
 - **Single target, guaranteed damage regardless of AC →** **Magic Missile** *(always prepared)* (120 ft., 3 darts, 1d4+1 force each, auto-hit, splittable across targets).
 - **Enemies grouped close to you →** **Thunderwave** *(always prepared)* (self, 15-ft. cube, CON 14, 2d8 thunder + pushed 10 ft. on fail; ½ dmg no push on success).
-- **An unattended 1–5 lb. object is within reach and worth throwing →** **Catapult** (DEX 14, 60 ft.; 3d8 bludgeoning to the struck creature and the object on a fail).
+- **An unattended 1–5 lb. object is within 60 ft. and worth throwing →** **Catapult** (DEX 14, 60 ft.; 3d8 bludgeoning to the struck creature and the object on a fail).
 - **Nothing else worth spending →** **Dagger** (M/R +3, 1d4+1 pierce, thrown) or **Unarmed Strike**.
 
 **Bonus Action** (independent of the above):
@@ -41,7 +41,7 @@ updated: 2026-09-06T18:05:35
 **Reaction:**
 - **Self or a seen creature starts falling →** **Feather Fall** (60 ft., up to 5 creatures, no fall damage if landing before the effect ends, 1 min).
 
-**Movement:** Dreadnaught and Guardian both want to be in melee (5–10 ft.); Infiltrator wants range (90/300 ft.). Since the model can't be swapped mid-fight, plan the model choice around the expected fight before it starts, not around this turn's positioning.
+**Movement:** Dreadnaught and Guardian both want to be in melee (5–10 ft.); Infiltrator wants range (90/300 ft.) and also grants **Powered Steps** (+5 ft. Speed while active) and **Dampening Field** (advantage on Stealth while active) — neither is captured in any table, but both apply automatically whenever Infiltrator is the active model. Since the model can't be swapped mid-fight, plan the model choice around the expected fight before it starts, not around this turn's positioning.
 
 **Comparative Notes:**
 - *Magic Missile vs. Catapult, single target:* Magic Missile auto-hits for a flat 1d4+1 per dart across up to 3 darts, splittable, with no save or attack roll to miss. Catapult needs an unattended 1–5 lb. object on hand and forces a DEX save for a bigger one-shot (3d8) but does nothing on a success. Reach for Magic Missile when landing damage matters more than volume; reach for Catapult only when a suitable object is available and you want to swing bigger.
@@ -72,6 +72,7 @@ updated: 2026-09-06T18:05:35
 - Need to fix a broken tool, lock, or object on the fly → **Mending** (touch, 1-min. cast, repairs a single break/tear ≤1 ft.; free, doesn't count against prepared spells)
 - Need to craft a one-off magical gadget for a specific problem → **Tinker's Magic** (Magic action with Tinker's Tools in hand, create one Tinker's Magic item from the XPHB list within 5 ft.; usable 4×/day, lasts until Long Rest)
 - Need to grab or manipulate something at a distance without getting close → **Mage Hand** (30 ft., carries ≤10 lb., can move up to 30 ft. as a Magic action)
+- Expecting a stealth- or speed-heavy stretch coming up (scouting, infiltration, covering ground fast) → swap into **Infiltrator model** at your next Short or Long Rest for **Dampening Field** (adv. on Stealth) and **Powered Steps** (+5 ft. Speed), both automatic while it's active — not a mid-scene switch, so plan ahead
 - Need a minor magical trick — a spark, a clean-up, a mark, a flavor change → **Prestidigitation** (10 ft., 1 of 6 minor effects)
 - Need to speak to an ally silently across a room without a shared language → **Limited Telepathy** *(Verdan, RAW: 30 ft., no shared language needed, but the target must understand at least one language; simple ideas only)*
 - Need an edge resisting a Charm or Fear effect → **Telepathic Insight** *(Verdan, RAW: advantage on all WIS and CHA saving throws)*

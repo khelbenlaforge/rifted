@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:02:54
+updated: 2026-09-06T18:33:09
 ---
 
 # Kili - Playbook
@@ -49,7 +49,7 @@ updated: 2026-09-06T18:02:54
 - *Bardic Inspiration vs. Chop Chop: Rider Clause, topping up an ally's die:* both grant the same 1d6 die, but Bardic Inspiration draws from the same 4/LR pool Unsettling Words also spends from, while Rider Clause is a separate 1/SR use that doesn't touch that pool at all. Spend Rider Clause first when you expect to need Unsettling Words or more Bardic Inspiration later; save your own pool once Rider Clause is already used.
 - *Dissonant Whispers vs. Tasha's Hideous Laughter, one strong melee threat:* Dissonant Whispers deals real damage immediately and, on a fail, forces the target away via its own reaction — no ongoing commitment from you. Tasha's Hideous Laughter deals no damage but can lock the target down turn after turn as long as your concentration holds, with a new save each turn or whenever it takes damage. Reach for Dissonant Whispers when you want the threat gone this turn; reach for Tasha's when you want it disabled for several turns and can protect concentration.
 - *Vicious Mockery vs. Cloud of Daggers against a cluster:* Vicious Mockery is a cheap, repeatable single-target cantrip with a built-in debuff on a fail. Cloud of Daggers spends a 2nd-level slot and concentration but hits every creature that enters or starts its turn in the 5-ft. cube, once per creature per turn. Reach for Cloud of Daggers when enemies are stacking in one spot; reach for Vicious Mockery for a single target or when concentration is already committed elsewhere.
-- *Silvery Barbs vs. Lucky, defending against an incoming hit:* Silvery Barbs forces the attacker to reroll and take the worse result, at no resource cost beyond the reaction itself, and also hands advantage to whoever you choose next. Lucky imposes disadvantage on the same attack instead, but comes from a shared pool of only 2 points that also covers your own failed checks. Reach for Silvery Barbs first since it costs nothing extra; save Lucky points for when Silvery Barbs isn't available, or the roll you need to fix is your own.
+- *Silvery Barbs vs. Lucky, defending against an incoming hit:* Silvery Barbs forces the attacker to reroll and take the worse result and also hands advantage to whoever you choose next, but — like Dissonant Whispers on this same sheet — its dash in the Recharge column just means no special tag applies, not that it's free; it spends a 1st-level slot from the same 4×1st/2×2nd pool as her other leveled spells. Lucky imposes disadvantage on the same attack instead, from a separate, always-available pool of only 2 points that also covers your own failed checks and costs no slot at all. Reach for Lucky first when slots matter more than the reroll's extra reach (it also hits things Silvery Barbs can't, and vice versa); reach for Silvery Barbs when its wider scope (any creature's success within 60 ft., not just an attack against you) or the bonus advantage it grants is worth the slot.
 
 ## Non-Combat & Creative Uses
 
