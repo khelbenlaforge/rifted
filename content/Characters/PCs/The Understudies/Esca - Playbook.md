@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:08:58
+updated: 2026-09-06T18:33:25
 ---
 
 # Esca - Playbook
@@ -23,7 +23,7 @@ updated: 2026-09-06T18:08:58
 **Triage first — check every turn before anything else (Reaction — pick one per round):**
 - **Just hit by an attack, or targeted by Magic Missile →** **Shield** (Reaction, +5 AC until the start of your next turn incl. vs. the triggering attack; no damage at all from Magic Missile).
 - **Just hit by an attack or failed a save, and no slots to spare →** **Arcane Deflection** (Reaction, +2 AC vs. that attack or +4 to that save, free — but can't cast above a cantrip until the end of your next turn after using it).
-- **Any creature within 60 ft. you can see just succeeded an attack, check, or save — not necessarily against you →** **Silvery Barbs** (Reaction, forces a reroll using the lower result, no slot cost, then grants adv. on the next atk/check/save to a creature of your choice, self allowed).
+- **Any creature within 60 ft. you can see just succeeded an attack, check, or save — not necessarily against you →** **Silvery Barbs** (Reaction, 1st-level slot, forces a reroll using the lower result, then grants adv. on the next atk/check/save to a creature of your choice, self allowed).
 - **Self or a seen creature starts falling →** **Feather Fall** (Reaction, 60 ft., up to 5 creatures, no fall damage).
 
 **Action:**
@@ -38,7 +38,7 @@ updated: 2026-09-06T18:08:58
 
 **Comparative Notes:**
 - *Shield vs. Arcane Deflection, when hit by an attack:* Shield grants a flat +5 AC against the triggering attack (and everything until your next turn) plus full Magic Missile immunity, drawn from a renewable spell slot. Arcane Deflection grants a smaller +2 AC against just that one attack, but costs no slot at all — the price is being locked to cantrips only until the end of your next turn afterward. Reach for Shield when slots are available and the bigger, longer defense matters; reach for Arcane Deflection when slots are running low.
-- *Silvery Barbs vs. Shield, defending against an incoming hit:* Silvery Barbs works on any creature's success within 60 ft. — not just an attack against Esca himself — and costs no slot at all, but only forces a reroll (using the lower result), which might still succeed. Shield only protects Esca's own AC, does cost a slot, but guarantees +5 AC and full immunity if the trigger was a Magic Missile. Reach for Silvery Barbs when the threat isn't against Esca, or slots are scarce; reach for Shield when the guaranteed, bigger defense (or Magic Missile immunity) is worth the slot.
+- *Silvery Barbs vs. Shield, defending against an incoming hit:* both spend a 1st-level slot from the same pool. Silvery Barbs works on any creature's success within 60 ft. — not just an attack against Esca himself — but only forces a reroll (using the lower result), which might still succeed. Shield only protects Esca's own AC, but guarantees +5 AC and full immunity if the trigger was a Magic Missile. Reach for Silvery Barbs when the threat isn't against Esca, or when its extra rider (advantage to a creature of choice) matters more; reach for Shield when the guaranteed, bigger defense — or Magic Missile immunity — is worth it.
 - *Web vs. Suggestion for crowd control:* Web can restrain an unlimited number of targets in its 20-ft. cube on a failed DEX save, and even a successful save still leaves difficult terrain and light obscurement behind. Suggestion needs only one WIS save from a single target and doesn't restrain anyone — it just compels a specific ≤25-word action — but ends the instant that target takes any damage. Reach for Web against a group; reach for Suggestion for a single target you'd rather redirect than fight.
 - *True Strike vs. Dagger, single-target damage:* True Strike uses Esca's INT-based spell attack bonus (+7) and INT-scaled damage die (1d4+5) instead of the Dagger's own DEX-based numbers (+6, 1d4+4) — a strictly better roll and bigger hit, at the cost of being a spell rather than a weapon attack. Default to True Strike over a plain Dagger throw whenever both are available.
 

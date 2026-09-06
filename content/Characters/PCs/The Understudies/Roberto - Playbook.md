@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-09-06T00:00:00
-updated: 2026-09-06T18:01:28
+updated: 2026-09-06T18:27:46
 ---
 
 # Roberto - Playbook
@@ -21,7 +21,7 @@ updated: 2026-09-06T18:01:28
 - **Any attack roll happening in sight — even against someone else →** **Warding Flare** (Reaction, 30 ft., 4/LR) imposes disadvantage on it before it resolves.
 
 **Action:**
-- **Undead in the fight →** **Turn Undead** (WIS 14, 30 ft., pool 2/LR shared) — forces it to flee.
+- **Undead in the fight →** **Turn Undead** (WIS 14, 30 ft., pool 2/LR shared) — each undead you choose within range becomes Frightened + Incapacitated on a fail and tries to flee as far as it can each turn.
 - **Enemies clustered in melee range, or magical darkness needs to go →** **Radiance of the Dawn** (self, 30-ft. emanation, CON 14, 2d10+3 radiant, ½ on success, pool 2/LR shared).
 - **Enemies clustered just outside melee →** **Burning Hands** *(always prepared)* (self, 15-ft. cone, DEX 14, 3d6 fire, ½ on success).
 - **Ranged, want repeatable damage across one or several targets →** **Scorching Ray** *(always prepared)* (R +6, 120 ft., 3 rays, 2d6 fire each on hit).
@@ -47,7 +47,7 @@ updated: 2026-09-06T18:01:28
 - *Healing Word vs. Cure Wounds:* Healing Word heals less (2d4+4) but costs only a Bonus Action and reaches 60 ft., leaving the action free to attack or cast something else. Cure Wounds heals more (2d8+4) but costs the action and requires touch. Reach for Healing Word when tempo or range matters; reach for Cure Wounds when you're already adjacent with nothing better to do with the action.
 - *Divine Spark vs. Guiding Bolt:* Divine Spark draws from the scarce 2/LR Channel Divinity pool but flexibly heals or deals CON-save damage; Guiding Bolt spends a renewable 1st-level slot instead, needs a hit (not a save) to land, and grants advantage to whoever hits the target next. Reach for Guiding Bolt when an ally is about to swing at the same target; reach for Divine Spark when the heal option matters or the target's AC is the bigger problem.
 - *Sanctuary vs. Warding Flare, protecting someone about to be swarmed:* Sanctuary fully redirects attacks and spells away from the warded creature (unless the attacker beats WIS 14) but ends the moment that creature attacks, casts, or deals damage — it only works on someone standing down. Warding Flare doesn't require the target to hold back; it just knocks disadvantage onto any attack roll in sight, including ones against other allies, but doesn't stop the attack outright. Reach for Sanctuary on someone who can afford to disengage; reach for Warding Flare when they still need to fight.
-- *Turn Undead vs. Radiance of the Dawn against a group including undead:* Turn Undead forces one undead to flee outright on a fail, from the same 2/LR pool. Radiance of the Dawn instead hits everyone in a 30-ft. emanation around Roberto for CON-save damage and also dispels magical darkness in range. Reach for Turn Undead against one dangerous undead you want gone now; reach for Radiance of the Dawn when multiple enemies are clustered on you or the darkness itself needs to go.
+- *Turn Undead vs. Radiance of the Dawn against a group including undead:* Turn Undead can hit every undead you choose within 30 ft. at once, forcing a fail to Frightened + Incapacitated and fleeing, from the same 2/LR pool — but it does nothing to non-undead in the same group. Radiance of the Dawn instead hits everyone (undead or not) in a 30-ft. emanation around Roberto for CON-save damage and also dispels magical darkness in range. Reach for Turn Undead when the group is entirely or mostly undead; reach for Radiance of the Dawn when it's mixed, or the darkness itself needs to go.
 - *Burning Hands vs. Scorching Ray vs. Radiance of the Dawn against multiple enemies:* Burning Hands is a close-range cone (self, 15 ft.) trading proximity for a flat 3d6 fire, half on a successful save. Scorching Ray is safer at 120 ft. and splits three separate attack rolls across targets, so one miss doesn't waste the others. Radiance of the Dawn also centers on Roberto but only spends from the scarce Channel Divinity pool, and it doubles as darkness removal. Reach for Scorching Ray when closing the distance isn't safe; reach for Burning Hands when already in the thick of it; save Radiance of the Dawn for when darkness is the actual problem or the pool has a spare use.
 
 ## Loadout Selection
@@ -59,7 +59,7 @@ updated: 2026-09-06T18:01:28
 - Keep: *Guiding Bolt*, *Cure Wounds* — always useful
 
 **Social / exploration-heavy:**
-- Swap in: *Zone of Truth* (2nd, compels honesty within a 15-ft. radius — a hard tool for interrogation) and *Augury* (2nd, ritual, a divinatory read on a course of action before committing to it)
+- Swap in: *Zone of Truth* (2nd, prevents anyone who fails the save inside a 15-ft. radius from speaking a deliberate lie — doesn't compel them to answer, just stops them lying) and *Augury* (2nd, ritual, a divinatory read on a course of action before committing to it)
 - Keep: *Healing Word* — never a bad slot to hold
 
 **Balanced / unknown expedition type:**
@@ -79,6 +79,6 @@ updated: 2026-09-06T18:01:28
 - Need to move or observe unseen or unheard → **Owlin: Silent Feathers** (Stealth +4) paired with **Darkvision 120 ft.**
 - Need to spot doctored goods or a mislabeled barrel → **Brewer's Supplies proficiency** — one of the few skills that carried over cleanly from his old life
 - Need to drive or handle a wagon or cart → **Vehicles (Land) proficiency**
-- Need the edge of reacting the instant a fight starts → **Alert** *(RAW: adds proficiency bonus to Initiative; can swap Initiative with a willing, adjacent ally before the first turn)*
+- Need the edge of reacting the instant a fight starts → **Alert** *(RAW: adds proficiency bonus to Initiative; immediately after rolling Initiative, can swap it with a willing ally's in the same combat — no adjacency required, neither can be Incapacitated)*
 - Possible DM-adjudicated stretch, not RAW — years spent professionally erasing crime scenes for the mob could plausibly let Roberto recognize when someone else has cleaned one up too well → drawn from his established Folk Hero/biohazard-remediation background, not a listed mechanic — worth proposing to the table as a free flavor read rather than assuming it as an automatic check
 
