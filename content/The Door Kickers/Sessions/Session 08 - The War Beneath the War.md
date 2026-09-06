@@ -17,7 +17,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:** January 2026
 > **In-Game Date:** Year 222 PA, 14th Marpenoth
 > **Location:** [[Sunless Citadel]], Upper Level
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
 > **Companions:** [[Meepo]]
 
 ---

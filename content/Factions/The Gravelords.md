@@ -21,7 +21,7 @@ updated: 2026-08-28T14:52:43
 > | ---- | --- |
 > | Type | Religious (Priesthood) |
 > | Base | [[Temple of Kelemvor]] |
-> | Leader | Unknown |
+> | Leader | [[Cadmus Tallow]], First Gravelord |
 
 ## Description
 
@@ -33,7 +33,7 @@ They keep a library. It is not public. Accounts of clerics who plane-shifted to 
 
 ## Leadership & Members
 
-No named high priest has made themselves known to the party. The Gravelords present a collective face: individual clerics are identifiable by their vestments and subdued manner, but names are offered slowly, if at all. The institutional preference is for the work to speak.
+The First Gravelord is the head of the order, currently [[Cadmus Tallow]], 31 years into office. The Gravelords otherwise present a collective face: individual clerics are identifiable by their vestments and subdued manner, but names are offered slowly, if at all. The institutional preference is for the work to speak.
 
 - **[[Augustus Kennedy]]** — Adherent. Not ordained; not a cleric. A recognized affiliate granted library access and formal standing because the divine signature on his [[Kelemvor's Brand|Brand]] was too clear to argue with. The Gravelords do not argue with clear signatures.
 
@@ -74,7 +74,12 @@ Stable and well-resourced within Crystal City. They hold institutional respect a
 
 ---
 
-Leader:: Unknown
+Leader:: [[Cadmus Tallow]]
 Headquarters:: [[Temple of Kelemvor]]
+
+## Session 28
+
+- The First Gravelord is the head of the order.
+- [[Cadmus Tallow]] currently holds the post and has been in office for 31 years.
 
 

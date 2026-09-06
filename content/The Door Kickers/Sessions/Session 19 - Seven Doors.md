@@ -110,9 +110,9 @@ The departure didn't last long. Tyr's people ran the judiciary — not in the ab
 
 He now belonged, technically, to two temples. The city did not appear to find this unusual.
 
-### Lea — Weave and Writ
+### Min Ji-ah — Weave and Writ
 
-[[Lea]] went where the knowledge was. The Alchemist Guild occupied a factory smell — sulphur, acids, the sharp sparkle of controlled reactions — and the woman she'd been brought to meet was worth the smell. [[Veyris Thantorn]]: tattooed elf, sleeveless, quiver in hand, the kind of person who wears expertise like a garment they've had long enough to stop thinking about it.
+[[Min Ji-ah]] went where the knowledge was. The Alchemist Guild occupied a factory smell — sulphur, acids, the sharp sparkle of controlled reactions — and the woman she'd been brought to meet was worth the smell. [[Veyris Thantorn]]: tattooed elf, sleeveless, quiver in hand, the kind of person who wears expertise like a garment they've had long enough to stop thinking about it.
 
 She explained the Weave as something woven through three dimensions at once, filling everything — and what alchemists do to it, and what teleportation requires, and what a tiefling carries in their blood that someone with training might be able to pull on. If Layla was tiefling, if she had even a thread of connection to an adjacent plane, it was possible that she hadn't done the shifting spell so much as redirected a current that was already running through her.
 

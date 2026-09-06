@@ -17,7 +17,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:** January 2026
 > **In-Game Date:** Year 222 PA, 16th Marpenoth
 > **Location:** [[Sunless Citadel]], Grove Level
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
 > **Companions:** [[Balsag]], [[Erky]], [[Little Sister]] (Velvet Vulper)
 > **Source:** Voice memo, processed 2026-03-16
 
@@ -43,7 +43,7 @@ Heading south through the Grove Level, the architecture of the citadel began to 
 
 Before committing south, they checked the routes to the northeast — the scurrying of small feet, possibly goblins, behind a closed door. Something for another time.
 
-[[Lea]] cast Detect Magic. To the southwest, elemental energy — familiar, if distant. But to the south... she couldn't place it. Every school of magic at once. Arcane. Divine. Primal. Layered atop one another in a convergence that shouldn't exist. The entire party felt the pull of it.
+[[Min Ji-ah]] cast Detect Magic. To the southwest, elemental energy — familiar, if distant. But to the south... she couldn't place it. Every school of magic at once. Arcane. Divine. Primal. Layered atop one another in a convergence that shouldn't exist. The entire party felt the pull of it.
 
 They went south.
 
@@ -51,7 +51,7 @@ They went south.
 
 ## The Basalt Door
 
-The corridor ended at a wall of black stone — basalt, seamless, monolithic. No door frame. No handle. No seams. Just a slab of dark rock that radiated the impossible energy [[Lea]] had sensed. And across its surface, *moving*, hundreds of symbols — engraved into the stone yet drifting like living things. Some slow, almost meditative. Others darting with frenetic purpose.
+The corridor ended at a wall of black stone — basalt, seamless, monolithic. No door frame. No handle. No seams. Just a slab of dark rock that radiated the impossible energy [[Min Ji-ah]] had sensed. And across its surface, *moving*, hundreds of symbols — engraved into the stone yet drifting like living things. Some slow, almost meditative. Others darting with frenetic purpose.
 
 It took the party a moment to recognize them. Deity symbols. Gods they knew. Gods they didn't. Gods that had no business being carved into the same surface.
 
@@ -61,7 +61,7 @@ Toward [[Augustus Kennedy]] — the lawful, the protective. [[Tyr]]'s scale. Shi
 
 Toward [[Gill Bates]] — the primal. Waves and flame and stone and wind. The symbols of the four elemental primordials surged toward him, ancient beyond reckoning.
 
-Toward [[Lea]] — knowledge. Magic. [[Mystra]]'s star blazed brightest, flanked by the signs of [[Oghma]] and others who prize understanding above all.
+Toward [[Min Ji-ah]] — knowledge. Magic. [[Mystra]]'s star blazed brightest, flanked by the signs of [[Oghma]] and others who prize understanding above all.
 
 Toward [[Jonathan Jordan]] — the tricksters. The shadowed. Gods of strife and mischief, of necessary chaos and uncomfortable truths. They drifted to him like smoke.
 
@@ -103,13 +103,13 @@ Ember couldn't process it. The rolls refused her. The dual nature that had alway
 
 [[Asmodeus]]'s echo did not leave her. Even when the other infernal gods were drawn elsewhere, the Lord of the Nine stayed at her side, watching, waiting. Patient as only a devil can be.
 
-### Lea — The Dead God's Wall
+### Min Ji-ah — The Dead God's Wall
 
-Isolated at the battlefield's center, [[Lea]] stood among the echoes of [[Mystra]], [[Oghma]], and the gods of art and knowledge. Her group was powerful but incomplete. She could feel it — the puzzle needed *everyone*.
+Isolated at the battlefield's center, [[Min Ji-ah]] stood among the echoes of [[Mystra]], [[Oghma]], and the gods of art and knowledge. Her group was powerful but incomplete. She could feel it — the puzzle needed *everyone*.
 
 Off in the distance, the gods of death had walled themselves away. Bone barriers, high and deliberate. [[Kelemvor]] — the Judge of the Damned — had no interest in the conflict. Whatever this battlefield represented, whatever ancient argument it echoed, the death gods wanted no part of it.
 
-[[Mystra]]'s echo seemed to *ache* toward that wall. And [[Lea]] sensed it — something old between them. Love. Betrayal. A wound that hadn't healed across millennia.
+[[Mystra]]'s echo seemed to *ache* toward that wall. And [[Min Ji-ah]] sensed it — something old between them. Love. Betrayal. A wound that hadn't healed across millennia.
 
 She went to the wall. She pleaded. The dice said no. But the sensing remained — a thread of narrative she could follow later, a door within the door that she hadn't yet been able to open.
 
@@ -139,7 +139,7 @@ Augustus made the most un-paladin-like decision of his life. He stopped fighting
 
 Gil understood. Opposition *is* harmony, when you stop trying to resolve it.
 
-He began moving toward the center, and as his group passed other deity factions, they absorbed them. Primal force pulling divine force into its orbit, heading for the heart of the battlefield where [[Lea]] waited.
+He began moving toward the center, and as his group passed other deity factions, they absorbed them. Primal force pulling divine force into its orbit, heading for the heart of the battlefield where [[Min Ji-ah]] waited.
 
 ---
 
@@ -151,7 +151,7 @@ The light grew. It spread across the landscape of the door, consuming the echoes
 
 If the deities did not come together, this force would consume everything. A universe rendered meaningless. Not destroyed — just... unmade. Rendered irrelevant.
 
-The gods of death were the last holdouts. Walled behind their bone barriers, watching the light approach, stubbornly indifferent. It took [[Lea]] and the echo of [[Mystra]] one more attempt — and this time, with the light searing closer and the DC lower, even [[Kelemvor]] relented. Reluctantly. Bitterly. But he moved toward the center.
+The gods of death were the last holdouts. Walled behind their bone barriers, watching the light approach, stubbornly indifferent. It took [[Min Ji-ah]] and the echo of [[Mystra]] one more attempt — and this time, with the light searing closer and the DC lower, even [[Kelemvor]] relented. Reluctantly. Bitterly. But he moved toward the center.
 
 All factions converged. Opposing pillars of divine light rose against the incandescent force. And in the final moment — a pulse of energy, a silent detonation that should have ended everything — the unified gods held.
 
@@ -209,7 +209,7 @@ The session ended in silence.
 - **The Other** — The incandescent force that threatened to consume the gods. What is it? Is it connected to [[The Awakening]]?
 - **[[Ember]]'s Dual Nature** — Nature and infernal divinity claim her equally. [[Asmodeus]] watches. [[Mielikki]] waits. Which path?
 - **[[Aenath]]'s Shape** — A flat, rectangular world. What's on the other side?
-- **[[Mystra]] and [[Kelemvor]]** — Love, betrayal, and a wall of bone. [[Lea]] sensed it. Will she pursue it?
+- **[[Mystra]] and [[Kelemvor]]** — Love, betrayal, and a wall of bone. [[Min Ji-ah]] sensed it. Will she pursue it?
 - **[[Talgen Hucrele Jr.]]** — Dead. The reward shifts to signet rings and grief. How will [[Keldara Hucrele]] receive the news?
 - **Still Missing** — [[Sharwyn Hucrele]] and [[Sir Braford]] — deeper in the citadel, no confirmed fate
 - **[[Karakas]]** — confirmed dead (Session 09, killed by rats in the Upper Level)

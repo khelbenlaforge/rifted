@@ -1,5 +1,5 @@
 ---
-title: Lea - Playbook
+title: Min Ji-ah - Playbook
 tags:
 - reference
 campaign: Rifted
@@ -8,9 +8,9 @@ updated: 2026-09-04T17:14:55
 created: 2026-09-04T17:14:55
 ---
 
-# Lea - Playbook
+# Min Ji-ah - Playbook
 
-*Companion to [[Lea]]—regenerated from the synced Character Sheet on 2026-09-04. Rerun `pc-playbook` after any `character-sheet-sync` update to keep it current.*
+*Companion to [[Min Ji-ah]]—regenerated from the synced Character Sheet on 2026-09-04. Rerun `pc-playbook` after any `character-sheet-sync` update to keep it current.*
 
 ## Combat Decision Flowchart
 

@@ -33,7 +33,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Istar Silverlock]]** — Reluctant Assistant Guildmaster managing day-to-day operations
 - **[[Elmindaria L'Thorian]]** — Ancient elf scholar and remaining senior member
 - **[[Luks Borg]]** — Senior Adventurer, currently establishing the [[Sunhold]] outpost
-- **[[Jonathan Jordan]]**, **[[Gill Bates]]**, **[[Ember]]**, **[[Augustus Kennedy]]**, **[[Lea]]** — Newest recruits, transported from Earth
+- **[[Jonathan Jordan]]**, **[[Gill Bates]]**, **[[Ember]]**, **[[Augustus Kennedy]]**, **[[Min Ji-ah]]** — Newest recruits, transported from Earth
 
 ## Operations
 

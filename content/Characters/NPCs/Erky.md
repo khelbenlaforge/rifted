@@ -52,7 +52,7 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 - Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]
 - Ventured south to rescue the missing Hucrele children and was captured
 - Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and Grip
-- **Under observation:** [[Luks Borg]] gave [[Lea]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
+- **Under observation:** [[Luks Borg]] gave [[Min Ji-ah]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
 
 ## D&D 5e Stat Block
 

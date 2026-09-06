@@ -48,4 +48,11 @@ Silvanus is revered by druids, nature wardens, and those who dwell in the deep w
 
 [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], acknowledges the philosophical divide between her faith and that of Silvanus. She respects his druids but notes that their willingness to accept suffering as intrinsic to life can make them difficult allies. The tension between the two traditions — compassionate stewardship versus impartial natural law — is one of the defining debates among the nature-faithful of [[Aenath]].
 
+## Session 28
+
+- Silvanus is not one of the four elemental primordials; he is a separate deity of nature who willingly allowed his divine essence to be hammered into the world to bring life.
+- Silvanus is inside the astral barrier rather than in Arborea, which is why he can still speak to mortals.
+- Silvanus takes no worshippers.
+- Legend says Silvanus calls a worthy soul to his grove, which is not a physical space.
+- The Ancients of Lava are searching for Silvanus's grove, and he has never welcomed any of them.
 

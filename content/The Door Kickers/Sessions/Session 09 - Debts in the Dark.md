@@ -17,7 +17,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:**
 > **In-Game Date:** Year 222 PA, 15th Marpenoth
 > **Location:** [[Sunless Citadel]], Upper Level → Durbuluk Goblin Territory
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
 > **Companions:** [[Meepo]] (guide, Upper Level only)
 
 ---

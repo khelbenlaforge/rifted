@@ -55,7 +55,7 @@ Corran Blackstaff is the founding myth of [[Corranor]]. His sacrifice reshaped t
 
 ## Session 23
 
-When [[Lea]] described her landing vision of Corran to [[Lady Blackstaff]] at [[Blackstaff Mansion]], Lady Blackstaff became visibly emotional. She admitted she had never known what Corran looked like, and said Lea's account matched what the family already records of his history.
+When [[Min Ji-ah]] described her landing vision of Corran to [[Lady Blackstaff]] at [[Blackstaff Mansion]], Lady Blackstaff became visibly emotional. She admitted she had never known what Corran looked like, and said Min Ji-ah's account matched what the family already records of his history.
 
 ---
 Race:: Human

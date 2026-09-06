@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-08-27T16:40:36
+updated: 2026-09-05T04:12:56
 ---
 
 # Aenath

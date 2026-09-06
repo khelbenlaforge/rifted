@@ -50,4 +50,12 @@ Class:: Cleric
 Affiliation:: [[Tidecaller's Sanctuary]]
 Deity:: [[Istishia]]
 
+## Session 28
+
+- Revealed to [[Gill Bates]] the Brotherhood of the Four Winds: an ancient pact among the clergies of [[Istishia]], [[Kossuth]], [[Akadi]], and [[Grumbar]] never to admit they can hear their deities' voices, because secrecy keeps the world safe.
+- Has felt Istishia's voice growing fainter for about thirty years, as have his counterparts in the other three faiths.
+- Said the faiths' public rivalries are deliberately staged.
+- Has been funnelling etheric energy to Istishia.
+- Compressed the first level of Gill's Sacred Sea initiation to a single downtime day.
+
 

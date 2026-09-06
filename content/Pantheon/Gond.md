@@ -53,4 +53,8 @@ Smiths, engineers, tinkers, and inventors pay homage to Gond. His influence in [
 - **[[Mystra]]** — Paired with her in the Sanctum statuary. Gond shapes what Mystra sustains — their partnership in the Sanctum suggests a cosmological relationship at the very foundation of [[Aenath]].
 - **[[Bahamut]] and [[Takhisis]]** — Flanking the Mystra-Gond arrangement as protectors of the world they craft and sustain.
 
+## Session 28
+
+- Gond was named as the god of the forge who hammered the four elemental primordials' divine essences, and a fifth life-giving deity's, into the fabric of the world at its making.
+
 

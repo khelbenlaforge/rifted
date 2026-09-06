@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-08-17T01:25:53
+updated: 2026-09-05T05:41:23
 ---
 
 # Selûne
@@ -47,7 +47,7 @@ In battle she favors a four-flanged mace called the Rod of Four Moons, and a sui
 
 ## Role in the Story
 
-Session 26 (the Feast of the Moon) put Selûne at the center of a party-wide revelation. Aenath has four moons total: hers, the one that looks like Earth's own, and three others that carry the Weave itself, visible together only this one night of the year. **This claim comes from Daria, in play, and hasn't been independently verified — treat it as strong in-fiction testimony, not confirmed cosmology, until corroborated.** Selûne's moon plays no direct part in the casting. What it does is mark the night: the Feast is hers, and the Feast is the only time the other three show themselves at all.
+Session 26 (the Feast of the Moon) put Selûne at the center of a party-wide revelation. Aenath has four moons total: hers, the one that looks like Earth's own, and three others that carry the Weave itself, visible together only this one night of the year. **Corroborated Session 28.** Daria's Session 26 account was in-fiction testimony until [[Min Ji-ah]]'s Elminster's Inquiry independently confirmed the mechanism and named the three as [[Solinari]], [[Lunitari]] and [[Nuitari]], demigods who gave themselves up to anchor the Weave for [[Mystra]] from inside the barrier. Treat the three-moon cosmology as confirmed. Selûne's moon plays no direct part in the casting. What it does is mark the night: the Feast is hers, and the Feast is the only time the other three show themselves at all.
 
 Her eternal conflict with Shar also underwrites Shar's own Feast night, the **Rising of the Dark**, her faithful's "year's last full dark" before Selûne reclaims the sky at midnight. That gives the Session 26 prep's Shar-aligned omen concept (see `Feast of the Moon.md` and `2026-08-07 - Session 26 Prep.md`) its actual mechanism, not just a name. **Not yet a tracked Dashboard thread:** the prep's omen never surfaced explicitly in play; the closest confirmed connection is the Gravelord cliffhanger, unconfirmed whether it's the same thread.
 
@@ -55,9 +55,14 @@ Her eternal conflict with Shar also underwrites Shar's own Feast night, the **Ri
 
 - **Shar** — Twin sister, eternal enemy. Their war is the sky's nightly drama. No standalone Shar note exists yet — plain text until one is warranted.
 - **[[Sehanine Moonbow]]** — A close ally and fellow moon deity; the two "worked closely" per shared lore, distinct portfolios (Selûne the moon and its light broadly, Sehanine specifically the elven mystic/dream aspect of it).
-- **[[Mystra]]** — Allied deity of magic. Per Session 26's unconfirmed in-fiction claim, three other moons carry the Weave to mortals; Selûne's own plays host, not conduit, on the one night all four hang in the sky together.
+- **[[Mystra]]** — Allied deity of magic. Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], [[Nuitari]]) carry the Weave to mortals on Mystra's behalf; Selûne's own plays host, not conduit, on the one night all four hang in the sky together.
 - **[[Corellon]]** and **[[Tymora]]** — Allies, per the clip's own ally list. Tymora's own origin (see DM Notes) ties directly back to Selûne.
 - **Lathander** — Ally; she respects his passion and hopes for cooperation against Shar. No note yet.
 - **Mask**, **Umberlee**, and **Moander** — Enemies, over shadow-mischief, the sea, and rot/decay respectively. No notes yet — exist in Aenath per the same standing established for other unbuilt deities today, not a current priority.
+
+## Session 28
+
+- Selûne and Shar were originally a single being of light.
+- Their split created duality, and the first Mystra emerged from that split, after which the rest of the gods came into being.
 
 

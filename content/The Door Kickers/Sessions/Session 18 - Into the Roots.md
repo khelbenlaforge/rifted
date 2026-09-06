@@ -60,7 +60,7 @@ He woke mid-battle and joined the fight without introduction. There was nothing 
 
 ## A Word and a Door
 
-[[Lea]] ended it with a word placed precisely in the right mind at the right moment, no force required.
+[[Min Ji-ah]] ended it with a word placed precisely in the right mind at the right moment, no force required.
 
 *Suggestion*, landed clean: stop attacking the party, let everyone go. [[Belak]] considered this. Complied. His expression held something that might have been acknowledgment, the look of a man who knows when a negotiation has moved past his position rather than genuine surprise. He had never been afraid to lose. He had always been afraid of something else.
 

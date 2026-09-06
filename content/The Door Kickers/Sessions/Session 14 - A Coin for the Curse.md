@@ -16,8 +16,8 @@ updated: 2026-08-28T14:52:43
 > **Date Played:** 2026-03-23
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
 > **Location:** Liminal void (frame); Shadowdale outskirts, Old Skull Inn, Old Skull Inn courtyard (vision)
-> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
-> **Companions (in vision):** [[Midnight]] (Lea), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor Lyonsbane|Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
+> **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
+> **Companions (in vision):** [[Midnight]] (Min Ji-ah), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor Lyonsbane|Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
 > **Source:** Voice memo, processed 2026-03-23
 
 ---
@@ -32,7 +32,7 @@ The Sanctum mural is still glowing.
 
 [[Ember]] is at work. An animal shelter in the middle of its usual beautiful chaos. A regular volunteer walks in with a crate and something is moving inside it that has no business being in the city. Nat 20. It is a pangolin. Simultaneously, Animal Control calls to say an inspector will be there in fifteen minutes. She tries to talk them down. Her assistant bursts out of the back room and at full volume announces the pangolin's presence to the room — and to the person on the phone, who immediately starts asking questions.
 
-Both of them realize, separately, that they are not *in* these moments. They are watching. The same remove JJ and Gill and Lea felt last session: the gap they left, filled in by echo.
+Both of them realize, separately, that they are not *in* these moments. They are watching. The same remove JJ and Gill and Min Ji-ah felt last session: the gap they left, filled in by echo.
 
 Then a woosh, and a door, and somewhere else.
 
@@ -40,9 +40,9 @@ Then a woosh, and a door, and somewhere else.
 
 ## The Space Between Sessions
 
-While [[Augustus Kennedy|Augie]] and [[Ember]] floated in the void, [[Jonathan Jordan]], [[Gill Bates]], and [[Lea]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
+While [[Augustus Kennedy|Augie]] and [[Ember]] floated in the void, [[Jonathan Jordan]], [[Gill Bates]], and [[Min Ji-ah]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
 
-That felt like days. For Augie and Ember, it was nothing. When the prequel party finally sleeps at the end of Session 13, all five ethereal forms drift together in the same liminal space — and the moment of reunion arrives like two conversations colliding. JJ and Gill and Lea are calm. They have the thousand-yard stare of people who have witnessed something and have not fully named it yet. Augie is immediately suspicious of himself: *Is this my fault? I touched the wall.* Yes. Gently — yes.
+That felt like days. For Augie and Ember, it was nothing. When the prequel party finally sleeps at the end of Session 13, all five ethereal forms drift together in the same liminal space — and the moment of reunion arrives like two conversations colliding. JJ and Gill and Min Ji-ah are calm. They have the thousand-yard stare of people who have witnessed something and have not fully named it yet. Augie is immediately suspicious of himself: *Is this my fault? I touched the wall.* Yes. Gently — yes.
 
 The debrief happens in the dark between worlds. Magic does not work here. The story is laid out. Mystra is dead. Helm is standing between the gods and heaven. The Tablets of Fate are somewhere in the Realms, and they are needed — not by the gods, not by the church, but by something larger. Someone hands the mission to the mortals in the room.
 
@@ -136,7 +136,7 @@ At a Perception roll of 15 in the inn: dark armor. Dark-armored soldiers, alread
 
 [[Selmavra Elsree|Selmavra]] is piecing it together.
 
-She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[Lea]]. The man with the Harper's walk is probably [[JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
+She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[Min Ji-ah]]. The man with the Harper's walk is probably [[JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
 
 She finds a way in.
 

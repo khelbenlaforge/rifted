@@ -48,4 +48,9 @@ Istishia's worship draws those attuned to water in all its forms: sailors, fishe
 
 [[Tidecaller Marin Deepcurrent]], a blue-tinged water genasi whose skin bears wave-like patterns, serves as a prominent priest and mentor at the Sanctuary. Among his students is [[Gill Bates]], a devoted acolyte training in the Arcana Domain who embodies Istishia's principles of patience and adaptability in his dual calling as fisher and healer.
 
+## Session 28
+
+- Istishia was named in play as one of the four elemental primordials.
+- Istishia is weakening along with the other three elemental primordials.
+- Istishia's realm is the elemental plane of water, inside the astral barrier.
 

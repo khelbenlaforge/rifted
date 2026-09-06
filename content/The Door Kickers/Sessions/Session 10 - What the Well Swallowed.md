@@ -16,7 +16,7 @@ updated: 2026-08-28T14:52:43
 > **Date Played:**
 > **In-Game Date:** Year 222 PA, 16th Marpenoth
 > **Location:** [[Sunless Citadel]], Durbuluk Goblin Territory → Grove Level
-> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Lea]]
+> **Party:** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
 > **Companions:** [[Erky]] (rescued this session), [[Little Sister]] (rescued this session), [[Balsag]] (joined this session), Grip (giant rat, Balsag's companion)
 
 ---
@@ -39,13 +39,13 @@ The [[Velvet Vulper]]s, it turned out, were fox-like fae — many-tailed, dark a
 
 ## A Message Through the Stone
 
-That evening, still in goblin territory, [[Lea]] used the Sending Stone to reach [[Luks Borg]].
+That evening, still in goblin territory, [[Min Ji-ah]] used the Sending Stone to reach [[Luks Borg]].
 
 She relayed the shape of things: the citadel, the grove, the companions they had acquired. Luks listened.
 
 His response arrived in measured pieces, the way Luks always communicated when he had decided something without telling you he had decided something. He was glad about [[Erky]]. He was specifically glad in a way that warranted a separate instruction: *keep him close. Don't let him know you're watching him.*
 
-[[Lea]] did not ask why. Luks's directives were rarely improved by interrogation. She filed it beside the other things she was carrying that had no frame yet.
+[[Min Ji-ah]] did not ask why. Luks's directives were rarely improved by interrogation. She filed it beside the other things she was carrying that had no frame yet.
 
 ---
 
@@ -87,7 +87,7 @@ Durnn produced alcohol from somewhere, and the celebration began.
 
 [[Augustus Kennedy]] joined the drinking. He remained upright throughout — his resistance to poison extending, apparently, to the goblins' conception of a victory toast. Durnn and most of the warrior goblins became comprehensively intoxicated. [[Augustus Kennedy|Augustus]] was sober inside it, watching.
 
-Elsewhere, [[Lea]], [[Gill Bates]], and [[Ember]] used the cover of the revel to speak with [[Grenl]]. She provided what she could — no warmth in it, just information offered in the dry tone of someone who has been keeping things to herself for long enough that giving them away feels like release.
+Elsewhere, [[Min Ji-ah]], [[Gill Bates]], and [[Ember]] used the cover of the revel to speak with [[Grenl]]. She provided what she could — no warmth in it, just information offered in the dry tone of someone who has been keeping things to herself for long enough that giving them away feels like release.
 
 ---
 

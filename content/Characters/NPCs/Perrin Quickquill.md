@@ -33,7 +33,7 @@ His cheerful, slightly scatter-brained public persona conceals a sharp intellect
 ## Background
 Fifteen years ago, Perrin corrected a mistranslation in one of [[Garm]]'s research requests and was promptly transferred to the orc wizard's personal staff. He has served as [[Garm]]'s indispensable assistant, bodyguard, and confidant ever since, operating from the [[Jade Spire]] in [[Crystal City|Crystal]].
 
-When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], and [[Lea]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the Citrine District. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
+When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], and [[Min Ji-ah]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the Citrine District. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
 
 ## Relationships
 - Personal assistant and bodyguard to [[Garm]], orc wizard of the [[Corranor Council]]
