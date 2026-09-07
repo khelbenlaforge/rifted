@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-08-16T00:33:02
+updated: 2026-09-07T18:05:34
 ---
 
 # Stormberg
@@ -38,6 +38,11 @@ Status:: active
 - **The Wallwatch** — the [[Adamantine Guild]]'s Stormberg branch, first stop for anyone routed the Guild's way. Street-level office, contracts and postings on the wall; thinly staffed like every Guild post these days, but never empty.
 - **The Blind Reaches** — sealed breach sections inside the Stormwall's own mass, cordoned off and Guild-only wherever wall-pests have chewed in too deep. The actual culling work happens out of sight, inside the Wall itself — off-limits to everyone else, for good reason.
 - **The Stormgate** — twin ironbound gates through the Wall, opening only on the same rise-fall cycle as the island. Departure point for arctic expeditions and any trade ship timed tight enough to catch it.
+- **[[Ward Works]]** — the Ether Scryer's Academy's Stormberg branch, a research/engineering annex near the Wallwatch at the city's center — not built into the Wall. Full note exists; see there for detail.
+- **The Dawnhearth** — a plaster-and-column chapel of [[Lathander]] with a rising-sun symbol atop it (not a converted storefront), the first confirmed living Dawnbringer worship anywhere in Aenath. Tended by [[Sister Priya Dawnwell]]. (Session 5, The Understudies.)
+- **Stormberg's Temple of Kelemvor** — a working temple, skeleton-crewed the day after the Feast of the Moon; [[Brother Silas]] met here. (Session 5, The Understudies.)
+- **The pantheon pavilion** — an open, columned building housing statues and shrines to every deity without a temple of its own in Stormberg; noted but not yet visited by the party. (Session 5, The Understudies.)
+- **Yenna's noodle stall** — a fast-line food stall southeast of the city center, near the fields, run by [[Yenna Marrow]]. (Session 5, The Understudies.)
 
 ## Residents
 

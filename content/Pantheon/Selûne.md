@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-05T05:41:23
+updated: 2026-09-07T18:06:01
 ---
 
 # Selûne
@@ -53,11 +53,11 @@ Her eternal conflict with Shar also underwrites Shar's own Feast night, the **Ri
 
 ## Connections
 
-- **Shar** — Twin sister, eternal enemy. Their war is the sky's nightly drama. No standalone Shar note exists yet — plain text until one is warranted.
+- **[[Shar]]** — Twin sister, eternal enemy. Their war is the sky's nightly drama. Note created 2026-09-07 (Understudies Session 5 named her cult directly as an antagonist).
 - **[[Sehanine Moonbow]]** — A close ally and fellow moon deity; the two "worked closely" per shared lore, distinct portfolios (Selûne the moon and its light broadly, Sehanine specifically the elven mystic/dream aspect of it).
 - **[[Mystra]]** — Allied deity of magic. Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], [[Nuitari]]) carry the Weave to mortals on Mystra's behalf; Selûne's own plays host, not conduit, on the one night all four hang in the sky together.
 - **[[Corellon]]** and **[[Tymora]]** — Allies, per the clip's own ally list. Tymora's own origin (see DM Notes) ties directly back to Selûne.
-- **Lathander** — Ally; she respects his passion and hopes for cooperation against Shar. No note yet.
+- **[[Lathander]]** — Ally; she respects his passion and hopes for cooperation against Shar.
 - **Mask**, **Umberlee**, and **Moander** — Enemies, over shadow-mischief, the sea, and rot/decay respectively. No notes yet — exist in Aenath per the same standing established for other unbuilt deities today, not a current priority.
 
 ## Session 28

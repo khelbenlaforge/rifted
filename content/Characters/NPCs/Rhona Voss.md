@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-08-24T18:02:26
+updated: 2026-09-07T18:51:58
 created: 2026-08-24T17:22:42
 ---
 
@@ -55,7 +55,7 @@ First point of contact for The Understudies on arrival in [[Stormberg]] (Session
 
 ## D&D 5e Stat Block
 
-*Source: Homebrew, Rifted (2026-08-24). Level 10 Fighter (Champion), built to class rules rather than DMG monster-design math — treat the `cr` value below as approximate/for tracker display only, not a design target. She fights like what she is: a former culler who still can, not a desk clerk padded out for a stat line.*
+*Encounter stat block — Rhona is an intended Guild-evaluation combat encounter. Mixed from two mundane, non-magical CR 5 humanoid sources rather than a single reskin: the **Gladiator (XMM)** supplies the martial chassis (AC, HP, Parry reaction, attack math — Spear swapped for her established one-handed greatsword, Shield Bash dropped since she carries no shield), and **Ivan Dilisnya (RHW)** supplies the legendary layer (Legendary Resistance, a clean "Retaliate" legendary action) — a real CR 5 legendary humanoid with zero spellcasting, so nothing here contradicts her established unfamiliarity with magic. See the dated DM Notes entry for the build rationale and encounter-budget guidance.*
 
 
 
@@ -63,29 +63,32 @@ First point of contact for The Understudies on arrival in [[Stormberg]] (Session
 
 | | |
 |---|---|
-| **Level** | 10 (Fighter — Champion) |
+| **Level / CR** | Legendary NPC — CR 7 (Gladiator/Ivan Dilisnya mix, XMM/RHW; corrected from an initial CR 5 mislabel — see DM Notes) |
 | **Race** | Human |
-| **HP (Max)** | 94 |
-| **AC** | 19 (Chain Mail, Shield, Defense fighting style) |
+| **HP (Max)** | 112 (15d8+45) |
+| **AC** | 16 (no shield) |
 | **Speed** | 30 ft. |
-| **Proficiency Bonus** | +4 |
+| **Proficiency Bonus** | +3 |
 
 ### Ability Scores
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 12 (+1) | 16 (+3) | 10 (+0) | 16 (+3) | 12 (+1) |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 ### Saving Throws
 
-Strength +8 · Constitution +7
+Strength +7 · Dexterity +5 · Constitution +6 · Wisdom +4
 
 ### Skills
 
-Insight +7 · Perception +7
+Athletics +10 · Insight +4
 
+**Damage Immunities:** None.
+**Condition Immunities:** None.
+**Senses:** passive Perception 11
 **Languages:** Common
-**Equipment:** Chain Mail, Shield, Longsword
+**Equipment:** Greatsword (wielded one-handed); no shield
 
 ---
 
@@ -93,37 +96,30 @@ Insight +7 · Perception +7
 
 | Name | Atk / Save | Range | Damage / Effect | Recharge |
 |------|------------|-------|-----------------|----------|
-| **Longsword** *(Versatile, Mastery: Sap)* | M +8 | 5 ft. | 1d8+4 slashing (1d10+4 two-handed); on hit, target has Disadvantage on its next attack roll before the start of your next turn | — |
-| **Extra Attack** | — | — | Attack twice instead of once when you take the Attack action | — |
-
-### Bonus Actions
-
-| Name | Effect | Recharge |
-|------|--------|----------|
-| **Second Wind** | Regain 1d10+10 HP | 4/Long Rest (1 regained/Short Rest) |
+| **Multiattack** | — | — | Make two Greatsword attacks | — |
+| **Greatsword** | M +7 | 5 ft. | 2d6+4 slashing; wielded one-handed, no shield | — |
 
 ### Reactions
 
 | Name | Effect | Recharge |
 |------|--------|----------|
-| **Protection** (Fighting Style) | When a creature you can see attacks someone else within 5 ft. of you, interpose your shield: Disadvantage on that attack and all further attacks against the target until the start of your next turn, as long as you stay within 5 ft. of them | — |
+| **Parry** | Trigger: hit by a melee attack roll while holding her greatsword. Response: +3 AC against that attack, possibly causing it to miss | — |
+
+### Legendary Actions
+
+*Rhona can take 2 legendary actions, choosing from the options below. Only one option can be used at a time, only at the end of another creature's turn; she regains spent actions at the start of her turn.*
+
+| Name | Effect | Cost / Limit |
+|------|--------|--------------|
+| **Retaliate** | Make one Greatsword attack | 1 action |
+| **Press the Advantage** | Move up to half Speed without provoking Opportunity Attacks | 1 action |
 
 ---
 
 ### Features
 
-- **Fighting Style — Defense** — +1 AC while wearing armor.
-- **Fighting Style — Protection** (level 7) — see Reactions.
-- **Second Wind** — Bonus Action, regain 1d10 + Fighter level HP; 4 uses, 1 regained per Short Rest, all regained on a Long Rest.
-- **Weapon Mastery** — trained in the mastery properties of 5 kinds of Simple/Martial weapons (Longsword's is Sap, above).
-- **Action Surge** — take one additional action on your turn (not the Magic action); 1/Short or Long Rest.
-- **Tactical Mind** — on a failed ability check, expend a Second Wind use to roll 1d10 and add it; not expended if the check still fails.
-- **Tactical Shift** — moving up to half Speed without provoking an Opportunity Attack when you use Second Wind as a Bonus Action.
-- **Tactical Master** — replace a weapon's mastery property with Push, Sap, or Slow for one attack.
-- **Indomitable** — reroll a failed saving throw, adding your Fighter level to the new roll; 1/Long Rest.
-- **Improved Critical** (Champion) — critical hit on a roll of 19 or 20.
-- **Remarkable Athlete** (Champion) — Advantage on Initiative rolls and Strength (Athletics) checks; move up to half Speed without provoking an Opportunity Attack immediately after scoring a critical hit.
-- **Heroic Warrior** (Champion) — can give yourself Heroic Inspiration at the start of your turn whenever you don't already have it.
+- **Legendary Resistance (2/Day)** — if Rhona fails a saving throw, she can choose to succeed instead.
+- **Parry** (Reaction) — see Reactions.
 
 ## Session 4 Update (The Understudies)
 
@@ -133,4 +129,11 @@ Insight +7 · Perception +7
 - Relayed general knowledge of [[Corranor]] and Stormberg's situation, and confirmed the party isn't the only group of Rifted arrivals — a second group is established in [[Crystal City]], conducting its own investigation.
 - Passed on the [[Ether Scryer's Academy]]'s finding that the Rifted carry only "half a soul," which grows toward whole the longer they remain in Aenath — news that reached Stormberg from Crystal City.
 - Walked the five to their quarters: a Guild pocket-dimension with five private rooms and a common room that fills with whatever food or drink is asked of it.
+
+## Session 5 Update (The Understudies)
+
+- Relayed a sending-stone report from Crystal City, but struggled to recall exact details; this was Rhona's own secondhand, unreliable account, not confirmed history: some Rifted had been attacked by the Cult of [[Shar]], and the First Gravelord had apparently been "kidnapped and almost sacrificed on the altar to Shar."
+- Named Garm, "the Keeper of the Spire," of the Council of Seven, as the archmage Layla worked under as an assistant — not as anyone responsible for or behind the party's own arrival; confirmed he's close to the Guild.
+- Delivered on her promised introductions: walked Esca to the [[Ward Works]] to meet [[Ostrun Kell]], walked Roberto to Stormberg's chapel of Lathander to meet [[Sister Priya Dawnwell]], and walked Kili to [[Yenna Marrow]]'s noodle stall. Kept Keith with her over breakfast instead and walked him through Stormberg's economy directly.
+- At day's end, took the party except [[Samson Flint]], still with the work gangs, through a portal to a training arena and began a combat evaluation: drew a **greatsword one-handed off her back, no shield**. Initiative was rolled (Esca led at 31), but the fight itself was cut off for the next session — resumes Session 6 against the legendary stat block above.
 

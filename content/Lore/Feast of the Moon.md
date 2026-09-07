@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-08-16T17:34:43
+updated: 2026-09-07T18:25:32
 created: 2026-08-07T15:38:12
 ---
 
@@ -49,6 +49,10 @@ Not every corner of the night stays somber, either. Lliira's shrine keepers clos
 
 ## Role in the Story
 
-This year's Feast of the Moon hasn't happened yet from the party's current vantage — Session 25 closed with the clock still reading 30th Uktar, Year 222 PA, and the holiday falls the night that follows. Two threads are already ticking against it: [[Corvin Adder]] doesn't actually know when [[Layla]] returns to [[Crystal City]] — only that he won't try the sending stone linking to her until the party's back from the [[Sunless Citadel]] trip with the Blackstaffs. "Near the Feast of the Moon" was his guess, hedged, not a date he's tracking. [[Lady Blackstaff]] confirmed the Blackstaff family departs for the Sunless Citadel with the Director of Antiquities only after the holiday passes. Session 26 could open right into it.
+This holiday has since been played by all three parties — see the Session 26/27/28 (Door Kickers), Session 5 (Understudies), and Session 1 (AUGs) entries below. The lead-in below is kept as historical record of how it was anticipated ahead of Session 26; treat the holiday itself as resolved, not upcoming.
+
+Ahead of Session 26, two threads were ticking against it: [[Corvin Adder]] didn't know when [[Layla]] would return to [[Crystal City]] — only that he wouldn't try the sending stone linking to her until the party was back from the [[Sunless Citadel]] trip with the Blackstaffs. "Near the Feast of the Moon" was his guess, hedged, not a date he was tracking. [[Lady Blackstaff]] confirmed the Blackstaff family would depart for the Sunless Citadel with the Director of Antiquities only after the holiday passed.
+
+**Corroborated from a second city (The Understudies, Session 5).** Stormberg kept its own Deeds of the Dead vigil — parchment names handed to Kelemvor's monks, spoken/burned at the same midnight Crystal City's own ceremony ran — but notably shorter: Stormberg's rite ran roughly 40 minutes to an hour before giving way to music and drinking, against Crystal City's run to dawn (per the Door Kickers' own Session 28 record). Whether that's a real city-to-city difference in scale or just how each table narrated it is unconfirmed. Three PCs' checks caught pieces of the mechanism: Roberto (Religion, Insight) saw the translucent figures claiming names; Esca (Arcana) felt the divination-magic undercurrent; Keith (Perception) clocked the same southern light-surge the party had seen that same night, during Session 4. Two new, unconfirmed details worth flagging for future sessions: **two papers, out of the entire crowd's worth, never burned**, left unclaimed in the monks' hands — and a handful of the translucent figures were still standing, unclaimed, after the last name rose, gone only when the chant stopped. Neither is established anywhere else yet; treat both as open, not as confirmed lore.
 
 

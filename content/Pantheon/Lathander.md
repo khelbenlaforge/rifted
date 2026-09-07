@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-26T00:00:00
-updated: 2026-08-27T17:53:36
+updated: 2026-09-07T19:11:26
 ---
 
 # Lathander
@@ -43,8 +43,12 @@ Lathanderian novices are called the Awakened; full clergy are Dawnbringers, who 
 Chauntea is his long-standing companion; Gond, Tymora, Tyr, Torm, Ilmater, Sune, Selûne, Oghma, Kelemvor, and Mielikki count as allies. His clearest enemy is Talos. More relevant to this campaign is **Shar**, goddess of darkness and loss, whose worshippers work directly against everything dawn and renewal stand for. Helm holds a long-standing grudge against him too, over the death of Helm's lover — an indirect casualty of one of Lathander's own past ambitions.
 
 ## Role in Aenath
-Confirmed, on 29th Uktar Year 222 PA, as the original patron of [[The Sundered Choir]] — a previously undiscovered, abandoned temple to Lathander, torn loose from the ground and left drifting for longer than living memory. No worship of Lathander has otherwise surfaced in Aenath to date; whether the temple predates the [[The Awakening|Awakening]] or arrived some other way is an open question.
+Confirmed, on 29th Uktar Year 222 PA, as the original patron of [[The Sundered Choir]] — a previously undiscovered, abandoned temple to Lathander, torn loose from the ground and left drifting for longer than living memory. No worship of Lathander otherwise surfaced in Aenath until Session 5 (below); whether the temple predates the [[The Awakening|Awakening]] or arrived some other way is an open question.
 
-A second abandoned Lathander temple has now been confirmed — [[The Drowned Dawn]], discovered on Feast of the Moon, Year 222 PA as the AUGs' Session 1 arrival site — structurally different from [[The Sundered Choir]] (underground and buried rather than adrift), with Lathander still unworshipped elsewhere in Aenath to date.
+A second abandoned Lathander temple has been confirmed — [[The Drowned Dawn]], discovered on Feast of the Moon, Year 222 PA as the AUGs' Session 1 arrival site — structurally different from [[The Sundered Choir]] (underground and buried rather than adrift).
+
+**First living worship confirmed (Understudies Session 5, Feast of the Moon into 1 Nightal, Year 222 PA):** the Dawnhearth, a modest working chapel in [[Stormberg]] tended by [[Sister Priya Dawnwell]], is the first active Lathander clergy either party has met in Aenath. That's a genuine break from "both known temples are abandoned." Priya's own theology, as given in play, centers entirely on beginnings. His church abhors undeath and desecration the same way Kelemvor's does. It stops there. Where a soul goes after death isn't his church's concern. She and [[Brother Silas]] (Temple of Kelemvor, same session) confirmed the jurisdictional line from their own sides: Lathander cannot poach a soul that hasn't pledged to him first.
+
+**Worth watching, not asserted:** the PC who met Priya (Roberto) was called to his faith alongside visions of Helm and Sune — a pointed detail given Faerûnian lore's Helm/Lathander grudge over Murdane (see DM Notes). Nothing in-fiction has connected these yet.
 
 
