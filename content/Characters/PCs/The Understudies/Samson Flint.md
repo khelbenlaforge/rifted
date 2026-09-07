@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-09-06T18:06:57
+updated: 2026-09-07T17:25:46
 ---
 
 # Samson Flint
@@ -144,5 +144,9 @@ Affiliation:: The Understudies
 Location:: [[Stormberg]]
 Deity::
 Playbook:: [[Samson Flint - Playbook]]
+
+## Session 5 Update
+
+- Feast of the Moon into 1 Nightal, Year 222 PA: player absent — no scene played. In-fiction, still out with Stormberg's wall work gangs (established Session 4); referenced but not present for Rhona's evening Guild evaluation.
 
 

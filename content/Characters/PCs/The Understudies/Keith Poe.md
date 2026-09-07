@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-06T18:05:39
+updated: 2026-09-07T18:03:43
 ---
 
 # Keith Poe
@@ -163,8 +163,15 @@ Class:: Artificer (Armorer)
 Player:: Zack
 Pronouns::
 Affiliation::
-Location:: [[The Hollowreach]]
+Location:: [[Stormberg]]
 Deity::
 Playbook:: [[Keith Poe - Playbook]]
+
+## Session 5 Update
+
+- Feast of the Moon, Year 222 PA: gave his own name to the midnight blessing's vigil without telling the rest of the party. (Whether his was one of the two papers that never burned is unconfirmed — see the Dashboard's Open Threads; don't treat as resolved.)
+- Feast of the Moon, Year 222 PA: a high perception roll caught Roberto's eyes tracking something invisible during the ceremony (Kili rolled too low to notice the same thing). Hasn't said anything to Roberto about it — an open thread on his side too.
+- 1 Nightal, Year 222 PA: pushed past the Wallwatch's own job board toward Stormberg's manufacturing/artisan side; Rhona walked him through the city's economic triangle (the Academy, House Verenthal's mills, Blackstaff-funded airship stones) and introduced the **[[Iron Seam Guild]]**, the artificer/engineer order maintaining the wall's non-magical machinery — a natural fit flagged for his own path forward.
+- Standing loose end (per his own DM Notes, Arcane Armor conversion / whether he owns Smith's Tools) was **not** resolved this session — the planned Reagent House visit never happened; still open.
 
 

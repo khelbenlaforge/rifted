@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-06T18:09:02
+updated: 2026-09-07T18:03:40
 ---
 
 # Esca
@@ -182,5 +182,11 @@ Playbook:: [[Esca - Playbook]]
 - 29th Uktar, Year 222 PA: Min Ji-ah of the Door Kickers retconned her own background in play to be from Korea and recognized Esca.
 - 29th Uktar, Year 222 PA: Min Ji-ah now knows in-world about Esca's match-fixing and prison history.
 - 29th Uktar, Year 222 PA: Esca's Earth criminal past is no longer purely private backstory; it is confirmed known to at least Min Ji-ah and may be more broadly known.
+
+## Session 5 Update
+
+- Feast of the Moon, Year 222 PA: refused to write a name for the midnight blessing and tore his paper in front of the crowd instead — *"I do not want to commemorate or remember anyone from my past life. They are dead to me."* [[Rhona Voss]] pulled him back gently rather than call him out publicly. Resonates directly with his established Earth-life wound (parental disownment) — not stated in-fiction, DM's own read only, see DM Notes below.
+- 1 Nightal, Year 222 PA: toured the [[Ward Works]] (Stormberg's Ether Scryer's Academy branch) under **[[Ostrun Kell]]**'s supervision — a working alchemy/abjuration research floor, a library heavy on warding theory, and a live demonstration of how volatile the materials testing can get (a nearby test sample detonated during the visit). Library access during downtime is conditional on Rhona's okay, not yet confirmed cleared.
+- 1 Nightal, Year 222 PA: an 18 Investigation during the Ward Works visit earned him a standing offer — at the end of his next downtime, he may scribe one additional level 1 spell of his choice (limited to what a wizard can actually scribe).
 
 

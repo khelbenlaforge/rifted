@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-06T18:02:58
+updated: 2026-09-07T18:03:35
 ---
 
 # Kili
@@ -162,5 +162,11 @@ Playbook:: [[Kili - Playbook]]
 ## Session 2 Update
 
 - 29th Uktar, Year 222 PA: player absent — no scene played for her this session. Her character was a passenger on her own goblin-rider's bat (established since Session 01), which broke off from the group a second time at session's end to set her down with Keith Poe and Roberto in [[The Hollowreach]] rather than continue on to Stormberg — pure repositioning, not a played beat, setting her up to rejoin the party in Session 3.
+
+## Session 5 Update
+
+- Feast of the Moon, Year 222 PA: approached the young priest, [[Balder Skeld]], first to ask about remembering the lost — then, rather than writing a name herself, skipped mourning entirely and charmed him instead, a warm, half-teasing line about hoping one day to have someone worth grieving that hard for. He took it as kindly meant.
+- Feast of the Moon, Year 222 PA: rolled poorly on perception during the ceremony and missed whatever Roberto's eyes were tracking (Keith noticed it instead — see his own note). Doesn't know there's anything to ask about yet.
+- 1 Nightal, Year 222 PA: worked a morning shift at **[[Yenna Marrow|Yenna]]**'s noodle stall southeast of the city center, near the fields, earned genuine goodwill from the line cooks, and used the opening to stir a real (if good-natured) conversation among Stormberg's laborers about how little they see of the money funding the wall.
 
 

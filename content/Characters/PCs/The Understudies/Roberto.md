@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-06T18:01:32
+updated: 2026-09-07T18:03:30
 ---
 
 # Roberto
@@ -170,8 +170,14 @@ Class:: Cleric (Light Domain)
 Player:: Leila
 Pronouns:: he/him
 Affiliation::
-Location:: [[The Hollowreach]]
+Location:: [[Stormberg]]
 Deity:: Lathander
 Playbook:: [[Roberto - Playbook]]
+
+## Session 5 Update
+
+- Feast of the Moon, Year 222 PA: at the midnight blessing, gave one name to the vigil — not his own, someone dead. Was the only one in the square who could see the translucent figures rising to claim their names as the ritual burned them off, including a handful still lingering unclaimed after the last name rose; the vision persisted through the whole rite, unshared by anyone else present.
+- 1 Nightal, Year 222 PA: visited the Dawnhearth (Stormberg's Church of Lathander) and met [[Sister Priya Dawnwell]], who confirmed his arrival vision named [[Helm]] and [[Sune]] alongside Lathander — the first outside confirmation of that reading. Learned Lathander's afterlife stance (concerned with beginnings, not soul-sending; the faithful return to the sun) directly from her.
+- 1 Nightal, Year 222 PA: also visited Stormberg's Temple of Kelemvor and spoke with [[Brother Silas]], who confirmed Lathander cannot claim a soul that never pledged to him — landed pointedly with Priya present for part of the conversation.
 
 
