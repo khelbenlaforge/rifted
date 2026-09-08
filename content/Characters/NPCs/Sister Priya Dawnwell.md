@@ -1,13 +1,13 @@
 ---
 title: Sister Priya Dawnwell
-aliases: null
+aliases: []
 tags:
 - npc
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-09-07T19:11:28
+updated: 2026-09-08T21:18:42
 created: 2026-09-07T18:19:19
 ---
 
@@ -21,7 +21,7 @@ created: 2026-09-07T18:19:19
 > | Race | Half-Elf |
 > | Class | Cleric |
 > | Location | [[Stormberg]] |
-> | Affiliation | Dawnhearth |
+> | Affiliation | Chapel of [[Lathander]], [[Stormberg]] ("the Dawnhearth") |
 > | Deity | [[Lathander]] |
 
 ## Description

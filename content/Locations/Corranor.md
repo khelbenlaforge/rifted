@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-05T16:27:07
+updated: 2026-09-08T19:36:14
 ---
 
 # Corranor
@@ -49,6 +49,10 @@ The population includes humans, elves, and warforged, all descendants of those w
 
 ## Current Events
 
-[[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements. Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222, adding mystery to an already turbulent time.
+[[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements.
+
+**The Rifted.** Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222 — but that was only the first of them. Arrivals have continued across the realm since, at eight separate sites and counting: near the [[Sunless Citadel]], at [[Twilight Grove]], at [[Corran's Spike]], at [[The Sundered Choir]], in [[The Hollowreach]], at [[The Emberveins]], at [[The Drowned Dawn]], and a second time at the Jade Spire itself. Upward of twenty-seven people, in groups that have not yet compared notes with one another. The [[Ether Scryer's Academy]]'s standing finding — that each of the Rifted carries only "half a soul," which grows toward whole the longer they remain in Aenath — has spread from Crystal City as far north as [[Stormberg]], and is now more or less common knowledge.
+
+- **Southern continent (Session 6, The Understudies):** confirmed to exist and be reachable; [[Crystal City]] sent a Guild expedition there roughly two months ago via one of the realm's only two crystal-powered airships.
 
 

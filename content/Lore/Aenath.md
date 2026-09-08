@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-09-05T04:12:56
+updated: 2026-09-09T00:28:13
 ---
 
 # Aenath
@@ -18,6 +18,8 @@ The world itself — a realm of mystical, ever-changing landscapes. Continents d
 ## Geography
 
 [[Aenath]]'s defining feature is its instability. Land masses rise and fall. Transient islands periodically descend from the sky to touch the ocean surface. Cartographers can't keep a map current for long before the terrain shifts under it. The oceans surrounding [[Corranor]] were inaccessible for centuries while the main island floated above them — only with its recent descent has maritime exploration become possible.
+
+A southern continent is confirmed to exist and reachable, though unseen by anyone in [[Stormberg]] firsthand: Crystal City sent a Guild expedition there roughly two months before Session 6, The Understudies, on one of the realm's only two crystal-powered airships. Since the world is flat with no horizon, distant landmasses are visible to anyone who climbs high enough — the real barrier has always been the storms and the lack of a vessel built to cross that far.
 
 ## The Wilds
 

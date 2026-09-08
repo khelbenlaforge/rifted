@@ -153,3 +153,7 @@ Athletics +7 · Intimidation +3 · Perception +4 · Survival +4
 
 Location updated to [[Crystal City]] (2026-07-26, DM confirmed) — has since returned from establishing the Guild post in [[Sunhold]] (see Background).
 
+## Session 6 Update (The Understudies)
+
+- 1 Nightal, Year 222 PA: from Crystal City, independently flagged to [[Rhona Voss]] that The Understudies' bonded items carry something beyond the ordinary — corroborated what she'd already noticed herself about the party's growth items.
+

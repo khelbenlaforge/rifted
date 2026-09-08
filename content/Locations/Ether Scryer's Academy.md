@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-28T14:52:43
+updated: 2026-09-08T19:35:08
 ---
 
 # Ether Scryer's Academy
@@ -35,6 +35,10 @@ A prestigious institution for the mastery of wizardry, standing as a beacon of a
 - **Library** — Vast collection of ancient tomes, spellbooks, and scholarly works
 - **Laboratories** — Equipped for complex magical research and experimentation
 - **Study Rooms** — Where students train under strict guidance to master the Weave
+
+## Branches
+
+- **[[Ward Works]], [[Stormberg]]** — the Academy's northern branch, a cramped, humming annex near the Wallwatch at the city's centre (**not** built into the Stormwall itself). Roughly 30–40 researchers and engineers maintain the ward-lattice and run material alchemy and abjuration testing. Overseen on the floor by **[[Ostrun Kell]]**, a senior dwarf Wall-wright. Its library runs heavy to abjuration and warding theory. The Wall is not merely architecture to them—it is an active magical project, maintained continuously against whatever the Arctic and the storm throw at it. Visited by [[Esca]] on 1 Nightal, Year 222 PA (Session 5, The Understudies).
 
 ## Notable Residents
 

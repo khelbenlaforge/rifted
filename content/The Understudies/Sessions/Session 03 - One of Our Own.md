@@ -1,5 +1,5 @@
 ---
-title: "Session 03 - One of Our Own"
+title: "Session 03 — One of Our Own"
 tags:
   - session
 campaign: Rifted
@@ -7,7 +7,7 @@ session: 3
 date: 2026-08-14
 in-world-date: "29th-30th Uktar, Year 222 PA"
 created: 2026-08-14T00:00:00
-updated: 2026-08-14T00:00:00
+updated: 2026-09-08T21:18:42
 ---
 
 # Session 03 — One of Our Own

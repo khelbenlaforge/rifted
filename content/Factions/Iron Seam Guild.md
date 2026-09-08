@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
-updated: 2026-09-07T19:05:26
+updated: 2026-09-08T21:18:25
 created: 2026-09-07T18:19:06
 ---
 
@@ -23,7 +23,8 @@ created: 2026-09-07T18:19:06
 
 ## Description
 
-- Stormberg artificer and engineer guild that maintains the Wall's non-magical infrastructure: lifts, scaffolding, siege engines against attacking creatures, and diversion channels for creatures the storm itself drives against the Wall. Coordinates with the [[Ether Scryer's Academy]] as its own independent peer.
+- Stormberg artificer and engineer guild that maintains the Wall's non-magical infrastructure: lifts, scaffolding, siege engines against attacking creatures, and diversion channels for creatures the storm itself drives against the Wall. Works alongside the [[Ether Scryer's Academy]] without answering to it—**"in conjunction, but not under"** it, in Rhona Voss's words. Not fully independent of the Academy either; the relationship is a working one in both directions.
+- **Division of labour:** the Academy and its [[Alchemist's Guild]] department produce the materials; Iron Seam's artificers put them to use. Rhona described the Guild as a natural home for an artificer looking for real work.
 
 ---
 

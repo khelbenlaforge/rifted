@@ -1,5 +1,5 @@
 ---
-title: "Session 02 - Landed Wrong"
+title: "Session 02 — Landed Wrong"
 tags:
   - session
 campaign: Rifted
@@ -7,7 +7,7 @@ session: 2
 date: 2026-08-12
 in-world-date: "29th Uktar, Year 222 PA"
 created: 2026-08-14T00:00:00
-updated: 2026-08-14T00:00:00
+updated: 2026-09-08T21:18:42
 ---
 
 # Session 02 — Landed Wrong

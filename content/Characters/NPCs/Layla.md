@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-08T21:18:42
 ---
 
 # Layla
@@ -92,13 +92,23 @@ Deity:: Unknown
 - 29th Uktar, Year 222 PA (Session 2): misrouted two new arrivals, [[Keith Poe]] and [[Roberto]], into [[The Hollowreach]] instead of the Stormberg route the other four took. Arrived winded and visibly embarrassed over her own miscount, warned them a Shadow Creature attack was coming and transport (redirected goblin-riders on giant bats) was inbound, then misty-stepped away immediately — did not stay for the fight and did not return this session. [[Kili]], not Layla, was the one dropped back with Keith Poe and Roberto afterward — she'd been a passenger on that goblin-rider's bat since Session 01, not someone who reunited with them there; her player was absent, so no scene was played for it.
 - Corroborated from the Door Kickers' side (Session 24): [[Regius]] and [[Min Ji-ah]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
-## Session 3 Update
+## Session 3 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: returned to [[Kili]], [[Keith Poe]], and [[Roberto]] in [[The Hollowreach]]. This time she stayed instead of warning them off and vanishing, and revealed a third same-batch teleportee ([[Samson Flint]]) had also been misrouted nearby.
 - She had tracked him herself: found him dragged through a portal doorway by a [[Shadow Creatures|Shadow Creature]].
 - A barrier at that portal stopped her specifically from passing through. Not a locked door. Not a detectable spell — just impassable to her, for reasons she couldn't explain.
 - She brought the three PCs to the portal and left the choice with them, framed as a matter of their own conscience rather than an order: save one of their own from Earth, or don't. They found they could pass through where she could not.
 - Before they went in, she gave them instructions for reaching [[Stormberg]] once Samson was recovered.
+
+## Session 5 Update (The Understudies)
+
+*She does not appear this session. This is what the party learned **about** her, secondhand from [[Rhona Voss]] over a sending stone on 1 Nightal, Year 222 PA — and it is the largest single change in what the Understudies know.*
+
+- **Named as [[Garm]]'s assistant.** Rhona identified Garm, "the Keeper of the Spire," of the [[Corranor Council]], as the archmage Layla worked under. The framing that reached the party was **employer, not instigator** — she did not name Garm as responsible for their arrival, and said he is close to the Guild. She was struggling to recall the sending-stone message accurately as she relayed it, so the precision is the vault's, not a deliberate choice of hers.
+- **Her research subject is the party's own existence.** Garm's work was on ways to *reinstate teleportation* — magic that, as far as anyone in Corranor knows, has never existed in this world, whether between cities or across whatever gap brought the Rifted in.
+- **Her disappearance is timed to the arrivals.** She vanished from [[Crystal City]] around the time the first group of Rifted turned up there, and surfaced again only when this batch did.
+- **The concrete lead:** reagents drawn from the blood of planar beings — tieflings and aasimar — are able to punch a hole through space and time, and Crystal City has a black market trading in exactly those reagents that nobody has been able to trace. **Nothing like it has surfaced in Stormberg yet**, and the party now knows to watch for it.
+- Party-knowledge note: the Understudies can now connect Layla to a named Council archmage and to a specific mechanism. They cannot yet connect her to the soul-retrieval matrix, or to [[Asmodeus]] — see DM Notes.
 
 ## Session 25 Update
 
