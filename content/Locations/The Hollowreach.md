@@ -1,6 +1,6 @@
 ---
 title: The Hollowreach
-aliases: null
+aliases: []
 tags:
 - location
 - location/wilderness
@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-12
 secret: false
 created: 2026-08-12T00:00:00
-updated: 2026-08-12T19:17:10
+updated: 2026-09-08T21:18:42
 ---
 
 # The Hollowreach
@@ -39,6 +39,7 @@ The one thing that marks it as more than just trees: a single clearing near its 
 - **The Drywash** — a dry streambed cutting a straight, mostly-clear lane through the trees; fast footing if you don't mind being seen.
 - **The Antler Trail** — a game path worn by generations of deer, the only clean sprint line through the deep woods.
 - **The Weeping Rise** — a low rocky outcrop with just enough elevation to see over the canopy toward the coast — the nearest thing to a landmark for anyone trying to get their bearings.
+- **The Doorway** — a portal standing where no door should be, cut into the middle of the tree line, its edges not quite sitting right in a way nobody has been able to articulate. It opens onto **[[The Hexad]]**. A Shadow Creature dragged [[Samson Flint]] through it in Session 2–3; [[Layla]] followed and was stopped dead by a barrier on the far side that did *not* stop the three PCs who tried the same threshold. Still standing, still unexplained.
 
 ## Current Events
 
@@ -46,7 +47,17 @@ On a normal day, nothing here is stranger than a forest gets — birdsong, deer 
 
 ### Session 2 Update (The Understudies)
 
-- Two Understudies PCs — Keith Poe and Roberto — arrive here instead of [[The Sundered Choir]], misrouted by whatever magic performed the pull.
+- 29th Uktar, Year 222 PA: two Understudies PCs — [[Keith Poe]] and [[Roberto]] — arrive here instead of [[The Sundered Choir]], misrouted by whatever magic performed the pull.
+- 29th Uktar, Year 222 PA: [[Layla]] arrives in person, rattled, warns them shadows are coming and not to fight, and misty-steps away. Her sending-stone call pulls two goblin-riders and their giant bats out of the Stormberg-bound formation—bringing [[!D'bleh|Gaslight]] and [[Fern]] down here mid-fight.
+- 29th Uktar, Year 222 PA: Roberto is dropped by a Shadow's draining swipe and receives the vision that names [[Lathander]]; he stands again and clears two Shadow Creatures with Radiance of the Dawn. The four break contact and cross the Shadow Font's edge into ordinary daylight, where the shadows stop following entirely.
+- 29th Uktar, Year 222 PA: Gaslight and Fern lift off north for [[Stormberg]] with the riders. There isn't room for everyone, so **[[Kili]] is set down here** by her own rider rather than carried on—leaving three of the batch on the ground at the Hollowreach.
+
+### Session 3 Update (The Understudies)
+
+- 29th Uktar, Year 222 PA: [[Layla]] returns and, for the first time, **stays**. A third misrouted arrival, [[Samson Flint]], had come down near here and been dragged off by a Shadow Creature.
+- 29th–30th Uktar, Year 222 PA: **a doorway that should not exist** stands cut into the middle of the tree line—edges that don't sit right, though nobody can say exactly why. Layla tracked Samson through it and hit a barrier on the far side that stopped *her* and not the PCs. [[Kili]], [[Keith Poe]] and [[Roberto]] chose to go through into **[[The Hexad]]**, and came back out the next morning carrying Samson.
+- Before letting them through, Layla gave them the route to [[Stormberg]] for once Samson was recovered—in case that was the last conversation she got.
+- **Open, unresolved:** why the barrier stopped Layla but not the three of them.
 
 ## Scene Features
 

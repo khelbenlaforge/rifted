@@ -1,6 +1,6 @@
 ---
 title: The Sundered Choir
-aliases: null
+aliases: []
 tags:
 - location
 - location/temple
@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-18T00:00:00
-updated: 2026-07-27T10:58:51
+updated: 2026-09-08T21:18:42
 ---
 
 # The Sundered Choir
@@ -48,8 +48,13 @@ On a normal day, nothing happens here at all — no one has lived on the Sundere
 ### Session 1 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: confirmed in play to be a previously undiscovered, abandoned temple to [[Lathander]], rather than merely an unidentified ruined temple.
-- 29th Uktar, Year 222 PA: four Understudies PCs — !D'bleh, Esca, Fern, and Kili — were pulled here and survived a Shadow Creature ambush.
-- 29th Uktar, Year 222 PA: Regius and Min Ji-ah of the Door Kickers arrived as reinforcements during the ambush.
+- 29th Uktar, Year 222 PA: four Understudies PCs — [[!D'bleh]], [[Esca]], [[Fern]] and [[Kili]] — were pulled here and survived a Shadow Creature ambush.
+- 29th Uktar, Year 222 PA: [[Regius]] and [[Min Ji-ah]] of the Door Kickers arrived as reinforcements during the ambush.
+
+### Session 5 Update (The Understudies)
+
+- 1 Nightal, Year 222 PA: **word of this place has reached [[Stormberg]]'s clergy.** [[Sister Priya Dawnwell]], tending the city's chapel of [[Lathander]], asked [[Rhona Voss]] in [[Roberto]]'s hearing whether there was any word yet of "the ancient floating temple of Lathander recently discovered." She did not name it, and **neither she nor Rhona has connected it to the Choir** — but the party knows exactly which ruin she means.
+- The Choir has therefore stopped being purely a rumor. It is now a thing the Lathanderite faithful in the north are actively asking after, which gives the party a lever they have not yet pulled.
 
 ## Scene Features
 

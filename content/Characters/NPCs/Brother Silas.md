@@ -1,13 +1,14 @@
 ---
 title: Brother Silas
-aliases: null
+aliases: []
 tags:
 - npc
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-09-07T18:18:41
+created: 2026-09-07T18:18:41
+updated: 2026-09-08T21:18:42
 ---
 
 # Brother Silas

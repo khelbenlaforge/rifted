@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-07T18:03:43
+updated: 2026-09-09T00:36:09
 ---
 
 # Keith Poe
@@ -22,7 +22,7 @@ updated: 2026-09-07T18:03:43
 > | **Class** | Artificer (Armorer) |
 > | **Background** | Investigator |
 > | **Player** | Zack |
-> | **Affiliation** | — |
+> | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
 
@@ -45,11 +45,19 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 ## Key Events
 
 - Introduced 2026-08-12 — joined The Understudies.
-- 29th Uktar, Year 222 PA (Session 2): cold open in Mae Sot, Thailand — a human trafficking case he'd been tracking (source Naw Eh Paw), a call from his patron pushing more funding and pressure to close it out fast — isekai'd via his phone's banking app screen turning blue. Landed in [[The Hollowreach]] (misrouted by [[Layla]]), met Roberto for the first time, survived a Shadow Creature ambush alongside him, [[!D'bleh|Gaslight]], and [[Fern]]. Currently in The Hollowreach, not yet arrived at Stormberg.
+- 29th Uktar, Year 222 PA (Session 2): cold open in Mae Sot, Thailand — a human trafficking case he'd been tracking (source Naw Eh Paw), a call from his patron pushing more funding and pressure to close it out fast — isekai'd via his phone's banking app screen turning blue. Landed in [[The Hollowreach]] (misrouted by [[Layla]]), met Roberto for the first time, survived what came out of the dark next, with him and the two who dropped in late.
+- Session 3 (29th–30th Uktar, Year 222 PA): spent a night inside a structure that ran on rules rather than architecture, and came out still unable to account for the door that led into it.
+- Session 4 (Feast of the Moon, Year 222 PA): entered [[Stormberg]] on borrowed rank and spent the whole induction listening. Came away with the city's economic structure. The bracers stayed a blank.
+- Session 5 (Feast of the Moon into 1 Nightal, Year 222 PA): gave a name to the vigil without telling anyone whose it was; spent the following morning with Rhona learning Stormberg's economy and the [[Iron Seam Guild]].
+- Based out of the Wallwatch since Session 4. An artificers' guild sits three streets from his bunk, still waiting on him to walk in.
 
 ## Relationships
 
-- *None recorded yet.*
+- [[Roberto]] — met at the moment of arrival in [[The Hollowreach]]; Keith lunged at him in panic before either understood what was happening. They have been together every session since. Keith caught Roberto's eyes tracking something invisible at the Feast vigil and **still hasn't mentioned it to him**.
+- [[Kili]] — rejoined them in Session 3; went into [[The Hexad]] beside him.
+- [[Samson Flint]] — a man he went into a hostile dimension to retrieve and had still not spoken to a week later.
+- [[Rhona Voss]] — kept him at the table when she sent everyone else out into the city, and talked until he had the whole shape of Stormberg's money. Nobody else in the party got that morning.
+- [[Iron Seam Guild]] — Rhona named it as the natural home for an artificer. Keith has the address and an open invitation, and has so far done nothing with either.
 
 ## Character Sheet
 
@@ -167,11 +175,37 @@ Location:: [[Stormberg]]
 Deity::
 Playbook:: [[Keith Poe - Playbook]]
 
+## Session 2 Update
+
+- 29th Uktar, Year 222 PA: cold open at a noodle stall near the Rim Moei market in Mae Sot, working Naw Eh Paw as a source on a trafficking route across the Myanmar border, when his patron rang with more money and more pressure to file fast. He stepped away to take it, and the walk toward the riverbank stopped being a walk at all.
+- 29th Uktar, Year 222 PA: fell through a shared arrival vision—a tower under a cloud that wouldn't stop turning, ground opening under running crowds, people crushed by falling stone. He died in it, as [[Roberto]] did, and woke on the other side anyway.
+- 29th Uktar, Year 222 PA: came to in [[The Hollowreach]], misrouted there by [[Layla]] when he should have joined the Stormberg route. First contact with Roberto went badly—Keith lunged at him in a panic that read as an attack, then broke for the treeline shouting at him to run.
+- 29th Uktar, Year 222 PA: survived the Shadow Creature ambush that followed with Roberto, [[!D'bleh|Gaslight]] and [[Fern]], running until the ground stopped being wrong. Whatever the boundary was, the things chasing them would not put a foot over it. When the bats went up he was still on the ground; they could not carry five.
+
+## Session 3 Update
+
+- 29th Uktar, Year 222 PA: [[Kili]] arrived, which made three of them, which made the thing [[Layla]] wanted possible.
+- 29th Uktar, Year 222 PA: the doorway was the part he could not let go of. A door standing in a tree line with nothing holding it up, edges that refused to sit right in a way nobody could put words to, and a barrier across it that had stopped Layla cold and would not stop them. She could not explain why. He wrote that down.
+- 29th–30th Uktar, Year 222 PA: went through into [[The Hexad]] with Kili and Roberto. Six rooms turning around a wheel, each one built to test a single principle, and no way to reason it out from the threshold. They solved it the slow way, by walking into the wrong ones.
+- 30th Uktar, Year 222 PA: out the far side into daylight, thirtieth of Uktar, with a fourth body between them who had still not opened his eyes.
+
+## Session 4 Update
+
+- Feast of the Moon, Year 222 PA: [[Esca]] came out of the dark with five brass [[Adamantine Guild]] bracers and no name attached to them. Keith noted that, and has not stopped noting it.
+- Feast of the Moon, Year 222 PA: at the outer gate a watchman's hand went toward his belt and came off it again the moment torchlight caught brass. The town was mid-Feast, names of the dead being read in doorways. Three streets in, straight to the Wallwatch, no wandering.
+- Feast of the Moon, Year 222 PA: **[[Rhona Voss]]** took them onto the branch's books and then, once English came out of someone's mouth, simply talked. The Magocracy. The Blackstaff family the kingdom is named for. The Academy that keeps the Wall's magic running. The half-soul finding. The fact that Rifted had reached Crystal City before them. Keith came out of that room with more of the city's shape than anyone else in the party, which is roughly what he is for.
+
 ## Session 5 Update
 
 - Feast of the Moon, Year 222 PA: gave his own name to the midnight blessing's vigil without telling the rest of the party. (Whether his was one of the two papers that never burned is unconfirmed — see the Dashboard's Open Threads; don't treat as resolved.)
 - Feast of the Moon, Year 222 PA: a high perception roll caught Roberto's eyes tracking something invisible during the ceremony (Kili rolled too low to notice the same thing). Hasn't said anything to Roberto about it — an open thread on his side too.
 - 1 Nightal, Year 222 PA: pushed past the Wallwatch's own job board toward Stormberg's manufacturing/artisan side; Rhona walked him through the city's economic triangle (the Academy, House Verenthal's mills, Blackstaff-funded airship stones) and introduced the **[[Iron Seam Guild]]**, the artificer/engineer order maintaining the wall's non-magical machinery — a natural fit flagged for his own path forward.
 - Standing loose end (per his own DM Notes, Arcane Armor conversion / whether he owns Smith's Tools) was **not** resolved this session — the planned Reagent House visit never happened; still open.
+
+## Session 6 Update
+
+- Night before, 1 Nightal, Year 222 PA: shared a vision with Kili and Roberto — his own. Woke burned along his left side inside an unfamiliar, taller body, a misfired campfire spell blamed on magic gone wrong across a world where the gods had come down to walk it themselves; spent the dream on crutches gathering maps with peers who all looked younger than they should, marking where the old powers had gone. Later shared a closing scene with Kili and Roberto — Helm barring Lathander from a second stairway, refusing any god's return; caught himself mid-prayer to a newly-reborn goddess of magic before he knew he'd started. The vision took his soul with it when it ended — the same thing that happened to Roberto's, nothing like whatever happened to Kili's. None of it made sense the next morning either.
+- 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger. Catapulted a caltrop at her — resisted, but cost her the first of three legendary resistances used against the party that fight. Landed one lightning-launcher hit mid-fight; his last bolt was parried clean, and he spent the fight's final stretch with nothing left to try but standing between Kili and the fight.
+- 1 Nightal, Year 222 PA: heard Rhona's six-years admission along with the rest of the table afterward — nothing aimed at him in particular, but worth keeping on record for a woman he's about to be taking Guild work from.
 
 

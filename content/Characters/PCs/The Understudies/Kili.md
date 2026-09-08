@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-07T18:03:35
+updated: 2026-09-09T00:35:49
 ---
 
 # Kili
@@ -23,7 +23,7 @@ updated: 2026-09-07T18:03:35
 > | **Class** | Bard (College of Eloquence) |
 > | **Background** | Wayfarer |
 > | **Player** | Isa |
-> | **Affiliation** | — |
+> | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
 
@@ -43,12 +43,21 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 
 ## Key Events
 
-- One-shot debut — Session Prep 2026-07-18
-- Session 1 (29th Uktar, Year 222 PA): pulled to Aenath mid-gig in Singapore; landed at [[The Sundered Choir]] and survived a Shadow Creature ambush alongside !D'bleh, Esca, and Fern.
+- Session 1 (29th Uktar, Year 222 PA): taken out of a Singapore void deck mid-gig; landed on a ruin adrift over the cloud with [[!D'bleh]], [[Esca]] and [[Fern]], and was still standing when whatever came out of the stairwell had stopped coming.
+- Session 2 (29th Uktar, Year 222 PA): her rider put her down at [[The Hollowreach]] with [[Keith Poe]] and [[Roberto]]. Stormberg would have to wait.
+- Session 3 (29th–30th Uktar, Year 222 PA): went into [[The Hexad]] with Keith Poe and Roberto and brought [[Samson Flint]] out.
+- Session 4 (Feast of the Moon, Year 222 PA): reached [[Stormberg]] and took Guild colours under [[Rhona Voss]] at the Wallwatch.
+- Session 5 (Feast of the Moon into 1 Nightal, Year 222 PA): charmed [[Balder Skeld]] at the vigil instead of mourning; worked a shift at [[Yenna Marrow]]'s stall and turned it into a conversation about who actually pays for the Wall.
+- **The only PC present for every session so far**—continuously, if passively in Session 2.
 
 ## Relationships
 
-- *(none established yet — the other three Understudies are new acquaintances as of Session 1)*
+- [[Keith Poe]], [[Roberto]] — dropped on her at the Hollowreach and stuck. She has fought a dimensional pocket alongside these two and would call that a crew, if either of them asked.
+- [[Samson Flint]] — she was one of the three who carried him out of the Hexad unconscious. He has no memory of it.
+- [[!D'bleh]], [[Esca]], [[Fern]] — the first three faces of this world. One of them walked back into her life in Session 4; the other two simply stopped being anywhere.
+- [[Rhona Voss]] — asked for work closer to the ground than the Guild's own job board, and got sent to a noodle stall for her trouble, which turned out to be exactly the favour Rhona had intended.
+- [[Yenna Marrow]] — worked her morning line and earned genuine goodwill for pulling her weight.
+- [[Balder Skeld]] — charmed him at the Feast vigil with a warm half-tease; he took it kindly and told her she'd be held in the temple's prayers regardless.
 
 ## Character Sheet
 
@@ -163,10 +172,30 @@ Playbook:: [[Kili - Playbook]]
 
 - 29th Uktar, Year 222 PA: player absent — no scene played for her this session. Her character was a passenger on her own goblin-rider's bat (established since Session 01), which broke off from the group a second time at session's end to set her down with Keith Poe and Roberto in [[The Hollowreach]] rather than continue on to Stormberg — pure repositioning, not a played beat, setting her up to rejoin the party in Session 3.
 
+## Session 3 Update
+
+- 29th Uktar, Year 222 PA: set down at the edge of [[The Hollowreach]] by the same goblin-rider who had carried her since the first landing, rejoining [[Keith Poe]] and [[Roberto]]—the first time three of the batch had stood together since the temple.
+- 29th Uktar, Year 222 PA: [[Layla]] found the three of them, and this time she stayed. No warning shouted from a distance, no misty-step out before the question could be finished. She laid out that a fourth arrival, [[Samson Flint]], had been dragged through a portal doorway by a Shadow Creature, and that a barrier there had stopped her—but might not stop them. She left the decision with them.
+- 29th–30th Uktar, Year 222 PA: went through the doorway into [[The Hexad]] with Keith Poe and Roberto and worked the six-room wheel by trial as much as by talk. Each room tested one thing: protection, generosity, freedom, predation, acquisition, domination. More than one wrong turn sent them back to start over.
+- 30th Uktar, Year 222 PA: came out into real morning light carrying Samson Flint between them, recovered but still unconscious. Four of the seven accounted for.
+
+## Session 4 Update
+
+- Feast of the Moon, Year 222 PA: joined by [[Esca]], who dropped in by giant bat carrying five brass [[Adamantine Guild]] bracers, one apiece, and no explanation of where they had come from. The walk north was the first unhurried stretch any of them had had together, and she spent most of it working out who these people actually were.
+- Feast of the Moon, Year 222 PA: saw three moons come up where one should have been, and gold motes lifting far to the south — the same sky the Door Kickers were standing under in Crystal City that night.
+- Feast of the Moon, Year 222 PA: passed Stormberg's gate on the strength of the brass bracers and was inducted into the Adamantine Guild's Stormberg branch by **[[Rhona Voss]]**, along with the other four. Heard Rhona's account of Corranor, the Magocracy and the Council of Seven, the Ether Scryer's Academy's "half a soul" finding, and the confirmation that they are not the first — an earlier group of Rifted is already established in Crystal City.
+- Feast of the Moon, Year 222 PA: housed with the others in the branch's pocket-dimension quarters—five private rooms off a common room whose floating disk fills with whatever is asked of it.
+
 ## Session 5 Update
 
 - Feast of the Moon, Year 222 PA: approached the young priest, [[Balder Skeld]], first to ask about remembering the lost — then, rather than writing a name herself, skipped mourning entirely and charmed him instead, a warm, half-teasing line about hoping one day to have someone worth grieving that hard for. He took it as kindly meant.
 - Feast of the Moon, Year 222 PA: rolled poorly on perception during the ceremony and missed whatever Roberto's eyes were tracking (Keith noticed it instead — see his own note). Doesn't know there's anything to ask about yet.
 - 1 Nightal, Year 222 PA: worked a morning shift at **[[Yenna Marrow|Yenna]]**'s noodle stall southeast of the city center, near the fields, earned genuine goodwill from the line cooks, and used the opening to stir a real (if good-natured) conversation among Stormberg's laborers about how little they see of the money funding the wall.
+
+## Session 6 Update
+
+- Night before, 1 Nightal, Year 222 PA: shared a vision with Roberto and Keith Poe — her own: a fey realm, a Queen she'd have followed anywhere without knowing why, pixies and satyr-kind to play with before a burning portal put two shapes the size of mountains in front of her, one silver, one gunmetal-dark, colliding hard enough to put her on the ground. The dream continued past that: found herself among dying fairies as a golden-haired figure ("Corellon," someone near her said) shielded them from bolts of dark energy while elves gave up their own souls to strengthen him. Later shared a closing scene with Roberto and Keith — Helm barring Lathander from a second stairway, refusing any god's return. Her own dream just cut to black. No soul leaving her body, nothing dramatic — it simply stopped, and she has no idea why hers ended differently than theirs.
+- 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger, and refused outright to strike her — Vicious Mockery (landed, for real if minor damage) and Silvery Barbs used mostly in support (advantage for allies), healing words for Samson and Rhona both, one Suggestion-style plea to just stop the fight entirely that didn't land. A second Wisdom-save spell late in the fight nearly landed and cost Rhona her third and final legendary resistance. Rhona noticed the hesitation and worked it directly into the encounter — *"Think of me as a bear coming at you in the woods. Are you going to just stand there?"*
+- 1 Nightal, Year 222 PA: Rhona's admission afterward — first real fight in six years, still not wanting to lose any more of "her kids" — landed pointed and personal, aimed straight at Kili's own reluctance to swing at her all fight.
 
 

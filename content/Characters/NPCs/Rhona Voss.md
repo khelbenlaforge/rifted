@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-07T18:51:58
+updated: 2026-09-09T00:28:09
 created: 2026-08-24T17:22:42
 ---
 
@@ -38,6 +38,8 @@ Mid-forties, built like someone who spent years hauling gear through tight, dark
 ## Personality
 
 An ex-culler who traded the tunnels for a desk and never fully made peace with the trade. Runs the Stormberg Wallwatch competently, mostly alone, because she trusts her own accounting over anyone else's. The Guild's fielded plenty of strange stories lately; a few more from these five doesn't rattle her. She recognizes [[Istar Silverlock]]'s name on sight — a peer she trusts by reputation, sight unseen. Arcane theory is a different matter. Average intelligence doesn't help there, and magic that can't be weighed or logged makes her visibly impatient. She'll change the subject rather than admit she's lost the thread.
+
+The desk was never the whole trade for her, and Session 6 confirmed why she keeps it anyway. She hadn't drawn a blade in six years, not since she was supposed to have retired from that part of the work entirely, until the party's Guild evaluation put a greatsword back in her hand. Watching recruits cycle through the branch is its own kind of culling duty, just slower, and every so often one of them doesn't come back from the field. She's stopped pretending that doesn't cost her anything. When she told the party *I do not want to lose any more kids*, she meant it plainly: staying behind the desk, tallying names in a ledger instead of losing them out in the world, is the whole reason she took the job in the first place.
 
 ## Background
 
@@ -118,7 +120,7 @@ Athletics +10 · Insight +4
 
 ### Features
 
-- **Legendary Resistance (2/Day)** — if Rhona fails a saving throw, she can choose to succeed instead.
+- **Legendary Resistance (3/Day)** — if Rhona fails a saving throw, she can choose to succeed instead.
 - **Parry** (Reaction) — see Reactions.
 
 ## Session 4 Update (The Understudies)
@@ -126,7 +128,7 @@ Athletics +10 · Insight +4
 - Midnight, Feast of the Moon, Year 222 PA: inducted [[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]], and [[Esca]] at the Stormberg Wallwatch after the outer gate watch sent them her way.
 - Confirmed their brass bracers as genuine Guild rank — the first of the Guild's four tiers, **Brass → Iron → Mithril → Adamantite**, echoing 5e's own tiers of play.
 - Gave the standard induction: a cot each in the branch's cramped dormitory, a meal, and word that work would be there for them once they'd settled in.
-- Relayed general knowledge of [[Corranor]] and Stormberg's situation, and confirmed the party isn't the only group of Rifted arrivals — a second group is established in [[Crystal City]], conducting its own investigation.
+- Relayed general knowledge of [[Corranor]] and Stormberg's situation, and confirmed the party isn't the only group of Rifted arrivals — an earlier group, the first to arrive, is established in [[Crystal City]], conducting its own investigation.
 - Passed on the [[Ether Scryer's Academy]]'s finding that the Rifted carry only "half a soul," which grows toward whole the longer they remain in Aenath — news that reached Stormberg from Crystal City.
 - Walked the five to their quarters: a Guild pocket-dimension with five private rooms and a common room that fills with whatever food or drink is asked of it.
 
@@ -136,4 +138,11 @@ Athletics +10 · Insight +4
 - Named Garm, "the Keeper of the Spire," of the Council of Seven, as the archmage Layla worked under as an assistant — not as anyone responsible for or behind the party's own arrival; confirmed he's close to the Guild.
 - Delivered on her promised introductions: walked Esca to the [[Ward Works]] to meet [[Ostrun Kell]], walked Roberto to Stormberg's chapel of Lathander to meet [[Sister Priya Dawnwell]], and walked Kili to [[Yenna Marrow]]'s noodle stall. Kept Keith with her over breakfast instead and walked him through Stormberg's economy directly.
 - At day's end, took the party except [[Samson Flint]], still with the work gangs, through a portal to a training arena and began a combat evaluation: drew a **greatsword one-handed off her back, no shield**. Initiative was rolled (Esca led at 31), but the fight itself was cut off for the next session — resumes Session 6 against the legendary stat block above.
+
+## Session 6 Update (The Understudies)
+
+- 1 Nightal, Year 222 PA: resumed and finished the Session 5 cliffhanger Guild evaluation fight against [[Kili]], [[Esca]] (player absent, table-piloted), [[Keith Poe]], [[Roberto]], and [[Samson Flint]] (present from the opening roll of initiative, having joined the call online mid-vision, well before the fight began). Used all three (buffed) legendary resistances — against Keith's catapult, Samson's Necrotic Shroud fright effect, and Kili's second laughter-spell attempt. Dropped to 4 HP and called the fight herself after Esca's Suggestion ("stand down") and a final Silvery Barbs — confirmed the party's existing Brass rank rather than advancing them.
+- 1 Nightal, Year 222 PA: revealed this was her first real fight in six years — she was "supposed to have retired" and now mostly runs the branch office; told the party "I do not want to lose any more kids."
+- 1 Nightal, Year 222 PA: noticed (independently corroborated by [[Luks Borg]] in Crystal City) that every one of the party's growth items is bonded to its owner's soul; agreed to keep this quiet for the party's protection.
+- 1 Nightal, Year 222 PA: explained downtime rules to the party (10-day block, 3 tracks — Relationships/Work/Investigation — DC5 to DC10 to DC15, optional DC20 fourth track) and world lore: Corranor's sea gates open only on landfall; white dragons hold the Arctic north; a southern continent is confirmed, under expedition from Crystal City; teleportation still shouldn't work in this world at all.
 

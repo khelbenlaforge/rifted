@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 date: 2026-06-25
 secret: false
-updated: 2026-09-04T16:11:54
+updated: 2026-09-08T21:37:22
 ---
 
 # Session 21 — Three More
@@ -27,7 +27,7 @@ She didn't look up when they arrived.
 
 She had exactly three [[Adamantine Guild]] bracers ready. She had brought them before anyone arrived.
 
-[[Terra]] and [[Sadiah Ispahani]] had come out of their own moment of violence — a rally near [[Corran's Spike]], not their own memory but someone else's, a flat world cracking apart and a man pressing himself into the earth until the earth stopped moving. [[Erwina Lesmana]] had come out of a boat in a bay at night, a spotlight finding her, a choice half-made. All three stood now at the base of a geological monument bearing the name of the man from the vision, on a world without a familiar horizon, being studied by a tiefling who didn't bother hiding that she'd expected them.
+[[Terra]] and [[Sadiah Ispahani]] had come out of their own moment of violence — a rally near [[Corran's Spike]], not their own memory but someone else's, a flat world cracking apart and a man pressing himself into the earth until the earth stopped moving. [[Erwina Lesmana]] had come out of a boat in a bay at night, a spotlight finding him, a choice half-made. All three stood now at the base of a geological monument bearing the name of the man from the vision, on a world without a familiar horizon, being studied by a tiefling who didn't bother hiding that she'd expected them.
 
 Layla gave them two things: the bracers and [[Perrin Quickquill]]'s name. When the [[Shadow Creatures]] came out of the failing light sixty feet behind the newcomers, she didn't turn around. They didn't approach her. When the three looked back from twenty feet down the road, she was already crouched over her measurements again, her back to creatures that simply did not track her as a variable worth considering.
 
@@ -51,7 +51,7 @@ The gate guard at [[Crystal City]] had never heard of Layla. He rolled a one. Th
 
 [[Istar Silverlock]] had been cleaning something. He was always cleaning something these days; [[Elmindaria L'Thorian|Daria]]'s punishments were creative. He looked at the three newcomers the way he looked at everything that arrived without warning and required a response — with resigned competence and a problem already half-solved in his head. He pulled [[Nanuk]] aside and argued, with the persuasion of someone who had earned the right to be believed, that chasing Layla east would accomplish less than going through the [[The Claret|Claret]]. That he didn't know whether Layla was evil or not. That she had worked for this city for years and people respected her. Nanuk didn't trust him. He was convincing anyway.
 
-[[Luks Borg]] materialized from the direction of the kitchen with enough food for everyone and set it down without announcement. When [[Erwina Lesmana]] reached across the table, a sharp eye noticed: her hands were slightly wrong. Not injured. Not exhausted. Going. The edges of her — at the fingertips, at the jawline — were dissolving in the direct torchlight. She was a person who had arrived by accident, and whatever mechanism held a soul in Aenath was treating her accordingly. Across the table, [[Terra]]'s pendant blazed with three different kinds of magic at once. [[Sadiah Ispahani]]'s sickles pulsed warm and steady in their holsters. The keris in Erwina's satchel glowed brightest of all.
+[[Luks Borg]] materialized from the direction of the kitchen with enough food for everyone and set it down without announcement. When [[Erwina Lesmana]] reached across the table, a sharp eye noticed that Erwina's hands were slightly wrong. Not injured. Not exhausted. Going. The edges of him — at the fingertips, at the jawline — were dissolving in the direct torchlight. He was a person who had arrived by accident, and whatever mechanism held a soul in Aenath was treating him accordingly. Across the table, [[Terra]]'s pendant blazed with three different kinds of magic at once. [[Sadiah Ispahani]]'s sickles pulsed warm and steady in their holsters. The keris in Erwina's satchel glowed brightest of all.
 
 ---
 
@@ -59,7 +59,7 @@ The gate guard at [[Crystal City]] had never heard of Layla. He rolled a one. Th
 
 [[Erky]] sat at the edge of the table with his beard and his thousands of years of accumulated patience and the very specific energy of a man who had been Guildmaster this whole time and had simply not been asked to act like it lately. He listened to what had happened. He observed Erwina's fading edges in the torchlight and filed something behind his eyes. Then he sent them into the pocket arena — three pairs, three questions — and watched.
 
-What followed was tactical, loud, and exactly what happens when people who have never fought together are asked to fight each other instead. [[Terra]] activated the wings she'd been keeping folded for ten days and flew thirty feet up, raining arrows from a position no one could easily answer. [[Sadiah Ispahani]] moved without wasted motion — one measured shot at [[Nanuk]] that found the jugular for twenty damage, then turned that precision on [[Min Ji-ah]]. Erwina tried dancing lights and healed strangers she'd been told to fight, because it was the only mode she had. Min Ji-ah silenced Nanuk's quiver arrows mid-flight with a well-placed spell and then dropped a fireball into the center of the arena because she had it and the arena was small. [[Gill Bates]] healed Nanuk back up, which gave Nanuk the opportunity to bring Gill down. The seniors watching from the arena's edges were doing what seniors do: running a continuous assessment behind encouraging faces.
+What followed was tactical, loud, and exactly what happens when people who have never fought together are asked to fight each other instead. [[Terra]] activated the wings she'd been keeping folded for ten days and flew thirty feet up, raining arrows from a position no one could easily answer. [[Sadiah Ispahani]] moved without wasted motion — one measured shot at [[Nanuk]] that found the jugular for twenty damage, then turned that precision on [[Min Ji-ah]]. Erwina tried dancing lights and healed strangers he'd been told to fight, because it was the only mode he had. Min Ji-ah silenced Nanuk's quiver arrows mid-flight with a well-placed spell and then dropped a fireball into the center of the arena because she had it and the arena was small. [[Gill Bates]] healed Nanuk back up, which gave Nanuk the opportunity to bring Gill down. The seniors watching from the arena's edges were doing what seniors do: running a continuous assessment behind encouraging faces.
 
 By the time Erky called it, everyone had revealed something. And everyone got healed back to full. The mentors flooded the field. The assessment was quiet and went into whatever Erky was building in his head about what the guild was becoming.
 
@@ -71,9 +71,9 @@ Level five. All of them. The door was open.
 
 By the end of the evening, it wasn't subtle anymore.
 
-[[Erwina Lesmana]] was a silhouette in direct light. The edges of her were going the way the test stone had gone — she had arrived the way it arrived, briefly, materially, and her soul carried no anchor in Aenath's architecture to hold her here. She was not in pain. She was not, as far as anyone could tell, afraid. She had spent an afternoon in a pocket arena swinging a keris and healing strangers she'd only just met, and she had been, in whatever way mattered, herself.
+[[Erwina Lesmana]] was a silhouette in direct light. The edges of him were going the way the test stone had gone — he had arrived the way it arrived, briefly, materially, and his soul carried no anchor in Aenath's architecture to hold him here. He was not in pain. He was not, as far as anyone could tell, afraid. He had spent an afternoon in a pocket arena swinging a keris and healing strangers he'd only just met, and he had been, in whatever way mattered, himself.
 
-Her keris — Nyala — stayed behind. It sat on the table in the torchlight and did not fade with her. Whatever that meant, it would wait for someone to decide.
+His keris — Nyala — stayed behind. It sat on the table in the torchlight and did not fade with him. Whatever that meant, it would wait for someone to decide.
 
 ---
 

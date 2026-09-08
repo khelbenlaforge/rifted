@@ -1,5 +1,5 @@
 ---
-title: "Session 04 - Half a Soul"
+title: "Session 04 — Half a Soul"
 tags:
   - session
 campaign: Rifted
@@ -7,7 +7,7 @@ session: 4
 date: 2026-08-22
 in-world-date: "Feast of the Moon, Year 222 PA"
 created: 2026-08-22T00:00:00
-updated: 2026-08-22T00:00:00
+updated: 2026-09-08T21:18:42
 ---
 
 # Session 04 — Half a Soul

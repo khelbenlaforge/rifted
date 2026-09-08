@@ -1,13 +1,13 @@
 ---
 created: 2026-07-26T00:00:00
-title: "Session 01 — The Sundered Temple"
+title: "Session 01 \u2014 The Sundered Temple"
 tags:
-  - session
+- session
 campaign: Rifted
 session: 1
 date: 2026-07-18
-in-world-date: "29th Uktar, Year 222 PA"
-updated: 2026-08-28T14:52:43
+in-world-date: 29th Uktar, Year 222 PA
+updated: 2026-09-08T19:14:46
 ---
 
 # Session 01 — The Sundered Temple
@@ -42,7 +42,7 @@ A couple of rounds in, a griffon's wingbeats became audible over the wind: [[Reg
 
 In the quiet after, someone worked out what the ruin actually was: an abandoned, previously undiscovered temple to [[Lathander]], hollowed out and drifting long enough that no one living remembered it had a name. Nobody could say what tore it loose from the ground in the first place, or why it never finished falling.
 
-Min Ji-ah and Regius couldn't stay. They had their own meeting the next day — with [[The Claret]], in Crystal City, two days out from the Feast of the Moon — and a single griffon between them wasn't enough to carry four more people home. Min Ji-ah reached [[Luks Borg]] back at the Guild for guidance; his answer was to get the four of them to the nearest Guild presence, wherever that was. Before either question got settled, the four found their answer made for them: Layla had already arranged transport before she'd even left. Giant eagles under goblin riders came down for the four of them — no destination offered, no destination up for discussion. They lifted off northeast, bound for **Stormberg**, on the coast of Corranor. Min Ji-ah and Regius turned back for Crystal City and their own appointment.
+Min Ji-ah and Regius couldn't stay. They had their own meeting the next day — with [[The Claret]], in Crystal City, two days out from the Feast of the Moon — and a single griffon between them wasn't enough to carry four more people home. Min Ji-ah reached [[Luks Borg]] back at the Guild for guidance; his answer was to get the four of them to the nearest Guild presence, wherever that was. Before either question got settled, the four found their answer made for them: Layla had already arranged transport before she'd even left. Giant bats under goblin riders came down for the four of them — no destination offered, no destination up for discussion. They lifted off northeast, bound for **Stormberg**, on the coast of Corranor. Min Ji-ah and Regius turned back for Crystal City and their own appointment.
 
 Four people who'd never met each other a day before, now airborne together over unfamiliar coastline, with no idea yet whether their destination was an accident or the point.
 

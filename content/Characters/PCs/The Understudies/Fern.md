@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-06T18:11:38
+updated: 2026-09-08T22:51:13
 ---
 
 # Fern
@@ -43,11 +43,15 @@ Fern's magic still feels like the same impulse that sent her into zoology in the
 
 ## Key Events
 
-- One-shot debut — Session Prep 2026-07-18
+- Session 1 (29th Uktar, Year 222 PA): the transit caught her mid-swing outside Ürgüp, one punch already landed on the landowner's son. She came to on broken stone above the cloud, with three strangers and something moving in the stairwell behind them. All four survived the ambush at [[The Sundered Choir]]. All four went out on bat-back toward [[Stormberg]].
+- Session 2 (29th Uktar, Year 222 PA): taken off that route in mid-air and set down in [[The Hollowreach]], where she and [[!D'bleh|Gaslight]] pulled two more arrivals clear of a Shadow Creature ambush before flying north again.
+- She never reached Stormberg. The northbound leg is a blank in the record — no arrival, no body, no word from the riders who carried her — and the party has not raised her name since.
 
 ## Relationships
 
-- *(none established yet)*
+- [[!D'bleh]], [[Esca]], [[Kili]] — landed at the Choir beside her, and were still mostly strangers by the time the group came apart. She had spent more attention on the shadows than on any of them.
+- [[Keith Poe]], [[Roberto]] — she was on the ground with them for perhaps twenty minutes, most of it spent reading the clearing rather than the men in it. She could probably not describe either of their faces.
+- [[Layla]] — a stranger on a higher shelf who took notes on them, issued one warning, and stepped backwards off a floating ruin. Fern has never worked out whether that was cowardice or a schedule.
 
 ## Character Sheet
 
@@ -168,7 +172,13 @@ Playbook:: [[Fern - Playbook]]
 
 ## Session 1 Update
 
-- 29th Uktar, Year 222 PA: the played cold open diverged from the prep note; Fern landed a clean punch on the landowner's son at the exact moment the teleportation pull hit.
+- 29th Uktar, Year 222 PA: what was played went off the prep note. Fern landed a clean punch on the landowner's son at the exact moment the pull hit.
 - 29th Uktar, Year 222 PA: the argument was over the sanctuary's land rights outside Ürgüp.
+
+## Session 2 Update
+
+- 29th Uktar, Year 222 PA: her rider peeled out of the northbound formation without explanation, answering a sending-stone call from [[Layla]], and put her on the ground over [[The Hollowreach]].
+- 29th Uktar, Year 222 PA: the clearing they landed in was wrong in a way she would have clocked anywhere. Dusk sitting in it at the wrong hour. Every tree around the rim leaning a few degrees away from the centre, as though something had asked them to a long time ago. She and [[!D'bleh|Gaslight]] got [[Keith Poe]] and [[Roberto]] moving for the treeline instead of trading blows with things that kept getting back up. Past the Shadow Font's edge the light was ordinary again and the pursuit simply ended.
+- 29th Uktar, Year 222 PA: she was back in the air before the night was out. Whatever the riders decided about who flew and who stayed, it was decided over her head and [[Kili]] wore the cost of it.
 
 

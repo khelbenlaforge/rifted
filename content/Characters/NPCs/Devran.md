@@ -1,6 +1,6 @@
 ---
 title: Devran
-aliases: null
+aliases: []
 tags:
 - npc
 campaign: Rifted
@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-08T21:18:42
 ---
 
 # Devran
@@ -39,10 +39,10 @@ A stocky, weathered dwarf who's tended bar in Stormberg long enough that the bri
 Location:: [[Stormberg]]
 Race:: Dwarf
 Subrace::
-Pronouns::
+Pronouns:: he/him
 Alignment:: Unknown
-Class:: Unknown
-Affiliation::
+Class:: Commoner
+Affiliation:: None known
 Deity:: Unknown
 
 

@@ -1,6 +1,6 @@
 ---
 title: Stormberg
-aliases: null
+aliases: []
 tags:
 - location
 - location/city
@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-07T18:05:34
+updated: 2026-09-08T21:18:42
 ---
 
 # Stormberg

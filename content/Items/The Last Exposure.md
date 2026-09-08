@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-08-12
 secret: false
-updated: 2026-08-14T11:04:02
+updated: 2026-09-08T21:18:42
 created: 2026-08-12T19:17:30
 ---
 
@@ -20,7 +20,7 @@ created: 2026-08-12T19:17:30
 > | ---- | --- |
 > | Type | Wondrous Item (camera) |
 > | Rarity | Unique |
-> | Attunement | Yes (Kay only) |
+> | Attunement | Yes (Keith Poe / "Kay" only) |
 
 It was mid-shutter the day the pull took him — an old instant camera, lens housing cracked and held together with gaffer tape from three separate repairs, the kind of gear that should have died years before he did. He'd been three seconds from pressing the button on something he'd chased across two continents to prove existed. The film cartridge inside still reads one exposure left. It has read one exposure left every day since.
 
@@ -31,7 +31,7 @@ Battered, scuffed at every corner a shoulder strap could rub, patched more than 
 ## Properties
 
 **Carrier:** [[Keith Poe]]
-**Attunement:** Required (Kay only)
+**Attunement:** Required (Keith Poe — "Kay" — only)
 
 The Last Exposure grows in power as Kay levels.
 

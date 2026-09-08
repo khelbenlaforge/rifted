@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-07T18:03:40
+updated: 2026-09-09T00:12:47
 ---
 
 # Esca
@@ -23,7 +23,7 @@ updated: 2026-09-07T18:03:40
 > | **Class** | Wizard (War, 2014) |
 > | **Background** | Criminal |
 > | **Player** | Aerin |
-> | **Affiliation** | — |
+> | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
 
@@ -52,11 +52,17 @@ Whatever Aenath handed him slotted into reflexes that were already inhuman. The 
 ## Key Events
 
 - Introduced 2026-07-18 — joined The Understudies.
-- Session 4 (Feast of the Moon, Year 222 PA): rejoined the group for the first time since Session 1, dropped off by his goblin-rider carrying five brass Adamantine Guild bracers and instructions to wear them before entering Stormberg — sender unknown. Walked the overland approach with Kili, Keith Poe, Roberto, and the newly-recovered Samson Flint, and was inducted into the Stormberg Wallwatch alongside them.
+- Session 4 (Feast of the Moon, Year 222 PA): rejoined the group for the first time since Session 1, dropped off by his goblin-rider with five brass Adamantine Guild bracers and instructions to put them on before entering Stormberg. Nobody could say who had sent them. He took the overland road in with [[Kili]], [[Keith Poe]], [[Roberto]] and a newly-recovered [[Samson Flint]], and joined the [[Adamantine Guild]]'s Stormberg branch, the Wallwatch, at the same time they did.
+- Session 5 (Feast of the Moon into 1 Nightal, Year 222 PA): tore his vigil paper in front of the crowd rather than name anyone from his old life; toured the [[Ward Works]] under [[Ostrun Kell]] the next morning and earned a standing offer to scribe an extra level 1 spell.
+- He is in Stormberg now, sleeping on the Guild's coin, waiting on a signature before anyone will let him at the Ward Works library.
 
 ## Relationships
 
-- *None recorded yet.*
+- [[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]] — the four he came into [[Stormberg]] with in Session 4 and was inducted beside. He had been absent from the group since Session 1; this was effectively a second first meeting.
+- [[!D'bleh]], [[Fern]] — two of the three he landed with. Neither has been seen since the night the bats split up, and nobody has told him what that means.
+- [[Rhona Voss]] — pulled him back by the collar at the vigil when he tore his paper, steadying rather than reprimanding, and told him afterward that the offer to talk still stood. He has neither taken it up nor turned it down.
+- [[Ostrun Kell]] — took him round the [[Ward Works]] properly once she was satisfied he actually wanted to know. Downtime in its library waits on a signature from Rhona.
+- [[Min Ji-ah]] (Door Kickers) — recognized him in Session 1 and knows, in-world, about the match-fixing and the prison term. The only person confirmed to know — though his own Session 1 entry allows that it may be more broadly known.
 
 ## Character Sheet
 
@@ -183,10 +189,23 @@ Playbook:: [[Esca - Playbook]]
 - 29th Uktar, Year 222 PA: Min Ji-ah now knows in-world about Esca's match-fixing and prison history.
 - 29th Uktar, Year 222 PA: Esca's Earth criminal past is no longer purely private backstory; it is confirmed known to at least Min Ji-ah and may be more broadly known.
 
+## Session 4 Update
+
+- **Absent from Sessions 2 and 3** — untracked, presumed to have stayed with the goblin-rider formation bound for [[Stormberg]] after Session 1. That whole stretch is a blank in the record, available to fill.
+- Feast of the Moon, Year 222 PA: rejoined the party for the first time since Session 1, dropping out of the dark off a giant bat before it had finished landing, already talking. He carried five brass [[Adamantine Guild]] bracers and a message to wear them before the gate—nothing about who had sent word ahead, only that someone had. He handed them out without ceremony. **Who sent them remains unresolved; nobody in Stormberg's cast recognizes a sender.**
+- Feast of the Moon, Year 222 PA: the road north gave him several hours with four people he had last seen on a floating ruin, two of whom he had never met at all. No fighting. Mostly talking, which suited him.
+- Feast of the Moon, Year 222 PA: the bracers he had carried in got all five of them past the gate and onto **[[Rhona Voss]]**'s books. He had carried in the thing that admitted them, and remains the only person who might have seen who handed it over.
+
 ## Session 5 Update
 
 - Feast of the Moon, Year 222 PA: refused to write a name for the midnight blessing and tore his paper in front of the crowd instead — *"I do not want to commemorate or remember anyone from my past life. They are dead to me."* [[Rhona Voss]] pulled him back gently rather than call him out publicly. Resonates directly with his established Earth-life wound (parental disownment) — not stated in-fiction, DM's own read only, see DM Notes below.
 - 1 Nightal, Year 222 PA: toured the [[Ward Works]] (Stormberg's Ether Scryer's Academy branch) under **[[Ostrun Kell]]**'s supervision — a working alchemy/abjuration research floor, a library heavy on warding theory, and a live demonstration of how volatile the materials testing can get (a nearby test sample detonated during the visit). Library access during downtime is conditional on Rhona's okay, not yet confirmed cleared.
 - 1 Nightal, Year 222 PA: an 18 Investigation during the Ward Works visit earned him a standing offer — at the end of his next downtime, he may scribe one additional level 1 spell of his choice (limited to what a wizard can actually scribe).
+
+## Session 6 Update
+
+- 1 Nightal, Year 222 PA: **player absent this session — every action below is the table's collective read of him, not Aerin's own choices.** No vision; the shared cold-open vision was Kili, Roberto and Keith Poe's only.
+- 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger (led initiative at a natural-20 31). Opened with a Mage Hand grip on her ankle for difficult terrain, then cast Web across part of the arena — catching an ally in its difficult terrain along with his intended target. Missed one early dagger/True Strike attempt at melee range, then landed a real one later in the fight. Closed the fight himself, decisively: a landed Suggestion ("stand down") followed by a last Silvery Barbs that put Rhona rigid, grinning through gritted teeth, and down on one knee.
+- 1 Nightal, Year 222 PA: fictionally present for Rhona's six-years admission afterward, same as everyone else — though there was no player at the table to actually hear it.
 
 

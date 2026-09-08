@@ -1,19 +1,15 @@
 ---
-
-
-
-
 title: Garm
-aliases:
+aliases: null
 tags:
-  - npc
-  - creature/humanoid
+- npc
+- creature/humanoid
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-08T21:18:42
 ---
 
 # Garm
@@ -37,11 +33,11 @@ A tall, broad-shouldered orc who defies every expectation of his kind. [[Garm]] 
 
 As one of seven archmages governing the [[Magocracy of Corranor]], Garm serves at the [[Jade Spire]] where he oversees magical research and experimentation. His doctoral thesis on "Harmonic Resonance in Planar Boundaries" revolutionized the understanding of extraplanar travel across [[Corranor]]. He is a gentle soul — an academic who approaches problems like puzzles and delights in learning new perspectives. He carries butterscotch candies to share, keeps a pet raven named Theorem for delivering messages, and brews experimental teas with magical properties.
 
-When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Year 222, Garm was the first to respond. He suspects that his assistant [[Layla]] may have inadvertently triggered a dimensional ritual responsible for their arrival, though the truth remains uncertain. The ongoing [[Shadow Creatures]] attacks on the Jade Spire have complicated his investigation and strained his responsibilities to both the Council and the [[Adamantine Guild]], to whom he owes unfulfilled promises of supplies and support.
+When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Year 222, Garm was the first to respond. He initially suspected that his assistant [[Layla]] might have inadvertently triggered a dimensional ritual responsible for their arrival—but that is no longer where the evidence sits. Working through the [[Corranor Council]] in **Session 19**, he **found Layla's magical signature on the transit event itself**, and has been actively working to reverse the spell since. What remains uncertain is not whether she did it, but why, for whom, and whether it was ever an accident at all. The ongoing [[Shadow Creatures]] attacks on the Jade Spire have complicated his investigation and strained his responsibilities to both the Council and the [[Adamantine Guild]], to whom he owes unfulfilled promises of supplies and support.
 
 ## Relationships
 
-- **[[Layla]]** — His assistant at the [[Jade Spire]]; possibly responsible for the ritual that summoned the PCs
+- **[[Layla]]** — His assistant at the [[Jade Spire]] and co-apprentice to [[Perrin Quickquill]]; **confirmed** as the source of the transit event's magical signature (Session 19), and the subject of his ongoing effort to reverse the spell. Named to the Understudies party in their Session 5 as the archmage she worked under. Rhona relayed it as *employer* — she did not name him as responsible for the party's arrival — but she was visibly out of her depth relaying any of it, so treat the distinction as the record's, not hers.
 - **[[Perrin Quickquill]]** — His halfling secretary of fifteen years; a relationship built on mutual respect and genuine affection
 - **[[Istar Silverlock]]** — Frustrated with Garm over unfulfilled supply promises to the [[Adamantine Guild]]
 - **[[Corranor Council]]** — Fellow archmage among the seven governing members

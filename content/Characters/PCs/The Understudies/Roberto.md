@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-07T18:03:30
+updated: 2026-09-09T00:36:10
 ---
 
 # Roberto
@@ -23,7 +23,7 @@ updated: 2026-09-07T18:03:30
 > | **Class** | Cleric (Light Domain) |
 > | **Background** | Folk Hero |
 > | **Player** | Leila |
-> | **Affiliation** | — |
+> | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
 
@@ -48,11 +48,21 @@ Roberto channels the Light Domain the way he used to work a scene: methodically,
 ## Key Events
 
 - Introduced 2026-08-12 — joined The Understudies.
-- 29th Uktar, Year 222 PA (Session 2): cold open in Bensonhurst, Brooklyn (mentoring trainee Nicky through a mob cleanup job) — isekai'd via a streetlamp turning blue mid-drink. Landed in [[The Hollowreach]] (misrouted by [[Layla]]), met Keith Poe for the first time. Knocked unconscious by a Shadow's Draining Swipe during the ensuing ambush (STR drained -2); a near-death vision (sunrise, a woman of light, a self-playing harp, an armored figure) resolved into the word 'Lathander' — auto-stabilized via a free Cure Wounds at 11 HP and cast Radiance of the Dawn, killing 2 shadow creatures. Currently in The Hollowreach, not yet arrived at Stormberg.
+- 29th Uktar, Year 222 PA (Session 2): cold open in Bensonhurst, Brooklyn (mentoring trainee Nicky through a mob cleanup job) — isekai'd via a streetlamp turning blue mid-drink. Woke in [[The Hollowreach]] instead of wherever the transit had meant to put him, with a stranger already lunging at him. Knocked unconscious by a Shadow's Draining Swipe during the ensuing ambush (STR drained -2); a near-death vision (sunrise, a woman of light, a self-playing harp, an armored figure) resolved into the word 'Lathander' — auto-stabilized via a free Cure Wounds at 11 HP and cast Radiance of the Dawn, killing 2 shadow creatures.
+- Session 3 (29th–30th Uktar, Year 222 PA): went in after a man he had never met and carried him back out unconscious. Second body he had handled in two days. The first had been his own.
+- Session 4 (Feast of the Moon, Year 222 PA): flew ahead of the group on the road north and brought back the shape of the world—flat, with the Stormwall running the length of the northern coast. Inducted into the [[Adamantine Guild]]'s Stormberg branch by [[Rhona Voss]].
+- Session 5 (Feast of the Moon into 1 Nightal, Year 222 PA): the only person in the square who could see the souls claiming their names at the vigil; confirmed by [[Sister Priya Dawnwell]] that his arrival vision named [[Helm]] and [[Sune]] alongside [[Lathander]].
+- Currently one of five doors off a hallway in Stormberg that is longer on the inside than the building allows.
 
 ## Relationships
 
-- *None recorded yet.*
+- [[Keith Poe]] — there is a thing Roberto has not said. At the vigil he watched souls come out of the crowd to claim their own names, and he has told nobody. He does not know Keith spent that hour watching *him*. Two men, one night, and neither has opened his mouth about it.
+- [[Kili]] — set down beside them the night the bats left, and the reason there were three to try the doorway at all.
+- [[Samson Flint]] — a name before he was a person; Roberto helped carry him out of the Hexad before either had spoken.
+- [[Lathander]] — answered him as he went down in Session 2 and put him back on his feet. [[Sister Priya Dawnwell]] later confirmed the call was not Lathander's alone.
+- [[Sister Priya Dawnwell]] — tends the Dawnhearth; recognized his holy symbol before he spoke and told him what his church stands for this far north.
+- [[Brother Silas]] — laid out Kelemvor's doctrine for him, including that Lathander cannot claim a soul that never pledged to him. Said with Priya sitting right there.
+- [[Rhona Voss]] — walked him to the Dawnhearth personally. A branch leader owed him no such thing.
 
 ## Character Sheet
 
@@ -174,10 +184,37 @@ Location:: [[Stormberg]]
 Deity:: Lathander
 Playbook:: [[Roberto - Playbook]]
 
+## Session 2 Update
+
+- 29th Uktar, Year 222 PA: the Bensonhurst job (see Key Events) ended the way they all did, with the flask out on the street afterward. What the cold open established about him: he got his green trainee Nicky through the cleanup by frightening him slightly more than the room already had, and it worked.
+- 29th Uktar, Year 222 PA: went through the same falling city [[Keith Poe]] did, and came out of it in [[The Hollowreach]] with senses sharper than they had any business being. He does not describe it the way Keith does; what stayed with him was the crowd, not the tower.
+- 29th Uktar, Year 222 PA: a green-skinned stranger came at him out of the treeline inside the first minute, which he processed as an assault and not as a greeting. **[[Layla]]** turned up badly shaken, said the word *shadows*, said do not fight them, and was gone before either of them could ask a second question.
+- 29th Uktar, Year 222 PA: knocked unconscious by a Shadow's draining swipe. He prayed on the way down and got an answer, in the shape Key Events records above. What matters for his own account is the order of it: the name **[[Lathander]]** arrived last and arrived clear, after everything else. He stood up at 11 hit points with Radiance of the Dawn already moving through him. Two Shadow Creatures did not survive it.
+- 29th Uktar, Year 222 PA: came out of it on his feet, with Keith, [[!D'bleh|Gaslight]] and [[Fern]]. He watched the bats go. Three of them on the ground, and no explanation offered for the arithmetic.
+
+## Session 3 Update
+
+- 29th Uktar, Year 222 PA: [[Kili]] was set down beside them, which he registered mainly as one more person who might not come back out again.
+- 29th Uktar, Year 222 PA: [[Layla]] did not order them through the door. She explained what was on the other side of it, said plainly that it was theirs to decide, and waited. Two nights after dying on this same ground, Roberto was being asked whether he would go somewhere a tiefling could not follow to fetch a man he had never met.
+- 29th–30th Uktar, Year 222 PA: went into [[The Hexad]] with Kili and Keith Poe. Whatever the place was testing, nobody had asked to sit the test, and it did not care.
+- 30th Uktar, Year 222 PA: they brought him out. Breathing, unmarked beyond what the drag had already done, and not waking for any of it.
+
+## Session 4 Update
+
+- Feast of the Moon, Year 222 PA: [[Esca]] rejoined them on the road with the brass bracers that would get them through Stormberg's gate.
+- Feast of the Moon, Year 222 PA: at the three-moon rising he flew up ahead of the group and brought back the full shape of it. A flat world. The Stormwall running the length of the northern coast, Stormberg a scatter of lights at its base, the storm coming off the edge of the world like violent aurora. He was **out of his chain shirt** for the climb: Owlin Flight is unusable in medium armour, so getting airborne costs him a deliberate strip-down first and isn't something he can reach for mid-fight. (DM-confirmed 2026-09-08.)
+- Feast of the Moon, Year 222 PA: the Guild's paperwork happened somewhere around him and he barely registered it. What he kept from that night was one line buried in a long briefing: the Rifted carry half a soul apiece, and the rest grows in the longer they stay. For a man answered by three gods two nights earlier, that landed differently than it did on the others at the table. He took one of the five doors off the Guild's pocket-dimension hallway that night.
+
 ## Session 5 Update
 
 - Feast of the Moon, Year 222 PA: at the midnight blessing, gave one name to the vigil — not his own, someone dead. Was the only one in the square who could see the translucent figures rising to claim their names as the ritual burned them off, including a handful still lingering unclaimed after the last name rose; the vision persisted through the whole rite, unshared by anyone else present.
 - 1 Nightal, Year 222 PA: visited the Dawnhearth (Stormberg's Church of Lathander) and met [[Sister Priya Dawnwell]], who confirmed his arrival vision named [[Helm]] and [[Sune]] alongside Lathander — the first outside confirmation of that reading. Learned Lathander's afterlife stance (concerned with beginnings, not soul-sending; the faithful return to the sun) directly from her.
 - 1 Nightal, Year 222 PA: also visited Stormberg's Temple of Kelemvor and spoke with [[Brother Silas]], who confirmed Lathander cannot claim a soul that never pledged to him — landed pointedly with Priya present for part of the conversation.
+
+## Session 6 Update
+
+- Night before, 1 Nightal, Year 222 PA: shared a vision with Kili and Keith Poe — his own, a past-life memory of Lathander's fall. Watched fellow clerics lose their connection to the Morning Lord mid-prayer, then watched Lathander himself climb a celestial staircase toward the heavens only for an unnamed voice to shatter it from above — *"I will take your children."* Later shared a closing scene with Kili and Keith — recognized his own god at a second stairway, barred from returning by a figure carrying two shields the DM's narration names as [[Helm]]; matches the dream his player submitted ahead of the session, which independently identifies the same figure, though the transcript's own dialogue never has Roberto voice the recognition himself. By the time it ended, his own soul had already come loose — Keith's did too, later. Kili's dream took a different way out entirely.
+- 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger. Opened with Shield of Faith on Samson, then flew in — a lair effect grounded him from 20 feet up mid-fight for real falling damage, leaving him prone. Furious about it, stood back up and answered with Scorching Ray for solid damage, bloodying her alongside the rest of the party's hits. Also caught in Esca's Web spell later in the fight, along with the rest of the battlefield. Recovered to land Radiance of the Dawn on her later in the fight.
+- 1 Nightal, Year 222 PA: was there when Rhona admitted, over ale, that she hadn't fought for real in six years and didn't want to lose any more of "her kids" — no different an audience than the rest of the party.
 
 

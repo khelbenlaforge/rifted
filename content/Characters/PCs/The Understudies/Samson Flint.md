@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-09-07T17:25:46
+updated: 2026-09-09T00:35:52
 ---
 
 # Samson Flint
@@ -23,7 +23,7 @@ updated: 2026-09-07T17:25:46
 > | **Class** | Fighter (Echo Knight) |
 > | **Background** | Rune Carver |
 > | **Player** | Chris |
-> | **Affiliation** | The Understudies |
+> | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
 
@@ -49,7 +49,10 @@ Samson fights like he builds, reading the structure of a fight the way he once r
 
 ## Relationships
 
-- *(none recorded yet)*
+- [[Kili]], [[Keith Poe]], [[Roberto]] — the three who went into [[The Hexad]] after him and carried him out unconscious in Session 3. He was not awake for any of it and met them properly for the first time in Session 4.
+- [[Esca]] — met on the road in Session 4, arriving with the Guild bracers.
+- [[Rhona Voss]] — put him on the branch roll, then had him up before dawn and out to the Wall crews, so that by Session 5 he was already working while the rest of them were still touring the city.
+- [[Layla]] — tracked him after his misrouted arrival and brought the other three to the doorway he'd been dragged through. He has never met her.
 
 ## Character Sheet
 
@@ -145,8 +148,25 @@ Location:: [[Stormberg]]
 Deity::
 Playbook:: [[Samson Flint - Playbook]]
 
+## Session 3 Update
+
+- 29th–30th Uktar, Year 222 PA: **player absent; Samson was unconscious throughout.** Recovered from inside [[The Hexad]] by [[Kili]], [[Keith Poe]] and [[Roberto]], exactly where the Shadow Creature that dragged him through the doorway had left him—hurt no worse than the drag itself had left him, and not waking.
+- 30th Uktar, Year 222 PA: carried out into morning light by the three of them. He has no first-hand memory of the Hexad, and the stretch between his arrival and waking is still unaccounted for in his own experience.
+
+## Session 4 Update
+
+- **First live session for his player.** Cold open in Digbeth, Birmingham, six-thirty on a grey morning three lifts up a scaffold with his mate Dean—who had spent six months half-convinced something wasn't right about how clean Samson's load calcs came out, and finally asked him to explain it. The coupler went before Samson had to find an answer. He moved before he decided to, and caught Dean.
+- Feast of the Moon, Year 222 PA: fell through an arrival vision of a spike of white light a thousand feet high, flying humanoids circling it, a black-clad mage and four constructs holding the base against falling rock. He sent his Echo to intercept a boulder aimed at the mage and **failed**; the constructs held anyway, the spike went dark, and the vision buried him with everyone else caught in it. *(This is the same fall the Door Kickers know as Corran's last stand—the party has not connected the two.)*
+- Feast of the Moon, Year 222 PA: came to walking under his own power out of [[The Hollowreach]] with four people he hadn't properly met, an unaccounted-for stretch of time behind him. Ran into [[Esca]] coming the other way with Guild brass to hand out and got the first real conversation with any of them on the walk north.
+- Feast of the Moon, Year 222 PA: witnessed the three-moon rising, and went onto the [[Adamantine Guild]]'s Stormberg roll under **[[Rhona Voss]]** with the other four. That night he slept behind a door that opened off a corridor with no business being that long.
+
 ## Session 5 Update
 
-- Feast of the Moon into 1 Nightal, Year 222 PA: player absent — no scene played. In-fiction, still out with Stormberg's wall work gangs (established Session 4); referenced but not present for Rhona's evening Guild evaluation.
+- Feast of the Moon into 1 Nightal, Year 222 PA: player absent — no scene played. In-fiction, still out with Stormberg's wall work gangs (established Session 5 — Rhona took him to the crews at dawn); referenced but not present for Rhona's evening Guild evaluation.
+
+## Session 6 Update
+
+- 1 Nightal, Year 222 PA: joined the call online mid-vision. No vision of his own; he wasn't present for it. But he was on the battle map and rolled initiative alongside everyone else before Rhona's Guild evaluation fight began, present and acting from round 1, not a late arrival to the fight itself. Manifested his echo immediately and dealt more damage than anyone else at the table across the fight, including the first crit of the whole game; Necrotic Shroud's fright effect cost Rhona her second legendary resistance. Closed strong with a javelin throw plus two echo-assisted attacks. A double hit from her put him at 0, 23 damage. Rhona eased him down instead of finishing the job, flat of the blade rather than the edge.
+- 1 Nightal, Year 222 PA: caught Rhona's six-years admission afterward along with everyone else — one more thing to process on top of a session that started with a stranger's fight and ended with him on the ground of it.
 
 

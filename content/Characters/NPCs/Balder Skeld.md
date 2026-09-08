@@ -1,13 +1,13 @@
 ---
 title: Balder Skeld
-aliases: null
+aliases: []
 tags:
 - npc
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-09-07T18:25:54
+updated: 2026-09-08T21:18:42
 created: 2026-09-07T18:19:11
 ---
 
