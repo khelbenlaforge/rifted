@@ -1,15 +1,15 @@
 ---
 title: Gond
 aliases:
-  - The Wonderbringer
-  - Lord of All Smiths
+- The Wonderbringer
+- Lord of All Smiths
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-08-28T02:33:48
+updated: 2026-09-09T18:26:58
 ---
 
 # Gond
@@ -52,6 +52,20 @@ Smiths, engineers, tinkers, and inventors pay homage to Gond. His influence in [
 
 - **[[Mystra]]** — Paired with her in the Sanctum statuary. Gond shapes what Mystra sustains — their partnership in the Sanctum suggests a cosmological relationship at the very foundation of [[Aenath]].
 - **[[Bahamut]] and [[Takhisis]]** — Flanking the Mystra-Gond arrangement as protectors of the world they craft and sustain.
+
+## The Making of Aenath
+
+Istishia reached him alone — the water that had followed him through the [[Astral Sea]] already thinning to mist, most of what he was still trailing behind in the procession. Gond didn't summon him forward. The smith let his hammer rest head-down against the half-shaped slab, the way a craftsman waits for material that isn't ready rather than force a strike too soon.
+
+*You are asking me to stop being a shape and start being a rule,* [[Istishia]] said, or something close enough to speech that it reached Gond as words. *Water finds whatever room it's given. I have never been anything else.*
+
+*Then don't stop,* Gond answered. *Keep finding room. Just find it everywhere at once, instead of one vessel at a time.*
+
+It was the only argument that could have worked on him, and the stillness between them said they both knew it before Istishia had finished asking. He didn't resist the hammer when it came down. He met it — the way a wave meets a stone it has already decided to wear smooth over centuries, rather than break against tonight.
+
+Gond kept working after Istishia had gone still inside the world's fabric. A smith doesn't lay the hammer down just because the hardest strike is finished — the forge consumes, and the smith gives back, for as long as the thing made still needs tending. By every account since, he has never once stopped.
+
+He did not stand at the anvil alone. Souls of his own choosing kept the forge lit and the tools passed, then and for however long after this account can be trusted to — and it is through the fragment one of them still carries, worn thin and secondhand by now, that any of this is known at all.
 
 ## Session 28
 
