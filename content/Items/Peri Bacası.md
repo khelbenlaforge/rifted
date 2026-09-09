@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-07-18
 secret: false
-updated: 2026-07-19T02:29:24
+updated: 2026-09-09T01:19:05
 created: 2026-07-18T07:48:19
 ---
 
@@ -47,7 +47,7 @@ Peri Bacası grows in power as Fern levels.
 
 ### Tier 1 — First Flame *(L3 — current)*
 
-**Kindled Bond *(passive)*:** The first time each turn Fern's Wildfire Spirit deals fire damage, or the first time each turn Fern heals a creature through the spirit's Enhanced Bond, add 1d6 fire damage or 1d6 extra healing (her choice, whichever the moment calls for). The coal doesn't distinguish between mending and burning. Neither, really, does she.
+**Kindled Bond *(passive)*:** The first time each turn Fern's Wildfire Spirit deals fire damage, or the first time each turn Fern restores hit points with a spell while her Wildfire Spirit is summoned, add 1d6 fire damage or 1d6 extra healing (her choice, whichever the moment calls for). The coal doesn't distinguish between mending and burning. Neither, really, does she.
 
 **Scorched Ground *(passive)*:** The first time each turn a creature takes fire damage from Fern's Wildfire Spirit, it has disadvantage on the next Dexterity saving throw it makes before the start of Fern's next turn. The rock underfoot remembers heat long after the flame's gone.
 

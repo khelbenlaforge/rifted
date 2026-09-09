@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-08T21:18:42
+updated: 2026-09-09T01:10:49
 ---
 
 # Stormberg
@@ -53,5 +53,19 @@ Status:: active
 Stormberg's rhythm flips with the gate cycle. Airborne, gates shut: the town turns inward. Watch shifts double, [[Adamantine Guild]] teams push harder into the Blind Reaches as the storm outside tests every seam in the Wall, and nobody idle stays that way for long. Grounded, gates open, and the harbor snaps awake all at once — trade ships queuing at the Stormgate, latecomers slipping in behind them. Arctic runs rarely finish inside a single window, though; most are gone for the length of an airborne cycle or longer.
 
 Right now, with the gates still shut, two parties are out past the Wall and can't come home until the next grounding: a routine relief run resupplying an existing arctic camp, and a Magocracy-sponsored survey team chasing rumors of etheric-crystal shards further out than anyone's charted recently. Neither's cause for alarm — it's just gone quiet a beat longer than usual, and the harbor's starting to notice.
+
+## Scene Features
+
+**Atmosphere:** A town that's spent 222 years training itself to listen for what the Wall isn't saying — pride and vigilance in the same breath.
+
+### Ambient Effects
+- Gates shut, airborne cycle: a low subsonic drone off the Wall is audible everywhere in Stormberg, never quite background noise.
+
+### Triggered Effects
+- *Breach alarm.* When a wall-pest incursion is called from the Blind Reaches, off-duty [[Adamantine Guild]] members drop what they're doing and move toward the Wall within minutes — a visible, town-wide response the party can read the mood of.
+- *Overdue return.* When an expedition beyond the Stormgate runs late past its expected window, harbor talk shifts audibly — no panic yet, but everyone's counting days out loud.
+
+> *What does the party overhear in the two minutes after stepping off a ship, before anyone official greets them?*
+> *Which of the four governance cogs does an NPC blame first when something goes wrong?*
 
 
