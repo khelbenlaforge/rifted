@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-08-28T14:52:43
+updated: 2026-09-09T02:06:05
 ---
 
 # Augustus Kennedy
@@ -214,6 +214,7 @@ PassivePerception:: 14
 PassiveInsight:: 14
 PassiveInvestigation:: 11
 PassiveStealth:: 9
+Playbook:: [[Augustus Kennedy - Playbook]]
 
 ## Session 27
 

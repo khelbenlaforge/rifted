@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-09-05T05:51:37
+updated: 2026-09-09T02:09:35
 ---
 
 # Ember
@@ -194,6 +194,7 @@ PassivePerception:: 18
 PassiveInsight:: 15
 PassiveInvestigation:: 11
 PassiveStealth:: 16
+Playbook:: [[Ember - Playbook]]
 
 ## Session 19
 

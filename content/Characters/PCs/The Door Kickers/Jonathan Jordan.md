@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-04T14:14:21
+updated: 2026-09-09T01:49:47
 ---
 
 # Jonathan Jordan
@@ -178,6 +178,7 @@ PassivePerception:: 19
 PassiveInsight:: 13
 PassiveInvestigation:: 11
 PassiveStealth:: 17
+Playbook:: [[Jonathan Jordan - Playbook]]
 
 ## Session 19
 

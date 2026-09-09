@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-09-04T14:58:31
+updated: 2026-09-09T02:15:57
 ---
 
 # Shen
@@ -222,4 +222,17 @@ Shen completed two retroactive weeks of downtime.
 - Successfully persuaded an [[Alchemist's Guild]] contact (roll of 21) to provide rare reagents for the Claret deal and now owes that contact a future favor.
 - Part of the talking group with [[Jonathan Jordan]] and [[Regius]] that negotiated with [[Tavia Orn]].
 - Entered the Claret's inner sanctum.
+
+## Session 25
+
+*(DM-voiced this session — present and fighting through the Floor Test in [[Corvin's Hold]], but with minimal individual spotlight.)*
+
+- Cast *Suggestion* on a Warden, taking him out of the fight and sending him to sit quietly in the corner.
+- A Keen Mind-backed investigation check read the room fast enough to spot what the fight actually was — the guards weren't hunting the party, something else would trigger them.
+- Cast *Hold Person* on two more guards, taking them out of the fight without killing them, part of the party's broader pull-back from lethal intent once *Elminster's Inquiry* revealed the guards didn't want to be there.
+
+## Session 26
+
+- Present through the aftermath at the [[Adamantine Guild]], then peeled off alone for the [[Amethyst Quarter]] — still chasing down what's actually happening to the city.
+- Didn't appear again this session; the session note records only that he left, not what the trip turned up.
 
