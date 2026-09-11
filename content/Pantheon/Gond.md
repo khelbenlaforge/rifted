@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-09-09T18:26:58
+updated: 2026-09-11T15:59:06
 ---
 
 # Gond
@@ -55,20 +55,26 @@ Smiths, engineers, tinkers, and inventors pay homage to Gond. His influence in [
 
 ## The Making of Aenath
 
-Istishia reached him alone — the water that had followed him through the [[Astral Sea]] already thinning to mist, most of what he was still trailing behind in the procession. Gond didn't summon him forward. The smith let his hammer rest head-down against the half-shaped slab, the way a craftsman waits for material that isn't ready rather than force a strike too soon.
+Istishia reached him alone — the water that had followed him through the [[Astral Sea]] already thinning to mist, most of what he was still trailing behind in the procession. Gond let him come the rest of the way on his own. The hammer stayed resting head-down against the half-shaped slab — a craftsman's patience, waiting on material that wasn't ready yet.
 
 *You are asking me to stop being a shape and start being a rule,* [[Istishia]] said, or something close enough to speech that it reached Gond as words. *Water finds whatever room it's given. I have never been anything else.*
 
-*Then don't stop,* Gond answered. *Keep finding room. Just find it everywhere at once, instead of one vessel at a time.*
+*Then don't stop,* Gond answered. *Keep finding room. Every vessel there'll ever be, all at once, from now on.*
 
-It was the only argument that could have worked on him, and the stillness between them said they both knew it before Istishia had finished asking. He didn't resist the hammer when it came down. He met it — the way a wave meets a stone it has already decided to wear smooth over centuries, rather than break against tonight.
+It was the only argument that could have worked on him, and the stillness between them said they both knew it before Istishia had finished asking. He met the hammer when it came down — the way a wave meets a stone it has already decided to wear smooth over centuries, rather than break against tonight.
 
 Gond kept working after Istishia had gone still inside the world's fabric. A smith doesn't lay the hammer down just because the hardest strike is finished — the forge consumes, and the smith gives back, for as long as the thing made still needs tending. By every account since, he has never once stopped.
 
-He did not stand at the anvil alone. Souls of his own choosing kept the forge lit and the tools passed, then and for however long after this account can be trusted to — and it is through the fragment one of them still carries, worn thin and secondhand by now, that any of this is known at all.
+Souls of his own choosing stood with him at the anvil the whole time — keeping the forge lit, passing tools, then and for however long after this account can be trusted to. It is through the fragment one of them still carries, worn thin and secondhand by now, that any of this is known at all.
 
 ## Session 28
 
 - Gond was named as the god of the forge who hammered the four elemental primordials' divine essences, and a fifth life-giving deity's, into the fabric of the world at its making.
+
+## Session 7 (The Understudies)
+
+Samson Flint's dream the night of the Rhona fight puts a witness inside this event for the first time. A village blacksmith on a storm-touched island pulls a half-drowned, burn-scarred stranger from the surf; wordless months at the forge together leave the blacksmith sharper in every practical sense, his eyes settling into a very particular silver. Then the scale of it breaks open. Those same burn scars belong to something vast enough to work an anvil the size of a parade ground, already three elements deep into the making of the world, one still missing. What supplies it arrives as water shaped like starlight, and takes its own place under the hammer in turn. This is the same working the Door Kickers heard named outright this same turn of the season: [[Grumbar]], [[Kossuth]], [[Akadi]] and [[Istishia]]'s own sacrifice (see the Nightal Timeline, Session 28).
+
+Call this a witness account, not a fresh revelation—"The Making of Aenath" above already establishes the event; the dream simply puts a name inside it for the first time. What it confirms: the stranger and the titanic hammer-wielder share one identity (identical scarring), and the dream-body's eyes turning silver is the only stated link between that body and Samson's own present-day silver-eyed sheen. Left open, and best kept that way until the table settles it: whether Samson himself descends from, or carries some fragment of, one of the "souls of his own choosing" who stood with Gond at the anvil (see this note's own prose above). The transcript gives grounds for resemblance. It gives none for lineage. See DM Notes.
 
 

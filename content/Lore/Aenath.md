@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-09-09T18:27:13
+updated: 2026-09-09T19:04:49
 ---
 
 # Aenath
@@ -31,7 +31,7 @@ The [[Astral Sea]] — a vast incorporeal realm where souls drift among massive 
 
 ## Cosmology
 
-Recent discoveries within the [[Sunless Citadel]] have revealed that [[Aenath]] is a **flat, rectangular world** — a revelation that overturns any assumption of spherical geography. A scale model within an ancient sanctum depicts the world as a slab, with [[Mystra]] holding her hands over it protectively and [[Gond]] poised to shape it with a smith's hammer. [[Bahamut]] and [[Takhisis]] stand as co-protectors facing outward, and the symbols of the four primordial elemental gods are carved beneath — [[Istishia]] among them, hammered into the world's fabric at Gond's own hand. See [[Gond]] § The Making of Aenath for the exchange between the two.
+Recent discoveries within the [[Sunless Citadel]] have revealed that [[Aenath]] is a **flat, rectangular world** — a revelation that overturns any assumption of spherical geography. A scale model within an ancient sanctum depicts the world as a slab, with [[Mystra]] holding her hands over it protectively and [[Gond]] poised to shape it with a smith's hammer. [[Bahamut]] and [[Takhisis]] stand as co-protectors facing outward, and the symbols of the four primordial elemental gods are carved beneath — [[Istishia]] among them, given over to Gond's hammer at the world's making. See [[Gond]] § The Making of Aenath for the exchange between the two.
 
 A mural in the same chamber depicts what appears to be a **primordial exodus** — millions of lights being led away from a featureless humanoid figure by deities of every alignment and domain, with the gods of the lower planes defending the rear. The full significance of this imagery remains undeciphered.
 

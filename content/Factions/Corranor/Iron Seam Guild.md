@@ -31,4 +31,9 @@ created: 2026-09-07T18:19:06
 Leader:: Unknown
 Headquarters:: [[Stormberg]]
 
+## Session 7 Update (The Understudies)
+
+- [[Keith Poe]] pitched Roman-style concrete—limestone, volcanic ash, and water—to the Guild's artificers. His sample came out brittle but was well received; he earned 40 gp and a standing Charisma-advantage perk with the Guild.
+- The Guild explained that Stormberg obsidian is treated volcanic rock sheathing the Wall's earthen core: it is magic-receptive, requires ongoing re-application, and must be re-warded by the Academy. Roughly two centuries ago, the [[Ancients of Lava]] mass-cast Shape Earth to raise that earthen core.
+
 

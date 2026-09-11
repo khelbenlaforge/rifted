@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-09-04T15:41:25
+updated: 2026-09-11T16:54:44
 ---
 
 # Terra
@@ -254,5 +254,6 @@ PassiveStealth:: 16
 - Had originally been the one to pick the three moons out of the sky during the Feast, which is what gave [[Min Ji-ah]] something to put an Inquiry to.
 - Reached for the soul-recitation and got nothing—she failed the roll where [[Nanuk]] and [[Gill Bates|Gill]] succeeded.
 - Distrustful of the whole rite, unconvinced the souls were going anywhere she could verify, and reminded of the cult she came from.
+- Watched Gill get pulled onto the platform beside the Gravelord and was surprised by how much she wanted to be up there too.
 - **Her Cold Open resolved.** The familiar presence she had sensed on the enemy side of her Time of Troubles vision was **[[The Unbound]]**, her own Earth cult leader, standing among [[Lolth]]'s in a memory of Aenath's distant past. He is therefore either here or inside her [[Hollowstone]], and in either case no longer on Earth. Whether she brought him through or he preceded her is open.
 

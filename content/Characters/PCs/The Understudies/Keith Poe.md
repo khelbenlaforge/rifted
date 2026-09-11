@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-09T00:36:09
+updated: 2026-09-11T16:01:41
 ---
 
 # Keith Poe
@@ -207,5 +207,13 @@ Playbook:: [[Keith Poe - Playbook]]
 - Night before, 1 Nightal, Year 222 PA: shared a vision with Kili and Roberto — his own. Woke burned along his left side inside an unfamiliar, taller body, a misfired campfire spell blamed on magic gone wrong across a world where the gods had come down to walk it themselves; spent the dream on crutches gathering maps with peers who all looked younger than they should, marking where the old powers had gone. Later shared a closing scene with Kili and Roberto — Helm barring Lathander from a second stairway, refusing any god's return; caught himself mid-prayer to a newly-reborn goddess of magic before he knew he'd started. The vision took his soul with it when it ended — the same thing that happened to Roberto's, nothing like whatever happened to Kili's. None of it made sense the next morning either.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger. Catapulted a caltrop at her — resisted, but cost her the first of three legendary resistances used against the party that fight. Landed one lightning-launcher hit mid-fight; his last bolt was parried clean, and he spent the fight's final stretch with nothing left to try but standing between Kili and the fight.
 - 1 Nightal, Year 222 PA: heard Rhona's six-years admission along with the rest of the table afterward — nothing aimed at him in particular, but worth keeping on record for a woman he's about to be taking Guild work from.
+
+## Session 7 Update
+
+- Night of 1 Nightal, Year 222 PA: decorated his own room in the Guild's pocket dimension.
+- 1–10 Nightal (downtime): backed [[Roberto]] up during his wall-labor negotiation with **[[Sir Verenthal]]**, framing the case in terms a profit-minded nobleman would follow rather than an appeal to fairness alone—Roberto's own track, Keith just along for the scene.
+- 1–10 Nightal (downtime): walked into the [[Iron Seam Guild]] at last (Rhona pointed him there back in Session 5) and pitched a mixture of his own: limestone, ash and water set into stone rather than hammered into it. In return he got the Guild's own material lecture—**Stormberg obsidian** sheathing the Wall's core, magic-friendly but never lasting, on a constant cycle of patch-and-re-lattice—plus two centuries of history on the **[[Ancients of Lava]]**, the druid circle that raised that core to begin with. Even with the crack, the Guild handed him forty gold and made clear the door stays open.
+- 1–10 Nightal (downtime): backed [[Samson Flint]] up on his own structural survey of the Wall and the breach it turned up—not a track of Keith's own, just roleplay presence—created a torch with Tinker's Tools once they went in, then fled and threw it when something cold and white-winged showed itself in the dark. Came back to Stormberg with Samson, badly frostbitten.
+- **Two further tracks not yet played/recorded—to be added once recovered from memory.**
 
 

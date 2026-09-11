@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-09T00:36:10
+updated: 2026-09-11T16:01:47
 ---
 
 # Roberto
@@ -216,5 +216,12 @@ Playbook:: [[Roberto - Playbook]]
 - Night before, 1 Nightal, Year 222 PA: shared a vision with Kili and Keith Poe — his own, a past-life memory of Lathander's fall. Watched fellow clerics lose their connection to the Morning Lord mid-prayer, then watched Lathander himself climb a celestial staircase toward the heavens only for an unnamed voice to shatter it from above — *"I will take your children."* Later shared a closing scene with Kili and Keith — recognized his own god at a second stairway, barred from returning by a figure carrying two shields the DM's narration names as [[Helm]]; matches the dream his player submitted ahead of the session, which independently identifies the same figure, though the transcript's own dialogue never has Roberto voice the recognition himself. By the time it ended, his own soul had already come loose — Keith's did too, later. Kili's dream took a different way out entirely.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger. Opened with Shield of Faith on Samson, then flew in — a lair effect grounded him from 20 feet up mid-fight for real falling damage, leaving him prone. Furious about it, stood back up and answered with Scorching Ray for solid damage, bloodying her alongside the rest of the party's hits. Also caught in Esca's Web spell later in the fight, along with the rest of the battlefield. Recovered to land Radiance of the Dawn on her later in the fight.
 - 1 Nightal, Year 222 PA: was there when Rhona admitted, over ale, that she hadn't fought for real in six years and didn't want to lose any more of "her kids" — no different an audience than the rest of the party.
+
+## Session 7 Update
+
+- Night of 1 Nightal, Year 222 PA: decorated his own room in the Guild's pocket dimension; listened to Kili retell the vision from the night before.
+- 1–10 Nightal (downtime): took the Guild's posting to mediate a wall-labor dispute at the docks alongside [[Rhona Voss]]. Tried intimidation on **[[Sir Verenthal]]** first and it failed outright; won the argument on a second attempt—hazard, fairness, an assist from [[Keith Poe]] framing it in terms a profit-minded nobleman would follow—and read a partial truth under Verenthal's own explanation for who gets the safer postings. Verenthal paid him forty gold and promised the gangs a forum by month's end if they returned to work now; the Guild's own separate payment through Rhona went unmentioned and unresolved.
+- 1–10 Nightal (downtime): helped [[Kili]] brew for her new speakeasy in the Guild's common room rather than spending a track of his own on it; met **[[Devran]]** for the first time.
+- 1–10 Nightal (downtime, per his own submitted notes—not on the session recording): deepened his standing with **[[Sister Priya Dawnwell]]** at the Dawnhearth, learning Lathander's theology and its old friction with [[Helm]]. She brought him to an elf at the [[Ward Works]] old enough to remember the Awakening firsthand—the cataclysm, Corranor's own sacrifice, a warmth in the worst of it the elf still credits to the Morning Lord. Started independently suspecting a connection between that account and the very temple Layla teleported the party's first four into—hasn't said the thought out loud to anyone yet.
 
 

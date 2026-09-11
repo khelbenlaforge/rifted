@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-04T16:41:52
+updated: 2026-09-11T16:34:55
 ---
 
 # Nanuk
@@ -241,4 +241,5 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - With Gill and Uki, finally put names to the four spirits of the north, south, east and west that Inukshuk has spoken of for months: [[Istishia]], [[Grumbar]], [[Kossuth]] and [[Akadi]], the primordials of water, earth, fire and air. All four are weakening.
 - Learned that the Great Spirit, [[Silvanus]], is **not** one of the four but a separate deity in the same condition—inside the barrier, in pain, and still able to speak, which is why he could reach Nanuk when no other god can reach anyone.
 - Can feel the pull toward Silvanus's grove well enough to follow it. It points north, and the party has committed to going.
+- [[Inukshuk]] confirmed he is anchored to this world the same way the party's growth items are—a piece of Nanuk's soul, bonded, unable to be left behind.
 

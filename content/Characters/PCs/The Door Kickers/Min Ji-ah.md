@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-04T16:35:22
+updated: 2026-09-11T16:54:41
 ---
 
 # Min Ji-ah
@@ -276,7 +276,7 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 
 ## Session 28
 
-- Spent the Council's address at the [[Jade Spire]] reading the seven with Insight rather than listening: [[Garm]] hates the platform, [[Doran]] is personally embarrassed and blames the party for the city's breached defences, and [[Wystan]] heard none of the speeches and watched only her and Gill. She stared back at Wystan until it was uncomfortable.
+- Spent the Council's address at the [[Jade Spire]] reading the seven with Insight rather than listening: [[Garm]] hates the platform, [[Doran]] is personally embarrassed and blames the party for the city's breached defences, and [[Wystan]] heard none of the speeches and watched only her and Gill. She stared back at Wystan until it was uncomfortable. The last two she couldn't place at all.
 - Read [[Nerise]] as focused entirely outward, on the expedition now returning, rather than on Council business.
 - Cast [[Elminster's Spellbook|Elminster's Inquiry]] on the three moons [[Terra]] had spotted during the Feast, and heard a pipe being smoked. [[Elminster]] again. She saw three demigods kneel to [[Mystra]], Mystra kneel back weeping, and the bargain made: [[Solinari]], [[Lunitari]] and [[Nuitari]] gave themselves up willingly to become Aenath's moons and anchor the Weave in her stead.
 - **Renamed this session.** The PC formerly played as "Lea" is retconned to Min Ji-ah, of Korean origin. Backstory unchanged; only her country of origin differs.

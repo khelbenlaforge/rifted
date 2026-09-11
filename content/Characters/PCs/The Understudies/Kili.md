@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-09T00:35:49
+updated: 2026-09-11T15:08:19
 ---
 
 # Kili
@@ -197,5 +197,11 @@ Playbook:: [[Kili - Playbook]]
 - Night before, 1 Nightal, Year 222 PA: shared a vision with Roberto and Keith Poe — her own: a fey realm, a Queen she'd have followed anywhere without knowing why, pixies and satyr-kind to play with before a burning portal put two shapes the size of mountains in front of her, one silver, one gunmetal-dark, colliding hard enough to put her on the ground. The dream continued past that: found herself among dying fairies as a golden-haired figure ("Corellon," someone near her said) shielded them from bolts of dark energy while elves gave up their own souls to strengthen him. Later shared a closing scene with Roberto and Keith — Helm barring Lathander from a second stairway, refusing any god's return. Her own dream just cut to black. No soul leaving her body, nothing dramatic — it simply stopped, and she has no idea why hers ended differently than theirs.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger, and refused outright to strike her — Vicious Mockery (landed, for real if minor damage) and Silvery Barbs used mostly in support (advantage for allies), healing words for Samson and Rhona both, one Suggestion-style plea to just stop the fight entirely that didn't land. A second Wisdom-save spell late in the fight nearly landed and cost Rhona her third and final legendary resistance. Rhona noticed the hesitation and worked it directly into the encounter — *"Think of me as a bear coming at you in the woods. Are you going to just stand there?"*
 - 1 Nightal, Year 222 PA: Rhona's admission afterward — first real fight in six years, still not wanting to lose any more of "her kids" — landed pointed and personal, aimed straight at Kili's own reluctance to swing at her all fight.
+
+## Session 7 Update
+
+- Night of 1 Nightal, Year 222 PA: decorated her own room; retold Roberto and Keith Poe the vision she'd already lived through the night before ([[Session 06 - I Will Take Your Children|Session 06]]).
+- 1–10 Nightal (downtime): turned the Adamantine Guild's own common room into an after-hours speakeasy rather than working an outside stall—Roberto brewing alongside her, the dwarf tavern-keeper **[[Devran]]** walking in impressed enough to invite Roberto to his own place. Her own performance, a story about nobles who've never had to weigh the risk that funds their comfort, landed well enough for real coin and a standing favor with the room. In the telling, Rhona laid out the Guild's founding tenets—Oghma, Helm, **[[Waukeen]]**—and its guildmaster, "Erky," by name for the first time in her hearing.
+- **Two further tracks not yet played/recorded—to be added once recovered from memory.**
 
 

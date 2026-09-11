@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-09-09T00:35:52
+updated: 2026-09-11T16:01:49
 ---
 
 # Samson Flint
@@ -168,5 +168,12 @@ Playbook:: [[Samson Flint - Playbook]]
 
 - 1 Nightal, Year 222 PA: joined the call online mid-vision. No vision of his own; he wasn't present for it. But he was on the battle map and rolled initiative alongside everyone else before Rhona's Guild evaluation fight began, present and acting from round 1, not a late arrival to the fight itself. Manifested his echo immediately and dealt more damage than anyone else at the table across the fight, including the first crit of the whole game; Necrotic Shroud's fright effect cost Rhona her second legendary resistance. Closed strong with a javelin throw plus two echo-assisted attacks. A double hit from her put him at 0, 23 damage. Rhona eased him down instead of finishing the job, flat of the blade rather than the edge.
 - 1 Nightal, Year 222 PA: caught Rhona's six-years admission afterward along with everyone else — one more thing to process on top of a session that started with a stranger's fight and ended with him on the ground of it.
+
+## Session 7 Update
+
+- Night of 1 Nightal, Year 222 PA: decorated his own room—bare, functional, a bed and a cupboard and nothing on the walls, the room of someone still waiting to decide this is somewhere worth being comfortable. Dreamed afterward: a blacksmith on a storm-wrecked island who took in a scarred stranger, months of wordless work at the forge together, then a dream that outgrew the village entirely—the same stranger standing revealed as **[[Gond]]**, mid-strike on an anvil built to hold the world, waiting on one last piece. That piece arrived as a shape of water and starlight and went under the hammer in the others' place. Woke with two levels of exhaustion still ahead of him over the coming ten days. *[[Gond]]'s own note has the fuller picture—what's actually confirmed here stops at the silver eyes matching the blacksmith's, nothing further.*
+- 1–10 Nightal (downtime): worked a day with a wall gang, earned one gold and three silver, and got a first-hand look at rigging that wouldn't pass inspection back home.
+- 1–10 Nightal (downtime): spent fifteen gold trying to drink his own crew into talking—an attempt that, even to him, looked like running from what the dream had left behind—and came away with nothing but two very bad rolls and his first level of exhaustion for the week.
+- 1–10 Nightal (downtime): surveyed the Wall's structure with [[Keith Poe]] backing him, found it swaying wrong and hollowed out in places, and found the reason why: a breach twenty feet high and fifteen wide, dug straight through a section the work gangs won't go near. A second level of exhaustion caught him partway through working it out. Went in anyway—sixty to eighty feet of tunnel, a wall of cold air, something with a bone-white wing just past the torchlight—and came back out with Keith, badly frostbitten, the thing itself unidentified.
 
 

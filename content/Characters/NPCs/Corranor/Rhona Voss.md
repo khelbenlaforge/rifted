@@ -146,3 +146,8 @@ Athletics +10 · Insight +4
 - 1 Nightal, Year 222 PA: noticed (independently corroborated by [[Luks Borg]] in Crystal City) that every one of the party's growth items is bonded to its owner's soul; agreed to keep this quiet for the party's protection.
 - 1 Nightal, Year 222 PA: explained downtime rules to the party (10-day block, 3 tracks — Relationships/Work/Investigation — DC5 to DC10 to DC15, optional DC20 fourth track) and world lore: Corranor's sea gates open only on landfall; white dragons hold the Arctic north; a southern continent is confirmed, under expedition from Crystal City; teleportation still shouldn't work in this world at all.
 
+## Session 7 Update (The Understudies)
+
+- Escorted [[Roberto]] to mediate the Wall-labor dispute at the docks and explained that the Guild's downtime rules were already in play: a 10-day block with tracks.
+- During the speakeasy scene, relayed and confirmed the [[Adamantine Guild]]'s founding tenets to [[Kili]] and Roberto: Oghma's scroll is knowledge, Helm's fist is protection, and Waukeen's coin is commerce—"elevating society," not making money. Named their author as guildmaster Erkaniel Timbers ("[[Erky]]"), based in [[Crystal City]].
+
