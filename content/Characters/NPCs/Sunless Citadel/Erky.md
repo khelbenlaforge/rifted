@@ -54,6 +54,10 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 - Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and Grip
 - **Under observation:** [[Luks Borg]] gave [[Min Ji-ah]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
 
+## Session 7 Update (The Understudies)
+
+- First mention to that party: [[Rhona Voss]] named Erkaniel Timbers ("Erky") to [[Kili]] and [[Roberto]] as the [[Adamantine Guild]]'s founding guildmaster, based in [[Crystal City]], and author of its three tenets. Cross-party reference only; he did not appear in person.
+
 ## D&D 5e Stat Block
 
 

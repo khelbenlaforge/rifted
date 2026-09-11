@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-04
 secret: false
 created: 2026-09-05
-updated: 2026-09-05T03:17:20
+updated: 2026-09-11T16:34:53
 ---
 
 # Session 28 - A Name I Cannot Read
@@ -48,7 +48,7 @@ Then the thing he plainly wished he did not have to say. There was a name he cou
 
 Monks and clerics came forward with the papers in their hands and began to chant. The letters lifted off the pages and burned into a line of script across the sky, name after name after name in a hand none of the party can read yet.
 
-[[Nanuk|Nanuk]] and Gill saw what the rest of the square could not. Terra reached for it and got nothing at all.
+[[Nanuk|Nanuk]] and Gill saw what the rest of the square could not. Terra reached for it and got nothing at all, and envied Gill his spot on the platform more than she expected to.
 
 To Nanuk it was small lights rising off the ground, each one climbing toward a single line of text, a flash where the two met, then both gone together. Gill saw further, and saw what those lights actually were. People. Old ones, young ones, a dozen kinds of them, drifting up half-blind until the chant turned their heads, and then making straight for the words. Each soul reached its name and the name closed around it in gold. Some of the light was translucent blue, some red like fire, some black as night, and it made no difference at all to whether they were taken.
 
@@ -56,7 +56,7 @@ Not all of them rose. Down among the people praying and weeping and laughing, th
 
 Beside [[Nanuk|Nanuk]], [[Inukshuk]] watched without distress and said that the spirits of Nanuk's own people are stuck here too, and so is the Great Spirit, and that there is hope in this. Nanuk was not moved to grief. This is simply what is supposed to happen.
 
-[[Min Ji-ah]] spent the speeches reading the seven. Garm hates the platform and only wants to get things done. Doran is embarrassed, and it is the party's fault: things have been getting through the city's defences ever since they arrived, and he takes it personally. **[[Wystan]]**, Keeper of the Archive, a very tall elderly man with blue-tinged hair she recognised from the [[Ether Scryer's Academy]], did not hear a word anyone said. His eyes went back and forth between Gill on the platform and the rest of them below it, and the appetite in it was curiosity rather than malice. What can I get out of these people that I have not had a chance at yet. She stared back until it was uncomfortable. **[[Nerise]]**, Keeper of Exploration, sword at their hip and none of the usual mage about them, was not watching the Council at all but looking out past the crowd, thinking about the expedition sent to find other lands and now on its way home. Nerise flinched, slightly, when Oriel turned his guns on the Temple. Doran did not.
+[[Min Ji-ah]] spent the speeches reading the seven. Garm hates the platform and only wants to get things done. Doran is embarrassed, and it is the party's fault: things have been getting through the city's defences ever since they arrived, and he takes it personally. **[[Wystan]]**, Keeper of the Archive, a very tall elderly man with blue-tinged hair she recognised from the [[Ether Scryer's Academy]], did not hear a word anyone said. His eyes went back and forth between Gill on the platform and the rest of them below it, and the appetite in it was curiosity rather than malice. What can I get out of these people that I have not had a chance at yet. She stared back until it was uncomfortable. **[[Nerise]]**, Keeper of Exploration, sword at their hip and none of the usual mage about them, was not watching the Council at all but looking out past the crowd, thinking about the expedition sent to find other lands and now on its way home. Nerise flinched, slightly, when Oriel turned his guns on the Temple. Doran did not. The last two on the platform she couldn't place: a human woman, stone-faced through the entire proceeding, and a short, jolly gnome standing on a raised platform of his own just to be seen, delight written all over him.
 
 ### Three Souls for Mine
 
@@ -86,7 +86,7 @@ Back at the [[Adamantine Guild]] that night the party sat down with their Guild 
 
 [[Layla]] is still at large and still teleporting, inside the city and beyond it. Word has come back that the second batch of arrivals reached [[Stormberg]]; the Wallwatch there has them, and they will work the mystery from that end.
 
-Then the shape of the thing. This world has no teleportation magic. Nothing that punches a hole through space and time can happen here, which makes the party's arrival not merely unusual but impossible, and they did not come from another plane, they came from another universe. Short hops still work, because Misty Step only skims the Ethereal, and the Ethereal, the Shadowfell and all four elemental planes sit *inside* the astral barrier. The barrier cuts off only what lies beyond, which is where the gods are supposed to live. That is why the Church of Kelemvor, whose charge is policing souls out to the afterlives, cannot do it, and has fallen back on a ritual in the hope that the ritual works.
+Then the shape of the thing. This world has no teleportation magic. Nothing that punches a hole through space and time can happen here, which makes the party's arrival not merely unusual but impossible, and they did not come from another plane, they came from another universe. Short hops still work—[[Veyris Thantorn]]'s read on it, out of the Alchemist's Guild—because Misty Step only skims the Ethereal, and the Ethereal, the Shadowfell and all four elemental planes sit *inside* the astral barrier. The barrier cuts off only what lies beyond, which is where the gods are supposed to live. That is why the Church of Kelemvor, whose charge is policing souls out to the afterlives, cannot do it, and has fallen back on a ritual in the hope that the ritual works.
 
 The elemental spirits [[Inukshuk]] has been telling Nanuk about for months finally got their names. Between Nanuk, Gill and Uki, the answer came out: **[[Istishia]]**, **[[Grumbar]]**, **[[Kossuth]]** and **[[Akadi]]**, the primordial demigods of water, earth, fire and air, mapped onto Nanuk's four winds. They are weakening. All four are behind the barrier with everyone else, which is exactly why Gill has been hearing Istishia's voice while every other cleric in the city insists such a thing is impossible.
 
@@ -94,7 +94,7 @@ The elemental spirits [[Inukshuk]] has been telling Nanuk about for months final
 
 Gods run on worship. A god without worshippers cannot hold up his end of anything, and if the primordials fail, so does the world they are holding together. Ember, working the same thread from the other side, felt out the shape of the Lower Planes: no gods there, but a **soul economy**, an appetite for souls in circulation, because souls are what can be traded, contracted and spent. Which is what [[Asmodeus]] wants, and why a name like his turns up in a ledger beside Layla's.
 
-The party's growth items are pieces of their own souls and cannot be left behind. They follow. The same is true of Ocean, and of Fernando.
+The party's growth items are pieces of their own souls and cannot be left behind. They follow. Inukshuk is bound the same way, Uki confirmed.
 
 [[Shen]]'s cosmic vision and Nanuk's first vision are the same event at different moments. Nanuk saw the spirits descending to a world under construction. Shen saw that world nearly finished and under attack by things that sound a great deal like the shadow creatures, with a barrier going up around it, and the party worked out for themselves that the barrier was built to hide the new world as much as to protect it. Shen's patron was hired, mercenary-fashion, to help hold the line while it went up.
 
@@ -126,7 +126,7 @@ With more threads on the table than they can pull at once, the party chose. The 
 
 The Guild offered what little is known. Silvanus has never in living memory taken worshippers, but the legend among the nature faiths says he sometimes calls a worthy soul to his grove, and the grove is not a physical place. The [[Belak|Ancients of Lava]] have been hunting for it for years and he has never once let them in, which the party took as a solid argument for telling them nothing. Nanuk can feel the pull well enough to follow it. It points north.
 
-Which means [[Stormberg]]. A town behind a wall two to three hundred feet high running the entire northern coastline of [[Corranor]], built because every time the continent rises to float, the storms come in off the edge of the world and hit it. Past that, the Arctic, which is not a circle here but a line drawn from one end of the world to the other.
+Which means [[Stormberg]]. A town behind a wall two to three hundred feet high running the entire northern coastline of [[Corranor]], built because every time the continent rises to float, the storms come in off the edge of the world and hit it. Past that, the Arctic, which is not a circle here but a line drawn from one end of the world to the other—and Stormberg is said to know it better than Crystal City ever will.
 
 ### The Brotherhood of the Four Winds
 

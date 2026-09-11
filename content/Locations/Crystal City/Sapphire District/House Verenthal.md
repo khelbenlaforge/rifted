@@ -21,6 +21,8 @@ Guests meant for discreet business are received at a side gate rather than the f
 
 **The Stormberg end.** The family's northern foothold is the patronage and standing it still holds over the Stormwall's upkeep — the **Nobles** cog in Stormberg's four-part governance of the Wall — the one that *funds* it, alongside the [[Magocracy of Corranor]] (oversight), the [[Ether Scryer's Academy]] (maintenance) and the [[Adamantine Guild]] (the culling contract). Whether that connects to the money bleeding out of the Crystal City estate is still an open question. See `Stormberg.md` DM Notes.
 
+**Session 7 (The Understudies).** The party made its first in-person contact with this thread in [[Sir Verenthal]], the family's man overseeing Wall-gang labor rostering. [[Roberto]] confronted him over a pay dispute, confirming in fiction that a Verenthal personally runs Wall-labor funding and rostering in Stormberg; the deeper Crystal City estate money-bleed remains unknown to the party.
+
 ---
 Region:: Sapphire District, Crystal City
 Status:: Active — quietly bleeding money, hiding a scandal

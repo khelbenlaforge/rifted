@@ -38,4 +38,9 @@ Location:: [[Stormberg]]
 Affiliation:: Dawnhearth
 Deity:: [[Lathander]]
 
+## Session 7 Update (The Understudies)
+
+- Deepened Roberto's relationship track: explained the old rivalry between [[Lathander]] and [[Helm]] (both neutral good, but they do not get along), Lathander's allies [[Chauntea]] and [[Tyr]], and that his youthful exuberance can do as much harm as good.
+- Brought Roberto to an elf at the [[Ward Works]] old enough to remember the Awakening firsthand.
+
 
