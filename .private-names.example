@@ -1,0 +1,11 @@
+# .private-names
+#
+# One protected string per line. Case-insensitive, whole-word match against
+# every file about to be published (staged content/ and quartz/static/).
+#
+# This file itself is gitignored -- never committed, never published.
+# Copy it to .private-names (no .example suffix) and fill in real names.
+#
+# Example entries (not real):
+Alex
+Sam
