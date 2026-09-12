@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-09T00:28:09
+updated: 2026-09-12T17:20:47
 created: 2026-08-24T17:22:42
 ---
 
@@ -43,7 +43,7 @@ The desk was never the whole trade for her, and Session 6 confirmed why she keep
 
 ## Background
 
-Stormberg's Adamantine Guild Wallwatch Branch Leader, night desk usually covered alone. A former culler herself before the desk, which is where the missing fingers and the administrator's instincts both come from — she ran manifests and headcounts on cull teams long before she ran the branch office.
+Stormberg's Adamantine Guild Wallwatch Branch Leader, night desk usually covered alone. A former culler herself before the desk, which is where the missing fingers and the administrator's instincts both come from — she ran manifests and headcounts on cull teams long before she ran the branch office, partnered for a stretch on those same teams with **[[Yenna Marrow]]**, back before either of them traded that work for something steadier.
 
 ## Role in the Story
 
@@ -53,6 +53,7 @@ First point of contact for The Understudies on arrival in [[Stormberg]] (Session
 
 - **[[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]], [[Esca]]** — inducted the five into the Guild's Stormberg branch, Session 4
 - **[[Istar Silverlock]]** — recognizes the name; a peer she's never met in person, Assistant Guildmaster of the same understaffed Guild
+- **[[Kili]]** — the one PC she's let past the branch-leader voice entirely; Session 7's downtime turned into an evening of real history on both sides, and an offer that had nothing to do with the Guild
 - **[[Adamantine Guild]]** — runs its Stormberg branch competently, mostly alone
 
 ## D&D 5e Stat Block
@@ -150,4 +151,6 @@ Athletics +10 · Insight +4
 
 - Escorted [[Roberto]] to mediate the Wall-labor dispute at the docks and explained that the Guild's downtime rules were already in play: a 10-day block with tracks.
 - During the speakeasy scene, relayed and confirmed the [[Adamantine Guild]]'s founding tenets to [[Kili]] and Roberto: Oghma's scroll is knowledge, Helm's fist is protection, and Waukeen's coin is commerce—"elevating society," not making money. Named their author as guildmaster Erkaniel Timbers ("[[Erky]]"), based in [[Crystal City]].
+- During the same speakeasy scene, named her family for the first time to anyone in the party: one child on the Wall crew, another at the [[Ether Scryer's Academy]] in [[Crystal City]], and a husband lost to Adamantine Guild work on the Wall. Both chose the work themselves, by her account, which is the part she's proudest of.
+- Followed it with an offer that had nothing to do with rank or duty: she'd teach Kili to fight, on her own time, because she meant what she told the table back in Session 6 about not losing any more of her kids.
 

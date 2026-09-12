@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-26T19:16:54
-updated: 2026-08-26T19:48:54
+updated: 2026-09-11T23:16:00
 ---
 
 # Gregory Yang - Playbook
@@ -22,7 +22,7 @@ updated: 2026-08-26T19:48:54
 
 **Action:**
 - Default ranged attack → **Fire Bolt** (spell attack +7, 120 ft, 1d10 fire, unlimited) — the first time each turn this hits, **Steady Hands** adds an extra 1d6 force damage
-- Wants to use a held weapon's attack instead, or needs radiant damage specifically → **True Strike** (attack with the Dagger at its own range — 5 ft melee or 20/60 ft thrown — using INT instead of the weapon's normal ability for both the attack roll and damage; choose weapon damage or radiant; the cantrip itself adds no bonus damage until level 5) — **True Strike is a weapon attack made as part of casting a spell, not a spell attack roll itself** *(confirmed via this item's own DM Notes — Codex flagged this exact distinction during design)*, but it still triggers Steady Hands' extra 1d6 force the first time each turn, same as Fire Bolt
+- Wants to use a held weapon's attack instead, or needs radiant damage specifically → **True Strike** (attack with the Dagger at its own range — 5 ft melee or 20/60 ft thrown — using INT instead of the weapon's normal ability for both the attack roll and damage; choose weapon damage or radiant; the cantrip itself adds no bonus damage until level 5) — **True Strike is a weapon attack made as part of casting a spell, not a spell attack roll itself** *(per the spell's own 2024 text: "you make one attack with the weapon used in the spell's casting," using your spellcasting ability "instead of using Strength or Dexterity" — XPHB)*, but it still triggers Steady Hands' extra 1d6 force the first time each turn, same as Fire Bolt
 - Multiple enemies grouped around Gregory → **Thunderwave** (Action, CON DC 15, self 15-ft cube, 2d8 thunder, 10-ft push on a fail, half damage/no push on success, L1 slot)
 - Wants to weaken a group before focusing them down → **Faerie Fire** (Action, DEX DC 15, 60 ft, 20-ft cube, Conc. 1 min, L1 slot) — outlined targets grant advantage on attacks against them; **Held Ground** gives advantage on the Concentration saves needed to keep this up under fire
 - Expects to get meleed and wants a buffer plus retaliation → **Armor of Agathys** (Action, self, L1 slot) — 5 temporary HP; while any of it remains, a creature that hits Gregory with a melee attack takes 5 cold damage
@@ -72,8 +72,9 @@ updated: 2026-08-26T19:48:54
 - Need to recall arcane theory, historical precedent, or piece together a mystery from physical clues → **Arcana, History, and Investigation, all at +7** — an unusually deep knowledge base across the board
 - Need to ward a camp or room overnight → **Alarm** *(free 1/Long Rest via Mark of Warding, 20-ft cube, alerts mentally or audibly for 8 hr)*
 - Need to lock something so only he — or someone who knows the password — can open it → **Arcane Lock** *(free 1/Long Rest via Mark of Warding — see Comparative Notes above: this is currently his only way to cast it at all)*
+- Need a willing ally shielded before a fight the party can see coming → **Mage Armor** *(free 1/Long Rest via Mark of Warding; a willing, unarmored creature's AC becomes 13 + their DEX modifier for 8 hours)*
 
 ## Completeness Check
 
-Every Actions/Reactions table row (Bonus Actions has none at this level, per the sheet), every Feature, and the Spellcasting section on Gregory's sheet is addressed above or explicitly excluded with a stated reason, with the Eldritch Cannon's exact numbers flagged as a known data gap rather than guessed at. Skillful is left out because it's already folded into a proficiency reflected on the sheet's skill line, with no separate decision to make. Magic Initiate: Wizard is addressed via its actual grants (Minor Illusion and True Strike, both in the Action tier above) rather than named as a source in its own right. Mundane inventory with no distinct mechanical effect (Backpack, Oil, Rations, Rope, Tinderbox, Torches, Waterskin, Fine Clothes) is left out for the same reason as the other AUGs playbooks; Crowbar and Caltrops are covered by Thieves'/Tinker's Tools proficiency and Tinker's Magic above rather than getting separate entries.
+Every Actions/Reactions table row (Bonus Actions has none at this level, per the sheet), every Feature, and the Spellcasting section on Gregory's sheet is addressed above or explicitly excluded with a stated reason, with the Eldritch Cannon's exact numbers flagged as a known data gap rather than guessed at. Skillful is left out because it's already folded into a proficiency reflected on the sheet's skill line, with no separate decision to make. Magic Initiate: Wizard is addressed via its actual grants (Minor Illusion and True Strike, both in the Action tier above) rather than named as a source in its own right. Mundane inventory with no distinct mechanical effect (Backpack, Oil, Rations, Rope, Tinderbox, Torches, Waterskin, Fine Clothes) is left out because it has no rules text to branch on — carrying it changes nothing mechanically; Crowbar and Caltrops are covered by Thieves'/Tinker's Tools proficiency and Tinker's Magic above rather than getting separate entries.
 

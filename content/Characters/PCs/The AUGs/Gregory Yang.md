@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-08-27T17:45:25
+updated: 2026-09-12T02:33:48
 ---
 
 # Gregory Yang
@@ -80,7 +80,7 @@ Gregory's answer to five strangers and a temple full of shadows was a joke about
 
 **Skills:** Acrobatics +1 . Animal Handling +0 . Arcana +7 . Athletics -2 . Deception -1 . History +7 . Insight +0 . Intimidation -1 . Investigation +7 . Medicine +2 . Nature +5 . Perception +0 . Performance -1 . Persuasion -1 . Religion +5 . Sleight of Hand +1 . Stealth +1 . Survival +0
 **Languages:** Common
-**Tools:** Thieves' Tools; Tinker's Tools; one artisan's tool (choice unrecorded)
+**Tools:** Thieves' Tools; Tinker's Tools; Woodcarver's Tools (via Tools of the Trade); one additional artisan's tool (choice unrecorded)
 
 ---
 
@@ -126,6 +126,7 @@ Gregory's answer to five strangers and a temple full of shadows was a joke about
 - **Tinker's Magic** — Know *Mending*. As a Magic action while holding Tinker's Tools, create one item from the PHB tinker's-tools list (rope, caltrops, torch, etc.) within 5 ft; lasts until next Long Rest. Uses = INT mod (5) per Long Rest.
 - **Replicate Magic Item** — knows four plans; may create up to two different planned magic items at the end of a Long Rest with Tinker's Tools.
 - **Eldritch Cannon** — the cannon's firing mode/stat block was not present in the supplied actor snapshot; choose/use it from the live Foundry feature.
+- **Tools of the Trade** — proficiency with Martial Ranged weapons; proficiency with Woodcarver's Tools (or a different artisan's tool of choice if that proficiency is already held); halved crafting time for a magic Wand.
 - **Resourceful** — gain Heroic Inspiration after each Long Rest.
 - **Skillful** — gain proficiency in one chosen skill.
 - **Alert** — add proficiency bonus to Initiative; may swap Initiative with a willing, non-Incapacitated ally after rolling.

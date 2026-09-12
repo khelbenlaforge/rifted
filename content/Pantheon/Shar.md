@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-07
-updated: 2026-09-07T19:05:05
+updated: 2026-09-12T21:15:05
 ---
 
 # Shar
@@ -51,7 +51,9 @@ No standalone Shar note existed until now — Selûne's own page held off "until
 - **Session 28 (Feast of the Moon, into 1 Nightal)** — a second, more serious incident the same night: a summoning bound and dispersed at the site, publicly downplayed by [[Doran]] ("nothing entered Crystal City from outside it") even though the party watched otherwise. [[Garm]] told the assembled city the First Gravelord was alive and would close the Feast himself — implying real danger to him that night.
 - **Session 28, in-fiction cosmology reveal** — Selûne and Shar were originally a single being of light; their split created duality, and the first Mystra emerged from the split. This is the Faerûnian "Dark Moon heresy" — see DM Notes — except it's confirmed true in Aenath, not a heresy at all.
 
-**Understudies S5 (this session)** — Rhona Voss relayed word to the party in Stormberg, secondhand and over a sending stone, that "some of the Rifted have been attacked... by members of the Cult of Shar," and that the First Gravelord "was kidnapped and almost sacrificed on the altar to Shar." This is almost certainly a dramatized, imprecise account of the Session 28 event above, reaching a different party at a physical remove — not a new incident, and not to be treated as confirming or correcting the Door Kickers' own record of what happened.
+**Understudies S5** — Rhona Voss relayed word to the party in Stormberg, secondhand and over a sending stone, that "some of the Rifted have been attacked... by members of the Cult of Shar," and that the First Gravelord "was kidnapped and almost sacrificed on the altar to Shar." This is almost certainly a dramatized, imprecise account of the Session 28 event above, reaching a different party at a physical remove — not a new incident, and not to be treated as confirming or correcting the Door Kickers' own record of what happened.
+
+**Understudies S7**—Keith Poe independently followed up on Rhona's S5 account, digging through the Ward Works' and Iron Seam Guild's own stacks. A bare DC 15 pass turned up the diametric-opposite relationship with Selûne already established Door Kickers-side, and surfaced a new symbolic detail: her faith reads her into the last stretch of darkness before any dawn actually breaks. No Stormberg temple or shrine to either goddess identified yet—flagged as his own next step.
 
 ## Connections
 

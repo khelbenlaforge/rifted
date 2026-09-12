@@ -7,12 +7,12 @@ session: 7
 date: 2026-09-09
 in-world-date: 1 Nightal onward, Year 222 PA (10-day downtime block, in progress)
 created: 2026-09-11T00:00:00
-updated: 2026-09-11T16:01:46
+updated: 2026-09-12T21:26:04
 ---
 
 # Session 07—The Missing Element
 
-*This session's recording ends mid-scene. Kili's and Keith Poe's remaining downtime tracks were not captured and will be added to this note once recovered from memory.*
+*This session's recording ends mid-scene. Kili's second and third tracks, and the missing detail on Roberto's second and third, were recovered from the DM's memory after the fact and are included below. Keith Poe's own third track wasn't on the recording either, but was recovered afterward from his own text messages, and is included below too.*
 
 ## Rooms of Their Own
 
@@ -38,7 +38,9 @@ Roberto's Guild posting sent him to the docks with [[Rhona Voss]] at his shoulde
 
 The man responsible for the roster turned out to be a Verenthal: **[[Sir Verenthal]]**, House Verenthal's man on the ground in Stormberg, found holding court in an office near the docks under a coif of hair styled like nothing Roberto had ever wanted to see on a grown man. Roberto tried to lead with a threat. It didn't land; Verenthal simply raised the bar he'd have to clear and kept talking. What did land, once Roberto abandoned intimidation for an actual argument about hazard and fairness (Keith Poe helped, framing it in terms even a nobleman chasing profit margins could follow), was a promise: a forum for the whole roster by the end of Nightal, if the gangs went back to work now. Something in Verenthal's own explanation for the favoritism, that safer posts go to workers with family in the city, struck both Roberto and Keith as true, but not complete. He paid Roberto forty gold on the spot and sent the gangs home by salamander. The Guild's own payment for the job, on top of that, went unmentioned.
 
-He spent later days with **[[Sister Priya Dawnwell]]** at the Dawnhearth, learning the shape of Lathander's church this far from anywhere it had ever properly taken root: that Helm and Lathander have never gotten along, both neutral good or not; that Chauntea and Tyr stand with the Morning Lord; that his own god's exuberance cuts as easily as it heals. Priya brought him after that to an elf at the [[Ward Works]] old enough to remember the Awakening firsthand, the ground cracking open, people dying in the light of it, and through all of it a warmth Priya's elf still describes as the Morning Lord himself trying to hold the world together. There had been structures here before the cataclysm. Nobody living remembers how they came to be, or why everything after was wasteland.
+He spent later days with **[[Sister Priya Dawnwell]]** at the Dawnhearth, learning the shape of Lathander's church this far from anywhere it had ever properly taken root: that Helm and Lathander have never gotten along, both neutral good or not; that Chauntea and Tyr stand with the Morning Lord; that his own god's exuberance cuts as easily as it heals.
+
+Priya brought him after that to an elf at the [[Ward Works]] old enough to remember the Awakening firsthand, the ground cracking open, people dying in the light of it, and through all of it a warmth Priya's elf still describes as the Morning Lord himself trying to hold the world together. There had been structures here before the cataclysm. Nobody living remembers how they came to be, or why everything after was wasteland.
 
 Roberto put the pieces together on his own, something nobody else in Stormberg has managed yet: the temple Kili once told him about, the one Layla teleported the original four into before any of this started, a temple of the Morning Sun. He hasn't said the question out loud to anyone but himself yet: *why that temple, specifically, for a landing point.*
 
@@ -48,11 +50,19 @@ Kili's own track took a business Rhona floated and ran with it, turning the Guil
 
 Kili worked the room with the same instinct she brings to everything: a performance about nobles who've never once had to think about the risks that fund their comfort, propaganda dressed as a bar story. It landed well enough to leave with real coin and a standing favor from the crowd. Somewhere in the retelling, Rhona explained the Guild's own founding tenets to a table that had never asked: Oghma's scroll for knowledge, Helm's fist for protection, **[[Waukeen]]**'s coin for the trade that's supposed to lift people up rather than just enrich them. Set down by a guildmaster everyone in the room calls **Erky**, and nobody in the room but Rhona has ever actually met.
 
+Her second track didn't stay where it started. **[[Yenna Marrow]]** mentioned a partner waiting at home, hands still busy with a craft the noodle stall never touched, both of them further along in years than either liked to admit. Then, unprompted, the rest of it: cull-team seasons on the Wall once upon a time, standing shoulder to shoulder with a much younger **[[Rhona Voss]]**, before Yenna set that life down for good and let the stall be the whole of it. Rhona had her own accounting to settle before the night was out. A child on the Wall crew. Another at the [[Ether Scryer's Academy]] in [[Crystal City]]. A husband the Wall's own work took from her. What she offered Kili afterward wasn't a Guild favor. It was a promise to teach her to fight, made the same way she'd promised the table back in Session 6 that she wasn't losing any more kids.
+
+Her third track went somewhere the first two never would have: **[[The Gilded Loom]]**, all wine list and hushed money, the kind of room Stormberg's noble district treats as an overflow parlor. One good bottle of Roberto's brewing bought her the tavern master's attention, and **[[Corwyn Ashgrave]]** thought enough of the bottle to make room for her at his own table. She's made a habit of the place since, angling him toward the Wallwatch whenever the conversation allows it, mostly just cataloguing who passes through: Verenthal staff on fortress errands, [[Ether Scryer's Academy]] people off shift, citizens with enough money to have never priced a wall gang's wages. If anyone's noticed she doesn't belong, nobody's said so yet.
+
 ## Keith Poe: What the Wall Is Made Of
 
 Keith walked three streets over to the **[[Iron Seam Guild]]** with an idea the artificers there had never had a word for: mortar you pour instead of forge, mixed from limestone, volcanic ash and water. In trade he came away understanding their own answer to the same problem: **Stormberg obsidian**, treated volcanic rock sheathing the Wall's earthen core, magically receptive enough to hold a lattice reinforcement, never permanent, always needing to be reapplied by hand and then re-warded behind it by the Academy's mages. He also learned, almost as an aside, how the Wall came to exist in the first place. A wilderness druid circle out of Corranor's own history, the **[[Ancients of Lava]]**, spent months mass-casting Shape Earth two centuries ago to raise it. Which is exactly why it can be burrowed through from the inside, whatever the obsidian manages on the outside.
 
 The sample he actually mixed came out brittle. The Guild was impressed anyway; forty gold changed hands, and the door stayed open. *Has potential,* was the verdict. It's the kind of verdict that tends to be true here.
+
+His second track never touched the workshop floor. A handful of Iron Seam faces followed him to Kili's speakeasy one night, and by the end of it the Guild's mark was worth a discount at the bar, which by his own account did more for his standing there than the concrete sample had. It also got him properly noticed by his supervisor: senior artificer **[[Cinderjaw Varnick]]**, forearms scarred from decades of siege-engine work, a woman who talks like every sentence belongs in a maintenance log. The offer that followed surprised him more than it should have: a spot on the Wall's own siege engines, once the continent makes landfall and the storms let up. Keith heard something else in it entirely. Varnick worked out why a beat too late to head it off, and corrected the record from a solid two feet above his head: *"Awwwwww, you're such a sweetie... but no."*
+
+His third track went to paper instead of people, chasing a thread Rhona had handed the party back in Session 5: the Cult of Shar, and whatever actually happened to the First Gravelord on that altar in Crystal City. Stormberg's own record on the subject turned out to live in two places: the [[Ward Works]]' stacks and the [[Iron Seam Guild]]'s. A DC 15 check he barely cleared, a 16 or 17 by the DM's own memory of it, turned up a partial picture: [[Shar]] read, as far as he could tell, as [[Selûne]]'s diametric opposite, and her own faith reads itself symbolically into the last stretch of dark before any dawn actually breaks. Nothing on record said where in Stormberg either goddess still keeps a door open. That's the obvious next stop, and it's still unwritten.
 
 ## Samson: The Hole in the Wall
 

@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
-updated: 2026-09-08T21:18:25
+updated: 2026-09-12T17:31:06
 created: 2026-09-07T18:19:06
 ---
 
@@ -35,5 +35,6 @@ Headquarters:: [[Stormberg]]
 
 - [[Keith Poe]] pitched Roman-style concrete—limestone, volcanic ash, and water—to the Guild's artificers. His sample came out brittle but was well received; he earned 40 gp and a standing Charisma-advantage perk with the Guild.
 - The Guild explained that Stormberg obsidian is treated volcanic rock sheathing the Wall's earthen core: it is magic-receptive, requires ongoing re-application, and must be re-warded by the Academy. Roughly two centuries ago, the [[Ancients of Lava]] mass-cast Shape Earth to raise that earthen core.
+- Keith's second track went further than the workshop floor: brought several of his new colleagues to [[Kili]]'s speakeasy in the Guild's common room and talked the house into discounted rounds for Iron Seam regulars. Senior artificer **[[Cinderjaw Varnick]]** noticed, and Keith's landed on her short list of people worth grooming for the engines.
 
 

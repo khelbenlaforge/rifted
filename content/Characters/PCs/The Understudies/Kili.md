@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-11T15:08:19
+updated: 2026-09-12T17:31:39
 ---
 
 # Kili
@@ -56,8 +56,10 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 - [[Samson Flint]] — she was one of the three who carried him out of the Hexad unconscious. He has no memory of it.
 - [[!D'bleh]], [[Esca]], [[Fern]] — the first three faces of this world. One of them walked back into her life in Session 4; the other two simply stopped being anywhere.
 - [[Rhona Voss]] — asked for work closer to the ground than the Guild's own job board, and got sent to a noodle stall for her trouble, which turned out to be exactly the favour Rhona had intended.
-- [[Yenna Marrow]] — worked her morning line and earned genuine goodwill for pulling her weight.
+- [[Yenna Marrow]] — worked her morning line and earned genuine goodwill for pulling her weight. A longer conversation in Session 7 went past the stall and into her actual history.
 - [[Balder Skeld]] — charmed him at the Feast vigil with a warm half-tease; he took it kindly and told her she'd be held in the temple's prayers regardless.
+- [[Rhona Voss]], again — Session 7's downtime conversation went deep enough that Rhona offered to teach her to fight.
+- [[Corwyn Ashgrave]] — won him over with Roberto's alcohol; a regular at the Loom now, more to watch the room than to drink in it.
 
 ## Character Sheet
 
@@ -202,6 +204,7 @@ Playbook:: [[Kili - Playbook]]
 
 - Night of 1 Nightal, Year 222 PA: decorated her own room; retold Roberto and Keith Poe the vision she'd already lived through the night before ([[Session 06 - I Will Take Your Children|Session 06]]).
 - 1–10 Nightal (downtime): turned the Adamantine Guild's own common room into an after-hours speakeasy rather than working an outside stall—Roberto brewing alongside her, the dwarf tavern-keeper **[[Devran]]** walking in impressed enough to invite Roberto to his own place. Her own performance, a story about nobles who've never had to weigh the risk that funds their comfort, landed well enough for real coin and a standing favor with the room. In the telling, Rhona laid out the Guild's founding tenets—Oghma, Helm, **[[Waukeen]]**—and its guildmaster, "Erky," by name for the first time in her hearing.
-- **Two further tracks not yet played/recorded—to be added once recovered from memory.**
+- 1–10 Nightal (downtime): her second track turned into the kind of night neither Yenna nor Rhona meant to let happen. Yenna admitted to a partner at home, still working with their hands same as always, both of them slower than they used to be. Then came the part Kili hadn't expected: Yenna's own years on the cull teams, alongside a much younger Rhona, before the noodle stall became the whole of her life. Rhona matched it with her own reveal. One of her kids works the Wall directly; the other studies how to, at the [[Ether Scryer's Academy]] in [[Crystal City]]. Guild work on that same Wall is what took her husband. She ended the night offering to teach Kili to fight herself. No ceremony to it. Just a woman who meant what she said back in Session 6 about not losing any more kids.
+- 1–10 Nightal (downtime): her third track took her somewhere Roberto's alcohol could actually open a door: **[[The Gilded Loom]]**, all polished stone and quiet money. Tavern master **[[Corwyn Ashgrave]]** decided the vintage spoke well enough of her to let her stay. She's kept going back, ostensibly to talk him toward the Wallwatch's own speakeasy, mostly to watch the traffic: Verenthal staff running errands for the fortress and the manors, [[Ether Scryer's Academy]] people between shifts, citizens rich enough to have never once done the math on a wall gang's pay. Nobody's clocked her as anything but one of the regulars.
 
 

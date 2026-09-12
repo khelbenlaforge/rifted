@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-11T16:01:41
+updated: 2026-09-12T21:28:36
 ---
 
 # Keith Poe
@@ -57,7 +57,8 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 - [[Kili]] — rejoined them in Session 3; went into [[The Hexad]] beside him.
 - [[Samson Flint]] — a man he went into a hostile dimension to retrieve and had still not spoken to a week later.
 - [[Rhona Voss]] — kept him at the table when she sent everyone else out into the city, and talked until he had the whole shape of Stormberg's money. Nobody else in the party got that morning.
-- [[Iron Seam Guild]] — Rhona named it as the natural home for an artificer. Keith has the address and an open invitation, and has so far done nothing with either.
+- [[Iron Seam Guild]] — Rhona named it as the natural home for an artificer. Pitched them Roman-style concrete in Session 7 and became a regular after.
+- [[Cinderjaw Varnick]] — his supervisor at the Iron Seam Guild; the tavern discount and the colleagues he brought her way did more for his standing than the concrete had. Mistook a work invitation for a date; she was kind about the correction.
 
 ## Character Sheet
 
@@ -214,6 +215,7 @@ Playbook:: [[Keith Poe - Playbook]]
 - 1–10 Nightal (downtime): backed [[Roberto]] up during his wall-labor negotiation with **[[Sir Verenthal]]**, framing the case in terms a profit-minded nobleman would follow rather than an appeal to fairness alone—Roberto's own track, Keith just along for the scene.
 - 1–10 Nightal (downtime): walked into the [[Iron Seam Guild]] at last (Rhona pointed him there back in Session 5) and pitched a mixture of his own: limestone, ash and water set into stone rather than hammered into it. In return he got the Guild's own material lecture—**Stormberg obsidian** sheathing the Wall's core, magic-friendly but never lasting, on a constant cycle of patch-and-re-lattice—plus two centuries of history on the **[[Ancients of Lava]]**, the druid circle that raised that core to begin with. Even with the crack, the Guild handed him forty gold and made clear the door stays open.
 - 1–10 Nightal (downtime): backed [[Samson Flint]] up on his own structural survey of the Wall and the breach it turned up—not a track of Keith's own, just roleplay presence—created a torch with Tinker's Tools once they went in, then fled and threw it when something cold and white-winged showed itself in the dark. Came back to Stormberg with Samson, badly frostbitten.
-- **Two further tracks not yet played/recorded—to be added once recovered from memory.**
+- 1–10 Nightal (downtime): his second track skipped the workshop floor entirely: new Iron Seam faces at [[Kili]]'s speakeasy, a standing discount for anyone wearing the Guild's mark by night's end. It put him properly on his supervisor's radar: senior artificer **[[Cinderjaw Varnick]]**, impressed enough to offer him a spot on the Wall's siege engines once the continent makes landfall and the storms settle. He heard a date in it. She didn't mean it that way. *"Awwwwww, you're such a sweetie,"* she said, looking down from a solid two feet up on a four-foot Verdan, *"but no."*
+- 1–10 Nightal (downtime): the third track was paperwork, not people—the [[Ward Works]] and the [[Iron Seam Guild]] both got searched for whatever Stormberg keeps on record about Shar, circling back to something Rhona told the party in Session 5. Barely made the DC 15 (a 16 or 17): what turned up was thin but real, [[Shar]] seemed to be [[Selûne]]'s opposite number, and symbolically she's tied to whatever dark still holds on right before sunrise. Whether either goddess still has a foothold in Stormberg isn't in the record he found; that part's still open.
 
 

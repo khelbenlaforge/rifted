@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-11T16:01:47
+updated: 2026-09-12T17:21:31
 ---
 
 # Roberto
@@ -222,6 +222,7 @@ Playbook:: [[Roberto - Playbook]]
 - Night of 1 Nightal, Year 222 PA: decorated his own room in the Guild's pocket dimension; listened to Kili retell the vision from the night before.
 - 1–10 Nightal (downtime): took the Guild's posting to mediate a wall-labor dispute at the docks alongside [[Rhona Voss]]. Tried intimidation on **[[Sir Verenthal]]** first and it failed outright; won the argument on a second attempt—hazard, fairness, an assist from [[Keith Poe]] framing it in terms a profit-minded nobleman would follow—and read a partial truth under Verenthal's own explanation for who gets the safer postings. Verenthal paid him forty gold and promised the gangs a forum by month's end if they returned to work now; the Guild's own separate payment through Rhona went unmentioned and unresolved.
 - 1–10 Nightal (downtime): helped [[Kili]] brew for her new speakeasy in the Guild's common room rather than spending a track of his own on it; met **[[Devran]]** for the first time.
-- 1–10 Nightal (downtime, per his own submitted notes—not on the session recording): deepened his standing with **[[Sister Priya Dawnwell]]** at the Dawnhearth, learning Lathander's theology and its old friction with [[Helm]]. She brought him to an elf at the [[Ward Works]] old enough to remember the Awakening firsthand—the cataclysm, Corranor's own sacrifice, a warmth in the worst of it the elf still credits to the Morning Lord. Started independently suspecting a connection between that account and the very temple Layla teleported the party's first four into—hasn't said the thought out loud to anyone yet.
+- 1–10 Nightal (downtime, per his own submitted notes—not on the session recording): his second track deepened his standing with **[[Sister Priya Dawnwell]]** at the Dawnhearth. Learned that Lathander and Helm have never gotten along despite both being neutral good, that Chauntea and Tyr stand as Lathander's allies, and that the Morning Lord's own exuberance can do harm as easily as good—Lathander is woven deep enough into Stormberg life that his priests officiate weddings and other new beginnings.
+- 1–10 Nightal (downtime, per the same notes): his third track cashed that relationship in for an introduction—Priya's own contact, an elf who lived through the Awakening firsthand at the [[Ward Works]]. Cracked ground, the dead underfoot, and a warmth in it the elf attributes to Lathander holding on where he could. Nobody currently living can say what stood here before the cataclysm, only that it did. Roberto is the only one in the room who can connect that account to a detail nobody else has: [[Layla]]'s temple, the one she sent the original four into, was Lathander's too. He's sitting on the obvious follow-up question and hasn't asked it yet.
 
 
