@@ -33,6 +33,7 @@ try {
         exit 0
     }
     git add content/ quartz/static/
+    & "$QuartzPath\scripts\check-private-names.ps1"
     Write-Host ""
 
     # Step 3: Commit and push
