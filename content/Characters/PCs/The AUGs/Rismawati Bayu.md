@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-08-27T17:53:24
+updated: 2026-09-13T13:42:20
 created: 2026-08-26T17:33:32
 ---
 
@@ -129,7 +129,7 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 - **Doesn't Balance** *(Brought Forward, Tier 1)* — the first time each turn a creature fails a saving throw against a spell Risma casts, it has disadvantage on its next attack roll before the start of Risma's next turn.
 - **A Second Set of Books** *(Brought Forward, Tier 1)* — advantage on Intelligence checks to accurately appraise goods or uncover hidden financial/logistical connections in ledgers, contracts, and correspondence; proficient with a Forgery Kit if not already.
 - **Reconciled** *(Brought Forward, Tier 1)* — once during a Long Rest, recovers one expended 1st-level spell slot (no action required).
-- **Prepared-spell picks pending** — Stani has not selected 3 first-level and 1 second-level regular prepared spells; do not treat those open picks as prepared.
+- **Prepared-spell picks pending** — Risma has not selected 3 first-level and 1 second-level regular prepared spells; do not treat those open picks as prepared.
 
 ---
 

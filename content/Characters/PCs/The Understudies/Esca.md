@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-09T00:12:47
+updated: 2026-09-13T13:42:14
 ---
 
 # Esca
@@ -204,7 +204,7 @@ Playbook:: [[Esca - Playbook]]
 
 ## Session 6 Update
 
-- 1 Nightal, Year 222 PA: **player absent this session — every action below is the table's collective read of him, not Aerin's own choices.** No vision; the shared cold-open vision was Kili, Roberto and Keith Poe's only.
+- 1 Nightal, Year 222 PA: **player absent this session — every action below is the table's collective read of him, not the player's own choices.** No vision; the shared cold-open vision was Kili, Roberto and Keith Poe's only.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger (led initiative at a natural-20 31). Opened with a Mage Hand grip on her ankle for difficult terrain, then cast Web across part of the arena — catching an ally in its difficult terrain along with his intended target. Missed one early dagger/True Strike attempt at melee range, then landed a real one later in the fight. Closed the fight himself, decisively: a landed Suggestion ("stand down") followed by a last Silvery Barbs that put Rhona rigid, grinning through gritted teeth, and down on one knee.
 - 1 Nightal, Year 222 PA: fictionally present for Rhona's six-years admission afterward, same as everyone else — though there was no player at the table to actually hear it.
 

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-30
 secret: false
 state: alive
-updated: 2026-08-30T18:57:53
+updated: 2026-09-13T13:42:16
 created: 2026-08-30T13:46:46
 ---
 
@@ -45,7 +45,7 @@ Finnick's talents split cleanly between what he trained and what just happened t
 
 ## Key Events
 
-- Character creation (2026-08-30)—Finnick introduced; guest appearance with The TBCs, player Ming.
+- Character creation (2026-08-30)—Finnick introduced; guest appearance with The TBCs.
 
 ## Relationships
 

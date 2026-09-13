@@ -5,14 +5,14 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:53:13
-updated: 2026-08-30T19:22:26
+updated: 2026-09-13T13:42:24
 ---
 
 # Sabina Chiong - Playbook
 
 *Companion to [[Sabina Chiong]] — regenerated from the synced Character Sheet on 2026-08-30. Rerun this skill after any character-sheet-sync update to keep it current.*
 
-*No Loadout Selection section — Bard doesn't prepare from a class list; spells known are fixed until level-up. Also unresolved on the sheet: Sabina's Eladrin season hasn't been chosen (it affects Trance's seasonal-shift rider and adds a season-specific upgrade to Fey Step) — flag to Donna/the DM, then rerun this skill once it's picked.*
+*No Loadout Selection section — Bard doesn't prepare from a class list; spells known are fixed until level-up. Also unresolved on the sheet: Sabina's Eladrin season hasn't been chosen (it affects Trance's seasonal-shift rider and adds a season-specific upgrade to Fey Step) — flag to the player/the DM, then rerun this skill once it's picked.*
 
 ## Combat Decision Flowchart
 

@@ -5,14 +5,14 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:55:09
-updated: 2026-08-30T19:22:37
+updated: 2026-09-13T13:42:28
 ---
 
 # Sam Wong - Playbook
 
 *Companion to [[Sam Wong]] — regenerated from the synced Character Sheet on 2026-08-30. Rerun this skill after any character-sheet-sync update to keep it current.*
 
-*Two flags, not resolved here: the sheet's `Pronouns::` field is empty, so this note uses they/them per this skill's default — the PC note's own prose uses he/him throughout, which may need reconciling (set `Pronouns::` and rerun). And Fighting Style: Blessed Warrior grants two Cleric cantrips of Sam's choice, not yet specified on the sheet — flag to Nicole/the DM, then rerun. Also: Oath of the Crown is a 2014-only subclass, so this note pulls Loadout Selection candidates from the 2014 Paladin spell list, matching Sam's own sheet.*
+*Two flags, not resolved here: the sheet's `Pronouns::` field is empty, so this note uses they/them per this skill's default — the PC note's own prose uses he/him throughout, which may need reconciling (set `Pronouns::` and rerun). And Fighting Style: Blessed Warrior grants two Cleric cantrips of Sam's choice, not yet specified on the sheet — flag to the player/the DM, then rerun. Also: Oath of the Crown is a 2014-only subclass, so this note pulls Loadout Selection candidates from the 2014 Paladin spell list, matching Sam's own sheet.*
 
 ## Combat Decision Flowchart
 

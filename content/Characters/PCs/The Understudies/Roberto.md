@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-12T17:21:31
+updated: 2026-09-13T13:42:12
 ---
 
 # Roberto
@@ -139,7 +139,7 @@ Roberto channels the Light Domain the way he used to work a scene: methodically,
 ### Features
 
 - **Alert** *(Origin Feat)* — Initiative Proficiency: add prof bonus to Initiative rolls. Initiative Swap: immediately after rolling Initiative, can swap it with a willing ally's in the same combat (neither can be Incapacitated).
-- **Divine Order — Thaumaturge** — bonus to Intelligence (Arcana or Religion) checks equal to WIS mod (already reflected above); also knows one extra Cleric cantrip beyond the normal three — **Foundry only lists 3 cantrips (Guidance, Spare the Dying, Toll the Dead); the 4th isn't recorded — Leila will add it at the next session.**
+- **Divine Order — Thaumaturge** — bonus to Intelligence (Arcana or Religion) checks equal to WIS mod (already reflected above); also knows one extra Cleric cantrip beyond the normal three — **Foundry only lists 3 cantrips (Guidance, Spare the Dying, Toll the Dead); the 4th isn't recorded — the player will add it at the next session.**
 - **Light Domain Spells** — Burning Hands, Faerie Fire, Scorching Ray, See Invisibility always prepared; don't count against his normal prepared-spell total.
 - **Channel Divinity** — see Actions for Divine Spark, Turn Undead, and Radiance of the Dawn; all three share one 2-use pool.
 - **Owlin — Flight** — flying speed equal to walking speed, but unusable while wearing medium or heavy armor. **Currently suppressed** — Roberto's equipped Chain Shirt is medium armor.

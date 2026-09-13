@@ -5,14 +5,14 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-08-30T18:36:56
-updated: 2026-08-30T19:31:14
+updated: 2026-09-13T13:42:22
 ---
 
 # Xiaoxiao - Playbook
 
 *Companion to [[Xiaoxiao]] — regenerated from the synced Character Sheet on 2026-08-30. Rerun this skill after any character-sheet-sync update to keep it current.*
 
-*Two sheet gaps, not filled in here: **Fighting Style: Blessed Warrior** grants two Cleric cantrips of Xiaoxiao's choice, and **Inherent Tongues** grants one additional language — neither choice is named on the current Character Sheet. Flag to Gloria/the DM to pick both, then rerun this skill to fold them in.*
+*Two sheet gaps, not filled in here: **Fighting Style: Blessed Warrior** grants two Cleric cantrips of Xiaoxiao's choice, and **Inherent Tongues** grants one additional language — neither choice is named on the current Character Sheet. Flag to the player/the DM to pick both, then rerun this skill to fold them in.*
 
 ## Combat Decision Flowchart
 
