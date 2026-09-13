@@ -89,4 +89,3 @@ updated: 2026-09-13T13:42:22
 - Need a minor utility effect — light a candle, chill a drink, clear dust, a small sculpted flourish → **Elementalism** *(RAW: create one minor air, earth, fire, water, or sculpting effect, 30 ft.)*
 
 Playbook link added to [[Xiaoxiao]]'s inline-field block.
-

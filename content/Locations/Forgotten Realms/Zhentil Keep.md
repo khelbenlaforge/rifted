@@ -32,4 +32,3 @@ The Keep is where [[Manshoon]] — legendary Zhentarim wizard and architect of t
 Region:: The Moonsea, Faerûn
 Controlled By:: [[Zhentarim]]
 Status:: Active — seat of Zhentarim power
-

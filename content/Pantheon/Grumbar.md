@@ -24,4 +24,3 @@ Domain:: Earth
 Alignment::
 Rank:: Primordial demigod
 Symbol::
-

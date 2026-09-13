@@ -84,4 +84,3 @@ updated: 2026-09-13T13:42:28
 - *Possible DM-adjudicated stretch, not RAW* — using Chill Touch's "can't regain HP" clause as a visible marker on a fleeing target, so allies can track who was tagged → **Chill Touch** *(RAW printed trigger: 1d10 necrotic on hit, target can't regain HP until the end of Sam's next turn)*
 
 Playbook link added to [[Sam Wong]]'s inline-field block.
-

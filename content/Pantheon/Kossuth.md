@@ -24,4 +24,3 @@ Domain:: Fire
 Alignment::
 Rank:: Primordial demigod
 Symbol::
-

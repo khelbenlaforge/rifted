@@ -34,4 +34,3 @@ It treats leveling up as a **narrative moment** — an awakening of potential �
 
 Session 12 — party granted access to Level 3 via this mechanic. Most leveled up before the long rest.
 
-

@@ -80,4 +80,3 @@ created: 2026-09-04T17:16:40
 - Medical or field-triage questions, even without healing magic → **Medicine +6**, plus Herbalism proficiency and the herbalist society membership from Session 22
 - *Possible DM-adjudicated stretch, not RAW* — using Keen Mind's perfect recall to catch a contradiction between what someone says now and what they said before → **Keen Mind** *(RAW printed trigger: perfect recall of what he has seen or heard; it grants nothing about detecting falsehood, so all he can do is set one account beside another and see where they diverge)*
 - *Possible DM-adjudicated stretch, not RAW:* reading a room through Awakened Mind by opening a channel and gauging the reaction instead of sending words → **Awakened Mind** *(RAW printed trigger: one-way telepathic speech to a visible creature within 30 ft. The feature transmits; it does not receive.)*
-

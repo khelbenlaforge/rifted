@@ -28,4 +28,3 @@ Affiliation:: Alchemist's Guild
 
 - Shared a cosmological lesson with [[Min Ji-ah]] in Session 21: the Feywild and Negative Plane are echoes, the astral barrier is stuck, beholder bone is far astral, wolf bone from [[Arborea]] may carry a through-line, and planar items from living magical creatures may break the barriers
 - Shared Alchemist ledgers showing a large blood shipment the week before Min Ji-ah's arrival; the shipment sold out and healing potions are critically low
-

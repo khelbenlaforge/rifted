@@ -23,4 +23,3 @@ She was candid about the limits of her knowledge. On the [[Sunless Citadel]], sh
 ---
 Race:: Human
 Location:: Blackstaff Mansion, Crystal City
-

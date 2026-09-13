@@ -81,4 +81,3 @@ updated: 2026-09-06T19:01:16
 - Need to drive or handle a wagon or cart → **Vehicles (Land) proficiency**
 - The edge of reacting the instant a fight starts → **Alert** *(RAW: adds proficiency bonus to Initiative; immediately after rolling Initiative, can swap it with a willing ally's in the same combat — no adjacency required, neither can be Incapacitated)*
 - Possible DM-adjudicated stretch, not RAW — years spent professionally erasing crime scenes for the mob could plausibly let Roberto recognize when someone else has cleaned one up too well → nothing on the sheet backs this, just the background note above; raise it at the table rather than rolling it as a check
-

@@ -66,4 +66,3 @@ updated: 2026-08-26T19:46:04
 ## Completeness Check
 
 Every Actions/Bonus Actions/Reactions table row, every Feature, and every Spellcasting entry on Jack's sheet is addressed above or explicitly excluded with a stated reason. Mundane inventory with no distinct mechanical effect to reframe (Backpack, Bedroll, Bell, Bullseye Lantern, Mirror, Oil, Rations, Tinderbox, Waterskin, Grappling Hook, Rope, Traveler's Clothes, Leather Armor) is left out — those are already reflected in the AC stat or have no ability worth a flowchart branch or creative reframe. Harper Agent's musical-instrument-proficiency grant is left out separately — it's already reflected in the sheet's Tools line (Dulcimer), with no separate decision to make.
-

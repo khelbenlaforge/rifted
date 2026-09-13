@@ -24,4 +24,3 @@ Location:: House Verenthal, Sapphire District, Crystal City
 - Carried a flat black case to the same florist's shop ahead of [[Sellas Verenthal]].
 - Hired [[Regius|Reggie]] for social surveillance only, paying 18 gold the first night and 52 the second.
 - Was told about the killing and asked Regius to keep the arrangement discreet.
-

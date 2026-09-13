@@ -82,4 +82,3 @@ The recording ends there, mid-scene. Per the DM's own account of what follows: K
 
 - [[Gond]]—Samson's dream and its connection to the Making of Aenath
 - [[Session 06 - I Will Take Your Children]]—the shared vision and the Rhona fight this session's dream and exhaustion both follow from
-

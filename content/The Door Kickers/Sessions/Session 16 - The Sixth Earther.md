@@ -65,4 +65,3 @@ Somewhere in the Grove, something heard it.
 *The party holds position in Belak's study. Two members wounded. A patrol is coming. Augie and Gill are still in the lab. The tree is somewhere ahead, and three figures stand around it, facing outward.*
 
 *They have perhaps ten minutes.*
-

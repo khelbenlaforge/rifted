@@ -43,4 +43,3 @@ They are not an institution with a hierarchy. They are a company — a group of 
 
 Leader:: [[Torm of the Dales]] *(de facto)*
 Headquarters:: [[Shadowdale]]
-

@@ -48,4 +48,3 @@ Nobody's climbed it yet. The session ends here, four strangers at the foot of a 
 
 - [[Layla]]
 - [[The Emberveins]]
-

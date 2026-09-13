@@ -65,4 +65,3 @@ updated: 2026-09-06T19:01:50
 - Need to pick a lock or lift something unnoticed → **Thieves' Tools proficiency** + **Sleight of Hand +5**
 - A busker's cover, a game of cards to work a mark, or genuine music → **Horn** and **Playing Cards** tool proficiencies
 - Possible DM-adjudicated stretch, not RAW — Second Face's read on an agreement's true beneficiary could plausibly extend to a spoken promise or verbal deal Kili just witnessed, not only one she physically stamps → **Second Face**'s printed trigger only covers a physical stand-in, so this would need the table's sign-off first, not an automatic ruling
-

@@ -95,4 +95,3 @@ created: 2026-09-09T02:06:02
 - *Possible DM-adjudicated stretch, not RAW* — flashing it could carry weight as proof of standing with the Guild in a social scene → **Guild Brass Armlet** *(RAW: none stated, pure flavor item)*
 - *Possible DM-adjudicated stretch, not RAW* — talking down a mundane, non-hostile threat (a spooked animal, a panicking crowd) with one flat word → **Command** *(RAW printed trigger: WIS save DC 15 vs. a combat-oriented one-word command)*
 - *Possible DM-adjudicated stretch, not RAW* — warding a scene ahead of trouble, not reacting to a hit already landed → **Protection from Evil and Good** *(RAW printed trigger: touch, 10 min, Conc., wards against specified creature types)*
-

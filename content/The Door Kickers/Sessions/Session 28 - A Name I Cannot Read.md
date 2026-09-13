@@ -14,9 +14,9 @@ updated: 2026-09-11T16:34:53
 
 **In-world date:** the night of the Feast of the Moon, Year 222 PA, continuing directly from Session 27 and running into the first day of Nightal. [[Regius]]'s flashback covers the preceding nights, back to the night of the Claret meeting.
 
-**Present:** [[Gill Bates|Gill]] (REDACTED) · [[Min Ji-ah]] (REDACTED) · [[Nanuk|Nanuk]] (REDACTED) · [[Terra]] (REDACTED) · [[Sadiah Ispahani|Sadiah]] (REDACTED) · [[Regius|Regius]] (REDACTED)
-**DM-voiced:** [[Augustus Kennedy|Augustus]] (REDACTED) · [[Ember|Ember]] (REDACTED)
-**Absent:** [[Jonathan Jordan|JJ]] · [[Shen|Shen]] (REDACTED)
+**Present:** [[Gill Bates|Gill]] · [[Min Ji-ah]] · [[Nanuk|Nanuk]] · [[Terra]] · [[Sadiah Ispahani|Sadiah]] · [[Regius|Regius]]
+**DM-voiced:** [[Augustus Kennedy|Augustus]] · [[Ember|Ember]]
+**Absent:** [[Jonathan Jordan|JJ]] · [[Shen|Shen]]
 
 ## What Happened
 

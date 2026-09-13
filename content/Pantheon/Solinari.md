@@ -24,4 +24,3 @@ Domain::
 Alignment::
 Rank:: Demigod
 Symbol::
-

@@ -66,4 +66,3 @@ updated: 2026-08-30T19:22:15
 - *Possible DM-adjudicated stretch, not RAW* — letting Reckless Attack's drawback work in Melvin's favor, deliberately eating the incoming advantage to hold enemy attention while a stealthier ally slips past → not an automatic effect, just a tactic worth proposing to the table
 
 Playbook link added to [[Melvin Tan]]'s inline-field block.
-

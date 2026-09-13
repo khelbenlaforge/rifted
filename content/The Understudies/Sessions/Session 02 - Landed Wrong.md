@@ -48,4 +48,3 @@ There wasn't room for everyone on the bats. Gaslight and Fern lifted off north t
 - [[Samson Flint]]
 - [[Stormberg]]
 - [[Lathander]]
-

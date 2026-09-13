@@ -22,4 +22,3 @@ Headquarters:: Western Wall Towers, [[Crystal City]]
 ## Current Notes
 
 [[Regius|Reggie]]'s second job at the docks unlocked access to Azure Tamers resources, including their sky tower. The docks and the Azure Tamers work closely together — goods arriving at the docks that need speedy delivery to other towns and cities (and vice versa) move through a standing Azure Tamers pipeline, riding their tamed griffins and eagles rather than any airship.
-

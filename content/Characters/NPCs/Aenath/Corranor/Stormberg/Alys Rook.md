@@ -33,4 +33,3 @@ Class::
 Location:: [[Stormberg]]
 Affiliation:: [[Ser Tamsin Rook]]
 Deity::
-

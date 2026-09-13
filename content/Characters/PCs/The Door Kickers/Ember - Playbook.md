@@ -89,4 +89,3 @@ created: 2026-09-09T02:09:32
 - Need an ally (or herself) to have a real shot at a specific check that's coming up → **Guidance** *(RAW: cantrip, touch, target +1d4 to one ability check, Conc. 1 min)*
 - *Possible DM-adjudicated stretch, not RAW* — dragging a fleeing witness or a dropped item back within reach outside a fight → **Thorn Whip** *(RAW printed trigger: melee spell attack, 1d6 pierce + pull 10 ft, written for combat)*
 - *Possible DM-adjudicated stretch, not RAW* — a non-combat CR 1 form (a bird for an aerial look, a fish underwater) solving a problem no spell reaches → **Wild Shape** *(RAW printed trigger: Bonus Action, CR 1 max, 2x/Short Rest — a combat resource by default)*
-

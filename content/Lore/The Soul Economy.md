@@ -19,4 +19,3 @@ secret: false
 > | Type | Cosmological principle |
 
 The Soul Economy is the cosmological principle that gods draw power from worshippers while the Lower Planes—the Nine Hells, the Abyss, and Hades—run on circulating souls as currency; warlock patrons participate, but warlocks work by contract and sit outside it.
-

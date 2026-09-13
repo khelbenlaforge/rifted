@@ -17,4 +17,3 @@ Its towers evoke old wizard keeps more than conventional manor architecture, ris
 ---
 Region:: Crystal City
 Status:: Active, heavily warded
-

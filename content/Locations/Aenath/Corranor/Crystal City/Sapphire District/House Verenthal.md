@@ -26,4 +26,3 @@ Guests meant for discreet business are received at a side gate rather than the f
 ---
 Region:: Sapphire District, Crystal City
 Status:: Active — quietly bleeding money, hiding a scandal
-

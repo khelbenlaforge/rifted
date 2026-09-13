@@ -36,4 +36,3 @@ Spirit-guide polar bear companion of [[Nanuk|Nanuk]]. Speaks directly to Nanuk.
 
 - Told [[Nanuk|Nanuk]] that the spirits of his own people are also stuck here, as is the Great Spirit, but that there is hope.
 - Told Nanuk he is bound to Aenath the same way Nanuk's own growth item is—he cannot be left behind either.
-

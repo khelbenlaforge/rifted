@@ -92,14 +92,7 @@ foreach ($StagedPath in $StagedPaths) {
         # This is after a hunk marker, so even content beginning with "+++" is an added line.
         $AddedLine = $DiffLine.Substring(1)
 
-        if ($AddedLine -cmatch '^>\s*\|\s*\*\*Player\*\*\s*\|.*\|\s*$' -or
-            $AddedLine -cmatch '^Player::\s*.+$') {
-            continue
-        }
-
-        # Keep the PC wikilink visible, but exempt its immediately following session-note parenthetical.
-        $LineToCheck = $AddedLine -creplace '(?<=\]\])\s*\([^)]*\)', ''
-        Add-ViolationsForText -File $StagedPath -Text $LineToCheck -ViolationList ([ref]$Violations)
+        Add-ViolationsForText -File $StagedPath -Text $AddedLine -ViolationList ([ref]$Violations)
     }
 }
 

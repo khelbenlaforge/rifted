@@ -80,4 +80,3 @@ G  Gate opening (east wall, 10ft wide, 15ft from courtyard north wall)
 Region:: [[Shadowdale]]
 Controlled By:: [[Jhaele Silvermane]]
 Status:: Active
-

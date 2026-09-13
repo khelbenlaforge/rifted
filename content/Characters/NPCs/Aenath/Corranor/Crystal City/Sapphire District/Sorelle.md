@@ -20,4 +20,3 @@ Sorelle is the maid at [[Hucrele Manor]] in the [[Sapphire District]] who admitt
 Race:: Unknown
 Location:: [[Hucrele Manor]], [[Sapphire District]]
 Affiliation:: [[Hucrele Family]]
-

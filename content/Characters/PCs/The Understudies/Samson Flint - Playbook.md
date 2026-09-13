@@ -60,4 +60,3 @@ updated: 2026-09-06T19:02:45
 - A moment of genuine celestial presence — awe, intimidation, or a deliberate reveal of what he is — calls for **Celestial Revelation** *(RAW: not restricted to combat — 1/LR, 1 min, choose Wings/Radiance/Shroud)*
 - Need a second set of eyes watching a different doorway or angle while Samson does something else → **Manifest Echo** (15 ft., moves 30 ft./turn on command, immune to all conditions)
 - Possible DM-adjudicated stretch, not RAW — Rune Shaper's underlying premise (reading the hidden geometric order in a structure, per his established construction background) could plausibly let him instinctively judge whether scaffolding, a floor, or a wall is actually sound before trusting it → nothing on the sheet grants this outright; it would land as a DM call in the moment, not a check he can force
-

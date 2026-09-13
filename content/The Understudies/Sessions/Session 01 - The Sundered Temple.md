@@ -52,4 +52,3 @@ Four people who'd never met each other a day before, now airborne together over 
 - [[Layla]]
 - [[Luks Borg]]
 - [[Stormberg]]
-

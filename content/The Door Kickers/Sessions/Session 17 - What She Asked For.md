@@ -75,4 +75,3 @@ They closed the door to the room with the murals and the statues of the gods, an
 ---
 
 *The party rests in the Sanctum (A46), fully restored. [[Belak]] waits below, and below him, the tree still pulses.*
-

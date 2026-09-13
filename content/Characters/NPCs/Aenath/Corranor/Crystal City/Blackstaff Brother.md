@@ -19,4 +19,3 @@ He was met beside [[Lady Blackstaff]] at the mansion, distinguished by a chisele
 ---
 Race:: Unknown
 Location:: Blackstaff Mansion, Crystal City
-

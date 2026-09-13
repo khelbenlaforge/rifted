@@ -7,10 +7,27 @@
 
 param(
     [string]$WorldPath    = "D:\PKM\World Building\The Exodus",
-    [string]$ContentPath  = "$PSScriptRoot\content"
+    [string]$ContentPath  = "$PSScriptRoot\content",
+    [string]$PrivateNamesPath = (Join-Path $PSScriptRoot ".private-names")
 )
 
 $VaultPath = Join-Path $WorldPath "00_My Notes"
+$PrivateNames = @()
+$PrivateNameRedactionEnabled = Test-Path -LiteralPath $PrivateNamesPath -PathType Leaf
+
+if ($PrivateNameRedactionEnabled) {
+    $PrivateNames = @(Get-Content -LiteralPath $PrivateNamesPath | ForEach-Object {
+        $entry = $_.Trim()
+        if ($entry -and -not $entry.StartsWith("#")) {
+            $entry
+        }
+    })
+} else {
+    Write-Warning "PRIVATE-NAME REDACTION LIST MISSING at $PrivateNamesPath. Wikilink parenthetical redaction is disabled; structural Player-field redaction remains enabled."
+}
+
+$ParentheticalsStripped = 0
+$FilesWithParentheticalsStripped = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 
 # Stage into system temp to keep the working tree clean and ensure git never sees a half-sync
 $StagingPath = Join-Path ([System.IO.Path]::GetTempPath()) "quartz-rifted-staging"
@@ -28,6 +45,7 @@ function Process-MarkdownFile {
     )
 
     $content = Get-Content $SourceFile -Raw -Encoding UTF8
+    $originalContent = $content
 
     # Check for `secret: true` in YAML frontmatter only (between the opening --- delimiters)
     $fmMatch = [regex]::Match($content, '(?s)^---\r?\n(.*?)\r?\n---')
@@ -42,6 +60,26 @@ function Process-MarkdownFile {
     # the next ## heading or EOF. The \s*$ prevents matching "## DM Notes on X" variants.
     $content = $content -replace '(?ms)^## DM Notes\s*$.*?(?=^## |\z)', ''
 
+    # Redact publish-only Player metadata. Source files are never modified.
+    $content = $content -replace '(?m)^>[ \t]*\|[ \t]*\*\*Player\*\*[ \t]*\|[^\r\n]*\|[ \t]*(?:\r?\n|$)', ''
+    $content = $content -replace '(?m)^Player::[ \t]*.+(?:\r?\n|$)', ''
+
+    if ($PrivateNameRedactionEnabled -and $PrivateNames.Count -gt 0) {
+        $content = [regex]::Replace($content, '\]\]\s*\(([^)]*)\)', {
+            param($match)
+            $parenthetical = $match.Groups[1].Value
+            foreach ($PrivateName in $PrivateNames) {
+                $pattern = '(?<!\w)' + [regex]::Escape($PrivateName) + '(?!\w)'
+                if ($parenthetical -cmatch $pattern) {
+                    $script:ParentheticalsStripped++
+                    [void]$script:FilesWithParentheticalsStripped.Add($SourceFile)
+                    return ']]'
+                }
+            }
+            return $match.Value
+        })
+    }
+
     # Build mirrored destination path (into staging)
     $relativePath = $SourceFile.Substring($SourceRoot.Length).TrimStart('\')
     $destPath = Join-Path $DestRoot $relativePath
@@ -51,7 +89,11 @@ function Process-MarkdownFile {
         New-Item -ItemType Directory -Path $destDir -Force | Out-Null
     }
 
-    Set-Content -Path $destPath -Value $content -Encoding utf8NoBOM
+    if ($content -ceq $originalContent) {
+        Copy-Item -LiteralPath $SourceFile -Destination $destPath -Force
+    } else {
+        Set-Content -Path $destPath -Value $content -Encoding utf8NoBOM
+    }
     return $true
 }
 
@@ -140,6 +182,14 @@ Get-ChildItem -Path $WorldPath -Directory | Where-Object {
 }
 
 Write-Host "PCs total — Copied: $pcsCopied  |  Skipped (secret): $pcsSkipped" -ForegroundColor Green
+
+Write-Host "Private-name wikilink parentheticals stripped: $ParentheticalsStripped" -ForegroundColor Yellow
+if ($FilesWithParentheticalsStripped.Count -gt 0) {
+    Write-Host "  Affected files:" -ForegroundColor Yellow
+    $FilesWithParentheticalsStripped | Sort-Object | ForEach-Object {
+        Write-Host "  - $_" -ForegroundColor Yellow
+    }
+}
 
 # --- Attachments ---
 

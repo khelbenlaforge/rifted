@@ -18,4 +18,3 @@ The Griffin's Hat is a tavern at the [[Citrine District]] docks where [[Jonathan
 
 Region:: [[Citrine District]], [[Crystal City]]
 Status:: Active
-

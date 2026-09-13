@@ -64,4 +64,3 @@ updated: 2026-09-13T13:42:24
 - *Possible DM-adjudicated stretch, not RAW* — using Fey Step's teleport as a quick-change trick mid-performance or mid-con, vanishing from one spot and reappearing elsewhere to sell an illusion → **Fey Step** *(RAW printed use: teleport to an unoccupied space she can see)*
 
 Playbook link added to [[Sabina Chiong]]'s inline-field block.
-

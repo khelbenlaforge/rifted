@@ -52,4 +52,3 @@ Class:: Ranger
 Location:: [[Shadowdale]]
 Affiliation:: [[Knights of Myth Drannor]]
 Deity::
-
