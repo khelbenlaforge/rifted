@@ -16,4 +16,3 @@ updated: 2026-08-05T16:27:13
 ## Year 0 PA — The Awakening
 
 Two hundred and twenty-two years before the present, the people of [[Corranor]] awoke amid violent land formation with no memories but their names. The archmage [[Corran Blackstaff|Corran]] sacrificed himself to contain a catastrophic force, creating [[Corran's Spike]] and stabilizing the chaotic terrain. Civilization began its slow rebuild from nothing. See [[The Awakening]] for details.
-

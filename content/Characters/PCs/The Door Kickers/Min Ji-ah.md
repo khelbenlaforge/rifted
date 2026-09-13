@@ -22,7 +22,6 @@ updated: 2026-09-11T16:54:41
 > | **Race** | Elf (High Elf) |
 > | **Class** | Wizard (Chronurgy Magic) |
 > | **Background** | Orzhov Representative |
-> | **Player** | Ming |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -240,7 +239,6 @@ Session 23 downtime:
 Race:: Elf (High Elf)
 Subrace::
 Class:: Wizard (Chronurgy Magic)
-Player:: Ming
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

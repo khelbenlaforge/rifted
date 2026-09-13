@@ -117,4 +117,3 @@ created: 2026-09-04T17:17:46
 - A door that needs opening socially → **Guild Brass Armlet** *(guild membership token — RAW: no mechanical effect, pure social proof)*. At Persuasion +0 he is leaning entirely on the armlet and on whoever else is doing the talking.
 - *Possible DM-adjudicated stretch, not RAW* — the threat of Turn Undead as a bluff against something merely undead-adjacent, where the mechanic wouldn't actually fire → **Turn Undead** *(RAW printed trigger: it affects actual Undead within 30 ft. that fail a WIS DC 15 save)*
 - *Possible DM-adjudicated stretch, not RAW* — a thrown, non-lethal spear hit in a chase or a standoff carrying *Sap*'s rattled quality narratively, outside a structured fight → **[[Fair Catch]]** *(RAW printed trigger: on a weapon-attack hit, the target has disadvantage on its next attack roll)*
-

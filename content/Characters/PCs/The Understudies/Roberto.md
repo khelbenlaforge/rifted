@@ -22,7 +22,6 @@ updated: 2026-09-13T13:42:12
 > | **Race** | Owlin |
 > | **Class** | Cleric (Light Domain) |
 > | **Background** | Folk Hero |
-> | **Player** | Leila |
 > | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
@@ -177,7 +176,6 @@ Roberto channels the Light Domain the way he used to work a scene: methodically,
 Race:: Owlin
 Subrace::
 Class:: Cleric (Light Domain)
-Player:: Leila
 Pronouns:: he/him
 Affiliation::
 Location:: [[Stormberg]]

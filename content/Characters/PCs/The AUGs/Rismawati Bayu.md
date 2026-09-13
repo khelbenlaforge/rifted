@@ -22,7 +22,6 @@ created: 2026-08-26T17:33:32
 > | **Race** | Owlin |
 > | **Class** | Druid (Circle of the Moon) |
 > | **Background** | House Agent |
-> | **Player** | Stani |
 
 ## Description
 
@@ -167,7 +166,6 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 Race:: Owlin
 Subrace::
 Class:: Druid (Circle of the Moon)
-Player:: Stani
 Pronouns:: she/her
 Affiliation::
 Location::

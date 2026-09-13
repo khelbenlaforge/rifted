@@ -39,4 +39,3 @@ Race:: Human
 Pronouns:: he/him
 Location:: [[Shadowdale]]
 Affiliation:: Shadowdale guard
-

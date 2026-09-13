@@ -22,7 +22,6 @@ updated: 2026-09-09T02:15:57
 > | **Race** | Human |
 > | **Class** | Warlock (Great Old One) |
 > | **Background** | Scribe |
-> | **Player** | Avinaash |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -180,7 +179,6 @@ A palaeontology PhD student by training, Shen brings an analyst's patience and a
 Race:: Human
 Subrace::
 Class:: Warlock (Great Old One)
-Player:: Avinaash
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

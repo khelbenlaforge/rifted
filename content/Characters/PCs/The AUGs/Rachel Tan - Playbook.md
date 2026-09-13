@@ -57,4 +57,3 @@ updated: 2026-08-26T19:48:14
 ## Completeness Check
 
 Every Actions/Bonus Actions/Reactions table row, every Feature, and the Spellcasting section on Rachel's sheet is addressed above or explicitly excluded with a stated reason. Unarmored Defense and Tough are left out because they're already reflected in the printed AC (13) and HP (30); mundane inventory with no distinct mechanical effect (Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin, Fine Clothes) is left out for the same reason as the other AUGs playbooks.
-

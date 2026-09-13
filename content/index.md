@@ -39,4 +39,3 @@ This is the player-facing wiki for **The Exodus** — a shared setting whose cur
 ### The AUGs
 - [[Characters/PCs/The AUGs/|Player Characters]]
 - [[The AUGs/Sessions/|Sessions]]
-

@@ -20,7 +20,6 @@ state: alive
 > | **Race** | High Elf |
 > | **Class** | Cleric (Twilight Domain) |
 > | **Background** | Noble |
-> | **Player** | Gwyn |
 > | **Affiliation** | The Langford Group (Earth, severed) |
 
 ## Description
@@ -179,7 +178,6 @@ Odette's faith belongs to the hush between sunset and true dark, the last stretc
 Race:: High Elf
 Subrace::
 Class:: Cleric (Twilight Domain)
-Player:: Gwyn
 Pronouns:: she/her
 Affiliation::
 Location::

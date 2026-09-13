@@ -22,7 +22,6 @@ updated: 2026-08-27T17:53:14
 > | **Race** | Firbolg |
 > | **Class** | Druid (Circle of Spores) |
 > | **Background** | Witherbloom Student |
-> | **Player** | Hiruna |
 
 ## Description
 
@@ -173,7 +172,6 @@ Somebody apologized to Rachel for assuming, on sight, that a woman with horns an
 Race:: Firbolg
 Subrace::
 Class:: Druid (Circle of Spores)
-Player:: Hiruna
 Pronouns:: she/her
 Location::
 Deity::

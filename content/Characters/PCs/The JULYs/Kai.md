@@ -20,7 +20,6 @@ state: alive
 > | **Race** | Half-Elf (Aquatic Elf variant) |
 > | **Class** | Rogue (Scout), Level 3 |
 > | **Background** | Baldur's Gate Criminal (2014, BGDIA) |
-> | **Player** | Wei Hong |
 > | **Affiliation** | — |
 
 ## Description
@@ -142,7 +141,6 @@ None.
 Race:: Half-Elf (Aquatic Elf variant)
 Subrace:: Aquatic Elf
 Class:: Rogue (Scout)
-Player:: Wei Hong
 Pronouns::
 Affiliation::
 Location::

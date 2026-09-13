@@ -22,7 +22,6 @@ updated: 2026-08-27T17:44:35
 > | **Race** | Half-Elf (Drow Descent) |
 > | **Class** | Monk (Warrior of Shadow) |
 > | **Background** | Harper |
-> | **Player** | Dan |
 
 ## Description
 
@@ -160,7 +159,6 @@ Four strangers who owed him nothing followed a sound they couldn't see the sourc
 Race:: Half-Elf
 Subrace:: Drow Descent
 Class:: Monk (Warrior of Shadow)
-Player:: Dan
 Pronouns::
 Location::
 Deity::

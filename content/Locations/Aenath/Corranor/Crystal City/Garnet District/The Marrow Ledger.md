@@ -27,4 +27,3 @@ Older ledgers on the shelves turned up other names in passing: [[House Verenthal
 Region:: [[Corvin's Hold]]
 Controlled By:: [[Corvin Adder]]
 Status:: active
-

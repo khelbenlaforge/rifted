@@ -22,7 +22,6 @@ updated: 2026-09-08T22:51:13
 > | **Race** | Faerie (Shadowmoor) |
 > | **Class** | Druid (Circle of Wildfire) |
 > | **Background** | Emerald Enclave Caretaker |
-> | **Player** | Clara |
 > | **Affiliation** | — |
 
 ## Description
@@ -163,7 +162,6 @@ Fern's magic still feels like the same impulse that sent her into zoology in the
 Race:: Faerie
 Subrace:: Shadowmoor
 Class:: Druid (Circle of Wildfire)
-Player:: Clara
 Pronouns:: she/her
 Affiliation::
 Location::

@@ -24,4 +24,3 @@ Domain:: Air
 Alignment::
 Rank:: Primordial demigod
 Symbol::
-

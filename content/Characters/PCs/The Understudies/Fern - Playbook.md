@@ -73,4 +73,3 @@ updated: 2026-09-06T19:03:45
 - Need to move or hunt in total darkness → **Darkvision 120 ft.**
 - A strong wilderness or creature-handling check is needed → **Animal Handling +6**, **Survival +6**, **Nature +7**
 - Possible DM-adjudicated stretch, not RAW — her Fey creature type could plausibly make her a more sympathetic or trusted figure to fey creatures or courts specifically, beyond any listed mechanic → nothing mechanical backs this; it's a roleplay hook tied to her established background, there for the table to pick up or not
-

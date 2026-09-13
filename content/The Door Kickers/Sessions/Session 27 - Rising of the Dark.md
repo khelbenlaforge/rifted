@@ -14,8 +14,8 @@ updated: 2026-09-04T16:12:36
 
 **In-world date:** Feast of the Moon (the intercalary day between 30 Uktar and 1 Nightal), Year 222 PA — the same night as Session 26, opening on its cliffhanger.
 
-**Present:** [[Terra]] (Simar) · [[Min Ji-ah]] (Ming) · [[Nanuk|Nanuk]] (Francis) · [[Gill Bates|Gill]] (Chian) · [[Ember|Ember]] (Dora) · [[Augustus Kennedy|Augustus]] (Justin) · [[Hollis Dawnwarden|Hollis]] (guest-controlled NPC)
-**Absent:** [[Jonathan Jordan|JJ]] (Jonathan) · [[Sadiah Ispahani|Sadiah]] (Veronica) · [[Regius|Regius]] (Clarissa) · [[Shen|Shen]] (Avinaash)
+**Present:** [[Terra]] · [[Min Ji-ah]] · [[Nanuk|Nanuk]] · [[Gill Bates|Gill]] · [[Ember|Ember]] · [[Augustus Kennedy|Augustus]] · [[Hollis Dawnwarden|Hollis]] (guest-controlled NPC)
+**Absent:** [[Jonathan Jordan|JJ]] (Jonathan) · [[Sadiah Ispahani|Sadiah]] · [[Regius|Regius]] · [[Shen|Shen]]
 
 ## What Happened
 

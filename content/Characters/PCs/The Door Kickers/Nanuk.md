@@ -22,7 +22,6 @@ updated: 2026-09-11T16:34:55
 > | **Race** | Firbolg (Inuvialuk) |
 > | **Class** | Ranger (Beastmaster) |
 > | **Background** | Guide |
-> | **Player** | Francis |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -171,7 +170,6 @@ None. (Alarm removed — see Actions table note; Rangers don't have the Ritual C
 Race:: Firbolg
 Subrace::
 Class:: Ranger (Beastmaster)
-Player:: Francis
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

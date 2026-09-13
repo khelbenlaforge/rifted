@@ -24,7 +24,6 @@ updated: 2026-09-09T01:49:47
 > | **Race** | Human |
 > | **Class** | Rogue (Soulknife) |
 > | **Background** | Urchin |
-> | **Player** | Jonathan |
 > | **Affiliation** | [[Adamantine Guild]] · [[The Claret]] (first rung, under [[Tavia Orn]]) |
 
 ## Description
@@ -169,7 +168,6 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 Race:: Human
 Subrace::
 Class:: Rogue (Soulknife)
-Player:: Jonathan
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]], [[The Claret]]
 Location:: [[Crystal City]]

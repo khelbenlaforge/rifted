@@ -22,7 +22,6 @@ updated: 2026-09-11T16:54:44
 > | **Race** | Aasimar (Small) |
 > | **Class** | Ranger (Fey Wanderer) |
 > | **Background** | Acolyte |
-> | **Player** | Simar |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -231,7 +230,6 @@ None. Alarm was previously listed here but is not prepared; Rangers also lack th
 Race:: Aasimar
 Subrace::
 Class:: Ranger (Fey Wanderer)
-Player:: Simar
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

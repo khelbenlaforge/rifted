@@ -33,4 +33,3 @@ Class::
 Location:: [[Temple of Kelemvor]], [[Crystal City]]
 Affiliation:: [[The Gravelords]]
 Deity:: [[Kelemvor]]
-

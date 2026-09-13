@@ -22,7 +22,6 @@ updated: 2026-09-12T02:33:48
 > | **Race** | Human |
 > | **Class** | Artificer (Artillerist) |
 > | **Background** | House Kundarak Heir |
-> | **Player** | Darren |
 
 ## Description
 
@@ -168,7 +167,6 @@ Gregory's answer to five strangers and a temple full of shadows was a joke about
 Race:: Human
 Subrace::
 Class:: Artificer (Artillerist)
-Player:: Darren
 Pronouns::
 Location::
 Deity::

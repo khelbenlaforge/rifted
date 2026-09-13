@@ -33,4 +33,3 @@ The Magnificent Storm sect centres on water as force — the ocean in fury, the 
 ## Eternal Transformation
 
 The Eternal Transformation sect holds that water's defining quality is its capacity to change state — liquid, ice, vapour — while remaining essentially itself. Its teachings centre on cycles and transition — change as continuity taking a different shape, rather than as loss.
-

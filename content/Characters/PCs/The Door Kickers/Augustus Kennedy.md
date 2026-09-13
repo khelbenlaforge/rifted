@@ -24,7 +24,6 @@ updated: 2026-09-09T02:06:05
 > | **Race** | Half-Warforged |
 > | **Class** | Paladin (Oath of Glory) |
 > | **Background** | Guard |
-> | **Player** | Justin |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -205,7 +204,6 @@ Augustus trains under two mentors. [[Luks Borg]], the half-orc barbarian of the 
 Race:: Warforged
 Subrace::
 Class:: Paladin (Oath of Glory)
-Player:: Justin
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]], [[Temple of Kelemvor]], [[Hall of Justice - Temple of Tyr|Hall of Justice]]
 Location:: [[Crystal City]]

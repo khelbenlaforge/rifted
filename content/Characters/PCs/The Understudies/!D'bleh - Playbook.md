@@ -65,4 +65,3 @@ updated: 2026-09-06T19:00:37
 - Identifying a divine sign, holy site, or clergy custom → **Religion +5** *(Astral Drifter proficiency)*
 - Need to read whether someone's lying or under duress → **Insight +4** *(Astral Drifter proficiency)*
 - Far Realm or aberrant speech and writing that needs translating → **Deep Speech** *(known language)*
-

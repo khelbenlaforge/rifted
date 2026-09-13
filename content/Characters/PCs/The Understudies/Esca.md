@@ -22,7 +22,6 @@ updated: 2026-09-13T13:42:14
 > | **Race** | Elf (High Elf Lineage) |
 > | **Class** | Wizard (War, 2014) |
 > | **Background** | Criminal |
-> | **Player** | Aerin |
 > | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
@@ -175,7 +174,6 @@ Whatever Aenath handed him slotted into reflexes that were already inhuman. The 
 Race:: Elf
 Subrace:: High Elf Lineage
 Class:: Wizard (War, 2014)
-Player:: Aerin
 Pronouns:: 
 Affiliation:: The Understudies
 Location:: [[Stormberg]]

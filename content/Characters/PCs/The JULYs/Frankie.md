@@ -21,7 +21,6 @@ state: alive
 > | **Race** | Elf (Drow) |
 > | **Class** | Druid (Circle of the Moon) |
 > | **Background** | Merchant |
-> | **Player** | Min |
 > | **Affiliation** | |
 
 ## Description
@@ -171,7 +170,6 @@ Race:: Elf (Drow)
 Subrace:: Drow
 Class:: Druid (Circle of the Moon)
 Background:: Merchant
-Player:: Min
 Pronouns::
 Affiliation::
 Location::

@@ -13,9 +13,9 @@ updated: 2026-08-28T14:52:43
 # Session 25 - The Adder's Hold
 
 **In-world date:** 30th Uktar, Year 222 PA (continuing directly from Session 24's cliffhanger — same night)
-**Present:** [[Min Ji-ah]] (Ming) · [[Nanuk|Nanuk]] (Francis) · [[Regius|Regius]] (Clarissa) · [[Gill Bates|Gil]] (Chian)
-**DM-voiced (present, fighting, minimal spotlight):** [[Jonathan Jordan|JJ]] (Jonathan) · [[Shen|Shen]] (Avinaash)
-**Absent:** [[Sadiah Ispahani|Sadiah]] (Veronica) · [[Terra|Terra]] (Simar) · [[Ember|Ember]] (Dora) · [[Augustus Kennedy|Augustus]] (Justin)
+**Present:** [[Min Ji-ah]] · [[Nanuk|Nanuk]] · [[Regius|Regius]] · [[Gill Bates|Gil]]
+**DM-voiced (present, fighting, minimal spotlight):** [[Jonathan Jordan|JJ]] (Jonathan) · [[Shen|Shen]]
+**Absent:** [[Sadiah Ispahani|Sadiah]] · [[Terra|Terra]] · [[Ember|Ember]] · [[Augustus Kennedy|Augustus]]
 
 ## What Happened
 

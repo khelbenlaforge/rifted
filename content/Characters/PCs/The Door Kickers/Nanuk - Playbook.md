@@ -101,4 +101,3 @@ created: 2026-09-04T16:41:47
 - Nobody gets the drop on **him** → **Alert** *(RAW: +5 initiative, cannot be surprised)* and **The Bear Watches** *(RAW: cannot be surprised while the Quiver is worn)*. Two independent sources for the same immunity, so the Quiver coming off doesn't cost it. Neither protects the rest of the party.
 - Handling, calming, or reading an animal → **Animal Handling +6**, backed by **Nature +4** for the ecology behind it
 - *Possible DM-adjudicated stretch, not RAW*—reading a room's silence, a wrong bird pattern, or weather turning, the way his Description describes him doing on ice → **Perception +6 / Passive Perception 16 / Survival +9**. Play the instinct in the fiction; the roll is what decides how much of it he actually gets, and the DM sets that.
-

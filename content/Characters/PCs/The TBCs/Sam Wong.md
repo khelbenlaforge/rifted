@@ -21,7 +21,6 @@ created: 2026-08-29T21:42:57
 > | **Race** | Astral Elf |
 > | **Class** | Paladin (Oath of the Crown) |
 > | **Background** | Planar Philosopher |
-> | **Player** | Nicole |
 > | **Affiliation** | *(none yet)* |
 
 ## Description
@@ -173,7 +172,6 @@ Paladin conviction runs practical on him the same way his old project management
 Race:: Astral Elf
 Subrace::
 Class:: Paladin (Oath of the Crown)
-Player:: Nicole
 Pronouns::
 Affiliation::
 Location::

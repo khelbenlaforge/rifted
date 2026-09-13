@@ -32,4 +32,3 @@ Class::
 Location:: [[Crystal City]]
 Affiliation:: [[Corranor Council]], House Blackstaff
 Deity::
-

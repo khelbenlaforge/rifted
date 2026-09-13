@@ -22,7 +22,6 @@ updated: 2026-09-13T13:42:09
 > | **Race** | Aasimar |
 > | **Class** | Fighter (Echo Knight) |
 > | **Background** | Rune Carver |
-> | **Player** | Chris |
 > | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
@@ -141,7 +140,6 @@ Samson fights like he builds, reading the structure of a fight the way he once r
 Race:: Aasimar
 Subrace::
 Class:: Fighter (Echo Knight)
-Player:: Chris
 Pronouns::
 Affiliation:: The Understudies
 Location:: [[Stormberg]]

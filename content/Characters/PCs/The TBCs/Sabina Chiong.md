@@ -22,7 +22,6 @@ created: 2026-08-29T20:49:21
 > | **Race** | Eladrin |
 > | **Class** | Bard (College of Glamour) |
 > | **Background** | Charlatan |
-> | **Player** | Donna |
 > | **Affiliation** | *(none yet)* |
 
 ## Description
@@ -159,7 +158,6 @@ The line between Sabina's old hustle and her new magic has gone thin enough that
 Race:: Eladrin
 Subrace::
 Class:: Bard (College of Glamour)
-Player:: Donna
 Pronouns:: she/her
 Affiliation::
 Location::

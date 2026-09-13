@@ -20,7 +20,6 @@ state: alive
 > | **Race** | High Elf |
 > | **Class** | Paladin (Oath of Vengeance) |
 > | **Background** | Artisan |
-> | **Player** | Edison |
 > | **Affiliation** | Seiko (Tokyo, Earth, severed) |
 
 ## Description
@@ -158,7 +157,6 @@ Kento fights with the same exacting patience that made him a craftsman. Every mo
 Race:: High Elf
 Subrace::
 Class:: Paladin (Oath of Vengeance)
-Player:: Edison
 Pronouns:: he/him
 Affiliation::
 Location::

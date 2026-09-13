@@ -102,4 +102,3 @@ Two weeks of road northward. [[Crystal City]] waiting at the end of it. And the 
 
 - [[Gulthias Tree]] — the dormant entity at the center of the finale
 - [[Gulthias]] — the ancient vampire whose blood seeded the tree; resurrection timeline undecided
-

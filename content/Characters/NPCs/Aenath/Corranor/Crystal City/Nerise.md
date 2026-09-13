@@ -32,4 +32,3 @@ Class:: Mage
 Location:: [[Crystal City]]
 Affiliation:: [[Corranor Council]]
 Deity::
-

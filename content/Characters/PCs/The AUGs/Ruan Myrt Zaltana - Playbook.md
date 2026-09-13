@@ -82,4 +82,3 @@ updated: 2026-08-26T19:47:44
 ## Completeness Check
 
 Every Actions/Bonus Actions/Reactions table row, every Feature, and every Spellcasting entry on Ruan's sheet is addressed above or explicitly excluded with a stated reason. Grown In and Primal Order (Warden) are left out because they're already reflected in the printed AC (16) and in her having Sickle/Medium-armor access at all, with no separate decision to make. Witherbloom Student / Strixhaven Initiate is addressed via its actual grants (Poison Spray and Starry Wisp, both used in the Action tier above) rather than named as a source in its own right — the attribution between the two is itself unresolved per the sheet's own Features note. Mundane inventory with no distinct mechanical effect (Druidic Focus, Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torches, Waterskin, Ink, Ink Pen, Iron Pot, Pouch, School Uniform) is left out for the same reason as the other AUGs playbooks.
-

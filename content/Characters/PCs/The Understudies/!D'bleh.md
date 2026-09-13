@@ -22,7 +22,6 @@ updated: 2026-09-08T22:32:33
 > | **Race** | Leonin |
 > | **Class** | Rogue (Soulknife) |
 > | **Background** | Astral Drifter |
-> | **Player** | Andrew |
 > | **Affiliation** | — |
 
 ## Description
@@ -157,7 +156,6 @@ Whatever pulled him across into Aenath didn't ask permission any more than the w
 Race:: Leonin
 Subrace::
 Class:: Rogue (Soulknife)
-Player:: Andrew
 Pronouns::
 Affiliation::
 Location::

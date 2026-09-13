@@ -30,4 +30,3 @@ Class::
 Location:: [[Corvin's Hold]]
 Affiliation:: [[The Claret]]
 Deity::
-

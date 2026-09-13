@@ -64,4 +64,3 @@ They had cast Locate Person. Thousand-foot radius. She was not there.
 [[Min Ji-ah]] sent a message to [[Luks Borg]]: would the Blackstaff family be involved in illegal trade. Luks said no. She believed him.
 
 Tinny gave them the code: four litres of blood to sell. The [[The Low Flagon|Low Flagon]] was the location. The Claret's street operation was about to have company it did not yet know was coming.
-

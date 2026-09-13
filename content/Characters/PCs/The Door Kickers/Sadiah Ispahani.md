@@ -22,7 +22,6 @@ updated: 2026-08-28T14:52:43
 > | **Race** | Wood Elf |
 > | **Class** | Rogue (Arcane Trickster) |
 > | **Background** | Entertainer |
-> | **Player** | Veronica |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -215,7 +214,6 @@ Session 23: Did not appear. Per [[Shen]], she remained in her room, traumatized.
 Race:: Wood Elf
 Subrace::
 Class:: Rogue (Arcane Trickster)
-Player:: Veronica
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

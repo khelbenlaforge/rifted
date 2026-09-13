@@ -18,4 +18,3 @@ The Ancients of Lava (known historically as the Lavaliths) are a wilderness-base
 
 Leader:: [[Jess]] (elder)
 Headquarters:: Wilderness, Corranor
-

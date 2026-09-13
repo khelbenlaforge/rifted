@@ -115,4 +115,3 @@ created: 2026-09-04T17:14:55
 - A check that must not fail, once per rest → **Chronal Shift** *(RAW, verified via 5etools: it applies to an **ability check** as well as attacks and saves, on herself or any creature within 30 ft., and she chooses after seeing the result)*. Almost always thought of as a combat button; it is equally a "reroll the failed lockpick" button.
 - Needs slots back mid-day → **Arcane Recovery** *(RAW: 1/LR following a Short Rest, recover slots totalling 2 levels)*
 - *Possible DM-adjudicated stretch, not RAW* — using **Elminster's Footnote**'s falsehood sense on a contract, a forged writ or a ledger to establish that it is deceptive without knowing how → **Elminster's Footnote** *(RAW printed limit: it tells her the text was **written to deceive**; it does not tell her the truth, identify the forger, or apply to spoken lies)*. Narrow, but it settles "is this document honest" outright.
-

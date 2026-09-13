@@ -22,7 +22,6 @@ created: 2026-08-29T16:13:56
 > | **Race** | Air Genasi |
 > | **Class** | Paladin (Oath of the Noble Genies) |
 > | **Background** | Mist Wanderer |
-> | **Player** | Gloria |
 > | **Affiliation** | *(none yet)* |
 
 ## Description
@@ -173,7 +172,6 @@ Xiaoxiao fights as a Paladin sworn under the Oath of the Noble Genies, staff and
 Race:: Air Genasi
 Subrace::
 Class:: Paladin (Oath of the Noble Genies)
-Player:: Gloria
 Pronouns:: she/her
 Affiliation::
 Location::

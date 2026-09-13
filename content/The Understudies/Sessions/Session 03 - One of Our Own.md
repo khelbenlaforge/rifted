@@ -45,4 +45,3 @@ The way out gave when it decided they'd earned it. Real morning light waited on 
 - [[Roberto]]
 - [[Stormberg]]
 - [[Shadow Creatures]]
-

@@ -64,4 +64,3 @@ Still deep in the small hours of the Feast, Rhona walked the five of them to a p
 - [[Kili]]
 - [[Keith Poe]]
 - [[Roberto]]
-

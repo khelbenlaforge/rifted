@@ -47,4 +47,3 @@ The courtyard ambush in [[Old Skull Inn]] was a Zhentarim operation: five toughs
 
 Leader:: Manshoon *(Avatar Crisis era)*
 Headquarters:: Zhentil Keep
-

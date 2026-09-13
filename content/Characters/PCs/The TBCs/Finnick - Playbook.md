@@ -69,4 +69,3 @@ updated: 2026-08-30T19:22:50
 - Need to cast Friends or Suggestion without anyone nearby noticing he's casting at all, not just that the effect goes unnoticed → **Subtle Spell** *(RAW: removes Verbal/Somatic/non-costly-non-consumed-Material components, 1 Sorcery Point)*
 
 Playbook link added to [[Finnick]]'s inline-field block.
-

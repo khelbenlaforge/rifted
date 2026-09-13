@@ -14,8 +14,8 @@ updated: 2026-09-04T15:50:19
 
 **In-world date:** Late 30th Uktar rolling into the [[Feast of the Moon]] (the intercalary day between 30 Uktar and 1 Nightal), Year 222 PA — the same night the Corvin Adder deal closed in Session 25.
 
-**Present:** [[Min Ji-ah]] (Ming) · [[Nanuk|Nanuk]] (Francis) · [[Gill Bates|Gill]] (Chian) · [[Sadiah Ispahani|Sadiah]] (Veronica) · [[Terra]] (Simar) · [[Shen|Shen]] (Avinaash) — Shen split off early for offscreen research and doesn't appear again this session.
-**Absent:** [[Jonathan Jordan|JJ]] (Jonathan) — narratively away with Tavia · [[Ember|Ember]] (Dora) · [[Augustus Kennedy|Augustus]] (Justin) — both confirmed returning Session 27 · [[Regius|Regius]] (Clarissa)
+**Present:** [[Min Ji-ah]] · [[Nanuk|Nanuk]] · [[Gill Bates|Gill]] · [[Sadiah Ispahani|Sadiah]] · [[Terra]] · [[Shen|Shen]] — Shen split off early for offscreen research and doesn't appear again this session.
+**Absent:** [[Jonathan Jordan|JJ]] (Jonathan) — narratively away with Tavia · [[Ember|Ember]] · [[Augustus Kennedy|Augustus]] — both confirmed returning Session 27 · [[Regius|Regius]]
 
 ## What Happened
 

@@ -61,4 +61,3 @@ Five strangers, alive, stood at the base of a spiral stair with a transport prom
 - [[Layla]] — the unnamed woman on the tower
 - [[Shadow Creatures]] — the enemies faced in the chamber
 - [[The Awakening]] — the cataclysm this session's shared vision corroborates
-

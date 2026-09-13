@@ -83,4 +83,3 @@ created: 2026-09-04T17:12:10
 - Rough entry when subtlety has already failed → **Crowbar**, **Rope**, **Caltrops**, **Tinderbox** on his gear list, backed by Athletics +8
 - Reading a room of nobles or gamblers → **One Gaming Set** proficiency (Noble) and **History +2**
 - *Possible DM-adjudicated stretch, not RAW* — presenting [[Le Fil]] itself as a credential or a conversation opener with anyone who can sense magic, the way the [[Blackstaff Brother]] reacted to it → **[[Le Fil]]** *(RAW: it has no printed social effect at all. What happened at [[Blackstaff Mansion]] was a story beat the DM ran, with nothing on the item's card driving it.)*
-

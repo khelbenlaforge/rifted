@@ -26,4 +26,3 @@ Affiliation:: [[Azure Tamers]]
 - Does not track who buys the blood after it arrives
 - Aware of the [[Azure Tamers]] patrol network covering the eastern road and frontier communities
 - [[Stormberg]] mines the northern region; [[Coldford]] on the east coast has an Azure Tamers presence
-

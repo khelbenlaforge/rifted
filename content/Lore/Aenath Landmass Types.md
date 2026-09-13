@@ -36,4 +36,3 @@ Formations that float permanently, never descending to sea level. These exist at
 ---
 
 The three types are not mutually exclusive in a geographic sense — a region may contain all three in proximity. Understanding which type a landmass belongs to is considered basic navigational knowledge in [[Corranor]].
-

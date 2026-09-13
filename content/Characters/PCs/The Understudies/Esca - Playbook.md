@@ -62,4 +62,3 @@ updated: 2026-09-06T19:03:22
 - Need to resist a Charm outright, or ignore a magical Sleep effect entirely → **Fey Ancestry** *(RAW: advantage on saves vs. Charmed; immune to magical sleep)*
 - Extra rest efficiency in the field → **Trance** *(RAW: a 4-hr. meditative trance satisfies a Long Rest instead of 8-hr. sleep)*
 - Possible DM-adjudicated stretch, not RAW — a former pro StarCraft player's build-order instincts (scouting, resource timing, exploiting a read under pressure) could plausibly translate into reading an enemy formation's structure or a heist's timing window before committing → this comes from the Origin write-up alone, not any mechanic on the sheet — a call for the table to make, not Esca to invoke
-

@@ -19,4 +19,3 @@ Jess is the very old elder of the [[Ancients of Lava]] druid circle, living in a
 Race:: Unknown
 Location:: Wilderness clearing, Corranor
 Affiliation:: [[Ancients of Lava]]
-

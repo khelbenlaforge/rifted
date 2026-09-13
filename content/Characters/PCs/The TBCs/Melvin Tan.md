@@ -23,7 +23,6 @@ created: 2026-08-29T20:43:25
 > | **Race** | Bugbear |
 > | **Class** | Barbarian (Path of the Wild Heart) |
 > | **Background** | Criminal |
-> | **Player** | Bel |
 > | **Affiliation** | *(none yet)* |
 
 ## Description
@@ -146,7 +145,6 @@ Melvin fights the way his old crew trained him to — close, heavy, and built to
 Race:: Bugbear
 Subrace::
 Class:: Barbarian (Path of the Wild Heart)
-Player:: Bel
 Pronouns:: he/him
 Affiliation::
 Location::

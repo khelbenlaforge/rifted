@@ -21,7 +21,6 @@ updated: 2026-09-12T21:28:36
 > | **Race** | Verdan |
 > | **Class** | Artificer (Armorer) |
 > | **Background** | Investigator |
-> | **Player** | Zack |
 > | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
@@ -169,7 +168,6 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 Race:: Verdan
 Subrace::
 Class:: Artificer (Armorer)
-Player:: Zack
 Pronouns::
 Affiliation::
 Location:: [[Stormberg]]

@@ -22,7 +22,6 @@ created: 2026-08-30T13:46:46
 > | **Race** | Halfling |
 > | **Class** | Sorcerer (Wild Magic) |
 > | **Background** | Charlatan |
-> | **Player** | Ming |
 > | **Affiliation** | *(none yet)* |
 
 ## Description
@@ -159,7 +158,6 @@ Finnick's talents split cleanly between what he trained and what just happened t
 Race:: Halfling
 Subrace::
 Class:: Sorcerer (Wild Magic)
-Player:: Ming
 Pronouns:: he/him
 Affiliation::
 Location::

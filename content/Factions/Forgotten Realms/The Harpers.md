@@ -49,4 +49,3 @@ The prequel party includes at least two Harpers (Selmavra/Torm). Neither identif
 
 Leader:: Distributed *(no single leader)*
 Headquarters:: Distributed
-

@@ -22,7 +22,6 @@ updated: 2026-08-26T18:59:58
 > | **Race** | Flamekin |
 > | **Class** | Bard (College of Eloquence) |
 > | **Background** | Harper |
-> | **Player** | Justin |
 
 ## Description
 
@@ -165,7 +164,6 @@ Jack fights the way he used to mix — find the one frequency that matters, cut 
 Race:: Flamekin
 Subrace::
 Class:: Bard (College of Eloquence)
-Player:: Justin
 Pronouns::
 Location::
 Deity::

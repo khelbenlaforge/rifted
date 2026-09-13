@@ -18,4 +18,3 @@ A working port-and-freight hub rather than a showpiece — the kind of city that
 ---
 Region:: Corranor
 Status:: Active
-

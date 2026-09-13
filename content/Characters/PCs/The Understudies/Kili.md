@@ -22,7 +22,6 @@ updated: 2026-09-12T17:31:39
 > | **Race** | Changeling |
 > | **Class** | Bard (College of Eloquence) |
 > | **Background** | Wayfarer |
-> | **Player** | Isa |
 > | **Affiliation** | [[Adamantine Guild]] (Brass) |
 
 ## Description
@@ -158,7 +157,6 @@ A changeling's gift for wearing a new face suits Kili's hustle perfectly — she
 Race:: Changeling
 Subrace::
 Class:: Bard (College of Eloquence)
-Player:: Isa
 Pronouns::
 Affiliation::
 Location::

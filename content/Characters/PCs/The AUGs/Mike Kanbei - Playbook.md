@@ -60,4 +60,3 @@ updated: 2026-08-26T19:46:49
 ## Completeness Check
 
 Every Actions/Bonus Actions/Reactions table row, every Feature, and the Spellcasting section on Mike's sheet is addressed above or explicitly excluded with a stated reason. Unarmored Defense is left out because it's already reflected in the printed AC (16); mundane inventory with no distinct mechanical effect (Backpack, Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin, Grappling Hook, Traveler's Clothes) is left out for the same reason as Jack XLR's playbook.
-

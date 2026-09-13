@@ -22,7 +22,6 @@ updated: 2026-09-04T14:51:27
 > | **Race** | Tiefling |
 > | **Class** | Fighter (Echo Knight) |
 > | **Background** | Noble |
-> | **Player** | Clarissa |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -153,7 +152,6 @@ Regius fights the way he does everything else — efficiently and without wasted
 Race:: Tiefling
 Subrace:: Custom Lineage
 Class:: Fighter (Echo Knight)
-Player:: Clarissa
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

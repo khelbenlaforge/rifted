@@ -85,4 +85,3 @@ updated: 2026-09-06T19:02:22
 - Possible DM-adjudicated stretch, not RAW — Aberrant Anatomy's Warping Flesh is written as an involuntary liability (a natural 1 risks Stunning him), but the same unstable biology could plausibly be provoked deliberately in the right narrative moment rather than only triggering by accident → the sheet only describes the accidental version, so a deliberate trigger would need the table to agree it works that way
 
 *Replicate Magic Item plans (4 known) aren't itemized in Foundry — no specific creative uses can be built for them until confirmed at the table.*
-

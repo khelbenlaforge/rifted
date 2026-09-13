@@ -18,4 +18,3 @@ The Director of Antiquities runs the antiquities department at the [[Ether Scrye
 ---
 Race:: Unknown (tall humanoid, gray-skinned)
 Location:: Ether Scryer's Academy
-

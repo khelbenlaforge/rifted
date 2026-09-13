@@ -68,4 +68,3 @@ created: 2026-09-09T01:49:42
 - Need the party coordinating silently mid-infiltration → **Psychic Whispers** *(RAW: telepathic link, up to 5 willing creatures, 8 hrs — first use each Long Rest is free)*
 - *Possible DM-adjudicated stretch, not RAW* — flashing it could carry weight as proof of standing with the Guild in a social scene → **Guild Brass Armlet** *(RAW: none stated, pure flavor item)*
 - *Possible DM-adjudicated stretch, not RAW* — raising a scout, a distraction, or a piece of intimidation theater in the right conditions → **Night Caller** *(RAW printed trigger: animates one corpse as Animate Dead, darkness or night sky only, 1-min cast, 1/7 days)* — worth a table conversation given what it actually is, not something to spring without checking in first
-

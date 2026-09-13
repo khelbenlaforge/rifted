@@ -32,4 +32,3 @@ Location:: House Verenthal
 - On the second night, killed a man there using a spell scroll, leaving the body smoking but otherwise untouched.
 - The dead man wore a single ruby ear stud marking him as Claret.
 - One scroll was missing from her person afterward.
-

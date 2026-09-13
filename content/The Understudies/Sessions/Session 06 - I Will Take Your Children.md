@@ -63,4 +63,3 @@ She closed the night by laying out downtime — ten days, three tracks available
 - [[Roberto]]
 - [[Samson Flint]]
 - [[Session 05 - What Didn't Burn]]
-

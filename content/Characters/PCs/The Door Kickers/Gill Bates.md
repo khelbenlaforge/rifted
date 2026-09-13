@@ -23,7 +23,6 @@ updated: 2026-09-04T14:28:01
 > | **Race** | Human |
 > | **Class** | Cleric (Arcana Domain) |
 > | **Background** | Fisher |
-> | **Player** | Chian |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -214,7 +213,6 @@ Level: 5
 Race:: Human
 Subrace::
 Class:: Cleric (Arcana Domain)
-Player:: Chian
 Pronouns:: he/him
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

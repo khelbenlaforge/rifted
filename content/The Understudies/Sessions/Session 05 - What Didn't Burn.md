@@ -88,4 +88,3 @@ The roll landed, Esca leading with a 31. The fight itself didn't happen. It's he
 - [[Keith Poe]]
 - [[Roberto]]
 - [[Samson Flint]]
-

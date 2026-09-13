@@ -22,7 +22,6 @@ updated: 2026-08-27T17:53:32
 > | **Race** | Tiefling (Infernal) |
 > | **Class** | Barbarian (Path of the Berserker) |
 > | **Background** | Flaming Fist Mercenary |
-> | **Player** | Roselle |
 
 ## Description
 
@@ -154,7 +153,6 @@ For someone who looks like a devil, Rachel spent most of the session fielding qu
 Race:: Tiefling
 Subrace:: Infernal
 Class:: Barbarian (Path of the Berserker)
-Player:: Roselle
 Pronouns::
 Location::
 Deity::

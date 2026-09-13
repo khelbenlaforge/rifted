@@ -30,4 +30,3 @@ Class::
 Location:: [[Citrine District]], [[Amethyst District]]
 Affiliation:: [[The Claret]]
 Deity::
-

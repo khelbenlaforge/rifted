@@ -22,7 +22,6 @@ updated: 2026-09-09T02:09:35
 > | **Race** | Tiefling (Winged) |
 > | **Class** | Druid (Circle of the Moon) |
 > | **Background** | Guide |
-> | **Player** | Dora |
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
@@ -185,7 +184,6 @@ Ember trains under [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], at
 Race:: Tiefling
 Subrace::
 Class:: Druid (Circle of the Moon)
-Player:: Dora
 Pronouns:: she/her
 Affiliation:: [[Adamantine Guild]]
 Location:: [[Crystal City]]

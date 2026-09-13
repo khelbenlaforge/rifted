@@ -20,7 +20,6 @@ state: alive
 > | **Race** | Changeling (Fey creature type) |
 > | **Class** | Ranger (Fey Wanderer) |
 > | **Background** | Variant Criminal (Spy) — 2014 |
-> | **Player** | Rei |
 > | **Affiliation** | Formerly Japanese government intelligence |
 
 ## Description
@@ -158,7 +157,6 @@ Nanaya fights the way he lives: from the edges, and never head-on if he can help
 Race:: Changeling
 Class:: Ranger (Fey Wanderer)
 Background:: Variant Criminal (Spy) [PHB 2014 — opted in]
-Player:: Rei
 Pronouns:: he/him
 Affiliation::
 Location::
