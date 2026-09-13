@@ -34,6 +34,7 @@ try {
     }
     git add content/ quartz/static/
     & "$QuartzPath\scripts\check-private-names.ps1"
+    & "$QuartzPath\scripts\check-image-metadata.ps1"
     Write-Host ""
 
     # Step 3: Commit and push
