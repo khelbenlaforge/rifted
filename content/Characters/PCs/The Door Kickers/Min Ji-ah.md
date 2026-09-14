@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-11T16:54:41
+updated: 2026-09-14T14:30:49
 ---
 
 # Min Ji-ah
@@ -25,7 +25,32 @@ updated: 2026-09-11T16:54:41
 > | **Affiliation** | [[Adamantine Guild]] |
 
 ## Description
-Min Ji-ah carries herself like someone who agreed to a responsibility before she understood what it would cost her. Dark hair frames a face marked by scholarly intensity, and her adventurer's attire belies a background of privilege and disciplined study. She's protective by nature -- first to step between danger and her companions -- and just as at home buried in arcane theory. Something regal shows in how she holds herself, though she probably hasn't noticed it yet.
+Min Ji-ah carries herself like someone who agreed to a responsibility before she understood what it would cost her. Turquoise hair, her favourite colour, frames a face marked by scholarly intensity. Her adventurer's attire belies a background of privilege and disciplined study. She's protective by nature -- first to step between danger and her companions -- and just as at home buried in arcane theory. Something regal shows in how she holds herself, though she probably hasn't noticed it yet.
+
+## Earth Background
+*Player-authored, kept close to her wording. Korean details added in the Session 28 retcon; structure and substance are the original Lea backstory.*
+
+**Min Ji-ah (민지아), she/her**
+
+Ji-ah is the youngest of four children of the Min family, a Korean chaebol that can trace its lineage to the mid-Goryeo dynasty in the twelfth century (around 1138). Four different Korean empresses have come from the Min clan, a fact her mother is incredibly proud of.
+
+As you might expect, Ji-ah is an old-money socialite from a fairly traditional family. As the youngest of four, there's less pressure to live up to the family name (unlike her siblings), but the pressure is still there. Her family expect her to return to the family business to play "her part", but she finds shipping incredibly dull. She does one or two things periodically to keep her family happy, and to avoid a confrontation with her mother.
+
+She's quite quiet generally, likes to observe what everyone is doing (that's how she stays out of her family's way), knows how to mind her social graces, but she is not afraid to pull rank outside. It's partly naivety (since the family's servants never challenge her), but partly because she's seen how her mother commands attention and authority. She knows how to appear friendly but aloof, keeping people at arm's length until she's much surer about them, after years of having people try to befriend her for her family's connections.
+
+She has a good heart but gets pushed around a bit at home, especially by her tiger mother, who wishes she would live up to (what her mother sees as) her potential.
+
+Ji-ah studied psychology in defiance of the family's preference that she study finance, and would like to use it to help people. However, there's very little use for psych in a shipping business.
+
+She secretly wishes she could be and do more than she is now, but doesn't know how or what that would be.
+
+Her favourite colour is turquoise. Funny how her elf hair is turquoise...
+
+### Family Business
+The Min family's global empire is in deep-water port infrastructure and maritime logistics. While other chaebols compete for the public's attention, the Min clan quietly dominates the invisible choke points of international trade through Min Maritime Holdings. The family pioneered automated terminal technology in the late twentieth century, trading their industrial expertise for exclusive, multi-decade sovereign concession agreements that allow them to manage thirty-four hyper-automated terminal facilities across six continents, from Busan, to Singapore, to Rotterdam, to Los Angeles. Their specialised fleet focuses entirely on high-stakes, high-barrier industrial hauling, commanding a massive armada of cryogenic LNG supertankers and heavy-lift vessels that foreign governments depend on for energy security.
+
+### Cold Open
+Played at the table before this vault existed. Lunch at O-En (오엔), an upscale floating restaurant docked right on the Han River bank in Apgujeong, Seoul. The famous Han River park swing benches are right outside the restaurant. (Originally run as lunch at Dempsey; the Session 28 retcon moves the scene to Seoul.)
 
 ## Origin
 Min Ji-ah was transported from Earth on High Harvestide, Year 222 PA, appearing atop the [[Jade Spire]] in [[Crystal City]] alongside four companions. She was one of three who underwent partial non-human changes during the crossing. [[Elmindaria L'Thorian]]'s magical scan revealed potent arcane potential within her, along with the loss of roughly half her essence -- slowly regenerating.
@@ -277,5 +302,5 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 - Spent the Council's address at the [[Jade Spire]] reading the seven with Insight rather than listening: [[Garm]] hates the platform, [[Doran]] is personally embarrassed and blames the party for the city's breached defences, and [[Wystan]] heard none of the speeches and watched only her and Gill. She stared back at Wystan until it was uncomfortable. The last two she couldn't place at all.
 - Read [[Nerise]] as focused entirely outward, on the expedition now returning, rather than on Council business.
 - Cast [[Elminster's Spellbook|Elminster's Inquiry]] on the three moons [[Terra]] had spotted during the Feast, and heard a pipe being smoked. [[Elminster]] again. She saw three demigods kneel to [[Mystra]], Mystra kneel back weeping, and the bargain made: [[Solinari]], [[Lunitari]] and [[Nuitari]] gave themselves up willingly to become Aenath's moons and anchor the Weave in her stead.
-- **Renamed this session.** The PC formerly played as "Lea" is retconned to Min Ji-ah, of Korean origin. Backstory unchanged; only her country of origin differs.
+- **Renamed this session.** The PC formerly played as "Lea" is retconned to Min Ji-ah, of Korean origin. Backstory structurally unchanged; the player's Korean detail pass is recorded under Earth Background.
 
