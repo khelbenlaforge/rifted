@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-14T14:30:49
+updated: 2026-09-14T15:34:45
 ---
 
 # Min Ji-ah
