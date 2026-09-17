@@ -10,13 +10,14 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-08T19:36:14
+updated: 2026-09-14T19:05:51
 ---
 
 # Corranor
 
 > [!infobox|right wikipedia]+
 > # Corranor
+> ![[zzz_Attachments/Corranor.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
