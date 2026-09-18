@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-18T13:05:17
+updated: 2026-09-18T22:51:34
 ---
 
 # Keith Poe
@@ -63,13 +63,13 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 
 | Stat | Value |
 | ---- | ----- |
-| Level | 4 *(leveled up Session 8—HP/ASI pending Foundry re-sync, see Session 08 Update)* |
+| Level | 4 |
 | Class | Artificer (Armorer) |
 | Race | Verdan |
 | Background | Investigator |
-| HP (Max) | 21 *(pre-level-4, stale—see Level row)* |
-| AC | 13 |
-| Speed | 30 ft. |
+| HP (Max) | 24 |
+| AC | 16 |
+| Speed | 20 ft. *(base 30 ft.; Chain Mail requires STR 13, Kay has STR 9—Arcane Armor conversion, which waives the requirement, is still unconfirmed at the table, see Features)* |
 | Prof Bonus | +2 |
 | Vision | Blindsight 15 ft. |
 
@@ -78,17 +78,17 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 | STR | 9 | -1 |
 | DEX | 13 | +1 |
 | CON | 14 | +2 |
-| INT | 19 | +4 |
+| INT | 20 | +5 |
 | WIS | 18 | +4 |
 | CHA | 10 | +0 |
 
-**Saving Throws:** STR -1 . DEX +1 . **CON +4** . **INT +6** . WIS +4 . CHA +0
+**Saving Throws:** STR -1 . DEX +1 . **CON +4** . **INT +7** . WIS +4 . CHA +0
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Acrobatics +1 . Animal Handling +4 . Arcana +6 . Athletics -1 . Deception +0 . History +6 . Insight +6 . Intimidation +0 . Investigation +6 . Medicine +4 . Nature +4 . **Perception +8** *(expertise)* . Performance +0 . Persuasion +2 . Religion +4 . Sleight of Hand +1 . Stealth +1 . Survival +4
-**Languages:** Common . +1 of choice (not itemized in Foundry — confirm at table)
-**Tools:** Thieves' Tools . Tinker's Tools . Disguise Kit . Smith's Tools
+**Skills:** Acrobatics +1 . Animal Handling +4 . **Arcana +7** . Athletics -1 . Deception +0 . **History +7** . **Insight +6** . Intimidation +0 . **Investigation +7** . Medicine +4 . Nature +5 . **Perception +8** *(expertise)* . Performance +0 . **Persuasion +2** . Religion +5 . Sleight of Hand +1 . Stealth +1 . Survival +4
+**Languages:** Common . +1 of choice (not itemized in Foundry—confirm at table)
+**Tools:** Thieves' Tools . Tinker's Tools . Disguise Kit . Smith's Tools *(proficiency granted by Tools of the Trade—no Smith's Tools kit item owned in Foundry, see Arcane Armor note below)*
 
 ---
 
@@ -96,71 +96,79 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Dagger** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce (thrown) | — | — | — |
-| **Unarmed Strike** | M +1 | 5 ft. | 0 bludg or Grapple/Shove | — | — | — |
-| **Force Demolisher** *(Dreadnaught model)* | M +6 | 10 ft. (reach) | 1d10 force; if target ≤1 size smaller, push or pull it 10 ft. | — | — | — |
-| **Thunder Pulse** *(Guardian model)* | M +6 | 5 ft. | 1d8 thunder; target has disadv. on atks vs. others until start of your next turn | — | — | — |
-| **Lightning Launcher** *(Infiltrator model)* | R +6 | 90/300 ft. | 1d6 lightning; once/turn on hit, +1d6 lightning | — | — | — |
-| *Mage Hand* (cantrip) | — | 30 ft. | Spectral hand manipulates/carries ≤10 lb objects; move up to 30 ft. as Magic action; 1 min | 0 | V, S | — |
-| *Prestidigitation* (cantrip) | — | 10 ft. | 1 of 6 minor effects (choice); most instant, Minor Sensation/Magic Mark last 1 hr; ≤3 non-instant active at once | 0 | V, S | — |
-| *Mending* (cantrip) | — | Touch | Repairs a single break/tear ≤1 ft. in a touched object; 1 min cast | 0 | V, S, M (two lodestones) | — |
-| *Catapult* | DEX 14 | 60 ft. | 1–5 lb unattended object flies 90 ft.; on fail, 3d8 bludg to struck creature + object | 1st | S | — |
-| *Detect Magic* | — | Self (30 ft.) | Sense magic in range; Magic action to see aura + school; 10 min | 1st | V, S | Conc. · Ritual |
-| *Identify* | — | Touch | Learn magic item/spell properties, attunement req., charges (1 min cast) | 1st | V, S, M (100+ gp pearl) | Ritual |
-| *Magic Missile* *(always prepared, Armorer)* | — | 120 ft. | 3 darts, 1d4+1 force each, auto-hit; split among one or more targets | 1st | V, S | — |
-| *Thunderwave* *(always prepared, Armorer)* | CON 14 | Self (15-ft cube) | 2d8 thunder + pushed 10 ft. on fail; ½ dmg, no push on success | 1st | V, S | — |
+| **Dagger** | M/R +3 | 5 ft. / 20/60 ft. | 1d4+1 pierce (thrown) |—|—|—|
+| **Unarmed Strike** | M +1 | 5 ft. | 0 bludg or Grapple/Shove |—|—|—|
+| **Force Demolisher** *(Dreadnaught model)* | M +7 | 10 ft. (reach) | 1d10+5 force (INT mod replaces STR/DEX per Armor Model); if target ≤1 size smaller, push or pull it 10 ft. |—|—|—|
+| **Thunder Pulse** *(Guardian model)* | M +7 | 5 ft. | 1d8+5 thunder; target has disadv. on atks vs. others until start of your next turn |—|—|—|
+| **Lightning Launcher** *(Infiltrator model)* | R +7 | 90/300 ft. | 1d6+5 lightning; once/turn on hit, +1d6 lightning (bonus die, no mod) |—|—|—|
+| *Mage Hand* (cantrip) |—| 30 ft. | Spectral hand manipulates/carries ≤10 lb objects; move up to 30 ft. as Magic action; 1 min | 0 | V, S |—|
+| *Prestidigitation* (cantrip) |—| 10 ft. | 1 of 6 minor effects (choice); most instant, Minor Sensation/Magic Mark last 1 hr; ≤3 non-instant active at once | 0 | V, S |—|
+| *Mending* (cantrip) |—| Touch | Repairs a single break/tear ≤1 ft. in a touched object; 1 min cast | 0 | V, S, M (two lodestones) |—|
+| *Alarm* |—| 30 ft. | Wards a 20-ft cube; alerts you (audible bell 10s within 60 ft., or mental ping within 1 mile) when a creature you didn't exempt touches/enters; 8 hr | 1st | V, S, M (bell & silver wire) | Ritual |
+| *Catapult* | DEX 15 | 60 ft. | 1–5 lb unattended object flies 90 ft.; on fail, 3d8 bludg to struck creature + object | 1st | S |—|
+| *Cure Wounds* |—| Touch | Target regains 2d8+5 HP | 1st | V, S |—|
+| *Identify* |—| Touch | Learn magic item/spell properties, attunement req., charges (1 min cast) | 1st | V, S, M (100+ gp pearl) | Ritual |
+| *Magic Missile* *(always prepared, Armorer)* |—| 120 ft. | 3 darts, 1d4+1 force each, auto-hit; split among one or more targets | 1st | V, S |—|
+| *Thunderwave* *(always prepared, Armorer)* | CON 15 | Self (15-ft cube) | 2d8 thunder + pushed 10 ft. on fail; ½ dmg, no push on success | 1st | V, S |—|
+| **Last Frame** *(The Last Exposure)* |—| 30 ft. | Learn one true thing a seen creature is actively concealing—an impression, not a confession (DM's call on specificity) |—|—| 1/SR |
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Giant Stature** *(Dreadnaught model)* | — | Self | 1 min: reach +5 ft.; become Large if smaller (if room allows) | — | — | 4/LR |
-| **Defensive Field** *(Guardian model)* | — | Self | Trigger: while Bloodied — gain temp HP = Artificer level (3); lost if armor doffed | — | — | — |
+| **Giant Stature** *(Dreadnaught model)* |—| Self | 1 min: reach +5 ft.; become Large if smaller (if room allows) |—|—| 5/LR |
+| **Defensive Field** *(Guardian model)* |—| Self | Trigger: while Bloodied—gain temp HP = Artificer level (4); lost if armor doffed |—|—|—|
+| *Hunter's Mark* *(always prepared, Fey-Touched)* |—| 90 ft. | Mark a seen creature; +1d6 force dmg on hit vs. it; adv. on WIS (Perception/Survival) to find it; move the mark via BA if it drops to 0 HP | 1st | V | Conc. · 1/LR free (Fey-Touched), then a normal 1st-level slot |
+| *Misty Step* *(always prepared, Fey-Touched)* |—| Self | Teleport up to 30 ft. to an unoccupied space you can see | 2nd | V | 1/LR free (Fey-Touched)—no 2nd-level slot yet to recast |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| *Feather Fall* | — | 60 ft. | Up to 5 falling creatures descend 60 ft./round, no fall dmg if landing before end; 1 min; trigger: self or seen creature falls | 1st | V, M (feather/down) | — |
+| *Feather Fall* |—| 60 ft. | Up to 5 falling creatures descend 60 ft./round, no fall dmg if landing before end; 1 min; trigger: self or seen creature falls | 1st | V, M (feather/down) |—|
 
 ---
 
 ### Features
 
-- **Aberrant Anatomy** *(Investigator background — Dark Gift feat chosen in place of Sharp Eye)* — Breathless: hold breath 1 hr. Extrasensory Perception: proficiency + expertise in Perception (reflected above), Blindsight 15 ft. (reflected in Vision). Warping Flesh: immediately after rolling a natural 1 on a d20 Test, make a CON save (DC 13 + prof) or be Stunned until the end of your next turn.
-- **Black Blood Healing** *(Verdan)* — reroll a 1 or 2 on any Hit Die spent at the end of a Short Rest, must use the new roll.
-- **Limited Telepathy** *(Verdan)* — telepathically speak to any creature you can see within 30 ft.; doesn't require a shared language, but the target must understand at least one language; slow/limited (simple ideas only).
-- **Telepathic Insight** *(Verdan)* — advantage on all WIS and CHA saving throws.
-- **Persuasive** *(Verdan)* — proficiency in Persuasion (reflected above).
-- **Spellcasting** *(Artificer)* — INT-based; requires Thieves' Tools/Tinker's Tools/other proficient Artisan's Tools in hand as a focus (M component). Prepares from the full Artificer spell list; prepared-spell count grows with level.
-- **Tinker's Magic** — knows *Mending* (free, doesn't count against prepared spells). As a Magic action with Tinker's Tools in hand, create one Tinker's Magic item (per XPHB list) within 5 ft.; lasts until Long Rest. Usable INT mod (4) times/day, all uses restored on Long Rest.
-- **Replicate Magic Item** — 4 magic item plans known from the Magic Item Plans (Artificer Level 2+) table; **which 4 plans Kay knows isn't recorded in Foundry — confirm at table.** Can create up to 2 items/Long Rest with Tinker's Tools in hand (Magic Items column = 2 at Artificer level 3); item's magic isn't permanent (vanishes 1d4 days after Kay's death).
-- **Tools of the Trade** *(Armorer)* — training with Heavy armor; proficiency with Smith's Tools (+1 other Artisan's Tools of choice, not yet itemized); armor crafting time halved.
-- **Arcane Armor** *(Armorer)* — as a Magic action with Smith's Tools in hand, turn worn armor into Arcane Armor (no STR requirement while worn by Kay, can don/doff as a Utilize action, can't be removed against his will, usable as a spellcasting focus). **Foundry still lists his armor as plain Studded Leather Armor with no Smith's Tools item in inventory — unconfirmed whether the Arcane Armor conversion has actually happened at the table; flag to check.**
-- **Armor Model** *(Armorer)* — can be swapped freely on a Short or Long Rest with Smith's Tools in hand; all three models kept open per the table's 2026-08-12 decision, rather than locking one in.
-- **Dreadnaught model** — front-line juggernaut build: reach weapon + temporary Large size (see Actions/Bonus Actions).
-- **Guardian model** — front-line tank build: melee weapon + temp HP when Bloodied (see Actions/Bonus Actions).
-- **Infiltrator model** — subtler/ranged build: its weapon is in Actions; Powered Steps (Speed +5 ft. while active) and Dampening Field (advantage on Stealth) aren't captured in any table.
-- **Armorer Spells** — *Magic Missile* and *Thunderwave* always prepared (don't count against Kay's normal prepared-spell total).
+- **Aberrant Anatomy** *(Investigator background—Dark Gift feat chosen in place of Sharp Eye)*—Breathless: hold breath 1 hr. Extrasensory Perception: proficiency + expertise in Perception (reflected above), Blindsight 15 ft. (reflected in Vision). Warping Flesh: immediately after rolling a natural 1 on a d20 Test, make a CON save (DC 13 + prof) or be Stunned until the end of your next turn.
+- **Black Blood Healing** *(Verdan)*—reroll a 1 or 2 on any Hit Die spent at the end of a Short Rest, must use the new roll.
+- **Limited Telepathy** *(Verdan)*—telepathically speak to any creature you can see within 30 ft.; doesn't require a shared language, but the target must understand at least one language; slow/limited (simple ideas only).
+- **Telepathic Insight** *(Verdan)*—advantage on all WIS and CHA saving throws.
+- **Persuasive** *(Verdan)*—proficiency in Persuasion (reflected above).
+- **Fey-Touched** *(Origin feat—Level 4 Ability Score Improvement choice)*—+1 INT (reflected above, 19→20). Always has *Misty Step* and one chosen 1st-level Divination/Enchantment spell (*Hunter's Mark*) prepared; each castable once free (no slot) per Long Rest, or normally with an appropriate spell slot afterward—spellcasting ability for both is INT.
+- **Spellcasting** *(Artificer)*—INT-based; requires Thieves' Tools/Tinker's Tools/other proficient Artisan's Tools in hand as a focus (M component). Prepares from the full Artificer spell list; prepared-spell count grows with level (7 at level 4—INT mod + half level—currently only 5 chosen: Alarm, Catapult, Cure Wounds, Feather Fall, Identify; may not be fully re-prepared post level-up, confirm at table).
+- **Tinker's Magic**—knows *Mending* (free, doesn't count against prepared spells). As a Magic action with Tinker's Tools in hand, create one Tinker's Magic item (per XPHB list) within 5 ft.; lasts until Long Rest. Usable INT mod (5) times/day, all uses restored on Long Rest.
+- **Replicate Magic Item**—4 magic item plans known from the Magic Item Plans (Artificer Level 2+) table; **which 4 plans Kay knows isn't recorded in Foundry—confirm at table.** Can create up to 2 items/Long Rest with Tinker's Tools in hand (Magic Items column = 2 at Artificer level 4); item's magic isn't permanent (vanishes 1d4 days after Kay's death).
+- **Tools of the Trade** *(Armorer)*—training with Heavy armor; proficiency with Smith's Tools (+1 other Artisan's Tools of choice, not yet itemized); armor crafting time halved.
+- **Arcane Armor** *(Armorer)*—as a Magic action with Smith's Tools in hand, turn worn armor into Arcane Armor (no STR requirement while worn by Kay, can don/doff as a Utilize action, can't be removed against his will, usable as a spellcasting focus). **Foundry now lists Chain Mail (STR 13 requirement) with no Smith's Tools item in inventory—same unconfirmed conversion status as before, just heavier armor now; flag to check** (the item's own DM Notes deliberately avoid tying its abilities to this, for the same reason).
+- **Armor Model** *(Armorer)*—can be swapped freely on a Short or Long Rest with Smith's Tools in hand; all three models kept open per the table's 2026-08-12 decision, rather than locking one in.
+- **Dreadnaught model**—front-line juggernaut build: reach weapon + temporary Large size (see Actions/Bonus Actions).
+- **Guardian model**—front-line tank build: melee weapon + temp HP when Bloodied (see Actions/Bonus Actions).
+- **Infiltrator model**—subtler/ranged build: its weapon is in Actions; Powered Steps (Speed +5 ft. while active) and Dampening Field (advantage on Stealth) aren't captured in any table.
+- **Armorer Spells**—*Magic Missile* and *Thunderwave* always prepared (don't count against Kay's normal prepared-spell total). Next tier (Mirror Image, Shatter) unlocks at Artificer level 5.
+- **Caught in the Flash** *(The Last Exposure, passive, Tier 1)*—the first time each turn Kay hits a creature with an attack, that attack deals an extra 1d6 radiant damage.
+- **Already in Frame** *(The Last Exposure, passive, Tier 1)*—a creature Kay has hit with an attack this combat can't benefit from being unseen against him—no advantage for attacking from hiding, no bonus from Invisibility, nothing behind cover he's already gotten a clean shot of.
+- **Old Instincts** *(The Last Exposure, passive, Tier 1)*—advantage on Investigation and Insight checks made to read a scene, catch an inconsistency, or tell whether someone's lying to him.
 
 ---
 
 ### Spellcasting
 
-**Spellcasting Ability:** INT (+4) · **Spell Save DC:** 14 · **Spell Attack Bonus:** +6
+**Spellcasting Ability:** INT (+5) · **Spell Save DC:** 15 · **Spell Attack Bonus:** +7
 **Spell Slots:** 1st ×3
 
 **Ritual Spells**
 
-- *Detect Magic* (XPHB, 1st) — 1 action cast — Sense magic within 30 ft. for 10 min (conc.).
-- *Identify* (XPHB, 1st) — 1 min cast — Learn a touched item's magic properties, attunement requirement, and charges.
+- *Alarm* (PHB'24, 1st)—1 min cast—Wards a 20-ft. cube; alerts you when a creature enters (8 hr).
+- *Identify* (PHB'24, 1st)—1 min cast—Learn a touched item's magic properties, attunement requirement, and charges.
 
 ---
 
 ### Inventory
 
-**Armor:** Studded Leather Armor (equipped — not yet converted to Arcane Armor)
-**Magic Items:** [[The Last Exposure]]
+**Armor:** Chain Mail (equipped—not confirmed converted to Arcane Armor)
+**Magic Items:** [[The Last Exposure]] (attuned—Tier 1, Contact Print)
 **Gear:** Backpack · Caltrops · Crowbar · Manacles · Oil ×2 · Rations ×10 · Rope · Shovel · Tinderbox · Torch ×10 · Traveler's Clothes · Vials ×3 · Waterskin
 
 ---
@@ -220,6 +228,6 @@ Playbook:: [[Keith Poe - Playbook]]
 
 - 9-10 Nightal, Year 222 PA: came back frostbitten with Samson at the top of the session; healed to full by [[Rhona Voss]]. Rather than spend four days on a proper crafting job, called in a favor with his own [[Iron Seam Guild]] colleagues to get a set of chainmail rush-forged overnight—he now owes them one, unspecified and outstanding.
 - 10 Nightal, Year 222 PA: back at the Wall breach with the full party. Met **[[Meepo]]** and **[[Calcryx]]** (grown to a young dragon since his and Samson's own Session 7 glimpse) and was present for the negotiated deal that lets her stay.
-- **Leveled up to 4—the only one of the five who did.** Per XPHB's Artificer table: Infusions Known 4, Infused Items 2, Cantrips Known 2, 1st-level spell slots 3. Level 4 also grants an Ability Score Improvement (feat or +2 to one/+1 to two abilities)—**not yet chosen, confirm at table.** No new Armorer subclass feature at this level (next one lands at 5). HP, and whether the ASI changed his ability scores above, still need a live Foundry re-sync before the Character Sheet table below is trusted as current.
+- **Leveled up to 4—the only one of the five who did.** Per XPHB's Artificer table: Infusions Known 4, Infused Items 2, Cantrips Known 2, 1st-level spell slots 3. Level 4's Ability Score Improvement landed as the **Fey-Touched** origin feat (+1 INT, now 20; always-prepared *Misty Step* + *Hunter's Mark*)—confirmed via the 2026-09-18 Foundry re-sync (new actor, old one deleted by the player). No new Armorer subclass feature at this level (next one lands at 5). Character Sheet below now reflects the live re-sync in full, including a new Chain Mail upgrade and [[The Last Exposure]] going live at Tier 1 (attuned).
 
 

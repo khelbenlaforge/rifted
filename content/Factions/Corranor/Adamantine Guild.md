@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-08T21:31:26
+updated: 2026-09-19T01:47:04
 ---
 
 # Adamantine Guild
@@ -42,6 +42,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Citrine District]], [[Crystal City]]** — headquarters; two-story white stone, silence ward, extradimensional dormitory.
 - **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the Stormwall's own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
+- **The Tallhouse, [[Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
 
 ## Operations
 

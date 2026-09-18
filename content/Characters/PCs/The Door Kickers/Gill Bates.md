@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-18T12:38:42
+updated: 2026-09-18T22:57:39
 ---
 
 # Gill Bates
@@ -184,7 +184,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 ### Inventory
 
 - **Armor:** Chain Shirt + Shield (equipped)
-- **Magic Items:** Guild Brass Armlet (guild membership token)
+- **Magic Items:** Guild Brass Armlet · Spell Refuelling Ring *(no note yet—flag for item-creation; 1/day as a bonus action, restore one expended spell slot of 3rd level or lower)* (guild membership token)
 - **Gear:** 2x Potion of Healing, 2x Potion of Fire Resistance, Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch), smooth grey stone token (flavor item, no mechanics)
 
 ---
@@ -265,4 +265,7 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - Gains *Create or Destroy Water* as an always-prepared spell.
 - Received a smooth grey stone token from [[Tidecaller Marin Deepcurrent|Marin]] (flavor item, no mechanics).
 - New task from Marin: sense the ocean at the next landfall or an underground spring; [[Corran's Spike]] vs. [[Stormberg]] unresolved.
+- Acquired a Spell Refuelling Ring—see Magic Items.
+- Given two free vials of holy water from the Temple of Istishia's own font.
+- Marin's read on Istishia's condition darkened: not just her in danger, possibly a liminal-space problem shared by other gods too.
 

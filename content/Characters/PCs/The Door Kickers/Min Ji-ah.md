@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-18T12:39:09
+updated: 2026-09-18T22:57:49
 ---
 
 # Min Ji-ah
@@ -216,7 +216,7 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 ### Inventory
 
 **Armor:** Robe (no armor)
-**Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · Piwafwi *(no note yet—flag for item-creation; fire resistance while worn; while the hood is up, disadvantage on Wisdom (Perception), advantage on Dexterity (Stealth) checks to hide; loses its magic after 1 hour of continuous, uninterrupted sunlight exposure, reset by 1 minute spent back in darkness)*
+**Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · Piwafwi *(no note yet—flag for item-creation; fire resistance while worn; while the hood is up, disadvantage on Wisdom (Perception), advantage on Dexterity (Stealth) checks to hide; loses its magic after 1 hour of continuous, uninterrupted sunlight exposure, reset by 1 minute spent back in darkness)* · Night Caller *(magic whistle—wondrous, uncommon; traded from [[Jonathan Jordan|JJ]], see [[Jonathan Jordan]] for the item's own entry)*
 **Gear:** Backpack · Book · Fine Clothes · Gems ×4 · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Chain of Ten Gold Coins
 ## Session 21
 
@@ -307,5 +307,8 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 ## Session 29
 
 - Acquired a Piwafwi—see Magic Items.
+- Traded [[Augustus Kennedy|Augustus]]'s old dungeon-find weapon, Toothpick, which she'd been holding, to [[Jonathan Jordan|JJ]] in exchange for his Night Caller whistle before leaving the city—see Magic Items.
+- Now carrying the Guild's sealed gem for [[Rhona Voss]], handed off from [[Regius]].
+- **[[Wystan]]** offered a standing arrangement at the Academy archive: whatever she finds on Silvanus's grove, he wants to hear it, and he'll owe her something in return. He also mentioned [[Layla]] used to come through asking about conjuration, planes, and levels of existence—"she would have made a good wizard."
 - Used *Elminster's Footnote* and *Elminster's Inquiry* at the [[Ether Scryer's Academy]] archive with [[Wystan]] to learn that [[Silvanus]]'s grove sits behind shifting interplanar gates clustered north, rather than at a fixed location.
 

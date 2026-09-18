@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-18T12:39:31
+updated: 2026-09-18T22:57:52
 ---
 
 # Nanuk
@@ -246,4 +246,5 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - Acquired serpent-scale armor, which lets him add his full Dexterity modifier to AC.
 - In the same exchange, a standing AC calculation error on his sheet was corrected: base AC is 14, not the previously listed 17; 19 with the new armor.
 - Visited [[Torem]] at the Azure Tamers Tower for Stormberg travel intel and the migration hook (herds early and heavier than the season should be, cause unknown).
+- Torem asked him to look into it if the road takes him near the herds—a paid job, not just a favor, if he brings back good answers.
 

@@ -8,7 +8,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-09-18T12:39:40
+updated: 2026-09-18T22:57:43
 ---
 
 # Regius
@@ -217,4 +217,6 @@ Regius spent the session chasing work, leverage, and answers.
 - Received a dented suit of plate armor—needs a blacksmith's repair before use.
 - His nightly surveillance job on [[Sellas Verenthal]] for [[Ostrin Feld]] ended this session: paid 100gp total (50 now, 50 on delivery).
 - Given a sealed Verenthal letter and token to deliver to whoever holds that name at [[Stormberg]]—don't open it, burn it if never delivered.
+- Received the Guild's sealed gem for [[Rhona Voss]] from [[Istar Silverlock]], then passed it to [[Min Ji-ah]] to carry the rest of the way north.
+- A flirtation with [[Tavia Orn]] landed—she gave him an obsidian stud to wear visibly once in Stormberg, a recognition mark for the Claret there, and asked him to come find her for a meal on his return.
 
