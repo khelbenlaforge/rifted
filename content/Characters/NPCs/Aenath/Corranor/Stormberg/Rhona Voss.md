@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-12T17:20:47
+updated: 2026-09-18T13:13:37
 created: 2026-08-24T17:22:42
 ---
 
@@ -153,4 +153,10 @@ Athletics +10 · Insight +4
 - During the speakeasy scene, relayed and confirmed the [[Adamantine Guild]]'s founding tenets to [[Kili]] and Roberto: Oghma's scroll is knowledge, Helm's fist is protection, and Waukeen's coin is commerce—"elevating society," not making money. Named their author as guildmaster Erkaniel Timbers ("[[Erky]]"), based in [[Crystal City]].
 - During the same speakeasy scene, named her family for the first time to anyone in the party: one child on the Wall crew, another at the [[Ether Scryer's Academy]] in [[Crystal City]], and a husband lost to Adamantine Guild work on the Wall. Both chose the work themselves, by her account, which is the part she's proudest of.
 - Followed it with an offer that had nothing to do with rank or duty: she'd teach Kili to fight, on her own time, because she meant what she told the table back in Session 6 about not losing any more of her kids.
+
+## Session 08 Update (The Understudies)
+
+- Treated [[Samson Flint]] and [[Keith Poe]]'s frostbite, healing both to full.
+- Posted the fresh Wall breach as a Guild job on the board.
+- Cautioned the party about arriving at the breach at night—they went anyway.
 

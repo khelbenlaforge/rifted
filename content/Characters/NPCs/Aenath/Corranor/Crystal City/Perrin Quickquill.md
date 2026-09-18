@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-18T12:35:31
 ---
 
 # Perrin Quickquill
@@ -75,4 +75,10 @@ The party may come to Perrin and [[Garm]] for teleportation or shifting informat
 Perrin confessed to finding [[Layla]]'s reagent pouch in a drawer at the [[Jade Spire]] and using it to redraw her teleportation circle. He was not trying to pull anyone through. He was trying to recreate her work because he missed her.
 
 The circle opened and pulled [[Regius]] through by infernal resonance. Perrin was crying and shell-shocked when [[Elmindaria L'Thorian]] dragged him to the [[Ether Scryer's Academy]] to explain himself.
+
+## Session 29
+
+- Delivered the [[Corranor Council|Council of Seven]]'s determination-of-status summons to the party.
+- Revealed the Council's 50-50 split: [[Doran]] and [[Nerise]] against; [[Garm]], [[Wystan]], and an unnamed gnome Keeper for; [[Oriel Blackstaff]] deciding.
+- Persuaded, and backed by [[Istar Silverlock]], agreed to tell the Council he never found the party before they left the city.
 

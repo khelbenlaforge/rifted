@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-12T21:28:36
+updated: 2026-09-18T13:05:17
 ---
 
 # Keith Poe
@@ -63,11 +63,11 @@ K's investigator instincts didn't retire when the by-line did. The same eye that
 
 | Stat | Value |
 | ---- | ----- |
-| Level | 3 |
+| Level | 4 *(leveled up Session 8—HP/ASI pending Foundry re-sync, see Session 08 Update)* |
 | Class | Artificer (Armorer) |
 | Race | Verdan |
 | Background | Investigator |
-| HP (Max) | 21 |
+| HP (Max) | 21 *(pre-level-4, stale—see Level row)* |
 | AC | 13 |
 | Speed | 30 ft. |
 | Prof Bonus | +2 |
@@ -215,5 +215,11 @@ Playbook:: [[Keith Poe - Playbook]]
 - 1–10 Nightal (downtime): backed [[Samson Flint]] up on his own structural survey of the Wall and the breach it turned up—not a track of Keith's own, just roleplay presence—created a torch with Tinker's Tools once they went in, then fled and threw it when something cold and white-winged showed itself in the dark. Came back to Stormberg with Samson, badly frostbitten.
 - 1–10 Nightal (downtime): his second track skipped the workshop floor entirely: new Iron Seam faces at [[Kili]]'s speakeasy, a standing discount for anyone wearing the Guild's mark by night's end. It put him properly on his supervisor's radar: senior artificer **[[Cinderjaw Varnick]]**, impressed enough to offer him a spot on the Wall's siege engines once the continent makes landfall and the storms settle. He heard a date in it. She didn't mean it that way. *"Awwwwww, you're such a sweetie,"* she said, looking down from a solid two feet up on a four-foot Verdan, *"but no."*
 - 1–10 Nightal (downtime): the third track was paperwork, not people—the [[Ward Works]] and the [[Iron Seam Guild]] both got searched for whatever Stormberg keeps on record about Shar, circling back to something Rhona told the party in Session 5. Barely made the DC 15 (a 16 or 17): what turned up was thin but real, [[Shar]] seemed to be [[Selûne]]'s opposite number, and symbolically she's tied to whatever dark still holds on right before sunrise. Whether either goddess still has a foothold in Stormberg isn't in the record he found; that part's still open.
+
+## Session 08 Update
+
+- 9-10 Nightal, Year 222 PA: came back frostbitten with Samson at the top of the session; healed to full by [[Rhona Voss]]. Rather than spend four days on a proper crafting job, called in a favor with his own [[Iron Seam Guild]] colleagues to get a set of chainmail rush-forged overnight—he now owes them one, unspecified and outstanding.
+- 10 Nightal, Year 222 PA: back at the Wall breach with the full party. Met **[[Meepo]]** and **[[Calcryx]]** (grown to a young dragon since his and Samson's own Session 7 glimpse) and was present for the negotiated deal that lets her stay.
+- **Leveled up to 4—the only one of the five who did.** Per XPHB's Artificer table: Infusions Known 4, Infused Items 2, Cantrips Known 2, 1st-level spell slots 3. Level 4 also grants an Ability Score Improvement (feat or +2 to one/+1 to two abilities)—**not yet chosen, confirm at table.** No new Armorer subclass feature at this level (next one lands at 5). HP, and whether the ASI changed his ability scores above, still need a live Foundry re-sync before the Character Sheet table below is trusted as current.
 
 

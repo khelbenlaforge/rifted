@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-09-09T02:06:05
+updated: 2026-09-18T12:40:21
 ---
 
 # Augustus Kennedy
@@ -227,4 +227,11 @@ Playbook:: [[Augustus Kennedy - Playbook]]
 
 - Present at the [[Jade Spire]] for the Council's address, and visibly shaken when [[Oriel Blackstaff]] opened an inquiry into the [[Temple of Kelemvor]] and the [[Knights of the Eternal Order]]'s vigil admissions—Augustus belongs to that Order, and nobody touches Kelemvor's church.
 - Confirmed to the party afterward that everyone is expected to bring their loved ones' names to the temple, so he has no explanation for why [[Ser Tamsin Rook]] withheld his sister's for four years.
+
+## Session 29
+
+*(Stayed in the city.)*
+
+- Sent word to the party that he intends to buy passage north on a bird once his own business in the city is finished.
+- Stayed behind in [[Crystal City]] with [[Jonathan Jordan|JJ]].
 

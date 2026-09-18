@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-08T21:18:42
+updated: 2026-09-18T12:36:00
 ---
 
 # Garm
@@ -71,4 +71,9 @@ Working through the [[Corranor Council]], Garm found [[Layla]]'s magical signatu
 ## Session 23
 
 Garm arranged a meeting at [[Blackstaff Mansion]] for [[Min Ji-ah]], joined by [[Nanuk]], [[Terra]], and [[Regius]], and made clear beforehand that they were meeting Lady Blackstaff and her brother rather than the family head. He escorted them to the warded entrance, announced them at the blank wall that served as the mansion's door, and reminded them to be respectful. As one of the archmages on the [[Corranor Council]], Garm remains one of the Council of Seven.
+
+## Session 29
+
+- The Council's status-hearing vote on the party stands confirmed 50-50 as of this session: Garm and [[Wystan]] and an unnamed gnome for, [[Doran]] and [[Nerise]] against, [[Oriel Blackstaff]] deciding.
+- The hearing was evaded rather than resolved; nothing has actually been ruled yet.
 

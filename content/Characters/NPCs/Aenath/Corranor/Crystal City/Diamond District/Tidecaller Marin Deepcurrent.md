@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-08-28T14:52:43
+updated: 2026-09-18T12:35:09
 ---
 
 # Tidecaller Marin Deepcurrent
@@ -57,5 +57,11 @@ Deity:: [[Istishia]]
 - Said the faiths' public rivalries are deliberately staged.
 - Has been funnelling etheric energy to Istishia.
 - Compressed the first level of Gill's Sacred Sea initiation to a single downtime day.
+
+## Session 29
+
+- Ran [[Gill Bates]]'s Sacred Sea trial to completion: one failed attempt, one successful attempt via prayer and Marin's Sending.
+- Gave Gill a smooth grey stone token.
+- Assigned Gill a new task: sense the ocean again at the next landfall or an underground spring, naming [[Corran's Spike]] (northeast) against [[Stormberg]] (north) as an open choice.
 
 

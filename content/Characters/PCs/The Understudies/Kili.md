@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-12T17:31:39
+updated: 2026-09-18T14:09:48
 ---
 
 # Kili
@@ -204,5 +204,11 @@ Playbook:: [[Kili - Playbook]]
 - 1–10 Nightal (downtime): turned the Adamantine Guild's own common room into an after-hours speakeasy rather than working an outside stall—Roberto brewing alongside her, the dwarf tavern-keeper **[[Devran]]** walking in impressed enough to invite Roberto to his own place. Her own performance, a story about nobles who've never had to weigh the risk that funds their comfort, landed well enough for real coin and a standing favor with the room. In the telling, Rhona laid out the Guild's founding tenets—Oghma, Helm, **[[Waukeen]]**—and its guildmaster, "Erky," by name for the first time in her hearing.
 - 1–10 Nightal (downtime): her second track turned into the kind of night neither Yenna nor Rhona meant to let happen. Yenna admitted to a partner at home, still working with their hands same as always, both of them slower than they used to be. Then came the part Kili hadn't expected: Yenna's own years on the cull teams, alongside a much younger Rhona, before the noodle stall became the whole of her life. Rhona matched it with her own reveal. One of her kids works the Wall directly; the other studies how to, at the [[Ether Scryer's Academy]] in [[Crystal City]]. Guild work on that same Wall is what took her husband. She ended the night offering to teach Kili to fight herself. No ceremony to it. Just a woman who meant what she said back in Session 6 about not losing any more kids.
 - 1–10 Nightal (downtime): her third track took her somewhere Roberto's alcohol could actually open a door: **[[The Gilded Loom]]**, all polished stone and quiet money. Tavern master **[[Corwyn Ashgrave]]** decided the vintage spoke well enough of her to let her stay. She's kept going back, ostensibly to talk him toward the Wallwatch's own speakeasy, mostly to watch the traffic: Verenthal staff running errands for the fortress and the manors, [[Ether Scryer's Academy]] people between shifts, citizens rich enough to have never once done the math on a wall gang's pay. Nobody's clocked her as anything but one of the regulars.
+
+## Session 08 Update
+
+- 10 Nightal, Year 222 PA: welcomed [[Fern]] back into the fold over breakfast, catching her up on the Feast of the Moon and everything since. Went with the whole party back to the Wall breach the next day.
+- 10 Nightal, Year 222 PA: present for the meeting with **[[Meepo]]** and **[[Calcryx]]** (grown to a young dragon since anyone last saw her)—no fight, a negotiated deal instead: Calcryx stays, the Wall gets stronger for it, the party carries the case to the Guild.
+- 10 Nightal, Year 222 PA: something unnamed passed between her and Fern during the scene where Keith Poe leveled up that night. Neither has put words to it yet.
 
 

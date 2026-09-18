@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-09-09T02:15:57
+updated: 2026-09-18T12:39:59
 ---
 
 # Shen
@@ -233,4 +233,11 @@ Shen completed two retroactive weeks of downtime.
 
 - Present through the aftermath at the [[Adamantine Guild]], then peeled off alone for the [[Amethyst Quarter]] — still chasing down what's actually happening to the city.
 - Didn't appear again this session; the session note records only that he left, not what the trip turned up.
+
+## Session 29
+
+*(DM-voiced this session.)*
+
+- After initially being slated to stay in the city, ultimately travels north with the party as a DM-voiced companion—a mid-session reversal at the table.
+- No individual scene this session.
 

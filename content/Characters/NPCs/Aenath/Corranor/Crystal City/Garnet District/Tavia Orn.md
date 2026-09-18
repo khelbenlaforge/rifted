@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-08-28T14:52:43
+updated: 2026-09-18T12:35:36
 ---
 
 > [!infobox|right wikipedia]+
@@ -61,4 +61,8 @@ Affiliation:: [[The Claret]]
 ## Session 25 Update
 
 - Confirmed she had tipped Corvin off in advance that the party might be paying him a visit.
+
+## Session 29
+
+- Sold the party three vials of poison at 100gp each, plus antitoxin and holy water at standard Claret rates.
 

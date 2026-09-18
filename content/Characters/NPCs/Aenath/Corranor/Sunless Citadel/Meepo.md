@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:51
-updated: 2026-09-08T21:18:42
+updated: 2026-09-18T13:06:04
 ---
 
 # Meepo
@@ -21,7 +21,7 @@ updated: 2026-09-08T21:18:42
 > | ---- | --- |
 > | Race | Kobold |
 > | Class | — |
-> | Location | [[Sunless Citadel]] |
+> | Location | Stormberg Wall breach (Corranor) |
 > | Affiliation | [[Ordahir Kobolds]] |
 > | Deity | [[Bahamut]] |
 
@@ -29,7 +29,7 @@ Race:: Kobold
 Subrace::
 Pronouns:: he/him
 Class::
-Location:: [[Sunless Citadel]]
+Location:: Stormberg Wall breach (relocated from [[Sunless Citadel]])
 Affiliation:: [[Ordahir Kobolds]]
 Deity:: [[Bahamut]]
 
@@ -57,5 +57,6 @@ When the goblins raided and took Calcryx, the colony's anger needed a target. Me
 - Left behind in the rat room (northeast, open to the rift) when the party crossed into [[Durbuluk Goblins]] territory — left with food and water; too dangerous to bring a kobold into the goblin colony
 - [[Calcryx]] was told of Meepo's location and expressed a soft spot for him — they may yet find each other
 - He occupies a strange position: blamed by [[Yusdrayl]]'s faction, ignored by [[Ragh]]'s, devoted to a dragon neither side truly cares about as an individual
+- **Encountered in Session 08 (The Understudies):** found first, hiding in a side nook of the fresh Wall breach he and Calcryx now call home. Talked down rather than fought—jerky, a gentle question, and a clean persuasion roll were enough to convince him these particular two-legs weren't a threat. He led the party through his own trap room (ice shelving, rigged and reformed since anyone else's visit) to Calcryx herself, and vouched for them once she started sighing cold at the newcomers. Still entirely devoted to her.
 
 

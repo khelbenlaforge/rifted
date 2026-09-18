@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-09-09T02:09:35
+updated: 2026-09-18T12:40:09
 ---
 
 # Ember
@@ -215,4 +215,9 @@ Ember also joined the Azure Tamers alongside Nanuk. She visited the Temple of [[
 - Felt out the shape of the Lower Planes and surfaced the **soul economy**: no gods in the Nine Hells, the Abyss or Hades, but an appetite for souls in circulation, because souls are what can be traded, contracted and spent. This is the frame that finally gives "Layla and [[Asmodeus]]" a meaning.
 - The same thread produced a clarification the table pulled out of the DM, though the transcript does not make clear who asked: warlock *patrons* participate in the soul economy, while warlocks themselves, working by contract rather than on soul power, sit outside it. Relevant to [[Shen]] rather than to Ember.
 - Reported that the [[Belak|Ancients of Lava]] are still searching for [[Silvanus]]'s grove and have never been welcomed into it.
+
+## Session 29
+
+- Travels north with the party, able to run as a wolf alongside the carriage.
+- Will break off later in the journey to return to the Ancients of Lava—not yet; noted as a planned future beat, not resolved this session.
 

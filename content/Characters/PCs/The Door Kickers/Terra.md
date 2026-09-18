@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-09-11T16:54:44
+updated: 2026-09-18T13:04:10
 ---
 
 # Terra
@@ -254,4 +254,11 @@ PassiveStealth:: 16
 - Distrustful of the whole rite, unconvinced the souls were going anywhere she could verify, and reminded of the cult she came from.
 - Watched Gill get pulled onto the platform beside the Gravelord and was surprised by how much she wanted to be up there too.
 - **Her Cold Open resolved.** The familiar presence she had sensed on the enemy side of her Time of Troubles vision was **[[The Unbound]]**, her own Earth cult leader, standing among [[Lolth]]'s in a memory of Aenath's distant past. He is therefore either here or inside her [[Hollowstone]], and in either case no longer on Earth. Whether she brought him through or he preceded her is open.
+
+## Session 29
+
+*(Player absent this session; DM-voiced.)*
+
+- Travelled north with the party as a DM-voiced companion.
+- Did not have an individual scene this session; her planned Mielikki's Grove/[[Sylvara Oakwhisper]] beat did not happen and is not an open thread—it simply didn't occur before the party left the city.
 

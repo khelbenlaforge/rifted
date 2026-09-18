@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-18T12:39:53
 ---
 
 # Sadiah Ispahani
@@ -231,4 +231,10 @@ PassiveStealth:: 14
 - Understood that on Earth she had been holding on to yoga the way you hold the one thing keeping you upright—a life she disliked, a family that had come apart, counting money for the electricity. Here, a piece she did not know was loose has clicked into place.
 - Is the only one of the party speaking Common natively, switching in and out of it without noticing she has done it.
 - Her realisation reframed [[Layla]] for everyone: if Layla is carrying souls *into* Aenath and those souls began here, the party may have been returned rather than taken. Held as the party's theory, not confirmed.
+
+## Session 29
+
+*(DM-voiced this session.)*
+
+- Travelled north with the party as a DM-voiced companion; no individual scene this session.
 
