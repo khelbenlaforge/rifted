@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-09-18T12:35:36
+updated: 2026-09-18T22:57:04
 ---
 
 > [!infobox|right wikipedia]+
@@ -65,4 +65,5 @@ Affiliation:: [[The Claret]]
 ## Session 29
 
 - Sold the party three vials of poison at 100gp each, plus antitoxin and holy water at standard Claret rates.
+- Warmer with [[Regius]] than her usual business face—a flirtation landed. Gave him an obsidian stud as a Claret recognition mark for Stormberg and told him anyone there would know what it meant and point him toward the rest. Asked him to find her when he's back; she'll buy the meal this time.
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-08T21:18:42
+updated: 2026-09-18T22:35:00
 ---
 
 # Layla
@@ -82,6 +82,12 @@ Deity:: Unknown
 - 20th Uktar, Year 222 PA: appeared in [[The Emberveins]], a lava-lit cavern between Crystal City and Coldford, taking notes ahead of a shadow-creature encounter, ahead of four newly arrived JULYs PCs (Kai, Frankie, Odette Langford, Masamune Kento — Nanaya Rei was not among this arrival).
 - Corrected her own count aloud on seeing them: "Four. Last batch was four."
 - Gave the same pattern as prior arrivals: a location, a warning that something else in the cavern already knew they'd landed, and nothing more — cited "forty more of these to run tonight."
+
+## Session 2 Update (The JULYs)
+
+- Off-camera during Session 1, discovered that a fifth Rifted, [[Nanaya Rei]], had been taken by a Shadow creature through a portal before he could land with the other four.
+- Found on her knees at a tear in the world, visibly desperate and losing her fight to hold it open; the seam answered only to Rifted, not to her.
+- The party crossed through the seam to reach Nanaya inside [[The Hexad]]; the seam closed or failed after they crossed.
 
 ## Session 1 Update (The Understudies)
 

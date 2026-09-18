@@ -1,12 +1,13 @@
 ---
-title: "Masamune Kento"
+title: Masamune Kento
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
+updated: 2026-09-18T22:22:23
 ---
 
 # Masamune Kento
@@ -43,6 +44,7 @@ Kento fights with the same exacting patience that made him a craftsman. Every mo
 ## Key Events
 
 - Session 1 (20th Uktar, Year 222 PA) - cold open in Tokyo, alone in the workshop after Endo-san locked up, examining Fujita-san's pocket watch - his hands recognized the style of a maker's mark on the inner case before he consciously placed it - then was teleported. Landed in The Emberveins with Kai, Frankie, and Odette Langford (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
+- Session 2 (20th Uktar, Year 222 PA, same night) - present but sidelined; still shaken and injured from Session 1's gauntlet, he held back while Kai, Frankie, and Odette Langford climbed out of The Emberveins, found Layla, and went through her failing portal after Nanaya Rei. Did not take part in The Hexad or the Fused Shadow encounter at its exit.
 
 ## Relationships
 

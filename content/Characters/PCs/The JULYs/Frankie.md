@@ -1,13 +1,14 @@
 ---
 title: Frankie
 aliases:
-  - Min
+- Min
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
+updated: 2026-09-18T22:22:15
 ---
 
 # Frankie
@@ -42,6 +43,7 @@ She fights by giving up her own shape. Wolf, bear, whatever the moment calls for
 ## Key Events
 
 - Session 1 (20th Uktar, Year 222 PA) - cold open in Singapore; stepped outside Dr. Priya's vet clinic to take a call from her regional manager Farid about the Toa Payoh clinic's numbers, then was teleported walking back in through the clinic's entrance. Landed in The Emberveins with Kai, Odette Langford, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
+- Session 2 (20th Uktar, Year 222 PA, same night) - climbed out of The Emberveins with Kai and Odette Langford (Masamune Kento present but sidelined, still shaken and injured from Session 1); found Layla losing a fight to hold open a tear that answered only to Rifted; went through after a fifth teammate a shadow creature had dragged into The Hexad. Found Nanaya Rei awake and hurt inside; the four solved the Hexad together and broke past a Fused Shadow guarding the exit by outrunning it into daylight. Back in Aenath, full party of five for the first time.
 
 ## Relationships
 

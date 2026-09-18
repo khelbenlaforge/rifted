@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-04T18:57:50
+updated: 2026-09-18T22:57:04
 ---
 
 # Corranor Council
@@ -56,8 +56,13 @@ Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm
 
 - All seven seats were seen in public together for the first time.
 - Five Keepers are now named: [[Garm]] (Keeper of the Jade Spire), [[Oriel Blackstaff]] (Writ), [[Doran]] (Bulwark), [[Wystan]] (Archive), and [[Nerise]] (Exploration).
-- Two Council members remain unnamed to the party: a stone-faced human woman and a shorter, jollier member visibly shocked by the proceedings.
+- Two Council members remain unnamed to the party: a stone-faced human woman (named **Ysolde** to the party in Session 29) and a shorter, jollier gnome member visibly shocked by the proceedings.
 - Council members renounce their family affiliations on investiture.
 - [[Oriel Blackstaff]] opened an inquiry into the [[Temple of Kelemvor]].
+
+## Session 29
+
+- **Ysolde** is named to the party for the first time, as the human Keeper who voted against them at their status-hearing summons: [[Doran]], [[Nerise]] and Ysolde against; [[Garm]], [[Wystan]] and an unnamed gnome Keeper for; [[Oriel Blackstaff]] deciding. The hearing itself was evaded, not resolved—see the party's own Dashboard.
+- The gnome Keeper (Merrit, Keeper of the Sky Roads) remains unnamed to the party.
 
 

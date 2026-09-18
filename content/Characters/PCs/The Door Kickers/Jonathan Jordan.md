@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-18T12:40:16
+updated: 2026-09-18T22:57:56
 ---
 
 # Jonathan Jordan
@@ -115,7 +115,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 | **Shortbow** *(Vex)* | R +7 | 80/320 | 1d6+4 pierce; on hit target Vexed -- your next atk vs it has adv. until your next turn | - | - | - |
 | **Psychic Blade** *(Vex)* | M/R +7 | 60 ft | 1d6 psychic; on hit target Vexed -- your next atk vs it has adv. until your next turn; manifest free on Attack action or OA | - | - | - |
 | **Unarmed Strike** | M +2 | 5 ft | 1 bludgeon (min 1) | - | - | - |
-| **Night Caller** *(magic whistle)* | - | 10 ft | Animate one corpse as Animate Dead; 1-min cast; darkness or night sky only | - | - | 1/7 days |
+| **Night Caller** *(magic whistle—traded to [[Min Ji-ah]] Session 29, no longer his to use)* | - | 10 ft | Animate one corpse as Animate Dead; 1-min cast; darkness or night sky only | - | - | 1/7 days |
 
 *Sneak Attack: once per turn, +3d6 damage when attacking with advantage OR when an ally is adjacent to the target.*
 *Nick mastery: when you use the Attack action with a Light weapon, make one extra attack with a different Light weapon as part of that action (no Bonus Action needed).*
@@ -160,7 +160,7 @@ JJ trains under [[Istar Silverlock]], the Assistant Guildmaster of the [[Adamant
 ### Inventory
 
 - **Armor:** Leather Armor (equipped)
-- **Magic Items:** [[Rathan's Symbol of Tymora]] (equipped), Night Caller (magic whistle -- wondrous, uncommon), Guild Brass Armlet (equipped)
+- **Magic Items:** [[Rathan's Symbol of Tymora]] (equipped), Guild Brass Armlet (equipped)—Night Caller (magic whistle -- wondrous, uncommon) traded to [[Min Ji-ah]] Session 29, holding Toothpick (Augustus's weapon) for [[Augustus Kennedy|Augustus]] in the meantime
 - **Gear:** Potion of Healing, Thieves Tools, Quiver + 13 arrows, Standard Urchin gear (hooded lantern, tinderbox, rope, oil x5, rations x5, candles, bell, crowbar, waterskin, common clothes, pouch)
 
 ---

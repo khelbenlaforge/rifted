@@ -1,12 +1,13 @@
 ---
-title: "Kai"
+title: Kai
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
+updated: 2026-09-18T22:22:11
 ---
 
 # Kai
@@ -41,6 +42,7 @@ Kai fights from angles no one's watching and is usually gone before the fight re
 ## Key Events
 
 - Session 1 (20th Uktar, Year 222 PA) - cold open in Chengdu at Old Zhou's tea stall; when two men cornered a delivery boy (Bo) at the lane's end, Kai stepped in, challenged them, and flicked a card from his deck as an attack/distraction, then was teleported mid-action. Landed in The Emberveins with Frankie, Odette Langford, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
+- Session 2 (20th Uktar, Year 222 PA, same night) - climbed out of The Emberveins with Frankie and Odette Langford (Masamune Kento present but sidelined, still shaken and injured from Session 1); found Layla losing a fight to hold open a tear that answered only to Rifted; went through after a fifth teammate a shadow creature had dragged into The Hexad. Found Nanaya Rei awake and hurt inside; the four solved the Hexad together and broke past a Fused Shadow guarding the exit by outrunning it into daylight. Back in Aenath, full party of five for the first time.
 
 ## Relationships
 

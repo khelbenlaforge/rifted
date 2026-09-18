@@ -2,11 +2,12 @@
 title: Nanaya Rei
 aliases: []
 tags:
-  - pc
+- pc
 campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
+updated: 2026-09-18T22:43:52
 ---
 
 # Nanaya Rei
@@ -38,7 +39,7 @@ Nanaya fights the way he lives: from the edges, and never head-on if he can help
 
 ## Key Events
 
-- Session TBD — first appearance with The JULYs
+- Session 2 (20th Uktar, Year 222 PA) - cold open in Moscow: a courtyard chess drop with cutout Zurov turned up a Sicilian Dragon instead of the usual Caro-Kann (handlers gone dark, proceed with caution) and a flagged dead window across the boulevard, then the Calamity Vision at the moment of transport. Unlike the other four, he never landed with the group; a shadow creature dragged him through a portal directly into The Hexad, hurt but conscious. Found by Kai, Frankie, and Odette Langford after they crossed Layla's failing seam; the four solved the Hexad together and broke past a Fused Shadow guarding the exit by outrunning it into daylight. First appearance with the party.
 
 ## Relationships
 
