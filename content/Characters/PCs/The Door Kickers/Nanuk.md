@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-11T16:34:55
+updated: 2026-09-18T12:39:31
 ---
 
 # Nanuk
@@ -65,7 +65,7 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 | Race | Firbolg |
 | Background | Guide |
 | HP (Max) | 49 |
-| AC | 17 |
+| AC | 19 (serpent-scale armor; corrected Session 29—see DM Notes) |
 | Speed | 30 ft. |
 | Prof Bonus | +3 |
 
@@ -162,7 +162,7 @@ None. (Alarm removed — see Actions table note; Rangers don't have the Ritual C
 
 ### Inventory
 
-**Armor (equipped):** Studded Leather Armor
+**Armor (equipped):** Serpent-scale armor *(gained Session 29—adds full Dexterity modifier to AC)*; Studded Leather Armor (spare)
 **Magic Items (equipped):** [[Ancestor's Quiver]]
 **Gear:** Sprig of Mistletoe · Backpack · Bedroll · Cartographer's Tools · Rope · Tent · Tinderbox · Traveler's Clothes · Waterskin
 
@@ -240,4 +240,10 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - Learned that the Great Spirit, [[Silvanus]], is **not** one of the four but a separate deity in the same condition—inside the barrier, in pain, and still able to speak, which is why he could reach Nanuk when no other god can reach anyone.
 - Can feel the pull toward Silvanus's grove well enough to follow it. It points north, and the party has committed to going.
 - [[Inukshuk]] confirmed he is anchored to this world the same way the party's growth items are—a piece of Nanuk's soul, bonded, unable to be left behind.
+
+## Session 29
+
+- Acquired serpent-scale armor, which lets him add his full Dexterity modifier to AC.
+- In the same exchange, a standing AC calculation error on his sheet was corrected: base AC is 14, not the previously listed 17; 19 with the new armor.
+- Visited [[Torem]] at the Azure Tamers Tower for Stormberg travel intel and the migration hook (herds early and heavier than the season should be, cause unknown).
 

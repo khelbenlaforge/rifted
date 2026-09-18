@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-09T01:49:47
+updated: 2026-09-18T12:40:16
 ---
 
 # Jonathan Jordan
@@ -198,4 +198,12 @@ Jonathan earned 19 gp and spent 35 gp with Tavia, for a net change of -16 gp.
 
 - In [[Corvin's Hold]]'s Hub room, the cell door's bars rose and fell every time JJ came near it — never explained, flagged by Nanuk's instincts as dangerous and left alone.
 - Met [[Corvin Adder]] in person; formally brought into the Claret's first rung, reporting to [[Tavia Orn]].
+
+## Session 29
+
+*(Stayed in the city.)*
+
+- Gave [[Min Ji-ah]] a whistle she'd asked for.
+- Took an old dungeon-find weapon into his own keeping while the party headed north—a "growth item" style relic, previously in [[Augustus Kennedy]]'s inventory; the party discussed it briefly, noted here only as changing hands to JJ.
+- Stayed behind in [[Crystal City]] with [[Augustus Kennedy]].
 

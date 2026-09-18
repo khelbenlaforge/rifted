@@ -1,15 +1,14 @@
 ---
 created: 2026-07-14T19:45:03
-
-title: "Sellas Verenthal"
+title: Sellas Verenthal
 aliases: []
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-07-13
 secret: false
 state: alive
-updated: 2026-08-28T14:52:43
+updated: 2026-09-18T12:35:40
 ---
 > [!infobox]
 > # Sellas Verenthal
@@ -32,3 +31,7 @@ Location:: House Verenthal
 - On the second night, killed a man there using a spell scroll, leaving the body smoking but otherwise untouched.
 - The dead man wore a single ruby ear stud marking him as Claret.
 - One scroll was missing from her person afterward.
+
+## Session 29
+
+- The nightly surveillance [[Ostrin Feld]] had hired [[Regius]] to run on her ended this session, on Ostrin's own initiative, with no explanation given to Regius.

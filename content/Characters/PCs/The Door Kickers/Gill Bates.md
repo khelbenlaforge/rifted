@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-04T14:28:01
+updated: 2026-09-18T12:38:42
 ---
 
 # Gill Bates
@@ -118,6 +118,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | **Word of Radiance** | CON DC 15 | 5 ft radius | 1d6 radiant per adjacent creature | Cntrp | V M | - |
 | **Command** | WIS DC 15 | 60 ft | Obey one-word command for 1 turn | L1 | V | - |
 | **Guiding Bolt** | M/R +7 | 120 ft | 4d6 radiant; next atk vs target has adv. | L1 | V S | - |
+| **Create or Destroy Water** *(always prepared, Sacred Sea)* | - | 30 ft | Create or destroy up to 10 gallons of water | L1 | V S M | - |
 | **Fog Cloud** *(1/LR free)* | - | 120 ft | 20 ft sphere heavily obscured, conc. 1 hr | L1 | V S | 1/LR |
 | **Magic Missile** *(1/LR free)* | - | 120 ft | 3 darts x 1d4+1 force, auto-hit | L1 | V S | 1/LR |
 | **Augury** | - | Self | Divine omen for action within 30 min | L2 | V S M | Ritual |
@@ -184,7 +185,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 - **Armor:** Chain Shirt + Shield (equipped)
 - **Magic Items:** Guild Brass Armlet (guild membership token)
-- **Gear:** 2x Potion of Healing, 2x Potion of Fire Resistance, Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch)
+- **Gear:** 2x Potion of Healing, 2x Potion of Fire Resistance, Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch), smooth grey stone token (flavor item, no mechanics)
 
 ---
 
@@ -257,4 +258,11 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - On 1 Nightal, [[Tidecaller Marin Deepcurrent|Marin]] told him what the four elemental clergies have sworn never to admit—**the Brotherhood of the Four Winds**—that they can hear their gods, that the voices have faded for thirty years, and that their public rivalries are staged. Marin has been funnelling etheric energy to Istishia alone.
 - Marin also named the making of the world: [[Gond]] hammered the four primordials' own divine essences into its fabric, and a fifth deity gave himself the same way to bring life. Marin does not know who the fifth was. Gill can guess.
 - **Sacred Sea track unstuck:** the first level no longer needs a full downtime and can be completed in a single day next visit.
+
+## Session 29
+
+- Completed the first level of the Sacred Sea: one failed attempt (reached for Istishia instead of letting her fade, cost 2 days), one successful attempt (prayer and stillness, nudged by Marin's Sending, cost 1 more day, 3 total).
+- Gains *Create or Destroy Water* as an always-prepared spell.
+- Received a smooth grey stone token from [[Tidecaller Marin Deepcurrent|Marin]] (flavor item, no mechanics).
+- New task from Marin: sense the ocean at the next landfall or an underground spring; [[Corran's Spike]] vs. [[Stormberg]] unresolved.
 

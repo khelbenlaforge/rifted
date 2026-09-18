@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-04T14:58:19
+updated: 2026-09-18T12:35:46
 ---
 
 # Silvanus
@@ -55,4 +55,9 @@ Silvanus is revered by druids, nature wardens, and those who dwell in the deep w
 - Silvanus takes no worshippers.
 - Legend says Silvanus calls a worthy soul to his grove, which is not a physical space.
 - The Ancients of Lava are searching for Silvanus's grove, and he has never welcomed any of them.
+
+## Session 29
+
+- The grove is confirmed to not be a fixed physical location at all: it sits behind interplanar gates that keep shifting open and closed, clustered generally north.
+- Passage may require some form of sacrifice once a gate is actually found open.
 

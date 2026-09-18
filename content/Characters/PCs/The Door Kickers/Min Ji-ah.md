@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-14T15:34:45
+updated: 2026-09-18T12:39:09
 ---
 
 # Min Ji-ah
@@ -216,7 +216,7 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 ### Inventory
 
 **Armor:** Robe (no armor)
-**Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet
+**Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · Piwafwi *(no note yet—flag for item-creation; fire resistance while worn; while the hood is up, disadvantage on Wisdom (Perception), advantage on Dexterity (Stealth) checks to hide; loses its magic after 1 hour of continuous, uninterrupted sunlight exposure, reset by 1 minute spent back in darkness)*
 **Gear:** Backpack · Book · Fine Clothes · Gems ×4 · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Chain of Ten Gold Coins
 ## Session 21
 
@@ -303,4 +303,9 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 - Read [[Nerise]] as focused entirely outward, on the expedition now returning, rather than on Council business.
 - Cast [[Elminster's Spellbook|Elminster's Inquiry]] on the three moons [[Terra]] had spotted during the Feast, and heard a pipe being smoked. [[Elminster]] again. She saw three demigods kneel to [[Mystra]], Mystra kneel back weeping, and the bargain made: [[Solinari]], [[Lunitari]] and [[Nuitari]] gave themselves up willingly to become Aenath's moons and anchor the Weave in her stead.
 - **Renamed this session.** The PC formerly played as "Lea" is retconned to Min Ji-ah, of Korean origin. Backstory structurally unchanged; the player's Korean detail pass is recorded under Earth Background.
+
+## Session 29
+
+- Acquired a Piwafwi—see Magic Items.
+- Used *Elminster's Footnote* and *Elminster's Inquiry* at the [[Ether Scryer's Academy]] archive with [[Wystan]] to learn that [[Silvanus]]'s grove sits behind shifting interplanar gates clustered north, rather than at a fixed location.
 

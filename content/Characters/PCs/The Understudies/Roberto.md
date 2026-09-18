@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-13T13:42:12
+updated: 2026-09-18T13:04:49
 ---
 
 # Roberto
@@ -222,5 +222,10 @@ Playbook:: [[Roberto - Playbook]]
 - 1–10 Nightal (downtime): helped [[Kili]] brew for her new speakeasy in the Guild's common room rather than spending a track of his own on it; met **[[Devran]]** for the first time.
 - 1–10 Nightal (downtime, per his own submitted notes—not on the session recording): his second track deepened his standing with **[[Sister Priya Dawnwell]]** at the Dawnhearth. Learned that Lathander and Helm have never gotten along despite both being neutral good, that Chauntea and Tyr stand as Lathander's allies, and that the Morning Lord's own exuberance can do harm as easily as good—Lathander is woven deep enough into Stormberg life that his priests officiate weddings and other new beginnings.
 - 1–10 Nightal (downtime, per the same notes): his third track cashed that relationship in for an introduction—Priya's own contact, an elf who lived through the Awakening firsthand at the [[Ward Works]]. Cracked ground, the dead underfoot, and a warmth in it the elf attributes to Lathander holding on where he could. Nobody currently living can say what stood here before the cataclysm, only that it did. Roberto is the only one in the room who can connect that account to a detail nobody else has: [[Layla]]'s temple, the one she sent the original four into, was Lathander's too. He's sitting on the obvious follow-up question and hasn't asked it yet.
+
+## Session 08 Update
+
+- 1-9 Nightal, Year 222 PA (downtime): backed [[Fern]]'s second attempt to mend things with Kossuth's temple, lending Guidance and covering the liquid courage—still rolled badly, the door stayed shut.
+- 10 Nightal, Year 222 PA: flew above the rest of the party alongside Fern on the return trip to the Wall breach and spotted **[[Meepo]]** hiding before he spotted them. Present for the negotiation with **[[Calcryx]]** (grown to a young dragon since Samson and Keith's first glimpse) and the deal struck to let her stay.
 
 

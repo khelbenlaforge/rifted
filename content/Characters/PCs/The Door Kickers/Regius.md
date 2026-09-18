@@ -8,7 +8,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-09-04T14:51:27
+updated: 2026-09-18T12:39:40
 ---
 
 # Regius
@@ -145,7 +145,7 @@ Regius fights the way he does everything else — efficiently and without wasted
 
 - **Armor:** Scale Mail
 - **Magic Items:** [[Le Fil]]
-- **Gear:** Backpack, Rope, Tinderbox, Fine Clothes, Caltrops, Crowbar, Waterskin, Perfume
+- **Gear:** Backpack, Rope, Tinderbox, Fine Clothes, Caltrops, Crowbar, Waterskin, Perfume, dented suit of plate armor (needs a blacksmith's repair before use, not yet wearable), sealed Verenthal-crested letter and token (for whoever holds the Verenthal name at Stormberg—do not open, burn if never delivered)
 
 ---
 
@@ -211,4 +211,10 @@ Regius spent the session chasing work, leverage, and answers.
 - Reported it to Ostrin badly, having first tried to establish whether the young lady had tortured animals as a child. Paid 18 gold the first night and 52 the second.
 - **He was seen.** Ostrin knows he knows.
 - Announced his intention to strangle the Lord of the Nine Hells. He is level 5.
+
+## Session 29
+
+- Received a dented suit of plate armor—needs a blacksmith's repair before use.
+- His nightly surveillance job on [[Sellas Verenthal]] for [[Ostrin Feld]] ended this session: paid 100gp total (50 now, 50 on delivery).
+- Given a sealed Verenthal letter and token to deliver to whoever holds that name at [[Stormberg]]—don't open it, burn it if never delivered.
 

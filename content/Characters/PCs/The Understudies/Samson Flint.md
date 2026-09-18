@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-09-13T13:42:09
+updated: 2026-09-18T13:04:59
 ---
 
 # Samson Flint
@@ -173,5 +173,10 @@ Playbook:: [[Samson Flint - Playbook]]
 - 1–10 Nightal (downtime): worked a day with a wall gang, earned one gold and three silver, and got a first-hand look at rigging that wouldn't pass inspection back home.
 - 1–10 Nightal (downtime): spent fifteen gold trying to drink his own crew into talking—an attempt that, even to him, looked like running from what the dream had left behind—and came away with nothing but two very bad rolls and his first level of exhaustion for the week.
 - 1–10 Nightal (downtime): surveyed the Wall's structure with [[Keith Poe]] backing him, found it swaying wrong and hollowed out in places, and found the reason why: a breach twenty feet high and fifteen wide, dug straight through a section the work gangs won't go near. A second level of exhaustion caught him partway through working it out. Went in anyway—sixty to eighty feet of tunnel, a wall of cold air, something with a bone-white wing just past the torchlight—and came back out with Keith, badly frostbitten, the thing itself unidentified.
+
+## Session 08 Update
+
+- 9 Nightal, Year 222 PA: shouldered through the common room door with Keith, still frostbitten from the breach; **[[Rhona Voss]]** healed them both and put the breach up on the Guild's own board.
+- 10 Nightal, Year 222 PA: went back with the full party. Met **[[Meepo]]** and **[[Calcryx]]**, the wyrmling from his own Session 7 glimpse now grown into a young dragon. Called her own reinforcement of the Wall "infinitely much better than concrete" once he saw what her ice was doing to the structure—the first person at the table to say the deal's real upside out loud.
 
 
