@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
-updated: 2026-09-18T22:22:11
+updated: 2026-09-19T18:56:39
 ---
 
 # Kai
@@ -143,9 +143,10 @@ None.
 Race:: Half-Elf (Aquatic Elf variant)
 Subrace:: Aquatic Elf
 Class:: Rogue (Scout)
-Pronouns::
+Pronouns:: he/him
 Affiliation::
 Location::
 Deity::
+Playbook:: [[Kai - Playbook]]
 
 

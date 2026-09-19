@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-18
 secret: false
 state: alive
-updated: 2026-09-18T23:06:06
+updated: 2026-09-19T18:09:47
 created: 2026-09-18T13:43:56
 ---
 
@@ -169,6 +169,10 @@ Ruairí's pact runs on the same trick as his body: nothing about him stays where
 - **Shape-Shifter**—Action to change appearance, voice, height/weight, and size (Medium/Small); advantage on Charisma checks while shape-shifted; reverts only by taking an action.
 - **Feywild Connection** (Feylost)—Friendly Fey are inclined to help him if he's lost or in need within the Feywild.
 - **Alert** (Origin Feat)—Add proficiency bonus to Initiative rolls; can swap his rolled Initiative with a willing ally's immediately after rolling.
+- **Second Helping** (Rounds, Tier 1, passive)—First time each turn he hits a creature with a spell attack, deals an extra 1d6 damage of the same type.
+- **Steady Hands** (Rounds, Tier 1, passive)—Advantage on Constitution saving throws to maintain Concentration.
+- **A Nose For It** (Rounds, Tier 1, passive)—Advantage on Animal Handling checks.
+- **Called In** (Rounds, Tier 1, 1/Short Rest, no action required)—When Ruairí or a creature within 30 ft. of him fails a saving throw, he can force a reroll of it; the new result stands even if worse.
 
 ---
 
@@ -203,5 +207,6 @@ Pronouns:: he/him
 Affiliation::
 Location::
 Deity::
+Playbook:: [[Ruairí - Playbook]]
 
 

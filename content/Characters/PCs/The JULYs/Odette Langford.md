@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
-updated: 2026-09-18T22:22:19
+updated: 2026-09-19T18:31:12
 ---
 
 # Odette Langford
@@ -184,5 +184,6 @@ Pronouns:: she/her
 Affiliation::
 Location::
 Deity:: Selûne
+Playbook:: [[Odette Langford - Playbook]]
 
 
