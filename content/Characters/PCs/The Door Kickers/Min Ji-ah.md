@@ -121,11 +121,11 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 | WIS | 15 | +2 |
 | CHA | 15 | +2 |
 
-**Saving Throws:** STR -1 · DEX +1 · CON +2 · **INT +7** · **WIS +5** · CHA +2
+**Saving Throws:** STR -1 . DEX +1 . CON +2 . **INT +7** . **WIS +5** . CHA +2
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Acrobatics +1 · Animal Handling +2 · **Arcana +10** *(expertise)* · Athletics -1 · Deception +2 · History +4 · Insight +5 (prof) · Intimidation +5 (prof) · Investigation +7 (prof) · Medicine +5 (prof) · Nature +4 · Perception +2 · Performance +5 (prof) · Persuasion +5 (prof) · Religion +7 (prof) · Sleight of Hand +1 · Stealth +1 · Survival +2
+**Skills:** Acrobatics +1 . Animal Handling +2 . **Arcana +10** *(expertise)* . Athletics -1 . Deception +2 . History +4 . Insight +5 . Intimidation +5 . Investigation +7 . Medicine +5 . Nature +4 . Perception +2 . Performance +5 . Persuasion +5 . Religion +7 . Sleight of Hand +1 . Stealth +1 . Survival +2
 **Languages:** Common · Elvish
 **Tools:** None
 
@@ -135,10 +135,10 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |------|------------|-------|-----------------|-----|-------|----------|
-| **Dagger** *(Nick)* | M/R +4 | 5 ft. / 20/60 ft. | 1d4+1 pierce | — | — | — |
-| **Quarterstaff** *(Topple)* | M +2 | 5 ft. | 1d6-1 bludgeon; vers. 1d8-1 | — | — | — |
+| **Dagger** | M/R +4 | 5 ft.; 20/60 ft. | 1d4+1 pierce | — | — | — |
+| **Quarterstaff** | M +2 | 5 ft. | 1d6-1 bludgeon; versatile 1d8-1 | — | — | — |
 | **Unarmed Strike** | M +2 | 5 ft. | 1 bludgeon (min 1); or Grapple/Shove (DC 10) | — | — | — |
-| **Fire Bolt** | R +7 | 120 ft. | 1d10 fire | Cantrip | V/S | — |
+| **Fire Bolt** | R +7 | 120 ft. | 2d10 fire | Cntrp | V, S | — |
 | **Mage Hand** | — | 30 ft. | Spectral hand; carry 10 lb.; 1 min | Cantrip | V/S | — |
 | **Mending** | — | Touch | 1 min cast; mend one break or tear | Cantrip | V/S/M | — |
 | **Prestidigitation** | — | 10 ft. | Minor magical trick; lasts up to 1 hr | Cantrip | V/S | — |
@@ -194,15 +194,20 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 - **Keen Senses** — Choice of proficiency in Insight, Perception, or Survival (base Elf trait, XPHB p.189). Foundry shows Insight proficient and Perception/Survival not — correcting the prior note, which claimed Perception. Insight's proficiency source is ambiguous (Keen Senses vs. Scholar/Skilled, both of which grant unspecified bonus skill picks); the choice itself isn't in doubt, only its exact origin.
 - **Scholar** — Gain proficiency in two additional skills.
 - **Skilled** — Gain proficiency in three additional skills.
-- **Weapon Mastery Assignments** — Dagger (Nick), Quarterstaff (Topple).
+- **Memorize Spell** — after a Short Rest, study a spell in the spellbook to prepare it until the next Long Rest.
+- **Chronurgy Magic (2014 source)** — Chronal Shift and Temporal Awareness are retained from the staged sheet; this subclass has no 2024 source tag.
 
 ---
 
 ### Spellcasting
 
-**Ability:** Intelligence | **Save DC:** 15 | **Attack Bonus:** +7
+**Ability:** INT . **DC:** 15 . **Attack Bonus:** +7 . **Prepared Spells:** 9
 
-**Spell Slots:** 1st ×4 · 2nd ×3 · 3rd ×2
+| Slot Level | Slots |
+|---|---|
+| 1st | 4 |
+| 2nd | 3 |
+| 3rd | 2 |
 
 #### Ritual Spells
 
@@ -215,9 +220,9 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 
 ### Inventory
 
-**Armor:** Robe (no armor)
-**Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · Piwafwi *(no note yet—flag for item-creation; fire resistance while worn; while the hood is up, disadvantage on Wisdom (Perception), advantage on Dexterity (Stealth) checks to hide; loses its magic after 1 hour of continuous, uninterrupted sunlight exposure, reset by 1 minute spent back in darkness)* · Night Caller *(magic whistle—wondrous, uncommon; traded from [[Jonathan Jordan|JJ]], see [[Jonathan Jordan]] for the item's own entry)*
-**Gear:** Backpack · Book · Fine Clothes · Gems ×4 · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Chain of Ten Gold Coins
+- **Armor:** Robe (no armor)
+- **Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · Piwafwi of Fire Resistance (attunement required) · Night Caller · Sending Stones
+- **Gear:** Backpack · Book · Fine Clothes · Foot-Long Chain Made of Ten Gold Coins · Gems ×4 · Healer's Kit · Herbalism Kit · Alchemist's Supplies · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Vial · Scroll of Mage Armour (L1) · Scroll of Mirror Image (L2)
 ## Session 21
 
 Session 21 downtime:

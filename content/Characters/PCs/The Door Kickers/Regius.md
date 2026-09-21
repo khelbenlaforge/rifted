@@ -56,15 +56,13 @@ Regius fights the way he does everything else — efficiently and without wasted
 | Stat | Value |
 |---|---|
 | Level | 5 |
-| Class | Fighter (Echo Knight) |
-| Race | Custom Lineage (Tiefling) |
+| Class | Fighter (Echo Knight; 2024) |
+| Race | Custom Lineage (TCoE; 2014) |
 | Background | Noble |
 | HP (Max) | 48 |
-| AC | 15 (Scale Mail) |
-| Speed | 30 ft |
+| AC | 18 (Plate Armor) |
+| Speed | 30 ft. |
 | Prof Bonus | +3 |
-
----
 
 | Ability | Score | Modifier |
 |---|---|---|
@@ -79,8 +77,8 @@ Regius fights the way he does everything else — efficiently and without wasted
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Athletics +8 . Deception +7 . History +2 . Intimidation +7 . Perception +3 . Persuasion +7 . Survival +3
-**Languages:** Common, French
+**Skills:** Acrobatics +1 . Animal Handling +0 . Arcana -1 . Athletics +8 . Deception +7 . History +2 . Insight +0 . Intimidation +7 . Investigation -1 . Medicine +0 . Nature -1 . Perception +3 . Performance +4 . Persuasion +7 . Religion -1 . Sleight of Hand +1 . Stealth +1 . Survival +3
+**Languages:** Common . French
 **Tools:** One Gaming Set (Noble)
 
 ---
@@ -89,63 +87,63 @@ Regius fights the way he does everything else — efficiently and without wasted
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Glaive** *(Graze)* | M +10 | 10 ft | 1d10+7 slashing; Heavy, Reach, Two-Handed | - | - | - |
-| **Flail** *(Sap)* | M +8 | 5 ft | 1d8+5 bludgeoning | - | - | - |
-| **Javelin** *(Slow)* | M +8 | 5 ft | 1d6+5 piercing | - | - | - |
-| **Javelin** *(Slow)* | R +8 | 30/120 ft | 1d6+5 piercing; Thrown | - | - | - |
-| **Unarmed Strike** | M +8 | 5 ft | 6 bludgeoning | - | - | - |
-| **Action Surge** | - | Self | Take one additional action on your turn; not the Magic action | - | - | 1/SR |
-| **Unleash Incarnation** | - | Echo space | When you take the Attack action, make one extra melee attack from the echo's position | - | - | 3/LR |
+| **Glaive** *(Graze)* | M +10 | 10 ft. | 1d10+7 slash; Heavy, Reach, Two-Handed | — | — | — |
+| **Flail** *(Sap)* | M +8 | 5 ft. | 1d8+5 bludgeon | — | — | — |
+| **Javelin** *(Slow)* | M +8 | 5 ft. | 1d6+5 pierce | — | — | — |
+| **Javelin** *(Slow)* | R +8 | 30/120 ft. | 1d6+5 pierce | — | — | — |
+| **Unarmed Strike** | M +8 | 5 ft. | 6 bludgeon; grapple/shove (DC 16) | — | — | — |
+| **Action Surge** | — | Self | Take one additional action on your turn; not the Magic action | — | — | 1/SR |
+| **Unleash Incarnation** | — | Echo space | When taking Attack, make one extra melee atk from echo's space | — | — | 3/LR |
 | **E's Direction** ([[Le Fil]]) | — | Self | Hold Le Fil and focus; cord tilts toward anyone of Regius's mother's bloodline — sense direction and range (1 mi / 10 mi / farther; non-combat) | — | — | 1/day |
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Second Wind** | - | Self | Regain 1d10+5 HP | - | - | Pool 2/LR |
-| **Pole Strike** | M +8 | 5 ft | 1d4+5 bludgeoning with the butt end of your glaive after the Attack action | - | - | - |
-| **Manifest Echo** | - | 15 ft | Create an echo in an unoccupied space you can see | - | - | - |
-| **Swap with Echo** | - | Echo space | Teleport by swapping places with your echo; costs 15 ft of movement | - | - | - |
+| **Second Wind** | — | Self | Regain 1d10+5 HP | — | — | Pool 2/LR |
+| **Pole Strike** | M +10 | 5 ft. | After Attack with glaive: 1d4+7 bludgeon with butt end | — | — | — |
+| **Manifest Echo** | — | 15 ft. | Create echo in an unoccupied space you can see | — | — | — |
+| **Swap with Echo** | — | Echo space | Teleport, swapping with echo; costs 15 ft. movement | — | — | — |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **Opportunity Attack** | M +8 | Reach varies | One melee attack when a creature leaves your reach; on hit, speed becomes 0 for the turn | - | - | - |
-| **Reactive Strike** | M +8 | 10 ft | One glaive attack against a creature that enters your reach | - | - | - |
-| **Sentinel** | M +8 | 5 ft | Opportunity Attack when a creature within 5 ft Disengages or hits a target other than you | - | - | - |
+| **Opportunity Attack** | M +10 | 10 ft. | One glaive atk when a creature leaves reach; hit: Speed 0 for turn | — | — | — |
+| **Reactive Strike** | M +10 | 10 ft. | One glaive atk when creature enters your reach | — | — | — |
+| **Sentinel** | M +10 | 10 ft. | Opportunity atk when creature in reach Disengages or hits another target | — | — | — |
 | **One Opening** ([[Le Fil]]) | — | Self | When Regius rolls a 1 on an attack roll, reroll and use the new result | — | — | 1/LR |
 
 ---
 
 ### Features
 
-- **Great Weapon Fighting:** When you roll damage with a melee weapon wielded in two hands, treat any 1 or 2 on a damage die as a 3 if the weapon has the Two-Handed or Versatile property.
-- **Second Wind:** You have 2 uses; as a Bonus Action, regain 1d10+5 HP. Regain 1 use on a Short Rest and all uses on a Long Rest.
-- **Action Surge:** On your turn, take one additional action, except the Magic action; 1/SR.
-- **Extra Attack:** You attack twice whenever you take the Attack action on your turn.
-- **Tactical Mind:** When you fail an ability check, you can expend a use of Second Wind to add 1d10 to the check; if the check still fails, the use isn't expended.
-- **Tactical Shift:** Whenever you activate Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
-- **Manifest Echo:** Create an echo within 15 feet as a Bonus Action. The echo has AC 14, 1 HP, immunity to conditions, uses your saving throw bonuses, and vanishes if dismissed or if you are incapacitated.
-- **Echo Mobility:** You can move the echo up to 30 feet, make your attacks from its space, and swap places with it as a Bonus Action.
-- **Echo Opportunity Attack:** When a creature you can see within 5 feet of your echo moves at least 5 feet away from it, you can make an Opportunity Attack as if you were in the echo's space.
-- **Unleash Incarnation:** When you take the Attack action, you can make one additional melee attack from the echo's position; 3/LR.
-- **Sentinel - Guardian:** A creature within 5 feet of you provokes an Opportunity Attack if it Disengages or hits a target other than you.
-- **Sentinel - Halt:** When you hit with an Opportunity Attack, the target's Speed becomes 0 for the rest of the turn.
-- **Polearm Master - Pole Strike:** After attacking with your glaive, you can make a butt-end attack as a Bonus Action that deals 1d4 bludgeoning damage.
-- **Polearm Master - Reactive Strike:** While holding your glaive, you can use your Reaction to make a melee attack against a creature that enters your reach.
-- **Glaive Mastery - Graze:** If your attack roll misses, deal damage equal to the ability modifier used for the attack.
-- **Flail Mastery - Sap:** On a hit, the target has disadvantage on its next attack roll before the start of your next turn.
-- **Javelin Mastery - Slow:** On a hit that deals damage, reduce the target's Speed by 10 feet until the start of your next turn.
-- **[[Le Fil]] (Tier 2, Earth-life carry, attunement required):** When Regius attunes to Le Fil, he designates one weapon he is holding. That weapon gains all of Le Fil's mechanical benefits for as long as he remains attuned and holds it. If the weapon is lost or destroyed, Regius can designate a new weapon during a Short or Long Rest. **+2** to attack and damage rolls with the designated weapon. **Echo's Grip** *(passive)*: When Regius makes an attack from his Manifest Echo's position (Unleash Incarnation), that attack deals an extra 1d6 force damage. **Present Absence** *(passive)*: While Regius's Manifest Echo is active within 30 ft, he gains a +1 bonus to AC. **Split Strike** *(passive)*: When Regius swaps places with his Manifest Echo, his first attack with the designated weapon before the end of his turn deals an extra 1d8 damage.
+- **Great Weapon Fighting** — When rolling damage with a two-handed melee weapon, treat each 1 or 2 on a damage die as a 3.
+- **Second Wind** — 2 uses: regain 1d10+5 HP as a Bonus Action; regain one use on a Short Rest and all uses on a Long Rest.
+- **Action Surge** — On your turn, take one additional action, except the Magic action; 1/SR.
+- **Extra Attack** — Attack twice when taking the Attack action on your turn.
+- **Tactical Mind** — On a failed ability check, expend Second Wind to add 1d10; the use is not expended if the check still fails.
+- **Tactical Shift** — When activating Second Wind as a Bonus Action, move up to half Speed without provoking Opportunity Attacks.
+- **Weapon Mastery** — Glaive *(Graze)*: on a miss, may deal damage equal to the attack ability modifier; can swap assignment on Long Rest.
+- **Weapon Mastery** — Flail *(Sap)*: on hit, target has disadv. on its next atk roll before the start of Regius's next turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Javelin *(Slow)*: on hit and damage, may reduce target's Speed by 10 ft. until the start of Regius's next turn; can swap assignment on Long Rest.
+- **Manifest Echo** — Bonus Action: create an echo within 15 ft. (AC 14, 1 HP, immunity to conditions; uses Regius's saving throw bonuses); it vanishes if dismissed or Regius is incapacitated.
+- **Echo Mobility** — Move the echo up to 30 ft., make attacks from its space, and swap places with it as a Bonus Action.
+- **Echo Opportunity Attack** — When a creature Regius can see within 5 ft. of the echo moves at least 5 ft. away, make an Opportunity Attack as if in the echo's space.
+- **Sentinel** — A creature in reach provokes an Opportunity Attack when it Disengages or attacks another target; an Opportunity Attack hit reduces its Speed to 0 for the turn.
+- **Polearm Master** — After attacking with the glaive, make the butt-end Bonus Action attack; while holding it, make a Reaction attack when a creature enters reach.
+- **[[Le Fil]]** (Tier 2; attunement required) — Designate a held weapon; while held, it gains +2 to atk and damage. Reassign after its loss/destruction during a Short or Long Rest.
+- **Echo's Grip** — An attack from Manifest Echo's position deals +1d6 force.
+- **Present Absence** — While Manifest Echo is active within 30 ft., gain +1 AC.
+- **Split Strike** — After swapping places with Manifest Echo, the first designated-weapon attack before the end of the turn deals +1d8 damage.
 
 ---
 
 ### Inventory
 
-- **Armor:** Scale Mail
-- **Magic Items:** [[Le Fil]]
-- **Gear:** Backpack, Rope, Tinderbox, Fine Clothes, Caltrops, Crowbar, Waterskin, Perfume, dented suit of plate armor (needs a blacksmith's repair before use, not yet wearable), sealed Verenthal-crested letter and token (for whoever holds the Verenthal name at Stormberg—do not open, burn if never delivered)
+- **Armor:** Plate Armor (equipped) . Scale Mail
+- **Magic Items:** [[Le Fil]] (equipped; attuned)
+- **Gear:** Backpack . Caltrops . Claret Obsidian Stone With Garnet Stud . Crowbar . Fine Clothes . Oil ×2 . Perfume . Rations ×10 . Rope . Tinderbox . Torch ×10 . Verenthal Letter . Verenthal Alarm Glyphs (consumable) . Waterskin
 
 ---
 
