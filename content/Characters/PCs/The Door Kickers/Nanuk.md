@@ -57,19 +57,16 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 - Pulled from the western Canadian Arctic by blue-light transport and deposited in A56 ([[Twilight Grove]]) during Session 18
 
 ## Character Sheet
-
 | Stat | Value |
 |---|---|
 | Level | 5 |
-| Class | Ranger (Beastmaster) |
-| Race | Firbolg |
+| Class | Ranger (Beast Master; 2024) |
+| Race | Firbolg (MPMM; 2014) |
 | Background | Guide |
 | HP (Max) | 49 |
-| AC | 19 (serpent-scale armor; corrected Session 29—see DM Notes) |
+| AC | 19 (Serpent Scale Armor) |
 | Speed | 30 ft. |
 | Prof Bonus | +3 |
-
----
 
 | Ability | Score | Modifier |
 |---|---|---|
@@ -80,12 +77,12 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 | WIS | 16 | +3 |
 | CHA | 9 | -1 |
 
-**Saving Throws:** **STR +4** · **DEX +8** · CON +2 · INT +1 · WIS +3 · CHA -1
+**Saving Throws:** **STR +4** . **DEX +8** . CON +2 . INT +1 . WIS +3 . CHA -1
 
 **Resistances & Vulnerabilities:** None.
 
-**Skills:** Acrobatics +5 · Animal Handling +6 (prof) · Arcana +1 · Athletics +1 · Deception -1 · History +1 · Insight +3 · Intimidation -1 · Investigation +1 · Medicine +3 · Nature +4 (prof) · Perception +6 (prof) · Performance -1 · Persuasion -1 · Religion +1 · Sleight of Hand +5 · Stealth +8 (prof) · **Survival +9** *(expertise)*
-**Languages:** Common · Elvish · Giant
+**Skills:** Acrobatics +5 . Animal Handling +6 . Arcana +1 . Athletics +1 . Deception -1 . History +1 . Insight +3 . Intimidation -1 . Investigation +1 . Medicine +3 . Nature +4 . Perception +6 . Performance -1 . Persuasion -1 . Religion +1 . Sleight of Hand +5 . Stealth +8 . **Survival +9** *(expertise)*
+**Languages:** Common . Elvish . Giant
 **Tools:** Cartographer's Tools
 
 ---
@@ -93,38 +90,40 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 ### Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
+|---|---|---|---|---|---|---|
 | **Unarmed Strike** | M +4 | 5 ft. | 2 bludgeon; grapple/shove (DC 12) | — | — | — |
 | **Scimitar** *(Nick)* | M +8 | 5 ft. | 1d6+5 slash | — | — | — |
 | **Shortsword** | M +8 | 5 ft. | 1d6+5 pierce | — | — | — |
-| **Longbow** *(Slow)* | R +10 | 150/600 ft. | 1d8+5 pierce; target -10 ft. speed | — | — | — |
+| **Longbow** *(Slow)* | R +10 | 150/600 ft. | 1d8+5 pierce; on hit, target -10 ft. spd | — | — | — |
 | **Shortbow** | R +10 | 80/320 ft. | 1d6+5 pierce | — | — | — |
+| **Special Arrow** ([[Ancestor's Quiver]]) | R +10 | Longbow range | Tracking: reveal target through obstacles 1 hr; Silence: CON 14 or Silenced to end of next turn; Cold: +1d6 cold, -10 ft. spd to end of next turn | — | — | Pool 3/LR |
 | **Message** | — | 120 ft. | Whisper to target; target may reply; 1 rnd | Cantrip | S, M (copper wire) | — |
 | **Thorn Whip** | M +6 | 30 ft. | 2d6 pierce; pull Large or smaller 10 ft. | Cantrip | V, S, M (thorn stem) | — |
-| **Detect Magic** | — | Self (30-ft radius) | Sense magic; identify school as Magic action; 10 min | 1st | V, S | 1/SR |
+| **Detect Magic** | — | Self (30-ft radius) | Sense magic and school; 10 min | 1st | V, S | 1/SR |
 | **Disguise Self** | — | Self | Illusory appearance change; 1 hr | 1st | V, S | 1/SR |
-| **Entangle** | STR 14 | 90 ft. | Restrained in 20-ft square; repeat STR save; 1 min | 1st | V, S | Conc. |
-| **Find Traps** | — | 120 ft. | Sense presence (not location) of any trap in line of sight; learn its general danger | 2nd | V, S | — |
-| **Gust of Wind** | STR 14 | Self (60-ft line) | Fail: pushed 15 ft away along the line; success: spend 2 ft movement per 1 ft approaching Nanuk; disperses gas, may extinguish small flames | 2nd | V, S, M | Conc. |
-| **Spike Growth** | — | 150 ft. | 20-ft radius becomes difficult terrain; 2d4 pierce per 5 ft moved through; camouflaged (Search + WIS Perception/Survival vs DC 14 to spot before entering) | 2nd | V, S, M | Conc. |
-
-*Alarm and Snare were on the previous sheet but Foundry shows both as not actually prepared (prepared:0) — removed rather than kept as unavailable filler.*
+| **Entangle** | STR 14 | 90 ft. | 20-ft square: fail Restrained; action STR check ends; 1 min | 1st | V, S | Conc. |
+| **Find Traps** | — | 120 ft. | Sense trap presence in line of sight; learn general danger | 2nd | V, S | — |
+| **Gust of Wind** | STR 14 | Self (60-ft line) | Fail: pushed 15 ft.; success: 2 ft. move per 1 ft. approached | 2nd | V, S, M | Conc. |
+| **Spike Growth** | — | 150 ft. | 20-ft radius difficult terrain; 2d4 pierce per 5 ft. moved | 2nd | V, S, M | Conc. |
+| **Scroll of Entangle** | STR 13 | 90 ft. | As *Entangle*; scroll crumbles after casting | 1st | V, S | 1 use |
+| **Scroll of Protection from Poison** | — | Touch | Neutralize one poison; adv. saves/resistance to poison 1 hr; scroll crumbles | 2nd | V, S | 1 use |
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
+|---|---|---|---|---|---|---|
 | **Hidden Step** | — | Self | Invisible until start of next turn or until atk/cast | — | — | 1/SR |
-| **Healing Word** | — | 60 ft. | 1d4+3 HP | 1st | V | 1/LR |
-| **Hail of Thorns** | DEX 14 | Self | After ranged hit: 1d10 pierce in 5 ft.; save half | 1st | V | — |
+| **Healing Word** | — | 60 ft. | Regain 1d4+3 HP | 1st | V | 1/LR |
+| **Hail of Thorns** | DEX 14 | Self | After ranged hit: creatures within 5 ft. take 1d10 pierce; save half | 1st | V | — |
 | **Hunter's Mark** | — | 90 ft. | Mark target; +1d6 force per hit; move on drop; 1 hr | 1st | V | Conc. · 3/LR |
-| **Mark the Prey** ([[Ancestor's Quiver|Quiver]]) | — | 90 ft. | Cast *Hunter's Mark* without slot or Conc. | 1st | V | 1/LR |
+| **Mark the Prey** ([[Ancestor's Quiver]]) | — | 90 ft. | Cast *Hunter's Mark* without slot or Conc. | 1st | V | 1/LR |
+| **Basic Poison** | — | Weapon / 3 ammo | Coat weapon or 3 ammo; next slash/pierce hit +1d4 poison; lasts 1 min or until dealt | — | — | 1 use |
 
 ### Reactions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
-|------|------------|-------|-----------------|-----|-------|----------|
-| **Absorb Elements** | — | Self | Resist trigger dmg; next melee hit +1d6 | 1st | S | — |
+|---|---|---|---|---|---|---|
+| **Absorb Elements** | — | Self | Resist trigger dmg; next melee hit +1d6 same type | 1st | S | — |
 
 ---
 
@@ -133,18 +132,15 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 - **Extra Attack** — Attack twice instead of once when taking the Attack action on your turn.
 - **Fighting Style: Archery** — +2 bonus to ranged weapon attack rolls.
 - **Weapon Mastery** — Scimitar *(Nick)*: make the Light-property extra attack as part of the Attack action instead of as a Bonus Action, once per turn; can swap assignment on Long Rest.
-- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, may reduce target's Speed by 10 feet until the start of Nanuk's next turn; can swap assignment on Long Rest.
+- **Weapon Mastery** — Longbow *(Slow)*: on hit and damage, may reduce target's Speed by 10 ft. until the start of Nanuk's next turn; can swap assignment on Long Rest.
 - **Sharpshooter** — Ignore half and three-quarters cover; attacking at long range does not impose disadvantage.
-- **Primal Companion** — Beastmaster feature (XPHB, Lvl 3): summons one of three stat blocks (Beast of the Land/Sea/Sky), reselectable each Long Rest. Currently using **Beast of the Land**, reflavored as his polar bear companion (*irinaliutiit*). On Foundry, all three forms are wired for AC/HP/attack/damage/Primal Bond to auto-scale live off Nanuk's own stats via a Summon Activity — confirmed working for all three forms (Land/Sea/Sky). Shared-initiative house rule (applies to all three forms): see [[Beast Master - Primal Companion Initiative]]. Full stat blocks: [[Beast of the Land, Sea, and Sky]].
-- **Favored Enemy** — *Hunter's Mark* is always prepared and can be cast without a spell slot 3x/LR.
+- **Primal Companion** — Beast Master feature (XPHB, level 3): summon Beast of the Land, Sea, or Sky, reselectable each Long Rest. Currently Beast of the Land, reflavored as his polar-bear companion (*irinaliutiit*). Shared-initiative house rule: [[Beast Master - Primal Companion Initiative]]. Full stat blocks: [[Beast of the Land, Sea, and Sky]].
+- **Favored Enemy** — *Hunter's Mark* is always prepared and can be cast without a spell slot 3×/LR.
 - **Deft Explorer** — Expertise in Survival; gained one additional language.
 - **Firbolg Magic** — Cast *Detect Magic* and *Disguise Self* 1/SR without a spell slot.
-- **Hidden Step** — Turn invisible as a Bonus Action 1/SR. See Bonus Actions table.
-- **Alert** — +5 initiative; cannot be surprised.
-- **[[Ancestor's Quiver]]** — **Inexhaustible Arrows:** The quiver always contains mundane arrows; Nanuk does not track ammo.
-- **Coordinated Strike** — Advantage on ranged attack rolls against a creature currently in melee with Nanuk's beast companion.
-- **Special Arrows** — The quiver generates 3 charges of special arrows per Long Rest. Nanuk chooses the type as he draws: *Tracking:* The target is revealed through walls and obstacles for 1 hour. *Silence:* The target is Silenced until the end of its next turn (CON save, DC = 8 + proficiency bonus + WIS modifier). *Cold:* The arrow deals an extra 1d6 cold damage and the target's speed is reduced by 10 ft until the end of its next turn.
-- **Bear Watches** *(passive)* — Nanuk cannot be surprised while the quiver is worn.
+- **[[Ancestor's Quiver]]** (Tier 2; attunement required) — Inexhaustible Arrows: always contains mundane arrows; Nanuk does not track ammunition.
+- **Coordinated Strike** — Advantage on ranged atk rolls against a creature currently in melee with Nanuk's beast companion.
+- **The Bear Watches** — Nanuk cannot be surprised while wearing the quiver.
 
 ---
 
@@ -152,19 +148,19 @@ He arrived in Aenath the way the others did: pulled out of ordinary life mid-tas
 
 **Ability:** Wisdom | **Save DC:** 14 | **Attack Bonus:** +6
 
-**Spell Slots:** 1st x4 · 2nd x2
+**Spell Slots:** 1st ×4 . 2nd ×2
 
 #### Ritual Spells
 
-None. (Alarm removed — see Actions table note; Rangers don't have the Ritual Casting class feature regardless, so it couldn't have been cast as a ritual even when listed.)
+None.
 
 ---
 
 ### Inventory
 
-**Armor (equipped):** Serpent-scale armor *(gained Session 29—adds full Dexterity modifier to AC)*; Studded Leather Armor (spare)
-**Magic Items (equipped):** [[Ancestor's Quiver]]
-**Gear:** Sprig of Mistletoe · Backpack · Bedroll · Cartographer's Tools · Rope · Tent · Tinderbox · Traveler's Clothes · Waterskin
+**Armor:** Serpent Scale Armor (equipped) . Studded Leather Armor
+**Magic Items:** [[Ancestor's Quiver]] (equipped; attuned)
+**Gear:** Sprig of Mistletoe . Backpack . Bedroll ×2 . Cartographer's Tools . Quiver . Rope . Rations ×10 . Tent . Tinderbox . Torch ×10 . Traveler's Clothes . Waterskin . Oil ×2
 
 ---
 Race:: Firbolg

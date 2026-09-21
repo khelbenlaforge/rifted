@@ -76,7 +76,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | Background | Fisher |
 | HP (Max) | 49 |
 | AC | 17 (Chain Shirt + Shield) |
-| Speed | 30 ft |
+| Speed | 30 ft. |
 | Prof Bonus | +3 |
 
 ---
@@ -104,18 +104,19 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
-| **[[Fair Catch]]** *(Sap)* | M/R +4 | 20/60 | 1d6+1 pierce (versatile 1d8+1) | - | - | - |
-| **Mace** *(Sap)* | M +2 | 5 ft | 1d6-1 bludgeon | - | - | - |
+| **[[Fair Catch]]** | M/R +4 | 5 ft.; 20/60 ft. | 1d6+1 pierce (versatile 1d8+1) | — | — | — |
+| **Mace** | M +2 | 5 ft. | 1d6-1 bludgeon | — | — | — |
 | **Net** | R +2 | 5/15 ft | Large or smaller restrained; STR DC 10 to escape | - | - | - |
 | **Unarmed Strike** | M +2 | 5 ft | 1 bludgeon (min 1) | - | - | - |
+| **Holy Water** | R +2 | 20/60 ft. | Fiend/Undead takes 2d6 radiant | — | — | 3 uses |
 | **Friends** | - | 10 ft | Target charmed 1 min (conc.); hostile after | Cntrp | S M | Conc. |
 | **Guidance** | - | Touch | Ally adds 1d4 to one ability check within 1 min | Cntrp | V S | Conc. |
-| **Lightning Lure** | STR DC 15 | 15 ft | Pulled 10 ft; 1d8 lightning if pulled into range | Cntrp | V | - |
-| **Mind Sliver** | INT DC 15 | 60 ft | 1d6 psychic + -1d4 on next save before your next turn | Cntrp | V | - |
+| **Lightning Lure** | STR 15 | 15 ft. | Pull 10 ft.; 2d8 lightning if within 5 ft. | Cntrp | V | — |
+| **Mind Sliver** | INT 15 | 60 ft. | 2d6 psychic; -1d4 on next save before next turn | Cntrp | V | — |
 | **Thaumaturgy** | - | 30 ft | Minor magical effect for 1 min | Cntrp | V | - |
-| **Toll the Dead** | WIS DC 15 | 60 ft | 1d8 necrotic (1d12 if target missing HP) | Cntrp | V S | - |
+| **Toll the Dead** | WIS 15 | 60 ft. | 2d8 necrotic (2d12 if target missing HP) | Cntrp | V, S | — |
 | **True Strike** | - | Melee | 1d6+4 force (WIS mod; uses weapon) | Cntrp | S M | - |
-| **Word of Radiance** | CON DC 15 | 5 ft radius | 1d6 radiant per adjacent creature | Cntrp | V M | - |
+| **Word of Radiance** | CON 15 | 5 ft. | 2d6 radiant per chosen nearby creature | Cntrp | V, M | — |
 | **Command** | WIS DC 15 | 60 ft | Obey one-word command for 1 turn | L1 | V | - |
 | **Guiding Bolt** | M/R +7 | 120 ft | 4d6 radiant; next atk vs target has adv. | L1 | V S | - |
 | **Create or Destroy Water** *(always prepared, Sacred Sea)* | - | 30 ft | Create or destroy up to 10 gallons of water | L1 | V S M | - |
@@ -127,9 +128,9 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | **Magic Circle** | - | 10 ft cylinder | Barrier vs extraplanar creatures for 1 hr | L3 | V S M | - |
 | **Revivify** | - | Touch | Revive creature dead 1 min or less with 1 HP | L3 | V S M | - |
 | **Water Walk** | - | 30 ft | Up to 10 creatures walk on liquid for 1 hr | L3 | V S M | Ritual |
-| **Turn Undead** *(CD)* | WIS DC 15 | 30 ft | Undead flee 1 min; turned undead take 1 radiant (min 1) | - | V S | 2/SR |
-| **Divine Spark** *(CD)* | CON DC 15 | 30 ft | Heal 2d8+4 OR deal 2d8+4 radiant/necrotic (save for half) | - | V S | 2/SR |
-| **Arcane Abjuration** *(CD)* | WIS DC 15 | 30 ft | Aberr/Celest/Elem/Fey/Fiend/Undead CR 1/2 or less banished 1 min; CR 1/2-3 turned | - | V S | 2/SR |
+| **Turn Undead** *(CD)* | WIS 15 | 30 ft. | Undead flee 1 min; Sear Undead deals 1 radiant | — | V, S | 2/SR |
+| **Divine Spark** *(CD)* | CON 15 | 30 ft. | Heal 2d8+4, or 2d8+4 radiant/necrotic; ½ on save | — | V, S | 2/SR |
+| **Arcane Abjuration** *(CD)* | WIS 15 | 30 ft. | Turn/banish aberr., celestial, elem., fey, fiend, undead | — | V, S | 2/SR |
 | **Adon's Counsel** ([[Fair Catch]]) | — | Self | Ask Fair Catch a question — Adon answers (non-combat; will comment on local water quality first) | — | — | 1/day |
 
 *Augury, Magic Circle, and Revivify require costly material components. True Strike uses a weapon you are proficient with.*
@@ -143,6 +144,8 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 | **Shield of Faith** | - | 60 ft | +2 AC to one creature, conc. 10 min | L1 | V S M | Conc. |
 | **Magic Weapon** | - | Touch | Weapon becomes +1 magical for 1 hr | L2 | V S | - |
 | **Mass Healing Word** | - | 60 ft | Up to 6 creatures each heal 2d4+4 | L3 | V | - |
+| **Potion of Healing** | — | Self | Regain 2d4+2 HP; admin. to another = Action | — | — | 2 uses |
+| **Potion of Fire Resistance** | — | Self | Fire resistance for 1 hr; admin. to another = Action | — | — | 2 uses |
 
 ### Reactions
 
@@ -159,14 +162,17 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 - **Sear Undead:** when you Turn Undead, turned undead take CHA mod (min 1) radiant damage
 - **Magic Initiate: Wizard (feat):** Fog Cloud + Magic Missile each 1/LR free (no slot required); cantrips always available
 - **Tough (feat):** +2 HP per level (already factored into HP 49)
-- **Weapon Mastery (2 assignments -- swap on LR):** [[Fair Catch]] *(Sap)* and Mace *(Sap)*: on hit, target has disadvantage on its next attack roll until the start of your next turn
-- **[[Fair Catch]] (Tier 2, prequel item, attunement required):** **Returns:** When thrown, the spear returns to Gill's hand at the start of his next turn. **Reel In:** Once per turn, when the spear hits a creature, Gill can pull them up to 10 ft toward him. The creature makes a Strength saving throw (DC = 8 + proficiency bonus + Wisdom modifier). On a failure, they are pulled. On a success, they hold. **Sune's Grace** *(passive)*: A creature that fails its Reel In save is briefly transfixed by something inexplicably beautiful about the moment and has disadvantage on its next attack roll against Gill before the start of his next turn. **Barbed:** A creature that fails its Reel In save is also Grappled (escape DC = 8 + proficiency + WIS mod) until the start of Gill's next turn. The grapple ends if the spear leaves Gill's hand.
+- **Resourceful (Human)** — gain Heroic Inspiration after a Long Rest.
+- **Skillful (Human)** — proficiency in one skill (represented in the Skills line).
+- **Versatile (Human)** — gain an Origin feat; Gill chose Tough.
+- **Arcana Domain** — *Magic Weapon* and *Nystul's Magic Aura* are always prepared.
+- **[[Fair Catch]] (Tier 2; attunement required):** +2 spear. **Returns:** after being thrown, it returns to Gill's hand at the start of his next turn. **Reel In:** once/turn on hit, target makes STR 15; fail: pull up to 10 ft. and Grappled (escape DC 15) until start of Gill's next turn, ending if the spear leaves his hand. **Sune's Grace:** a creature failing Reel In has disadv. on its next atk vs. Gill before then.
 
 ---
 
 ### Spellcasting
 
-**Ability:** WIS . **DC:** 15 . **Attack Bonus:** +7
+**Ability:** WIS . **DC:** 15 . **Attack Bonus:** +7 . **Prepared Spells:** 9
 
 | Slot Level | Slots |
 |---|---|
@@ -184,8 +190,8 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 ### Inventory
 
 - **Armor:** Chain Shirt + Shield (equipped)
-- **Magic Items:** Guild Brass Armlet · Spell Refuelling Ring *(no note yet—flag for item-creation; 1/day as a bonus action, restore one expended spell slot of 3rd level or lower)* (guild membership token)
-- **Gear:** 2x Potion of Healing, 2x Potion of Fire Resistance, Standard Fisher gear (fishing tackle, lamp, rations, tinderbox, rope, pouch), smooth grey stone token (flavor item, no mechanics)
+- **Magic Items:** Guild Brass Armlet · Spell-Refueling Ring (attunement required) · Stone From Temple Pool
+- **Gear:** Backpack · Blanket · Candle (Magic) · Candle · Fishing Tackle · Favorite Fishing Lure · Holy Symbol · Lamp · Rations ×7 · Robe · Tinderbox · Traveler's Clothes · Pouch
 
 ---
 
