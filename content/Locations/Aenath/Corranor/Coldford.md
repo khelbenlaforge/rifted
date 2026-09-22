@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-09-19T02:10:48
+updated: 2026-09-22T04:20:06
 secret: false
 ---
 
@@ -42,7 +42,9 @@ East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azur
 
 ## Current Events
 
-On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark. Right now, that baseline holds, but [[Petra Hale]] has quietly started tracking a string of "insurance" shakedowns hitting smaller Manifest House stalls: nothing citywide yet, no names, just a pattern on a corkboard only she looks at. The JULYs' first visit to Coldford also falls this morning, the 20th of Uktar, Year 222 PA, arriving overland from the south.
+On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark. Right now, that baseline holds, but [[Petra Hale]] has quietly started tracking a string of "insurance" shakedowns hitting smaller Manifest House stalls: nothing citywide yet, no names, just a pattern on a corkboard only she looks at.
+
+The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 PA (Session 3, arriving overland by carriage from the south after departing on the Feast of the Moon). Only three of the six-strong party made the trip, Kai, Odette Langford, and the newly arrived Ruairí, and the Landgate barely registered them: the crest on their own Adamantine Guild bracers was enough to wave them through without a headcount or a name taken, no scene with Tamsin Vell this time.
 
 ## Scene Features
 

@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T00:00:00
-updated: 2026-08-27T17:53:14
+updated: 2026-09-22T04:42:42
 ---
 
 # Ruan Myrt Zaltana
@@ -44,6 +44,8 @@ Her Circle of Spores magic runs on the same instincts her old career did — pat
 ## Key Events
 
 **Session 1 — Feast of the Moon, Year 222 PA:** The dream came on the fifth anniversary of her mother's death, same as it always threatened to: a flower field, voices somewhere past a treeline she didn't recognize. This time there was a doorway too, burning without heat, and she walked toward it instead of waiting to see whether it would come to her first. That choice was the door four other people fell through the same instant, from four other lives entirely. While the ones who took to the air scattered upward, Ruan kept to the ground, tracing a mycelial network through the chaos to keep whatever forest and animals she could find clear of the falling rock. On the other side she stood seven feet tall with no mirror to check it against, so she worked out her own new shape the way everyone else was looking up at her. Her wedding ring had become a breastplate: [[What the Ring Grew Around]], the one piece of home that made the trip intact. Invisible once, mid-fight, she found her feet again in time to light a dead crystal sconce with Starry Wisp.
+
+**Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Ruan spent the long rest doing what she'd done since the vision: tending whoever needed it without being asked. Inside [[The Hexad]]'s garden of flowers, the party found a room built on sacrifice that let them get creative about what got offered, blood or otherwise. By the time they found the sixth arrival unconscious in the Chain room, she'd already spent the whole crawl proving that generosity and strangeness aren't opposites.
 
 ## Relationships
 

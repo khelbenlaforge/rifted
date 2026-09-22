@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-08-27T17:44:35
+updated: 2026-09-22T04:42:45
 ---
 
 # Mike Kanbei
@@ -44,6 +44,8 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 ## Key Events
 
 **Session 1 — Feast of the Moon, Year 222 PA:** His mother's call caught him for once, three words in when the light off his monitor started spilling wrong. What followed was a vision shared with four strangers: a floating, edge-terminated world, city-sized rock falling from a sky on fire, an ocean gone from churning to boiling, a spike of light wound in a helix of spiraling stone. He tried to pull a panicking child clear of a falling boulder. He missed the grab. The rock took them both. He came awake a half-elf martial artist inside [[The Drowned Dawn]], cursing in Japanese, demanding to know what had happened to a kid he couldn't have named sober. His CCR record, [[針跡]], was simply there with him, no explanation needed or offered. Step of the Wind opened a path through the temple's shadow creatures; he called the others through by ear rather than sight.
+
+**Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Mike listened to Layla's honesty at the seam the way he used to listen to a client's impossible ask, filing it away rather than arguing with it. Inside [[The Hexad]] he moved the way he always does, cutting straight to what mattered and closing ground fast enough that the others learned to follow the sound of him before the sight. By the time the party doubled back and found a stranger wreathed in fire where nobody had been standing before, he didn't ask questions either, just fell in line to run.
 
 ## Relationships
 

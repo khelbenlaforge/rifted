@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-09-19T01:42:58
+updated: 2026-09-22T04:29:24
 ---
 
 # Petra Hale
@@ -51,6 +51,18 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 ## Role in the Story
 
 First real point of contact for The JULYs' Adamantine Guild standing in [[Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation. Same function as [[Rhona Voss]]'s Guild evaluation of the Understudies at the Stormberg Wallwatch, played in Petra's own register: not retiring-and-nostalgic like Rhona, but stretched thin and unusually careful right now specifically because of the shakedown pattern she's already tracking.
+
+## Relationships
+
+- **[[Kai]], [[Odette Langford]], [[Ruairí]]**—registered them at the Tallhouse (Session 3), tested them in her pocket-dimension yard, and backed the party's Guild standing afterward regardless of how the fight actually went.
+- **[[Rhona Voss]]**—learned the same trade at the Stormberg Wallwatch, never met on-screen; Petra's own Background names the Wallwatch as where she picked it up.
+
+## Session 3 Update (The JULYs)
+
+- Registered [[Kai]], [[Odette Langford]], and [[Ruairí]]'s already-worn Adamantine Guild bracers at the Tallhouse.
+- Gave the party their first in-fiction lore rundown: 222 years since the Awakening, Corranor's intercalary calendar, the continent's transience, and next landfall roughly two weeks out—10–20 days, not fixed.
+- Brought them into her personal pocket dimension to rest.
+- Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and backed the party's Guild standing afterward regardless of outcome.
 
 ## D&D 5e Stat Block
 

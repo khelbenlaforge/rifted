@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-19T01:47:04
+updated: 2026-09-22T04:26:55
 ---
 
 # Adamantine Guild
@@ -43,6 +43,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the Stormwall's own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
 - **The Tallhouse, [[Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
+- **[[Westward]]**—branch leader not yet named; Layla directed The AUGs (Session 2) to find them.
 
 ## Operations
 
@@ -51,6 +52,8 @@ The guild was once well-staffed, but [[Shadow Creatures]] attacks and frontier d
 ## Rank System
 
 Four tiers, mirroring 5e's own tiers of play: **Brass → Iron → Mithril → Adamantite.** Brass is the bottom rung — bracers stamped and sealed as the real thing, but the newest and least-trusted rank a member can hold. Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch recognised brass bracers on sight as legitimate rank, and [[Rhona Voss]] — who runs that branch — confirmed them as genuine while noting the rank had not been issued by her own branch.
+
+The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves; confirmed at [[Coldford]]'s city gate (Session 3, The JULYs), where it was recognised on sight and waved the party through without incident.
 
 ## Current Status
 
