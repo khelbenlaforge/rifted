@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-09-13T13:42:20
+updated: 2026-09-22T03:00:26
 created: 2026-08-26T17:33:32
 ---
 
@@ -44,6 +44,8 @@ Risma brings the same exacting scrutiny to the wild things around her now that s
 ## Key Events
 
 **Session 1 — Feast of the Moon, Year 222 PA:** One hand was already on her front door, an ordinary Monday barely started, when the MRT doors ahead of her peeled open onto blue light instead of a train car. What followed was a vision she shared with four strangers. Pure panic sent her climbing higher than the rest of her flock dared, and from that height she was the first to notice something the others hadn't: the ocean below wasn't storming, it was boiling, and the land underneath had no curve to its horizon. Just an edge. She landed an owlin inside [[The Drowned Dawn]], her head turning a full circle before she even registered the talons where her feet used to be. Her spectacles, [[Brought Forward]], only showed up when she reached to actually analyze something — not before, not as decoration. Mid-fight she fled upward and put a crystal sconce back to work with Starry Wisp.
+
+**Session 2—Feast of the Moon into 1 Nightal, Year 222 PA (player absent, DM-voiced):** Risma's player wasn't at the table this session. She surfaces only once, at the very end, catching her breath in the sunlight outside [[The Hexad]] and noticing the bag on the unconscious sixth arrival before anyone else did.
 
 ## Relationships
 

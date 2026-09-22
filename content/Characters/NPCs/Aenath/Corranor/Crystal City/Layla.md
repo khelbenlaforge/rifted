@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-18T22:35:00
+updated: 2026-09-22T04:29:19
 ---
 
 # Layla
@@ -55,6 +55,7 @@ Whether she can be reached — whether the genuine warmth she carries toward [[P
 - Valued client of [[The Claret]] — sourcing components for unknown purposes
 - Named alongside [[Asmodeus]] in the Marrow Ledger (Session 25) — connection unconfirmed
 - Possibly responsible, directly or indirectly, for the event that brought the party to [[Aenath]] — unconfirmed
+- [[Ruairí]] (Session 3, The JULYs), found him alone after a Feywild-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
 
 ---
 Race:: Tiefling
@@ -88,6 +89,12 @@ Deity:: Unknown
 - Off-camera during Session 1, discovered that a fifth Rifted, [[Nanaya Rei]], had been taken by a Shadow creature through a portal before he could land with the other four.
 - Found on her knees at a tear in the world, visibly desperate and losing her fight to hold it open; the seam answered only to Rifted, not to her.
 - The party crossed through the seam to reach Nanaya inside [[The Hexad]]; the seam closed or failed after they crossed.
+
+## Session 3 Update (The JULYs)
+
+- Found [[Ruairí]] alone near the party after his Calamity Vision, appearing in his own natural changeling form rather than the Feywild-snag cat form scripted in prep.
+- Gave him six brass [[Adamantine Guild]] bracers in a bag, with instructions to bring them to "the rest."
+- Vanished again before Ruairí could ask her anything further.
 
 ## Session 1 Update (The Understudies)
 
@@ -125,5 +132,14 @@ Deity:: Unknown
 - Feast of the Moon, Year 222 PA: appeared atop the tower at [[The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs (Mike Kanbei, Ruan Myrt Zaltana, Rachel Tan, Gregory Yang, Rismawati Bayu).
 - Corrected her own count aloud on seeing them: "It was supposed to be six." Did not give her name to this party.
 - Ran through her usual script: pointed up the tower, promised transport at the top, wouldn't say why they'd been pulled here, told them to run if they saw shadows. She was gone before the first one showed.
+
+## Session 2 Update (The AUGs)
+
+- Gave this party her name for the first time after refusing it in Session 1.
+- Said her task is to "bring souls back" for an employer who wants more of them, stressing "back" over "take."
+- Said she is not a killer.
+- Traced the sixth arrival as far as a portal's edge.
+- Named [[Westward]], a day's ride away, as the party's next destination and identified the unnamed leader of its [[Adamantine Guild]] branch as a contact.
+- Arranged for the party to go through the seam.
 
 

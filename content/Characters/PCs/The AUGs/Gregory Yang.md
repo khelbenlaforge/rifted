@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-09-12T02:33:48
+updated: 2026-09-22T03:00:24
 ---
 
 # Gregory Yang
@@ -44,6 +44,8 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 ## Key Events
 
 **Session 1 — Feast of the Moon, Year 222 PA:** He was mid-honest-answer to his girlfriend, telling her for once what OCS actually feels like, when he opened his own front door onto a wall of numbers instead of the void deck. The numbers turned to blue light. What came next was a shared vision of a cataclysm, and even mid-collapse some part of him kept trying to do the math on it: gravity against a floating landmass, lava burning on stone that shouldn't hold it. His assistant didn't survive the boulder that came for them both. He woke human, unhurt, inside [[The Drowned Dawn]], and cast Shield on himself before he'd even worked out where "here" was. His pendant, [[Held, Not Looked At]], had made the trip with him. During the fight that followed he built his eldritch cannon and lit one of the dead sconces with a well-placed Fire Bolt.
+
+**Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Gregory's read on Layla's honesty was the same instinct that gets him through every crisis: catalog it, file it, keep moving. His cannon did most of his talking in the Hexad's rooms that wanted force instead of conversation, a lucky shot cracked the first guardian statue clean through, and another put down what should have been a much longer fight in the tall grass. He came out the other side of the crawl richer by one costly purchase and poorer by the HP it cost him, same trade everyone else in that shop made. Finding the sixth arrival didn't get an easy joke out of him this time.
 
 ## Relationships
 

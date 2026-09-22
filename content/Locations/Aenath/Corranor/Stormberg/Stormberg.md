@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-09T01:10:49
+updated: 2026-09-22T00:18:11
 ---
 
 # Stormberg

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
-updated: 2026-09-19T18:31:12
+updated: 2026-09-22T00:23:16
 ---
 
 # Odette Langford
@@ -47,6 +47,7 @@ Odette's faith belongs to the hush between sunset and true dark, the last stretc
 
 - Session 1 (20th Uktar, Year 222 PA) - cold open in Mayfair; ducked into the coat check before the Ambassador's table, took a snack off attendant Rosa's table, then was teleported. Landed in The Emberveins with Kai, Frankie, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
 - Session 2 (20th Uktar, Year 222 PA, same night) - climbed out of The Emberveins with Kai and Frankie (Masamune Kento present but sidelined, still shaken and injured from Session 1); found Layla losing a fight to hold open a tear that answered only to Rifted; went through after a fifth teammate a shadow creature had dragged into The Hexad. Found Nanaya Rei awake and hurt inside; the four solved the Hexad together and broke past a Fused Shadow guarding the exit by outrunning it into daylight. Back in Aenath, full party of five for the first time.
+- Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - met the new sixth party member, Ruairí, freshly arrived and carrying six Adamantine Guild bracers from Layla; only Kai, Odette Langford, and Ruairí present this session (Masamune Kento, Nanaya Rei, and Frankie's player absent). Traveled by hired carriage to Coldford, the party's first real look at the city; waved through the gate on the crest stamped into their own bracers; registered at the Tallhouse with branch leader Petra Hale, who laid out the Awakening's 222-year history, Corranor's calendar, and the continent's landfall cycle (roughly two weeks out). Rested in Petra's personal pocket dimension, then was tested alongside the others in her Guild-evaluation sparring match; she backed the party's standing afterward regardless of how the fight went.
 
 ## Relationships
 

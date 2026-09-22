@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:10:53
-updated: 2026-08-26T18:59:58
+updated: 2026-09-22T04:26:57
 ---
 
 # Jack XLR

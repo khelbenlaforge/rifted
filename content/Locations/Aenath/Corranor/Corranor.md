@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-14T19:05:51
+updated: 2026-09-22T04:26:54
 ---
 
 # Corranor

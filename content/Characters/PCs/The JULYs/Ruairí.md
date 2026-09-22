@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-18
 secret: false
 state: alive
-updated: 2026-09-19T18:09:47
+updated: 2026-09-22T00:23:23
 created: 2026-09-18T13:43:56
 ---
 
@@ -78,7 +78,7 @@ Ruairí's pact runs on the same trick as his body: nothing about him stays where
 
 ## Key Events
 
-- Session TBD—first appearance with The JULYs
+- Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - first session. Lived the Calamity Vision from inside it, attempting an Eldritch Blast against a falling shard of stone and missing; woke afterward in his own natural changeling form near the party. Met Layla, who gave him six Adamantine Guild bracers in a bag and vanished. Reunited with Kai and Odette Langford (Masamune Kento, Nanaya Rei, and Frankie's player absent); traveled by carriage to Coldford, was waved through the gate on the crest stamped into the bracers, and registered at the Tallhouse with Petra Hale. Rested in her pocket dimension (his room: an Irish coastal cliffside cottage) and used Mind Spike against her in the Guild's evaluation sparring match afterward.
 
 ## Relationships
 
