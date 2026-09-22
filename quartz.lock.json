@@ -184,8 +184,8 @@
     "quartz-crawl-links": {
       "source": "github:khelbenlaforge/quartz-crawl-links",
       "resolved": "https://github.com/khelbenlaforge/quartz-crawl-links.git",
-      "commit": "23b20344451899012317daf23dd45aa119d1f84c",
-      "installedAt": "2026-09-22T05:12:27.242Z"
+      "commit": "d8666cbe24a3fbdff19646e8c92c6e2c721c4224",
+      "installedAt": "2026-09-22T09:36:38.194Z"
     },
     "quartz-five-e-tools": {
       "source": "github:khelbenlaforge/quartz-five-e-tools",
