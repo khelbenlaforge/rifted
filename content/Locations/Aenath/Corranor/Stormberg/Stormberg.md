@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-22T00:18:11
+updated: 2026-09-23T18:11:07
 ---
 
 # Stormberg
@@ -39,6 +39,7 @@ Status:: active
 - **The Blind Reaches** — sealed breach sections inside the Stormwall's own mass, cordoned off and Guild-only wherever wall-pests have chewed in too deep. The actual culling work happens out of sight, inside the Wall itself — off-limits to everyone else, for good reason.
 - **The Stormgate** — twin ironbound gates through the Wall, opening only on the same rise-fall cycle as the island. Departure point for arctic expeditions and any trade ship timed tight enough to catch it.
 - **[[Ward Works]]** — the Ether Scryer's Academy's Stormberg branch, a research/engineering annex near the Wallwatch at the city's center — not built into the Wall. Full note exists; see there for detail.
+- **[[Iron Seam Guild]]**—Stormberg's own artificer and engineer guild, working in conjunction with (not under) the Academy: they turn the materials it supplies into the Wall's lifts, scaffolding, and siege engines. No single workshop is pinned to a map spot yet; ask around the Wallwatch or Ward Works to find their people.
 - **The Dawnhearth** — a plaster-and-column chapel of [[Lathander]] with a rising-sun symbol atop it (not a converted storefront), the first confirmed living Dawnbringer worship anywhere in Aenath. Tended by [[Sister Priya Dawnwell]]. (Session 5, The Understudies.)
 - **Stormberg's Temple of Kelemvor** — a working temple, skeleton-crewed the day after the Feast of the Moon; [[Brother Silas]] met here. (Session 5, The Understudies.)
 - **The pantheon pavilion** — an open, columned building housing statues and shrines to every deity without a temple of its own in Stormberg; noted but not yet visited by the party. (Session 5, The Understudies.)

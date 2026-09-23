@@ -1,13 +1,13 @@
 ---
 title: Miners' Council
-aliases:
+aliases: null
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-03-16T20:11
+updated: 2026-09-23T18:18:47
 ---
 
 # Miners' Council

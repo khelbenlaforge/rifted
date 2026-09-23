@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-05T16:27:09
+updated: 2026-09-23T18:13:29
 ---
 
 # Crystal City
