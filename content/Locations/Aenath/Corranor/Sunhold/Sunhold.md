@@ -1,14 +1,14 @@
 ---
 title: Sunhold
-aliases:
+aliases: null
 tags:
-  - location
-  - location/city
+- location
+- location/city
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T02:48
-updated: 2026-04-10T18:13
+updated: 2026-09-23T18:18:42
 ---
 
 # Sunhold
@@ -29,7 +29,7 @@ Status:: Active
 
 ## Description
 
-A rough frontier settlement nestled within a caldera in [[Corranor]]'s western foothills, about four days' travel from [[Crystal City]]. What began as a prospectors' camp after the discovery of copper, silver, and iron veins has grown into a community of some sixty souls — miners, merchants, hired swords, and refugees from the Exodus. Timber-frame buildings stand among canvas tents, and the rhythmic clang of pickaxes echoes from the surrounding hills. Coniferous forests ring the caldera, and a vast marsh stretches to the south, concealing territories no one has explored and returned from.
+A rough frontier settlement nestled within a caldera in [[Corranor]]'s western foothills, about four days from [[Crystal City]] by sea and road—two days by ship to a jetty on the western landmass, then two more overland by wagon. What began as a prospectors' camp after the discovery of copper, silver, and iron veins has grown into a community of some sixty souls — miners, merchants, hired swords, and refugees from the Exodus. Timber-frame buildings stand among canvas tents, and the rhythmic clang of pickaxes echoes from the surrounding hills. Coniferous forests ring the caldera, and a vast marsh stretches to the south, concealing territories no one has explored and returned from.
 
 ## Notable Features
 

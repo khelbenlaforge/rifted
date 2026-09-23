@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-23T18:18:23
 ---
 
 > [!infobox]
@@ -22,3 +22,5 @@ Headquarters:: Western Wall Towers, [[Crystal City]]
 ## Current Notes
 
 [[Regius|Reggie]]'s second job at the docks unlocked access to Azure Tamers resources, including their sky tower. The docks and the Azure Tamers work closely together — goods arriving at the docks that need speedy delivery to other towns and cities (and vice versa) move through a standing Azure Tamers pipeline, riding their tamed griffins and eagles rather than any airship.
+
+**Network confirmed, 2026-09-23:** the courier pipeline isn't Crystal-City-only—the Tamers keep an Aerie in every one of Corranor's cities except [[Sunhold]] (no overland or air route reaches its island at all). See [[Corranor]]'s Distances section for the resulting flight times.

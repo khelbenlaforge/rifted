@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-22T04:26:54
+updated: 2026-09-23T18:18:10
 ---
 
 # Corranor
@@ -43,6 +43,7 @@ The landscape comprises three types of land masses: Transient islands that perio
 - **[[Stormberg]]** — Northern port settlement and key connection point
 - **[[Sunhold]]** — Frontier mining settlement on the second-largest landmass
 - **[[Vanny Faire]]** — Arcane-propelled ship connecting the islands
+- **[[Westward]]**—Forge town at the western end of the road network, landfall crossing point to [[Sunhold]]'s island
 
 ## Inhabitants
 

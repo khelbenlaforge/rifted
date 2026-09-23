@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-14
 secret: false
-updated: 2026-09-14T19:06:09
+updated: 2026-09-23T18:18:16
 created: 2026-09-14T18:36:28
 ---
 
@@ -37,4 +37,4 @@ Pick whichever mode is actually limiting the party's pace (same principle as RAW
 
 ## First Used
 
-Travel-time reference for the overland trip to [[Stormberg]] from [[Crystal City]] (Corranor's map has no drawn road network, so "route" here means the overland estimate, not a literal road). See [[Corranor]]'s Distances section.
+Travel-time reference for the road trip from [[Crystal City]] to [[Stormberg]], [[Coldford]], or [[Westward]] (distances are now measured along the map's actual roads, reconciled 2026-09-23). See [[Corranor]]'s Distances section.

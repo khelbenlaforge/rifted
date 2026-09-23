@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-09-22T03:00:26
+updated: 2026-09-23T20:06:33
 created: 2026-08-26T17:33:32
 ---
 
@@ -100,14 +100,21 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 | **Thunderclap** | CON 13 | Self (5-ft emanation) | 1d6 thunder on fail; sound audible 100 ft. | Cntrp | S | — |
 | **Spare the Dying** | — | 15 ft. | Stabilize one living creature at 0 HP | Cntrp | V, S | — |
 | **Starry Wisp** *(Moon Spells)* | R +5 | 60 ft. | 1d8 radiant; dim light 10 ft.; no Invisible until next turn ends | Cntrp | V, S | — |
+| **Speak with Animals** *(Druidic, Ritual)* |—| Self | Comprehend & verbally communicate with Beasts for 10 min. | L1 | V, S | always prepared |
+| **Goodberry** |—| Touch | 10 berries; BA to eat one restores 1 HP + 1 day nourishment; lasts 24 hr. | L1 | V, S, M |—|
+| **Ice Knife** | R +5 | 60 ft. | 1d10 pierce on hit; then target + others w/in 5 ft.: DEX 13 or 2d6 cold | L1 | S, M |—|
+| **Protection from Evil and Good** |—| Touch | Target vs. Aberration/Celestial/Elemental/Fey/Fiend/Undead: disadvantage on their attacks; can't be possessed/Charmed/Frightened by them | L1 | V, S, M | Conc. |
+| **Thunderwave** | CON 13 | Self (15-ft cube) | 2d8 thunder on fail (half on success); push 10 ft. | L1 | V, S |—|
 | **Cure Wounds** *(Moon Spells)* | — | Touch | Regain 2d8+3 HP; +2d8 per slot level above 1st | L1 | V, S | — |
 | **Moonbeam** *(Moon Spells)* | CON 13 | 120 ft. | 2d10 radiant; half on success; shape-shifter reverts on fail | L2 | V, S, M (moonseed leaf) | Conc. |
+| **Summon Beast** |—| 90 ft. | Summon a Bestial Spirit ally (Air/Land/Water); shares Initiative, no action to command | L2 | V, S, M | Conc. |
 
 ### Bonus Actions
 
 | Name | Atk / Save | Range | Damage / Effect | Lvl | Comp. | Recharge |
 |---|---|---|---|---|---|---|
 | **Wild Shape** *(Circle Forms)* | — | Self | Learned Beast form for 1½ hr; +9 temp HP; AC 16 if higher; CR ≤1 | — | — | 2 uses; 1/SR, all/LR |
+| **Healing Word** |—| 60 ft. | Regain 2d4+3 HP; +2d4 per slot level above 1st | L1 | V |—|
 
 ### Reactions
 
@@ -117,7 +124,7 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 
 ### Features
 
-- **Druidic** — knows the secret Druid language; can leave hidden messages that Druids spot automatically (others need a DC 15 Intelligence [Investigation] check to notice, but cannot decipher without magic). The feature also always prepares *Speak with Animals*, though that spell is absent from the verified Foundry prepared state.
+- **Druidic** — knows the secret Druid language; can leave hidden messages that Druids spot automatically (others need a DC 15 Intelligence [Investigation] check to notice, but cannot decipher without magic). The feature also always prepares *Speak with Animals* (confirmed prepared on the live Foundry sheet, 2026-09-23).
 - **Primal Order: Magician** — knows one extra Druid cantrip; Intelligence (Arcana or Nature) checks gain a bonus equal to WIS modifier (minimum +1), here +3. This is a checks bonus, not Arcana/Nature proficiency.
 - **Wild Shape / Circle Forms** — 2 uses; regain one on a Short Rest and all on a Long Rest. Forms are learned rather than merely beasts she has seen; Wild Shape normally has four known forms, and the Moon Circle raises the maximum CR at level 3 to 1. While shaped, she retains the listed mental scores, class features, languages, feats, and relevant skill/save proficiencies; Circle Forms gives 9 temp HP and AC 16 if that exceeds the Beast's AC. She can cast the Circle-granted *Cure Wounds*, *Moonbeam*, and *Starry Wisp* while shaped.
 - **Circle of the Moon Spells** — *Cure Wounds*, *Moonbeam*, and *Starry Wisp* are always prepared and do not require selection from her regular prepared spells.
@@ -130,7 +137,6 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 - **Doesn't Balance** *(Brought Forward, Tier 1)* — the first time each turn a creature fails a saving throw against a spell Risma casts, it has disadvantage on its next attack roll before the start of Risma's next turn.
 - **A Second Set of Books** *(Brought Forward, Tier 1)* — advantage on Intelligence checks to accurately appraise goods or uncover hidden financial/logistical connections in ledgers, contracts, and correspondence; proficient with a Forgery Kit if not already.
 - **Reconciled** *(Brought Forward, Tier 1)* — once during a Long Rest, recovers one expended 1st-level spell slot (no action required).
-- **Prepared-spell picks pending** — Risma has not selected 3 first-level and 1 second-level regular prepared spells; do not treat those open picks as prepared.
 
 ---
 
@@ -146,12 +152,19 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 | *Thunderclap* | Cantrip / Evocation | 1 action | Self (5-ft emanation) | S | Instant. | Creatures in emanation: CON save or 1d6 thunder. |
 | *Spare the Dying* | Cantrip / Necromancy | 1 action | 15 ft. | V, S | Instant. | One living creature at 0 HP becomes Stable. |
 | *Starry Wisp* *(Moon Spells)* | Cantrip / Evocation | 1 action | 60 ft. | V, S | Instant. | Ranged spell attack: 1d8 radiant; target emits dim light 10 ft. and cannot benefit from Invisible until next turn ends. |
+| *Speak with Animals* *(Druidic)* | 1st / Divination | 1 action | Self | V, S | 10 min. | Comprehend & verbally communicate with Beasts; they can share what they've perceived in the past day. |
+| *Goodberry* | 1st / Conjuration | 1 action | Touch | V, S, M (mistletoe) | 24 hr. | 10 berries; BA to eat one regains 1 HP + 1 day nourishment. |
+| *Healing Word* | 1st / Abjuration | 1 bonus action | 60 ft. | V | Instant. | Target regains 2d4+3 HP; +2d4 per higher-level slot. |
+| *Ice Knife* | 1st / Conjuration | 1 action | 60 ft. | S, M (water/ice) | Instant. | Ranged spell attack: 1d10 pierce on hit; then target + creatures w/in 5 ft.: DEX save or 2d6 cold. |
+| *Protection from Evil and Good* | 1st / Abjuration | 1 action | Touch | V, S, M (holy water, consumed) | Conc., up to 10 min | Target vs. Aberration/Celestial/Elemental/Fey/Fiend/Undead: disadvantage on their attacks against it; can't be possessed/Charmed/Frightened by them. |
+| *Thunderwave* | 1st / Evocation | 1 action | Self (15-ft cube) | V, S | Instant. | CON save or 2d8 thunder + pushed 10 ft.; half damage, no push on success. |
 | *Cure Wounds* *(Moon Spells)* | 1st / Abjuration | 1 action | Touch | V, S | Instant. | Touched creature regains 2d8+3 HP; +2d8 per higher-level slot. |
 | *Moonbeam* *(Moon Spells)* | 2nd / Evocation | 1 action | 120 ft. | V, S, M (moonseed leaf) | Conc., up to 1 min | 5-ft-radius, 40-ft-high cylinder; CON save, 2d10 radiant or half; shape-shifter reverts on fail. |
+| *Summon Beast* | 2nd / Conjuration | 1 action | 90 ft. | V, S, M (gilded acorn, 200+ GP) | Conc., up to 1 hr | Summons a Bestial Spirit ally (Air/Land/Water); shares Initiative, acts right after her; obeys verbal commands. |
 
 #### Ritual Spells
 
-*None currently listed.*
+*Speak with Animals* can be cast as a ritual (adds 10 minutes to the casting time, costs no spell slot), and it's always prepared via Druidic, so this is available whenever she has a free moment.
 
 ---
 
@@ -172,5 +185,6 @@ Pronouns:: she/her
 Affiliation::
 Location::
 Deity::
+Playbook:: [[Rismawati Bayu - Playbook]]
 
 

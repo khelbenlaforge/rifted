@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-18T22:57:04
+updated: 2026-09-23T18:13:20
 ---
 
 # Corranor Council
