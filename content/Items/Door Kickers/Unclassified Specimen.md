@@ -10,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-05-08
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T23:40:24
 ---
 
 # Unclassified Specimen

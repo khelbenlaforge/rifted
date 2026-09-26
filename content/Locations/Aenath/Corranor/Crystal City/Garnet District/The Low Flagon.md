@@ -8,6 +8,7 @@ campaign: Rifted
 introduced: 2026-05-26
 secret: false
 updated: 2026-08-28T14:52:43
+created: 2026-05-26T00:00
 ---
 
 # The Low Flagon

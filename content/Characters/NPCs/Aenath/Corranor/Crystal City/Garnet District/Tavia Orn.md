@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-09-18T22:57:04
+updated: 2026-09-26T00:50:25
 ---
 
 > [!infobox|right wikipedia]+
@@ -32,7 +32,7 @@ Her code is simple: she does not lie to people she's doing business with, she do
 
 ## Background
 
-Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. She became a Claret associate at seventeen — vouched by a woman she will not name — and made her second stud by twenty-five. She had been offered *public* advancement three times and declined each time — visibly, on the record, the kind of thing the rest of the Claret notices and gossips about. For years, her real standing with Corvin Adder, the Claret's old-guard lieutenant, was Rank 3 (Warden) in every practical sense while she wore only two studs and the Claret's own records still read Rank 2 (Made) — a deliberate gap on Corvin's side. As of Session 24 (30th Uktar), that gap has closed: she now wears the third stud openly, Rank 3 made official.
+Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. She became a Claret associate at seventeen — vouched by a woman she will not name — and made her second stud by twenty-five. She had been offered *public* advancement three times and declined each time — visibly, on the record, the kind of thing the rest of the Claret notices and gossips about. For years, her real standing with [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Garnet District/Corvin Adder|Corvin Adder]], the Claret's old-guard lieutenant, was Rank 3 (Warden) in every practical sense while she wore only two studs and the Claret's own records still read Rank 2 (Made) — a deliberate gap on Corvin's side. As of Session 24 (30th Uktar), that gap has closed: she now wears the third stud openly, Rank 3 made official.
 
 She's been running collections for eleven years, and the territory has grown well past what her rank would suggest — a wide stretch straddling the [[Garnet District]]/[[Citrine District]] line, anchored on [[The Low Flagon]] itself, which sits right on that border. Every shopkeeper, barkeep, dockhand, and landlord in it knows her schedule. Most of them consider her more reliable than the city watch. Corvin gave her that reach precisely because the seam between two districts is exactly the kind of post you don't hand to someone who might get ambitious with it — and she never has.
 
@@ -65,5 +65,5 @@ Affiliation:: [[The Claret]]
 ## Session 29
 
 - Sold the party three vials of poison at 100gp each, plus antitoxin and holy water at standard Claret rates.
-- Warmer with [[Regius]] than her usual business face—a flirtation landed. Gave him an obsidian stud as a Claret recognition mark for Stormberg and told him anyone there would know what it meant and point him toward the rest. Asked him to find her when he's back; she'll buy the meal this time.
+- Warmer with [[Regius]] than her usual business face—a flirtation landed. Gave him an obsidian stud as a Claret recognition mark for [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]] and told him anyone there would know what it meant and point him toward the rest. Asked him to find her when he's back; she'll buy the meal this time.
 

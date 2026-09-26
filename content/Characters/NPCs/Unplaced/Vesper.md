@@ -15,7 +15,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Vesper
@@ -44,9 +44,9 @@ Wolves are not uncommon in the Dalelands forests, but Vesper was never an ordina
 
 He tolerates the rest of the Harper unit. He does not like sudden movements.
 
-The guards at the Shadowdale post have accepted him as a permanent fixture. Some of them feed him treats.
+The guards at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Shadowdale|Shadowdale]] post have accepted him as a permanent fixture. Some of them feed him treats.
 
-In Session 14, Vesper fought in his first combat — the Zhentarim ambush at the Old Skull Inn courtyard. He took significant damage and spent most of the fight protecting the stable boy.
+In Session 14, Vesper fought in his first combat — the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] courtyard. He took significant damage and spent most of the fight protecting the stable boy.
 
 When [[Ember]] carried [[Vesper's Amulet|a crystal amulet]] back from that same Shadowdale vision (Session 16), Vesper's bond crossed with it. He no longer runs at Selmavra's side in the Dalelands — he steps out of the crystal's light at Ember's call, into Aenath, into a world he has never smelled before. He has not forgotten Selmavra. He simply belongs to someone else now.
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-14
 secret: false
 created: 2026-08-14T12:03:27
-updated: 2026-08-14T12:10:08
+updated: 2026-09-26T00:50:25
 ---
 
 # Dead Plumb

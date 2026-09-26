@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2025-11-09
 secret: false
 created: 2026-03-19T03:36
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Toothpick
@@ -32,7 +32,7 @@ Found At:: [[Sunless Citadel]]
 
 A chipped longsword fashioned from one of [[Ashardalon]]'s teeth. The blade is clearly broken — a huge, jagged weapon that looks like it shouldn't work and somehow does. [[Ragh]] called it his most prized possession and carried it everywhere. It is, like its former owner, scrappy, dangerous, and always one bad roll away from falling apart.
 
-[[Ember]] stole it from Ragh during the victory revel in Session 10, along with *Blight's Call*.
+[[Ember]] stole it from Ragh during the victory revel in Session 10, along with *[[The Exodus/00_My Notes/Items/Door Kickers/Blight's Call|Blight's Call]]*.
 
 ## Properties
 

@@ -15,6 +15,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-18T20:47
+updated: 2026-03-18T20:47
 ---
 
 # Aenath Landmass Types

@@ -1,15 +1,15 @@
 ---
 title: Sunless Citadel
 aliases:
-  - The Sunless Citadel
+- The Sunless Citadel
 tags:
-  - location
-  - location/dungeon
+- location
+- location/dungeon
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-03-18T20:46
+updated: 2026-09-26T02:38:47
 ---
 
 # Sunless Citadel
@@ -25,7 +25,7 @@ updated: 2026-03-18T20:46
 
 Region:: [[Corranor]]
 Controlled By::
-Status:: Active — party currently exploring
+Status:: Explored—party has moved on
 
 ## Description
 
@@ -46,9 +46,14 @@ The door is both a ward and a test. Those who fail to demonstrate understanding 
 
 Beyond the Sealed Door lies the [[Sanctum of Ashardalon]] — a chamber of extraordinary cosmological significance that predates the dragon cult entirely. An illusion of [[Ashardalon]] greets entrants, dissolving only for those who passed the door's test. Only the five from Earth can perceive its true contents.
 
+## Features
+
+- [[Durnn's Research Lab]]
+- [[Twilight Grove]]
+
 ## Current Events
 
-The party has explored deep into the Grove Level alongside companions [[Balsag]], [[Erky]], and a Velvet Vulper called [[Little Sister]]. [[Talgen Hucrele Jr.]] was found dead among the bioluminescent growth. [[Sharwyn Hucrele]], [[Sir Braford]], and [[Karakas]] remain missing, believed to be deeper within the citadel near [[Belak]].
+The party has explored deep into the Grove Level alongside companions [[Balsag]], [[Erky]], and a [[The Exodus/00_My Notes/Bestiary/Fey/Velvet Vulper|Velvet Vulper]] called [[Little Sister]]. [[Talgen Hucrele Jr.]] was found dead among the bioluminescent growth. [[Sharwyn Hucrele]], [[Sir Braford]], and [[Karakas]] remain missing, believed to be deeper within the citadel near [[Belak]].
 
 The party discovered and passed through the Sealed Door, gaining access to the Sanctum — a hidden chamber of profound cosmological significance predating the dragon cult. They are currently studying its contents, which challenge everything they thought they understood about [[Aenath]].
 

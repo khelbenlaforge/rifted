@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-08-05T16:27:06
+updated: 2026-09-26T02:48:26
 ---
 
 # Magocracy of Corranor
@@ -37,6 +37,18 @@ The first peoples awoke amid violent land formation — earth heaving, magma eru
 - **Transient** — Islands that periodically rise and descend (e.g., the main island bearing [[Crystal City]])
 - **Sky Bound** — Formations that float permanently above the ocean
 - **Terra Bound** — Islands at sea level
+
+## Territory
+
+- [[Amethyst District]]
+- [[Citrine District]]
+- [[Diamond District]]
+- [[Garnet District]]
+- [[Sapphire District]]
+- [[Sunstone District]]
+- [[Ether Scryer's Academy]]
+- [[Stormberg]]
+- [[Stormwall]]
 
 ## Current Status
 

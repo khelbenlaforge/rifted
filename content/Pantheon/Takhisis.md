@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T16:15
-updated: 2026-08-28T02:33:48
+updated: 2026-09-26T00:50:25
 ---
 
 # Takhisis
@@ -37,9 +37,9 @@ Symbol:: Five-headed dragon silhouette
 
 Takhisis — known also as Tiamat in many traditions — is the goddess of chromatic dragons, conquest, and the hunger that consumes without remorse. She wants without limit and schemes without conscience; power, to her, needs no further justification. Her five heads breathe fire, lightning, acid, cold, and poison; her dominion extends over every destructive impulse ever wielded in her name.
 
-Yet the Sanctum beneath the [[Sunless Citadel]] complicates that portrait. The stone carved there shows neither the tyrant nor the destroyer. Takhisis stands opposite [[Bahamut]] with her wings spread, flanking [[Mystra]] and [[Gond]], facing *outward*. Not opposing the world's protectors — *being* one of them. Whatever covenant bound the dragon gods together in that chamber, it predates the enmity that defines them elsewhere.
+Yet the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] beneath the [[Sunless Citadel]] complicates that portrait. The stone carved there shows neither the tyrant nor the destroyer. Takhisis stands opposite [[Bahamut]] with her wings spread, flanking [[Mystra]] and [[Gond]], facing *outward*. Not opposing the world's protectors — *being* one of them. Whatever covenant bound the dragon gods together in that chamber, it predates the enmity that defines them elsewhere.
 
-In [[Aenath]], she is known primarily through the dragon cults that have flourished since before The Awakening. The cult that built the [[Sunless Citadel]] swore allegiance to [[Ashardalon]] — a name and a hunger that echoes hers in ways that may not be coincidence.
+In [[Aenath]], she is known primarily through the dragon cults that have flourished since before [[The Exodus/00_My Notes/Lore/The Awakening|The Awakening]]. The cult that built the [[Sunless Citadel]] swore allegiance to [[Ashardalon]] — a name and a hunger that echoes hers in ways that may not be coincidence.
 
 ## Tenets
 

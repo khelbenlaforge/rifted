@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-18T13:49:03
+updated: 2026-09-26T00:50:25
 ---
 
 # Oriel Blackstaff
@@ -37,7 +37,7 @@ Keeper of the Writ, the Council's own legal authority, and head of House Blackst
 
 ## Role in the Story
 
-Oriel declared the Cistern Street shrine unlawful assembly and its property forfeit to the city, then opened an inquiry into the Temple of Kelemvor and the Knights of the Eternal Order's own admissions during a vigil, reaching into religious law he has no formal standing in and daring anyone to say so aloud. He remanded [[Ser Tamsin Rook]] to his own Order for judgment, keeping it off the public square.
+Oriel declared the Cistern Street shrine unlawful assembly and its property forfeit to the city, then opened an inquiry into the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]] and the [[The Exodus/00_My Notes/Factions/Corranor/Knights of the Eternal Order|Knights of the Eternal Order]]'s own admissions during a vigil, reaching into religious law he has no formal standing in and daring anyone to say so aloud. He remanded [[Ser Tamsin Rook]] to his own Order for judgment, keeping it off the public square.
 
 He holds the Council's deciding vote in the Session 29 status hearing on the party, split 50-50 between [[Doran]] and [[Nerise]] against and [[Garm]], [[Wystan]], and an unnamed gnome Keeper for. The hearing never reached the party, so his vote remains uncast.
 

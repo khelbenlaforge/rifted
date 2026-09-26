@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T16:55
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 > [!infobox|right wikipedia]+
@@ -50,9 +50,9 @@ Affiliation:: [[Hucrele Family]]
 
 ## Session 19
 
-Soral met [[Min Ji-ah]] during Session 19 downtime at [[Hucrele Manor]]. He told her that the Blackstaff family is [[Crystal City]]'s first family, that their scion sits on the Council of Seven, and that they are a family of wizards.
+Soral met [[Min Ji-ah]] during Session 19 downtime at [[Hucrele Manor]]. He told her that the Blackstaff family is [[Crystal City]]'s first family, that their scion sits on the [[The Exodus/00_My Notes/Factions/Corranor/Corranor Council|Council of Seven]], and that they are a family of wizards.
 
 ## Session 23
 
-When [[Regius|Reggie]] and [[Min Ji-ah]] asked Soral whether any noble houses needed a discreet fixer, he ruled out the Blackstaffs as too scrupulously above board for that kind of hire. Instead he pointed them toward House Verenthal's steward, [[Ostrin Feld]], and told Reggie he could say Soral sent him as a favor for a favor.
+When [[Regius|Reggie]] and [[Min Ji-ah]] asked Soral whether any noble houses needed a discreet fixer, he ruled out the Blackstaffs as too scrupulously above board for that kind of hire. Instead he pointed them toward [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Sapphire District/House Verenthal|House Verenthal]]'s steward, [[Ostrin Feld]], and told Reggie he could say Soral sent him as a favor for a favor.
 

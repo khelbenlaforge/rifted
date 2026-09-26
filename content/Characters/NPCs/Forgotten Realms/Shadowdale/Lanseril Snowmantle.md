@@ -8,7 +8,7 @@ introduced: 2026-03-30
 secret: false
 state: alive
 created: 2026-03-26T20:20
-updated: 2026-08-02T13:58:20
+updated: 2026-09-26T00:50:25
 ---
 
 # Lanseril Snowmantle

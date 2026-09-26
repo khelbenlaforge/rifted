@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-09-22T04:29:24
+updated: 2026-09-26T00:50:25
 ---
 
 # Petra Hale
@@ -61,7 +61,10 @@ First real point of contact for The JULYs' Adamantine Guild standing in [[Coldfo
 
 - Registered [[Kai]], [[Odette Langford]], and [[Ruairí]]'s already-worn Adamantine Guild bracers at the Tallhouse.
 - Gave the party their first in-fiction lore rundown: 222 years since the Awakening, Corranor's intercalary calendar, the continent's transience, and next landfall roughly two weeks out—10–20 days, not fixed.
+- Gave a rough, self-admittedly imprecise Rifted headcount: nine confirmed at the guild's main branch, five more in [[Stormberg]], and now six logged in Coldford.
+- Named the commodity risk Coldford poses to a changeling directly and suggested [[Ruairí]] change shape; he settled on a black cat, which stuck.
 - Brought them into her personal pocket dimension to rest.
+- Before testing a party this small, measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 - Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and backed the party's Guild standing afterward regardless of outcome.
 
 ## D&D 5e Stat Block

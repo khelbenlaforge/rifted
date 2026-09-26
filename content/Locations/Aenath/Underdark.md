@@ -8,6 +8,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-18T20:37
+updated: 2026-03-18T20:37
 ---
 
 # Underdark

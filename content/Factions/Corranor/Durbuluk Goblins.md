@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T15:42
-updated: 2026-08-05T17:57:35
+updated: 2026-09-26T02:49:02
 ---
 
 # Durbuluk Goblins
@@ -33,10 +33,13 @@ The Durbuluk Goblins hold the northern sections of the [[Sunless Citadel]]'s Upp
 ## Leadership & Members
 
 - **[[Durnn]]** — Goblin chieftain; killed previous elders to take power
+- **[[Grenl]]**—Sole surviving elder of the tribe
 
 The Durbuluk hold [[Calcryx]] — the [[Ordahir Kobolds]]' white dragon wyrmling — captured during the ongoing conflict.
 
 ## Operations
+
+They operate [[Durnn's Research Lab]] on the Grove Level, staffed by non-combatant researchers studying the [[Goblin Fruit]].
 
 The Durbuluk hold goblin prisoners in kobold jail cells (accessible from kobold territory) and maintain control of the citadel's northern sections. Critically, they have an exclusive supply deal with [[Belak]] — the druid on the Grove Level — who provides magic fruit the goblins sell aboveground. [[Yusdrayl]] envies this arrangement and has been unable to replicate it.
 

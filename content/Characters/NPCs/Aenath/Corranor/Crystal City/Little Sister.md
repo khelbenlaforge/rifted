@@ -6,9 +6,9 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-state: dismissed/revealed
+state: unknown
 created: 2026-03-22T15:58
-updated: 2026-08-28T02:33:48
+updated: 2026-09-25T20:41:59
 ---
 
 # Little Sister

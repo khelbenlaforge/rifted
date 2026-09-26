@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-09-04T15:12:58
+updated: 2026-09-25T23:40:24
 ---
 
 # Goblin Fruit
@@ -45,7 +45,7 @@ The fruit is grown by the [[Gulthias Tree]] itself, not by [[Belak]] — he tend
 
 ## Significance
 
-The Goblin Merchants introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence.
+The [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence.
 
 Every community that bought fruit from the goblin merchants before distribution halted is seeded — a potential grove of twig blights waiting for its hosts to die.
 

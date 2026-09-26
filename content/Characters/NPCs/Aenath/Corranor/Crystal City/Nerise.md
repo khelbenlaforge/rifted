@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-18T13:49:01
+updated: 2026-09-26T00:50:25
 ---
 
 # Nerise
@@ -37,7 +37,7 @@ Keeper of Exploration on the [[Corranor Council]], responsible for what lies bey
 
 ## Role in the Story
 
-At the Council's appearance before the city in Session 28, Nerise stood apart from the others, her attention on the crowd, her mind already on her expedition and not on the fiend or the Temple. She flinched, slightly, when Oriel turned his inquiry on the Temple of Kelemvor. Doran, beside her, did not.
+At the Council's appearance before the city in Session 28, Nerise stood apart from the others, her attention on the crowd, her mind already on her expedition and not on the fiend or the Temple. She flinched, slightly, when Oriel turned his inquiry on the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]]. Doran, beside her, did not.
 
 She holds one of the Council's two confirmed votes against the party in the Session 29 status hearing, alongside [[Doran]]. The hearing never reached the party, so nothing has actually tested that vote yet.
 

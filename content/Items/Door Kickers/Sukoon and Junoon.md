@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-06-25T00:00:00
-updated: 2026-08-02T14:00:00
+updated: 2026-09-25T17:22:45
 ---
 
 > [!infobox]
@@ -85,5 +85,7 @@ TBD.
 Rarity:: Unique
 Owner:: [[Sadiah Ispahani]]
 Origin:: Lahore, Earth (carried through the transit)
+Attunement:: Required ([[Sadiah Ispahani|Sadiah]] only; both sickles as one attuned item)
+Found At:: Lahore, Earth (carried through the transit)
 
 

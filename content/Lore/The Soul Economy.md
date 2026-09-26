@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced: 2026-09-04
 secret: false
+created: 2026-09-04T00:00
+updated: 2026-09-05T01:50
 ---
 
 # The Soul Economy

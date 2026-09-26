@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-26T03:46
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T17:22:45
 ---
 > [!infobox]
 > # Rathan's Symbol of Tymora
@@ -71,5 +71,7 @@ Each Luck Point can be spent to: grant yourself **Advantage** on one D20 Test (a
 Rarity:: Unique
 Owner:: [[Jonathan Jordan|JJ]]
 Origin:: Shadowdale (prequel vision, Session 15)
+Attunement:: Required ([[Jonathan Jordan|JJ]] only)
+Found At:: [[Shadowdale]] (prequel vision, Session 15)
 
 

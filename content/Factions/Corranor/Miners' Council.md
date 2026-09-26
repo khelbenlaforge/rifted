@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-23T18:18:47
+updated: 2026-09-25T23:40:24
 ---
 
 # Miners' Council
@@ -37,6 +37,6 @@ The governing body of [[Sunhold]], formed by the original prospectors who discov
 
 ## Current Status
 
-The council is caught between the demands of the Hucrele family (who provide significant funding but expect noble-level governance) and the realities of frontier life. They welcomed the [[Adamantine Guild]]'s arrival and tasked the party with safety, exploration, and community outreach.
+The council is caught between the demands of the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] family (who provide significant funding but expect noble-level governance) and the realities of frontier life. They welcomed the [[Adamantine Guild]]'s arrival and tasked the party with safety, exploration, and community outreach.
 
 

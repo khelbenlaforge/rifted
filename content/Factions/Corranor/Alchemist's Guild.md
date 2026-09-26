@@ -1,12 +1,13 @@
 ---
 title: Alchemist's Guild
-aliases: null
+aliases:
+- Alchemist Guild
 tags:
 - faction
 campaign: Rifted
 introduced: 2026-03-16
 secret: false
-updated: 2026-08-14T15:55:07
+updated: 2026-09-26T02:38:46
 created: 2026-07-27T10:58:09
 ---
 

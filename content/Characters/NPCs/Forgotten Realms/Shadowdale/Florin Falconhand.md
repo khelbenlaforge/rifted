@@ -8,7 +8,7 @@ introduced: 2026-03-30
 secret: false
 state: alive
 created: 2026-03-26T20:20
-updated: 2026-08-27T17:56:45
+updated: 2026-09-26T00:50:25
 ---
 
 # Florin Falconhand
@@ -35,7 +35,7 @@ Direct. Honest. Polite in the way someone is polite when they genuinely mean it,
 
 Senior member and de facto leader of the [[Knights of Myth Drannor]]. Husband of [[Dove Falconhand]]. A Harper operating out of Cormyr and the Dalelands. He has run enough operations to know that the plan falls apart on contact and the people around you are the only plan that lasts.
 
-He knows Elminster personally. He is here because the dale is in danger and because Elminster sent word. Those two reasons are, to Florin, the same reason.
+He knows [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]] personally. He is here because the dale is in danger and because Elminster sent word. Those two reasons are, to Florin, the same reason.
 
 ## Role in the Battle
 

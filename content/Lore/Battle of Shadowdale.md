@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced: "2026-03-30"
 secret: false
+created: 2026-03-30T00:00
+updated: 2026-09-26T00:50:25
 ---
 
 # Battle of Shadowdale

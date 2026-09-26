@@ -1,5 +1,5 @@
 ---
-title: "Session 05 — What Didn't Burn"
+title: "Session 05 \u2014 What Didn't Burn"
 tags:
 - session
 campaign: Rifted
@@ -7,7 +7,7 @@ session: 5
 date: 2026-09-06
 in-world-date: Feast of the Moon into 1 Nightal, Year 222 PA
 created: 2026-09-06T00:00:00
-updated: 2026-09-08T21:31:26
+updated: 2026-09-25T20:41:07
 ---
 
 # Session 05 — What Didn't Burn
@@ -38,7 +38,7 @@ The full rite ran the better part of an hour. When it finally broke, the whole s
 
 ## The Turn of the Year
 
-That same night, before the party turned in, [[Rhona Voss]] walked them through Corranor's calendar. Twenty-four-hour days. Ten-day weeks. Three weeks to a month, every month a clean thirty days, and then the days that don't fit anywhere — the intercalary days, sitting outside all of it. The Feast of the Moon was one; the last had been High Harvest Time, between summer and autumn. They were entering **Nightal** now, the start of winter, and the cold was already finding them where they stood in the square.
+That same night, before the party turned in, [[Rhona Voss]] walked them through Corranor's calendar. Twenty-four-hour days. Ten-day weeks. Three weeks to a month, every month a clean thirty days, and then the days that don't fit anywhere — the intercalary days, sitting outside all of it. The Feast of the Moon was one; the last had been Highharvestide, between summer and autumn. They were entering **Nightal** now, the start of winter, and the cold was already finding them where they stood in the square.
 
 ## Four Directions
 

@@ -16,7 +16,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-06-29T00:00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T17:22:45
 ---
 
 > [!infobox]
@@ -101,5 +101,7 @@ TBD — pending the "E" reveal.
 Rarity:: Unique
 Owner:: [[Regius]]
 Origin:: Unknown sender (Earth; arrived when Regius was eleven)
+Attunement:: Required ([[Regius]] only)
+Found At:: Unknown sender (Earth; arrived when Regius was eleven)
 
 

@@ -7,12 +7,13 @@ campaign: Rifted
 introduced: 2026-08-16
 secret: false
 state: dead
-updated: 2026-09-04T15:43:27
+updated: 2026-09-26T00:50:25
+created: 2026-08-16T00:00
 ---
 > [!infobox]
 > # Mother Ilyra Duskveil
 
-Mother Ilyra Duskveil was a cleric of Shar who ran the Rising of the Dark sacrifice at the [[Shrine of Shar]] before Min Ji-ah killed her with Tasha's Mind Whip in Session 27; an unnamed fiend then absorbed her body.
+Mother Ilyra Duskveil was a cleric of Shar who ran the Rising of the Dark sacrifice at the [[Shrine of Shar]] before [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] killed her with Tasha's Mind Whip in Session 27; an unnamed fiend then absorbed her body.
 
 ## Appearance
 
@@ -28,7 +29,7 @@ What Ilyra was before she took the shrine off Cistern Street never surfaced — 
 
 ## Role in the Story
 
-Session 27: the officiating cleric of the Rising of the Dark, holding the kidnapped Gravelord bound at her altar in the hidden shrine off Cistern Street, working to complete the sacrifice before midnight. Recruited [[Ser Tamsin Rook]]'s cooperation a week earlier, approaching him in the Citrine District as a pale, hooded elf using his dead sister's stranded soul — one thread among what was likely several similar arrangements citywide, given how organized the night's operation was. Killed by Min Ji-ah's Tasha's Mind Whip before the ritual completed. Her body was then absorbed by an unnamed fiend that arrived in the instant of her death — whether that thing was already watching her, or something she'd unknowingly served all along, is unconfirmed.
+Session 27: the officiating cleric of the Rising of the Dark, holding the kidnapped Gravelord bound at her altar in the hidden shrine off Cistern Street, working to complete the sacrifice before midnight. Recruited [[Ser Tamsin Rook]]'s cooperation a week earlier, approaching him in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Citrine District/Citrine District|Citrine District]] as a pale, hooded elf using his dead sister's stranded soul — one thread among what was likely several similar arrangements citywide, given how organized the night's operation was. Killed by Min Ji-ah's Tasha's Mind Whip before the ritual completed. Her body was then absorbed by an unnamed fiend that arrived in the instant of her death — whether that thing was already watching her, or something she'd unknowingly served all along, is unconfirmed.
 
 ---
 Race:: Elf

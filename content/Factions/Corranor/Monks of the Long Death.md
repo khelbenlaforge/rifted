@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T02:48:26
 ---
 
 # Monks of the Long Death
@@ -33,7 +33,7 @@ They are called Monks of the *Long* Death specifically because they are against 
 
 The order's internal structure is contemplative rather than hierarchical in any outward sense. Elder Monks are distinguishable by manner more than marking — a specific quality of attention, a way of being still that junior members have not yet mastered.
 
-No named member of the order has been introduced to the party. Their reputation within the temple is for approachability in matters of metaphysical inquiry, if you can tolerate the pace of the conversation.
+**[[Brother Silas]]** has been introduced to the party as the order's point of contact. Their broader reputation within the temple is for approachability in matters of metaphysical inquiry, if you can tolerate the pace of the conversation.
 
 ## Operations
 

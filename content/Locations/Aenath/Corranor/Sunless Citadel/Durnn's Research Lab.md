@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-16T20:11
+updated: 2026-09-25T23:40:24
 ---
 
 # Durnn's Research Lab
@@ -47,6 +47,6 @@ The northwest door connects back to the room where the party first descended fro
 
 ## Current Events
 
-The party cleared vine blight and twig blight swarms that were guarding the lab (Session 12). The armed guards stood down when Augie showed Durnn's horn and shouted "Freeze." The researchers are cooperating.
+The party cleared vine blight and twig blight swarms that were guarding the lab (Session 12). The armed guards stood down when [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augie]] showed Durnn's horn and shouted "Freeze." The researchers are cooperating.
 
 

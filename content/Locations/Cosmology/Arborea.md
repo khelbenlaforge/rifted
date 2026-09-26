@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-06-25
 secret: false
 created: 2026-08-27T18:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Arborea
@@ -28,7 +28,7 @@ Status:: active
 
 ## Description
 
-Its first layer, Arvandor, holds Corellon's Crescent Grove palace, shared with his consort Sehanine Moonbow. Elven souls are said to be guided there toward a final, perfected state.
+Its first layer, Arvandor, holds [[The Exodus/00_My Notes/Pantheon/Corellon|Corellon]]'s Crescent Grove palace, shared with his consort [[The Exodus/00_My Notes/Pantheon/Sehanine Moonbow|Sehanine Moonbow]]. Elven souls are said to be guided there toward a final, perfected state.
 
 In Aenath, Arborea has come up so far through the theory and practice of planar teleportation: [[Veyris Thantorn]] taught [[Min Ji-ah]] that wolf bone from Arborea is not evil, and that a whole wolf could create a through-line to the plane — one working theory among several on how the astral barrier might be crossed.
 

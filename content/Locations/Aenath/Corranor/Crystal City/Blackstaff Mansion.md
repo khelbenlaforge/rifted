@@ -3,9 +3,12 @@ title: "Blackstaff Mansion"
 aliases: []
 tags:
   - location
+  - location/building
 campaign: Rifted
 introduced: 2026-07-13
 secret: false
+created: 2026-07-13T00:00
+updated: 2026-09-25T17:07:09
 ---
 > [!infobox]
 > # Blackstaff Mansion
@@ -17,3 +20,4 @@ Its towers evoke old wizard keeps more than conventional manor architecture, ris
 ---
 Region:: Crystal City
 Status:: Active, heavily warded
+Controlled By:: Blackstaff branch

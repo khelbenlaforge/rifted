@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
-updated: 2026-09-08T22:00:15
+updated: 2026-09-26T00:50:25
 created: 2026-09-07T18:18:57
 ---
 
@@ -24,7 +24,7 @@ created: 2026-09-07T18:18:57
 
 ## Description
 
-- Stormberg branch of the [[Ether Scryer's Academy]], a cramped, humming annex near the Wallwatch at the city's center — not built into the Stormwall itself. Roughly 30–40 researchers and engineers maintain the ward-lattice and conduct material alchemy and abjuration research and testing.
+- Stormberg branch of the [[Ether Scryer's Academy]], a cramped, humming annex near the Wallwatch at the city's center — not built into the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]] itself. Roughly 30–40 researchers and engineers maintain the ward-lattice and conduct material alchemy and abjuration research and testing.
 
 ---
 

@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T20:59:06
 ---
 
 # Sylvara Oakwhisper
@@ -55,7 +55,7 @@ Deity:: [[Mielikki]]
 
 ## Session 19
 
-Sylvara confirmed to [[Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]].
+Sylvara confirmed to [[Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]] for inbound goods only—never ore. Where Sunhold's ore actually goes is still unresolved.
 
 ## Session 23
 

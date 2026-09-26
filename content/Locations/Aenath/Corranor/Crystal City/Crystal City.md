@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-23T18:13:29
+updated: 2026-09-26T02:39:24
 ---
 
 # Crystal City
@@ -28,7 +28,7 @@ Status:: Active
 
 ## Description
 
-The capital of [[Corranor]], a city of ethereal beauty where structures crafted from transparent crystalline material refract sunlight into cascading rainbows. For over two centuries, Crystal City has been the heart of civilization in the Floating Lands — a place of governance, learning, and trade built atop a Transient island that periodically rises above and descends into the oceans of [[Aenath]].
+The capital of [[Corranor]], a city of ethereal beauty where structures crafted from transparent crystalline material refract sunlight into cascading rainbows. For over two centuries, Crystal City has been the heart of civilization in the Floating Lands — a place of governance, learning, and trade built atop a [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Transient island]] that periodically rises above and descends into the oceans of [[Aenath]].
 
 ## Districts
 
@@ -38,6 +38,17 @@ The capital of [[Corranor]], a city of ethereal beauty where structures crafted 
 - **[[Diamond District]]** — The Temple District; contains [[Mielikki's Grove]], [[Tidecaller's Sanctuary]], and the [[Hall of Justice - Temple of Tyr]]
 - **[[Garnet District]]** — The Commons; taverns, bars, and everyday life
 - **[[Jade Spire]]** — The towering government center and memorial to [[Corran Blackstaff|Corran]]
+- **[[Sapphire District]]**
+
+## Notable Features
+
+- [[Blessing Pool]]
+- [[Divination Fountain]]
+- [[Rainfall Chamber]]
+- [[Oghma's Temple]]
+- [[Temple of Kelemvor]]
+- [[Griffin's Hat]]
+- [[Azure Tamers]]
 
 ## Notable Residents
 

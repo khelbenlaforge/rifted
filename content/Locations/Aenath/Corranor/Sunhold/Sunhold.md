@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T02:48
-updated: 2026-09-23T18:18:42
+updated: 2026-09-26T02:38:48
 ---
 
 # Sunhold
@@ -46,11 +46,16 @@ A rough frontier settlement nestled within a caldera in [[Corranor]]'s western f
 - **[[Halia Thornton]]** — Ambitious merchant with her own agenda
 - **[[Elmar Barthen]]** — Pragmatic storeowner
 - **[[Toblen Stonehill]]** — Jovial innkeeper
-- **[[Sister Garaele]]** — Half-elf cleric of Tymora
+- **[[Sister Garaele]]** — Half-elf cleric of [[The Exodus/00_My Notes/Pantheon/Tymora|Tymora]]
 - **[[Luks Borg]]** — Establishing the [[Adamantine Guild]] outpost
+
+## Factions Present
+
+- [[Goblin Bandits]]
+- [[Hucrele Family]]
 
 ## Current Events
 
-The settlement is rife with tension. [[Keldara Hucrele]] publicly confronted [[Harbin Wester]] over his inaction regarding her missing children, [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]], who disappeared roughly fourteen days ago after joining a Goblin Merchants delegation south. The party arrived, was briefed by the council, and accepted the mission to rescue the Hucrele scions. Their trail led south through the marshes and eventually to the [[Sunless Citadel]] — a ruined fortress far south of the settlement.
+The settlement is rife with tension. [[Keldara Hucrele]] publicly confronted [[Harbin Wester]] over his inaction regarding her missing children, [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]], who disappeared roughly fourteen days ago after joining a [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] delegation south. The party arrived, was briefed by the council, and accepted the mission to rescue the Hucrele scions. Their trail led south through the marshes and eventually to the [[Sunless Citadel]] — a ruined fortress far south of the settlement.
 
 

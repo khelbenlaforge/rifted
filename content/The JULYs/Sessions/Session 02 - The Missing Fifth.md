@@ -7,7 +7,7 @@ campaign: Rifted
 session: 2
 date: 2026-08-21
 in-world-date: 20th Uktar, Year 222 PA
-updated: 2026-09-18T22:44:05
+updated: 2026-09-26T04:31:39
 ---
 
 # Session 02—The Missing Fifth
@@ -16,7 +16,7 @@ updated: 2026-09-18T22:44:05
 
 In Moscow, [[Nanaya Rei]] sat across a half-played board from a retired coach who'd spent four months teaching him nothing and telling him everything. Zurov answered the same patient opening with a Sicilian Dragon instead of his usual Caro-Kann, sharp where the old man always played safe, and the message landed the way it was meant to: handlers dark, proceed with caution. A dead window across the boulevard. A woman who'd stopped letting her dog pull her forward. Whatever Nanaya decided to do with any of it, he was still deciding when the gold streetlight started bending toward a single point that wasn't the lamp.
 
-Then the light took him somewhere else first. A flat world. A man at the center of a rising formation of stone, calm the way someone is calm after they've already made the choice. The earth stopped moving under his hands. A spike rose in his place, careful, deliberate, built by someone who loved what he was saving. Every other arrival to Aenath has carried this same vision at the exact moment of transport. Nanaya had never once had it explained to him; now he didn't need it explained, he'd just watched it happen.
+Then the light took him somewhere else first. A flat world. A man at the center of a rising formation of stone, calm the way someone is calm after they've already made the choice. The earth stopped moving under his hands. A spike rose in his place, careful, deliberate, built by someone who loved what he was saving. Nanaya had never once had it explained to him; now he didn't need it explained, he'd just watched it happen.
 
 He never got the landing the others got. Something was already waiting on the other side of the seam that pulled him through, and it had him before the vision even finished letting go. He woke up not on a lava platform with three strangers, but already inside the Hexad, hurt, alone, and short whatever the fight cost him to get there.
 

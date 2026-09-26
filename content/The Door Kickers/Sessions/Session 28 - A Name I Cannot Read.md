@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-04
 secret: false
 created: 2026-09-05
-updated: 2026-09-11T16:34:53
+updated: 2026-09-25T20:50:21
 ---
 
 # Session 28 - A Name I Cannot Read
@@ -160,4 +160,3 @@ The first level of the Sacred Sea, Marin said, need not take the full ten days. 
 - [[2026-09-04 - Session 28 Prep]]
 - [[Session 28 Extras]]
 - [[Session 27 - Rising of the Dark]]
-

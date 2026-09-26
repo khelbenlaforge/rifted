@@ -8,9 +8,9 @@ tags:
 campaign: Rifted
 introduced: pre-campaign
 secret: false
-state: historical
+state: dead
 created: 2026-04-08T22:56
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T20:41:58
 ---
 
 # Corran Blackstaff

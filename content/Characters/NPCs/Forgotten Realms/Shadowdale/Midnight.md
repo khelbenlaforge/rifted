@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Midnight
@@ -32,7 +32,7 @@ Raven-haired, dark-clothed, with the kind of presence that makes people look twi
 
 ## Personality
 
-Serene, flirtatious, and fearless in a way that is hard to read as either confidence or recklessness. She volunteered to join the party on the rescue of Caitlan's mistress "for the fun of it," which is the kind of thing someone says when they already know how the story ends.
+Serene, flirtatious, and fearless in a way that is hard to read as either confidence or recklessness. She volunteered to join the party on the rescue of [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Caitlan Moonsong|Caitlan]]'s mistress "for the fun of it," which is the kind of thing someone says when they already know how the story ends.
 
 Her devotion to [[Mystra]] isn't pious or formal; it's the intimate kind, faith earned through direct encounter rather than doctrine.
 
@@ -40,7 +40,7 @@ Her devotion to [[Mystra]] isn't pious or formal; it's the intimate kind, faith 
 
 During the Night of the Storm — when the gods were cast down to Toril by [[AO]] — Midnight was compelled to go outside into a secluded grove, where she met an avatar of [[Mystra]]. The goddess charged her with guarding the star pendant and chose her a spell to cast freely: *magic missile*, which now fires at maximum damage, four times without consuming a slot. The pendant also grants her *pass without trace* and *feather fall* at will.
 
-She joined the party of Torm, Adon, Cyric, and Kelemvor as the only reliable wizard in Arabel after the Storm drove most mages into hiding.
+She joined the party of Torm, [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Adon|Adon]], [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Cyric|Cyric]], and Kelemvor as the only reliable wizard in [[The Exodus/00_My Notes/Locations/Forgotten Realms/Arabel|Arabel]] after the Storm drove most mages into hiding.
 
 ## The Pendant
 
@@ -50,13 +50,13 @@ In Session 14, during the courtyard encounter, the pendant activated independent
 
 She has been told — she simply knows — that she must find [[Elminster]] in Shadowdale. She leveled to 4 mid-combat; her Intelligence is now 18 (spell DC 14).
 
-In Session 15, at the Temple of Lathander, the pendant ignited. Midnight became something else entirely — wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know — I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky — and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside Arabel.
+In Session 15, at the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]], the pendant ignited. Midnight became something else entirely — wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know — I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky — and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside Arabel.
 
 She has been carrying something that was always bigger than her. Now she is not.
 
 ## Session 15
 
-The cipher note from the Zhentarim commander, decoded jointly with [[Selmavra Elsree]]: Midnight was listed as the *pendant bearer* — *acquire or neutralize; carries fragment of divine intelligence, value: CRITICAL*. She read more than she shared with the group. What she kept back, and why, she has not said.
+The cipher note from the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] commander, decoded jointly with [[Selmavra Elsree]]: Midnight was listed as the *pendant bearer* — *acquire or neutralize; carries fragment of divine intelligence, value: CRITICAL*. She read more than she shared with the group. What she kept back, and why, she has not said.
 
 At [[Elminster]]'s tower, [[Storm Silverhand]] cast a song-spell to block all scrying and divination targeting her. Midnight accepted this without comment.
 
@@ -64,7 +64,7 @@ The pendant is empty now. She carried a goddess without knowing it. What she car
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the Sanctum mural, [[Min Ji-ah]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Min Ji-ah is not Midnight; no soul connection is implied (at this stage).
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Min Ji-ah]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Min Ji-ah is not Midnight; no soul connection is implied (at this stage).
 
 ## Character Sheet
 

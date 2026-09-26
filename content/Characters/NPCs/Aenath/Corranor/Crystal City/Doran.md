@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-18T13:48:58
+updated: 2026-09-26T00:50:25
 ---
 
 # Doran
@@ -33,7 +33,7 @@ Doran doesn't perform for a crowd and doesn't soften what he says for one either
 
 ## Background
 
-As Keeper of the Bulwark, Doran commands the city Watch and its wardens, the office responsible for what does and doesn't get into Crystal City. He deployed sixty of the Watch and eleven of his own guardians through the Diamond District the night the Cistern Street shrine was raided, and closed it before dawn. He takes the office's mandate personally: the wards are his to keep, and since the party's arrival, they have not held the way they used to.
+As Keeper of the Bulwark, Doran commands the city Watch and its wardens, the office responsible for what does and doesn't get into Crystal City. He deployed sixty of the Watch and eleven of his own guardians through the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Diamond District|Diamond District]] the night the Cistern Street shrine was raided, and closed it before dawn. He takes the office's mandate personally: the wards are his to keep, and since the party's arrival, they have not held the way they used to.
 
 ## Role in the Story
 

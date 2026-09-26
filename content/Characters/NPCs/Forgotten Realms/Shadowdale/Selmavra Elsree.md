@@ -1,15 +1,15 @@
 ---
 title: Selmavra Elsree
 aliases:
-  - Selmavra
+- Selmavra
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Selmavra Elsree
@@ -50,9 +50,9 @@ Selmavra has been a Harper long enough that the organization feels less like a c
 
 At the Shadowdale guard post, Selmavra clocked [[Torm of the Dales]]'s specific gait and posture from a mile out — she knew it was a Harper before the party arrived. Kept her face neutral.
 
-At the Old Skull Inn, using the nat 20 perception data from the guard post conversation, she confirmed that Torm was likely JJ and [[Midnight]] was likely Min Ji-ah. She found a way to signal without breaking Harper doctrine — she mentioned she had almost named [[Vesper]] "Michael C. Jordan," having heard the name from someone who knew a "Michael B. Jordan" whose rat was named Michael C. Jordan. The players caught it. Torm confirmed by dropping "Augie would be a great name for a familiar. Gill also." [[Cyric]] concluded they were just being strange. Cover held.
+At the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]], using the nat 20 perception data from the guard post conversation, she confirmed that Torm was likely JJ and [[Midnight]] was likely [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]]. She found a way to signal without breaking Harper doctrine — she mentioned she had almost named [[Vesper]] "Michael C. Jordan," having heard the name from someone who knew a "Michael B. Jordan" whose rat was named Michael C. Jordan. The players caught it. Torm confirmed by dropping "[[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augie]] would be a great name for a familiar. [[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]] also." [[Cyric]] concluded they were just being strange. Cover held.
 
-In the Zhentarim courtyard ambush, Selmavra cast *Hail of Thorns* — the Chaos Magic rebound hit her for 8 damage. She stayed in the fight.
+In the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] courtyard ambush, Selmavra cast *Hail of Thorns* — the Chaos Magic rebound hit her for 8 damage. She stayed in the fight.
 
 ## Session 15
 

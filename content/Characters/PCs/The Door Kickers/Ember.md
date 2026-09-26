@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T03:57
-updated: 2026-09-18T12:40:09
+updated: 2026-09-25T19:52:24
 ---
 
 # Ember
@@ -220,4 +220,11 @@ Ember also joined the Azure Tamers alongside Nanuk. She visited the Temple of [[
 
 - Travels north with the party, able to run as a wolf alongside the carriage.
 - Will break off later in the journey to return to the Ancients of Lava—not yet; noted as a planned future beat, not resolved this session.
+
+## Session 30
+
+*(DM-voiced this session.)*
+
+- The party sent her ahead on the Road to keep watch on the [[Ancients of Lava]] again—not her own call this time, but a task the group gave her on the strength of [[Belak]]'s known history with the faction. She left without saying much beyond that, still not ready to say out loud why they trouble her as much as they do.
+- The timing lines up with an unconfirmed rumor surfacing elsewhere on the Road—that [[Malar]] worshippers may be hiding inside the Ancients' own ranks. If true, it's exactly the shape of thing she went looking for.
 

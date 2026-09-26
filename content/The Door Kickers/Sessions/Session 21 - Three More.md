@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 date: 2026-06-25
 secret: false
-updated: 2026-09-08T21:37:22
+updated: 2026-09-25T20:48:30
 ---
 
 # Session 21 — Three More
@@ -41,7 +41,7 @@ While the newcomers spent ten days on an alabaster highway that floated slightly
 
 [[Gill Bates]] brought fish to his mentor at the [[Tidecaller's Sanctuary|Temple of Istishia]] and stayed for the lesson underneath the gift. The mentor named four doors: Sacred Sea, where you learn to stop controlling the water and let it carry you; Paths of Water, where you direct without forcing; Storm, chaos as teacher; and Eternal Transformation, which the mentor described without elaborating, the way teachers leave the hardest door for when the student has earned the handle. Gill had been spending evenings with death. The mentor said that was fine — elemental gods and gods of justice had always worked closely, and a cleric of water who understood the [[The Gravelords|Gravelords]] was more useful than one who didn't. He needed Gill to spend two downtime tracks on meditation the next time around. To start with the first door. To begin by letting go.
 
-[[Min Ji-ah]] found the gap in the Alchemist's ledgers — a week before she'd arrived in [[Crystal City]], a massive shipment of magical creature blood had come through the eastern road and sold out before the Alchemists could touch it. The city was running low on healing potions. Someone had bought the supply before it reached the people who would turn it into medicine. [[Veyris Thantorn]] laid out the cosmological map Min Ji-ah had been building toward: Feywild and Negative Plane as echoes, the astral barrier stuck in a position no one had caused and no one knew how to undo, beholder bone from so far astral it was useless for teleportation, wolf bone carrying the signature of Arborea — a wild plane, chaotic, not evil, and potentially traversable if enough of the creature had survived the crossing. The theory: enough planar items from living magical creatures might break the barrier open. The gap in the theory: no one knew why the barrier was stuck in the first place.
+[[Min Ji-ah]] found the gap in the Alchemist's ledgers — a week before she'd arrived in [[Crystal City]], a massive shipment of magical creature blood had come through the eastern road and sold out before the Alchemists could touch it. The city was running low on healing potions. Someone had bought the supply before it reached the people who would turn it into medicine. [[Veyris Thantorn]] laid out the cosmological map Min Ji-ah had been building toward: Feywild and Shadowfell as echoes, the astral barrier stuck in a position no one had caused and no one knew how to undo, beholder bone from so far astral it was useless for teleportation, wolf bone carrying the signature of Arborea — a wild plane, chaotic, not evil, and potentially traversable if enough of the creature had survived the crossing. The theory: enough planar items from living magical creatures might break the barrier open. The gap in the theory: no one knew why the barrier was stuck in the first place.
 
 ---
 

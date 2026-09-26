@@ -9,7 +9,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-18T12:16
-updated: 2026-08-02T13:59:57
+updated: 2026-09-26T00:50:25
 ---
 
 # Gork
@@ -30,11 +30,11 @@ Gork is large even for a bugbear — bark-dark skin threaded with faint green ve
 
 ## Personality
 
-Flat affect, brief sentences. She isn't cruel; she's aligned to something that has no room for cruelty or kindness either way. She has been Belak's thrall for years and has compressed herself into the role: tend the arboretums, protect the saplings, report to Belak. The woman she was before is still in there, faint and receding. What she *wants*, underneath the thrall, is to be done.
+Flat affect, brief sentences. She isn't cruel; she's aligned to something that has no room for cruelty or kindness either way. She has been [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Sunless Citadel/Belak|Belak]]'s thrall for years and has compressed herself into the role: tend the arboretums, protect the saplings, report to Belak. The woman she was before is still in there, faint and receding. What she *wants*, underneath the thrall, is to be done.
 
 ## Background
 
-She came to the Sunless Citadel years ago — the details are lost. Belak took her, the tree took the rest. She has been tending the Grove's gardens since before most of the current goblin workforce was born. The younger goblins are faintly afraid of her. The tree keeps her alive past what a bugbear body usually allows. She doesn't know destroying the tree will kill her. She has made her peace with the assumption that it will free her.
+She came to the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sunless Citadel|Sunless Citadel]] years ago — the details are lost. Belak took her, the tree took the rest. She has been tending the Grove's gardens since before most of the current goblin workforce was born. The younger goblins are faintly afraid of her. The tree keeps her alive past what a bugbear body usually allows. She doesn't know destroying the tree will kill her. She has made her peace with the assumption that it will free her.
 
 ## Role in the Story
 

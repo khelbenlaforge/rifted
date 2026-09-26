@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Kelemvor Lyonsbane
@@ -40,7 +40,7 @@ The [[Lyonsbane Panther]] *bursts out* of him. When the curse ends, he *bursts o
 
 He revealed this at camp, during Session 13, after the party found him unconscious in the dark with a dead deer nearby and black fur in the underbrush. He told them: *the reason I leave is that I don't want any of you in the way.*
 
-In Session 14, the transformation was witnessed for the first time by the full party — including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a Zhentarim Agent to save [[Midnight]] being dragged toward the gate — no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
+In Session 14, the transformation was witnessed for the first time by the full party — including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] Agent to save [[Midnight]] being dragged toward the gate — no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
 
 In Session 15, he woke on those cobblestones with [[Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
 
@@ -154,7 +154,7 @@ His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that kno
 
 ## Session 22 Lore
 
-The Church of Kelemvor was named as the authority that polices interplanar soul movement. The god of death arbitrates where souls go and prevents souls from being pulled across planes without sanction.
+The [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Church of Kelemvor]] was named as the authority that polices interplanar soul movement. The god of death arbitrates where souls go and prevents souls from being pulled across planes without sanction.
 
 [[Gill Bates]] and [[Augustus Kennedy]] both have established paths into the Church, making them the party's natural contacts for this thread.
 

@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-18T12:35:31
+updated: 2026-09-26T00:50:25
 ---
 
 # Perrin Quickquill
@@ -33,7 +33,7 @@ His cheerful, slightly scatter-brained public persona conceals a sharp intellect
 ## Background
 Fifteen years ago, Perrin corrected a mistranslation in one of [[Garm]]'s research requests and was promptly transferred to the orc wizard's personal staff. He has served as [[Garm]]'s indispensable assistant, bodyguard, and confidant ever since, operating from the [[Jade Spire]] in [[Crystal City|Crystal]].
 
-When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], and [[Min Ji-ah]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the Citrine District. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
+When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], and [[Min Ji-ah]] -- Perrin was the first to reach them. With [[Shadow Creatures]] threatening the Spire, he persuaded the bewildered arrivals to follow him to the [[Adamantine Guild]] in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Citrine District/Citrine District|Citrine District]]. There he coordinated with [[Istar Silverlock]], arranged food and lodging, and ensured the newcomers were settled before returning to [[Garm]]'s side at the Spire. He dreams of one day earning his own wizard credentials and proving he is more than just an assistant.
 
 ## Relationships
 - Personal assistant and bodyguard to [[Garm]], orc wizard of the [[Corranor Council]]
@@ -66,7 +66,7 @@ Deity:: Unknown
 
 Perrin and [[Layla]] ran a months-long teleportation circle project for [[Garm]], placing a circle in the northeast harbour. They sent a test stone through; it appeared for 3 seconds, then vanished with no destination. They are not sending people through it.
 
-On the High Harvestide arrival day, Layla was supposed to be in the Sanctum floor below, adjusting runic circle angles rather than casting a transit spell. Locate Person within 1000 ft. produced no result. [[Jonathan Jordan]] implied Layla was acting illegally; Perrin felt betrayed because she was his only friend and cannot believe she made a stupid mistake.
+On the High Harvestide arrival day, Layla was supposed to be in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] floor below, adjusting runic circle angles rather than casting a transit spell. Locate Person within 1000 ft. produced no result. [[Jonathan Jordan]] implied Layla was acting illegally; Perrin felt betrayed because she was his only friend and cannot believe she made a stupid mistake.
 
 The party may come to Perrin and [[Garm]] for teleportation or shifting information.
 

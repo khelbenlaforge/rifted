@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-09-18T13:04:10
+updated: 2026-09-25T19:52:13
 ---
 
 # Terra
@@ -261,4 +261,10 @@ PassiveStealth:: 16
 
 - Travelled north with the party as a DM-voiced companion.
 - Did not have an individual scene this session; her planned Mielikki's Grove/[[Sylvara Oakwhisper]] beat did not happen and is not an open thread—it simply didn't occur before the party left the city.
+
+## Session 30
+
+- Rode north on [[Torem]]'s griffin [[Bella]] alongside [[Min Ji-ah]] for the first half of the day—not on the ground with the carriage.
+- Talked about **[[The Unbound]]** longer than she usually lets herself: the suit, the jet-black hair, the long face and narrow nose, eyes that felt like they saw clean through whatever you were hiding. Admitted she'd felt safe under his certainty, in a community that didn't ask you to understand things yourself as long as he did—then the mine town got bought out from under them and he vanished the moment the builders arrived. Finding him again is most of what's kept her moving these past five years. Ji-ah didn't have the same figure in her own life but had the shape of what a charismatic leader does to a room, and her own stretch of having lacked direction—said as much, more openly than either of them usually manages.
+- Readied Spike Growth at the treeline the moment the starving wolf/tiger pack broke cover, a ring of thorns held in reserve in case Nanuk's offer went wrong. Cancelled it once the negotiation was clearly working.
 

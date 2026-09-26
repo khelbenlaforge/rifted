@@ -2,13 +2,13 @@
 title: Astral Sea
 aliases: null
 tags:
-- lore
-- lore/cosmology
+- location
+- location/plane
 campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-09-09T19:27:26
+updated: 2026-09-25T20:42:12
 ---
 
 # Astral Sea

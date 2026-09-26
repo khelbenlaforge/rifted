@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
-updated: 2026-09-22T00:23:16
+updated: 2026-09-25T15:24:15
 ---
 
 # Odette Langford
@@ -47,11 +47,12 @@ Odette's faith belongs to the hush between sunset and true dark, the last stretc
 
 - Session 1 (20th Uktar, Year 222 PA) - cold open in Mayfair; ducked into the coat check before the Ambassador's table, took a snack off attendant Rosa's table, then was teleported. Landed in The Emberveins with Kai, Frankie, and Masamune Kento (Nanaya Rei absent); met Layla; fought through the shadow-creature/pillar gauntlet; session ended at the ladder out of the cavern.
 - Session 2 (20th Uktar, Year 222 PA, same night) - climbed out of The Emberveins with Kai and Frankie (Masamune Kento present but sidelined, still shaken and injured from Session 1); found Layla losing a fight to hold open a tear that answered only to Rifted; went through after a fifth teammate a shadow creature had dragged into The Hexad. Found Nanaya Rei awake and hurt inside; the four solved the Hexad together and broke past a Fused Shadow guarding the exit by outrunning it into daylight. Back in Aenath, full party of five for the first time.
-- Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - met the new sixth party member, Ruairí, freshly arrived and carrying six Adamantine Guild bracers from Layla; only Kai, Odette Langford, and Ruairí present this session (Masamune Kento, Nanaya Rei, and Frankie's player absent). Traveled by hired carriage to Coldford, the party's first real look at the city; waved through the gate on the crest stamped into their own bracers; registered at the Tallhouse with branch leader Petra Hale, who laid out the Awakening's 222-year history, Corranor's calendar, and the continent's landfall cycle (roughly two weeks out). Rested in Petra's personal pocket dimension, then was tested alongside the others in her Guild-evaluation sparring match; she backed the party's standing afterward regardless of how the fight went.
+- Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - with Kai, held an abandoned campfire on the road (built a snowman while he got the fire going, took a long rest) until Ruairí's driver caught up to them; met the new sixth party member, freshly arrived and carrying six Adamantine Guild bracers from Layla (Masamune Kento, Nanaya Rei, and Frankie's player absent this session). Watched a spread of unexplained lights cross the moon on the road, unsettled by it longer than she'd say why. Traveled by hired carriage to Coldford, the party's first real look at the city; when the gate guard fixated on Ruairí, flirted with him deliberately to pull his attention elsewhere, then later strayed off the safe road herself on the walk to the Tallhouse and drew the street's attention without meaning to—Ruairí followed to watch over her, partly repaying the favor. Registered at the Tallhouse with branch leader Petra Hale, who laid out the Awakening's 222-year history, Corranor's calendar, the continent's landfall cycle (roughly two weeks out), and a rough Rifted headcount across three cities. Rested in Petra's personal pocket dimension, then was tested alongside the others in her Guild-evaluation sparring match; she backed the party's standing afterward regardless of how the fight went.
 
 ## Relationships
 
 - **Coral** — the caretaker who raised her with real affection; the only person on Earth who saw Odette instead of the brand. Left behind, not yet resolved.
+- **[[Ruairí]]**—Session 3: flirted with a suspicious gate guard on purpose to pull his attention off Ruairí; later strayed off Coldford's safe road herself, without realizing the danger in it, and he followed rather than let her walk into it alone. She started the debt; he's the one keeping track of it.
 
 ## Character Sheet
 

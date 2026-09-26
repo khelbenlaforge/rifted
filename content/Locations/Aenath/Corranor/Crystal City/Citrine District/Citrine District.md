@@ -1,15 +1,15 @@
 ---
 title: Citrine District
 aliases:
-  - Citrine District of Crystal
+- Citrine District of Crystal
 tags:
-  - location
-  - location/district
+- location
+- location/district
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-09-26T02:38:47
 ---
 
 # Citrine District
@@ -28,12 +28,13 @@ Status:: Active
 
 ## Description
 
-A vibrant and bustling quarter of [[Crystal City]], the Citrine District is defined by its lively docks and thriving merchant culture. Ships launch from its wharves for fishing expeditions and voyages to the Terra Bound Islands and Transient Landmasses. Since [[Corranor]]'s main island descended to the ocean, the docks have ramped up operations, and the district buzzes with renewed commercial energy.
+A vibrant and bustling quarter of [[Crystal City]], the Citrine District is defined by its lively docks and thriving merchant culture. Ships launch from its wharves for fishing expeditions and voyages to the [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Terra Bound Islands]] and Transient Landmasses. Since [[Corranor]]'s main island descended to the ocean, the docks have ramped up operations, and the district buzzes with renewed commercial energy.
 
 ## Notable Features
 
 - **The Docks** — Maritime hub for fishing, trade, and exploration; greatly invigorated after the island's descent
 - **[[Adamantine Guild]] Headquarters** — A two-story building of white stone with seven windows and wooden double doors bearing the emblems of [[Oghma]], [[Helm]], and [[Waukeen]]. Inside, a silence ward mutes the bustle of the district. The guild's extradimensional dormitory provides personalized pocket rooms for members, complete with magical amenities
+- [[Griffin's Hat]]
 
 ## Notable Residents
 

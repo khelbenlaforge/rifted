@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-18T13:13:37
+updated: 2026-09-26T00:50:25
 created: 2026-08-24T17:22:42
 ---
 
@@ -47,7 +47,7 @@ Stormberg's Adamantine Guild Wallwatch Branch Leader, night desk usually covered
 
 ## Role in the Story
 
-First point of contact for The Understudies on arrival in [[Stormberg]] (Session 4, Feast of the Moon, Year 222 PA). Confirmed their brass Guild bracers as real rank, then fed and housed them in the branch's pocket-dimension dormitory. What she told them went past simple induction: [[Corranor]], Stormberg's own situation, and the fact that they weren't the first Rifted she'd had to explain any of it to. The [[Ether Scryer's Academy]]'s finding came up in the same breath — that Rifted arrivals carry only "half a soul," one that grows toward whole the longer they remain in Aenath.
+First point of contact for The Understudies on arrival in [[Stormberg]] (Session 4, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA). Confirmed their brass Guild bracers as real rank, then fed and housed them in the branch's pocket-dimension dormitory. What she told them went past simple induction: [[Corranor]], Stormberg's own situation, and the fact that they weren't the first Rifted she'd had to explain any of it to. The [[Ether Scryer's Academy]]'s finding came up in the same breath — that Rifted arrivals carry only "half a soul," one that grows toward whole the longer they remain in Aenath.
 
 ## Relationships
 
@@ -136,8 +136,8 @@ Athletics +10 · Insight +4
 ## Session 5 Update (The Understudies)
 
 - Relayed a sending-stone report from Crystal City, but struggled to recall exact details; this was Rhona's own secondhand, unreliable account, not confirmed history: some Rifted had been attacked by the Cult of [[Shar]], and the First Gravelord had apparently been "kidnapped and almost sacrificed on the altar to Shar."
-- Named Garm, "the Keeper of the Spire," of the Council of Seven, as the archmage Layla worked under as an assistant — not as anyone responsible for or behind the party's own arrival; confirmed he's close to the Guild.
-- Delivered on her promised introductions: walked Esca to the [[Ward Works]] to meet [[Ostrun Kell]], walked Roberto to Stormberg's chapel of Lathander to meet [[Sister Priya Dawnwell]], and walked Kili to [[Yenna Marrow]]'s noodle stall. Kept Keith with her over breakfast instead and walked him through Stormberg's economy directly.
+- Named [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Garm|Garm]], "the Keeper of the Spire," of the [[The Exodus/00_My Notes/Factions/Corranor/Corranor Council|Council of Seven]], as the archmage Layla worked under as an assistant — not as anyone responsible for or behind the party's own arrival; confirmed he's close to the Guild.
+- Delivered on her promised introductions: walked Esca to the [[Ward Works]] to meet [[Ostrun Kell]], walked Roberto to Stormberg's chapel of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]] to meet [[Sister Priya Dawnwell]], and walked Kili to [[Yenna Marrow]]'s noodle stall. Kept Keith with her over breakfast instead and walked him through Stormberg's economy directly.
 - At day's end, took the party except [[Samson Flint]], still with the work gangs, through a portal to a training arena and began a combat evaluation: drew a **greatsword one-handed off her back, no shield**. Initiative was rolled (Esca led at 31), but the fight itself was cut off for the next session — resumes Session 6 against the legendary stat block above.
 
 ## Session 6 Update (The Understudies)
@@ -150,7 +150,7 @@ Athletics +10 · Insight +4
 ## Session 7 Update (The Understudies)
 
 - Escorted [[Roberto]] to mediate the Wall-labor dispute at the docks and explained that the Guild's downtime rules were already in play: a 10-day block with tracks.
-- During the speakeasy scene, relayed and confirmed the [[Adamantine Guild]]'s founding tenets to [[Kili]] and Roberto: Oghma's scroll is knowledge, Helm's fist is protection, and Waukeen's coin is commerce—"elevating society," not making money. Named their author as guildmaster Erkaniel Timbers ("[[Erky]]"), based in [[Crystal City]].
+- During the speakeasy scene, relayed and confirmed the [[Adamantine Guild]]'s founding tenets to [[Kili]] and Roberto: [[The Exodus/00_My Notes/Pantheon/Oghma|Oghma]]'s scroll is knowledge, [[The Exodus/00_My Notes/Pantheon/Helm|Helm]]'s fist is protection, and [[The Exodus/00_My Notes/Pantheon/Waukeen|Waukeen]]'s coin is commerce—"elevating society," not making money. Named their author as guildmaster Erkaniel Timbers ("[[Erky]]"), based in [[Crystal City]].
 - During the same speakeasy scene, named her family for the first time to anyone in the party: one child on the Wall crew, another at the [[Ether Scryer's Academy]] in [[Crystal City]], and a husband lost to Adamantine Guild work on the Wall. Both chose the work themselves, by her account, which is the part she's proudest of.
 - Followed it with an offer that had nothing to do with rank or duty: she'd teach Kili to fight, on her own time, because she meant what she told the table back in Session 6 about not losing any more of her kids.
 

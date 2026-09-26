@@ -8,7 +8,7 @@ introduced: 2026-09-06
 secret: false
 state: alive
 created: 2026-09-07T18:18:41
-updated: 2026-09-08T21:18:42
+updated: 2026-09-26T00:50:25
 ---
 
 # Brother Silas
@@ -26,7 +26,7 @@ updated: 2026-09-08T21:18:42
 
 ## Description
 
-- Exhausted monk on skeleton-crew duty at Stormberg's Temple of Kelemvor while most clergy rest after the Feast; explained to Roberto that all souls receive an afterlife judged by deeds and allegiance, that the old Wailing Wall was dismantled, that freely made soul-contracts such as those with the lower planes are honored, and that Lathander cannot claim an unpledged soul.
+- Exhausted monk on skeleton-crew duty at Stormberg's Temple of Kelemvor while most clergy rest after the Feast; explained to [[The Exodus/The Understudies/PCs/Roberto|Roberto]] that all souls receive an afterlife judged by deeds and allegiance, that the old Wailing Wall was dismantled, that freely made soul-contracts such as those with the lower planes are honored, and that [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]] cannot claim an unpledged soul.
 
 ---
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-22T22:54
-updated: 2026-03-22T22:54
+updated: 2026-09-26T00:50:25
 ---
 
 # Arabel
@@ -35,7 +35,7 @@ A mercenary city in the interior of Cormyr, known for its rough-and-tumble trade
 
 - Hub for mercenary work and adventurers-for-hire
 - Diverse population; pragmatic attitude toward law and order
-- Home base for Kelemvor, Cyric, Torm, Adon, and Midnight before the Avatar Crisis
+- Home base for Kelemvor, [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Cyric|Cyric]], Torm, [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Adon|Adon]], and [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Midnight|Midnight]] before the Avatar Crisis
 
 ## Current Events
 

@@ -7,6 +7,8 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
+created: 2026-03-23T00:00
+updated: 2026-09-09T18:30
 ---
 
 # Riothar Irontongue

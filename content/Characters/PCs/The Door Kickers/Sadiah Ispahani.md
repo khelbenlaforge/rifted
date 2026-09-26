@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-09-18T12:39:53
+updated: 2026-09-25T16:42:26
 ---
 
 # Sadiah Ispahani
@@ -237,4 +237,10 @@ PassiveStealth:: 14
 *(DM-voiced this session.)*
 
 - Travelled north with the party as a DM-voiced companion; no individual scene this session.
+
+## Session 30
+
+*(DM-voiced this session.)*
+
+- Traveled north with the party; scouted the Straggler's Rest ahead of the group alone, stealthed in and out without being noticed.
 

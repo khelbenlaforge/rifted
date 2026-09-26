@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Luks Borg
@@ -32,7 +32,7 @@ Luks Borg is a towering figure at six-and-a-half feet tall, his frame packed wit
 His personality is the great contradiction of his life: a berserker's fury in battle, and a father's gentleness at home. He carries carved wooden toys in his pockets for any child he meets, and his deep, gravelly voice drops to a murmur when he speaks of family.
 
 ## Background
-Born in a northern frontier village plagued by orc raids, Luks learned to fight before he learned to read. At fourteen, he held a bridge against five orcs after his uncle fell beside him, and the rage that ignited in that moment never fully died. Years as a mercenary earned him the name "Borg the Unbreakable," but it was Mara -- a travelling healer with a sharp tongue -- who changed the course of his life. They married seven years ago, and their daughter Lily was born shortly after. The family resides in [[Crystal City|Crystal]]'s Garnet District, where battle axes hang beside finger paintings on the walls.
+Born in a northern frontier village plagued by orc raids, Luks learned to fight before he learned to read. At fourteen, he held a bridge against five orcs after his uncle fell beside him, and the rage that ignited in that moment never fully died. Years as a mercenary earned him the name "Borg the Unbreakable," but it was Mara -- a travelling healer with a sharp tongue -- who changed the course of his life. They married seven years ago, and their daughter Lily was born shortly after. The family resides in [[Crystal City|Crystal]]'s [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Garnet District/Garnet District|Garnet District]], where battle axes hang beside finger paintings on the walls.
 
 As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luks runs morning combat drills, evaluates new recruits, and mentors young fighters -- his trainees affectionately called "Borg's Pups." He travelled with the party aboard the [[Vanny Faire]] to establish the Guild's presence in [[Sunhold]], where he met with [[Harbin Wester]] and took charge of setting up the Guild post. His authority and determination have been instrumental in integrating the [[Adamantine Guild]] into the frontier settlement.
 
@@ -149,7 +149,7 @@ Athletics +7 · Intimidation +3 · Perception +4 · Survival +4
 ---
 ## Session 1 Update (The Understudies)
 
-- 29th Uktar, Year 222 PA: Min Ji-ah contacted Luks remotely for guidance on what to do with four newly arrived Understudies PCs stranded near [[The Sundered Choir]]; he advised getting them to the nearest [[Adamantine Guild]] presence.
+- 29th Uktar, Year 222 PA: [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] contacted Luks remotely for guidance on what to do with four newly arrived Understudies PCs stranded near [[The Sundered Choir]]; he advised getting them to the nearest [[Adamantine Guild]] presence.
 
 Location updated to [[Crystal City]] (2026-07-26, DM confirmed) — has since returned from establishing the Guild post in [[Sunhold]] (see Background).
 

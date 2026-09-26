@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-09-18T12:39:59
+updated: 2026-09-25T20:45:29
 ---
 
 # Shen
@@ -231,7 +231,7 @@ Shen completed two retroactive weeks of downtime.
 
 ## Session 26
 
-- Present through the aftermath at the [[Adamantine Guild]], then peeled off alone for the [[Amethyst Quarter]] — still chasing down what's actually happening to the city.
+- Present through the aftermath at the [[Adamantine Guild]], then peeled off alone for the [[Amethyst District|Amethyst Quarter]] — still chasing down what's actually happening to the city.
 - Didn't appear again this session; the session note records only that he left, not what the trip turned up.
 
 ## Session 29

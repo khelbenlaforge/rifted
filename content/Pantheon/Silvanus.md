@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-18T12:35:46
+updated: 2026-09-26T00:50:25
 ---
 
 # Silvanus
@@ -51,10 +51,10 @@ Silvanus is revered by druids, nature wardens, and those who dwell in the deep w
 ## Session 28
 
 - Silvanus is not one of the four elemental primordials; he is a separate deity of nature who willingly allowed his divine essence to be hammered into the world to bring life.
-- Silvanus is inside the astral barrier rather than in Arborea, which is why he can still speak to mortals.
+- Silvanus is inside the astral barrier rather than in [[The Exodus/00_My Notes/Locations/Cosmology/Arborea|Arborea]], which is why he can still speak to mortals.
 - Silvanus takes no worshippers.
 - Legend says Silvanus calls a worthy soul to his grove, which is not a physical space.
-- The Ancients of Lava are searching for Silvanus's grove, and he has never welcomed any of them.
+- The [[The Exodus/00_My Notes/Factions/Corranor/Ancients of Lava|Ancients of Lava]] are searching for Silvanus's grove, and he has never welcomed any of them.
 
 ## Session 29
 
