@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-07
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Shar
@@ -44,16 +44,16 @@ Her faithful hold their worship close. Where her church is barred outright, its 
 
 ## Role in the Story
 
-No standalone Shar note existed until now — Selûne's own page held off "until warranted." This session (Understudies S5) is the trigger: the DM named "the Cult of Shar" and "the goddess Shah" directly as the party's antagonist, secondhand, via Rhona relaying news from Crystal City.
+No standalone Shar note existed until now — Selûne's own page held off "until warranted." This session (Understudies S5) is the trigger: the DM named "the [[The Exodus/00_My Notes/Factions/Corranor/Cult of Shar|Cult of Shar]]" and "the goddess Shah" directly as the party's antagonist, secondhand, via Rhona relaying news from Crystal City.
 
 **What's confirmed in Aenath so far, all Door Kickers-side:**
 - **Session 27** — [[Shrine of Shar]] in Crystal City's [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Diamond District|Diamond District]]: the site of a failed Rising of the Dark ritual, an altar the First Gravelord was bound to, and [[Mother Ilyra Duskveil]]'s death.
 - **Session 28 ([[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], into 1 Nightal)** — a second, more serious incident the same night: a summoning bound and dispersed at the site, publicly downplayed by [[Doran]] ("nothing entered Crystal City from outside it") even though the party watched otherwise. [[Garm]] told the assembled city the First Gravelord was alive and would close the Feast himself — implying real danger to him that night.
-- **Session 28, in-fiction cosmology reveal** — Selûne and Shar were originally a single being of light; their split created duality, and the first Mystra emerged from the split. This is the Faerûnian "Dark Moon heresy" — see DM Notes — except it's confirmed true in Aenath, not a heresy at all.
+- **Session 28, in-fiction cosmology reveal** — Selûne and Shar were originally a single being of light; their split created duality, and the first [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]] emerged from the split. This is the Faerûnian "Dark Moon heresy" — see DM Notes — except it's confirmed true in Aenath, not a heresy at all.
 
 **Understudies S5** — [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]] relayed word to the party in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]], secondhand and over a sending stone, that "some of the Rifted have been attacked... by members of the Cult of Shar," and that the First Gravelord "was kidnapped and almost sacrificed on the altar to Shar." This is almost certainly a dramatized, imprecise account of the Session 28 event above, reaching a different party at a physical remove — not a new incident, and not to be treated as confirming or correcting the Door Kickers' own record of what happened.
 
-**Understudies S7**—[[The Exodus/The Understudies/PCs/Keith Poe|Keith Poe]] independently followed up on Rhona's S5 account, digging through the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Ward Works|Ward Works]]' and [[The Exodus/00_My Notes/Factions/Corranor/Iron Seam Guild|Iron Seam Guild]]'s own stacks. A bare DC 15 pass turned up the diametric-opposite relationship with Selûne already established Door Kickers-side, and surfaced a new symbolic detail: her faith reads her into the last stretch of darkness before any dawn actually breaks. No Stormberg temple or shrine to either goddess identified yet—flagged as his own next step.
+**Understudies S7**—[[The Exodus/The Understudies/PCs/Keith Poe|Keith Poe]] independently followed up on Rhona's S5 account, digging through the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Ward Works|Ward Works]]' and [[The Exodus/00_My Notes/Factions/Corranor/Iron Seam Guild|Iron Seam Guild]]'s own stacks. A bare DC 15 pass turned up the diametric-opposite relationship with Selûne already established Door Kickers-side, and surfaced a new symbolic detail: her faith reads her into the last stretch of darkness before any dawn actually breaks. No [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]] temple or shrine to either goddess identified yet—flagged as his own next step.
 
 ## Connections
 

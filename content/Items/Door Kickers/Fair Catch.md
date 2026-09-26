@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-25T22:59
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 > [!infobox]
 > # Fair Catch
@@ -20,7 +20,7 @@ A fisherman's spear carried back from the prequel vision of Shadowdale. It belon
 
 Iron-tipped and barbed like a gaff hook, the shaft worn smooth where a hand has gripped it ten thousand times. The tip is designed for fishing — barbed to hold — and works just as well on enemies. In bright light, the rose-gold inlay catches the sun with faint pink warmth, which is not ideal for a weapon and does not appear to bother anyone who has ever held it.
 
-*"She appreciated the patience. And the sunsets."* — Adon, if asked why a Cleric of Sune had a fishing spear.
+*"She appreciated the patience. And the sunsets."* — Adon, if asked why a Cleric of [[The Exodus/00_My Notes/Pantheon/Sune|Sune]] had a fishing spear.
 
 ## Mechanics
 

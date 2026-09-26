@@ -1,16 +1,16 @@
 ---
 title: Sanctum of Ashardalon
 aliases:
-  - Sanctum
-  - The Sanctum
+- Sanctum
+- The Sanctum
 tags:
-  - location
-  - location/dungeon
+- location
+- location/dungeon
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-18T20:34
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T20:02:41
 ---
 
 # Sanctum of Ashardalon

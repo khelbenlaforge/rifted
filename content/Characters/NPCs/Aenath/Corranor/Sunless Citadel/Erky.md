@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Erky
@@ -46,7 +46,7 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 
 ## Key Events
 
-- **The Sanctum (Session 12):** When the party entered the true [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]], Erky saw only the illusion — the Ashardalon dragon and the ancient elven architecture. The murals, the statues of [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]], [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Bahamut|Bahamut]], and [[The Exodus/00_My Notes/Pantheon/Takhisis|Takhisis]], and the revealed shape of [[Aenath]] were all invisible to him. The Sanctum revealed itself only to the five PCs from Earth.
+- **The Sanctum (Session 12):** When the party entered the true [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]], Erky saw only the illusion — the Ashardalon dragon and the ancient elven architecture. The murals, the statues of [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]], [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Bahamut|Bahamut]], and [[The Exodus/00_My Notes/Pantheon/Takhisis|Takhisis]], and the revealed shape of [[Aenath]] were all invisible to him. [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|The Sanctum]] revealed itself only to the five PCs from Earth.
 - **The Lab Battle (Session 12):** Contributed powerful heals at key moments during the fight against the vine serpent and twig blight swarm in [[Durnn]]'s Research Lab. More capable than his size suggests.
 
 ## Relationships

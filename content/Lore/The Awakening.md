@@ -2,6 +2,7 @@
 title: The Awakening
 aliases:
 - Year 0 PA
+- Calamity Vision
 tags:
 - lore
 - lore/history
@@ -9,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T20:02:41
 ---
 
 # The Awakening
@@ -32,6 +33,18 @@ With the land stabilized, survivors began to build. Over 222 years, they created
 
 ## The Astral Connection
 
-Visions suggest a connection to the [[Astral Sea]], where over 10,000 souls were seen trailing behind a massive entity during the cataclysm. Whether the people of [[Corranor]] are those souls made flesh, or whether the events are connected in some other way, is unknown. [[Elmindaria L'Thorian]], one of the eldest living elves, recalls the earliest days of the Awakening and serves as a living link to this lost past.
+Visions suggest a connection to the [[Astral Sea]], where over 10,000 souls were seen trailing behind a massive entity during the cataclysm. Whether the people of [[Corranor]] are those souls made flesh, or whether the events are connected in some other way, is unknown. [[Elmindaria L'Thorian]], one of the eldest living elves, holds the clearest count of how many years have passed since—and nothing more. She doesn't remember the Awakening itself; she only knows, with more certainty than anyone else alive, exactly how long ago it was.
+
+## Witnesses
+
+Not everyone who crosses from Earth sees the same thing. Some live the cataclysm itself; others receive something quieter—a vision naming the gods who called them, with none of the fire or falling rock.
+
+**[[Ruairí]] (JULYs, Session 3)** lived what his own party calls the Calamity Vision from inside a borrowed fey body, at the edge of the same catastrophe: a spire ringed by rocks that circled it instead of falling, while everywhere else the sky came down in earnest. A single boulder took a knot of screaming fey at once. The instinct that answered—an Eldritch Blast thrown at a falling rock—belonged to the body he was wearing, not to him, and it didn't save anyone. He woke into his own skin afterward, the vision's failure still fresh.
+
+**[[Roberto]] (Understudies, Session 5)** experienced something with none of that imagery. His own arrival vision named [[Helm]] and [[Sune]] alongside [[Lathander]]—no cataclysm, no falling sky, just three gods claiming him at once. [[Sister Priya Dawnwell]] confirmed the reading independently once he reached [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]]'s own chapel: Lathander alone had never had a claim on him. Whatever the Awakening actually is, it doesn't show every arrival the same face.
+
+**An unnamed elf at the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Ward Works|Ward Works]] (Understudies, Session 7)** remembers it firsthand rather than through a vision—old enough to have lived the ground cracking open and people dying in the light of it, and to describe, in [[Sister Priya Dawnwell]]'s own retelling, a warmth she still calls the Morning Lord trying to hold the world together. Nobody currently walking Corranor has a memory older than hers.
+
+**[[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]]'s Coldmist**—the permanent fog bank that never fully lifts off that city's harbor—is described in that city's own note as "residual chill left over from the Awakening two centuries back that nobody living can explain and nobody's bothered chasing down." Nothing confirms the connection. Treat it as a hedge, an old dockside guess, never as settled fact.
 
 

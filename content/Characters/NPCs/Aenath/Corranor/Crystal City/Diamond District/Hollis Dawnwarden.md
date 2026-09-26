@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 state: alive
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T18:44:41
 created: 2026-08-15T22:49:29
 ---
 
@@ -49,7 +49,7 @@ Class:: Paladin (Oath of Devotion) 5
 Affiliation:: [[Hall of Justice - Temple of Tyr]]
 Deity:: [[Tyr]]
 
-## Session 27 Update
+## Session 27 Update (The Door Kickers)
 
 - Hollis rides a Find Steed mount named Holland, reflavored as an undead horse summoned from the Shadowfell.
 

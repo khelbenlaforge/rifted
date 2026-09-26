@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-09-25T17:22:45
+updated: 2026-09-26T19:22:01
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -124,6 +124,21 @@ Choose a creature, object, or location you can see or have touched in the last m
 **Elminster's Transfer** — 7th-level Transmutation · Action · V, S · Choose one active concentration spell within 120 ft. If the caster is unwilling, they make an INT save (DC = your spell save DC). On a fail — or if the caster is willing — concentration transfers to you. You now maintain the spell, control all its ongoing effects, and use your spell save DC and spellcasting modifier for any remaining rolls. Upon taking concentration, you may change the target(s) to any valid target(s) within the spell's original range. The original caster is freed. Cannot transfer spells of 8th level or higher. *He has been finishing other people's sentences for a thousand years — and he doesn't always finish them the same way.*
 
 **Elminster's Unmooring** — 8th-level Abjuration · Action · V, S · Concentration, up to 1 minute · One creature within 60 ft. makes a CON save (DC = caster's DC). On a fail, they lose all spellcasting for the duration — spell slots, cantrips, and magical abilities derived from spellcasting all fail to function. *The Weave simply refuses them.*
+
+---
+
+### Inquiry Answer Log
+
+Every casting of *Elminster's Inquiry* in play, in order. The spell won't let her ask the same question about the same subject twice, so this is the record that keeps that honest.
+
+| Session | Asked | Answer |
+|---|---|---|
+| 25 (The Adder's Hold) | Whether to kill the Floor Test's guards | "Don't kill me." |
+| 25 (The Adder's Hold) | Who the Marrow Ledger's redacted major client was | "Layla and Asmodeus." |
+| 26 (The Weight of the Moon) | How the party can get help from the gods | "Get past barrier." Third casting from the book; this one unlocked Elminster's Footnote. |
+| 27 (Rising of the Dark) | Where the real Gravelord was | Still in the Diamond District. |
+| 28 (A Name I Cannot Read) | About the three moons Terra spotted during the Feast | Not a short answer this time: a pipe being smoked, Elminster again, three demigods kneeling to Mystra, Mystra kneeling back weeping, and the bargain struck: Solinari, Lunitari, and Nuitari giving themselves up to become Aenath's moons and anchor the Weave in her stead. |
+| 29 (Gates That Keep Moving) | What the missing page was waiting for | "Gates. Moving." |
 
 ---
 Rarity:: Unique

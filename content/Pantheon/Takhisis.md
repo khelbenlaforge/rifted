@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T16:15
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Takhisis
@@ -52,7 +52,7 @@ In [[Aenath]], she is known primarily through the dragon cults that have flouris
 
 Dragon cults operating across [[Corranor]] invoke Takhisis when they seek power, conquest, or the favour of chromatic dragons. The [[Sunless Citadel]]'s builders aligned themselves with [[Ashardalon]] — and through him, with Takhisis. Her influence runs beneath the dungeon like a vein of old malice.
 
-Her more orthodox followers see [[Bahamut]] as the eternal enemy. That the Sanctum depicts them as co-protectors is a heresy that no dragon cultist would accept — and a mystery the party has yet to unravel.
+Her more orthodox followers see [[Bahamut]] as the eternal enemy. That the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] depicts them as co-protectors is a heresy that no dragon cultist would accept — and a mystery the party has yet to unravel.
 
 ## Connections
 

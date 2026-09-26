@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-08T22:32:33
+updated: 2026-09-26T18:44:41
 ---
 
 # !D'bleh
@@ -162,13 +162,13 @@ Location::
 Deity::
 Playbook:: [[!D'bleh - Playbook]]
 
-## Session 1 Update
+## Session 1 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: in his played cold open, Aunt Ounooi Petro refused to be talked down on price and sent the entitled university-kid customer off with nothing to show for it, not backing down an inch.
 - 29th Uktar, Year 222 PA: she then moved on to ribbing !D'bleh about a woman she wanted him to meet. It was a good afternoon, the kind he didn't get many of.
 - 29th Uktar, Year 222 PA: the pull hit mid-laugh as !D'bleh walked her stall shutter down.
 
-## Session 2 Update
+## Session 2 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: dropped out of the Stormberg formation mid-flight and straight into somebody else's ambush, on ground he had never seen, with two strangers already losing it. The Choir had taught the original four what these things do — they keep standing back up out of dim ground — so he did not try to win the fight. He ran it as an extraction. Get [[Keith Poe]] and [[Roberto]] moving, keep them moving, break contact, and do not stop to count kills.
 - 29th Uktar, Year 222 PA: the riders went north again before dawn, one seat short. [[Kili]] was the one still standing in the clearing when they lifted.

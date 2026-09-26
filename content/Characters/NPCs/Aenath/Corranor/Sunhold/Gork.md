@@ -9,7 +9,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-18T12:16
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Gork
@@ -30,7 +30,7 @@ Gork is large even for a bugbear — bark-dark skin threaded with faint green ve
 
 ## Personality
 
-Flat affect, brief sentences. She isn't cruel; she's aligned to something that has no room for cruelty or kindness either way. She has been [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Sunless Citadel/Belak|Belak]]'s thrall for years and has compressed herself into the role: tend the arboretums, protect the saplings, report to Belak. The woman she was before is still in there, faint and receding. What she *wants*, underneath the thrall, is to be done.
+Flat affect, brief sentences. She isn't cruel; she's aligned to something that has no room for cruelty or kindness either way. She has been [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Sunless Citadel/Belak|Belak]]'s thrall for years and has compressed herself into the role: tend the arboretums, protect the saplings, report to [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Sunless Citadel/Belak|Belak]]. The woman she was before is still in there, faint and receding. What she *wants*, underneath the thrall, is to be done.
 
 ## Background
 

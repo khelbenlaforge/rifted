@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T19:36:33
 ---
 
 # Adamantine Guild
@@ -43,7 +43,13 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]]'s own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
 - **The Tallhouse, [[Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
-- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed The AUGs (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
+- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed a party (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
+
+## Guildhall & Pocket Dimensions
+
+Every branch's headquarters includes a pocket dimension locked to that one location—it doesn't breach the barrier and doesn't allow travel between branches. Most run as dormitories: the Crystal City headquarters' own extradimensional quarters give each member a personalized pocket room, complete with impossibly comfortable beds and a floating breakfast spread; the Wallwatch keeps "a pocket dimension like the Guild kept in Crystal City," five doors to rooms and a common room with its own floating disk; the Tallhouse's is smaller still, a pocket dormitory off the back hall.
+
+The Cliffwatch's pocket dimension works differently. [[Dessa Kestrel]] brought a party through a portal that reshaped itself from a plain room into an arena—**the Proving Floor**—mist curling across worn stone under an open sky, used for evaluations rather than rest (Session 3). Whether that's the same underlying pocket dimension as the other branches' dormitories, just reconfigured for testing, or a fundamentally different construction isn't stated outright—left as an open inference, not confirmed fact.
 
 ## Operations
 

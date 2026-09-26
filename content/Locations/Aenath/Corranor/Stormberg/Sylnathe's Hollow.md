@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-17
 secret: false
 created: 2026-09-18T14:00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Sylnathe's Hollow

@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T14:10:06
 ---
 
 # Cadmus Tallow
@@ -30,7 +30,7 @@ Cadmus has held the office of First Gravelord for 31 years, longer than anyone c
 
 That philosophy was tested past its limit in Session 28. Eleven hundred and forty names had come to the temple since sundown, and the recitation ran unbroken through the night—kept up by monks and clerics even while Cadmus himself was elsewhere, a fact that unsettled him more than it reassured him ("in thirty-one years as First Gravelord he had not known until that night that it would hold without him"). A monk died keeping the vigil going. Cadmus did not personally read all eleven hundred and forty names himself; his part was to stand before the city afterward, publicly defy [[Oriel Blackstaff]]'s ruling that the Temple's involvement in recent events was a closed matter ("I am going to open it again before I am finished, and he may do as he likes about that"), and then say the thing he plainly wished he didn't have to: one name on the roll he could not read, because the soul behind it had never arrived to be counted at all.
 
-That soul was [[Alys Rook]], dead four years and never met by the Temple. Rather than let the city's anger land on her brother for arranging an unsanctioned rite to free her, Cadmus took the failure onto his own office in front of the assembled crowd ("I am expected to say that he betrayed us. I have read the book. The book says we failed her first."). He blessed the city and began to collapse from the strain; [[Gill Bates]] caught him before he fell.
+That soul was [[Alys Rook]], dead five years and never met by the Temple. Rather than let the city's anger land on her brother for arranging an unsanctioned rite to free her, Cadmus took the failure onto his own office in front of the assembled crowd ("I am expected to say that he betrayed us. I have read the book. The book says we failed her first."). He blessed the city and began to collapse from the strain; [[Gill Bates]] caught him before he fell.
 
 ## Relationships
 - Publicly defied [[Oriel Blackstaff]]'s closed-matter ruling on the Temple's involvement, and intends to reopen it
@@ -52,7 +52,7 @@ Deity:: [[Kelemvor]]
 
 - Presided over the temple's overnight recitation for 1,140 dead; did not personally read the names himself—monks and clerics kept the chant running through the night, one dying at the vigil.
 - Publicly defied [[Oriel Blackstaff]]'s ruling that the Temple's role in recent events was closed; announced intent to reopen it.
-- Revealed [[Alys Rook]] had never been counted by the Temple in the four years since her death, and took institutional responsibility rather than blame her brother.
+- Revealed [[Alys Rook]] had never been counted by the Temple in the five years since her death, and took institutional responsibility rather than blame her brother.
 - Collapsed from the strain immediately after; caught by [[Gill Bates]].
 
 

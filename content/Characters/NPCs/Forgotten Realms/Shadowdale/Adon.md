@@ -1,14 +1,14 @@
 ---
 title: Adon
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T19:36:25
 ---
 
 # Adon
@@ -39,7 +39,7 @@ A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joine
 
 ## The Scar
 
-At the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]] in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation — when the east wall blew outward and the room was nothing but light — a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
+At the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]] in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation — when the east wall blew outward and the room was nothing but light — a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
 
 A cleric of [[Sune]] — the goddess of beauty — marked across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light.
 
@@ -51,7 +51,7 @@ A canonical character from the Forgotten Realms **Avatar Series** (The Times of 
 
 ## Session 15
 
-In the Temple of Lathander, during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
+In the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]], during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
 
 The scar is permanent. For a cleric of [[Sune]] — the goddess of beauty — this is not a minor wound. How Adon reconciles a god of beauty's silence at the moment her chosen was permanently scarred is a question he has not yet had to face.
 

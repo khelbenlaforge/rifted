@@ -8,12 +8,22 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-09-25T20:42:12
+updated: 2026-09-26T19:22:29
 ---
 
 # Astral Sea
 
-A vast, incorporeal realm where souls drift among luminescent currents and colossal entities move through the endless expanse. The Astral Sea is not bound by the physical laws of the material world — space and time flow differently here, and countless spirits coexist alongside beings of immense power.
+> [!infobox|right wikipedia]+
+> # Astral Sea
+> ###### Quick Reference
+> | | |
+> | ---- | --- |
+> | Type | Outer Plane |
+> | Access | Beyond the astral barrier |
+
+## Description
+
+A vast, incorporeal realm where souls drift among luminescent currents and colossal entities move through the endless expanse. The Astral Sea is not bound by the physical laws of the material world—space and time flow differently here, and countless spirits coexist alongside beings of immense power.
 
 ## Nature
 

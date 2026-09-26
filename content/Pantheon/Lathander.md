@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-26T00:00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Lathander
@@ -49,6 +49,6 @@ A second abandoned Lathander temple has been confirmed — [[The Exodus/00_My No
 
 **First living worship confirmed (Understudies Session 5, Feast of the Moon into 1 Nightal, Year 222 PA):** the Dawnhearth, a modest working chapel in [[Stormberg]] tended by [[Sister Priya Dawnwell]], is the first active Lathander clergy either party has met in Aenath. That's a genuine break from "both known temples are abandoned." Priya's own theology, as given in play, centers entirely on beginnings. His church abhors undeath and desecration the same way Kelemvor's does. It stops there. Where a soul goes after death isn't his church's concern. She and [[Brother Silas]] ([[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]], same session) confirmed the jurisdictional line from their own sides: Lathander cannot poach a soul that hasn't pledged to him first.
 
-**Worth watching, not asserted:** the PC who met Priya ([[The Exodus/The Understudies/PCs/Roberto|Roberto]]) was called to his faith alongside visions of Helm and Sune — a pointed detail given Faerûnian lore's Helm/Lathander grudge over Murdane (see DM Notes). Nothing in-fiction has connected these yet.
+**Worth watching, not asserted:** the PC who met Priya ([[The Exodus/The Understudies/PCs/Roberto|Roberto]]) was called to his faith alongside visions of Helm and [[The Exodus/00_My Notes/Pantheon/Sune|Sune]] — a pointed detail given Faerûnian lore's Helm/Lathander grudge over Murdane (see DM Notes). Nothing in-fiction has connected these yet.
 
 

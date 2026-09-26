@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-26T02:39:05
+updated: 2026-09-26T17:35:51
 ---
 
 # Knights of the Eternal Order
@@ -23,7 +23,7 @@ updated: 2026-09-26T02:39:05
 
 ## Description
 
-The Knights of the Eternal Order are the paladins of the [[Temple of Kelemvor]], and their specific charge is the Threshold Gates — three archways in the temple's Knights' hall that open, at certain hours, onto the Abyss, the Nine Hells, and the Outplane. The Knights stand before them at all times. Not to prevent passage. To ensure it goes the right way.
+The Knights of the Eternal Order are the paladins of the [[Temple of Kelemvor]], and their specific charge is the Threshold Gates—three archways in the temple's Knights' hall facing the Abyss, the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], and the Outer Planes. Only the first two actually function as transit: the Lower Planes sit inside the astral barrier, reachable this way. The third shows its own glimpse the same as the others, but has never opened as a passable transit in living memory—the Outer Planes lie beyond the barrier, out of any gate's reach, and that's why the Church falls back on the Feast night ritual instead. The Knights stand before all three at all times anyway. Not to prevent passage. To ensure it goes the right way.
 
 Every cross-planar transit in [[Crystal City]] that runs through legitimate channels runs through the Knights. They authorize outbound trips into the planes. They intercept unsanctioned arrivals. They return the dead to the appropriate destination when something or someone tries to interfere with the process. Call them gatekeepers and they'll correct you: a gatekeeper stands beside the gate. They stand as it, upright and immovable.
 
@@ -34,7 +34,7 @@ The name is a statement of scope: *eternal* because death does not end, and *ord
 The order's internal hierarchy is not publicly displayed. Rank is visible in the trim of the vestment and the number of seals on the sword harness; names are known to those who need to know them.
 
 - **[[Augustus Kennedy]]** — Joining as an initiate. A paladin of [[Kelemvor Lyonsbane|Kelemvor]] by divine signature — the [[Kelemvor's Brand|Brand]] made the affiliation clear before the Knights were consulted about it. He will hold his law enforcement post with [[Hall of Justice - Temple of Tyr|Tyr's judiciary]] concurrently; the temple has noted this and appears unconcerned.
-- [[Ser Tamsin Rook]]—the Knight compromised during the Shar infiltration (Session 27)
+- [[Ser Tamsin Rook]]—the Knight compromised during the [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] infiltration (Session 27)
 
 ## Operations
 

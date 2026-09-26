@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T02:39:24
+updated: 2026-09-26T19:25:10
 ---
 
 # Crystal City
@@ -59,6 +59,6 @@ The capital of [[Corranor]], a city of ethereal beauty where structures crafted 
 
 ## Current Events
 
-During High Harvestide of Year 222, five strangers appeared atop the [[Jade Spire]], and [[Shadow Creatures]] began attacking the Spire in force. The main Transient island has since descended to the ocean surface, opening the [[Citrine District]] docks to maritime trade and travel. The [[Adamantine Guild]] has deployed members to [[Sunhold]], leaving the city's defenses stretched thin.
+During High Harvestide of Year 222, five strangers appeared atop the [[Jade Spire]], and [[Shadow Creatures]] began attacking the Spire in force. The main [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Transient island]] has since descended to the ocean surface, opening the [[Citrine District]] docks to maritime trade and travel. The [[Adamantine Guild]] has deployed members to [[Sunhold]], leaving the city's defenses stretched thin.
 
 

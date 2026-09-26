@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T18:44:41
 ---
 
 > [!infobox|right wikipedia]+
@@ -58,7 +58,7 @@ Affiliation:: [[The Claret]]
 - Noticed [[Terra|Terra]] on the roof outright (a natural 1); the party sent her home rather than risk it. Never noticed [[Sadiah Ispahani|Sadiah]] holding position near the city wall all night.
 - Escorted the party — JJ, [[Shen]], [[Regius]], [[Gill Bates]], [[Nanuk]], and [[Min Ji-ah]] — through the back-room archway to meet her boss, the Claret figure who runs the [[Garnet District]] and [[Sunstone District]], without speaking his name aloud.
 
-## Session 25 Update
+## Session 25 Update (The Door Kickers)
 
 - Confirmed she had tipped Corvin off in advance that the party might be paying him a visit.
 

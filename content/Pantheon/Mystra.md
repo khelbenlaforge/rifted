@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Mystra
@@ -79,7 +79,7 @@ The death of a god destabilizes magic — Mystra's death doubled chaos magic rol
 
 - **[[Azuth]]** — Formerly among the most powerful mages alive, now her devoted adviser on magic's advancement and preservation — amorous, by some accounts. Named alongside her and [[Savras]] in the same temple complex in Session 26.
 - **[[Kelemvor]]** — A complicated history. [[Min Ji-ah]] sensed love, betrayal, and unhealed wounds between Mystra's echo and the god of death's walled isolation during the Sealed Door trial.
-- **[[Gond]]** — Depicted opposite Mystra in the Sanctum statuary, his hammer shaping what her hands protect.
+- **[[Gond]]** — Depicted opposite Mystra in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] statuary, his hammer shaping what her hands protect.
 - **[[Min Ji-ah]]** — The PC most strongly aligned with Mystra's domain. During Min Ji-ah's vision, [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Corran Blackstaff|Corran]] addressed [[Midnight]] — whose body Min Ji-ah inhabited — as "my Lady," not Min Ji-ah herself; a title with possible Mystran significance, unexplained.
 - **[[Bane]]** — Mystra remembered her own death. *"You killed me once. I thought you should know — I remember."* She bound him and pulled him through the Celestial Stairway, smiling.
 - **[[Storm Silverhand]]** — One of the Seven Sisters, all daughters of Mystra by mortal men. Storm carries silver fire.

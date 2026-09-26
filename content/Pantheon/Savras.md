@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Savras
@@ -48,6 +48,6 @@ Named in Session 26 alongside Azuth by [[The Exodus/The Door Kickers/PCs/Min Ji-
 
 ## Connections
 
-- **[[Azuth]]** — Conqueror and current superior. Savras serves him, and through him serves Mystra indirectly, following his imprisonment and conditional release.
+- **[[Azuth]]** — Conqueror and current superior. Savras serves him, and through him serves [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]] indirectly, following his imprisonment and conditional release.
 
 

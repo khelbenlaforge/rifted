@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-09-26T02:38:47
+updated: 2026-09-26T19:26:08
 ---
 
 # Sunless Citadel
@@ -56,5 +56,7 @@ Beyond the Sealed Door lies the [[Sanctum of Ashardalon]] — a chamber of extra
 The party has explored deep into the Grove Level alongside companions [[Balsag]], [[Erky]], and a [[The Exodus/00_My Notes/Bestiary/Fey/Velvet Vulper|Velvet Vulper]] called [[Little Sister]]. [[Talgen Hucrele Jr.]] was found dead among the bioluminescent growth. [[Sharwyn Hucrele]], [[Sir Braford]], and [[Karakas]] remain missing, believed to be deeper within the citadel near [[Belak]].
 
 The party discovered and passed through the Sealed Door, gaining access to the Sanctum — a hidden chamber of profound cosmological significance predating the dragon cult. They are currently studying its contents, which challenge everything they thought they understood about [[Aenath]].
+
+The [[Gulthias Tree]] island itself is due to resurface in roughly two weeks, on a fixed timetable nobody can move up or learn more precisely in advance—only that it's running.
 
 

@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -45,7 +45,7 @@ East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azur
 
 On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark. Right now, that baseline holds, but [[Petra Hale]] has quietly started tracking a string of "insurance" shakedowns hitting smaller Manifest House stalls: nothing citywide yet, no names, just a pattern on a corkboard only she looks at.
 
-The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 PA (Session 3, arriving overland by carriage from the south after departing on the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]). Only three of the six-strong party made the trip, Kai, [[The Exodus/The JULYs/PCs/Odette Langford|Odette Langford]], and the newly arrived [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]]. The crest on their own Adamantine Guild bracers was enough to skip Tamsin Vell's usual headcount entirely, no name taken, no scene with her this time, but a different set of eyes near the gate gave Ruairí trouble anyway: a man overseeing entry took an uncomfortable interest in him until Odette flirted the man's attention elsewhere, exactly the kind of notice the driver had warned them about on the way in—rare things sell here before anyone asks questions, and a changeling counts as rare. The debt that started there followed them into the city: walking to the Tallhouse, Odette strayed off the road herself and drew a crowd's attention in seconds, and Ruairí followed to watch over her in turn. [[Petra Hale]] later confirmed the same danger directly and talked Ruairí into a less conspicuous shape.
+The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 PA (Session 3, arriving overland by carriage from the south after departing on the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]). Only three of the six-strong party made the trip, Kai, [[The Exodus/The JULYs/PCs/Odette Langford|Odette Langford]], and the newly arrived [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]]. The crest on their own Adamantine Guild bracers was enough to skip Tamsin Vell's usual headcount entirely, no name taken, no scene with her this time, but a different set of eyes near the gate gave [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]] trouble anyway: a man overseeing entry took an uncomfortable interest in him until Odette flirted the man's attention elsewhere, exactly the kind of notice the driver had warned them about on the way in—rare things sell here before anyone asks questions, and a changeling counts as rare. The debt that started there followed them into the city: walking to the Tallhouse, Odette strayed off the road herself and drew a crowd's attention in seconds, and Ruairí followed to watch over her in turn. [[Petra Hale]] later confirmed the same danger directly and talked Ruairí into a less conspicuous shape.
 
 ## Scene Features
 

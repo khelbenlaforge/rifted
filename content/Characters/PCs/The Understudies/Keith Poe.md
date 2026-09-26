@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-25T20:52:13
+updated: 2026-09-26T18:44:41
 ---
 
 # Keith Poe
@@ -182,40 +182,40 @@ Location:: [[Stormberg]]
 Deity::
 Playbook:: [[Keith Poe - Playbook]]
 
-## Session 2 Update
+## Session 2 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: cold open at a noodle stall near the Rim Moei market in Mae Sot, working Naw Eh Paw as a source on a trafficking route across the Myanmar border, when his patron rang with more money and more pressure to file fast. He stepped away to take it, and the walk toward the riverbank stopped being a walk at all.
 - 29th Uktar, Year 222 PA: fell through a shared arrival vision—a tower under a cloud that wouldn't stop turning, ground opening under running crowds, people crushed by falling stone. He died in it, as [[Roberto]] did, and woke on the other side anyway.
 - 29th Uktar, Year 222 PA: came to in [[The Hollowreach]], misrouted there by [[Layla]] when he should have joined the Stormberg route. First contact with Roberto went badly—Keith lunged at him in a panic that read as an attack, then broke for the treeline shouting at him to run.
 - 29th Uktar, Year 222 PA: survived the Shadow Creature ambush that followed with Roberto, [[!D'bleh|Gaslight]] and [[Fern]], running until the ground stopped being wrong. Whatever the boundary was, the things chasing them would not put a foot over it. When the bats went up he was still on the ground; they could not carry five.
 
-## Session 3 Update
+## Session 3 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: [[Kili]] arrived, which made three of them, which made the thing [[Layla]] wanted possible.
 - 29th Uktar, Year 222 PA: the doorway was the part he could not let go of. A door standing in a tree line with nothing holding it up, edges that refused to sit right in a way nobody could put words to, and a barrier across it that had stopped Layla cold and would not stop them. She could not explain why. He wrote that down.
 - 29th–30th Uktar, Year 222 PA: went through into [[The Hexad]] with Kili and Roberto. Six rooms turning around a wheel, each one built to test a single principle, and no way to reason it out from the threshold. They solved it the slow way, by walking into the wrong ones.
 - 30th Uktar, Year 222 PA: out the far side into daylight, thirtieth of Uktar, with a fourth body between them who had still not opened his eyes.
 
-## Session 4 Update
+## Session 4 Update (The Understudies)
 
 - Feast of the Moon, Year 222 PA: [[Esca]] came out of the dark with five brass [[Adamantine Guild]] bracers and no name attached to them. Keith noted that, and has not stopped noting it.
 - Feast of the Moon, Year 222 PA: at the outer gate a watchman's hand went toward his belt and came off it again the moment torchlight caught brass. The town was mid-Feast, names of the dead being read in doorways. Three streets in, straight to the Wallwatch, no wandering.
 - Feast of the Moon, Year 222 PA: **[[Rhona Voss]]** took them onto the branch's books and then, once English came out of someone's mouth, simply talked. The Magocracy. The Blackstaff family the kingdom is named for. The Academy that keeps the Wall's magic running. The half-soul finding. The fact that Rifted had reached Crystal City before them. Keith came out of that room with more of the city's shape than anyone else in the party, which is roughly what he is for.
 
-## Session 5 Update
+## Session 5 Update (The Understudies)
 
 - Feast of the Moon, Year 222 PA: gave his own name to the midnight blessing's vigil without telling the rest of the party. (Whether his was one of the two papers that never burned is unconfirmed — see the Dashboard's Open Threads; don't treat as resolved.)
 - Feast of the Moon, Year 222 PA: a high perception roll caught Roberto's eyes tracking something invisible during the ceremony (Kili rolled too low to notice the same thing). Hasn't said anything to Roberto about it — an open thread on his side too.
 - 1 Nightal, Year 222 PA: pushed past the Wallwatch's own job board toward Stormberg's manufacturing/artisan side; Rhona walked him through the city's economic triangle (the Academy, House Verenthal's mills, Blackstaff-funded airship stones) and introduced the **[[Iron Seam Guild]]**, the artificer/engineer order maintaining the wall's non-magical machinery — a natural fit flagged for his own path forward.
 - Standing loose end (per his own DM Notes, Arcane Armor conversion / whether he owns Smith's Tools) was **not** resolved this session — the planned Reagent House visit never happened; still open.
 
-## Session 6 Update
+## Session 6 Update (The Understudies)
 
 - Night before, 1 Nightal, Year 222 PA: shared a vision with Kili and Roberto — his own. Woke burned along his left side inside an unfamiliar, taller body, a misfired campfire spell blamed on magic gone wrong across a world where the gods had come down to walk it themselves; spent the dream on crutches gathering maps with peers who all looked younger than they should, marking where the old powers had gone. Later shared a closing scene with Kili and Roberto — Helm barring Lathander from a second stairway, refusing any god's return; caught himself mid-prayer to a newly-reborn goddess of magic before he knew he'd started. The vision took his soul with it when it ended — the same thing that happened to Roberto's, nothing like whatever happened to Kili's. None of it made sense the next morning either.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger. Catapulted a caltrop at her — resisted, but cost her the first of three legendary resistances used against the party that fight. Landed one lightning-launcher hit mid-fight; his last bolt was parried clean, and he spent the fight's final stretch with nothing left to try but standing between Kili and the fight.
 - 1 Nightal, Year 222 PA: heard Rhona's six-years admission along with the rest of the table afterward — nothing aimed at him in particular, but worth keeping on record for a woman he's about to be taking Guild work from.
 
-## Session 7 Update
+## Session 7 Update (The Understudies)
 
 - Night of 1 Nightal, Year 222 PA: decorated his own room in the Guild's pocket dimension.
 - 1–10 Nightal (downtime): backed [[Roberto]] up during his wall-labor negotiation with **[[Sir Verenthal]]**, framing the case in terms a profit-minded nobleman would follow rather than an appeal to fairness alone—Roberto's own track, Keith just along for the scene.
@@ -224,7 +224,7 @@ Playbook:: [[Keith Poe - Playbook]]
 - 1–10 Nightal (downtime): his second track skipped the workshop floor entirely: new Iron Seam faces at [[Kili]]'s speakeasy, a standing discount for anyone wearing the Guild's mark by night's end. It put him properly on his supervisor's radar: senior artificer **[[Cinderjaw Varnick]]**, impressed enough to offer him a spot on the Wall's siege engines once the continent makes landfall and the storms settle. He heard a date in it. She didn't mean it that way. *"Awwwwww, you're such a sweetie,"* she said, looking down from a solid two feet up on a four-foot Verdan, *"but no."*
 - 1–10 Nightal (downtime): the third track was paperwork, not people—the [[Ward Works]] and the [[Iron Seam Guild]] both got searched for whatever Stormberg keeps on record about Shar, circling back to something Rhona told the party in Session 5. Barely made the DC 15 (a 16 or 17): what turned up was thin but real, [[Shar]] seemed to be [[Selûne]]'s opposite number, and symbolically she's tied to whatever dark still holds on right before sunrise. Whether either goddess still has a foothold in Stormberg isn't in the record he found; that part's still open.
 
-## Session 08 Update
+## Session 08 Update (The Understudies)
 
 - 9-10 Nightal, Year 222 PA: came back frostbitten with Samson at the top of the session; healed to full by [[Rhona Voss]]. Rather than spend four days on a proper crafting job, called in a favor with his own [[Iron Seam Guild]] colleagues to get a set of chainmail rush-forged overnight—he now owes them one, unspecified and outstanding.
 - 10 Nightal, Year 222 PA: back at the Wall breach with the full party. Met **[[Meepo]]** and **[[Calcryx]]** (grown to a young dragon since his and Samson's own Session 7 glimpse) and was present for the negotiated deal that lets her stay.

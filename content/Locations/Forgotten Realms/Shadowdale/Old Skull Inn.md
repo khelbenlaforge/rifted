@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Old Skull Inn
@@ -75,7 +75,7 @@ G  Gate opening (east wall, 10ft wide, 15ft from courtyard north wall)
 
 ## Current Events
 
-*Prequel vision — Avatar Crisis era.* The inn is operating under the shadow of [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] military movement. Dark-armored soldiers have been seen in the taproom, watching. The courtyard was the site of the Lyonsbane curse incident: Zhentarim agents attempted to abduct [[Midnight]] during a supply cart distraction, triggering [[Kelemvor Lyonsbane]]'s transformation into the [[Lyonsbane Panther]].
+*Prequel vision — Avatar Crisis era.* The inn is operating under the shadow of [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] military movement. Dark-armored soldiers have been seen in the taproom, watching. The courtyard was the site of the Lyonsbane curse incident: [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] agents attempted to abduct [[Midnight]] during a supply cart distraction, triggering [[Kelemvor Lyonsbane]]'s transformation into the [[Lyonsbane Panther]].
 
 ---
 

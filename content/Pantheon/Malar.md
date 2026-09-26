@@ -1,15 +1,15 @@
 ---
 title: Malar
 aliases:
-  - The Beastlord
-  - Lord of Beasts
+- The Beastlord
+- Lord of Beasts
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T20:22:44
 ---
 
 # Malar
@@ -47,5 +47,9 @@ His followers do not hunt out of necessity. They hunt for sport, for cruelty, fo
 Malar's worshippers are feared and reviled throughout [[Corranor]]. They include sport hunters, poachers, lycanthropes, and those who take pleasure in bloodshed under the guise of honouring "the natural order." Their rituals are violent affairs, often culminating in ceremonial hunts through wild or settled lands alike.
 
 [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], names Malar's followers as one of the gravest threats to the balance of the natural world. She teaches that their creed — viewing the wild as something to conquer rather than cherish — stands as the antithesis of everything the forest's guardians protect. The tension between Malar's faithful and the followers of [[Mielikki]] and [[Silvanus]] is an enduring source of conflict in the wilds of [[Aenath]].
+
+## Session 30 (The Door Kickers)
+
+This party's first encounter with signs of Malar's own worship. A Religion check tied a kill-site's clean, deliberate pattern to the Beastlord rather than to [[Silvanus]]'s creed. An unconfirmed rumor ties some of the reclusive [[The Exodus/00_My Notes/Factions/Corranor/Ancients of Lava|Ancients of Lava]]'s own membership to his worshippers; [[The Exodus/The Door Kickers/PCs/Ember|Ember]] is now actively surveilling the faction over it. Both threads stay open, not settled, as of Session 30.
 
 

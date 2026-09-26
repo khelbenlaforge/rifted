@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-25T23:40:24
+updated: 2026-09-26T17:35:51
 ---
 
 # Miners' Council

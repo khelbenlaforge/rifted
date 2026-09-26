@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T19:25:45
 ---
 
 # Midnight
@@ -50,7 +50,7 @@ In Session 14, during the courtyard encounter, the pendant activated independent
 
 She has been told — she simply knows — that she must find [[Elminster]] in Shadowdale. She leveled to 4 mid-combat; her Intelligence is now 18 (spell DC 14).
 
-In Session 15, at the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]], the pendant ignited. Midnight became something else entirely — wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know — I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky — and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside Arabel.
+In Session 15, at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]], the pendant ignited. Midnight became something else entirely — wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know — I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky — and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside [[The Exodus/00_My Notes/Locations/Forgotten Realms/Arabel|Arabel]].
 
 She has been carrying something that was always bigger than her. Now she is not.
 

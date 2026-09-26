@@ -9,7 +9,7 @@ date: 2026-06-20
 session: 19
 secret: false
 created: 2026-06-20T00:00
-updated: 2026-09-04T14:42:18
+updated: 2026-09-26T14:12:46
 ---
 
 # Session 19 — Seven Doors
@@ -76,7 +76,7 @@ Forty years is a long time to be tending something in the dark.
 
 [[Gill Bates]] studied with [[Tidecaller Marin Deepcurrent]], and in between the water philosophy he went to the Temple of [[Kelemvor Lyonsbane|Kelemvor]] on his own initiative — you study water long enough, you start thinking about what happens when it stops moving.
 
-The temple moved with purpose and without affect. Three factions sharing the floor: the Monks of the Long Death, the Priesthood, and the Knights — paladins who guarded the cross-planar exits as much as the living, since Kelemvor's domain covers transit as much as death. Chaotic evil goes to the Abyss. Lawful evil to the Nine Hells. Neutral, the godless, the genuinely unaffiliated — the Outplane, which the priesthood described as complete neutrality. He doesn't keep anyone. He doesn't hold.
+The temple moved with purpose and without affect. Three factions sharing the floor: the Monks of the Long Death, the Priesthood, and the Knights — paladins who guarded the cross-planar exits as much as the living, since Kelemvor's domain covers transit as much as death. Chaotic evil goes to the Abyss. Lawful evil to the Nine Hells. Neutral, the godless, the genuinely unaffiliated—the Outer Planes, which the priesthood described as complete neutrality. He doesn't keep anyone. He doesn't hold.
 
 There was a feud with [[Mystra]]'s church and with [[Oghma]]'s: knowledge without responsibility creates wild magic, and wild magic destabilizes the cosmos, and Kelemvor's people had watched it happen often enough to have formed an institutional opinion. Gill thought about that.
 

@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T02:38:47
+updated: 2026-09-26T17:35:51
 ---
 
 # Corranor
@@ -34,7 +34,7 @@ Status:: Active
 
 The Magocracy of the Floating Lands — a realm where magic and civilization intertwine amidst an extraordinary geography of land masses that drift above the ocean. For 222 years, [[Corranor]] has rebuilt itself from nothing, its people having awoken with no memories of their past during [[The Awakening]]. Now governed by seven archmages from the [[Jade Spire]], it stands as a beacon of arcane knowledge and cultural resilience.
 
-The landscape comprises three types of land masses: [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Transient islands]] that periodically rise and descend, Sky Bound formations that float permanently, and Terra Bound islands at sea level. The main Transient island, home to [[Crystal City]], recently completed its descent to the oceans of [[Aenath]], an event celebrated across the capital. Arcane-powered airships connect [[Corranor]] to distant continents, ending centuries of isolation.
+The landscape comprises three types of land masses: [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Transient islands]] that periodically rise and descend, Sky Bound formations that float permanently, and Terra Bound islands at sea level. The main [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Transient island]], home to [[Crystal City]], recently completed its descent to the oceans of [[Aenath]], an event celebrated across the capital. Arcane-powered airships connect [[Corranor]] to distant continents, ending centuries of isolation.
 
 ## Notable Features
 
@@ -55,7 +55,7 @@ The population includes humans, elves, and warforged, all descendants of those w
 
 [[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements.
 
-**The Rifted.** Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222 — but that was only the first of them. Arrivals have continued across the realm since, at eight separate sites and counting: near the [[Sunless Citadel]], at [[Twilight Grove]], at [[Corran's Spike]], at [[The Sundered Choir]], in [[The Hollowreach]], at [[The Emberveins]], at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], and a second time at the Jade Spire itself. Upward of twenty-seven people, in groups that have not yet compared notes with one another. The [[Ether Scryer's Academy]]'s standing finding — that each of the Rifted carries only "half a soul," which grows toward whole the longer they remain in Aenath — has spread from Crystal City as far north as [[Stormberg]], and is now more or less common knowledge.
+**[[The Exodus/00_My Notes/Lore/The Rifted|The Rifted]].** Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222 — but that was only the first of them. Arrivals have continued across the realm since, at eight separate sites and counting: near the [[Sunless Citadel]], at [[Twilight Grove]], at [[Corran's Spike]], at [[The Sundered Choir]], in [[The Hollowreach]], at [[The Emberveins]], at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], and a second time at the Jade Spire itself. Upward of twenty-seven people, in groups that have not yet compared notes with one another. The [[Ether Scryer's Academy]]'s standing finding — that each of the Rifted carries only "half a soul," which grows toward whole the longer they remain in Aenath — has spread from Crystal City as far north as [[Stormberg]], and is now more or less common knowledge.
 
 - **Southern continent (Session 6, The Understudies):** confirmed to exist and be reachable; [[Crystal City]] sent a Guild expedition there roughly two months ago via one of only two crystal-powered airships in the Magocracy (others may exist elsewhere).
 

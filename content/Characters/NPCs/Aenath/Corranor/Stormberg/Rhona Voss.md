@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 created: 2026-08-24T17:22:42
 ---
 
@@ -126,7 +126,7 @@ Athletics +10 · Insight +4
 
 ## Session 4 Update (The Understudies)
 
-- Midnight, Feast of the Moon, Year 222 PA: inducted [[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]], and [[Esca]] at the Stormberg Wallwatch after the outer gate watch sent them her way.
+- Midnight, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA: inducted [[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]], and [[Esca]] at the Stormberg Wallwatch after the outer gate watch sent them her way.
 - Confirmed their brass bracers as genuine Guild rank — the first of the Guild's four tiers, **Brass → Iron → Mithril → Adamantite**, echoing 5e's own tiers of play.
 - Gave the standard induction: a cot each in the branch's cramped dormitory, a meal, and word that work would be there for them once they'd settled in.
 - Relayed general knowledge of [[Corranor]] and Stormberg's situation, and confirmed the party isn't the only group of Rifted arrivals — an earlier group, the first to arrive, is established in [[Crystal City]], conducting its own investigation.

@@ -9,7 +9,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T17:35:51
 ---
 
 # The Gravelords
@@ -29,7 +29,7 @@ The Gravelords are the clerical body of the [[Temple of Kelemvor]] — the peopl
 
 The name comes from an old translation of their charge: those who keep the ground. Every death processed correctly is a grave kept in order. Every soul properly assessed is one less disruption in a system that must hold. The Gravelords are the ledger. They are also the lock.
 
-They keep a library. It is not public. Accounts of clerics who plane-shifted to police soul trafficking — mostly into the Nine Hells, where the most egregious violations accumulate — fill the older shelves. The reading is dry. The work those accounts describe was not.
+They keep a library. It is not public. Accounts of clerics who plane-shifted to police soul trafficking — mostly into the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], where the most egregious violations accumulate — fill the older shelves. The reading is dry. The work those accounts describe was not.
 
 ## Leadership & Members
 

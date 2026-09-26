@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-09-11T15:59:06
+updated: 2026-09-26T16:57:45
 ---
 
 # Gond
@@ -76,5 +76,11 @@ Souls of his own choosing stood with him at the anvil the whole time — keeping
 Samson Flint's dream the night of the Rhona fight puts a witness inside this event for the first time. A village blacksmith on a storm-touched island pulls a half-drowned, burn-scarred stranger from the surf; wordless months at the forge together leave the blacksmith sharper in every practical sense, his eyes settling into a very particular silver. Then the scale of it breaks open. Those same burn scars belong to something vast enough to work an anvil the size of a parade ground, already three elements deep into the making of the world, one still missing. What supplies it arrives as water shaped like starlight, and takes its own place under the hammer in turn. This is the same working the Door Kickers heard named outright this same turn of the season: [[Grumbar]], [[Kossuth]], [[Akadi]] and [[Istishia]]'s own sacrifice (see the Nightal Timeline, Session 28).
 
 Call this a witness account, not a fresh revelation—"The Making of Aenath" above already establishes the event; the dream simply puts a name inside it for the first time. What it confirms: the stranger and the titanic hammer-wielder share one identity (identical scarring), and the dream-body's eyes turning silver is the only stated link between that body and Samson's own present-day silver-eyed sheen. Left open, and best kept that way until the table settles it: whether Samson himself descends from, or carries some fragment of, one of the "souls of his own choosing" who stood with Gond at the anvil (see this note's own prose above). The transcript gives grounds for resemblance. It gives none for lineage. See DM Notes.
+
+## Session 8 (The Understudies)
+
+A second witness, a session later: [[The Exodus/The Understudies/PCs/Fern|Fern]]'s own dream put her hand directly against the fire figure of the four—Kossuth—and felt, rather than heard, what it needed from the others: *"flame needs rock to lean on, rock needs water it can't hold, water needs air to carry it anywhere at all."* The dream then carried her to the forging itself, the same moment Samson witnessed a session earlier: *"a blacksmith too large for any forge... working a hammer over a shape made entirely of fire,"* and the fire's own answer, *"I accept,"* before the hammer came down and its light spread out into a plane still deciding what it would become.
+
+Two independent witnesses now corroborate the same event from two different vantage points—Samson watching the water-primordial take its place under the hammer, Fern touching the fire-primordial from inside its own burning. Neither account changes what "The Making of Aenath" above already establishes; each puts a different name and a different sensation inside it.
 
 

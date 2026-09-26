@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-06-25
 secret: false
 created: 2026-08-27T18:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T19:22:35
 ---
 
 # Arborea
@@ -19,12 +19,7 @@ updated: 2026-09-26T00:50:25
 > | | |
 > | ---- | --- |
 > | Type | Outer Plane |
-> | Region | Unknown |
-> | Access | Unknown |
-
-Region:: Unknown
-Controlled By:: Unknown
-Status:: active
+> | Access | Beyond the astral barrier |
 
 ## Description
 

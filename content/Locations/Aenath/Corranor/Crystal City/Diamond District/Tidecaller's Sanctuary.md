@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-25T23:40:24
+updated: 2026-09-26T17:35:51
 ---
 # Tidecaller's Sanctuary
 
@@ -43,5 +43,5 @@ At the heart of the sanctuary lies a spring-fed pool with an altar that appears 
 
 ## Current Events
 
-[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]], Watery Paths, Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
+[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]], [[The Exodus/00_My Notes/Lore/Sects of Istishia|Watery Paths]], Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
 

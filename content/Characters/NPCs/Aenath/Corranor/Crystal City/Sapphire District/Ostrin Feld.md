@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 state: alive
-updated: 2026-09-25T17:22:45
+updated: 2026-09-26T19:24:18
 created: 2026-07-13T00:00
 ---
 > [!infobox]
@@ -30,5 +30,7 @@ Affiliation:: [[House Verenthal]]
 
 ## Session 29
 
-- Paid [[Regius]] the agreed 100gp (50 now, 50 on delivery) and ended the nightly surveillance of [[Sellas Verenthal]] effective immediately, no explanation given.
-- Handed Regius a sealed Verenthal-crested letter and token for whoever still answers that name at [[Stormberg]], with instructions not to open it and to burn it if never delivered.
+- Was waiting at the House Verenthal side gate before [[Regius]] had even knocked, fingers already tapping his signet ring twice—the tell that something was wrong. *"Reggie,"* he said, not Regius; he only uses the short name when things have gone sideways.
+- Paid [[Regius]] the agreed 100gp (50 now, 50 on delivery) and ended the nightly surveillance of [[Sellas Verenthal]] effective immediately, no explanation given. Pressed on why, he wouldn't move: *"Whatever she knows, she's not telling me, and I can't afford to find out the hard way. Neither can you."*
+- Pressed again about the man Regius had been paid to look into, the topic stayed closed, plainly and for good.
+- Handed Regius a sealed Verenthal-crested letter and token for whoever still answers that name at [[Stormberg]], with instructions not to open it and to burn it if never delivered. *"Consider your account with this house settled, either way."*

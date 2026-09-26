@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-09-26T00:15:02
+updated: 2026-09-26T18:44:41
 created: 2026-09-23T18:28:40
 ---
 
@@ -50,7 +50,7 @@ First point of contact for The AUGs' Adamantine Guild standing at The Cliffwatch
 
 ## D&D 5e Stat Block
 
-*Encounter stat block, Dessa is an intended Guild-evaluation combat encounter, same function as [[Rhona Voss]]'s and [[Petra Hale]]'s builds, and the first of the three with real spellcasting. Mixed from three real sources via `query_5etools.py`: the **Scout Captain (XMM, CR 3)** supplies the martial chassis (AC, attack math, `Aim` bonus action, Shortsword/Longbow Multiattack; climb speed dropped, Stealth/Survival relabeled Insight/Investigation with values unchanged, to keep the flavor auditor-coded rather than field-scout-coded), distinct from Rhona's arena-fighter Gladiator base and Petra's escort-guard Guard Captain base. The **Warlord (VGM/MPMM, CR 12 as printed)** supplies **Indomitable (3/Day)** as her defensive trait (a reroll, not a guaranteed success, a genuine mechanical difference from Rhona's and Petra's Legendary Resistance) and the **Weapon Attack** legendary action (its ally-buffing **Command Ally** was dropped as irrelevant to a solo fight). The **Warlord's own Frighten Foe legendary action is replaced by Command**, a genuine 2024 spell of the same 2-action weight. Her `Spellcasting` trait is structurally modeled on **Viktra Mordenheim's (RHW, CR 7)** own spellcasting block, a real donor's `type: spellcasting` header-plus-daily-list format, with Viktra's construct-summoning spell swapped for **Bane**, the real-spell-for-fit substitution `stat-blocks.md` already documents. Her own `Uncanny Dodge` reaction (inherited from the Scout Captain chassis) was dropped so she doesn't triple up on Petra's identical reaction. See DM Notes below for full build rationale and encounter-math calibration.*
+*Encounter stat block, Dessa is an intended Guild-evaluation combat encounter, same function as [[Rhona Voss]]'s and [[Petra Hale]]'s builds, and the first of the three with real spellcasting. Mixed from three real sources via `query_5etools.py`: the **Scout Captain (XMM, CR 3)** supplies the martial chassis (AC, attack math, `Aim` bonus action, Shortsword/Longbow Multiattack; climb speed dropped, Stealth/Survival relabeled Insight/Investigation with values unchanged, to keep the flavor auditor-coded rather than field-scout-coded), distinct from Rhona's arena-fighter Gladiator base and Petra's escort-guard Guard Captain base. The **Warlord (VGM/MPMM, CR 12 as printed)** supplies **Indomitable (3/Day)** as her defensive trait (a reroll, not a guaranteed success, a genuine mechanical difference from Rhona's and Petra's Legendary Resistance) and the **Weapon Attack** legendary action (its ally-buffing **Command Ally** was dropped as irrelevant to a solo fight). The **Warlord's own Frighten Foe legendary action is replaced by Command**, a genuine 2024 spell of the same 2-action weight. Her `Spellcasting` trait is structurally modeled on **Viktra Mordenheim's (RHW, CR 7)** own spellcasting block, a real donor's `type: spellcasting` header-plus-daily-list format, with Viktra's construct-summoning spell swapped for **[[The Exodus/00_My Notes/Pantheon/Bane|Bane]]**, the real-spell-for-fit substitution `stat-blocks.md` already documents. Her own `Uncanny Dodge` reaction (inherited from the Scout Captain chassis) was dropped so she doesn't triple up on Petra's identical reaction. See DM Notes below for full build rationale and encounter-math calibration.*
 
 
 
@@ -137,7 +137,7 @@ Bane is Concentration, 1 minute; granted by her Spellcasting trait, see Features
 - **Aim** (Bonus Action): see Bonus Actions.
 - **Spellcasting**: Wisdom-based, spell save DC 12, no material components needed. Bane (2/Day, cast in place of Multiattack) and Command (legendary action, see Legendary Actions) are her only spells.
 
-## Session 3 Update
+## Session 3 Update (The AUGs)
 
 - Met The AUGs—[[Mike Kanbei]], [[Ruan Myrt Zaltana]], [[Rachel Tan]], and [[Rismawati Bayu]]—for the first time at the Cliffwatch.
 - Confirmed the party's existing brass [[Adamantine Guild]] bracers as genuine rank; did not issue new bracers.

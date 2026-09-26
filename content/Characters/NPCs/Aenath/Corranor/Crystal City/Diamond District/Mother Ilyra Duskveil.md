@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-16
 secret: false
 state: dead
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 created: 2026-08-16T00:00
 ---
 > [!infobox]
@@ -17,7 +17,7 @@ Mother Ilyra Duskveil was a cleric of Shar who ran the Rising of the Dark sacrif
 
 ## Appearance
 
-Tall, pale-skinned, with a stillness that read as serenity right up until you noticed how total it was — she didn't so much stand at the altar as occupy it, the way a held breath occupies a room. Robes the color of a bruise gone old, no jewelry, no symbol worn openly; whatever marked her as Shar's own showed in what she did at that altar, never in anything she wore. Even mid-ritual, even with the party's blades already drawn, her face held onto something close to compassion right up until Min Ji-ah's spell ended it.
+Tall, pale-skinned, with a stillness that read as serenity right up until you noticed how total it was — she didn't so much stand at the altar as occupy it, the way a held breath occupies a room. Robes the color of a bruise gone old, no jewelry, no symbol worn openly; whatever marked her as Shar's own showed in what she did at that altar, never in anything she wore. Even mid-ritual, even with the party's blades already drawn, her face held onto something close to compassion right up until [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]]'s spell ended it.
 
 ## Personality
 

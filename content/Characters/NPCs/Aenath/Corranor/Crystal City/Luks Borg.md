@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Luks Borg
@@ -37,7 +37,7 @@ Born in a northern frontier village plagued by orc raids, Luks learned to fight 
 As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luks runs morning combat drills, evaluates new recruits, and mentors young fighters -- his trainees affectionately called "Borg's Pups." He travelled with the party aboard the [[Vanny Faire]] to establish the Guild's presence in [[Sunhold]], where he met with [[Harbin Wester]] and took charge of setting up the Guild post. His authority and determination have been instrumental in integrating the [[Adamantine Guild]] into the frontier settlement.
 
 ## Relationships
-- Married to Mara, an herbalist in [[Crystal City|Crystal]]'s Garnet District
+- Married to Mara, an herbalist in [[Crystal City|Crystal]]'s [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Garnet District/Garnet District|Garnet District]]
 - Father of Lily
 - Senior member and Training Coordinator of the [[Adamantine Guild]]
 - Works alongside [[Istar Silverlock]] and [[Elmindaria L'Thorian]]
