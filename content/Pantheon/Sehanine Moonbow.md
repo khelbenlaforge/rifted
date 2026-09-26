@@ -14,7 +14,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-04T15:42:04
+updated: 2026-09-26T00:50:25
 ---
 
 # Sehanine Moonbow
@@ -38,11 +38,11 @@ Symbol:: A misty crescent above a full moon
 
 Sehanine Moonbow is the elven goddess of the moon, dreams, journeys, and transcendence — the most powerful of the female Seldarine, and by most accounts either the daughter or consort of Corellon Larethian (myths disagree, and elves don't seem bothered by that; a rarer telling makes Sehanine male instead, Corellon's melancholy, tender-eyed lover — a gender fluidity that echoes Corellon's own). In her more common form she appears as a youthful, ageless elf woman in a gown that seems woven from moonbeams, shedding actual droplets of captured moonlight as she moves. Her power waxes and wanes with the moon exactly as Selûne's does, strongest at the full moon and nearly powerless by day. She rarely speaks plainly, preferring dreams, visions, and omens to direct instruction — not because she's incapable of a straight answer, but because it isn't her way — a goddess of mysteries who guides through subtlety rather than command.
 
-She is fiercely protective of elvenkind specifically: she wove the illusions that hide elven refuges, guides the reincarnated dead of her people toward a final perfected state (alongside Corellon), and holds an old, deep hatred of undeath — she tolerates necromancy only grudgingly, and even the elven tradition of binding a guardian spirit into deathless service is something she allows rather than approves. Where Selûne's war is against her sister Shar, Sehanine's opposition runs toward Lolth and the Dark Seldarine, toward Shar in her own right, and toward the undeath-adjacent likes of Myrkul and Velsharoon — with one notable exception among her enemies' side of the family, Eilistraee, whom she treats as something like an adopted daughter despite the distance between them. Her favored weapon is a moon-pale quarterstaff, though she reaches for it rarely — visions and illusion are more her style than force.
+She is fiercely protective of elvenkind specifically: she wove the illusions that hide elven refuges, guides the reincarnated dead of her people toward a final perfected state (alongside Corellon), and holds an old, deep hatred of undeath — she tolerates necromancy only grudgingly, and even the elven tradition of binding a guardian spirit into deathless service is something she allows rather than approves. Where Selûne's war is against her sister [[The Exodus/00_My Notes/Pantheon/Shar|Shar]], Sehanine's opposition runs toward Lolth and the Dark Seldarine, toward Shar in her own right, and toward the undeath-adjacent likes of Myrkul and Velsharoon — with one notable exception among her enemies' side of the family, Eilistraee, whom she treats as something like an adopted daughter despite the distance between them. Her favored weapon is a moon-pale quarterstaff, though she reaches for it rarely — visions and illusion are more her style than force.
 
 ## Role in the Story
 
-Session 26's **Mystic Rites of the Luminous Cloud** — Sehanine's faithful becoming streaks of moving light drifting toward whatever felt wrong in the crowd — is confirmed, established lore (`Feast of the Moon.md`), already on record before this session. The new part: **Terra danced the ritual without knowing it**, her wings glowing silver instead of their usual fairy-gold, moving through steps she'd never learned alongside elves, dwarves, fae, and humans who all somehow knew the same choreography.
+Session 26's **Mystic Rites of the Luminous Cloud** — Sehanine's faithful becoming streaks of moving light drifting toward whatever felt wrong in the crowd — is confirmed, established lore (`Feast of the Moon.md`), already on record before this session. The new part: **[[The Exodus/The Door Kickers/PCs/Terra|Terra]] danced the ritual without knowing it**, her wings glowing silver instead of their usual fairy-gold, moving through steps she'd never learned alongside elves, dwarves, fae, and humans who all somehow knew the same choreography.
 
 Terra's Cold Open was a flashback vision to the Time of Troubles, experienced as a follower of Sehanine. Another follower gave up its own soul to empower Sehanine in the fight against [[Lolth]] and her followers; Terra chose not to, and watched it happen, sensing a familiar presence ([[The Unbound]]) on Lolth's side. None of this — Sehanine, Lolth, or the Unbound's presence — was named in play.
 
@@ -51,7 +51,7 @@ Terra's Cold Open was a flashback vision to the Time of Troubles, experienced as
 - **[[Corellon]]** — Consort (or father, depending on the myth cited) and fellow head of the Seldarine; the two share Arvandor and, per elven belief, jointly guide reincarnated souls toward perfection.
 - **[[Selûne]]** — Close ally, fellow moon deity, worked closely together per shared lore.
 - **[[Kelemvor]]**, **[[Mystra]]**, and **[[Savras]]** — Allied deities outside the Seldarine, drawn together by their shared stakes in death, magic, and fate.
-- **Myrkul** and **Velsharoon** — Enemies, tied to her hatred of undeath. No notes yet — exist in Aenath per the same standing the user confirmed for Azuth's Velsharoon/Deneir/Leira, not a current priority to build out.
+- **Myrkul** and **Velsharoon** — Enemies, tied to her hatred of undeath. No notes yet — exist in Aenath per the same standing the user confirmed for [[The Exodus/00_My Notes/Pantheon/Azuth|Azuth]]'s Velsharoon/Deneir/Leira, not a current priority to build out.
 - **The Exodus/The Door Kickers/PCs/Terra** — experienced a Cold Open flashback to the Time of Troubles as a follower of Sehanine; see Role in the Story above.
 
 

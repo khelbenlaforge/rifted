@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:34:11
-updated: 2026-09-22T04:42:38
+updated: 2026-09-26T00:50:25
 ---
 
 # Rachel Tan
@@ -43,9 +43,11 @@ Whatever the mercenary company drilled into this body, it shows up as raw, unpol
 
 ## Key Events
 
-**Session 1 — Feast of the Moon, Year 222 PA:** Her crossing trigger was never established before this session; now it is. Turned down for the overseas art trip she'd finally worked up the nerve to ask about, she got caught reaching for her father's wallet anyway. What came after that was a march back to her room and a flight-booking screen she wasn't allowed to use — and that's where the pull found her. In the shared vision that followed, a voice that "sounded like fire become sound" bound her to a bargain she never spoke out loud to agree to: *"we help because this is the contract... I want those souls."* She saved fleeing halflings from falling rock she had no reason yet to care about, because the voice told her to, and something about doing it anyway felt like relief instead of shame, maybe the first time rage had ever felt like that. She woke a tiefling barbarian, crumpled on the floor of [[The Drowned Dawn]], veins and eyes glowing red. Her polearm arrived with her already named, [[Permission]], and lived up to it: one reckless, frenzied swing dropped a shadow creature outright and nearly finished a second in the same motion. The fire-voice found her again mid-fight. Still no name for it.
+**Session 1 — Feast of the Moon, Year 222 PA:** Her crossing trigger was never established before this session; now it is. Turned down for the overseas art trip she'd finally worked up the nerve to ask about, she got caught reaching for her father's wallet anyway. What came after that was a march back to her room and a flight-booking screen she wasn't allowed to use — and that's where the pull found her. In the shared vision that followed, a voice that "sounded like fire become sound" bound her to a bargain she never spoke out loud to agree to: *"we help because this is the contract... I want those souls."* She saved fleeing halflings from falling rock she had no reason yet to care about, because the voice told her to, and something about doing it anyway felt like relief instead of shame, maybe the first time rage had ever felt like that. She woke a tiefling barbarian, crumpled on the floor of [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], veins and eyes glowing red. Her polearm arrived with her already named, [[Permission]], and lived up to it: one reckless, frenzied swing dropped a shadow creature outright and nearly finished a second in the same motion. The fire-voice found her again mid-fight. Still no name for it.
 
 **Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Rachel started the crawl alone, in a chamber that told her exactly how many steps she was allowed and no more. [[Permission]] did what it always does once the fighting starts, one reckless swing after another, rage doing more of the work than aim. The fire-voice from Session 1 stayed exactly as quiet as it had been before; nothing this time asked anything of her. When they found the sixth arrival, unconscious and burning gently in the room she'd started in, she didn't get a name to put to him either.
+
+**Session 3—1-2 Nightal, Year 222 PA:** Rachel tried alcohol for the first time in her life along with the rest of the party, courtesy of Bryn's wineskin, and it went about as well for her as for everyone else—rough. Somewhere in that same loosened stretch of road, she admitted, half as a joke on herself, to a flight she'd once booked to anywhere that wasn't Singapore, no destination beyond away. At [[Westward]]'s Cliffwatch, [[Dessa Kestrel|Dessa]] named her directly: Tiefling blood is a trade good to somebody, and now Rachel knows it. She didn't have much to say to that. Neither the fire-voice nor [[Permission]] had anything to add this session.
 
 ## Relationships
 

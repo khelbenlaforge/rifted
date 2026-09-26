@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Jade Spire
@@ -44,7 +44,7 @@ The shadow creature attack sites are now walled off with fresh runes and paint; 
 
 ## Session 28
 
-- Site of the Council of Seven's public address on the night of the Feast of the Moon.
+- Site of the Council of Seven's public address on the night of the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]].
 - Site of the [[Temple of Kelemvor]]'s mass name-recitation rite immediately after.
 
 ## Session 22

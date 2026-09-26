@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-13T13:42:14
+updated: 2026-09-25T20:52:12
 ---
 
 # Esca

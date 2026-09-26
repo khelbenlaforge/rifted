@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-08-28T02:33:48
+updated: 2026-09-26T00:50:25
 ---
 
 # Cyric
@@ -32,7 +32,7 @@ Moves like he is always measuring exits. Useful in a fight, pleasant enough in c
 
 He was helpful at Castle Kilgrave in ways no one anticipated.
 
-In Session 14, the Lyonsbane Panther appeared in the Old Skull Inn courtyard during the Zhentarim ambush. Cyric didn't know what it was. He calculated it as a threat and attacked it immediately — twice, cold, silent. No hesitation and no cruelty. Pure assessment. He will need to reckon with what he stabbed once the dust settles.
+In Session 14, the Lyonsbane Panther appeared in the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] courtyard during the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush. Cyric didn't know what it was. He calculated it as a threat and attacked it immediately — twice, cold, silent. No hesitation and no cruelty. Pure assessment. He will need to reckon with what he stabbed once the dust settles.
 
 ## Background
 

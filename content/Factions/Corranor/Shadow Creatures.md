@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-09-04T15:26:49
+updated: 2026-09-26T00:50:25
 ---
 
 # Shadow Creatures
@@ -49,7 +49,7 @@ Combat mechanics established:
 
 ## Session 1 (The AUGs)
 
-- Encountered at [[The Drowned Dawn]] (Feast of the Moon, Year 222 PA), emerging from cracks in the floor of an underground temple chamber.
+- Encountered at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]] ([[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA), emerging from cracks in the floor of an underground temple chamber.
 - Radiant damage confirmed effective again: striking one of the temple's unlit crystal sconces with radiant damage ignites it, and shadow creatures actively avoid the newly-lit radius rather than cross it.
 - Once enough sconces were lit, the remaining shadow creatures present froze in place rather than fled or kept fighting.
 - A [[Fused Shadow]] formed mid-fight when two bloodied Shadow-family creatures ended up adjacent, per its existing combine rule — hit noticeably harder than either component alone, consistent with its stat block.

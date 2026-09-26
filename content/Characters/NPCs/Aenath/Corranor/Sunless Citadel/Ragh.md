@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Ragh
@@ -35,7 +35,7 @@ Deity::
 
 ## Appearance
 
-Ragh is thick-necked and steady for a kobold — built like someone who has held a post for a long time and intends to hold it longer. He keeps his weapons too clean for the skirmish frequency he describes. His western post is well-positioned, stocked against Underdark threats and goblin raids alike, and it opens into tunnels that run deeper than the other kobolds think about.
+Ragh is thick-necked and steady for a kobold — built like someone who has held a post for a long time and intends to hold it longer. He keeps his weapons too clean for the skirmish frequency he describes. His western post is well-positioned, stocked against [[The Exodus/00_My Notes/Locations/Aenath/Underdark|Underdark]] threats and goblin raids alike, and it opens into tunnels that run deeper than the other kobolds think about.
 
 ## Personality
 
@@ -53,7 +53,7 @@ Through secret channels, he contacted [[Durnn]] — the goblin leader who seized
 
 He told the party all of this when they pressed him — partly because they'd earned it, partly because he needed at least one faction in the citadel to understand the full picture.
 
-He offered the party a guide to goblin territory to find the Hucrele party — on the condition they leave [[Calcryx]] alone and do not interfere with his coming uprising.
+He offered the party a guide to goblin territory to find the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] party — on the condition they leave [[Calcryx]] alone and do not interfere with his coming uprising.
 
 ## Role in the Story
 
@@ -62,7 +62,7 @@ He offered the party a guide to goblin territory to find the Hucrele party — o
 - Secret ally of [[Durnn]]; has brokered a fragile cross-faction peace deal
 - Will help the party reach the Hucrele delegation if they don't cross him
 - The party found his weapons suspiciously clean for claimed skirmish frequency
-- *Toothpick* — his named blade — was stolen by [[Ember]] during Durnn's victory revel while Ragh was intoxicated
+- *[[The Exodus/00_My Notes/Items/Door Kickers/Toothpick|Toothpick]]* — his named blade — was stolen by [[Ember]] during Durnn's victory revel while Ragh was intoxicated
 - [[Augustus Kennedy]] angered him by making light of [[Calcryx]] — his devotion is not to be tested
 - **Correspondence with [[Belak]]:** A letter from Belak to Ragh was found in the goblin prison — Belak was considering bringing Ragh "into the fold." What that means is unknown, but it places Ragh in Belak's orbit and suggests the druid sees something useful in him
 - **Letters confirmed:** Hidden compartment in the goblin prison contained letters between Durnn and Ragh confirming their cross-faction conspiracy in writing — the party now holds this evidence

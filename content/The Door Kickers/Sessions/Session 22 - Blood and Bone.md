@@ -7,7 +7,7 @@ campaign: Rifted
 session: 22
 date: 2026-06-29
 in-world-date: 21st-30th Uktar, Year 222 PA
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T04:39:09
 ---
 
 # Session 22 — Blood and Bone
@@ -52,7 +52,7 @@ The two weeks of downtime also surfaced the [[Azure Tamers]] — the faction tha
 
 [[Jonathan Jordan]] had been waiting for the right moment and decided this was it.
 
-The [[Hall of Justice - Temple of Tyr]] stands in the [[Sapphire District]] — the Church of the Maimed God, who holds a sword in one hand and the scales of justice in the other, blindfolded so the law applies to everyone equally. The blindfold is symbolism. The paladins and clerics and monks who serve Tyr constitute the entire law enforcement apparatus of [[Crystal City]]. This is not a building where people go to commit crimes.
+The [[Hall of Justice - Temple of Tyr]] stands in the [[Diamond District]] — the Church of the Maimed God, who holds a sword in one hand and the scales of justice in the other, blindfolded so the law applies to everyone equally. The blindfold is symbolism. The paladins and clerics and monks who serve Tyr constitute the entire law enforcement apparatus of [[Crystal City]]. This is not a building where people go to commit crimes.
 
 The statue in the main hall holds scales of justice. JJ had been tasked by Istar to procure them.
 

@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-07-30T16:30:00
-updated: 2026-07-31T16:27:50
+updated: 2026-09-25T17:07:09
 ---
 
 # Beast of the Land, Sea, and Sky
@@ -22,6 +22,10 @@ updated: 2026-07-31T16:27:50
 > | Forms | Land, Sea, or Sky |
 > | Selection | One form per Long Rest |
 > | Scaling | Ranger level, Wisdom modifier, and spellcasting |
+
+CR:: Unknown
+Size:: Medium (Land/Sea), Small (Sky)
+Habitat:: Unknown
 
 ## Overview
 

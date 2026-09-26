@@ -1,14 +1,14 @@
 ---
 title: Durnn
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Durnn
@@ -57,6 +57,6 @@ He currently has the [[Durbuluk Goblins]] sitting on the [[Goblin Fruit]] supply
 - Letters found in the goblin prison (hidden compartment) confirm in writing his conspiracy with [[Ragh]] — the party now has documentary evidence
 - **Not present** during the party's arrival in Session 09 — [[Grenl]] informed them he was elsewhere and they would need to wait
 - **Session 10:** Returned in triumph — [[Ragh]] presented the unconscious [[Yusdrayl]] to cheers. Durnn led the victory parade to the Throne Room and threw Yusdrayl down the well without ceremony. Celebrated with alcohol; became heavily intoxicated while [[Augustus Kennedy]] (poison-resistant) remained sober at his side
-- Controls ***Blight's Call*** — a magic horn fashioned from Ashardalon's claw, gifted by [[Belak]]; frightens blights and undead within 60 ft. and curses the blower (Ashardalon's Curse table). Has been slowly corrupting Durnn — growing bloodlust, worsening nightmares. After separation from the horn at his defeat, he became noticeably more agreeable. Stolen by [[Ember]] during the victory revel.
+- Controls ***[[The Exodus/00_My Notes/Items/Door Kickers/Blight's Call|Blight's Call]]*** — a magic horn fashioned from Ashardalon's claw, gifted by [[Belak]]; frightens blights and undead within 60 ft. and curses the blower (Ashardalon's Curse table). Has been slowly corrupting Durnn — growing bloodlust, worsening nightmares. Stolen by [[Ember]] while he was drunk during the victory revel (Session 12); after the horn was lifted, he became noticeably more agreeable.
 
 

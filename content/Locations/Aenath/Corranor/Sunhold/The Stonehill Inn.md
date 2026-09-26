@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T23:40:24
 ---
 
 # The Stonehill Inn
@@ -36,6 +36,6 @@ The central social hub of [[Sunhold]], a half-tent, half-timber structure with a
 
 ## Current Events
 
-The party gathered intelligence here upon arrival. Locals distinguished civilized Goblin Merchants (clothed, Common-speaking, with a cart) from the [[Goblin Bandits]] plaguing the roads. Other rumors included tales of druidic sites in the unexplored south, warm living roots in deep shafts, and the Hucrele family's alleged political troubles in [[Crystal City]]. [[Min Ji-ah]] used magic to clean the establishment's odor before the party rested.
+The party gathered intelligence here upon arrival. Locals distinguished civilized [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] (clothed, Common-speaking, with a cart) from the [[Goblin Bandits]] plaguing the roads. Other rumors included tales of druidic sites in the unexplored south, warm living roots in deep shafts, and the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] family's alleged political troubles in [[Crystal City]]. [[Min Ji-ah]] used magic to clean the establishment's odor before the party rested.
 
 

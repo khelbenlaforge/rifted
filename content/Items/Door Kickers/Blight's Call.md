@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-03-10
 secret: false
 created: 2026-03-19T03:36
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Blight's Call
@@ -33,7 +33,7 @@ Found At:: [[Sunless Citadel]]
 
 A horn carved from one of [[Ashardalon]]'s claws — black-grey, slightly curved, warm to the touch in a way that bone shouldn't be. There is nothing decorative about it. It looks like something pulled from a creature and repurposed, which is exactly what it is.
 
-[[Belak]] fashioned it and gifted it to [[Durnn]] as part of their arrangement. It was meant as a tool of control and intimidation — a way to keep the goblin warchief useful and compliant without Belak needing to be present. [[Ember]] took it from Durnn during the victory revel in Session 10, along with *Toothpick*.
+[[Belak]] fashioned it and gifted it to [[Durnn]] as part of their arrangement. It was meant as a tool of control and intimidation — a way to keep the goblin warchief useful and compliant without Belak needing to be present. [[Ember]] took it from Durnn during the victory revel in Session 10, along with *[[The Exodus/00_My Notes/Items/Door Kickers/Toothpick|Toothpick]]*.
 
 ## Properties
 

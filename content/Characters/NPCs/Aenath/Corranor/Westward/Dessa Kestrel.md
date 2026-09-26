@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-09-23T20:04:47
+updated: 2026-09-26T00:15:02
 created: 2026-09-23T18:28:40
 ---
 
@@ -19,12 +19,12 @@ created: 2026-09-23T18:28:40
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Race | Human |
+> | Race | Elf |
 > | Class | Cleric (Knowledge Domain) |
 > | Location | [[Westward]] (The Cliffwatch) |
 > | Affiliation | [[Adamantine Guild]] |
 
-Race:: Human
+Race:: Elf
 Subrace::
 Pronouns:: she/her
 Class:: Cleric (Knowledge Domain)
@@ -34,7 +34,7 @@ Deity:: [[Oghma]]
 
 ## Description
 
-Fifty, maybe older, though nothing about how she carries herself invites the question. Grey threading dark hair cropped close enough that she never has to think about it. A patient face, no warmth spared on it, creases set deep at the eyes from decades of reading fine print by bad light. Her hands are the tell: ink at the second knuckle on the right that never fully scrubs out, a callus worn where a stylus sits more often than a hilt. A Guild sash worn crisp over plain grey; a shortsword and an unstrung longbow slung across her back, Guild-issue, clean-kept and seldom drawn. What she actually reaches for first is the wax-sealed ledger satchel at her hip and the short marked baton she carries more often than either weapon, using it to indicate things: a doorway, a discrepancy, a target. Her eyes move over a room once, top to bottom, the way an auditor's eyes move over a page before they trust a single number written on it.
+Old for an elf, and it shows only where she lets it: fine creases at the eyes from decades of reading fine print by bad light, a patient face with no warmth spared on it. Auburn hair, going nowhere near grey; skin a deep, even gold. Small reading glasses she takes off and puts back on like punctuation, worn over plain scholar's robes rather than any Guild uniform. Her hands are the tell: ink at the second knuckle on the right that never fully scrubs out, a callus worn where a stylus sits more often than a hilt. A shortsword and a bow slung across her back, Guild-issue, clean-kept and seldom drawn. What she actually reaches for first is the wax-sealed ledger satchel at her hip and the short marked baton she carries more often than either weapon, using it to indicate things: a doorway, a discrepancy, a target. Her eyes move over a room once, top to bottom, the way an auditor's eyes move over a page before they trust a single number written on it.
 
 ## Personality
 
@@ -67,7 +67,7 @@ First point of contact for The AUGs' Adamantine Guild standing at The Cliffwatch
 | | |
 |---|---|
 | **Level / CR** | Legendary NPC, CR 6 (estimate; Scout Captain/Warlord chassis mix plus Bane/Command spellcasting modeled on Viktra Mordenheim's Spellcasting trait, XMM/VGM-MPMM/RHW/XPHB, see DM Notes for calibration caveat) |
-| **Race** | Human |
+| **Race** | Elf |
 | **HP (Max)** | 112 (15d8+45) |
 | **AC** | 15 |
 | **Speed** | 30 ft. |
@@ -136,4 +136,14 @@ Bane is Concentration, 1 minute; granted by her Spellcasting trait, see Features
 - **Indomitable (3/Day)**: if Dessa fails a saving throw, she can reroll it; she must use the new roll.
 - **Aim** (Bonus Action): see Bonus Actions.
 - **Spellcasting**: Wisdom-based, spell save DC 12, no material components needed. Bane (2/Day, cast in place of Multiattack) and Command (legendary action, see Legendary Actions) are her only spells.
+
+## Session 3 Update
+
+- Met The AUGs—[[Mike Kanbei]], [[Ruan Myrt Zaltana]], [[Rachel Tan]], and [[Rismawati Bayu]]—for the first time at the Cliffwatch.
+- Confirmed the party's existing brass [[Adamantine Guild]] bracers as genuine rank; did not issue new bracers.
+- Showed the party the branch's pocket-dimension personal rooms.
+- Relayed secondhand reports: the [[Ether Scryer's Academy]] Antiquities department's mystery of no memory before roughly two hundred years; [[The Claret]]'s blood trade; a claim that [[Layla]] once worked under [[Garm]] before an experimental blood operation and her disappearance; and that Rachel Tan is directly a blood-trade target.
+- Offered a future introduction to the [[Azure Tamers]] for the party's two druids, Ruan Myrt Zaltana and Rismawati Bayu.
+- Told the party that Level 4 was open to claim.
+- Began, but did not complete, a Guild evaluation on the Proving Floor; the party entered, no combat occurred, and the session ended.
 

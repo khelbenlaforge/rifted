@@ -9,12 +9,12 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-25T22:59
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 > [!infobox]
 > # Fair Catch
 
-A fisherman's spear carried back from the prequel vision of Shadowdale. It belonged to [[Adon]] — Cleric of Sune, devoted servant of the Lady of Beauty, and a man who spent every moment of free time with a line in the water. The spear is battered, functional, and has a small rose carved near the butt of the shaft, inlaid with rose-gold. He was not a talented woodworker. He did it anyway.
+A fisherman's spear carried back from the prequel vision of Shadowdale. It belonged to [[Adon]] — Cleric of [[The Exodus/00_My Notes/Pantheon/Sune|Sune]], devoted servant of the Lady of Beauty, and a man who spent every moment of free time with a line in the water. The spear is battered, functional, and has a small rose carved near the butt of the shaft, inlaid with rose-gold. He was not a talented woodworker. He did it anyway.
 
 ## Description
 
@@ -82,5 +82,7 @@ TBD.
 Rarity:: Unique
 Owner:: [[Gill Bates]]
 Origin:: Shadowdale (prequel vision, Session 15)
+Attunement:: Required ([[Gill Bates|Gill]] only)
+Found At:: [[Shadowdale]] (prequel vision, Session 15)
 
 

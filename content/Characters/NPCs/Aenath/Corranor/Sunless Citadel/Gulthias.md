@@ -6,9 +6,9 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-state: transformed
+state: unknown
 created: 2026-04-18T00:00
-updated: 2026-08-05T16:31:01
+updated: 2026-09-26T00:50:25
 ---
 
 # Gulthias
@@ -30,7 +30,7 @@ The most devoted servant [[Ashardalon]] ever had. Gulthias was the cult's high p
 
 He was, by every account, a fanatic. Not the raving kind — the methodical kind. The kind who plans decades ahead and finds the failures of others simply insufficient data for the next attempt.
 
-He has been dead for centuries. What remains of him is the [[Gulthias Tree]] in the Twilight Grove.
+He has been dead for centuries. What remains of him is the [[Gulthias Tree]] in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Twilight Grove|Twilight Grove]].
 
 ## History
 

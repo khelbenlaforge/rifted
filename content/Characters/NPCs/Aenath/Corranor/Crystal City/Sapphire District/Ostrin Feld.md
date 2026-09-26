@@ -7,7 +7,8 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 state: alive
-updated: 2026-09-18T12:35:25
+updated: 2026-09-25T17:22:45
+created: 2026-07-13T00:00
 ---
 > [!infobox]
 > # Ostrin Feld
@@ -18,7 +19,8 @@ He watches doors more than faces, measures every word before he spends it, and h
 
 ---
 Race:: Human
-Location:: House Verenthal, Sapphire District, Crystal City
+Location:: [[House Verenthal]], [[Sapphire District]], [[Crystal City]]
+Affiliation:: [[House Verenthal]]
 
 ## Session 28
 

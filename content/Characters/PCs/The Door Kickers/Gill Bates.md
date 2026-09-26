@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-18T22:57:39
+updated: 2026-09-25T16:43:02
 ---
 
 # Gill Bates
@@ -274,4 +274,10 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - Acquired a Spell Refuelling Ring—see Magic Items.
 - Given two free vials of holy water from the Temple of Istishia's own font.
 - Marin's read on Istishia's condition darkened: not just her in danger, possibly a liminal-space problem shared by other gods too.
+
+## Session 30
+
+*(DM-voiced this session.)*
+
+- Traveled north with the party; no individual scene surfaced. His task from [[Tidecaller Marin Deepcurrent|Marin]]—sense the ocean at the next landfall or an underground spring—wasn't triggered this session.
 

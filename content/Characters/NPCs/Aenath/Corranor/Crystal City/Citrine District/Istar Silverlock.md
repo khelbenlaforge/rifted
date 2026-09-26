@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-18T12:34:54
+updated: 2026-09-26T00:50:25
 ---
 
 # Istar Silverlock
@@ -181,12 +181,12 @@ Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[Jo
 - Brought the party outside to witness the three moons.
 - Declared, "The Blackstaffs do not own this guild. If we choose not to go, we don't go."
 - Told the party the [[Corranor Council|Council of Seven]] wanted to see them the next day after a public address.
-- Said a priest of [[Kelemvor]] would close the Feast of the Moon with a blessing for [[Crystal City]].
+- Said a priest of [[Kelemvor]] would close the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]] with a blessing for [[Crystal City]].
 
 ## Session 29
 
 - Sent the party off with a 2gp/head stipend from his own pocket.
-- Gave them a sealed token for Rhona Voss at the [[Stormberg]] Wallwatch.
+- Gave them a sealed token for [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]] at the [[Stormberg]] Wallwatch.
 - Backed the party's choice not to attend the Council's status hearing, telling [[Perrin Quickquill]] they weren't obligated to go.
 - Gave them cold-weather gear, rations, and tents before departure.
 - Rolled out a loot reward before the party left the city: dented plate for [[Regius]], serpent-scale armor for [[Nanuk]], a Piwafwi for [[Min Ji-ah]], and 3,000gp collectively.

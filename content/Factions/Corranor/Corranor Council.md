@@ -1,13 +1,14 @@
 ---
 title: Corranor Council
-aliases: null
+aliases:
+- Council of Seven
 tags:
 - faction
 campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-23T18:13:20
+updated: 2026-09-26T02:48:26
 ---
 
 # Corranor Council
@@ -32,13 +33,13 @@ The ruling body of the [[Magocracy of Corranor]], comprising seven archmages who
 
 All seven hold the title **Keeper**, each answering for one portfolio of the realm.
 
-- **[[Garm]]**—*Keeper of the Jade Spire.* Orc wizard, 18th level; the most prominently active member, specializing in dimensional magic. The presiding seat: the Spire's own house and research staff, petitions, the guilds, and the city's people
-- **Oriel Blackstaff**—*Keeper of the Writ.* Law and judgment. Head of House Blackstaff
-- **Ysolde**—*Keeper of the Works.* The realm's arcane infrastructure: glyph networks, civic workings, airship engines, and the teleportation circles
-- **Doran**—*Keeper of the Bulwark.* Dwarf abjurer. City defence and the wards; decides what they are pointed at
+- **[[Garm]]**—*Keeper of the Jade Spire.* Orc wizard, 18th level; the most prominently active member, specializing in dimensional magic. The presiding seat: the Spire's own house and research staff, petitions, the guilds, and the city's people (assisted by [[Perrin Quickquill]])
+- **[[Oriel Blackstaff]]**—*Keeper of the Writ.* Law and judgment. Head of House Blackstaff
+- **Ysolde**—*Keeper of the Works.* The realm's arcane infrastructure: glyph networks, civic workings, and airship engines
+- **[[Doran]]**—*Keeper of the Bulwark.* Dwarf abjurer. City defence and the wards; decides what they are pointed at
 - **Merrit**—*Keeper of the Sky Roads.* Established routes, trade, cargo and supply, including the eastern lanes
-- **Wystan**—*Keeper of the Archive.* Knowledge and antiquities, with oversight of the autonomous [[Ether Scryer's Academy]]
-- **Nerise**—*Keeper of Exploration.* Everything not yet on a map. Rarely in Crystal City
+- **[[Wystan]]**—*Keeper of the Archive.* Knowledge and antiquities, with oversight of the autonomous [[Ether Scryer's Academy]]
+- **[[Nerise]]**—*Keeper of Exploration.* Everything not yet on a map. Rarely in Crystal City
 
 **Renunciation:** a member sets aside their affiliations on investiture and may not speak for or involve themselves in the business of a house, order or guild they came from. Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour that—which is why the family head was absent from the Session 23 mansion meeting. The city still calls it the Blackstaff seat regardless: the rule is real in law and a fiction socially, and [[Soral Vayne]] described it to [[Min Ji-ah]] in Session 19 as a mark of the family's prestige.
 

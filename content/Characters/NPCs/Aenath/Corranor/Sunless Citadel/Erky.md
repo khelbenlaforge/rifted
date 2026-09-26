@@ -1,14 +1,16 @@
 ---
 title: Erky
 aliases:
+- Erkaniel Timbers
+- Erky Timbers
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Erky
@@ -44,14 +46,14 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 
 ## Key Events
 
-- **The Sanctum (Session 12):** When the party entered the true Sanctum, Erky saw only the illusion — the Ashardalon dragon and the ancient elven architecture. The murals, the statues of Mystra, Gond, Bahamut, and Takhisis, and the revealed shape of [[Aenath]] were all invisible to him. The Sanctum revealed itself only to the five PCs from Earth.
+- **The Sanctum (Session 12):** When the party entered the true [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]], Erky saw only the illusion — the Ashardalon dragon and the ancient elven architecture. The murals, the statues of [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]], [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Bahamut|Bahamut]], and [[The Exodus/00_My Notes/Pantheon/Takhisis|Takhisis]], and the revealed shape of [[Aenath]] were all invisible to him. The Sanctum revealed itself only to the five PCs from Earth.
 - **The Lab Battle (Session 12):** Contributed powerful heals at key moments during the fight against the vine serpent and twig blight swarm in [[Durnn]]'s Research Lab. More capable than his size suggests.
 
 ## Relationships
 
 - Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]
-- Ventured south to rescue the missing Hucrele children and was captured
-- Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and Grip
+- Ventured south to rescue the missing [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] children and was captured
+- Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Sunless Citadel/Grip|Grip]]
 - **Under observation:** [[Luks Borg]] gave [[Min Ji-ah]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
 
 ## Session 7 Update (The Understudies)
@@ -65,4 +67,13 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 ## Session 19
 
 Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster reveal. At [[Elmindaria L'Thorian|Daria]]'s request, he attempted Banishment on [[Shen]]'s patron; the spell failed because the patron was too powerful.
+
+## Session 30 Update (The Door Kickers)
+
+- Reappeared to The Door Kickers on the road north from [[Crystal City]]—not disguised as one of the starving wolf pack itself, but arriving separately in his signature [[Velvet Vulper]] disguise (the same one worn by [[Little Sister]] in the Sunless Citadel), walking out of the treeline after a golden healing glow passed through the pack, then shimmering into his true form.
+- Wearing [[Tymora]]'s holy symbol.
+- Used Invoke Duplicity/Trickster's Transposition to intercept and drive off a second, unnamed rival band of rangers nearby.
+- Explained the pack banded together because they're fleeing something further north, which may itself be fleeing something else.
+- **Rejoins the Door Kickers going forward.** This appears to mean he's slipped [[Luks Borg]]'s supervision, his last known status as of Session 19.
+- [[Min Ji-ah]] sent word of his return to Luks Borg via Sending Stone; Luks's reply spent all twenty-five of its words on profanity, none on an actual answer.
 

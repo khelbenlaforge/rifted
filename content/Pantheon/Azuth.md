@@ -12,7 +12,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-08-16T17:40:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Azuth
@@ -50,7 +50,7 @@ Two suborders divide on temperament rather than doctrine: one distrusts sorcerer
 
 ## Role in the Story
 
-Session 26 named Azuth only in passing, via Min Ji-ah — one of two "lesser deities of magic" (with Savras) she recognized as present in the same temple complex as Mystra (not the Temple of Kelemvor, a separate location). Mystra gives magic freely enough that no priesthood is needed for her; Azuth and Savras both keep small, sparse clergies by comparison — Azuth's Magistrati (see Worshipers above) and Savras's own thin ranks — nothing like the scale of a major temple faith.
+Session 26 named Azuth only in passing, via [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] — one of two "lesser deities of magic" (with Savras) she recognized as present in the same temple complex as Mystra (not the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]], a separate location). Mystra gives magic freely enough that no priesthood is needed for her; Azuth and Savras both keep small, sparse clergies by comparison — Azuth's Magistrati (see Worshipers above) and Savras's own thin ranks — nothing like the scale of a major temple faith.
 
 ## Connections
 

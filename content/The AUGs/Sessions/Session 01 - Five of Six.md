@@ -7,7 +7,7 @@ campaign: Rifted
 session: 1
 date: 2026-08-26
 in-world-date: Feast of the Moon, Year 222 PA
-updated: 2026-08-27T17:58:56
+updated: 2026-09-26T00:50:25
 ---
 
 # Session 01 — Five of Six
@@ -56,7 +56,7 @@ Five strangers, alive, stood at the base of a spiral stair with a transport prom
 
 ## Related
 
-- [[The Drowned Dawn]] — this session's arrival site and temple, full write-up
+- [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]] — this session's arrival site and temple, full write-up
 - [[The Sundered Choir]] — the Understudies' own abandoned Lathander temple; a second confirmed site of the same pattern
 - [[Layla]] — the unnamed woman on the tower
 - [[Shadow Creatures]] — the enemies faced in the chamber

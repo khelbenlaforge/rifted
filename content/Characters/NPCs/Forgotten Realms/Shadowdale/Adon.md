@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Adon
@@ -29,7 +29,7 @@ updated: 2026-08-28T14:52:43
 
 Devoted, good-hearted, and openly vain. His concern for his appearance is sincere, not a mask for anything else. He serves a goddess of beauty, and he takes the mandate personally. This makes him somewhat easier to underestimate than he deserves.
 
-Shadowdale did not meet his standards. He made this clear. Jhaele Silvermane served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
+Shadowdale did not meet his standards. He made this clear. [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Jhaele Silvermane|Jhaele Silvermane]] served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
 
 Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd level or higher through prayer; Adon is unaffected since he's not yet casting at that level. The senior Sune clerics he left behind in Arabel were panicking over the loss of divine power — Adon departed untroubled. He can still hear Sune. He sees no problem.
 
@@ -39,7 +39,7 @@ A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joine
 
 ## The Scar
 
-At the Temple of Lathander in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation — when the east wall blew outward and the room was nothing but light — a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
+At the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]] in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation — when the east wall blew outward and the room was nothing but light — a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
 
 A cleric of [[Sune]] — the goddess of beauty — marked across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light.
 
@@ -47,7 +47,7 @@ It will build slowly. Adon serves a goddess who holds beauty as sacred. He carri
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the Sanctum mural, [[Gill Bates]] temporarily inhabited Adon's body.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Gill Bates]] temporarily inhabited Adon's body.
 
 ## Session 15
 

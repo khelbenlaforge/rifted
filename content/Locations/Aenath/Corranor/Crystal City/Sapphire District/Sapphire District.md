@@ -7,7 +7,8 @@ tags:
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T14:15:27
+created: 2026-05-26T00:00
 ---
 
 # Sapphire District
@@ -32,11 +33,13 @@ The [[Magocracy of Corranor]] governs this district nominally. In practice, the 
 - **[[Hucrele Manor]]** — The Hucrele family's Crystal City estate, now largely vacant since the family's relocation to [[Sunhold]]. Maintained by a skeleton staff. [[Soral Vayne]] holds a key.
 - **Cassaveth House** — One of the oldest family estates in the district. Reclusive. Rarely holds public functions but will receive visitors who arrive with the right name.
 - **Irenmoor Walk** — A private promenade along the district's inner wall where families take their evening exercise. More business is conducted here than in any Council chamber.
+- **Ferrowe Manor**—Quiet these days, formally kept by a skeleton staff. The family's real business runs out of [[Westward]] now, where the forges are; the manor just keeps the name current in the district's memory.
 
 ## Residents
 
 - **[[Soral Vayne]]** — Former Hucrele retainer; now the district's foremost social broker
 - **[[Hucrele Family]]** — Crystal City origin; estate maintained but family primarily based in [[Sunhold]]
+- **House Ferrowe**—Crystal City origin; working branch now based in [[Westward]], minding the family's forge interests
 
 ## Current Events
 

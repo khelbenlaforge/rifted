@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 state: alive
-updated: 2026-09-18T12:35:40
+updated: 2026-09-25T17:22:45
 ---
 > [!infobox]
 > # Sellas Verenthal
@@ -21,7 +21,8 @@ Her family has not yet moved to open confrontation. Instead, through steward [[O
 
 ---
 Race:: Human
-Location:: House Verenthal
+Location:: [[House Verenthal]]
+Affiliation:: [[House Verenthal]]
 
 ## Session 28
 

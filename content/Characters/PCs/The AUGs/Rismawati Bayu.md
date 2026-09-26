@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-09-23T20:06:33
+updated: 2026-09-26T00:50:25
 created: 2026-08-26T17:33:32
 ---
 
@@ -43,9 +43,11 @@ Risma brings the same exacting scrutiny to the wild things around her now that s
 
 ## Key Events
 
-**Session 1 — Feast of the Moon, Year 222 PA:** One hand was already on her front door, an ordinary Monday barely started, when the MRT doors ahead of her peeled open onto blue light instead of a train car. What followed was a vision she shared with four strangers. Pure panic sent her climbing higher than the rest of her flock dared, and from that height she was the first to notice something the others hadn't: the ocean below wasn't storming, it was boiling, and the land underneath had no curve to its horizon. Just an edge. She landed an owlin inside [[The Drowned Dawn]], her head turning a full circle before she even registered the talons where her feet used to be. Her spectacles, [[Brought Forward]], only showed up when she reached to actually analyze something — not before, not as decoration. Mid-fight she fled upward and put a crystal sconce back to work with Starry Wisp.
+**Session 1 — Feast of the Moon, Year 222 PA:** One hand was already on her front door, an ordinary Monday barely started, when the MRT doors ahead of her peeled open onto blue light instead of a train car. What followed was a vision she shared with four strangers. Pure panic sent her climbing higher than the rest of her flock dared, and from that height she was the first to notice something the others hadn't: the ocean below wasn't storming, it was boiling, and the land underneath had no curve to its horizon. Just an edge. She landed an owlin inside [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], her head turning a full circle before she even registered the talons where her feet used to be. Her spectacles, [[Brought Forward]], only showed up when she reached to actually analyze something — not before, not as decoration. Mid-fight she fled upward and put a crystal sconce back to work with Starry Wisp.
 
 **Session 2—Feast of the Moon into 1 Nightal, Year 222 PA (player absent, DM-voiced):** Risma's player wasn't at the table this session. She surfaces only once, at the very end, catching her breath in the sunlight outside [[The Hexad]] and noticing the bag on the unconscious sixth arrival before anyone else did.
+
+**Session 3—1-2 Nightal, Year 222 PA:** Risma tried Bryn's wineskin along with the rest of the party and came out the steadier one for it, which put her on water duty for the rest of the road to [[Westward]]—not that the water helped anybody else much. Somewhere in the middle of failing to help, she found herself talking about home anyway—a life she'd have sworn under oath was good, if nobody pushed past the surface of it. Nobody pushed hard. At [[Dessa Kestrel|Dessa]]'s Cliffwatch, she was one of the two druids singled out for a future [[Azure Tamers]] introduction, unprompted and unexplained beyond the offer itself.
 
 ## Relationships
 
@@ -104,10 +106,10 @@ Everyone in that room read as a threat before Risma's brain caught up: Slenderma
 | **Goodberry** |—| Touch | 10 berries; BA to eat one restores 1 HP + 1 day nourishment; lasts 24 hr. | L1 | V, S, M |—|
 | **Ice Knife** | R +5 | 60 ft. | 1d10 pierce on hit; then target + others w/in 5 ft.: DEX 13 or 2d6 cold | L1 | S, M |—|
 | **Protection from Evil and Good** |—| Touch | Target vs. Aberration/Celestial/Elemental/Fey/Fiend/Undead: disadvantage on their attacks; can't be possessed/Charmed/Frightened by them | L1 | V, S, M | Conc. |
-| **Thunderwave** | CON 13 | Self (15-ft cube) | 2d8 thunder on fail (half on success); push 10 ft. | L1 | V, S |—|
+| **Thunderwave** | CON 13 | Self (15-ft cube) | 2d8 thunder + push 10 ft. on fail; half damage only, no push, on success | L1 | V, S |—|
 | **Cure Wounds** *(Moon Spells)* | — | Touch | Regain 2d8+3 HP; +2d8 per slot level above 1st | L1 | V, S | — |
 | **Moonbeam** *(Moon Spells)* | CON 13 | 120 ft. | 2d10 radiant; half on success; shape-shifter reverts on fail | L2 | V, S, M (moonseed leaf) | Conc. |
-| **Summon Beast** |—| 90 ft. | Summon a Bestial Spirit ally (Air/Land/Water); shares Initiative, no action to command | L2 | V, S, M | Conc. |
+| **Summon Beast** |—| 90 ft. | Summon a Bestial Spirit ally (Air/Land/Water); shares Initiative but acts right after her; no action to command | L2 | V, S, M | Conc. |
 
 ### Bonus Actions
 

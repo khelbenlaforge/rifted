@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-22T04:29:19
+updated: 2026-09-26T03:10:22
 ---
 
 # Layla
@@ -80,7 +80,7 @@ Deity:: Unknown
 
 ## Session 1 Update (The JULYs)
 
-- 20th Uktar, Year 222 PA: appeared in [[The Emberveins]], a lava-lit cavern between Crystal City and Coldford, taking notes ahead of a shadow-creature encounter, ahead of four newly arrived JULYs PCs (Kai, Frankie, Odette Langford, Masamune Kento — Nanaya Rei was not among this arrival).
+- 20th Uktar, Year 222 PA: appeared in [[The Emberveins]], a lava-lit cavern between Crystal City and [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]], taking notes ahead of a shadow-creature encounter, ahead of four newly arrived JULYs PCs (Kai, [[The Exodus/The JULYs/PCs/Frankie|Frankie]], [[The Exodus/The JULYs/PCs/Odette Langford|Odette Langford]], [[The Exodus/The JULYs/PCs/Masamune Kento|Masamune Kento]] — Nanaya Rei was not among this arrival).
 - Corrected her own count aloud on seeing them: "Four. Last batch was four."
 - Gave the same pattern as prior arrivals: a location, a warning that something else in the cavern already knew they'd landed, and nothing more — cited "forty more of these to run tonight."
 
@@ -93,7 +93,7 @@ Deity:: Unknown
 ## Session 3 Update (The JULYs)
 
 - Found [[Ruairí]] alone near the party after his Calamity Vision, appearing in his own natural changeling form rather than the Feywild-snag cat form scripted in prep.
-- Gave him six brass [[Adamantine Guild]] bracers in a bag, with instructions to bring them to "the rest."
+- Gave him six brass [[Adamantine Guild]] bracers in a bag, with instructions to bring them to "the rest," and arranged a hired cart to carry him on to Coldford.
 - Vanished again before Ruairí could ask her anything further.
 
 ## Session 1 Update (The Understudies)
@@ -125,11 +125,11 @@ Deity:: Unknown
 
 ## Session 25 Update
 
-- In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[Min Ji-ah]] cast *Elminster's Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
+- In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[Min Ji-ah]] cast *[[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
 
 ## Session 1 Update (The AUGs)
 
-- Feast of the Moon, Year 222 PA: appeared atop the tower at [[The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs (Mike Kanbei, Ruan Myrt Zaltana, Rachel Tan, Gregory Yang, Rismawati Bayu).
+- [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA: appeared atop the tower at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs ([[The Exodus/The AUGs/PCs/Mike Kanbei|Mike Kanbei]], [[The Exodus/The AUGs/PCs/Ruan Myrt Zaltana|Ruan Myrt Zaltana]], [[The Exodus/The AUGs/PCs/Rachel Tan|Rachel Tan]], [[The Exodus/The AUGs/PCs/Gregory Yang|Gregory Yang]], [[The Exodus/The AUGs/PCs/Rismawati Bayu|Rismawati Bayu]]).
 - Corrected her own count aloud on seeing them: "It was supposed to be six." Did not give her name to this party.
 - Ran through her usual script: pointed up the tower, promised transport at the top, wouldn't say why they'd been pulled here, told them to run if they saw shadows. She was gone before the first one showed.
 
@@ -142,4 +142,7 @@ Deity:: Unknown
 - Named [[Westward]], a day's ride away, as the party's next destination and identified the unnamed leader of its [[Adamantine Guild]] branch as a contact.
 - Arranged for the party to go through the seam.
 
+## Session 3 Update (The AUGs)
+
+- [[Dessa Kestrel]] relayed to The AUGs, as a secondhand and unverified report, that Layla once worked as an assistant to [[Garm]] at [[Crystal City]] on an experimental blood operation, after which she disappeared and a manhunt followed for roughly two months. This is consistent with, and not contradicted by, the Understudies' independently learned Session 5 material naming Garm as the archmage Layla worked under (that material specifies his research as reinstating teleportation—the AUGs' own account doesn't itself use that word, so the connection is inference, not confirmed restatement).
 

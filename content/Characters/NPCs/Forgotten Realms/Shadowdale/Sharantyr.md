@@ -1,15 +1,14 @@
 ---
 title: Sharantyr
-aliases:
-  - Shar
+aliases: []
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-30
 secret: false
 state: alive
 created: 2026-03-26T20:20
-updated: 2026-08-02T14:03:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Sharantyr
@@ -34,7 +33,7 @@ Grim. Fierce, in the way that comes from devotion rather than cruelty, and right
 
 ## Background
 
-A Knight of Myth Drannor and close companion of [[Elminster]]. She was fighting in the battle outside the Temple of Lathander when the explosion occurred. She came through the rubble with drawn sword because she found strangers standing in the wreckage where Elminster had been. The math looked simple. She was wrong, but she doesn't know that yet.
+A Knight of Myth Drannor and close companion of [[Elminster]]. She was fighting in the battle outside the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]] when the explosion occurred. She came through the rubble with drawn sword because she found strangers standing in the wreckage where Elminster had been. The math looked simple. She was wrong, but she doesn't know that yet.
 
 ## Role in the Prequel Vision
 

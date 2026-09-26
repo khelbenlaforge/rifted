@@ -7,7 +7,8 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
-updated: 2026-08-28T02:33:48
+updated: 2026-09-26T00:50:25
+created: 2026-03-23T00:00
 ---
 
 # Hawksguard
@@ -34,7 +35,7 @@ Kindly, shrewd, quiet. Speaks when there is something worth saying. Knows [[Shad
 
 ## Role in the Story
 
-Assigned by Riothar Irontongue to escort the prequel party from the western gate into Shadowdale (Event 1, Session 14). He will guide them to the [[Old Skull Inn]] and, if they ask, to [[Elminster]]'s Tower. He can be convinced to fight alongside the party in Session 15.
+Assigned by [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Riothar Irontongue|Riothar Irontongue]] to escort the prequel party from the western gate into Shadowdale (Event 1, Session 14). He will guide them to the [[Old Skull Inn]] and, if they ask, to [[Elminster]]'s Tower. He can be convinced to fight alongside the party in Session 15.
 
 ---
 Race:: Human

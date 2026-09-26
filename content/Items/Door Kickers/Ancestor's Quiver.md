@@ -2,12 +2,12 @@
 title: Ancestor's Quiver
 aliases: []
 tags:
-  - item
+- item
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-05-15T00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T20:43:35
 ---
 > [!infobox]
 > # Ancestor's Quiver
@@ -73,5 +73,7 @@ The quiver never runs empty.
 Rarity:: Unique
 Owner:: [[Nanuk]]
 Origin:: Carried into the campaign (prequel item, session 0)
+Attunement:: Required ([[Nanuk]] only)
+Found At:: Carried into the campaign (prequel item, session 0)
 
 

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-18
 secret: false
 state: alive
-updated: 2026-09-22T00:23:23
+updated: 2026-09-25T15:24:37
 created: 2026-09-18T13:43:56
 ---
 
@@ -78,11 +78,11 @@ Ruairí's pact runs on the same trick as his body: nothing about him stays where
 
 ## Key Events
 
-- Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - first session. Lived the Calamity Vision from inside it, attempting an Eldritch Blast against a falling shard of stone and missing; woke afterward in his own natural changeling form near the party. Met Layla, who gave him six Adamantine Guild bracers in a bag and vanished. Reunited with Kai and Odette Langford (Masamune Kento, Nanaya Rei, and Frankie's player absent); traveled by carriage to Coldford, was waved through the gate on the crest stamped into the bracers, and registered at the Tallhouse with Petra Hale. Rested in her pocket dimension (his room: an Irish coastal cliffside cottage) and used Mind Spike against her in the Guild's evaluation sparring match afterward.
+- Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - first session. Lived the Calamity Vision from inside a fey creature's body at the edge of the same catastrophe (a glowing spire ringed by orbiting rocks, pixies and taller fey crushed alongside him), attempting an Eldritch Blast against a falling rock and missing; woke afterward in his own natural changeling form near the party. Met Layla, who gave him six Adamantine Guild bracers in a bag and vanished. Reunited with Kai and Odette Langford (Masamune Kento, Nanaya Rei, and Frankie's player absent) at their campfire; traveled by carriage to Coldford, warned en route that a changeling could be treated as a trafficking commodity there. Failed to go unnoticed entering the city—a man overseeing entry fixated on him uncomfortably until Odette flirted the man's attention away, the start of a debt he owes her. Later followed her, partly to repay it, when she strayed off the road on the walk to the Tallhouse and drew the street's attention herself. Registered at the Tallhouse with Petra Hale, who named the same commodity risk directly and suggested he change shape; picked cat, and it stuck. Rested in her pocket dimension (his room: an Irish coastal cliffside cottage), where reaching for his patron's power surfaced a second vision—a misty lake and an obscured antlered fey figure watching him—before using Mind Spike against Petra in the Guild's evaluation sparring match.
 
 ## Relationships
 
-- *None recorded yet.*
+- **[[Odette Langford]]**—Session 3: she flirted with a suspicious gate guard on purpose to pull his attention off Ruairí; he later followed her, partly repaying that, when she strayed off Coldford's safe road herself and drew the street's attention without meaning to. Neither of them has said anything about it yet, but the debt is his to carry.
 
 ## Character Sheet
 

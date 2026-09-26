@@ -8,6 +8,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-04-08T22:56
+updated: 2026-04-08T22:56
 ---
 
 # Waterdeep

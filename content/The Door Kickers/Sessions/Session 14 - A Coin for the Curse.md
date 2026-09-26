@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T21:43
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T17:07:09
 ---
 
 # Session 14 - A Coin for the Curse
@@ -136,7 +136,7 @@ At a Perception roll of 15 in the inn: dark armor. Dark-armored soldiers, alread
 
 [[Selmavra Elsree|Selmavra]] is piecing it together.
 
-She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[Min Ji-ah]]. The man with the Harper's walk is probably [[JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
+She caught the behavioral tells outside the gate — the specific way these five move *with* each other rather than alongside each other, the unspoken triangulations, the shared reference frame they carry like a second skin. Her nat 20 at the guard post crystallized it: the raven-haired mage is probably [[Min Ji-ah]]. The man with the Harper's walk is probably [[Jonathan Jordan|JJ]]. She doesn't know the others yet. And she can't signal directly — [[Cyric]] is at the table, and Cyric is always watching.
 
 She finds a way in.
 

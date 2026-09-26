@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-26T03:47
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T17:22:45
 ---
 > [!infobox]
 > # Vesper's Amulet
@@ -86,5 +86,7 @@ Custom — TBD. Intentionally open. Design when approaching Level 17.
 Rarity:: Unique
 Owner:: [[Ember]]
 Origin:: Shadowdale (prequel vision, Session 15)
+Attunement:: Required ([[Ember]] only)
+Found At:: [[Shadowdale]] (prequel vision, Session 15)
 
 

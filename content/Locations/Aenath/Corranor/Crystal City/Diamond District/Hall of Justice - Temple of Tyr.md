@@ -1,16 +1,16 @@
 ---
 title: Hall of Justice - Temple of Tyr
 aliases:
-  - Hall of Justice
-  - Temple of Tyr
+- Hall of Justice
+- Temple of Tyr
 tags:
-  - location
-  - location/temple
+- location
+- location/temple
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T02:38:46
 ---
 # Hall of Justice - Temple of Tyr
 
@@ -39,6 +39,7 @@ A grand courthouse-temple dedicated to [[Tyr]], the God of Justice. Impressive m
 ## Notable Residents
 
 - **[[Sir Gareth Ironhand]]** — 48-year-old human paladin, missing his left arm below the elbow (replaced with an iron prosthetic), who trains aspiring paladins in the balance of strength, wisdom, and mercy
+- [[Hollis Dawnwarden]]
 
 ## Current Events
 

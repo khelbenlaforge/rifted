@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:10:53
-updated: 2026-09-22T04:26:57
+updated: 2026-09-25T03:25:53
 ---
 
 # Jack XLR
@@ -43,11 +43,11 @@ Jack fights the way he used to mix — find the one frequency that matters, cut 
 
 ## Key Events
 
-*(Pending first session — joins the AUGs at Level 3.)*
+**Session 3—1-2 Nightal, Year 222 PA (player absent):** Still unconscious, still burning quietly under the ash since [[The Hexad]], Jack was carried off the road toward whatever druid circle sat closest, [[Gregory Yang|Gregory]] walking beside him the whole way. He didn't wake for any of it. His actual debut stays exactly as far off as it was before.
 
 ## Relationships
 
-*(Party relationships pending first session.)*
+*(Party relationships pending his actual debut.)*
 
 ## Character Sheet
 

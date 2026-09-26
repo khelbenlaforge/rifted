@@ -9,7 +9,7 @@ introduced: 2026-09-04
 secret: false
 state: dead
 created: 2026-09-04T00:00:00
-updated: 2026-09-11T21:35:53
+updated: 2026-09-26T00:50:25
 ---
 
 # Alys Rook
@@ -22,7 +22,7 @@ updated: 2026-09-11T21:35:53
 > | Location | [[Stormberg]] |
 > | Affiliation | [[Ser Tamsin Rook]] |
 
-Alys Rook is Ser Tamsin Rook's sister, who died in Stormberg four years ago and whose soul remains there because her name was never brought to the Temple of Kelemvor.
+Alys Rook is Ser Tamsin Rook's sister, who died in Stormberg four years ago and whose soul remains there because her name was never brought to the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]].
 
 ---
 Race::

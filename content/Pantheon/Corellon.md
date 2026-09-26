@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-08-17T01:18:47
+updated: 2026-09-26T00:50:25
 ---
 
 # Corellon
@@ -32,7 +32,7 @@ Symbol:: A crescent moon
 
 ## Description
 
-Corellon is the patron deity of all elves: creator, preserver, and eternal leader of the **Seldarine**, the elven pantheon. Their portfolio covers everything elves hold highest, magic, music, art, craft, poetry, and warfare, all at once. Genuinely genderfluid ("alternatively male or female, both or neither"), Corellon conventionally takes the form of an androgynous, preternaturally beautiful elf warrior-artist, equally at home leading a battle or losing themselves for a decade in a single piece of art. **Session 26 named them explicitly as "they/them"** at the shrine array, consistent with this. Their realm, Arvandor, is a place of deep forests and fey beauty on the plane of Arborea. When they take an avatar's form, they're marked by a sky-blue cloak, gauntlets, and an amulet bearing the crescent moon that's become their symbol.
+Corellon is the patron deity of all elves: creator, preserver, and eternal leader of the **Seldarine**, the elven pantheon. Their portfolio covers everything elves hold highest, magic, music, art, craft, poetry, and warfare, all at once. Genuinely genderfluid ("alternatively male or female, both or neither"), Corellon conventionally takes the form of an androgynous, preternaturally beautiful elf warrior-artist, equally at home leading a battle or losing themselves for a decade in a single piece of art. **Session 26 named them explicitly as "they/them"** at the shrine array, consistent with this. Their realm, Arvandor, is a place of deep forests and fey beauty on the plane of [[The Exodus/00_My Notes/Locations/Cosmology/Arborea|Arborea]]. When they take an avatar's form, they're marked by a sky-blue cloak, gauntlets, and an amulet bearing the crescent moon that's become their symbol.
 
 Long before elves existed, Corellon and the orc god Gruumsh were said to be twin sons of a nameless elder god who foresaw a coming cosmic war and gave his own life to split his power between them — beauty, intellect, and the secrets of magic to Corellon; savagery and the mastery of chaos, softened with a gift of foresight, to Gruumsh. The rivalry between the brothers ran long before either drew blood. Corellon was the first of the immortals to find the Feywild, then a lawless wilderness with no courts or kingdoms, and claimed it for what would become their creations; for a time it was ruled in peace and harmony among a small circle of gods there, and it's said Corellon wept the elves themselves into being from tears of sorrow, beauty, and mirth felt in that peace. When the two brothers finally went to war properly, it began over a slight as old and petty as any sibling grudge, and it never fully cooled.
 
@@ -47,7 +47,7 @@ In battle Corellon is a master of both blade and spell — their sword and bow a
 
 ## Role in the Story
 
-Corellon appears in Session 26 only as part of the shrine array Terra finds herself drawn to — a Parthenon-styled row of elven-god statues, Corellon and Sehanine at the center, hundreds of celebrants dancing at their feet on the Feast night. They aren't yet a character in this campaign; they're context for Sehanine's much more directly relevant appearance this session.
+Corellon appears in Session 26 only as part of the shrine array [[The Exodus/The Door Kickers/PCs/Terra|Terra]] finds herself drawn to — a Parthenon-styled row of elven-god statues, Corellon and Sehanine at the center, hundreds of celebrants dancing at their feet on the Feast night. They aren't yet a character in this campaign; they're context for Sehanine's much more directly relevant appearance this session.
 
 ## Connections
 

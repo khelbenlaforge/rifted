@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-18T22:57:52
+updated: 2026-09-26T04:20:19
 ---
 
 # Nanuk
@@ -243,4 +243,18 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - In the same exchange, a standing AC calculation error on his sheet was corrected: base AC is 14, not the previously listed 17; 19 with the new armor.
 - Visited [[Torem]] at the Azure Tamers Tower for Stormberg travel intel and the migration hook (herds early and heavier than the season should be, cause unknown).
 - Torem asked him to look into it if the road takes him near the herds—a paid job, not just a favor, if he brings back good answers.
+
+## Session 30
+
+- Rode with the carriage for the first half of the day; apologized to [[Regius]] for keeping his distance—admitted he wasn't fully sure Regius was real until about a week ago. Bonded over both of them needing answers from [[Layla]], and over the same quiet feeling that they belong here, to Aenath, more than to the world they left. Told Regius that Layla's experiments were sanctioned—[[Garm]] signed off on them, and so did [[Perrin Quickquill|Perrin]]—which means whatever happened to Regius's mother goes higher up than Layla alone.
+- Sent [[Inukshuk]] ahead to run point once the carriage conversation wound down. [[Terra]] and [[Min Ji-ah]], flying on [[Torem]]'s griffin, spotted the herds from above and reported down to him—[[Torem]]'s migration job confirmed the hard way: wildebeest herds and their trailing predators, moving south early and fast.
+- Terra and Ji-ah also sighted the Stormwall from up on Bella, running along the northern coastline, still a good distance off from Stormberg itself.
+- At the Straggler's Rest, a nat 20 Perception check put him onto two trappers, Dev and his unnamed partner, deep in shop talk. Traded predator lore with them—dire wolves, sabertooth cats, a basilisk incident five years back, no dragons in living memory—and floated a dragon theory for the migration shift that even he had to admit didn't fit clean: a dragon spooks a herd fast, it doesn't bleed one south slowly. Warned them off the road further north using [[Azure Tamers]] reports of unusual movement, and caught them invoking a goddess by the name "Miliki"—he's fairly sure that's [[Mielikki]]. They thanked him and looked like they meant to reconsider.
+- The next morning, found the road scraped unnaturally clean where it crossed a game trail—tracks and wheel-ruts deliberately erased, fresh blood, and a deer carcass with its horns sheared off by a steady hand and a sharp blade.
+- Questioned a roadside conifer and got back a struggle, a splash of warm liquid, and movement heading west, corroborated on foot by broken branches and scrape marks and by a current of nature-and-divine magic that wasn't his own. The direction didn't match his own pull toward Silvanus's grove, which stayed sitting north, north-west, the whole time—two separate signals, not the same trail.
+- This is his own Firbolg trait, Speech of Beast and Leaf, not a cast spell—mechanically it could only ever have been him. The raw transcript's "Chen" reads as cross-talk, not a caster credit; Shen wasn't even at the table this session.
+- The High Religion checks that followed pointed to [[Malar]] as the god behind it—Silvanus's old opposite number—with an unconfirmed rumor that the [[Ancients of Lava]] count Malar worshippers among their own.
+- Helped butcher the deer properly, every part used and a marker left as thanks, then sent meat back down the road to [[Ossa]] at the Straggler's Rest to cover the trip's costs, not back to Crystal City.
+- Talked down a pack of six oversized wolves and two sabertooth tigers that came out of both treelines starving and hunting together despite being natural rivals—twenty minutes of beast speech and feeding instead of a fight.
+- Once the pack settled, a golden glow passed through it and a Velvet Vulper walked out of the treeline separately—not one of the wolves or tigers—and shimmered into **[[Erky]]**, wearing Tymora's symbol, throwing illusory copies of himself to drive off a second pack of rangers nearby. His read on the starving pack: they're fleeing something further north, which might itself be fleeing something else. He's traveling with the party again.
 

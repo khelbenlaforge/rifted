@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-23T18:11:07
+updated: 2026-09-26T02:38:47
 ---
 
 # Stormberg
@@ -36,14 +36,15 @@ Status:: active
 ## Features
 
 - **The Wallwatch** — the [[Adamantine Guild]]'s Stormberg branch, first stop for anyone routed the Guild's way. Street-level office, contracts and postings on the wall; thinly staffed like every Guild post these days, but never empty.
-- **The Blind Reaches** — sealed breach sections inside the Stormwall's own mass, cordoned off and Guild-only wherever wall-pests have chewed in too deep. The actual culling work happens out of sight, inside the Wall itself — off-limits to everyone else, for good reason.
-- **The Stormgate** — twin ironbound gates through the Wall, opening only on the same rise-fall cycle as the island. Departure point for arctic expeditions and any trade ship timed tight enough to catch it.
+- **[[Stormwall]]**—the wall itself; see its own note for detail.
 - **[[Ward Works]]** — the Ether Scryer's Academy's Stormberg branch, a research/engineering annex near the Wallwatch at the city's center — not built into the Wall. Full note exists; see there for detail.
 - **[[Iron Seam Guild]]**—Stormberg's own artificer and engineer guild, working in conjunction with (not under) the Academy: they turn the materials it supplies into the Wall's lifts, scaffolding, and siege engines. No single workshop is pinned to a map spot yet; ask around the Wallwatch or Ward Works to find their people.
 - **The Dawnhearth** — a plaster-and-column chapel of [[Lathander]] with a rising-sun symbol atop it (not a converted storefront), the first confirmed living Dawnbringer worship anywhere in Aenath. Tended by [[Sister Priya Dawnwell]]. (Session 5, The Understudies.)
-- **Stormberg's Temple of Kelemvor** — a working temple, skeleton-crewed the day after the Feast of the Moon; [[Brother Silas]] met here. (Session 5, The Understudies.)
+- **Stormberg's [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]]** — a working temple, skeleton-crewed the day after the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]; [[Brother Silas]] met here. (Session 5, The Understudies.)
 - **The pantheon pavilion** — an open, columned building housing statues and shrines to every deity without a temple of its own in Stormberg; noted but not yet visited by the party. (Session 5, The Understudies.)
 - **Yenna's noodle stall** — a fast-line food stall southeast of the city center, near the fields, run by [[Yenna Marrow]]. (Session 5, The Understudies.)
+- [[Sylnathe's Hollow]]
+- [[The Gilded Loom]]
 
 ## Residents
 
@@ -63,8 +64,8 @@ Right now, with the gates still shut, two parties are out past the Wall and can'
 - Gates shut, airborne cycle: a low subsonic drone off the Wall is audible everywhere in Stormberg, never quite background noise.
 
 ### Triggered Effects
-- *Breach alarm.* When a wall-pest incursion is called from the Blind Reaches, off-duty [[Adamantine Guild]] members drop what they're doing and move toward the Wall within minutes — a visible, town-wide response the party can read the mood of.
-- *Overdue return.* When an expedition beyond the Stormgate runs late past its expected window, harbor talk shifts audibly — no panic yet, but everyone's counting days out loud.
+- *Breach alarm.* When a wall-pest incursion is called from the Blind Reaches (see [[Stormwall]]), off-duty [[Adamantine Guild]] members drop what they're doing and move toward the Wall within minutes—a visible, town-wide response the party can read the mood of.
+- *Overdue return.* When an expedition beyond the Stormgate (see [[Stormwall]]) runs late past its expected window, harbor talk shifts audibly—no panic yet, but everyone's counting days out loud.
 
 > *What does the party overhear in the two minutes after stepping off a ship, before anyone official greets them?*
 > *Which of the four governance cogs does an NPC blame first when something goes wrong?*

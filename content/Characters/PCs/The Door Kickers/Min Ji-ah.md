@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-18T22:57:49
+updated: 2026-09-25T20:38:03
 ---
 
 # Min Ji-ah
@@ -227,7 +227,7 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 
 Session 21 downtime:
 - Investigation at the Alchemist's Guild with [[Veyris Thantorn]] (Arcana 19)
-- Cosmological data: the Feywild and Negative Plane are echoes; the astral barrier is stuck; tieflings, celestials, and related beings act as through-lines
+- Cosmological data: the Feywild and Shadowfell are echoes; the astral barrier is stuck; tieflings, celestials, and related beings act as through-lines
 - Beholder bone is far-astral and useless for teleportation
 - Wolf bone from [[Arborea]] is not evil; a whole wolf could create a through-line to Arborea
 - Theory: planar items from living magical creatures may break the astral barrier
@@ -316,4 +316,10 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 - Now carrying the Guild's sealed gem for [[Rhona Voss]], handed off from [[Regius]].
 - **[[Wystan]]** offered a standing arrangement at the Academy archive: whatever she finds on Silvanus's grove, he wants to hear it, and he'll owe her something in return. He also mentioned [[Layla]] used to come through asking about conjuration, planes, and levels of existence—"she would have made a good wizard."
 - Used *Elminster's Footnote* and *Elminster's Inquiry* at the [[Ether Scryer's Academy]] archive with [[Wystan]] to learn that [[Silvanus]]'s grove sits behind shifting interplanar gates clustered north, rather than at a fixed location.
+
+## Session 30
+
+- Rode north on [[Torem]]'s griffin [[Bella]] alongside [[Terra]] for the first half of the day. Listened more than she talked while Terra described **[[The Unbound]]**, her missing Earth cult leader; offered back her own sense of what cults like that do to people, drawn from what she knows of them in South Korea, and her own stretch of having lacked direction—more than she usually says out loud.
+- When a vision surfaced this session tying Silvanus to "not belonging to the last world," it lined up with her own ongoing search for the god's grove with [[Wystan]] back at the Academy—she filed it away rather than say much out loud.
+- Used her Sending Stone to warn [[Luks Borg]] that [[Erky]] had rejoined the party, without waiting to be asked. His reply spent every one of its twenty-five words on profanity and none of them on an actual answer.
 

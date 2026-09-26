@@ -8,7 +8,7 @@ introduced: 2026-09-17
 secret: false
 state: alive
 created: 2026-09-18T14:00:00
-updated: 2026-09-18T13:21:19
+updated: 2026-09-26T00:50:25
 ---
 
 # Hazelwit
@@ -25,7 +25,7 @@ updated: 2026-09-18T13:21:19
 
 ## Appearance
 
-Goat-legged and bare-chested the way fey never seem to feel weather, Hazelwit carries a coin pouch he's constantly working one-handed—up, down, a small metronome of wealth he never quite counts out loud. He doesn't wear anything besides the pouch, and doesn't act like he's noticed the cold that has everyone else in Stormberg in three layers of wool.
+Goat-legged and bare-chested the way fey never seem to feel weather, Hazelwit carries a coin pouch he's constantly working one-handed—up, down, a small metronome of wealth he never quite counts out loud. He doesn't wear anything besides the pouch, and doesn't act like he's noticed the cold that has everyone else in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]] in three layers of wool.
 
 ## Personality
 
@@ -33,7 +33,7 @@ Hazelwit deals in a currency nobody else in the city trades: things a person doe
 
 ## Background
 
-Not much of Hazelwit's own history is confirmed—Fern's one meeting with him didn't run long enough to ask. What is confirmed: he's a fixture of [[Sylnathe's Hollow]], known well enough to the fey community there that Rhona Voss's own Guild referral pointed straight at him, and comfortable enough trading with someone new in the city to skip the usual introductions.
+Not much of Hazelwit's own history is confirmed—Fern's one meeting with him didn't run long enough to ask. What is confirmed: he's a fixture of [[Sylnathe's Hollow]], known well enough to the fey community there that [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]]'s own Guild referral pointed straight at him, and comfortable enough trading with someone new in the city to skip the usual introductions.
 
 ## Role in the Story
 

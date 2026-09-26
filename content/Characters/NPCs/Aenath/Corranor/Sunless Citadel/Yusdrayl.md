@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: dead
 created: 2026-03-16T16:00
-updated: 2026-08-28T02:33:48
+updated: 2026-09-25T23:40:24
 ---
 
 # Yusdrayl
@@ -51,7 +51,7 @@ She does not know that [[Ragh]] engineered the crisis she is currently trying to
 
 Yusdrayl leads the [[Ordahir Kobolds]], who occupy the southern and eastern sections of the [[Sunless Citadel]]'s Upper Level. The colony came to the citadel for its ancient connection to dragon worship — the carved imagery throughout the structure, the heritage of [[Ashardalon]]'s cult — and Yusdrayl inherited the job of governing a population whose identity is organized around a mythology she finds useful but doesn't share.
 
-The wyrmling [[Calcryx]] was the colony's living proof of that heritage. When the [[Durbuluk Goblins]] took Calcryx, Yusdrayl lost both a political symbol and the last buffer between her leadership and the discontent building beneath it. The Hucrele delegation took on the retrieval task weeks ago and never returned.
+The wyrmling [[Calcryx]] was the colony's living proof of that heritage. When the [[Durbuluk Goblins]] took Calcryx, Yusdrayl lost both a political symbol and the last buffer between her leadership and the discontent building beneath it. The [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] delegation took on the retrieval task weeks ago and never returned.
 
 She offered the party what she has: a key to the deeper southern sections in exchange for the wyrmling's return.
 

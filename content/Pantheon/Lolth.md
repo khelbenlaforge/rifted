@@ -8,6 +8,8 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
+created: 2026-03-18T20:29
+updated: 2026-03-18T20:29
 ---
 
 # Lolth

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 created: 2026-06-24T16:56
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T02:49:02
 ---
 
 # Temple of Kelemvor
@@ -42,6 +42,7 @@ At the far end of the Knights' hall, three archways stand taller than the surrou
 - **[[Monks of the Long Death]]** — Ascetics who study the moment of death as a subject of contemplative discipline. No emotional investment in the outcome; that's the point.
 - **[[The Gravelords]]** (Priesthood of Kelemvor) — Clerics who administer the domain: assessments, records, planar processing. They run the temple's daily operations.
 - **[[Knights of the Eternal Order]]** — Paladins whose specific charge is the cross-planar gates. They prevent unauthorized transit in either direction and ensure the dead arrive where they're supposed to.
+- **[[Brother Silas]]**—of the [[Monks of the Long Death]].
 - **[[Augustus Kennedy]]** — Joined as an adherent during Session 19 downtime after [[Sir Gareth Ironhand]] recognized the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought him here. The temple did not debate it. He is now joining the [[Knights of the Eternal Order]].
 
 ## Current Events
@@ -54,7 +55,7 @@ Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, an
 
 ## Session 27 Update
 
-- Shar cultists infiltrated the Deeds of the Dead vigil and kidnapped the Gravelord; the vigil ultimately held, and the Gravelord survived after being freed from a hidden Shar shrine off Cistern Street.
+- [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists infiltrated the Deeds of the Dead vigil and kidnapped the Gravelord; the vigil ultimately held, and the Gravelord survived after being freed from a hidden Shar shrine off Cistern Street.
 - A compromised Knight, [[Ser Tamsin Rook]], let the cultists pass; [[Mother Ilyra Duskveil]] ran the ritual at the hidden shrine.
 
 ## Scene Features
@@ -74,7 +75,7 @@ Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, an
 > *Which PC is most unsettled by the knowledge that the temple can read where they'd go?*
 
 ### Triggered Effects
-- *Death in the Sanctum.* When a creature drops to 0 HP inside the temple, the nearest Threshold Gate briefly illuminates in the color corresponding to the creature's alignment. The Knights note it. They always note it.
+- *Death in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]].* When a creature drops to 0 HP inside the temple, the nearest Threshold Gate briefly illuminates in the color corresponding to the creature's alignment. The Knights note it. They always note it.
 - *Unauthorized Transit.* If a creature attempts a teleportation or planar travel spell inside the temple without Knight approval, every Knight within the building is immediately aware of the attempt and its location.
 
 > *What would it take for the Knights to open the neutral gate deliberately — and who would they let through?*

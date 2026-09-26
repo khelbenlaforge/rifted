@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-14T16:30:08
+updated: 2026-09-26T00:50:25
 ---
 
 # Cadmus Tallow
@@ -23,7 +23,7 @@ updated: 2026-09-14T16:30:08
 > | Affiliation | [[The Gravelords]] |
 
 ## Description
-Cadmus Tallow is Crystal City's First Gravelord and head of the Temple of Kelemvor, 31 years into office; he is seventy and passes for fifty, silver-haired, dark-skinned. His voice never recovered from the Shar cult's abduction in Session 27—wrecked past raising, so the Knights flanking him at any public rite repeat his words for the crowd behind him. He never tries to speak over that arrangement; he has made peace with needing other mouths. What survives in the wreckage is precision. He wants numbers exact, phrasing exact, the ledger balanced to the name, and delivers even the worst news in that same unhurried, accountant's cadence. It does not read as coldness. Under strain that would flatten most people twice his age, he still finds room for the smallest glint of dry mischief—a joke half a breath from collapse, aimed usually at himself or at the Church's own machinery, never at the grieving.
+Cadmus Tallow is Crystal City's First Gravelord and head of the Temple of Kelemvor, 31 years into office; he is seventy and passes for fifty, silver-haired, dark-skinned. His voice never recovered from the [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cult's abduction in Session 27—wrecked past raising, so the Knights flanking him at any public rite repeat his words for the crowd behind him. He never tries to speak over that arrangement; he has made peace with needing other mouths. What survives in the wreckage is precision. He wants numbers exact, phrasing exact, the ledger balanced to the name, and delivers even the worst news in that same unhurried, accountant's cadence. It does not read as coldness. Under strain that would flatten most people twice his age, he still finds room for the smallest glint of dry mischief—a joke half a breath from collapse, aimed usually at himself or at the Church's own machinery, never at the grieving.
 
 ## Background
 Cadmus has held the office of First Gravelord for 31 years, longer than anyone currently serving beside him on the Corranor Council. His theology is unglamorous by design: Kelemvor does not promise a gentle death, a long one, or any assurance that the deserving go last, only that a soul will be met, counted, and released with its name spoken once, aloud. He treats the temple's recitation rolls the way a banker treats a ledger—not as ceremony but as an obligation that must reconcile, because an uncounted soul is, to him, a debt the city owes and has not paid.

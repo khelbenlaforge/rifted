@@ -4,7 +4,7 @@ tags:
 - reference
 campaign: Rifted
 secret: false
-updated: 2026-09-23T20:06:26
+updated: 2026-09-23T22:46:58
 created: 2026-09-23T20:06:26
 ---
 
@@ -14,12 +14,12 @@ created: 2026-09-23T20:06:26
 
 ## Combat Decision Flowchart
 
-*Two passives fire automatically and never need a branch of their own: **Line Item** adds 1d6 psychic the first time each turn a spell of hers damages a creature, and **Doesn't Balance** gives a creature disadvantage on its next attack the first time each turn it fails a save against her spell. **Reconciled** effectively hands her one extra 1st-level slot per Long Rest (recovered automatically, no action). Note: the Sickle's *(Nick)* tag is inert; nothing on her sheet grants Weapon Mastery.*
+*Two passives fire automatically and never need a branch of their own: **Line Item** adds 1d6 psychic the first time each turn a spell of hers damages a creature, and **Doesn't Balance** gives a creature disadvantage on its next attack the first time each turn it fails a save against her spell. **Reconciled** effectively hands her one extra 1st-level slot per Long Rest (recovered automatically, no action). Note: the Sickle's *(Nick)* tag is inert; nothing on her sheet grants Weapon Mastery. Owlin Flight is blocked in medium/heavy armor; she's currently in Leather, so it's live.*
 
 **Triage first, check every turn before anything else:**
 - **Ally about to drop or already at 0 HP →** **Healing Word** (BA, 60 ft., 2d4+3, L1 slot)
 - **Risma herself in danger, wants raw durability →** **Wild Shape** (BA, +9 temp HP, AC 16 if higher; 2 uses, 1/SR, all/LR)
-- **Needs to disengage or get above the fight →** **Owlin Flight** (30 ft. fly, equal to walk; blocked only in medium/heavy armor, she's in Leather so it's live)
+- **Needs to disengage or get above the fight →** **Owlin Flight** (30 ft. fly, equal to walk)
 
 **Action:**
 - **Cluster of enemies at range, worth the slot →** **Moonbeam** (CON 13, 120 ft., 2d10 radiant, half on success, Conc., L2 slot; also forces a shape-shifter to revert on a fail)

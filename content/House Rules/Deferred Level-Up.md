@@ -1,14 +1,14 @@
 ---
 title: Deferred Level-Up
 aliases:
-  - Narrative Level-Up
+- Narrative Level-Up
 tags:
-  - house-rule
+- house-rule
 campaign: Rifted
 introduced: 2026-03-16
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-03-16T20:11
+updated: 2026-09-25T11:31:41
 ---
 
 # Deferred Level-Up
@@ -33,4 +33,8 @@ It treats leveling up as a **narrative moment** — an awakening of potential �
 ## First Used
 
 Session 12 — party granted access to Level 3 via this mechanic. Most leveled up before the long rest.
+
+## Amendment (The AUGs, Session 3)
+
+The DM added a further layer at the table, explicitly borrowed from Critical Role Season 4: a character reduced to 0 HP who then claims their pending level-up pops back up on the new level's rolled HP, rather than staying down. This is a genuine change from the base rule's "does not heal" line above, confirmed live (2026-09-23, granted alongside Level 4 eligibility). Scope unconfirmed—recorded here as what the AUGs table now runs; check with the DM before assuming it applies to any other party's table.
 

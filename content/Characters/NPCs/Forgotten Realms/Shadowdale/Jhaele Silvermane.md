@@ -8,7 +8,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T23:00
-updated: 2026-08-28T02:33:48
+updated: 2026-09-26T00:50:25
 ---
 
 # Jhaele Silvermane
@@ -45,7 +45,7 @@ She recognized [[Torm of the Dales]] as a regular visitor of Shadowdale; she alm
 
 ## Role in the Story
 
-The prequel party met Jhaele at the Old Skull Inn in Session 14. In the Zhentarim ambush that followed in the courtyard, she emerged from the inn on round 2 carrying a crossbow: *"Do not touch children in my presence."* She fought without hesitation. The party won.
+The prequel party met Jhaele at the Old Skull Inn in Session 14. In the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush that followed in the courtyard, she emerged from the inn on round 2 carrying a crossbow: *"Do not touch children in my presence."* She fought without hesitation. The party won.
 
 She will want answers about the panther. She will not throw anyone out. She will hand someone a cloth and wait.
 

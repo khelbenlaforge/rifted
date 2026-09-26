@@ -1,13 +1,14 @@
 ---
-title: "The Harpers"
+title: The Harpers
 aliases:
-  - Harpers
+- Harpers
 tags:
-  - faction
+- faction
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
-updated: 2026-08-28T02:33:48
+updated: 2026-09-26T02:38:45
+created: 2026-03-23T00:00
 ---
 
 # The Harpers
@@ -34,14 +35,17 @@ This is not paranoia. It is discipline. It is how an organization with no walls 
 
 ## Known Members (Campaign)
 
-- [[Storm Silverhand]] — founding Harper; Chosen of Mystra
+- [[Storm Silverhand]] — founding Harper; Chosen of [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]]
 - [[Selmavra Elsree]] — Harper skirmish commander, Shadowdale
 - [[Torm of the Dales]] — Harper agent; neither he nor Selmavra will say so in the field
 - [[Mourngrym Amcathra]] — allied; both Harper-affiliated
+- [[Dove Falconhand]]
+- [[Florin Falconhand]]
+- [[Khelben Blackstaff]]
 
 ## Role in the Story
 
-*Prequel vision — Avatar Crisis era.* Harpers are actively moving through the Shadowdale region, tracking Zhentarim assassins heading south. [[Selmavra Elsree]] is the operational presence in Shadowdale. [[Storm Silverhand]] is present at Elminster's Tower and aware of the situation.
+*Prequel vision — Avatar Crisis era.* Harpers are actively moving through the Shadowdale region, tracking [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] assassins heading south. [[Selmavra Elsree]] is the operational presence in Shadowdale. [[Storm Silverhand]] is present at [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Tower and aware of the situation.
 
 The prequel party includes at least two Harpers (Selmavra/Torm). Neither identifies the other. [[Rathan Thentraver]] notices the Harpers were moving before the party arrived and asks Torm directly who's running the operation — a question JJ has to navigate.
 

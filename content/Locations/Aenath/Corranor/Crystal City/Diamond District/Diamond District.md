@@ -1,15 +1,15 @@
 ---
 title: Diamond District
 aliases:
-  - Temple District
+- Temple District
 tags:
-  - location
-  - location/district
+- location
+- location/district
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-03-16T20:11
+updated: 2026-09-26T03:51:58
 ---
 
 # Diamond District
@@ -36,6 +36,8 @@ Known also as the Temple District, the Diamond District is the spiritual heart o
 - **[[Tidecaller's Sanctuary]]** — Temple of [[Istishia]], built over a natural underground spring, where [[Tidecaller Marin Deepcurrent]] trains devotees
 - **[[Hall of Justice - Temple of Tyr]]** — A grand courthouse-temple where [[Sir Gareth Ironhand]] trains paladins
 - **[[Oghma's Temple — the Endless Library]]** — Hub for scholars, overseen by [[High Lorekeeper Miriam Brightquill]]
+- **[[Temple of Kelemvor]]**
+- A shrine to Cyric is rumored to operate quietly somewhere in the district—no fixed location on record (see The Claret's own whispers of a devotee among the old guard)
 
 ## Notable Residents
 

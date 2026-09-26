@@ -1,15 +1,15 @@
 ---
 title: Garnet District
 aliases:
-  - Commons District
+- Commons District
 tags:
-  - location
-  - location/district
+- location
+- location/district
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T02:38:47
 ---
 
 # Garnet District
@@ -34,6 +34,7 @@ The Commons District — a lively quarter of bustling bars, taverns, and humble 
 
 - A popular tavern where a [[Dwarven Bartender]] dispenses ale and local knowledge. He warned [[Augustus Kennedy]] about the wilds of [[Corranor]]'s mainland and mentioned his brother [[Devran]] in [[Stormberg]].
 - **[[The Low Flagon]]** — Corner tavern, cheapest ale in Crystal City, best fried fish. Front for [[The Claret]]; the back room does not officially exist.
+- [[Corvin's Hold]]
 
 ## Factions
 

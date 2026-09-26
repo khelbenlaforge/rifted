@@ -7,7 +7,8 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 state: alive
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T17:07:09
+created: 2026-07-13T00:00
 ---
 > [!infobox]
 > # Blackstaff Brother
@@ -19,3 +20,4 @@ He was met beside [[Lady Blackstaff]] at the mansion, distinguished by a chisele
 ---
 Race:: Unknown
 Location:: Blackstaff Mansion, Crystal City
+Affiliation:: Blackstaff household

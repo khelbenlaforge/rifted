@@ -7,7 +7,8 @@ tags:
 campaign: Rifted
 introduced: 2026-08-16
 secret: false
-updated: 2026-08-27T16:55:44
+updated: 2026-09-26T00:50:25
+created: 2026-08-16T00:00
 ---
 
 # Shrine of Shar
@@ -23,7 +24,7 @@ Status:: active
 
 ## Description
 
-Nothing about the alley off Cistern Street suggests a door worth finding — deliberately so. The shrine itself is a single low-ceilinged room, unremarkable, the kind nobody looks at twice. No idol was ever necessary; Shar's faithful don't carve a face for what they worship. One patch of wall, floor to shoulder-height, is painted a matte, light-swallowing black, the kind that reads as absence even with a torch inches from it. Before Session 27, that patch carried a Darkness spell layered over it, thick enough that the room read as bottomless from the doorway. Ember's Dispel Magic broke the spell, and it hasn't been recast since.
+Nothing about the alley off Cistern Street suggests a door worth finding — deliberately so. The shrine itself is a single low-ceilinged room, unremarkable, the kind nobody looks at twice. No idol was ever necessary; Shar's faithful don't carve a face for what they worship. One patch of wall, floor to shoulder-height, is painted a matte, light-swallowing black, the kind that reads as absence even with a torch inches from it. Before Session 27, that patch carried a Darkness spell layered over it, thick enough that the room read as bottomless from the doorway. [[The Exodus/The Door Kickers/PCs/Ember|Ember]]'s Dispel Magic broke the spell, and it hasn't been recast since.
 
 ## Features
 

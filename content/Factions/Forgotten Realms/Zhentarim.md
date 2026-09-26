@@ -1,13 +1,15 @@
 ---
-title: "Zhentarim"
+title: Zhentarim
 aliases:
-  - The Zhentarim
-  - The Black Network
+- The Zhentarim
+- The Black Network
 tags:
-  - faction
+- faction
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
+created: 2026-03-23T00:00
+updated: 2026-09-26T02:38:46
 ---
 
 # Zhentarim
@@ -27,7 +29,7 @@ secret: false
 
 The Zhentarim — the Black Network — is a mercenary empire built on control of trade routes, political blackmail, and military force. They operate through layers of legitimate commerce at the surface and ruthless elimination beneath. Merchants who refuse their "protection" find their caravans raided. Lords who refuse their alliances find their heirs compromised. Cities that resist find armies on their doorstep.
 
-During the Avatar Crisis, the Zhentarim moved aggressively into the power vacuum left by the gods walking the earth. With temples in chaos and divine authority contested, the Network accelerated its campaign to dominate the Dalelands — a region that has long resisted Zhentil Keep's reach precisely because it is too decentralized to strangle cleanly.
+During the Avatar Crisis, the Zhentarim moved aggressively into the power vacuum left by the gods walking the earth. With temples in chaos and divine authority contested, the Network accelerated its campaign to dominate the Dalelands — a region that has long resisted [[The Exodus/00_My Notes/Locations/Forgotten Realms/Zhentil Keep|Zhentil Keep]]'s reach precisely because it is too decentralized to strangle cleanly.
 
 ## Operations
 
@@ -39,11 +41,11 @@ During the Avatar Crisis, the Zhentarim moved aggressively into the power vacuum
 
 ## Role in the Story
 
-*Prequel vision — Avatar Crisis era.* The Zhentarim represent the mundane military threat running parallel to the divine crisis. While the gods destroy each other overhead, the Black Network is quietly annexing the Dalelands. [[Shadowdale]] is a target — Elminster's presence is both the reason it has resisted and the reason the Zhentarim want it.
+*Prequel vision — Avatar Crisis era.* The Zhentarim represent the mundane military threat running parallel to the divine crisis. While the gods destroy each other overhead, the Black Network is quietly annexing the Dalelands. [[Shadowdale]] is a target — [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s presence is both the reason it has resisted and the reason the Zhentarim want it.
 
 The courtyard ambush in [[Old Skull Inn]] was a Zhentarim operation: five toughs, one commander, one specialist agent. Mission: extract [[Midnight]]. It failed. The commander is dead. The cipher note he carried is now in the party's hands.
 
 ---
 
-Leader:: Manshoon *(Avatar Crisis era)*
-Headquarters:: Zhentil Keep
+Leader:: [[Manshoon]] *(Avatar Crisis era)*
+Headquarters:: [[Zhentil Keep]]

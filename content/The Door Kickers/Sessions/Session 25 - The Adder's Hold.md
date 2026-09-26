@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-07-27
 secret: false
 created: 2026-07-27T19:00:00
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T00:50:25
 ---
 
 # Session 25 - The Adder's Hold
@@ -49,6 +49,5 @@ The session closed on that agreement — no blood between the party and Corvin A
 
 ## Related
 
-- [[The Exodus/The Door Kickers/Session Prep/2026-07-27 - Session 25 Prep]] — the DM's room-by-room design for this session
+- [[The Exodus/The Door Kickers/Session Prep/2026-07-27 - Session 25 Prep|2026-07-27 - Session 25 Prep]] — the DM's room-by-room design for this session
 - [[Session 24 - Four Litres of Blood]]
-

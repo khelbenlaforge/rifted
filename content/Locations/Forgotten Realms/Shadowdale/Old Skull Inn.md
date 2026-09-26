@@ -7,6 +7,8 @@ tags:
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
+created: 2026-03-23T00:00
+updated: 2026-09-26T00:50:25
 ---
 
 # Old Skull Inn
@@ -27,7 +29,7 @@ Wide and low, built of grey stone that has been repaired so many times it has st
 
 The Old Skull Inn sits at the western edge of Shadowdale's center, named for the massive grey granite formation — the Old Skull — that rises above the treeline behind the town. The Twisted Tower is visible to the east from the courtyard.
 
-Jhaele Silvermane has run this inn for long enough that she knows everyone. She knows the Knights of Myth Drannor by first name. She knows Elminster as *"that old fuddy-duddy — once he gets his head stuck in something you can't pull him out for meals."* Her bearing is not innkeeper affect. It is the bearing of someone who has seen far grander rooms and preferred this one.
+Jhaele Silvermane has run this inn for long enough that she knows everyone. She knows the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Knights of Myth Drannor|Knights of Myth Drannor]] by first name. She knows [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]] as *"that old fuddy-duddy — once he gets his head stuck in something you can't pull him out for meals."* Her bearing is not innkeeper affect. It is the bearing of someone who has seen far grander rooms and preferred this one.
 
 ## Features
 
@@ -73,7 +75,7 @@ G  Gate opening (east wall, 10ft wide, 15ft from courtyard north wall)
 
 ## Current Events
 
-*Prequel vision — Avatar Crisis era.* The inn is operating under the shadow of Zhentarim military movement. Dark-armored soldiers have been seen in the taproom, watching. The courtyard was the site of the Lyonsbane curse incident: Zhentarim agents attempted to abduct [[Midnight]] during a supply cart distraction, triggering [[Kelemvor Lyonsbane]]'s transformation into the [[Lyonsbane Panther]].
+*Prequel vision — Avatar Crisis era.* The inn is operating under the shadow of [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] military movement. Dark-armored soldiers have been seen in the taproom, watching. The courtyard was the site of the Lyonsbane curse incident: Zhentarim agents attempted to abduct [[Midnight]] during a supply cart distraction, triggering [[Kelemvor Lyonsbane]]'s transformation into the [[Lyonsbane Panther]].
 
 ---
 

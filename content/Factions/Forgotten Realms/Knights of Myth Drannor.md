@@ -1,13 +1,15 @@
 ---
-title: "Knights of Myth Drannor"
+title: Knights of Myth Drannor
 aliases:
-  - The Knights of Myth Drannor
-  - Swords of Eveningstar
+- The Knights of Myth Drannor
+- Swords of Eveningstar
 tags:
-  - faction
+- faction
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
+created: 2026-03-23T00:00
+updated: 2026-09-26T02:38:45
 ---
 
 # Knights of Myth Drannor
@@ -34,10 +36,17 @@ They are not an institution with a hierarchy. They are a company — a group of 
 - [[Rathan Thentraver]] — cleric of [[Tymora]], Torm's lifelong best friend
 - [[Mourngrym Amcathra]] — Lord of Shadowdale; ally and associate
 - [[Storm Silverhand]] — ally; allied with but not formally a member
+- [[Dove Falconhand]]
+- [[Florin Falconhand]]
+- [[Illistyl Elventree]]
+- [[Jhessail Silvertree]]
+- [[Lanseril Snowmantle]]
+- [[Merith Strongbow]]
+- [[Sharantyr]]
 
 ## Role in the Story
 
-*Prequel vision — Avatar Crisis era.* The Knights are based in [[Shadowdale]] during the Avatar Crisis, operating in the Dalelands as the Zhentarim advance from the north. They are Shadowdale's irregular defense force alongside [[Mourngrym Amcathra]]'s official guard. The prequel party encounters Rathan and Torm in Shadowdale, and Mourngrym offers them a formal role in the town's defense.
+*Prequel vision — Avatar Crisis era.* The Knights are based in [[Shadowdale]] during the Avatar Crisis, operating in the Dalelands as the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] advance from the north. They are Shadowdale's irregular defense force alongside [[Mourngrym Amcathra]]'s official guard. The prequel party encounters Rathan and Torm in Shadowdale, and Mourngrym offers them a formal role in the town's defense.
 
 ---
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-30T17:46
-updated: 2026-08-02T13:59:38
+updated: 2026-09-26T00:50:25
 ---
 
 # Bane

@@ -7,7 +7,7 @@ campaign: Rifted
 session: 2
 date: 2026-09-23
 in-world-date: Feast of the Moon into 1 Nightal, Year 222 PA
-updated: 2026-09-23T09:48:29
+updated: 2026-09-26T00:50:25
 ---
 
 # Session 02—Six of Six
@@ -63,4 +63,4 @@ They didn't get long to sit with it. Two figures were already crossing toward th
 - [[The Sixth Shadow]]—encountered at the wheel's Chain room, not fought, still unresolved
 - [[Jack XLR]]—the missing sixth, recovered unconscious; his own first session is still ahead of him
 - [[Westward]]—named as the party's next destination, not yet reached
-- [[The Drowned Dawn]]—this session picks up from Session 01's unfinished climb out of it
+- [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]]—this session picks up from Session 01's unfinished climb out of it

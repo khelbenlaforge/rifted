@@ -8,7 +8,8 @@ campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
-updated: 2026-08-28T14:52:43
+updated: 2026-09-25T17:22:45
+created: 2026-06-29T00:00
 ---
 > [!infobox]
 > # Director of Antiquities
@@ -17,4 +18,5 @@ The Director of Antiquities runs the antiquities department at the [[Ether Scrye
 
 ---
 Race:: Unknown (tall humanoid, gray-skinned)
-Location:: Ether Scryer's Academy
+Location:: [[Ether Scryer's Academy]]
+Affiliation:: [[Ether Scryer's Academy]]

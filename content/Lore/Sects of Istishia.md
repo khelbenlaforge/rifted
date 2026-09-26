@@ -12,6 +12,7 @@ campaign: Rifted
 introduced: null
 secret: false
 updated: 2026-08-28T14:52:43
+created: 2026-08-02T13:59
 ---
 
 # Sects of Istishia

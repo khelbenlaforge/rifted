@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-08-16
 secret: false
 created: 2026-08-16
-updated: 2026-09-04T16:12:36
+updated: 2026-09-25T20:50:21
 ---
 
 # Session 27 - Rising of the Dark
@@ -66,4 +66,3 @@ The Gravelord survived the night. Freed before the rite could finish what it sta
 
 - [[2026-08-16 - Session 27 Prep]]
 - [[Session 26 - The Weight of the Moon]]
-

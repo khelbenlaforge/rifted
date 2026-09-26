@@ -2,11 +2,13 @@
 title: Hollowstone
 aliases: []
 tags:
-  - item
-  - item/magic
+- item
+- item/magic
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
+created: 2026-07-14T19:39
+updated: 2026-09-25T20:43:36
 ---
 > [!infobox]
 > # Hollowstone
@@ -83,5 +85,7 @@ TBD.
 Rarity:: Unique
 Owner:: [[Terra]]
 Origin:: Cerro Gordo Mines, California (carried into Aenath)
+Attunement:: Required ([[Terra]] only)
+Found At:: Cerro Gordo Mines, California (carried into [[Aenath]])
 
 

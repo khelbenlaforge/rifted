@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: dead
 created: 2026-03-16T03:56
-updated: 2026-08-28T02:33:48
+updated: 2026-09-25T23:40:24
 ---
 
 # Talgen Hucrele Jr.
@@ -31,7 +31,7 @@ Talgen Hucrele Jr. was a young nobleman with bright eyes and an adventurer's res
 
 ## Background
 
-The son of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]], Talgen grew up in [[Crystal City]] surrounded by privilege but yearned for something beyond a sheltered existence. When the family relocated to [[Sunhold]], the frontier offered exactly the kind of adventure he craved. The arrival of Goblin Merchants bearing a magical healing fruit and an invitation to their stronghold was an opportunity he refused to let pass.
+The son of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]], Talgen grew up in [[Crystal City]] surrounded by privilege but yearned for something beyond a sheltered existence. When the family relocated to [[Sunhold]], the frontier offered exactly the kind of adventure he craved. The arrival of [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] bearing a magical healing fruit and an invitation to their stronghold was an opportunity he refused to let pass.
 
 He joined the delegation alongside his sister [[Sharwyn Hucrele]], escorted by [[Sir Braford]] and [[Karakas]]. The group was expected back within ten days. Twenty-four days passed without any word.
 

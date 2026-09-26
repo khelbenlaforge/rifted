@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 created: 2026-08-26T00:00:00
-updated: 2026-08-26T14:47:56
+updated: 2026-09-26T00:50:25
 ---
 
 # What the Ring Grew Around

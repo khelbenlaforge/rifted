@@ -8,7 +8,7 @@ introduced: 2026-09-09
 secret: false
 state: alive
 created: 2026-09-11T00:00:00
-updated: 2026-09-11T15:45:51
+updated: 2026-09-26T00:50:25
 ---
 
 # Sir Verenthal
@@ -25,7 +25,7 @@ updated: 2026-09-11T15:45:51
 
 ## Description
 
-House Verenthal's fox-like, ostentatious Stormberg-side representative—identified by an elaborate duck-bill-shaped hair coif and a rose pinned to his clothes that he constantly smells—overseeing Wall-gang labor rostering and pay; money-focused but not cruel, he favors workers with city family or dependents for safer near-city posts while insisting that is the whole reason, though Roberto and Keith Poe both read it as only part of the truth. Confronted by [[Roberto]] over a Wall-gang pay and safety dispute, he agreed to hold a forum for the whole roster by the end of Nightal if the gangs returned to work immediately, and paid Roberto 40 gp; his first name is not yet known.
+House Verenthal's fox-like, ostentatious Stormberg-side representative—identified by an elaborate duck-bill-shaped hair coif and a rose pinned to his clothes that he constantly smells—overseeing Wall-gang labor rostering and pay; money-focused but not cruel, he favors workers with city family or dependents for safer near-city posts while insisting that is the whole reason, though Roberto and [[The Exodus/The Understudies/PCs/Keith Poe|Keith Poe]] both read it as only part of the truth. Confronted by [[Roberto]] over a Wall-gang pay and safety dispute, he agreed to hold a forum for the whole roster by the end of Nightal if the gangs returned to work immediately, and paid Roberto 40 gp; his first name is not yet known.
 
 ---
 ## Tags

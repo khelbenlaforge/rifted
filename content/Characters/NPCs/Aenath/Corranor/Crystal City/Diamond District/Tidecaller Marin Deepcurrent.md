@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-09-18T12:35:09
+updated: 2026-09-25T23:40:24
 ---
 
 # Tidecaller Marin Deepcurrent
@@ -56,7 +56,7 @@ Deity:: [[Istishia]]
 - Has felt Istishia's voice growing fainter for about thirty years, as have his counterparts in the other three faiths.
 - Said the faiths' public rivalries are deliberately staged.
 - Has been funnelling etheric energy to Istishia.
-- Compressed the first level of Gill's Sacred Sea initiation to a single downtime day.
+- Compressed the first level of Gill's [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]] initiation to a single downtime day.
 
 ## Session 29
 

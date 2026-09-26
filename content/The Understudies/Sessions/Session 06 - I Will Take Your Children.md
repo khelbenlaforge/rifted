@@ -7,7 +7,7 @@ session: 6
 date: 2026-09-07
 in-world-date: 1 Nightal, Year 222 PA
 created: 2026-09-08T00:00:00
-updated: 2026-09-09T00:35:54
+updated: 2026-09-25T20:41:08
 ---
 
 # Session 06 — I Will Take Your Children
@@ -40,7 +40,7 @@ She ended the fight herself, dropping to one knee at four hit points with her sw
 
 Winding down for the night, Rhona answered whatever questions the party still had left in them.
 
-Corranor's wall opens for shipping only on landfall — the moment the flying continent descends back to the ocean and the sea gates can unseal. Until then, nothing comes or goes by water. White dragons live in the cold reaches to the north, and while the old ones mostly keep to themselves, the young and belligerent occasionally test the wall for sport; the engineers keep ballistas mounted for exactly that. The wall itself can't be broken from outside — but Rhona was quick to add that things can still eat their way in from within, which is half of what the Wallwatch actually does. A southern continent exists, confirmed and reachable, though nobody present had seen it themselves: Crystal City sent an expedition out a couple of months back on one of the realm's only two crystal-powered airships. Teleportation, she confirmed again, has no business working in this world at all — which made it worse, not better, that someone had apparently found a way to make people cross into it anyway.
+Corranor's wall opens for shipping only on landfall — the moment the flying continent descends back to the ocean and the sea gates can unseal. Until then, nothing comes or goes by water. White dragons live in the cold reaches to the north, and while the old ones mostly keep to themselves, the young and belligerent occasionally test the wall for sport; the engineers keep ballistas mounted for exactly that. The wall itself can't be broken from outside — but Rhona was quick to add that things can still eat their way in from within, which is half of what the Wallwatch actually does. A southern continent exists, confirmed and reachable, though nobody present had seen it themselves: Crystal City sent an expedition out a couple of months back on one of the Magocracy's only two crystal-powered airships. Teleportation, she confirmed again, has no business working in this world at all — which made it worse, not better, that someone had apparently found a way to make people cross into it anyway.
 
 She closed the night by laying out downtime — ten days, three tracks available (Relationships, Work, Investigation), each roll harder than the last and each failure costing a point of exhaustion for the week. Level 4 was on the table for anyone who wanted it, with the guild's own house allowance to bank multiple prepared options and commit only when the moment called for it. Nobody actually locked in a downtime pick tonight; the fight had eaten more of the session than anyone planned for, and the tracks themselves are due next time the party sits down, the 9th.
 

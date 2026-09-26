@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-23T18:37:32
+updated: 2026-09-26T00:50:25
 ---
 
 # Adamantine Guild
@@ -35,15 +35,15 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Luks Borg]]** — Senior Adventurer, currently establishing the [[Sunhold]] outpost
 - **[[Jonathan Jordan]]**, **[[Gill Bates]]**, **[[Ember]]**, **[[Augustus Kennedy]]**, **[[Min Ji-ah]]** — Crystal City recruits, transported from Earth (High Harvestide, Year 222 PA)
 - **[[Rhona Voss]]** — Branch Leader, Stormberg Wallwatch; a former culler who traded the tunnels for the desk
-- **[[Kili]]**, **[[Keith Poe]]**, **[[Roberto]]**, **[[Samson Flint]]**, **[[Esca]]** — Stormberg intake, Feast of the Moon, Year 222 PA (Session 4, The Understudies). They arrived already wearing brass bracers sent ahead by an unidentified party; [[Rhona Voss]] recognised the rank as genuine and took them onto the branch's books, rather than conferring it herself. **Who issued those bracers is still unresolved** — see the party Dashboard's Open Threads.
+- **[[Kili]]**, **[[Keith Poe]]**, **[[Roberto]]**, **[[Samson Flint]]**, **[[Esca]]** — Stormberg intake, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA (Session 4, The Understudies). They arrived already wearing brass bracers sent ahead by an unidentified party; [[Rhona Voss]] recognised the rank as genuine and took them onto the branch's books, rather than conferring it herself. **Who issued those bracers is still unresolved** — see the party Dashboard's Open Threads.
 
 ## Branches
 
 - **[[Citrine District]], [[Crystal City]]** — headquarters; two-story white stone, silence ward, extradimensional dormitory.
-- **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the Stormwall's own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
+- **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]]'s own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
 - **The Tallhouse, [[Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
-- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; Layla directed The AUGs (Session 2) to find its leader, and Session 3 is when they did.
+- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed The AUGs (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
 
 ## Operations
 
@@ -58,6 +58,8 @@ The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into th
 ## Current Status
 
 Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere. The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.
+
+**Rifted headcount (per [[Petra Hale]], Session 3, The JULYs):** a rough, self-admittedly imprecise count spanning three cities—nine at the main branch, five in [[Stormberg]], six now in Coldford. Before testing a party this small, she measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 
 ## Session 19
 

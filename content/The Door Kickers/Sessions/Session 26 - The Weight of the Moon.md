@@ -7,15 +7,15 @@ campaign: Rifted
 date: 2026-08-07
 secret: false
 created: 2026-08-07
-updated: 2026-09-04T15:50:19
+updated: 2026-09-25T20:50:20
 ---
 
 # Session 26 - The Weight of the Moon
 
 **In-world date:** Late 30th Uktar rolling into the [[Feast of the Moon]] (the intercalary day between 30 Uktar and 1 Nightal), Year 222 PA — the same night the Corvin Adder deal closed in Session 25.
 
-**Present:** [[Min Ji-ah]] · [[Nanuk|Nanuk]] · [[Gill Bates|Gill]] · [[Sadiah Ispahani|Sadiah]] · [[Terra]] · [[Shen|Shen]] — Shen split off early for offscreen research and doesn't appear again this session.
-**Absent:** [[Jonathan Jordan|JJ]] (Jonathan) — narratively away with Tavia · [[Ember|Ember]] · [[Augustus Kennedy|Augustus]] — both confirmed returning Session 27 · [[Regius|Regius]]
+**Present:** [[Min Ji-ah]] · [[Nanuk|Nanuk]] · [[Gill Bates|Gill]] · [[Sadiah Ispahani|Sadiah]] · [[Terra]] · [[Shen|Shen]]—Shen split off early for offscreen research and doesn't appear again this session.
+**Absent:** [[Jonathan Jordan|JJ]] (Jonathan)—narratively away with Tavia · [[Ember|Ember]] · [[Augustus Kennedy|Augustus]]—both confirmed returning Session 27 · [[Regius|Regius]]
 
 ## What Happened
 
@@ -61,4 +61,3 @@ Initiative rolled with the party split three ways — Terra still at the shrine,
 
 - [[2026-08-07 - Session 26 Prep]]
 - [[Session 25 - The Adder's Hold]]
-

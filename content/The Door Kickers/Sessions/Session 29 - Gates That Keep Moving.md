@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-14
 secret: false
 created: 2026-09-18
-updated: 2026-09-18T22:57:04
+updated: 2026-09-25T20:41:06
 ---
 
 # Session 29 - Gates That Keep Moving
@@ -111,7 +111,7 @@ They left the city gates on the third day of Nightal, cold-weather gear on their
 - **[[Regius]] is off the Verenthal surveillance job.** [[Ostrin Feld]] ended it without explanation, paid him out, and handed over a sealed Verenthal letter and token for whoever holds that name at Stormberg. Separately, a flirtation with [[Tavia Orn]] landed him an obsidian stud—wear it visibly in Stormberg and any Claret there will know what it means.
 - **[[Nanuk]] picked up a paid job from [[Torem]]**: report back on why the herds are migrating south early and heavy this year, if the road takes him near them.
 - **New gear:** [[Gill Bates|Gill]]'s Spell Refuelling Ring (1/day, bonus action, restores one expended slot of 3rd level or lower). [[Nanuk]]'s serpent-scale armor (AC corrected 14→19 with it on). [[Min Ji-ah]]'s Piwafwi (fire resistance; advantage to hide/disadvantage on Perception with hood up; loses magic after an hour of uninterrupted sunlight, reset by one minute of darkness) and the Guild's sealed gem for [[Rhona Voss]], now hers to carry. [[Regius]]'s dented plate suit, needing repair. The party also holds 3,000gp collectively.
-- **The party has left Crystal City**, heading north for [[Stormberg]] with [[Terra]], [[Sadiah Ispahani|Sadiah]], [[Shen]] and [[Ember]] alongside the four players present. [[Augustus Kennedy|Augustus]] and [[Jonathan Jordan|JJ]] stayed in the city.
+- **The party has left Crystal City**, heading north, in [[Stormberg]]'s general direction, with [[Terra]], [[Sadiah Ispahani|Sadiah]], [[Shen]] and [[Ember]] alongside the four players present. [[Augustus Kennedy|Augustus]] and [[Jonathan Jordan|JJ]] stayed in the city.
 
 ## Related
 
