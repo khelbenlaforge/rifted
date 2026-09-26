@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-16
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 created: 2026-08-16T00:00
 ---
 > [!infobox]
@@ -31,7 +31,7 @@ A week before Session 27, a pale, hooded elf — [[Mother Ilyra Duskveil]] herse
 
 ## Role in the Story
 
-Session 27: one of seven Knights who burst from the Temple of Kelemvor screaming that the Gravelord had gone missing — the only one of the seven who hadn't felt the wash of evil rushing past as the cultists fled the sealed chamber, because he already knew what had happened. Confronted by [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]], then broken open by [[The Exodus/The Door Kickers/PCs/Terra|Terra]], he confessed: he'd let two or three Shar cultists past his post toward Cistern Street, and another group toward the main boulevard, in exchange for his sister's rest. He gave the party everything he had, including that the temple attack itself was a distraction, and hasn't tried to hide any of it since.
+Session 27: one of seven Knights who burst from the Temple of Kelemvor screaming that the Gravelord had gone missing — the only one of the seven who hadn't felt the wash of evil rushing past as the cultists fled the sealed chamber, because he already knew what had happened. Confronted by [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]], then broken open by [[The Exodus/The Door Kickers/PCs/Terra|Terra]], he confessed: he'd let two or three [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists past his post toward Cistern Street, and another group toward the main boulevard, in exchange for his sister's rest. He gave the party everything he had, including that the temple attack itself was a distraction, and hasn't tried to hide any of it since.
 
 ---
 Race:: Unconfirmed

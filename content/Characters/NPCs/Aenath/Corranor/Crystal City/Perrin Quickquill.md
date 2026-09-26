@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T20:17:33
 ---
 
 # Perrin Quickquill
@@ -64,7 +64,7 @@ Deity:: Unknown
 
 ## Session 20
 
-Perrin and [[Layla]] ran a months-long teleportation circle project for [[Garm]], placing a circle in the northeast harbour. They sent a test stone through; it appeared for 3 seconds, then vanished with no destination. They are not sending people through it.
+Perrin and [[Layla]] ran a months-long teleportation circle project for [[Garm]], the circle itself built at the [[Jade Spire]]. They aimed it at what they described at the time as a harbour to the northeast—actually [[Stormberg]], north of Crystal City and not yet fleshed out as a location when this was played. They sent a test stone through; it appeared for 3 seconds, then vanished with no destination. They are not sending people through it.
 
 On the High Harvestide arrival day, Layla was supposed to be in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] floor below, adjusting runic circle angles rather than casting a transit spell. Locate Person within 1000 ft. produced no result. [[Jonathan Jordan]] implied Layla was acting illegally; Perrin felt betrayed because she was his only friend and cannot believe she made a stupid mistake.
 

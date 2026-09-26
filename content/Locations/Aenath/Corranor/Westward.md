@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Westward
@@ -34,7 +34,7 @@ Come at it from the forest and the smoke finds you before the buildings do—cha
 
 ## Features
 
-- **The Ferry Quays**—the river-mouth docks where the [[Sunhold]] crossing loads and unloads. Landfall turns them into the loudest place in town; the rest of the cycle, they're mudflats with boats resting on their sides.
+- **The Ferry Quays**—the river-mouth docks where the [[Sunhold]] crossing loads and unloads. [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Landfall]] turns them into the loudest place in town; the rest of the cycle, they're mudflats with boats resting on their sides.
 - **Slagrow**—the foundry district, built up over generations on slag heaps nobody remembers piling. The smiths here swear by [[Sunhold]] ore over anything a local vein could give, though nobody's ever traced exactly why the difference holds so true.
 - **The Coalings**—burn camps scattered through the Wildwood, hauling cut fuel in by cart for every forge in Slagrow. The burners go a little further into the trees every year, and not all of them come back with a story anyone quite believes.
 - **The Cliffwatch**—the [[Adamantine Guild]]'s Westward branch, a squat stone post at the top of the western cliffs. Thinly staffed, like every Guild post these days, but it watches the stair below more closely than it watches the ledgers.

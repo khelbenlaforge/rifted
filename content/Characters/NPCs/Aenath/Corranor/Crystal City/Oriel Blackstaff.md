@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Oriel Blackstaff
@@ -21,7 +21,7 @@ updated: 2026-09-26T00:50:25
 > | Role | Keeper of the Writ |
 > | Affiliation | [[Corranor Council]], House Blackstaff |
 
-Oriel Blackstaff is the tall, lanky, icy, extremely poised Keeper of the Writ on the Corranor Council and head of House Blackstaff, with jet-black hair and beard and black robes with silver lace.
+Oriel Blackstaff is the tall, lanky, icy, extremely poised Keeper of the Writ on the Corranor Council and head of [[The Exodus/00_My Notes/Factions/Corranor/House Blackstaff|House Blackstaff]], with jet-black hair and beard and black robes with silver lace.
 
 ## Appearance
 

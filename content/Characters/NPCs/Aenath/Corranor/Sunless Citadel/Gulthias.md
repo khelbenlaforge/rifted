@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: unknown
 created: 2026-04-18T00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Gulthias
@@ -54,7 +54,7 @@ As a vampire, Gulthias raised his dead cultists as undead servants and continued
 
 At some point Gulthias left Nightfang Spire and traveled to the [[Sunless Citadel]]. His reasons are not recorded. Perhaps he sought an artifact. Perhaps the citadel's necromantic properties called to him. Perhaps something in the dragon's preserved instructions, encoded in the heart he carried within him, drew him there.
 
-He died in the Twilight Grove beneath the citadel. An adventurer staked him to the ground. The stake did not destroy him — it transformed him. Vampire lore holds that a stake drives the undead into death. What happened to Gulthias was different. The wood took root. The tree grew.
+He died in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Twilight Grove|Twilight Grove]] beneath the citadel. An adventurer staked him to the ground. The stake did not destroy him — it transformed him. Vampire lore holds that a stake drives the undead into death. What happened to Gulthias was different. The wood took root. The tree grew.
 
 ## Relationships
 

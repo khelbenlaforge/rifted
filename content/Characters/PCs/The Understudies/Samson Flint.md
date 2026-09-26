@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-09-18T13:04:59
+updated: 2026-09-26T18:44:41
 ---
 
 # Samson Flint
@@ -146,35 +146,35 @@ Location:: [[Stormberg]]
 Deity::
 Playbook:: [[Samson Flint - Playbook]]
 
-## Session 3 Update
+## Session 3 Update (The Understudies)
 
 - 29th–30th Uktar, Year 222 PA: **player absent; Samson was unconscious throughout.** Recovered from inside [[The Hexad]] by [[Kili]], [[Keith Poe]] and [[Roberto]], exactly where the Shadow Creature that dragged him through the doorway had left him—hurt no worse than the drag itself had left him, and not waking.
 - 30th Uktar, Year 222 PA: carried out into morning light by the three of them. He has no first-hand memory of the Hexad, and the stretch between his arrival and waking is still unaccounted for in his own experience.
 
-## Session 4 Update
+## Session 4 Update (The Understudies)
 
 - **First live session for his player.** Cold open in Digbeth, Birmingham, six-thirty on a grey morning three lifts up a scaffold with his mate Dean—who had spent six months half-convinced something wasn't right about how clean Samson's load calcs came out, and finally asked him to explain it. The coupler went before Samson had to find an answer. He moved before he decided to, and caught Dean.
 - Feast of the Moon, Year 222 PA: fell through an arrival vision of a spike of white light a thousand feet high, flying humanoids circling it, a black-clad mage and four constructs holding the base against falling rock. He sent his Echo to intercept a boulder aimed at the mage and **failed**; the constructs held anyway, the spike went dark, and the vision buried him with everyone else caught in it. *(This is the same fall the Door Kickers know as Corran's last stand—the party has not connected the two.)*
 - Feast of the Moon, Year 222 PA: came to walking under his own power out of [[The Hollowreach]] with four people he hadn't properly met, an unaccounted-for stretch of time behind him. Ran into [[Esca]] coming the other way with Guild brass to hand out and got the first real conversation with any of them on the walk north.
 - Feast of the Moon, Year 222 PA: witnessed the three-moon rising, and went onto the [[Adamantine Guild]]'s Stormberg roll under **[[Rhona Voss]]** with the other four. That night he slept behind a door that opened off a corridor with no business being that long.
 
-## Session 5 Update
+## Session 5 Update (The Understudies)
 
 - Feast of the Moon into 1 Nightal, Year 222 PA: player absent — no scene played. In-fiction, still out with Stormberg's wall work gangs (established Session 5 — Rhona took him to the crews at dawn); referenced but not present for Rhona's evening Guild evaluation.
 
-## Session 6 Update
+## Session 6 Update (The Understudies)
 
 - 1 Nightal, Year 222 PA: joined the call online mid-vision. No vision of his own; he wasn't present for it. But he was on the battle map and rolled initiative alongside everyone else before Rhona's Guild evaluation fight began, present and acting from round 1, not a late arrival to the fight itself. Manifested his echo immediately and dealt more damage than anyone else at the table across the fight, including the first crit of the whole game; Necrotic Shroud's fright effect cost Rhona her second legendary resistance. Closed strong with a javelin throw plus two echo-assisted attacks. A double hit from her put him at 0, 23 damage. Rhona eased him down instead of finishing the job, flat of the blade rather than the edge.
 - 1 Nightal, Year 222 PA: caught Rhona's six-years admission afterward along with everyone else — one more thing to process on top of a session that started with a stranger's fight and ended with him on the ground of it.
 
-## Session 7 Update
+## Session 7 Update (The Understudies)
 
 - Night of 1 Nightal, Year 222 PA: decorated his own room—bare, functional, a bed and a cupboard and nothing on the walls, the room of someone still waiting to decide this is somewhere worth being comfortable. Dreamed afterward: a blacksmith on a storm-wrecked island who took in a scarred stranger, months of wordless work at the forge together, then a dream that outgrew the village entirely—the same stranger standing revealed as **[[Gond]]**, mid-strike on an anvil built to hold the world, waiting on one last piece. That piece arrived as a shape of water and starlight and went under the hammer in the others' place. Woke with two levels of exhaustion still ahead of him over the coming ten days. *[[Gond]]'s own note has the fuller picture—what's actually confirmed here stops at the silver eyes matching the blacksmith's, nothing further.*
 - 1–10 Nightal (downtime): worked a day with a wall gang, earned one gold and three silver, and got a first-hand look at rigging that wouldn't pass inspection back home.
 - 1–10 Nightal (downtime): spent fifteen gold trying to drink his own crew into talking—an attempt that, even to him, looked like running from what the dream had left behind—and came away with nothing but two very bad rolls and his first level of exhaustion for the week.
 - 1–10 Nightal (downtime): surveyed the Wall's structure with [[Keith Poe]] backing him, found it swaying wrong and hollowed out in places, and found the reason why: a breach twenty feet high and fifteen wide, dug straight through a section the work gangs won't go near. A second level of exhaustion caught him partway through working it out. Went in anyway—sixty to eighty feet of tunnel, a wall of cold air, something with a bone-white wing just past the torchlight—and came back out with Keith, badly frostbitten, the thing itself unidentified.
 
-## Session 08 Update
+## Session 08 Update (The Understudies)
 
 - 9 Nightal, Year 222 PA: shouldered through the common room door with Keith, still frostbitten from the breach; **[[Rhona Voss]]** healed them both and put the breach up on the Guild's own board.
 - 10 Nightal, Year 222 PA: went back with the full party. Met **[[Meepo]]** and **[[Calcryx]]**, the wyrmling from his own Session 7 glimpse now grown into a young dragon. Called her own reinforcement of the Wall "infinitely much better than concrete" once he saw what her ice was doing to the structure—the first person at the table to say the deal's real upside out loud.

@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Selûne

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T00:00
-updated: 2026-09-26T02:38:46
+updated: 2026-09-26T19:22:56
 ---
 
 # Zhentarim
@@ -38,6 +38,16 @@ During the Avatar Crisis, the Zhentarim moved aggressively into the power vacuum
 **Intelligence:** Agents pre-positioned in target settlements before military arrival. At least one senior Zhentarim operative has been tracking [[Midnight]] specifically — the cipher note recovered from the courtyard Commander confirms she was a named target, not incidental.
 
 **Assassination:** A band of Zhentarim assassins was tracked heading south through the Shadowdale woods during the prequel vision, parallel to the party's arrival.
+
+## Forces at Shadowdale
+
+The Battle of Shadowdale (Session 15) put three named columns on Mourngrym Amcathra's war-council map, each pressing a different approach to the town:
+
+- **The Bloody Doom**—pressing north on Tower Farm; the town militia and its earthworks held, barely.
+- **The Claw of Voonlar**—at the eastern crossroads, contested by the [[The Harpers|Harpers]], driving for the Temple of [[Lathander]]. A Battlelord commanded its vanguard there, entering last to survey the room and plant himself at the doorway.
+- **The West Fang**—crossing at Ashaba Bridge from the west, roughly fifty infantry plus one Battlelord; it broke and routed once the cavalry arrived on the ninth phase.
+
+**Operation Shadowfall** ran in parallel to the battle: an intelligence operation targeting [[Midnight]] specifically. A cipher note recovered from a courtyard Commander's coat lining read: *"Operation Shadowfall. Pendant bearer: acquire or neutralize. Carries fragment of divine intelligence. Value: CRITICAL."* Below that, in colder language: *"Lyonsbane Rider. Do not engage. Draw out and observe."* Agent designation Cray, reporting to Voonlar. At least one senior Zhentarim operative had been tracking Midnight as a named target, not incidentally.
 
 ## Role in the Story
 

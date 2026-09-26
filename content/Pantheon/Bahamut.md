@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T16:28
-updated: 2026-09-25T23:40:24
+updated: 2026-09-26T17:35:51
 ---
 
 # Bahamut
@@ -52,7 +52,7 @@ In [[Aenath]], Bahamut's worship is quiet — more principle than ritual. Paladi
 
 Paladins, dragon knights, and those who dedicate themselves to justice over law invoke Bahamut's name. He has few formal institutions in [[Corranor]], but his philosophy runs through the code of the [[Adamantine Guild]]'s most principled members.
 
-His conventional enmity with [[Takhisis]] means that followers of each rarely cooperate. That the Sanctum shows them cooperating — that it implies they once *did* — is the kind of revelation that rewrites theology. The party has yet to understand what it means.
+His conventional enmity with [[Takhisis]] means that followers of each rarely cooperate. That the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] shows them cooperating — that it implies they once *did* — is the kind of revelation that rewrites theology. The party has yet to understand what it means.
 
 ## Connections
 

@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-25T16:43:02
+updated: 2026-09-26T19:22:16
 ---
 
 # Gill Bates
@@ -190,7 +190,7 @@ Gill studies under [[Tidecaller Marin Deepcurrent]], a water genasi Cleric of [[
 ### Inventory
 
 - **Armor:** Chain Shirt + Shield (equipped)
-- **Magic Items:** Guild Brass Armlet · Spell-Refueling Ring (attunement required) · Stone From Temple Pool
+- **Magic Items:** Guild Brass Armlet · [[Spell-Refueling Ring]] (attunement required) · Stone From Temple Pool
 - **Gear:** Backpack · Blanket · Candle (Magic) · Candle · Fishing Tackle · Favorite Fishing Lure · Holy Symbol · Lamp · Rations ×7 · Robe · Tinderbox · Traveler's Clothes · Pouch
 
 ---
@@ -232,7 +232,7 @@ PassiveStealth:: 12
 
 ## Session 19
 
-Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
+Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outer Planes; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
 
 Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely and menacing. City workers tend it, and no one openly worships Cyric. He later went fishing on a rough boat in the [[Citrine District]] and earned 7 gp.
 
@@ -271,7 +271,7 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - Gains *Create or Destroy Water* as an always-prepared spell.
 - Received a smooth grey stone token from [[Tidecaller Marin Deepcurrent|Marin]] (flavor item, no mechanics).
 - New task from Marin: sense the ocean at the next landfall or an underground spring; [[Corran's Spike]] vs. [[Stormberg]] unresolved.
-- Acquired a Spell Refuelling Ring—see Magic Items.
+- Acquired a [[Spell-Refueling Ring|Spell Refuelling Ring]]—see Magic Items.
 - Given two free vials of holy water from the Temple of Istishia's own font.
 - Marin's read on Istishia's condition darkened: not just her in danger, possibly a liminal-space problem shared by other gods too.
 

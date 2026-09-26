@@ -10,7 +10,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Torm of the Dales
@@ -36,7 +36,7 @@ Undercover work suits him — he is comfortable with partial truths, skilled at 
 
 Harper doctrine holds that agents never identify each other in the field — not even to allies. The network's strength is anonymity: [[The Exodus/00_My Notes/Factions/Forgotten Realms/The Harpers|Harpers]] can be *everywhere* precisely because no one knows who belongs. So when Torm passes another Harper, he does not acknowledge it — discipline, not deception.
 
-Flippant, deliberately outrageous, quick-witted and pranksome. Good-hearted in a way that doesn't always announce itself — the jokes are a layer, not the whole thing. Loyal to the Harpers and to what they stand for.
+Flippant, deliberately outrageous, quick-witted and pranksome. Good-hearted in a way that doesn't always announce itself — the jokes are a layer, not the whole thing. Loyal to the [[The Exodus/00_My Notes/Factions/Forgotten Realms/The Harpers|Harpers]] and to what they stand for.
 
 ## Background
 

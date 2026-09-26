@@ -10,7 +10,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Mourngrym Amcathra
@@ -45,7 +45,7 @@ His wife Shaerl keeps her own counsel — which is all that needs to be said abo
 
 ## Role in the Story
 
-The prequel party met Mourngrym at a war council feast in Session 15. He had already heard about the beast at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] — curious, not hostile. He laid out a map with three colored stones: three-front threat from the Zhentarim. Bloody Doom to the north (Tower Farm, militia holding). Claw of Voonlar to the east (crossroads, Harpers contesting). West Fang to the west (Ashaba Bridge, no full intel). He named [[Manshoon]] as the architect — legendary Zhentarim wizard, staying at [[The Exodus/00_My Notes/Locations/Forgotten Realms/Zhentil Keep|Zhentil Keep]], sent battle lords instead of coming himself.
+The prequel party met Mourngrym at a war council feast in Session 15. He had already heard about the beast at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] — curious, not hostile. He laid out a map with three colored stones: three-front threat from the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]]. Bloody Doom to the north (Tower Farm, militia holding). Claw of Voonlar to the east (crossroads, Harpers contesting). West Fang to the west (Ashaba Bridge, no full intel). He named [[Manshoon]] as the architect — legendary Zhentarim wizard, staying at [[The Exodus/00_My Notes/Locations/Forgotten Realms/Zhentil Keep|Zhentil Keep]], sent battle lords instead of coming himself.
 
 He offered the rank of Sword — above guardscaptains, below the Knights — at twenty gold per day per person. The party accepted.
 

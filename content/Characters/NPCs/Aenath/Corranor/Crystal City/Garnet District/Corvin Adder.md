@@ -1,14 +1,14 @@
 ---
 title: Corvin Adder
-aliases:
+aliases: null
 tags:
-  - npc
-  - creature/humanoid
+- npc
+- creature/humanoid
 campaign: Rifted
 introduced: 2026-07-27
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T20:18:00
 created: 2026-07-20T17:27:22
 ---
 
@@ -66,10 +66,10 @@ Size:: Medium
 Habitat:: Urban
 Found In:: [[Garnet District]]
 
-## Session 25 Update
+## Session 25 Update (The Door Kickers)
 
 - Met the party in person for the first time in his Study inside [[Corvin's Hold]] and introduced himself by name.
-- Wears four studs in his ear — the Claret's rank marker, and the top of it: only four lieutenants total, Corvin among them.
+- Wears four studs in his ear—the Claret's Inner Circle rank marker, Corvin among its seats (see [[The Claret]]).
 - Confirmed [[Layla]] as a longtime Claret client: "a very good customer, pays on time, never haggles, never asks where it comes from," delivered in a matter-of-fact tone. 10,000 gold paid to the Claret over the course of the relationship. Understood to currently be around [[Stormberg]], expected back near the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]].
 - Named [[Vashti Corel]] directly as the rival lieutenant whose people have been making inroads into his [[Garnet District]] and [[Sunstone District]] territory.
 - Offered a lead on Layla's whereabouts and a sending stone to contact her; the party secured his agreement not to use the stone until they return from accompanying the Blackstaff family to the [[Sunless Citadel]], in exchange for an unspecified future favor from the party, "no questions asked."

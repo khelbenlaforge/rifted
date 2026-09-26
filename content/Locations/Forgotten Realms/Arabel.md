@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-22T22:54
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Arabel

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-18
 secret: false
 created: 2026-09-18
-updated: 2026-09-18T23:00:56
+updated: 2026-09-26T17:35:51
 ---
 
 # Rounds
@@ -50,7 +50,7 @@ Rounds grows in power as Ruairí levels.
 
 **A Nose For It *(passive)*:** Ruairí has advantage on Animal Handling checks. Something about him has always read as safe to the things that can't ask.
 
-**Called In *(1/Short Rest, no action required)*:** When Ruairí or a creature within 30 feet of him fails a saving throw, he can call in a favor from something that owes the Feywild one, forcing a reroll of that save—the new result is used, even if it's worse. He couldn't tell you who he owes, or who owes him. Somebody's keeping count regardless.
+**Called In *(1/Short Rest, no action required)*:** When Ruairí or a creature within 30 feet of him fails a saving throw, he can call in a favor from something that owes the [[The Exodus/00_My Notes/Locations/Cosmology/Feywild|Feywild]] one, forcing a reroll of that save—the new result is used, even if it's worse. He couldn't tell you who he owes, or who owes him. Somebody's keeping count regardless.
 
 ---
 

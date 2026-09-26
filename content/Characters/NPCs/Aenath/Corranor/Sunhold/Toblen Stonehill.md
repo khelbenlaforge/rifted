@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-09-25T23:40:24
+updated: 2026-09-26T17:35:51
 ---
 
 # Toblen Stonehill
@@ -35,7 +35,7 @@ She expressed open disdain for the Hucrele children, suggesting they were ill-pr
 ## Relationships
 - Innkeeper of [[The Stonehill Inn]] in [[Sunhold]]
 - Source of local information and gossip for the party
-- Wary of the Goblin Merchants
+- Wary of the [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]]
 - Critical of the [[Hucrele Family]] children's readiness
 
 ---

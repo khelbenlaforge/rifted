@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-26T02:38:47
+updated: 2026-09-26T19:25:00
 ---
 
 # Stormberg
@@ -39,9 +39,10 @@ Status:: active
 - **[[Stormwall]]**—the wall itself; see its own note for detail.
 - **[[Ward Works]]** — the Ether Scryer's Academy's Stormberg branch, a research/engineering annex near the Wallwatch at the city's center — not built into the Wall. Full note exists; see there for detail.
 - **[[Iron Seam Guild]]**—Stormberg's own artificer and engineer guild, working in conjunction with (not under) the Academy: they turn the materials it supplies into the Wall's lifts, scaffolding, and siege engines. No single workshop is pinned to a map spot yet; ask around the Wallwatch or Ward Works to find their people.
-- **The Dawnhearth** — a plaster-and-column chapel of [[Lathander]] with a rising-sun symbol atop it (not a converted storefront), the first confirmed living Dawnbringer worship anywhere in Aenath. Tended by [[Sister Priya Dawnwell]]. (Session 5, The Understudies.)
+- **[[The Dawnhearth]]** — a plaster-and-column chapel of [[Lathander]] with a rising-sun symbol atop it (not a converted storefront), the first confirmed living Dawnbringer worship anywhere in Aenath. Tended by [[Sister Priya Dawnwell]]. (Session 5, The Understudies.)
 - **Stormberg's [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]]** — a working temple, skeleton-crewed the day after the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]; [[Brother Silas]] met here. (Session 5, The Understudies.)
 - **The pantheon pavilion** — an open, columned building housing statues and shrines to every deity without a temple of its own in Stormberg; noted but not yet visited by the party. (Session 5, The Understudies.)
+- **[[The Exodus/00_My Notes/Pantheon/Kossuth|Kossuth]]'s temple**—plainer than its neighbors, tended by a devotee who reads as lit from underneath rather than made of fire. [[The Exodus/The Understudies/PCs/Fern|Fern]] found it on instinct during her own Session 8 downtime, following a vision she couldn't yet name; a stray sneeze snuffed one of its sacred flames, and its keeper banned her outright, twice. A separate site from the unvisited pantheon pavilion above—this one the party has actually reached.
 - **Yenna's noodle stall** — a fast-line food stall southeast of the city center, near the fields, run by [[Yenna Marrow]]. (Session 5, The Understudies.)
 - [[Sylnathe's Hollow]]
 - [[The Gilded Loom]]

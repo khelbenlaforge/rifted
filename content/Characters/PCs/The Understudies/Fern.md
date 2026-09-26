@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-18T14:09:52
+updated: 2026-09-26T18:44:41
 ---
 
 # Fern
@@ -168,18 +168,18 @@ Location::
 Deity::
 Playbook:: [[Fern - Playbook]]
 
-## Session 1 Update
+## Session 1 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: what was played went off the prep note. Fern landed a clean punch on the landowner's son at the exact moment the pull hit.
 - 29th Uktar, Year 222 PA: the argument was over the sanctuary's land rights outside Ürgüp.
 
-## Session 2 Update
+## Session 2 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: her rider peeled out of the northbound formation without explanation, answering a sending-stone call from [[Layla]], and put her on the ground over [[The Hollowreach]].
 - 29th Uktar, Year 222 PA: the clearing they landed in was wrong in a way she would have clocked anywhere. Dusk sitting in it at the wrong hour. Every tree around the rim leaning a few degrees away from the centre, as though something had asked them to a long time ago. She and [[!D'bleh|Gaslight]] got [[Keith Poe]] and [[Roberto]] moving for the treeline instead of trading blows with things that kept getting back up. Past the Shadow Font's edge the light was ordinary again and the pursuit simply ended.
 - 29th Uktar, Year 222 PA: she was back in the air before the night was out. Whatever the riders decided about who flew and who stayed, it was decided over her head and [[Kili]] wore the cost of it.
 
-## Session 08 Update
+## Session 08 Update (The Understudies)
 
 - Night of 1 Nightal, Year 222 PA: her own version of the shared primordial dream—touched the nearest of four vast figures, one made of fire, and for a moment stood inside its own burning rather than beside it, sensing what it needed from the other three. The dream turned older after that: a blacksmith too large for any forge, a hammer, a fire-formed shape that accepted the strike and spread its own light out into a plane still deciding what it would become. *Cross-reference: [[Gond]]'s "Making of Aenath"; Samson's own water-figure dream from [[Session 07 - The Missing Element|Session 07]] is the other half of this same working.*
 - 29th Uktar-2nd Nightal, Year 222 PA: the storm that grounded her and [[!D'bleh|Gaslight]] short of the Wall cost their riders and four days on foot; Gaslight peeled off near the end to check something he didn't like the look of and hasn't surfaced since. She reached Stormberg alone.

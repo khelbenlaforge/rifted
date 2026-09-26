@@ -1,13 +1,14 @@
 ---
 title: Shrine of Shar
-aliases: null
+aliases:
+- Cistern Street shrine
 tags:
 - location
 - location/temple
 campaign: Rifted
 introduced: 2026-08-16
 secret: false
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T19:26:12
 created: 2026-08-16T00:00
 ---
 

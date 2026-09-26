@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Shadow Creatures
@@ -38,7 +38,7 @@ An ongoing and escalating threat. Their attacks have caused severe staffing shor
 
 ## Session 22
 
-Earther-exclusive targeting is now confirmed: shadow creatures completely ignored [[Perrin Quickquill]] during the full [[Jade Spire]] assault, going only for Earthers.
+Earther-exclusive targeting is now confirmed: shadow creatures completely ignored [[Perrin Quickquill]] during the full [[Jade Spire]] assault, going only for [[The Exodus/00_My Notes/Lore/The Rifted|Earthers]].
 
 Combat mechanics established:
 - Only magical attacks cause damage; nonmagical weapons pass through harmlessly.

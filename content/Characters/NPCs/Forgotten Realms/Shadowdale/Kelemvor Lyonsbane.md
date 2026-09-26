@@ -1,15 +1,15 @@
 ---
 title: Kelemvor Lyonsbane
 aliases:
-  - Kelemvor
+- Kelemvor
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Kelemvor Lyonsbane
@@ -148,7 +148,7 @@ Deity::
 
 ## Session 19 Lore
 
-Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls go to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outplane.
+Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls go to the Abyss, lawful evil souls to the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], and neutral or godless souls to the Outer Planes.
 
 His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that knowledge without responsibility creates wild magic that destabilizes the cosmos. Kelemvor once possessed great emotion, but what stripped it away is unknown. His symbol is a man sitting on a chair holding scales.
 

@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
-updated: 2026-09-25T14:15:27
+updated: 2026-09-26T19:25:35
 created: 2026-05-26T00:00
 ---
 
@@ -34,6 +34,7 @@ The [[Magocracy of Corranor]] governs this district nominally. In practice, the 
 - **Cassaveth House** — One of the oldest family estates in the district. Reclusive. Rarely holds public functions but will receive visitors who arrive with the right name.
 - **Irenmoor Walk** — A private promenade along the district's inner wall where families take their evening exercise. More business is conducted here than in any Council chamber.
 - **Ferrowe Manor**—Quiet these days, formally kept by a skeleton staff. The family's real business runs out of [[Westward]] now, where the forges are; the manor just keeps the name current in the district's memory.
+- **[[The Shuttered Florist]]**—A shop still taking deliveries after hours despite its shutters. Secret.
 
 ## Residents
 

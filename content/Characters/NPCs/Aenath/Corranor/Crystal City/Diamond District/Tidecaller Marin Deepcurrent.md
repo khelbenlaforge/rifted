@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-09-25T23:40:24
+updated: 2026-09-26T17:35:51
 ---
 
 # Tidecaller Marin Deepcurrent
@@ -60,7 +60,7 @@ Deity:: [[Istishia]]
 
 ## Session 29
 
-- Ran [[Gill Bates]]'s Sacred Sea trial to completion: one failed attempt, one successful attempt via prayer and Marin's Sending.
+- Ran [[Gill Bates]]'s [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]] trial to completion: one failed attempt, one successful attempt via prayer and Marin's Sending.
 - Gave Gill a smooth grey stone token.
 - Assigned Gill a new task: sense the ocean again at the next landfall or an underground spring, naming [[Corran's Spike]] (northeast) against [[Stormberg]] (north) as an open choice.
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-26T03:10:22
+updated: 2026-09-26T18:44:41
 ---
 
 # Layla
@@ -55,7 +55,7 @@ Whether she can be reached — whether the genuine warmth she carries toward [[P
 - Valued client of [[The Claret]] — sourcing components for unknown purposes
 - Named alongside [[Asmodeus]] in the Marrow Ledger (Session 25) — connection unconfirmed
 - Possibly responsible, directly or indirectly, for the event that brought the party to [[Aenath]] — unconfirmed
-- [[Ruairí]] (Session 3, The JULYs), found him alone after a Feywild-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
+- [[Ruairí]] (Session 3, The JULYs), found him alone after a [[The Exodus/00_My Notes/Locations/Cosmology/Feywild|Feywild]]-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
 
 ---
 Race:: Tiefling
@@ -67,7 +67,7 @@ Location:: Unknown
 Affiliation:: [[Corranor Council]]
 Deity:: Unknown
 
-## Session 21 Update
+## Session 21 Update (The Door Kickers)
 
 - Confirmed operating a second runic circle near [[Corran's Spike]], independent of the [[Jade Spire]] circle and not authorized by [[Garm]]
 - Chalk grids extended 20 feet from the circle; Layla was studying the site rather than merely maintaining it
@@ -92,8 +92,8 @@ Deity:: Unknown
 
 ## Session 3 Update (The JULYs)
 
-- Found [[Ruairí]] alone near the party after his Calamity Vision, appearing in his own natural changeling form rather than the Feywild-snag cat form scripted in prep.
-- Gave him six brass [[Adamantine Guild]] bracers in a bag, with instructions to bring them to "the rest," and arranged a hired cart to carry him on to Coldford.
+- Found [[Ruairí]] alone near the party after his [[The Exodus/00_My Notes/Lore/The Awakening|Calamity Vision]], appearing in his own natural changeling form rather than the Feywild-snag cat form scripted in prep.
+- Gave him six brass [[Adamantine Guild]] bracers in a bag, with instructions to bring them to "the rest," and arranged a hired cart to carry him on to [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]].
 - Vanished again before Ruairí could ask her anything further.
 
 ## Session 1 Update (The Understudies)
@@ -123,7 +123,7 @@ Deity:: Unknown
 - **The concrete lead:** reagents drawn from the blood of planar beings — tieflings and aasimar — are able to punch a hole through space and time, and Crystal City has a black market trading in exactly those reagents that nobody has been able to trace. **Nothing like it has surfaced in Stormberg yet**, and the party now knows to watch for it.
 - Party-knowledge note: the Understudies can now connect Layla to a named Council archmage and to a specific mechanism. They cannot yet connect her to the soul-retrieval matrix, or to [[Asmodeus]] — see DM Notes.
 
-## Session 25 Update
+## Session 25 Update (The Door Kickers)
 
 - In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[Min Ji-ah]] cast *[[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
 

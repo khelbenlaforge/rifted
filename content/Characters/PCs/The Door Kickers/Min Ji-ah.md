@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-25T20:38:03
+updated: 2026-09-26T19:22:16
 ---
 
 # Min Ji-ah
@@ -221,7 +221,7 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 ### Inventory
 
 - **Armor:** Robe (no armor)
-- **Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · Piwafwi of Fire Resistance (attunement required) · Night Caller · Sending Stones
+- **Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · [[Piwafwi of Fire Resistance]] (attunement required) · Night Caller · Sending Stones
 - **Gear:** Backpack · Book · Fine Clothes · Foot-Long Chain Made of Ten Gold Coins · Gems ×4 · Healer's Kit · Herbalism Kit · Alchemist's Supplies · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Vial · Scroll of Mage Armour (L1) · Scroll of Mirror Image (L2)
 ## Session 21
 
@@ -311,7 +311,7 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 
 ## Session 29
 
-- Acquired a Piwafwi—see Magic Items.
+- Acquired a [[Piwafwi of Fire Resistance|Piwafwi]]—see Magic Items.
 - Traded [[Augustus Kennedy|Augustus]]'s old dungeon-find weapon, Toothpick, which she'd been holding, to [[Jonathan Jordan|JJ]] in exchange for his Night Caller whistle before leaving the city—see Magic Items.
 - Now carrying the Guild's sealed gem for [[Rhona Voss]], handed off from [[Regius]].
 - **[[Wystan]]** offered a standing arrangement at the Academy archive: whatever she finds on Silvanus's grove, he wants to hear it, and he'll owe her something in return. He also mentioned [[Layla]] used to come through asking about conjuration, planes, and levels of existence—"she would have made a good wizard."
@@ -319,7 +319,7 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 
 ## Session 30
 
-- Rode north on [[Torem]]'s griffin [[Bella]] alongside [[Terra]] for the first half of the day. Listened more than she talked while Terra described **[[The Unbound]]**, her missing Earth cult leader; offered back her own sense of what cults like that do to people, drawn from what she knows of them in South Korea, and her own stretch of having lacked direction—more than she usually says out loud.
+- Rode north on [[Torem]]'s griffin [[Azure Tamers#Bella|Bella]] alongside [[Terra]] for the first half of the day. Listened more than she talked while Terra described **[[The Unbound]]**, her missing Earth cult leader; offered back her own sense of what cults like that do to people, drawn from what she knows of them in South Korea, and her own stretch of having lacked direction—more than she usually says out loud.
 - When a vision surfaced this session tying Silvanus to "not belonging to the last world," it lined up with her own ongoing search for the god's grove with [[Wystan]] back at the Academy—she filed it away rather than say much out loud.
 - Used her Sending Stone to warn [[Luks Borg]] that [[Erky]] had rejoined the party, without waiting to be asked. His reply spent every one of its twenty-five words on profanity and none of them on an actual answer.
 

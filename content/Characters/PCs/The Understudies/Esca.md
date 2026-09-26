@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-25T20:52:12
+updated: 2026-09-26T18:44:41
 ---
 
 # Esca
@@ -180,27 +180,27 @@ Location:: [[Stormberg]]
 Deity:: 
 Playbook:: [[Esca - Playbook]]
 
-## Session 1 Update
+## Session 1 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: the played cold open matched the prepped version closely, including the throw and then his mother 11 years later in Mokpo.
 - 29th Uktar, Year 222 PA: Min Ji-ah of the Door Kickers retconned her own background in play to be from Korea and recognized Esca.
 - 29th Uktar, Year 222 PA: Min Ji-ah now knows in-world about Esca's match-fixing and prison history.
 - 29th Uktar, Year 222 PA: Esca's Earth criminal past is no longer purely private backstory; it is confirmed known to at least Min Ji-ah and may be more broadly known.
 
-## Session 4 Update
+## Session 4 Update (The Understudies)
 
 - **Absent from Sessions 2 and 3** — untracked, presumed to have stayed with the goblin-rider formation bound for [[Stormberg]] after Session 1. That whole stretch is a blank in the record, available to fill.
 - Feast of the Moon, Year 222 PA: rejoined the party for the first time since Session 1, dropping out of the dark off a giant bat before it had finished landing, already talking. He carried five brass [[Adamantine Guild]] bracers and a message to wear them before the gate—nothing about who had sent word ahead, only that someone had. He handed them out without ceremony. **Who sent them remains unresolved; nobody in Stormberg's cast recognizes a sender.**
 - Feast of the Moon, Year 222 PA: the road north gave him several hours with four people he had last seen on a floating ruin, two of whom he had never met at all. No fighting. Mostly talking, which suited him.
 - Feast of the Moon, Year 222 PA: the bracers he had carried in got all five of them past the gate and onto **[[Rhona Voss]]**'s books. He had carried in the thing that admitted them, and remains the only person who might have seen who handed it over.
 
-## Session 5 Update
+## Session 5 Update (The Understudies)
 
 - Feast of the Moon, Year 222 PA: refused to write a name for the midnight blessing and tore his paper in front of the crowd instead — *"I do not want to commemorate or remember anyone from my past life. They are dead to me."* [[Rhona Voss]] pulled him back gently rather than call him out publicly. Resonates directly with his established Earth-life wound (parental disownment) — not stated in-fiction, DM's own read only, see DM Notes below.
 - 1 Nightal, Year 222 PA: toured the [[Ward Works]] (Stormberg's Ether Scryer's Academy branch) under **[[Ostrun Kell]]**'s supervision — a working alchemy/abjuration research floor, a library heavy on warding theory, and a live demonstration of how volatile the materials testing can get (a nearby test sample detonated during the visit). Library access during downtime is conditional on Rhona's okay, not yet confirmed cleared.
 - 1 Nightal, Year 222 PA: an 18 Investigation during the Ward Works visit earned him a standing offer — at the end of his next downtime, he may scribe one additional level 1 spell of his choice (limited to what a wizard can actually scribe).
 
-## Session 6 Update
+## Session 6 Update (The Understudies)
 
 - 1 Nightal, Year 222 PA: **player absent this session — every action below is the table's collective read of him, not the player's own choices.** No vision; the shared cold-open vision was Kili, Roberto and Keith Poe's only.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger (led initiative at a natural-20 31). Opened with a Mage Hand grip on her ankle for difficult terrain, then cast Web across part of the arena — catching an ally in its difficult terrain along with his intended target. Missed one early dagger/True Strike attempt at melee range, then landed a real one later in the fight. Closed the fight himself, decisively: a landed Suggestion ("stand down") followed by a last Silvery Barbs that put Rhona rigid, grinning through gritted teeth, and down on one knee.

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2025-11-09
 secret: false
 created: 2026-03-19T03:36
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Toothpick
@@ -44,7 +44,7 @@ A chipped longsword fashioned from one of [[Ashardalon]]'s teeth. The blade is c
 
 ## Significance
 
-- Fashioned from [[Ashardalon]]'s tooth — companion relic to *Blight's Call* (made from the claw). Both items are pieces of Ashardalon, both held by the party.
+- Fashioned from [[Ashardalon]]'s tooth — companion relic to *[[The Exodus/00_My Notes/Items/Door Kickers/Blight's Call|Blight's Call]]* (made from the claw). Both items are pieces of Ashardalon, both held by the party.
 - A DC 15 Nature check identifies the material as a dragon's tooth
 - The rage feature makes it immediately useful for any martial character, but the fragility die is a session-ending threat that hangs over every use
 - Currently in [[Augustus Kennedy]]'s possession

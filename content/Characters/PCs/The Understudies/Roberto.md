@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-25T20:52:14
+updated: 2026-09-26T18:44:41
 ---
 
 # Roberto
@@ -182,7 +182,7 @@ Location:: [[Stormberg]]
 Deity:: Lathander
 Playbook:: [[Roberto - Playbook]]
 
-## Session 2 Update
+## Session 2 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: the Bensonhurst job (see Key Events) ended the way they all did, with the flask out on the street afterward. What the cold open established about him: he got his green trainee Nicky through the cleanup by frightening him slightly more than the room already had, and it worked.
 - 29th Uktar, Year 222 PA: went through the same falling city [[Keith Poe]] did, and came out of it in [[The Hollowreach]] with senses sharper than they had any business being. He does not describe it the way Keith does; what stayed with him was the crowd, not the tower.
@@ -190,32 +190,32 @@ Playbook:: [[Roberto - Playbook]]
 - 29th Uktar, Year 222 PA: knocked unconscious by a Shadow's draining swipe. He prayed on the way down and got an answer, in the shape Key Events records above. What matters for his own account is the order of it: the name **[[Lathander]]** arrived last and arrived clear, after everything else. He stood up at 11 hit points with Radiance of the Dawn already moving through him. Two Shadow Creatures did not survive it.
 - 29th Uktar, Year 222 PA: came out of it on his feet, with Keith, [[!D'bleh|Gaslight]] and [[Fern]]. He watched the bats go. Three of them on the ground, and no explanation offered for the arithmetic.
 
-## Session 3 Update
+## Session 3 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: [[Kili]] was set down beside them, which he registered mainly as one more person who might not come back out again.
 - 29th Uktar, Year 222 PA: [[Layla]] did not order them through the door. She explained what was on the other side of it, said plainly that it was theirs to decide, and waited. Two nights after dying on this same ground, Roberto was being asked whether he would go somewhere a tiefling could not follow to fetch a man he had never met.
 - 29th–30th Uktar, Year 222 PA: went into [[The Hexad]] with Kili and Keith Poe. Whatever the place was testing, nobody had asked to sit the test, and it did not care.
 - 30th Uktar, Year 222 PA: they brought him out. Breathing, unmarked beyond what the drag had already done, and not waking for any of it.
 
-## Session 4 Update
+## Session 4 Update (The Understudies)
 
 - Feast of the Moon, Year 222 PA: [[Esca]] rejoined them on the road with the brass bracers that would get them through Stormberg's gate.
 - Feast of the Moon, Year 222 PA: at the three-moon rising he flew up ahead of the group and brought back the full shape of it. A flat world. The Stormwall running the length of the northern coast, Stormberg a scatter of lights at its base, the storm coming off the edge of the world like violent aurora. He was **out of his chain shirt** for the climb: Owlin Flight is unusable in medium armour, so getting airborne costs him a deliberate strip-down first and isn't something he can reach for mid-fight. (DM-confirmed 2026-09-08.)
 - Feast of the Moon, Year 222 PA: the Guild's paperwork happened somewhere around him and he barely registered it. What he kept from that night was one line buried in a long briefing: the Rifted carry half a soul apiece, and the rest grows in the longer they stay. For a man answered by three gods two nights earlier, that landed differently than it did on the others at the table. He took one of the five doors off the Guild's pocket-dimension hallway that night.
 
-## Session 5 Update
+## Session 5 Update (The Understudies)
 
 - Feast of the Moon, Year 222 PA: at the midnight blessing, gave one name to the vigil — not his own, someone dead. Was the only one in the square who could see the translucent figures rising to claim their names as the ritual burned them off, including a handful still lingering unclaimed after the last name rose; the vision persisted through the whole rite, unshared by anyone else present.
 - 1 Nightal, Year 222 PA: visited the Dawnhearth (Stormberg's Church of Lathander) and met [[Sister Priya Dawnwell]], who confirmed his arrival vision named [[Helm]] and [[Sune]] alongside Lathander — the first outside confirmation of that reading. Learned Lathander's afterlife stance (concerned with beginnings, not soul-sending; the faithful return to the sun) directly from her.
 - 1 Nightal, Year 222 PA: also visited Stormberg's Temple of Kelemvor and spoke with [[Brother Silas]], who confirmed Lathander cannot claim a soul that never pledged to him — landed pointedly with Priya present for part of the conversation.
 
-## Session 6 Update
+## Session 6 Update (The Understudies)
 
 - Night before, 1 Nightal, Year 222 PA: shared a vision with Kili and Keith Poe — his own, a past-life memory of Lathander's fall. Watched fellow clerics lose their connection to the Morning Lord mid-prayer, then watched Lathander himself climb a celestial staircase toward the heavens only for an unnamed voice to shatter it from above — *"I will take your children."* Later shared a closing scene with Kili and Keith — recognized his own god at a second stairway, barred from returning by a figure carrying two shields the DM's narration names as [[Helm]]; matches the dream his player submitted ahead of the session, which independently identifies the same figure, though the transcript's own dialogue never has Roberto voice the recognition himself. By the time it ended, his own soul had already come loose — Keith's did too, later. Kili's dream took a different way out entirely.
 - 1 Nightal, Year 222 PA: fought in Rhona's Guild evaluation, resumed from Session 5's cliffhanger. Opened with Shield of Faith on Samson, then flew in — a lair effect grounded him from 20 feet up mid-fight for real falling damage, leaving him prone. Furious about it, stood back up and answered with Scorching Ray for solid damage, bloodying her alongside the rest of the party's hits. Also caught in Esca's Web spell later in the fight, along with the rest of the battlefield. Recovered to land Radiance of the Dawn on her later in the fight.
 - 1 Nightal, Year 222 PA: was there when Rhona admitted, over ale, that she hadn't fought for real in six years and didn't want to lose any more of "her kids" — no different an audience than the rest of the party.
 
-## Session 7 Update
+## Session 7 Update (The Understudies)
 
 - Night of 1 Nightal, Year 222 PA: decorated his own room in the Guild's pocket dimension; listened to Kili retell the vision from the night before.
 - 1–10 Nightal (downtime): took the Guild's posting to mediate a wall-labor dispute at the docks alongside [[Rhona Voss]]. Tried intimidation on **[[Sir Verenthal]]** first and it failed outright; won the argument on a second attempt—hazard, fairness, an assist from [[Keith Poe]] framing it in terms a profit-minded nobleman would follow—and read a partial truth under Verenthal's own explanation for who gets the safer postings. Verenthal paid him forty gold and promised the gangs a forum by month's end if they returned to work now; the Guild's own separate payment through Rhona went unmentioned and unresolved.
@@ -223,7 +223,7 @@ Playbook:: [[Roberto - Playbook]]
 - 1–10 Nightal (downtime, per his own submitted notes—not on the session recording): his second track deepened his standing with **[[Sister Priya Dawnwell]]** at the Dawnhearth. Learned that Lathander and Helm have never gotten along despite both being neutral good, that Chauntea and Tyr stand as Lathander's allies, and that the Morning Lord's own exuberance can do harm as easily as good—Lathander is woven deep enough into Stormberg life that his priests officiate weddings and other new beginnings.
 - 1–10 Nightal (downtime, per the same notes): his third track cashed that relationship in for an introduction—Priya's own contact, an elf who lived through the Awakening firsthand at the [[Ward Works]]. Cracked ground, the dead underfoot, and a warmth in it the elf attributes to Lathander holding on where he could. Nobody currently living can say what stood here before the cataclysm, only that it did. Roberto is the only one in the room who can connect that account to a detail nobody else has: [[Layla]]'s temple, the one she sent the original four into, was Lathander's too. He's sitting on the obvious follow-up question and hasn't asked it yet.
 
-## Session 08 Update
+## Session 08 Update (The Understudies)
 
 - 1-9 Nightal, Year 222 PA (downtime): backed [[Fern]]'s second attempt to mend things with Kossuth's temple, lending Guidance and covering the liquid courage—still rolled badly, the door stayed shut.
 - 10 Nightal, Year 222 PA: flew above the rest of the party alongside Fern on the return trip to the Wall breach and spotted **[[Meepo]]** hiding before he spotted them. Present for the negotiation with **[[Calcryx]]** (grown to a young dragon since Samson and Keith's first glimpse) and the deal struck to let her stay.

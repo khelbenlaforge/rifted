@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 date: 2026-06-25
 secret: false
-updated: 2026-09-25T20:48:30
+updated: 2026-09-26T19:25:27
 ---
 
 # Session 21 — Three More
@@ -37,7 +37,7 @@ Layla gave them two things: the bracers and [[Perrin Quickquill]]'s name. When t
 
 While the newcomers spent ten days on an alabaster highway that floated slightly above the world's surface, the city's other threads quietly pulled tighter.
 
-[[Nanuk]] went up with [[Torem]] on Little Bella — the griffin white-winged, enormous, and entirely comfortable with him, which said something about what Nanuk was when the walls weren't up. From above, the continent resolved into something readable: a highway driving northeast from [[Crystal City]] like a crack healing wrong, brand new alabaster that never touched the ground; farming communities strung east along the road like knots in a rope; and magical creature blood flowing in from where the settlements were newest and the creature attacks most frequent. Torem didn't know who was buying the blood when it arrived at the city. He trusted the Academy. He had no reason not to. Nanuk noted the gap between what Torem believed and what the ledgers would show, and said nothing. He came back with eleven gold pieces and a complicated relationship with an unruly giant eagle.
+[[Nanuk]] went up with [[Torem]] on Little Bella — the griffin white-winged, enormous, and entirely comfortable with him, which said something about what Nanuk was when the walls weren't up. From above, the continent resolved into something readable: a highway driving east from [[Crystal City]] like a crack healing wrong, brand new alabaster that never touched the ground; farming communities strung east along the road like knots in a rope; and magical creature blood flowing in from where the settlements were newest and the creature attacks most frequent. Torem didn't know who was buying the blood when it arrived at the city. He trusted the Academy. He had no reason not to. Nanuk noted the gap between what Torem believed and what the ledgers would show, and said nothing. He came back with eleven gold pieces and a complicated relationship with an unruly giant eagle.
 
 [[Gill Bates]] brought fish to his mentor at the [[Tidecaller's Sanctuary|Temple of Istishia]] and stayed for the lesson underneath the gift. The mentor named four doors: Sacred Sea, where you learn to stop controlling the water and let it carry you; Paths of Water, where you direct without forcing; Storm, chaos as teacher; and Eternal Transformation, which the mentor described without elaborating, the way teachers leave the hardest door for when the student has earned the handle. Gill had been spending evenings with death. The mentor said that was fine — elemental gods and gods of justice had always worked closely, and a cleric of water who understood the [[The Gravelords|Gravelords]] was more useful than one who didn't. He needed Gill to spend two downtime tracks on meditation the next time around. To start with the first door. To begin by letting go.
 

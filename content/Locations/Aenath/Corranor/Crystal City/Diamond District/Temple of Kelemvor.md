@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 created: 2026-06-24T16:56
-updated: 2026-09-26T02:49:02
+updated: 2026-09-26T18:44:41
 ---
 
 # Temple of Kelemvor
@@ -33,7 +33,7 @@ At the far end of the Knights' hall, three archways stand taller than the surrou
 
 - **The Hall of Three Factions** — The temple's nave, where all three orders share the floor without quite sharing space. The Monks of the Long Death occupy the eastern ambulatory; the Priesthood runs the center; the Knights hold the western passage to the gates. Each has its own protocols and its own silence.
 - **The Processing Chambers** — Where newly-deceased souls are assessed for their destination. The work is clerical in both senses: paperwork and prayer in equal measure. Visitors are not welcome, but they are not turned away if they have reason to be there.
-- **The Threshold Gates** — Three archways in the Knights' hall opening toward the Abyss, the Nine Hells, and the Outplane respectively. They are not always open. When they are, the temperature in the hall drops and a sound enters the room that wasn't there a moment ago — quiet, but unmistakable. The neutral gate, the one that leads to the Outplane, is open most often.
+- **The Threshold Gates**—Three archways in the Knights' hall, facing the Abyss, the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], and the Outer Planes respectively (see Description above for the glimpse each shows at certain hours). Only the first two actually function as transit: both Lower Planes sit inside the astral barrier, reachable this way, and when one opens the temperature in the hall drops and a sound enters the room that wasn't there a moment ago—quiet, but unmistakable. The third has never opened as a passable transit in living memory, glimpse or not—the Outer Planes lie beyond the barrier, out of any gate's reach. Souls bound there wait instead, held behind the barrier until a name is read aloud at the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]'s Deeds of the Dead vigil. An unread name stays where it is.
 - **The Neutral Cloister** — A side chamber maintained for the godless, the unaffiliated, and the genuinely uncertain. Kelemvor does not hold anyone. The Cloister is where the Priesthood ensures that principle is correctly administered.
 - **The Feud Wall** — Not a formal feature, but every clerk and junior paladin knows which alcove faces toward [[Mystra]]'s temple district. The institutional memory of wild magic destabilizing cosmic transit is long and is maintained deliberately.
 
@@ -53,9 +53,9 @@ The institutional feud with the churches of [[Mystra]] and [[Oghma]] is not curr
 
 Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, and he began joining the [[Knights of the Eternal Order]]. The three internal orders now have standalone faction notes: [[The Gravelords]], [[Knights of the Eternal Order]], and [[Monks of the Long Death]].
 
-## Session 27 Update
+## Session 27 Update (The Door Kickers)
 
-- [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists infiltrated the Deeds of the Dead vigil and kidnapped the Gravelord; the vigil ultimately held, and the Gravelord survived after being freed from a hidden Shar shrine off Cistern Street.
+- [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists infiltrated the Deeds of the Dead vigil and kidnapped the Gravelord; the vigil ultimately held, and the Gravelord survived after being freed from a hidden [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] shrine off Cistern Street.
 - A compromised Knight, [[Ser Tamsin Rook]], let the cultists pass; [[Mother Ilyra Duskveil]] ran the ritual at the hidden shrine.
 
 ## Scene Features

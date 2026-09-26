@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-07-14T19:39
-updated: 2026-09-25T20:43:36
+updated: 2026-09-26T17:35:51
 ---
 > [!infobox]
 > # Hollowstone

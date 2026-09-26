@@ -8,7 +8,7 @@ introduced:
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Ragh
@@ -47,7 +47,7 @@ He does not regret engineering the kidnapping of [[Calcryx]]. He regrets that it
 
 ## Background
 
-Ragh serves as the [[Ordahir Kobolds]]' chief military officer, commanding the western post against Underdark incursions and goblin raids. He has been quietly building toward a different outcome for longer than anyone knows.
+Ragh serves as the [[Ordahir Kobolds]]' chief military officer, commanding the western post against [[The Exodus/00_My Notes/Locations/Aenath/Underdark|Underdark]] incursions and goblin raids. He has been quietly building toward a different outcome for longer than anyone knows.
 
 Through secret channels, he contacted [[Durnn]] — the goblin leader who seized power by killing the previous goblin elders — and brokered Calcryx's kidnapping. The condition: the wyrmling be kept safe. Ragh's plan is for [[Yusdrayl]] to fall without the wyrmling to politically sustain her, at which point he intends to lead the colony himself, broker genuine peace with the goblins, and restore the citadel to something worthy of the heritage it holds.
 
@@ -60,7 +60,7 @@ He offered the party a guide to goblin territory to find the [[The Exodus/00_My 
 - Key political actor: orchestrated Calcryx's kidnapping; **coup complete** — carried the unconscious [[Yusdrayl]] into goblin territory and presented her to [[Durnn]] and the assembled goblins (Session 10)
 - Genuine dragon devotee, in contrast to Yusdrayl's performative worship
 - Secret ally of [[Durnn]]; has brokered a fragile cross-faction peace deal
-- Will help the party reach the Hucrele delegation if they don't cross him
+- Will help the party reach the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] delegation if they don't cross him
 - The party found his weapons suspiciously clean for claimed skirmish frequency
 - *[[The Exodus/00_My Notes/Items/Door Kickers/Toothpick|Toothpick]]* — his named blade — was stolen by [[Ember]] during Durnn's victory revel while Ragh was intoxicated
 - [[Augustus Kennedy]] angered him by making light of [[Calcryx]] — his devotion is not to be tested

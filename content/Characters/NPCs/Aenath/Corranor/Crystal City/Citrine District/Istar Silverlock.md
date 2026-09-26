@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T19:22:25
 ---
 
 # Istar Silverlock
@@ -189,5 +189,5 @@ Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[Jo
 - Gave them a sealed token for [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]] at the [[Stormberg]] Wallwatch.
 - Backed the party's choice not to attend the Council's status hearing, telling [[Perrin Quickquill]] they weren't obligated to go.
 - Gave them cold-weather gear, rations, and tents before departure.
-- Rolled out a loot reward before the party left the city: dented plate for [[Regius]], serpent-scale armor for [[Nanuk]], a Piwafwi for [[Min Ji-ah]], and 3,000gp collectively.
+- Rolled out a loot reward before the party left the city: dented plate for [[Regius]], serpent-scale armor for [[Nanuk]], a [[Piwafwi of Fire Resistance|Piwafwi]] for [[Min Ji-ah]], and 3,000gp collectively.
 

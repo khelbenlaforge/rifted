@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:20
-updated: 2026-09-18T12:40:21
+updated: 2026-09-26T14:10:08
 ---
 
 # Augustus Kennedy
@@ -226,7 +226,7 @@ Playbook:: [[Augustus Kennedy - Playbook]]
 *(DM-voiced this session; player absent.)*
 
 - Present at the [[Jade Spire]] for the Council's address, and visibly shaken when [[Oriel Blackstaff]] opened an inquiry into the [[Temple of Kelemvor]] and the [[Knights of the Eternal Order]]'s vigil admissions—Augustus belongs to that Order, and nobody touches Kelemvor's church.
-- Confirmed to the party afterward that everyone is expected to bring their loved ones' names to the temple, so he has no explanation for why [[Ser Tamsin Rook]] withheld his sister's for four years.
+- Confirmed to the party afterward that everyone is expected to bring their loved ones' names to the temple, so he has no explanation for why [[Ser Tamsin Rook]] withheld his sister's for five years.
 
 ## Session 29
 

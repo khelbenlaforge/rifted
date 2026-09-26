@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 created: 2026-09-07T18:18:57
 ---
 
@@ -35,7 +35,7 @@ Status:: active
 ### Session 5 Update (The Understudies)
 
 - 1 Nightal, Year 222 PA: [[Rhona Voss]] brought [[Esca]] here and left him with **[[Ostrun Kell]]**, the dwarf Wall-wright who runs the floor. She gave him a real tour of it: instruments humming at different pitches, alchemists at work on materials tests a few benches over.
-- A test sample of obsidian-coloured concrete **detonated** during the visit, throwing flame across the room. A materials test; the Stormwall itself was untouched.
+- A test sample of obsidian-coloured concrete **detonated** during the visit, throwing flame across the room. A materials test; the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]] itself was untouched.
 - The library runs heavy to abjuration and warding theory. Esca's downtime access is **conditional on Rhona clearing it — not yet confirmed.**
 - An 18 Investigation earned him a standing offer: at the end of his next downtime he may scribe one additional level 1 spell of his choice.
 - Ostrun's parting point, almost in passing: **the Wall is not just architecture.** It is an active magical project, maintained continuously against whatever the Arctic and the storm throw at it.

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-26T02:48:26
+updated: 2026-09-26T17:35:51
 ---
 
 # Corranor Council
@@ -34,8 +34,8 @@ The ruling body of the [[Magocracy of Corranor]], comprising seven archmages who
 All seven hold the title **Keeper**, each answering for one portfolio of the realm.
 
 - **[[Garm]]**—*Keeper of the Jade Spire.* Orc wizard, 18th level; the most prominently active member, specializing in dimensional magic. The presiding seat: the Spire's own house and research staff, petitions, the guilds, and the city's people (assisted by [[Perrin Quickquill]])
-- **[[Oriel Blackstaff]]**—*Keeper of the Writ.* Law and judgment. Head of House Blackstaff
-- **Ysolde**—*Keeper of the Works.* The realm's arcane infrastructure: glyph networks, civic workings, and airship engines
+- **[[Oriel Blackstaff]]**—*Keeper of the Writ.* Law and judgment. Head of [[The Exodus/00_My Notes/Factions/Corranor/House Blackstaff|House Blackstaff]]
+- **[[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Ysolde|Ysolde]]**—*Keeper of the Works.* The realm's arcane infrastructure: glyph networks, civic workings, and airship engines
 - **[[Doran]]**—*Keeper of the Bulwark.* Dwarf abjurer. City defence and the wards; decides what they are pointed at
 - **Merrit**—*Keeper of the Sky Roads.* Established routes, trade, cargo and supply, including the eastern lanes
 - **[[Wystan]]**—*Keeper of the Archive.* Knowledge and antiquities, with oversight of the autonomous [[Ether Scryer's Academy]]

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Ether Scryer's Academy
@@ -40,6 +40,14 @@ A prestigious institution for the mastery of wizardry, standing as a beacon of a
 
 - **[[Ward Works]], [[Stormberg]]** — the Academy's northern branch, a cramped, humming annex near the Wallwatch at the city's centre (**not** built into the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]] itself). Roughly 30–40 researchers and engineers maintain the ward-lattice and run material alchemy and abjuration testing. Overseen on the floor by **[[Ostrun Kell]]**, a senior dwarf Wall-wright. Its library runs heavy to abjuration and warding theory. The Wall is not merely architecture to them—it is an active magical project, maintained continuously against whatever the Arctic and the storm throw at it. Visited by [[Esca]] on 1 Nightal, Year 222 PA (Session 5, The Understudies).
 - **The Deep Index, [[Westward]]**—the Academy's westernmost branch, a cramped annex built into the cliff near the [[Adamantine Guild]]'s Cliffwatch, dedicated to Antiquities work. A handful of researchers, thin-staffed like every outpost this far from Crystal City, catalogue whatever surfaces from beneath the island when it rides aloft, and report back to the [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Amethyst District/Director of Antiquities|Director of Antiquities]] by courier rather than in person. Its findings feed the same standing question the department chases everywhere: why does nobody in Aenath remember anything from before roughly two hundred years ago. Not yet named to any party at the table—grounds [[Dessa Kestrel]]'s vague, secondhand mention to The AUGs (Session 3) of "a couple of researchers in the area," not a direct quote or a name she used herself.
+
+## Departments
+
+Beyond the physical branches above, the Academy runs (or houses) several distinct working groups:
+
+- **Antiquities**—the department chasing the standing question of why nobody in Aenath remembers anything from before roughly two hundred years ago; see Branches above and the [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Amethyst District/Director of Antiquities|Director of Antiquities]] for its day-to-day face.
+- **The Herbalist Society**—a smaller, hands-on group distinct from the Academy's rigorous arcane-theory culture. [[Shen]] joined during his Session 22 downtime (relationship track, DC 5, rolled 21), earning a Herbalism Kit and proficiency in Herbalism.
+- **The [[Alchemist's Guild]]'s Extra Planar Studies Branch**—the Guild itself is an autonomous department of the Academy (see DM Notes below), and its own Extra Planar Studies Branch keeps sealed transit logs and ledgers on planar mechanics—see [[Alchemist's Guild]] for what's known there; not duplicated here.
 
 ## Notable Residents
 

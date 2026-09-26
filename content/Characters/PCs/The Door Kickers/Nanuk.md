@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-26T04:20:19
+updated: 2026-09-26T19:25:27
 ---
 
 # Nanuk
@@ -185,7 +185,7 @@ Nanuk earned 12 gp, vehicle (riding) proficiency, and free flights anywhere for 
 ## Session 21
 
 Session 21 downtime:
-- Aerial recon with [[Torem]] on Little Bella (griffin): alabaster highway northeast from [[Crystal City]] floats above ground
+- Aerial recon with [[Torem]] on Little Bella (griffin): alabaster highway east from [[Crystal City]] floats above ground
 - Magical creature blood flows east-to-west toward [[Crystal City]] and goes to the Academy and Alchemist's Guild; Torem does not know who buys it after arrival
 - [[Coldford]] (east coast) and [[Stormberg]] (north) confirmed as regional cities
 - [[Azure Tamers]] patrol the eastern road and watch for creature attacks on settlements

@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-04
 secret: false
 created: 2026-09-05
-updated: 2026-09-25T20:50:21
+updated: 2026-09-26T14:10:07
 ---
 
 # Session 28 - A Name I Cannot Read
@@ -42,7 +42,7 @@ Eleven hundred and forty names had come to the temple since sundown. All eleven 
 
 What Kelemvor offers, he told the city, is smaller than what people arrive at the doors hoping for. Not a gentle death, or a long one, or any promise that the deserving go last. Only this: you will be met, you will be counted, someone will say your name and what you did that mattered, once, aloud, and then you will be let go.
 
-Then the thing he plainly wished he did not have to say. There was a name he could not read. **[[Alys Rook]]** died in this city four years ago and was never met. She never arrived. She is still here, and has been the entire time, and the roll has no line for a soul that never came to the temple, so it has no line for her. Her brother knew, and had known for four years, and the night before he had opened a door for people who promised him they could give her rest. *I am expected to say that he betrayed us. I have read the book. The book says we failed her first.* He took responsibility as First Gravelord for a soul that had not been returned to the cycle, blessed the city, and started to fall backwards. Gill caught him.
+Then the thing he plainly wished he did not have to say. There was a name he could not read. **[[Alys Rook]]** died in this city five years ago and was never met. She never arrived. She is still here, and has been the entire time, and the roll has no line for a soul that never came to the temple, so it has no line for her. Her brother knew, and had known for five years, and the night before he had opened a door for people who promised him they could give her rest. *I am expected to say that he betrayed us. I have read the book. The book says we failed her first.* He took responsibility as First Gravelord for a soul that had not been returned to the cycle, blessed the city, and started to fall backwards. Gill caught him.
 
 ### The Names Going Up
 
@@ -143,7 +143,7 @@ The first level of the Sacred Sea, Marin said, need not take the full ten days. 
 - **The Council of Seven, seen whole for the first time.** Five named: [[Garm]] (Jade Spire), [[Oriel Blackstaff]] (Writ), [[Doran]] (Bulwark), [[Wystan]] (Archive), [[Nerise]] (Exploration). Two remain unnamed to the party.
 - **[[Doran]] lied to the whole city** about the fiend being summoned and bound at the site. The party watched it leave under its own power, and now hold a sitting Keeper's public falsehood.
 - **An inquiry is open into the [[Temple of Kelemvor]]**—a magocrat reaching into religious law he has no standing in, using the Gravelord's abduction as the lever.
-- **[[Cadmus Tallow]] defied the Writ in public** and named [[Alys Rook]], four years dead and never counted, taking responsibility for her rather than condemning her brother.
+- **[[Cadmus Tallow]] defied the Writ in public** and named [[Alys Rook]], five years dead and never counted, taking responsibility for her rather than condemning her brother.
 - **Some souls do not rise.** The recitation works. It does not work on everyone.
 - **The four elemental primordials are named:** [[Istishia]], [[Grumbar]], [[Kossuth]], [[Akadi]]. Weakening, inside the barrier, and hammered into the world by [[Gond]] at its making. [[Silvanus]] gave himself the same way, to bring life.
 - **[[Mystra]] is outside the barrier.** Magic runs through [[Solinari]], [[Lunitari]] and [[Nuitari]], three demigods who chose to become moons. Chosen of Mystra may walk Aenath.

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-03-10
 secret: false
 created: 2026-03-19T03:36
-updated: 2026-09-26T00:50:25
+updated: 2026-09-26T17:35:51
 ---
 
 # Blight's Call

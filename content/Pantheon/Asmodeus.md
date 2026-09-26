@@ -10,7 +10,7 @@ tags:
 campaign: Rifted
 introduced:
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-26T17:35:51
 ---
 
 # Asmodeus
@@ -32,7 +32,7 @@ Symbol:: Three-pointed crown above a ruby
 
 ## Description
 
-Asmodeus is the supreme ruler of the Nine Hells and the embodiment of domination through law — the corruption of order into control. He does not traffic in chaos; he weaponises structure itself. Every devil serves him. Every infernal contract, every soul bargained away, every temptation dressed in the language of reason flows from his design. He is patient in the way that only something immortal and enormously powerful can afford to be.
+Asmodeus is the supreme ruler of the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]] and the embodiment of domination through law — the corruption of order into control. He does not traffic in chaos; he weaponises structure itself. Every devil serves him. Every infernal contract, every soul bargained away, every temptation dressed in the language of reason flows from his design. He is patient in the way that only something immortal and enormously powerful can afford to be.
 
 He is not loud. He does not need to be. The most dangerous thing about Asmodeus is how reasonable he can sound.
 
