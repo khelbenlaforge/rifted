@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-14
 secret: false
 created: 2026-09-18
-updated: 2026-09-25T20:41:06
+updated: 2026-09-27T15:27:03
 ---
 
 # Session 29 - Gates That Keep Moving
@@ -97,7 +97,7 @@ They didn't want to. A persuaded Perrin, worked over gently and well, agreed to 
 
 The rest of the day went to shopping and small errands. **[[Tavia Orn]]** sold three vials of poison at a hundred gold each, along with antitoxin and holy water at the Claret's usual rates. She was warmer with [[Regius]] than her usual business face, enough that a flirtation actually landed—she pressed a stud of obsidian into his hand afterward, told him to carry it visibly once he reached Stormberg, and that anyone Claret up there would know exactly what it meant and point him the rest of the way. *Come find me when you're back,* she said, *I'll buy the meal this time.* Regius handed off the Guild's sealed gem for Rhona to [[Min Ji-ah]] before they parted ways for the afternoon, hers to carry the rest of the way north. At a shop called The Shining Wand, near the Academy, a scroll-seller named Kara sold a Mage Armor scroll and a Mirror Image scroll for the full asking price of three hundred and fifty gold between them; she wasn't moved by any argument that a rifted ought to get a research discount. Istar's own people saw to the rest without charge: cold-weather clothing, bedrolls, tents enough for shared pairs, and ten days of rations for the road ahead.
 
-Before they left, [[Min Ji-ah]] pried Night Caller loose from [[Jonathan Jordan|JJ]] and left [[Augustus Kennedy|Augustus]]'s old dungeon-find weapon, Toothpick, in his keeping, carrying it no further north herself. Word came separately that Augustus meant to buy passage on a bird the moment his own business in the city let him go.
+Before they left, [[Min Ji-ah]] pried [[Night Caller]] loose from [[Jonathan Jordan|JJ]] and left [[Augustus Kennedy|Augustus]]'s old dungeon-find weapon, Toothpick, in his keeping, carrying it no further north herself. Word came separately that Augustus meant to buy passage on a bird the moment his own business in the city let him go.
 
 By the time they were ready, the roster for the road was set: [[Gill Bates|Gill]], [[Min Ji-ah]], [[Nanuk]], and [[Regius]], travelling with [[Terra]], [[Sadiah Ispahani|Sadiah]], [[Shen]] and [[Ember]] alongside them. [[Augustus Kennedy|Augustus]] and [[Jonathan Jordan|JJ]] stayed behind in Crystal City. One carriage and two horses would carry the bulk of them, Ember running loose alongside as a wolf, and Bella overhead with room for two more, eyes on the road ahead of anything that found them first.
 

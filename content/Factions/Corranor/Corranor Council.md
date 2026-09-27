@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T03:41:31
 ---
 
 # Corranor Council
@@ -44,6 +44,12 @@ All seven hold the title **Keeper**, each answering for one portfolio of the rea
 **Renunciation:** a member sets aside their affiliations on investiture and may not speak for or involve themselves in the business of a house, order or guild they came from. Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour that—which is why the family head was absent from the Session 23 mansion meeting. The city still calls it the Blackstaff seat regardless: the rule is real in law and a fiction socially, and [[Soral Vayne]] described it to [[Min Ji-ah]] in Session 19 as a mark of the family's prestige.
 
 *(Portfolio boundaries: Ysolde builds and maintains the wards, Doran commands them; Ysolde makes airship engines run, Merrit decides where ships go; Garm oversees the Spire's in-house research, Wystan oversees the Academy.)*
+
+## Wards & Civic Workings
+
+The Works, [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Ysolde|Ysolde]]'s seat, is the realm's arcane infrastructure office: the glyph networks laced through [[Corranor]]'s cities, the civic workings that keep them running day to day, and the engines that keep the Magocracy's airships aloft. None of it is hers to point. She builds and maintains the ward network, and [[Doran]] decides what it's turned against. She keeps the airship engines running, and [[Merrit]], Keeper of the Sky Roads, decides where the ships actually go. Her office moves nothing over distance on its own authority.
+
+That split matters for what her office *doesn't* do. No long-distance transit magic runs through the Works, by portfolio or by the world's own rules: teleportation magic across real distance doesn't exist in Aenath, full stop. Short hops—a Misty Step, a moment of Ethereal skimming—still work, but they're nobody's civic infrastructure; they belong to whoever casts them, not to a Keeper's ledger. Whatever the Works moves, it moves by ward-craft and engine, and nothing else.
 
 ## Operations
 

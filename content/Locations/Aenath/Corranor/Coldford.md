@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T03:34:53
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -29,6 +29,10 @@ Status:: active
 
 East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azure Tamers]] patrol network. A working port-and-freight hub, exactly what its own reputation says: a city that processes people quickly and asks questions later, which makes it a plausible drop point for anyone [[Layla]] wants moved fast and forgotten.
 
+## Factions
+
+**House Colwyn** holds Coldford's seat by old charter, and that claim is most of what anyone at street level can confirm: the family crest sits over the Landgate, and locals defer to the name more out of habit than evidence. The [[The Manifest Houses|Manifest Houses]] running the Tallyrows are the ones actually moving Coldford's trade day to day—whether Colwyn's charter still means anything to what they do is a question nobody in the city has ever needed answered.
+
 ## Features
 
 - **The Landgate**—the city's southern checkpoint, the party's own way in: a plain double gate in grey stone, a raised guardwalk, no ornament except one worn crest carved into the arch (see DM Notes). Manned by rotating clerks who check headcount and rank markers, not names or papers.
@@ -38,14 +42,14 @@ East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azur
 
 ## Residents
 
-- **Tamsin Vell**—Landgate officer; processes arrivals by headcount and rank marker, unbothered by anything she hasn't already seen twice.
+- **[[Tamsin Vell]]**—Landgate officer; processes arrivals by headcount and rank marker, unbothered by anything she hasn't already seen twice.
 - **[[Petra Hale]]**—Branch Leader, the Tallhouse ([[Adamantine Guild]]'s Coldford branch); understaffed, unflinching, tracking a problem the branch can't officially spare anyone to chase.
 
 ## Current Events
 
 On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark. Right now, that baseline holds, but [[Petra Hale]] has quietly started tracking a string of "insurance" shakedowns hitting smaller Manifest House stalls: nothing citywide yet, no names, just a pattern on a corkboard only she looks at.
 
-The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 PA (Session 3, arriving overland by carriage from the south after departing on the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]). Only three of the six-strong party made the trip, Kai, [[The Exodus/The JULYs/PCs/Odette Langford|Odette Langford]], and the newly arrived [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]]. The crest on their own Adamantine Guild bracers was enough to skip Tamsin Vell's usual headcount entirely, no name taken, no scene with her this time, but a different set of eyes near the gate gave [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]] trouble anyway: a man overseeing entry took an uncomfortable interest in him until Odette flirted the man's attention elsewhere, exactly the kind of notice the driver had warned them about on the way in—rare things sell here before anyone asks questions, and a changeling counts as rare. The debt that started there followed them into the city: walking to the Tallhouse, Odette strayed off the road herself and drew a crowd's attention in seconds, and Ruairí followed to watch over her in turn. [[Petra Hale]] later confirmed the same danger directly and talked Ruairí into a less conspicuous shape.
+The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 PA (Session 3, arriving overland by carriage from the south after departing on the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]). Only three of the six-strong party made the trip, Kai, [[The Exodus/The JULYs/PCs/Odette Langford|Odette Langford]], and the newly arrived [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]]. The crest on their own Adamantine Guild bracers was enough to skip [[Tamsin Vell]]'s usual headcount entirely, no name taken, no scene with her this time, but a different set of eyes near the gate gave [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]] trouble anyway: a man overseeing entry took an uncomfortable interest in him until Odette flirted the man's attention elsewhere, exactly the kind of notice the driver had warned them about on the way in—rare things sell here before anyone asks questions, and a changeling counts as rare. The debt that started there followed them into the city: walking to the Tallhouse, Odette strayed off the road herself and drew a crowd's attention in seconds, and Ruairí followed to watch over her in turn. [[Petra Hale]] later confirmed the same danger directly and talked Ruairí into a less conspicuous shape.
 
 ## Scene Features
 

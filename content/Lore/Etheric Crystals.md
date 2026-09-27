@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T19:45:00
-updated: 2026-09-26T19:36:13
+updated: 2026-09-26T23:10:00
 ---
 
 # Etheric Crystals
@@ -22,7 +22,7 @@ Scholars call them etheric crystals. Everyone else calls them floating stones, a
 
 ## The Two Airships
 
-House Blackstaff owns one; the [[Magocracy of Corranor]] owns the other. Between them, that's the entire fleet of crystal-powered airships anywhere in the Magocracy, though others may exist beyond its borders. The Magocracy's ship spent recent months on an expedition to the confirmed southern continent, the first crossing anyone's made there. House Blackstaff funds and maintains its own vessel separately.
+[[The Exodus/00_My Notes/Factions/Corranor/House Blackstaff|House Blackstaff]] owns one; the [[Magocracy of Corranor]] owns the other. Between them, that's the entire fleet of crystal-powered airships anywhere in the Magocracy, though others may exist beyond its borders. The Magocracy's ship spent recent months on an expedition to the confirmed southern continent, the first crossing anyone's made there. House Blackstaff funds and maintains its own vessel separately.
 
 ## The Trade Around Them
 

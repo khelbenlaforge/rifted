@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-15
 secret: false
 created: 2026-09-26T15:13:43
-updated: 2026-09-26T17:35:51
+updated: 2026-09-26T23:10:00
 ---
 
 # The Astral Barrier
@@ -24,7 +24,7 @@ updated: 2026-09-26T17:35:51
 
 ## Description
 
-The astral barrier encloses far more than Aenath itself. The Ethereal Plane, the Shadowfell, and all four elemental planes sit inside it alongside the material world—it shuts out only what lies beyond them, which is where the gods are meant to live. That is why the Church of [[Kelemvor Lyonsbane|Kelemvor]], whose charge is policing souls out to the afterlives, cannot do the job directly, and has fallen back on a ritual instead, hoping the ritual works.
+The astral barrier encloses far more than Aenath itself. The [[The Exodus/00_My Notes/Locations/Cosmology/Ethereal Plane|Ethereal Plane]], the [[The Exodus/00_My Notes/Locations/Cosmology/Shadowfell|Shadowfell]], and all four elemental planes sit inside it alongside the material world—it shuts out only what lies beyond them, which is where the gods are meant to live. That is why the Church of [[Kelemvor Lyonsbane|Kelemvor]], whose charge is policing souls out to the afterlives, cannot do the job directly, and has fallen back on a ritual instead, hoping the ritual works.
 
 Nothing that punches a hole through space and time functions here. Short hops still work—[[Veyris Thantorn]]'s reading, out of the [[The Exodus/00_My Notes/Factions/Corranor/Alchemist's Guild|Alchemist's Guild]], is that Misty Step and similar effects only skim the Ethereal, which the barrier still encloses. Anything that would reach further has nowhere to reach.
 

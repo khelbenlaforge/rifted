@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-14
 secret: false
 state: alive
-updated: 2026-09-18T12:34:45
+updated: 2026-09-27T03:54:19
 created: 2026-09-18T12:34:45
 ---
 
@@ -17,14 +17,15 @@ created: 2026-09-18T12:34:45
 > | | |
 > | ---- | --- |
 > | Role | Shopkeeper |
-> | Location | The Shining Wand, [[Amethyst District]], [[Crystal City]] |
+> | Location | [[The Shining Wand]], [[Amethyst District]], [[Crystal City]] |
 
-Kara keeps the shelves at the Shining Wand, a spell-scroll and sundries shop near the [[Ether Scryer's Academy]] in the [[Amethyst District]], and does not haggle.
+Kara keeps the shelves at [[The Shining Wand]], a spell-scroll and sundries shop near the [[Ether Scryer's Academy]] in the [[Amethyst District]], and does not haggle.
 
 ## Session 29
 
 - Sold the party a Mage Armor scroll (100gp) and a Mirror Image scroll (250gp).
 - Declined to haggle on either price.
+- Wasn't moved by any argument that a rifted ought to get a research discount.
 
 ---
 Race::

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-26T18:44:41
+updated: 2026-09-27T13:39:15
 ---
 
 # Layla
@@ -40,7 +40,7 @@ She believes, or says she believes, in keeping promises — that a commitment, o
 
 Layla worked for years at the [[Jade Spire]] as a researcher under [[Garm]], building a genuine career in arcane scholarship. Something changed. By Session 21 the party discovered she was running a second, unauthorized runic circle near [[Corran's Spike]], independent of the Jade Spire's own, and sourcing illegal spell components through [[The Claret]].
 
-What she's building, and for whom, remains an open question to everyone but her — though the party's own investigation (Session 25, the Marrow Ledger) has turned up a name tied to her account: [[Asmodeus]]. What that connection actually means, the party does not yet know.
+What she's building, and for whom, remains an open question to everyone but her.
 
 ## Role in the Story
 
@@ -53,7 +53,7 @@ Whether she can be reached — whether the genuine warmth she carries toward [[P
 - Co-apprentice with [[Perrin Quickquill]] under [[Garm]] — the closest thing she has to an anchor in Crystal City; his hurt at her apparent betrayal is accumulating
 - Researcher under [[Garm]], orc wizard of the [[Corranor Council]] — her cover and her access point to deep planar infrastructure
 - Valued client of [[The Claret]] — sourcing components for unknown purposes
-- Named alongside [[Asmodeus]] in the Marrow Ledger (Session 25) — connection unconfirmed
+- The goblin bat-riders who ferry her arrivals onward—an independent group, unaffiliated with any faction, hired purely for transport; one rider carried [[Kili]] across three separate call-outs without ever giving a name
 - Possibly responsible, directly or indirectly, for the event that brought the party to [[Aenath]] — unconfirmed
 - [[Ruairí]] (Session 3, The JULYs), found him alone after a [[The Exodus/00_My Notes/Locations/Cosmology/Feywild|Feywild]]-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
 

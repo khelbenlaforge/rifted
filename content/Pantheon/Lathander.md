@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-26T00:00:00
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T03:32:54
 ---
 
 # Lathander
@@ -40,7 +40,7 @@ Lathanderian novices are called the Awakened; full clergy are Dawnbringers, who 
 
 ## Relationships
 
-Chauntea is his long-standing companion; [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Tymora|Tymora]], Tyr, Torm, Ilmater, [[The Exodus/00_My Notes/Pantheon/Sune|Sune]], [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]], [[The Exodus/00_My Notes/Pantheon/Oghma|Oghma]], Kelemvor, and [[The Exodus/00_My Notes/Pantheon/Mielikki|Mielikki]] count as allies. His clearest enemy is Talos. More relevant to this campaign is **Shar**, goddess of darkness and loss, whose worshippers work directly against everything dawn and renewal stand for. [[The Exodus/00_My Notes/Pantheon/Helm|Helm]] holds a long-standing grudge against him too, over the death of Helm's lover — an indirect casualty of one of Lathander's own past ambitions.
+Chauntea is his long-standing companion; [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Tymora|Tymora]], Tyr, Torm, [[Ilmater]], [[The Exodus/00_My Notes/Pantheon/Sune|Sune]], [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]], [[The Exodus/00_My Notes/Pantheon/Oghma|Oghma]], Kelemvor, and [[The Exodus/00_My Notes/Pantheon/Mielikki|Mielikki]] count as allies. His clearest enemy is Talos. More relevant to this campaign is **Shar**, goddess of darkness and loss, whose worshippers work directly against everything dawn and renewal stand for. [[The Exodus/00_My Notes/Pantheon/Helm|Helm]] holds a long-standing grudge against him too, over the death of Helm's lover — an indirect casualty of one of Lathander's own past ambitions.
 
 ## Role in Aenath
 Confirmed, on 29th Uktar Year 222 PA, as the original patron of [[The Sundered Choir]] — a previously undiscovered, abandoned temple to Lathander, torn loose from the ground and left drifting for longer than living memory. No worship of Lathander otherwise surfaced in Aenath until Session 5 (below); whether the temple predates the [[The Awakening|Awakening]] or arrived some other way is an open question.

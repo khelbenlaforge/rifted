@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-21
 secret: false
 created: 2026-09-25
-updated: 2026-09-26T04:19:59
+updated: 2026-09-27T03:32:33
 ---
 
 # Session 30 - What Broke the Pack
@@ -56,7 +56,7 @@ They took rooms for the night. Nobody kept close count of who slept where.
 
 ### Two Trappers by the Fire
 
-[[Nanuk]] found two trappers still up by the fire after most of the room had turned in, **Dev** and his unnamed partner, both of them cagier than Ossa had been about the same road she'd already talked about so freely. He caught more than they meant to give him. Something in the way they talked about the woods invoked **[[Mielikki]]**, half-prayer and half-habit, the kind of thing hunters say without thinking about it.
+[[Nanuk]] found two trappers still up by the fire after most of the room had turned in, **[[Dev]]** and his unnamed partner, both of them cagier than Ossa had been about the same road she'd already talked about so freely. He caught more than they meant to give him. Something in the way they talked about the woods invoked **[[Mielikki]]**, half-prayer and half-habit, the kind of thing hunters say without thinking about it.
 
 He warned them off heading further north, citing what the **[[Azure Tamers]]** had already reported about unusual movement out past the road. They took it seriously. Whatever their plans had been, they looked like men reconsidering them by the time the fire burned down.
 
@@ -110,7 +110,7 @@ Night fell before anyone got much further than that. Wherever tonight was always
 - **[[Malar]] surfaces for the first time to this party.** A High Religion check ties the kill-site's pattern, clean and deliberate, to the Beastlord rather than to [[Silvanus]]'s own creed. Unconfirmed rumor: the [[Ancients of Lava]] may count some of his worshippers among their ranks.
 - **[[Torem]]'s migration job is advancing, not solved.** Early, heavy southbound herds, a drained kill-site trail, and the wolf pack's own desperation all point at something further north that even Erky's pack was running from.
 - **[[Ember]] is now shadowing the [[Ancients of Lava]]**, sent by the party on the strength of [[Belak]]'s known history with the faction—not a solo call this time.
-- **New location: [[The Straggler's Rest]]**, a waystation on the north road, innkeeper **[[Ossa]]**. New names on the board: **Dev** and an unnamed partner (trappers), and **[[Jess]]**, elder of the Ancients of Lava, named but not yet met.
+- **New location: [[The Straggler's Rest]]**, a waystation on the north road, innkeeper **[[Ossa]]**. New names on the board: **[[Dev]]** and an unnamed partner (trappers), and **[[Jess]]**, elder of the Ancients of Lava, named but not yet met.
 - **[[Regius]]'s search for his mother widens.** [[Garm]] signed off on [[Layla]]'s teleportation experiments, with [[Perrin Quickquill|Perrin]] tangled in it somewhere too—Regius's suspicion that Layla is connected to his mother just picked up a name on the paperwork.
 - **One hook closed, one stays open.** Nanuk's pull to Silvanus's grove is still there—the DM confirmed it, nothing to worry about. What's unresolved is the opposing force "going around messing things up," tied to the Malar/Ancients of Lava rumor above but not yet named.
 

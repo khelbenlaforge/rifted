@@ -8,7 +8,7 @@ introduced: 2026-09-14
 secret: false
 state: alive
 created: 2026-09-26T00:00:00
-updated: 2026-09-26T19:35:58
+updated: 2026-09-26T23:10:00
 ---
 > [!infobox|right wikipedia]+
 > # Merrit

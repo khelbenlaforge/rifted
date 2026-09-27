@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T02:48
-updated: 2026-09-26T02:38:48
+updated: 2026-09-27T03:45:44
 ---
 
 # Sunhold
@@ -39,6 +39,12 @@ A rough frontier settlement nestled within a caldera in [[Corranor]]'s western f
 - **[[Hucrele Pavilion]]** — Semi-permanent home of the Hucrele family
 - **[[Tymora's Shrine]]** — Small shrine on a rise at the settlement's edge, tended by [[Sister Garaele]]
 - **Southern Stables** — Where Bogstride Salamandrels are kept for marsh travel
+
+## The Southern Marshes
+
+A vast wetland ringing Sunhold's caldera to the south, crossed on Bogstride Salamandrels—large amphibious mounts, bioluminescent along their sides, built for hydroplaning across wet ground. [[Marsh Snappers]] spawn here in autumn; their numbers draw predators away from the crossing lanes, which makes autumn the safest window to cross.
+
+The crossing itself runs forty to sixty miles. The marsh swallows sound and blurs distance, and the sky above it settles into a flat, pewter color the whole way through. Past it, the ground hardens and the terrain turns rocky and strange—Goblin Merchants' territory, and old druidic sites marked on maps that may belong to the Hucrele family. Something touched living roots in a deep shaft out there once and was never heard from again.
 
 ## Notable Residents
 

@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-14
 secret: false
-updated: 2026-09-26T19:21:24
+updated: 2026-09-26T23:10:00
 created: 2026-09-26T19:21:24
 ---
 
@@ -34,7 +34,7 @@ While wearing this ring, the wearer can recover one expended spell slot as a bon
 
 ## Significance
 
-Gill's pull from Istar Silverlock's back-pay reward, alongside a Piwafwi for [[Min Ji-ah]], armor for [[Regius]] and [[Nanuk]], and three thousand gold for the party. A plain band for a Tidecaller whose casting runs on divine favor as much as spell slots, and one more expended resource that doesn't have to stay expended for the rest of the day.
+[[The Exodus/The Door Kickers/PCs/Gill Bates|Gill]]'s pull from [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Citrine District/Istar Silverlock|Istar Silverlock]]'s back-pay reward, alongside a [[The Exodus/00_My Notes/Items/Door Kickers/Piwafwi of Fire Resistance|Piwafwi]] for [[Min Ji-ah]], armor for [[Regius]] and [[Nanuk]], and three thousand gold for the party. A plain band for a Tidecaller whose casting runs on divine favor as much as spell slots, and one more expended resource that doesn't have to stay expended for the rest of the day.
 
 ---
 Rarity:: Uncommon

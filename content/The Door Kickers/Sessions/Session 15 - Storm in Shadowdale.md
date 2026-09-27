@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-30
 secret: false
 created: 2026-03-30T17:37
-updated: 2026-08-28T14:52:43
+updated: 2026-09-27T15:27:03
 ---
 
 # Session 15 - Storm in Shadowdale
@@ -15,7 +15,7 @@ updated: 2026-08-28T14:52:43
 > [!info] Session Details
 > **Date Played:** 2026-03-30
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
-> **Location:** Old Skull Inn courtyard → Elminster's Tower → Mourngrym's Hall → Ashaba Bridge → Temple of Lathander (Shadowdale)
+> **Location:** Old Skull Inn courtyard → [[Elminster's Tower]] → [[Shadowdale#Mourngrym's Hall|Mourngrym's Hall]] → [[Ashaba Bridge]] → Temple of Lathander (Shadowdale)
 > **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Ember]], [[Augustus Kennedy]], [[Min Ji-ah]]
 > **Companions (in vision):** [[Midnight]] (Min Ji-ah), [[Torm of the Dales]] (JJ), [[Adon]] (Gill), [[Kelemvor Lyonsbane|Kelemvor]] (Augi), [[Selmavra Elsree]] (Ember), [[Cyric]] (NPC)
 > **Source:** Voice memo, processed 2026-03-30
@@ -152,7 +152,7 @@ The Knights of Myth Drannor are the guardians of an ancient elven city that dest
 
 [[Mourngrym Amcathra]] runs his war council over a feast, which says something about him: a man who understands that people think more clearly when they have eaten, or who has seen enough sieges to know that hot food is a form of morale.
 
-The map has three colored stones. North: **the Bloody Doom**, pressing on Tower Farm — the town militia is holding, barely. East: **the Claw of Voonlar**, at the crossroads, where the [[The Harpers|Harpers]] are contesting the advance. West: **the West Fang**, moving toward Ashaba Bridge — but the west flank is the one [[Selmavra Elsree|Selmavra]]'s Harpers have been watching, and the intelligence is fragmentary. They have movement sightings. They do not have numbers.
+The map has three colored stones. North: **the Bloody Doom**, pressing on Tower Farm — the town militia is holding, barely. East: **the Claw of Voonlar**, at the crossroads, where the [[The Harpers|Harpers]] are contesting the advance. West: **the West Fang**, moving toward [[Ashaba Bridge]] — but the west flank is the one [[Selmavra Elsree|Selmavra]]'s Harpers have been watching, and the intelligence is fragmentary. They have movement sightings. They do not have numbers.
 
 The man behind all of it is **[[Manshoon]]** — legendary wizard-lord of the [[Zhentarim]], author of this battle plan, currently at [[Zhentil Keep]] while his battle lords execute the work. He did not come himself. Whether that is confidence or caution, Mourngrym does not say.
 
@@ -162,7 +162,7 @@ They accept.
 
 It matters, the commission. Not just tactically. [[Kelemvor Lyonsbane|Kelemvor]] fighting under official orders, in service to a lord, for Shadowdale rather than for personal gain — that is not the same as a mercenary taking coin for blood. The distinction is one the curse understands. He files it away.
 
-The party deploys to Ashaba Bridge with [[Storm Silverhand]], [[Rathan Thentraver|Rathan]], and [[Torm of the Dales|Torm]].
+The party deploys to [[Ashaba Bridge]] with [[Storm Silverhand]], [[Rathan Thentraver|Rathan]], and [[Torm of the Dales|Torm]].
 
 ---
 

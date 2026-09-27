@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-09-26T19:22:01
+updated: 2026-09-27T14:41:50
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -134,7 +134,7 @@ Every casting of *Elminster's Inquiry* in play, in order. The spell won't let he
 | Session | Asked | Answer |
 |---|---|---|
 | 25 (The Adder's Hold) | Whether to kill the Floor Test's guards | "Don't kill me." |
-| 25 (The Adder's Hold) | Who the Marrow Ledger's redacted major client was | "Layla and Asmodeus." |
+| 25 (The Adder's Hold) | Who the Marrow Ledger's redacted major client was | Answer withheld here—logged under the Marrow Ledger's own Session 25 record. |
 | 26 (The Weight of the Moon) | How the party can get help from the gods | "Get past barrier." Third casting from the book; this one unlocked Elminster's Footnote. |
 | 27 (Rising of the Dark) | Where the real Gravelord was | Still in the Diamond District. |
 | 28 (A Name I Cannot Read) | About the three moons Terra spotted during the Feast | Not a short answer this time: a pipe being smoked, Elminster again, three demigods kneeling to Mystra, Mystra kneeling back weeping, and the bargain struck: Solinari, Lunitari, and Nuitari giving themselves up to become Aenath's moons and anchor the Weave in her stead. |

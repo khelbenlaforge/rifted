@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:43:40
-updated: 2026-09-26T17:35:51
+updated: 2026-09-26T23:10:00
 ---
 
 # Transit Magic in Aenath
@@ -28,7 +28,7 @@ That's Daria's own reading of one sample. It hasn't been tested against a second
 
 ## Short Hops Still Work
 
-The wholesale ban is on distance, not on magic touching the Ethereal at all. [[Veyris Thantorn]]'s explanation: spells like Misty Step only skim the Ethereal Plane, and the Ethereal—along with the Shadowfell and the four elemental planes—sits inside the same barrier Corranor itself is behind. A short hop never crosses that barrier; a long-distance teleport would have to, which is exactly the working nothing in Aenath has ever managed. Full detail on the barrier itself: the Astral Barrier lore (own note pending).
+The wholesale ban is on distance, not on magic touching the Ethereal at all. [[Veyris Thantorn]]'s explanation: spells like Misty Step only skim the [[The Exodus/00_My Notes/Locations/Cosmology/Ethereal Plane|Ethereal Plane]], and the Ethereal—along with the [[The Exodus/00_My Notes/Locations/Cosmology/Shadowfell|Shadowfell]] and the four elemental planes—sits inside the same barrier Corranor itself is behind. A short hop never crosses that barrier; a long-distance teleport would have to, which is exactly the working nothing in Aenath has ever managed. Full detail on the barrier itself: the Astral Barrier lore (own note pending).
 
 ## What Actually Brought the Rifted Here
 

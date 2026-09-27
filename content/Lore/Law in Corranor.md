@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T19:35:00
-updated: 2026-09-26T19:38:26
+updated: 2026-09-26T23:10:00
 ---
 
 # Law in Corranor
@@ -27,6 +27,6 @@ The [[Hall of Justice - Temple of Tyr]] is where the Writ becomes something you 
 
 ## Elsewhere in Corranor
 
-Not every city runs it the same way. [[Stormberg]] splits its authority across four cogs currently working in harmony, the Magocracy's official oversight, the nobles who fund it, the [[Ether Scryer's Academy]]'s technical hand on the Wall itself, and the [[Adamantine Guild]]'s standing contract to cull whatever burrows into it. [[Sunhold]], barely eight months old as a settlement, makes do with the **Miners' Council**, prospectors and merchants improvising order on a frontier that hasn't earned a proper government yet.
+Not every city runs it the same way. [[Stormberg]] splits its authority across four cogs currently working in harmony, the Magocracy's official oversight, the nobles who fund it, the [[Ether Scryer's Academy]]'s technical hand on the Wall itself, and the [[Adamantine Guild]]'s standing contract to cull whatever burrows into it. [[Sunhold]], barely eight months old as a settlement, makes do with the **[[The Exodus/00_My Notes/Factions/Corranor/Miners' Council|Miners' Council]]**, prospectors and merchants improvising order on a frontier that hasn't earned a proper government yet.
 
 

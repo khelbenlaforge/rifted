@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-04
 secret: false
 created: 2026-09-26T00:00
-updated: 2026-09-26T19:24:14
+updated: 2026-09-26T23:10:00
 ---
 
 # The Arctic

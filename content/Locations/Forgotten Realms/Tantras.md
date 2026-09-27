@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T00:00
-updated: 2026-09-26T19:24:42
+updated: 2026-09-26T23:10:00
 ---
 
 # Tantras
@@ -28,6 +28,6 @@ Status:: Unvisited—named as a future destination
 
 ## Description
 
-A city in Dragon Reach, east of Shadowdale. The party has never been there; it exists in the vault so far only as a name Elminster gave them.
+A city in Dragon Reach, east of [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Shadowdale|Shadowdale]]. The party has never been there; it exists in the vault so far only as a name [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]] gave them.
 
 

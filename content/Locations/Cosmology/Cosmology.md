@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-26
 secret: false
 created: 2026-09-26T15:13:43
-updated: 2026-09-26T19:32:53
+updated: 2026-09-27T03:30:25
 ---
 
 # Cosmology
@@ -18,6 +18,8 @@ Folder note for `Locations/Cosmology/`—an index into Aenath's planar structure
 ## The Shape of the World
 
 [[Aenath]], [[Zenath]], and [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Aenath Landmass Types]]. The Edge and what originates there stay documented in Aenath's own DM Notes.
+
+[[The Hexad]] is a demiplane locked to the Material Plane, not a free-floating plane of its own.
 
 ## Inside the Barrier
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-26T19:25:27
+updated: 2026-09-27T03:32:18
 ---
 
 # Nanuk
@@ -158,7 +158,7 @@ None.
 
 ### Inventory
 
-**Armor:** Serpent Scale Armor (equipped) . Studded Leather Armor
+**Armor:** [[Serpent Scale Armor]] (equipped) . Studded Leather Armor
 **Magic Items:** [[Ancestor's Quiver]] (equipped; attuned)
 **Gear:** Sprig of Mistletoe . Backpack . Bedroll ×2 . Cartographer's Tools . Quiver . Rope . Rations ×10 . Tent . Tinderbox . Torch ×10 . Traveler's Clothes . Waterskin . Oil ×2
 
@@ -249,7 +249,7 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - Rode with the carriage for the first half of the day; apologized to [[Regius]] for keeping his distance—admitted he wasn't fully sure Regius was real until about a week ago. Bonded over both of them needing answers from [[Layla]], and over the same quiet feeling that they belong here, to Aenath, more than to the world they left. Told Regius that Layla's experiments were sanctioned—[[Garm]] signed off on them, and so did [[Perrin Quickquill|Perrin]]—which means whatever happened to Regius's mother goes higher up than Layla alone.
 - Sent [[Inukshuk]] ahead to run point once the carriage conversation wound down. [[Terra]] and [[Min Ji-ah]], flying on [[Torem]]'s griffin, spotted the herds from above and reported down to him—[[Torem]]'s migration job confirmed the hard way: wildebeest herds and their trailing predators, moving south early and fast.
 - Terra and Ji-ah also sighted the Stormwall from up on Bella, running along the northern coastline, still a good distance off from Stormberg itself.
-- At the Straggler's Rest, a nat 20 Perception check put him onto two trappers, Dev and his unnamed partner, deep in shop talk. Traded predator lore with them—dire wolves, sabertooth cats, a basilisk incident five years back, no dragons in living memory—and floated a dragon theory for the migration shift that even he had to admit didn't fit clean: a dragon spooks a herd fast, it doesn't bleed one south slowly. Warned them off the road further north using [[Azure Tamers]] reports of unusual movement, and caught them invoking a goddess by the name "Miliki"—he's fairly sure that's [[Mielikki]]. They thanked him and looked like they meant to reconsider.
+- At the Straggler's Rest, a nat 20 Perception check put him onto two trappers, [[Dev]] and his unnamed partner, deep in shop talk. Traded predator lore with them—dire wolves, sabertooth cats, a basilisk incident five years back, no dragons in living memory—and floated a dragon theory for the migration shift that even he had to admit didn't fit clean: a dragon spooks a herd fast, it doesn't bleed one south slowly. Warned them off the road further north using [[Azure Tamers]] reports of unusual movement, and caught them invoking a goddess by the name "Miliki"—he's fairly sure that's [[Mielikki]]. They thanked him and looked like they meant to reconsider.
 - The next morning, found the road scraped unnaturally clean where it crossed a game trail—tracks and wheel-ruts deliberately erased, fresh blood, and a deer carcass with its horns sheared off by a steady hand and a sharp blade.
 - Questioned a roadside conifer and got back a struggle, a splash of warm liquid, and movement heading west, corroborated on foot by broken branches and scrape marks and by a current of nature-and-divine magic that wasn't his own. The direction didn't match his own pull toward Silvanus's grove, which stayed sitting north, north-west, the whole time—two separate signals, not the same trail.
 - This is his own Firbolg trait, Speech of Beast and Leaf, not a cast spell—mechanically it could only ever have been him. The raw transcript's "Chen" reads as cross-talk, not a caster credit; Shen wasn't even at the table this session.

@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-25
 secret: false
-updated: 2026-09-26T19:30:44
+updated: 2026-09-27T03:37:26
 created: 2026-09-26T19:22:30
 ---
 

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-17
 secret: false
 created: 2026-03-17T19:49
-updated: 2026-08-28T14:52:43
+updated: 2026-09-27T15:51:07
 ---
 
 # Session 13 - The Fall of the Weave
@@ -15,7 +15,7 @@ updated: 2026-08-28T14:52:43
 > [!info] Session Details
 > **Date Played:** 2026-03-17
 > **In-Game Date:** Prequel vision — Avatar Crisis, Year 0 (pre-Aenath)
-> **Location:** Arabel → Castle Kilgrave, Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
+> **Location:** Arabel → [[Castle Kilgrave]], Cormyr (vision); The Sanctum, Grove Level, [[Sunless Citadel]] (frame)
 > **Party (present):** [[Jonathan Jordan]], [[Gill Bates]], [[Min Ji-ah]]
 > **Companions (in vision):** [[Midnight]], [[Torm of the Dales]], [[Adon]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]]
 > **Source:** Voice memo + module annotations, processed 2026-03-17
@@ -82,7 +82,7 @@ The party agrees. Caitlan arranges to meet them to lead them out of the city, th
 
 That night, the party dreams of chained wrists in darkness and cruel laughter.
 
-When they gather to leave, Caitlan appears — ghastly white, fevered, purple veins at her chin and arms. She cannot come with them. *Castle Kilgrave,* she says. *A tower. My mistress. Please go. I will follow when I can.*
+When they gather to leave, Caitlan appears — ghastly white, fevered, purple veins at her chin and arms. She cannot come with them. *[[Castle Kilgrave]],* she says. *A tower. My mistress. Please go. I will follow when I can.*
 
 She collapses. A priest of Ilmater tells them: *go, and she will recover. If not — his voice trails away.*
 

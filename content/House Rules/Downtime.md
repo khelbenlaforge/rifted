@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T19:55:00
-updated: 2026-09-26T19:36:13
+updated: 2026-09-26T23:10:00
 ---
 
 # Downtime
@@ -22,4 +22,4 @@ Ask each present player how many tracks they're pursuing this block, which types
 
 ## First Used
 
-The Understudies, Session 6, Rhona Voss laying out the mechanic to the party directly at the Adamantine Guild in Stormberg. The same track structure shows up independently at the Door Kickers' table too (Gill Bates was assigned two downtime tracks toward the Sacred Sea path, Session 21), and it's cited as an established baseline in [[Young Dragon Lair Effects]]'s own growth curve. Usage at the JULYs', AUGs', or TBCs' tables is unconfirmed.
+The Understudies, Session 6, [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]] laying out the mechanic to the party directly at the [[The Exodus/00_My Notes/Factions/Corranor/Adamantine Guild|Adamantine Guild]] in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]]. The same track structure shows up independently at the Door Kickers' table too ([[The Exodus/The Door Kickers/PCs/Gill Bates|Gill Bates]] was assigned two downtime tracks toward the [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]] path, Session 21), and it's cited as an established baseline in [[Young Dragon Lair Effects]]'s own growth curve. Usage at the JULYs', AUGs', or TBCs' tables is unconfirmed.

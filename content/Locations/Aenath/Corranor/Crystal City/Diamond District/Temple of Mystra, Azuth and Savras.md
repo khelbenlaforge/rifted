@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-04
 secret: false
 created: 2026-09-26T00:00
-updated: 2026-09-26T19:23:56
+updated: 2026-09-26T23:10:00
 ---
 
 # Temple of Mystra, Azuth and Savras
@@ -32,6 +32,6 @@ A single temple complex housing three deities of magic and fate together rather 
 
 ## Current Events
 
-Min Ji-ah picked up the complex's existence secondhand, her own instinct for "divine gossip" catching what nobody in the room said aloud: Azuth, once one of the most powerful mages alive, now serves as Mystra's devoted—and by some accounts amorous—advisor on magic's advancement and preservation. Which Mystra that refers to is left deliberately unresolved in play.
+[[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] picked up the complex's existence secondhand, her own instinct for "divine gossip" catching what nobody in the room said aloud: Azuth, once one of the most powerful mages alive, now serves as Mystra's devoted—and by some accounts amorous—advisor on magic's advancement and preservation. Which Mystra that refers to is left deliberately unresolved in play.
 
 

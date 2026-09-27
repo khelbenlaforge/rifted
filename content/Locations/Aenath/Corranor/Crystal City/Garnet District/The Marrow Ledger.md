@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-07-27
 secret: false
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T13:39:34
 created: 2026-07-27T00:00
 ---
 
@@ -20,7 +20,7 @@ created: 2026-07-27T00:00
 > | Region | [[Corvin's Hold]] |
 > | Access | Behind the Toll Door's blood-basin panel |
 
-A ledger vault inside [[Corvin's Hold]] with floor-to-ceiling shelves of Claret ledgers recording money transfers (huge sums per transaction; five silver a month per account); an open, dated major-client account on a reading stand has its buyer's name coded/redacted, which [[Min Ji-ah]]'s *[[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry* identified in three words as "[[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] and [[The Exodus/00_My Notes/Pantheon/Asmodeus|Asmodeus]]."
+A ledger vault inside [[Corvin's Hold]] with floor-to-ceiling shelves of Claret ledgers recording money transfers (huge sums per transaction; five silver a month per account); an open, dated major-client account on a reading stand has its buyer's name coded/redacted.
 
 Older ledgers on the shelves turned up other names in passing: [[House Verenthal|Verenthal]], [[Tinny]] (ticked off), a scattering of Academy librarians and lecturers, and a few religious titles. No Blackstaff family entries. No entry tied to the [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Amethyst District/Director of Antiquities|Director of Antiquities]] either.
 
@@ -32,3 +32,7 @@ Getting inside means passing the Toll Door first—a stone antechamber with thre
 Region:: [[Corvin's Hold]]
 Controlled By:: [[Corvin Adder]]
 Status:: active
+
+## Session 25 Update (The Door Kickers)
+
+- [[Min Ji-ah]] cast *[[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry* on the open major-client account's redacted name; the spell answered "[[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] and [[The Exodus/00_My Notes/Pantheon/Asmodeus|Asmodeus]]." The party does not yet know what this connection means.

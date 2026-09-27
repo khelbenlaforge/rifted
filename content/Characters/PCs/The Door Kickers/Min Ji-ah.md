@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-26T19:22:16
+updated: 2026-09-27T15:16:58
 ---
 
 # Min Ji-ah
@@ -221,7 +221,7 @@ Min Ji-ah studies under [[Elmindaria L'Thorian]], a seven-hundred-year-old elven
 ### Inventory
 
 - **Armor:** Robe (no armor)
-- **Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · [[Piwafwi of Fire Resistance]] (attunement required) · Night Caller · Sending Stones
+- **Magic Items:** [[Elminster's Spellbook]] · Guild Brass Armlet · [[Piwafwi of Fire Resistance]] (attunement required) · [[Night Caller]] · Sending Stones
 - **Gear:** Backpack · Book · Fine Clothes · Foot-Long Chain Made of Ten Gold Coins · Gems ×4 · Healer's Kit · Herbalism Kit · Alchemist's Supplies · Ink · Ink Pen · Lamp · Oil ×10 · Orzhov Insignia · Parchment ×10 · Pouch · Spellbook · Tinderbox · Vestments · Vial · Scroll of Mage Armour (L1) · Scroll of Mirror Image (L2)
 ## Session 21
 
@@ -281,7 +281,7 @@ PassiveStealth:: 11
 
 ## Session 19
 
-Min Ji-ah visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Min Ji-ah unlocked the Planar Mechanics division of the Alchemists' Society and the Alchemy track.
+Min Ji-ah visited the Alchemist's Guild in the Alchemy Quarter of the [[Amethyst District]] during downtime. She met [[Veyris Thantorn]], a tattooed elf who explained the Weave as a three-dimensional tapestry and theorized that [[Layla]], as a tiefling, had tapped a fey or planar connection. Min Ji-ah unlocked the Planar Mechanics and Alchemy departments at the [[Ether Scryer's Academy]].
 
 Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she met [[Sorelle]], the maid, and [[Soral Vayne]], the steward. Soral told her that the Blackstaff family is [[Crystal City]]'s first family, that its scion sits on the Council of Seven, and that it is a family of wizards. Min Ji-ah earned 24 gp.
 
@@ -312,7 +312,7 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 ## Session 29
 
 - Acquired a [[Piwafwi of Fire Resistance|Piwafwi]]—see Magic Items.
-- Traded [[Augustus Kennedy|Augustus]]'s old dungeon-find weapon, Toothpick, which she'd been holding, to [[Jonathan Jordan|JJ]] in exchange for his Night Caller whistle before leaving the city—see Magic Items.
+- Traded [[Augustus Kennedy|Augustus]]'s old dungeon-find weapon, Toothpick, which she'd been holding, to [[Jonathan Jordan|JJ]] in exchange for his [[Night Caller]] whistle before leaving the city—see Magic Items.
 - Now carrying the Guild's sealed gem for [[Rhona Voss]], handed off from [[Regius]].
 - **[[Wystan]]** offered a standing arrangement at the Academy archive: whatever she finds on Silvanus's grove, he wants to hear it, and he'll owe her something in return. He also mentioned [[Layla]] used to come through asking about conjuration, planes, and levels of existence—"she would have made a good wizard."
 - Used *Elminster's Footnote* and *Elminster's Inquiry* at the [[Ether Scryer's Academy]] archive with [[Wystan]] to learn that [[Silvanus]]'s grove sits behind shifting interplanar gates clustered north, rather than at a fixed location.

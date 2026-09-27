@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T19:50:00
-updated: 2026-09-26T19:44:55
+updated: 2026-09-26T23:10:00
 ---
 
 # Tablets of Fate
@@ -17,7 +17,7 @@ Someone stole the terms every god in the Realms answers to, and the gods themsel
 
 ## What They Are
 
-`AO.md` made the Tablets as the divine contracts binding each god to a portfolio and a set of responsibilities, the terms of the whole pantheon written down in one place. The party's own prequel vision describes them as stone slabs, each as long as a man's arm, inscribed with the names of every god and the duties owed, plain enough for any mortal race to read if one ever found them. At least one more exists beyond the one traced to Tantras below; the exact total the party has heard named is two. [[AO]] does not answer prayers or accept worship; the Tablets are the closest thing to his voice that exists in the world.
+`AO.md` made the Tablets as the divine contracts binding each god to a portfolio and a set of responsibilities, the terms of the whole pantheon written down in one place. The party's own prequel vision describes them as stone slabs, each as long as a man's arm, inscribed with the names of every god and the duties owed, plain enough for any mortal race to read if one ever found them. At least one more exists beyond the one traced to [[The Exodus/00_My Notes/Locations/Forgotten Realms/Tantras|Tantras]] below; the exact total the party has heard named is two. [[AO]] does not answer prayers or accept worship; the Tablets are the closest thing to his voice that exists in the world.
 
 ## The Theft
 

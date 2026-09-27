@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-09-25T16:56:54
+updated: 2026-09-26T23:10:00
 created: 2026-09-25T16:56:54
 ---
 
@@ -26,4 +26,4 @@ Region:: [[Corranor]]
 Controlled By:: Ossa (innkeeper)
 Status:: active
 
-A roadside tavern and waystation on the north road out of [[Crystal City]], half a day's travel past a nearby watering hole, run by an innkeeper named Ossa.
+A roadside tavern and waystation on the north road out of [[Crystal City]], half a day's travel past a nearby watering hole, run by an innkeeper named [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Ossa|Ossa]].

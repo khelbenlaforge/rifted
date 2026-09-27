@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T04:03:20
 ---
 
 # Ether Scryer's Academy
@@ -47,7 +47,9 @@ Beyond the physical branches above, the Academy runs (or houses) several distinc
 
 - **Antiquities**—the department chasing the standing question of why nobody in Aenath remembers anything from before roughly two hundred years ago; see Branches above and the [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Amethyst District/Director of Antiquities|Director of Antiquities]] for its day-to-day face.
 - **The Herbalist Society**—a smaller, hands-on group distinct from the Academy's rigorous arcane-theory culture. [[Shen]] joined during his Session 22 downtime (relationship track, DC 5, rolled 21), earning a Herbalism Kit and proficiency in Herbalism.
-- **The [[Alchemist's Guild]]'s Extra Planar Studies Branch**—the Guild itself is an autonomous department of the Academy (see DM Notes below), and its own Extra Planar Studies Branch keeps sealed transit logs and ledgers on planar mechanics—see [[Alchemist's Guild]] for what's known there; not duplicated here.
+- **The [[Alchemist's Guild]]**—an autonomous department of the Academy (see DM Notes below) in its own right, running its own contacts and trade independent of Academy oversight—see [[Alchemist's Guild]] for what's known there; not duplicated here.
+- **Planar Mechanics**—a full Academy department. [[Min Ji-ah]] unlocked it during Session 19 downtime.
+- **Alchemy**—a full Academy department/track. [[Min Ji-ah]] unlocked it the same session.
 
 ## Notable Residents
 

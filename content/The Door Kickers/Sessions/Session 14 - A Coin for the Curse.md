@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-03-23
 secret: false
 created: 2026-03-23T21:43
-updated: 2026-09-25T17:07:09
+updated: 2026-09-27T15:27:43
 ---
 
 # Session 14 - A Coin for the Curse
@@ -40,7 +40,7 @@ Then a woosh, and a door, and somewhere else.
 
 ## The Space Between Sessions
 
-While [[Augustus Kennedy|Augie]] and [[Ember]] floated in the void, [[Jonathan Jordan]], [[Gill Bates]], and [[Min Ji-ah]] were in Arabel, riding toward Castle Kilgrave, standing before Helm, watching [[Mystra]] burn.
+While [[Augustus Kennedy|Augie]] and [[Ember]] floated in the void, [[Jonathan Jordan]], [[Gill Bates]], and [[Min Ji-ah]] were in Arabel, riding toward [[Castle Kilgrave]], standing before Helm, watching [[Mystra]] burn.
 
 That felt like days. For Augie and Ember, it was nothing. When the prequel party finally sleeps at the end of Session 13, all five ethereal forms drift together in the same liminal space — and the moment of reunion arrives like two conversations colliding. JJ and Gill and Min Ji-ah are calm. They have the thousand-yard stare of people who have witnessed something and have not fully named it yet. Augie is immediately suspicious of himself: *Is this my fault? I touched the wall.* Yes. Gently — yes.
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-06
 secret: false
 created: 2026-09-26T00:00
-updated: 2026-09-26T19:23:27
+updated: 2026-09-26T23:10:00
 ---
 
 # The Dawnhearth
@@ -36,6 +36,6 @@ A plaster-and-column building at street level in Stormberg, nothing about it com
 
 ## Current Events
 
-Priya keeps the chapel open to whoever wanders in, with scattered lay worship starting to gather around the Feast of the Moon rather than a formal congregation yet. Her theology, as given in play: renewal, beginnings, a fresh start after a fall—entirely unconcerned with what happens to a soul once it's gone. She and [[Brother Silas]] at the [[Temple of Kelemvor]] have already confirmed the jurisdictional line between their two faiths from their own sides: Lathander doesn't poach a soul that never pledged to him.
+Priya keeps the chapel open to whoever wanders in, with scattered lay worship starting to gather around the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]] rather than a formal congregation yet. Her theology, as given in play: renewal, beginnings, a fresh start after a fall—entirely unconcerned with what happens to a soul once it's gone. She and [[Brother Silas]] at the [[Temple of Kelemvor]] have already confirmed the jurisdictional line between their two faiths from their own sides: Lathander doesn't poach a soul that never pledged to him.
 
 

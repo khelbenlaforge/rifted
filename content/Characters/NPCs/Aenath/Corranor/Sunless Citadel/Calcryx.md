@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T13:21:54
 ---
 
 # Calcryx
@@ -56,6 +56,6 @@ She's a different animal with this table than she was with the Door Kickers—no
 - The party has been asked to retrieve her by Yusdrayl and warned not to by Ragh
 - Her wellbeing is [[Meepo]]'s only real concern in all of this
 - **Encountered in Session 09 (Door Kickers):** The party discreetly revealed a weakened link in her restraining chain. She refused to return to the [[Ordahir Kobolds]]—no loyalty, and she knows the difference between genuine care and political utility. She was told where to find [[Meepo]] (the rat room, northeast, supplied) and expressed a soft spot for him. She told the party she owes them a **favor**—and she said it like someone who tracks debts. On the way out, she breathed frost through the open cell door at the waiting Durbuluk goblins—contemptuous, deliberate, minor damage. Maximum statement.
-- **Encountered in Session 08 (The Understudies):** relocated to a fresh breach in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]]'s Wall, grown to a young dragon in the interim. Found the party rather than the other way around—Meepo spotted first, then Calcryx herself, guarded but willing to talk once Meepo vouched for them. An involuntary cold sigh cost the party a shared level of exhaustion, not an attack. Negotiated a lasting deal: she stays in the breach, and her prolonged presence is quietly reinforcing the Wall's structure (see [[Young Dragon Lair Effects]]); in exchange she won't hunt people, and the party carries the case back to the Guild and city on her behalf. She's tracking that promise like every other debt she's ever kept.
+- **Encountered in Session 08 (The Understudies):** relocated to a fresh breach in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]]'s Wall, grown to a young dragon in the interim. Found the party rather than the other way around—Meepo spotted first, then Calcryx herself, guarded but willing to talk once Meepo vouched for them. An involuntary cold sigh cost the party a shared level of exhaustion, not an attack. Negotiated a lasting deal: she stays in the breach, and her prolonged presence is quietly reinforcing the Wall's structure (see [[Young Dragon Lair Effects]]); in exchange she won't hunt people, and the party carries the case back to the Guild and city on her behalf. [[Fern]] clinched it in the room by appealing directly to her hoarding instinct, adding treasure toward Calcryx's hoard on top of a standing supply of food—a read on the dragon that landed exactly because Calcryx measures worth in hoard and appetite before anything else. She's tracking that promise like every other debt she's ever kept.
 
 
