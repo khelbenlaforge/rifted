@@ -13,6 +13,19 @@ Write-Host "========================================" -ForegroundColor Cyan
 Write-Host ""
 
 try {
+    # Preflight: branch and unpushed-commit checks run before any mutation, so a clean
+    # working tree can't short-circuit past them (previously sync-vault ran first and a
+    # no-op sync exited 0 via the "No changes to publish" path without ever reaching this
+    # check, silently bypassing the unpushed-commits gate).
+    Set-Location $QuartzPath
+    $branch = git rev-parse --abbrev-ref HEAD
+    if ($branch -ne "main") {
+        throw "Not on main branch (currently '$branch'). Aborting to prevent accidental publish."
+    }
+    if (git rev-list '@{u}..HEAD') {
+        throw "main already has unpushed commits that did not pass the publish gates. Review and push them yourself first."
+    }
+
     # Step 1: Sync vault
     Write-Host "Step 1/3 -- Syncing vault..." -ForegroundColor Yellow
     & "$QuartzPath\sync-vault.ps1"
@@ -20,11 +33,6 @@ try {
 
     # Step 2: Stage all changes
     Write-Host "Step 2/3 -- Staging changes..." -ForegroundColor Yellow
-    Set-Location $QuartzPath
-    $branch = git rev-parse --abbrev-ref HEAD
-    if ($branch -ne "main") {
-        throw "Not on main branch (currently '$branch'). Aborting to prevent accidental publish."
-    }
     $status = git status --porcelain
     if (-not $status) {
         Write-Host "No changes to publish." -ForegroundColor Green
@@ -36,9 +44,6 @@ try {
     git add content/ quartz/static/
     if (git diff --cached --name-only -- . ':(exclude)content/' ':(exclude)quartz/static/') {
         throw "Files outside content/ and quartz/static/ are staged; they would be published ungated. Unstage or commit them separately first."
-    }
-    if (git rev-list '@{u}..HEAD') {
-        throw "main already has unpushed commits that did not pass the publish gates. Review and push them yourself first."
     }
     & "$QuartzPath\scripts\check-private-names.ps1"
     & "$QuartzPath\scripts\check-image-metadata.ps1"
