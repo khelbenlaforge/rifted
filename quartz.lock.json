@@ -178,8 +178,8 @@
     "quartz-changelog": {
       "source": "github:khelbenlaforge/quartz-changelog",
       "resolved": "https://github.com/khelbenlaforge/quartz-changelog.git",
-      "commit": "a185e1ca366d2e1959c961caf5776d07505517c1",
-      "installedAt": "2026-08-27T17:54:47.285Z"
+      "commit": "aaa42b144aef28bd3dc81006dcbd763f9ee23417",
+      "installedAt": "2026-09-28T10:06:44.643Z"
     },
     "quartz-crawl-links": {
       "source": "github:khelbenlaforge/quartz-crawl-links",
@@ -196,20 +196,20 @@
     "quartz-graph": {
       "source": "github:khelbenlaforge/quartz-graph",
       "resolved": "https://github.com/khelbenlaforge/quartz-graph.git",
-      "commit": "43ee4a5ab871cb6cd6ed934a92879c71a2e425f5",
-      "installedAt": "2026-08-27T16:58:16.671Z"
+      "commit": "c2458045d671871754458870422f971bd3c31ecc",
+      "installedAt": "2026-09-28T10:06:36.722Z"
     },
     "quartz-player-note": {
       "source": "github:khelbenlaforge/quartz-player-note",
       "resolved": "https://github.com/khelbenlaforge/quartz-player-note.git",
-      "commit": "5c5fa4ee59d6db78e8b4499c13e8c725792db6bc",
-      "installedAt": "2026-08-27T16:44:16.704Z"
+      "commit": "9d0996602e77466e429b4b5a4101455bf31b728b",
+      "installedAt": "2026-09-28T10:06:29.233Z"
     },
     "quartz-session-notes": {
       "source": "github:khelbenlaforge/quartz-session-notes",
       "resolved": "https://github.com/khelbenlaforge/quartz-session-notes.git",
-      "commit": "78acf03b65dbfdaf195a4617c9ba7619b9bf16fa",
-      "installedAt": "2026-08-27T16:44:18.777Z"
+      "commit": "85bff26499d692833f22ccab2c4c8d0dbdb0df5b",
+      "installedAt": "2026-09-28T10:06:22.055Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
