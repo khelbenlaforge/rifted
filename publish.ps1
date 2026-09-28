@@ -3,6 +3,7 @@
 # Double-click "Publish Wiki.bat" to run.
 
 $ErrorActionPreference = "Stop"
+$PSNativeCommandUseErrorActionPreference = $true  # non-zero exit from git etc. throws (pwsh 7.3+)
 $QuartzPath = $PSScriptRoot
 
 Write-Host ""
@@ -33,6 +34,12 @@ try {
         exit 0
     }
     git add content/ quartz/static/
+    if (git diff --cached --name-only -- . ':(exclude)content/' ':(exclude)quartz/static/') {
+        throw "Files outside content/ and quartz/static/ are staged; they would be published ungated. Unstage or commit them separately first."
+    }
+    if (git rev-list '@{u}..HEAD') {
+        throw "main already has unpushed commits that did not pass the publish gates. Review and push them yourself first."
+    }
     & "$QuartzPath\scripts\check-private-names.ps1"
     & "$QuartzPath\scripts\check-image-metadata.ps1"
     Write-Host ""
