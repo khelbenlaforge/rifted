@@ -54,8 +54,9 @@ function Add-ViolationsForText {
     )
 
     foreach ($PrivateName in $PrivateNames) {
-        $Pattern = '(?<!\w)' + [regex]::Escape($PrivateName) + '(?!\w)'
-        if ($Text -cmatch $Pattern) {
+        # Case-insensitive; a letter before, or a lowercase letter after, ends the match ("Xy" != "Xyz", but "XyPC.png" / "xy_1" hit).
+        $Pattern = '(?<!\p{L})' + [regex]::Escape($PrivateName) + '(?-i:(?!\p{Ll}))'
+        if ($Text -match $Pattern) {
             $prefixLength = [Math]::Min(2, $PrivateName.Length)
             $MaskedName = $PrivateName.Substring(0, $prefixLength) + "... (" + $PrivateName.Length + " chars)"
             $ViolationList.Value += [pscustomobject]@{
