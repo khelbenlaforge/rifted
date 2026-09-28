@@ -7,7 +7,7 @@ import { Root as HTMLRoot } from "hast"
 import { MarkdownContent, ProcessedContent } from "../plugins/vfile"
 import { PerfTimer } from "../util/perf"
 import { read } from "to-vfile"
-import { FilePath, QUARTZ, slugifyFilePath } from "../util/path"
+import { FilePath, FullSlug, QUARTZ, slugifyFilePath } from "../util/path"
 import path from "path"
 import workerpool, { Promise as WorkerPromise } from "workerpool"
 import { QuartzLogger } from "../util/log"
@@ -199,6 +199,14 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
         return result
       }),
     ).catch(errorHandler)
+
+    // frontmatter pushes alias/permalink slugs into ctx.allSlugs, but in a worker that's a
+    // copy: merge them back so link resolution in processHtml sees them (as in 1-thread mode)
+    for (const [, file] of mdResults.flat()) {
+      for (const alias of (file.data.aliases ?? []) as FullSlug[]) {
+        if (!ctx.allSlugs.includes(alias)) ctx.allSlugs.push(alias)
+      }
+    }
 
     const markdownToHtmlPromises: WorkerPromise<ProcessedContent[]>[] = []
     processedFiles = 0
