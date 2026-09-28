@@ -51,3 +51,4 @@ The session closed on that agreement — no blood between the party and Corvin A
 
 - [[The Exodus/The Door Kickers/Session Prep/2026-07-27 - Session 25 Prep|2026-07-27 - Session 25 Prep]] — the DM's room-by-room design for this session
 - [[Session 24 - Four Litres of Blood]]
+

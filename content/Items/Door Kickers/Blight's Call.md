@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: 2026-03-10
 secret: false
 created: 2026-03-19T03:36
-updated: 2026-09-27T18:55:27
+updated: 2026-09-28T18:31:01
 ---
 
 # Blight's Call
@@ -40,26 +40,16 @@ A horn carved from one of [[Ashardalon]]'s claws — black-grey, slightly curved
 
 **Blight's Call (Action, once per day).** All blights and undead within 60 ft. must succeed on a **DC 15 Wisdom saving throw** or be **frightened** of the user.
 
-**Ashardalon's Curse.** The creature that blows the horn must also make a DC 15 Wisdom saving throw. On a failure, roll 1d6:
-
-| d6 | Effect |
-|----|--------|
-| 1 | The horn drains the user's life force — **3 (1d6) necrotic damage**. This damage increases by 2 each time this result is rolled. If it ever deals 10 or more damage, the user is **killed**. |
-| 2 | The user's vision and decision-making are clouded by fury. Their next attack, saving throw, or ability check is made **with disadvantage**. |
-| 3 | The user is compelled to rush at the nearest enemy — they must move up to 15 ft. toward the nearest enemy. If this would require more than their available movement, they go as far as they can and then fall prone. |
-| 4–5 | Nothing happens. |
-| 6 | Instead of the frightened condition, enemies that failed their saving throw are instead affected by the *Command* spell. |
+**Ashardalon's Curse.** Blowing the horn carries a price—Ashardalon's claw remembers what it was. The exact toll is left uncertain by design (see DM Notes for the mechanical table); what's known to the party is that it's a slow, cumulative corruption, mostly harmless until it isn't, and that separating Durnn from the horn visibly changed him for the better.
 
 **Durnn's Version (NPC only).** While Durnn wielded it, the horn also functioned as a lair action: he could blow it to summon 2 **prickle blights** from the well in Area 41. This effect is tied to the room's supernatural connection to the grove below, not the item itself.
-
-**Corruption.** Durnn's prolonged use of the horn amplified his bloodlust and worsened his nightmares. After being separated from it at his defeat, he became noticeably more agreeable and less hostile. The curse works cumulatively — the more the horn is used, the more it shapes the wielder.
 
 ## Significance
 
 - Crafted from [[Ashardalon]]'s claw — a physical relic of the ancient dragon whose cult built the [[Sunless Citadel]]
 - Frightens blights and undead — potentially a double-edged tool inside the grove, where Belak's creatures are everywhere
-- The curse table is a slow corruption mechanic: mostly harmless until it isn't. Result 1 is a time bomb
-- Separating Durnn from the horn visibly changed him — implies attunement is the mechanism of corruption
+- The curse is a slow corruption mechanic: mostly harmless until it isn't
+- Separating Durnn from the horn visibly changed him—implies attunement is the mechanism of corruption
 - Currently in [[Ember]]'s possession; its properties are **known to the party**
 
 

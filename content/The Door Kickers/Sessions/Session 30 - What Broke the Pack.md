@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-21
 secret: false
 created: 2026-09-25
-updated: 2026-09-27T03:32:33
+updated: 2026-09-28T17:13:34
 ---
 
 # Session 30 - What Broke the Pack
@@ -15,8 +15,8 @@ updated: 2026-09-27T03:32:33
 **In-world date:** 5 Nightal, Year 222 PA, Day 2 of the Road North out of Crystal City.
 
 **Present:** [[Regius]] · [[Terra]] · [[Nanuk]] · [[Min Ji-ah]]
-**Traveling, DM-voiced:** [[Gill Bates|Gill]] · [[Sadiah Ispahani|Sadiah]] · [[Ember]]
-**Off-page:** [[Jonathan Jordan|JJ]] · [[Augustus Kennedy|Augustus]] · [[Shen]] (stayed behind at the Ether Scryer's Academy)
+**Traveling, DM-voiced:** [[Gill Bates|Gill]] · [[Sadiah Ispahani|Sadiah]] · [[Ember]] · [[Shen]] (player absent; an earlier pass recorded him as staying at the Academy, corrected by the DM 2026-09-28)
+**Off-page:** [[Jonathan Jordan|JJ]] · [[Augustus Kennedy|Augustus]]
 
 ## What Happened
 

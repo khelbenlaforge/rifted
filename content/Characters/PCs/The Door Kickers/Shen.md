@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-09-25T20:45:29
+updated: 2026-09-28T17:13:35
 ---
 
 # Shen
@@ -240,4 +240,10 @@ Shen completed two retroactive weeks of downtime.
 
 - After initially being slated to stay in the city, ultimately travels north with the party as a DM-voiced companion—a mid-session reversal at the table.
 - No individual scene this session.
+
+## Session 30
+
+*(DM-voiced this session; player absent.)*
+
+- Travelled north on the Road with the party. No individual scene. (An earlier processing pass recorded him as staying at the [[Ether Scryer's Academy]]; the DM corrected this 2026-09-28.)
 
