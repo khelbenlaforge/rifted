@@ -26,6 +26,13 @@ if ($PrivateNameRedactionEnabled) {
     Write-Warning "PRIVATE-NAME REDACTION LIST MISSING at $PrivateNamesPath. Wikilink parenthetical redaction is disabled; structural Player-field redaction remains enabled."
 }
 
+# Every Player:: / infobox Player value in the vault. A wikilink parenthetical that is exactly one
+# of these is a roster player slot, even when that name can't go in .private-names (it is also a PC name).
+$PlayerNames = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
+Get-ChildItem -Path $WorldPath -Recurse -Filter "*.md" | Select-String -Pattern '^Player::[ \t]*(.+?)[ \t]*$', '^>[ \t]*\|[ \t]*\*\*Player\*\*[ \t]*\|[ \t]*(.+?)[ \t]*\|' | ForEach-Object {
+    [void]$PlayerNames.Add(($_.Matches[0].Groups[1].Value -replace '^\[\[|\]\]$', '').Trim())
+}
+
 $ParentheticalsStripped = 0
 $FilesWithParentheticalsStripped = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 
@@ -49,25 +56,30 @@ function Process-MarkdownFile {
 
     # Check for `secret: true` in YAML frontmatter only (between the opening --- delimiters)
     $fmMatch = [regex]::Match($content, '(?s)^---\r?\n(.*?)\r?\n---')
-    if ($fmMatch.Success -and $fmMatch.Groups[1].Value -match '(?m)^secret:\s*true\s*$') {
+    if ($fmMatch.Success -and $fmMatch.Groups[1].Value -match '(?m)^secret:[ \t]*["'']?(?:true|yes|on)["'']?[ \t]*(?:#[^\r\n]*)?\r?$') {
         return $false
     }
 
     # Strip statblock codeblocks
     $content = $content -replace '(?s)```statblock\r?\n.*?```', ''
 
-    # Strip DM Notes section — heading matched exactly at end-of-line, then everything until
-    # the next ## heading or EOF. The \s*$ prevents matching "## DM Notes on X" variants.
-    $content = $content -replace '(?ms)^## DM Notes\s*$.*?(?=^## |\z)', ''
+    # Strip DM/GM Notes section (any heading level) — heading matched exactly at end-of-line, then
+    # everything until the next heading of the same or higher level, or EOF. "DM Notes on X" still not matched.
+    $content = $content -replace '(?ms)^(#{1,6})[ \t]*(?:DM|GM)[ \t]+Notes:?[ \t]*\r?$.*?(?=^(?!\1#)#{1,6}[ \t]|\z)', ''
 
     # Redact publish-only Player metadata. Source files are never modified.
     $content = $content -replace '(?m)^>[ \t]*\|[ \t]*\*\*Player\*\*[ \t]*\|[^\r\n]*\|[ \t]*(?:\r?\n|$)', ''
     $content = $content -replace '(?m)^Player::[ \t]*.+(?:\r?\n|$)', ''
 
-    if ($PrivateNameRedactionEnabled -and $PrivateNames.Count -gt 0) {
+    if (($PrivateNameRedactionEnabled -and $PrivateNames.Count -gt 0) -or $PlayerNames.Count -gt 0) {
         $content = [regex]::Replace($content, '\]\]\s*\(([^)]*)\)', {
             param($match)
             $parenthetical = $match.Groups[1].Value
+            if ($PlayerNames.Contains($parenthetical.Trim())) {
+                $script:ParentheticalsStripped++
+                [void]$script:FilesWithParentheticalsStripped.Add($SourceFile)
+                return ']]'
+            }
             foreach ($PrivateName in $PrivateNames) {
                 $pattern = '(?<!\w)' + [regex]::Escape($PrivateName) + '(?!\w)'
                 if ($parenthetical -cmatch $pattern) {
@@ -199,8 +211,20 @@ $AttachmentsDest   = Join-Path $StagingPath "zzz_Attachments"
 $imageExtensions = @('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg')
 $imgCopied = 0
 
+# Only publish attachments that some synced note actually mentions by filename.
+$SyncedText = (Get-ChildItem -Path $StagingPath -Recurse -Filter "*.md" | ForEach-Object { Get-Content -LiteralPath $_.FullName -Raw }) -join "`n"
+$ReferencedAttachments = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
+[regex]::Matches($SyncedText, '!\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]') | ForEach-Object {
+    # Embed targets are folder-prefixed (e.g. zzz_Attachments/Foo.png); compare basenames only.
+    # Decode only the (small, filename-shaped) target, not the whole corpus, so a literal "%"
+    # in ordinary prose elsewhere in a note can't throw UriFormatException.
+    $target = [uri]::UnescapeDataString($_.Groups[1].Value.Trim())
+    [void]$ReferencedAttachments.Add((Split-Path -Leaf $target))
+}
+
 Get-ChildItem -Path $AttachmentsSource -File -Recurse | Where-Object {
-    $imageExtensions -contains $_.Extension.ToLower()
+    $imageExtensions -contains $_.Extension.ToLower() -and
+    $ReferencedAttachments.Contains($_.Name)
 } | ForEach-Object {
     $relativePath = $_.FullName.Substring($AttachmentsSource.Length).TrimStart('\')
     $destFile = Join-Path $AttachmentsDest $relativePath
