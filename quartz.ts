@@ -125,7 +125,6 @@ const listLeftColumn = [
   ...leftColumn.slice(0, 2),
   Flex({
     components: [{ Component: Search(), grow: true }, { Component: Darkmode() }],
-    gap: "0.5rem",
   }),
   ...leftColumn.slice(3, 5),
 ]
