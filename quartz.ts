@@ -119,9 +119,24 @@ const leftColumn = [
   SessionNotes(),
   FiveETools(),
 ]
+// folder/tag/changelog: same column minus what their YAML excludes (ReaderMode, SessionNotes,
+// FiveETools) -- they must be overridden too or they keep the YAML Explorer without sortFn
+const listLeftColumn = [
+  ...leftColumn.slice(0, 2),
+  Flex({
+    components: [{ Component: Search(), grow: true }, { Component: Darkmode() }],
+    gap: "0.5rem",
+  }),
+  ...leftColumn.slice(3, 5),
+]
 const layout = await loadQuartzLayout({
   defaults: { left: leftColumn },
-  byPageType: { content: { left: leftColumn } },
+  byPageType: {
+    content: { left: leftColumn },
+    folder: { left: listLeftColumn },
+    tag: { left: listLeftColumn },
+    changelog: { left: listLeftColumn },
+  },
 })
 
 config.plugins.emitters = (config.plugins.emitters ?? []).filter(
