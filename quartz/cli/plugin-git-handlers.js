@@ -234,6 +234,9 @@ export async function handlePluginInstall() {
           const fetchTarget = entry.ref || entry.commit
           execSync(`git fetch --depth 1 origin ${fetchTarget}`, { cwd: pluginDir, stdio: "ignore" })
           execSync(`git reset --hard ${entry.commit}`, { cwd: pluginDir, stdio: "ignore" })
+          // dist/ is gitignored, so reset keeps the old build; drop it so a failed rebuild
+          // can't leave stale output that needsBuild() would then accept as installed
+          fs.rmSync(path.join(pluginDir, "dist"), { recursive: true, force: true })
         }
         pluginsToBuild.push({ name, pluginDir })
         installed++
@@ -285,6 +288,7 @@ export async function handlePluginInstall() {
     console.log(styleText("green", `✓ Installed ${installed} plugin(s)`))
   } else {
     console.log(styleText("yellow", `⚠ Installed ${installed} plugin(s), ${failed} failed`))
+    process.exitCode = 1
   }
 }
 
