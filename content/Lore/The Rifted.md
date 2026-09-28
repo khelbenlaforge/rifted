@@ -11,7 +11,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:43:26
-updated: 2026-09-26T14:44:53
+updated: 2026-09-27T19:43:59
 ---
 
 # The Rifted
@@ -24,7 +24,7 @@ Whoever meets the new arrivals first sees the same pattern: strange terrain, a b
 
 The [[Ether Scryer's Academy]] has since made the same finding standard doctrine: a newly arrived Rifted carries only "half a soul," which grows back toward whole the longer they remain in Aenath. The finding reached [[Stormberg]] by the time the second wave of arrivals landed there, carried north from Crystal City as general knowledge.
 
-The [[Corranor Council]] has since confirmed the pattern independently, reporting to one party directly that the missing half was growing back on its own, and that some of the newly arrived had noticed themselves thinking in Common more readily than in their own birth language—the same regeneration, read from a different angle. The Council's own investigation traced [[Layla]]'s magical signature to the transit event itself, and [[Garm]] has been working since to understand how to undo whatever she did.
+The [[Corranor Council]] has since confirmed the pattern independently, reporting to one party directly that the missing half was growing back on its own, and that some of the newly arrived had noticed themselves thinking in Common more readily than in their own birth language—the same regeneration, read from a different angle. The Council's own investigation has turned up [[Layla]]'s name in connection with the pattern, though nothing conclusive—see [[Transit Magic in Aenath]] for why the mechanism itself stays unsolved—and [[Garm]] has been working since to understand how to undo whatever she did.
 
 ## Common Threads
 

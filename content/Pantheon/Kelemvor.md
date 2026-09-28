@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-26T19:23:42
+updated: 2026-09-27T18:55:27
 ---
 
 # Kelemvor
@@ -35,7 +35,7 @@ Kelemvor is the god of death and the dead, the most recent deity to hold the off
 
 He didn't always look the way he does now. Before he remade himself entirely, his avatar still wore his mortal face: a tanned, square-jawed human warrior with a wild, grey-streaked black mane and piercing green eyes, clad in chainmail and dark leather. The god his faithful know today is colder and stranger — a darkly robed figure, hair gone silver, eyes without pupils, armor tattered and black, face hidden behind a silver death mask. He shed the last of his humanity on purpose, deliberately, to be able to judge the dead without a mortal's mercy or spite clouding the scales.
 
-His church in [[Crystal City]] runs three factions under one roof: the Monks of Long Death, the general Priesthood, and the **Kelemvor Knights** — paladins tasked specifically with guarding cross-planar travel and preventing souls from being pulled across planes without sanction. Elite priests carry the title **Doomguide**; the clergy at large dress in somber gray and favor the bastard sword as their weapon of choice. The Church of Kelemvor feuds openly with the churches of [[Mystra]] and [[Oghma]] over a real philosophical disagreement: Kelemvor's clergy holds that knowledge pursued without responsibility is exactly what destabilizes the cosmos.
+His church in [[Crystal City]] runs three factions under one roof: the Monks of Long Death, the general Priesthood, and the **[[Knights of the Eternal Order]]**—the paladins who stand watch at the temple's three Threshold Gates (Abyss, Nine Hells, Outer Planes), not to prevent passage but to ensure it goes the right way. Elite priests carry the title **Doomguide**; the clergy at large dress in somber gray and favor the bastard sword as their weapon of choice. The Church of Kelemvor feuds openly with the churches of [[Mystra]] and [[Oghma]] over a real philosophical disagreement: Kelemvor's clergy holds that knowledge pursued without responsibility is exactly what destabilizes the cosmos.
 
 > Look not upon our sins, Master of Scales, but measure the worth of your most grateful dead.
 > — a basic prayer to Kelemvor

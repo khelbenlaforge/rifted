@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-09-27T03:41:32
+updated: 2026-09-27T19:44:00
 created: 2026-09-25T16:57:31
 ---
 
@@ -45,6 +45,6 @@ A breach in the Wall—twenty feet high, fifteen wide, cut clean through a stret
 
 ## White Dragons of the Northern Reaches
 
-Past the Wall, white dragons are rare. [[Calcryx]]—see Session 8 Update above—is the one confirmed, named case: a young dragon denning inside a breach in the Wall's own mass, and by the terms of her own deal, making it stronger for the trouble. She isn't proof of anything larger. She's simply the first time anyone's put a name and a face to what's out there—the same stretch the arctic expeditions cross and the etheric-crystal surveys keep combing, still turning up shards nobody's traced to a source. Nothing confirms a second dragon exists. Until one does, Calcryx is the whole of the north's dragon population that Corranor actually knows about.
+Past the Wall, white dragons are rare. The young dragon denning in the breach—see Session 8 Update above—is the one confirmed, named case, though her name stays known only to the Understudies and Meepo; by the terms of her own deal, her prolonged presence is making the Wall stronger for the trouble. She isn't proof of anything larger. She's simply the first time anyone's put a name and a face to what's out there—the same stretch the arctic expeditions cross and the etheric-crystal surveys keep combing, still turning up shards nobody's traced to a source. Nothing confirms a second dragon exists. Until one does, she's the whole of the north's dragon population that Corranor actually knows about.
 
 

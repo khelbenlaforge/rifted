@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-26T17:35:51
+updated: 2026-09-27T19:43:58
 ---
 
 # Doran
@@ -39,7 +39,7 @@ As Keeper of the Bulwark, Doran commands the city Watch and its wardens, the off
 
 Doran told the city, in front of the assembled crowd, that the fiend from the Cistern Street shrine had been summoned, bound at the site, and dispersed there, that nothing had entered Crystal City from outside it. He looked at the party while he said it. They had watched the same creature leave under its own power. He has not been challenged on the lie, and the party has not spent what they know about it.
 
-He holds one of the Council's two confirmed votes against the party in the Session 29 status hearing, alongside [[Nerise]]. The hearing never reached them, the party evaded it instead of attending, so nothing Doran has argued has actually been tested against a response.
+He holds one of the Council's three confirmed votes against the party in the Session 29 status hearing, alongside [[Nerise]] and [[Ysolde]]. The hearing never reached them, the party evaded it instead of attending, so nothing Doran has argued has actually been tested against a response.
 
 ---
 Race:: Dwarf

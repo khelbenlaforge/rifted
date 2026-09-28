@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-26T16:02:55
+updated: 2026-09-27T19:43:57
 ---
 
 # Ysolde
@@ -21,7 +21,7 @@ updated: 2026-09-26T16:02:55
 > | Role | Keeper of the Works |
 > | Affiliation | [[Corranor Council]] |
 
-Ysolde is the stone-faced human Keeper of the Works, responsible for the realm's arcane infrastructure—and one of the two confirmed votes against the party at the Council's Session 29 status hearing.
+Ysolde is the stone-faced human Keeper of the Works, responsible for the realm's arcane infrastructure—and one of the three confirmed votes against the party at the Council's Session 29 status hearing.
 
 ## Appearance
 

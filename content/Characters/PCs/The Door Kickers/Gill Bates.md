@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-26T19:22:16
+updated: 2026-09-27T18:56:03
 ---
 
 # Gill Bates
@@ -232,7 +232,7 @@ PassiveStealth:: 12
 
 ## Session 19
 
-Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the Kelemvor Knights, paladins who guard cross-planar travel. Kelemvor routes chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells, and neutral or godless souls to the Outer Planes; he judges and forwards souls rather than keeping them. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
+Gill continued studying with [[Tidecaller Marin Deepcurrent]] during [[Crystal City]] downtime. At the Temple of [[Kelemvor Lyonsbane|Kelemvor]], he learned that it has three factions: the Monks of Long Death, the Priesthood, and the [[Knights of the Eternal Order]], paladins who stand watch at the temple's Threshold Gates. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls to the Abyss, lawful evil souls to the Nine Hells—both reachable through the Gates—while neutral or godless souls stay stuck behind the barrier until the Feast of the Moon's ritual sends them on. The church feuds with the churches of [[Mystra]] and [[Oghma]], arguing that knowledge without responsibility creates wild magic that destabilizes the cosmos. Gill learned that Kelemvor once had great emotion and wondered what changed.
 
 Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely and menacing. City workers tend it, and no one openly worships Cyric. He later went fishing on a rough boat in the [[Citrine District]] and earned 7 gp.
 
@@ -261,7 +261,7 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - Stood on the platform beside **[[Cadmus Tallow]]** for the whole address, invited up by the man whose life he had saved, and caught him when he collapsed at the end of his blessing.
 - Saw the soul-recitation in full: not just motes of light but the people themselves, drifting up half-blind until the chant turned their heads, each one taken by its own name in gold. Some in the crowd never rose at all.
 - Named the four elemental primordials with [[Nanuk]] and Uki: [[Istishia]], [[Grumbar]], [[Kossuth]] and [[Akadi]]. Confirmed that Istishia's voice reaching him is possible precisely because she is inside the barrier with everyone else.
-- On 1 Nightal, [[Tidecaller Marin Deepcurrent|Marin]] told him what the four elemental clergies have sworn never to admit—**the Brotherhood of the Four Winds**—that they can hear their gods, that the voices have faded for thirty years, and that their public rivalries are staged. Marin has been funnelling etheric energy to Istishia alone.
+- On 1 Nightal, [[Tidecaller Marin Deepcurrent|Marin]] told him something in confidence about the elemental clergies and their gods that he's keeping to himself for now (see DM Notes).
 - Marin also named the making of the world: [[Gond]] hammered the four primordials' own divine essences into its fabric, and a fifth deity gave himself the same way to bring life. Marin does not know who the fifth was. Gill can guess.
 - **Sacred Sea track unstuck:** the first level no longer needs a full downtime and can be completed in a single day next visit.
 
