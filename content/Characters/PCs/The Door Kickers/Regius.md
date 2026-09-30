@@ -1,6 +1,7 @@
 ---
 title: Regius
-aliases: []
+aliases:
+- Reggie
 tags:
 - pc
 campaign: Rifted
@@ -8,7 +9,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-09-25T19:56:22
+updated: 2026-10-01T02:25:35
 ---
 
 # Regius
