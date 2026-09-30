@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-28T18:30:19
+updated: 2026-09-29T17:46:44
 ---
 
 # Selûne
@@ -47,22 +47,28 @@ In battle she favors a four-flanged mace called the Rod of Four Moons, and a sui
 
 ## Role in the Story
 
-Session 26 (the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]) put Selûne at the center of a party-wide revelation. Aenath has four moons total: hers, the one that looks like Earth's own, and three others that carry the Weave itself, visible together only this one night of the year. **Corroborated Session 28.** [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Citrine District/Elmindaria L'Thorian|Daria]]'s Session 26 account was in-fiction testimony until [[Min Ji-ah]]'s [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry independently confirmed the mechanism and named the three as [[Solinari]], [[Lunitari]] and [[Nuitari]], demigods who gave themselves up to anchor the Weave for [[Mystra]] from inside the barrier. Treat the three-moon cosmology as confirmed. Selûne's moon plays no direct part in the casting. What it does is mark the night: the Feast is hers, and the Feast is the only time the other three show themselves at all.
-
 Her eternal conflict with Shar also underwrites Shar's own Feast night, the **Rising of the Dark**, her faithful's "year's last full dark" before Selûne reclaims the sky at midnight.
 
 ## Connections
 
-- **[[Shar]]** — Twin sister, eternal enemy. Their war is the sky's nightly drama. Note created 2026-09-07 (Understudies Session 5 named her cult directly as an antagonist).
+- **[[Shar]]** — Twin sister, eternal enemy. Their war is the sky's nightly drama.
 - **[[Sehanine Moonbow]]** — A close ally and fellow moon deity; the two "worked closely" per shared lore, distinct portfolios (Selûne the moon and its light broadly, Sehanine specifically the elven mystic/dream aspect of it).
-- **[[Mystra]]** — Allied deity of magic. Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], [[Nuitari]]) carry the Weave to mortals on Mystra's behalf; Selûne's own plays host, not conduit, on the one night all four hang in the sky together.
-- **[[Corellon]]** and **[[Tymora]]** — Allies, per the clip's own ally list. Tymora's own origin (see DM Notes) ties directly back to Selûne.
+- **[[Mystra]]** — Allied deity of magic.
+- **[[Corellon]]** and **[[Tymora]]**—Allies, per the clip's own ally list.
 - **[[Lathander]]** — Ally; she respects his passion and hopes for cooperation against Shar.
-- **[[The Exodus/00_My Notes/Pantheon/Mask|Mask]]**, **Umberlee**, and **Moander** — Enemies, over shadow-mischief, the sea, and rot/decay respectively. No notes yet — exist in Aenath per the same standing established for other unbuilt deities today, not a current priority.
+- **[[The Exodus/00_My Notes/Pantheon/Mask|Mask]]**, **Umberlee**, and **Moander**—Enemies, over shadow-mischief, the sea, and rot/decay respectively.
 
-## Session 28
+## Session 26 Update (The Door Kickers)
+
+Session 26 (the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]) put Selûne at the center of a party-wide revelation. Aenath has four moons total: hers, the one that looks like Earth's own, and three others that carry the Weave itself, visible together only this one night of the year.
+
+## Session 28 Update (The Door Kickers)
 
 - Selûne and Shar were originally a single being of light.
 - Their split created duality, and the first Mystra emerged from that split, after which the rest of the gods came into being.
+
+**Corroborated Session 28.** [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Citrine District/Elmindaria L'Thorian|Daria]]'s Session 26 account was in-fiction testimony until [[Min Ji-ah]]'s [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry independently confirmed the mechanism and named the three as [[Solinari]], [[Lunitari]] and [[Nuitari]], demigods who gave themselves up to anchor the Weave for [[Mystra]] from inside the barrier. Selûne's moon plays no direct part in the casting. What it does is mark the night: the Feast is hers, and the Feast is the only time the other three show themselves at all.
+
+Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], [[Nuitari]]) carry the Weave to mortals on Mystra's behalf; Selûne's own plays host, not conduit, on the one night all four hang in the sky together.
 
 

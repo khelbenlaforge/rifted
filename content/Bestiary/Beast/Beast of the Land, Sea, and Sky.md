@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 secret: false
 created: 2026-07-30T16:30:00
-updated: 2026-09-25T17:07:09
+updated: 2026-09-29T20:16:50
 ---
 
 # Beast of the Land, Sea, and Sky
@@ -71,7 +71,10 @@ AC is 13 + 3 = 16. HP is 4 + (4 × 5) = 24 (5d6). Nanuk's Spellcasting line stat
 
 ## Notes
 
-Damage type for Beast of the Land and Beast of the Sea is chosen by the player at the moment of summoning; it is not fixed. [[Nanuk]] currently uses Beast of the Land, reflavored as a polar bear companion (*irinaliutiit*).
+Damage type for Beast of the Land and Beast of the Sea is chosen by the player at the moment of summoning; it is not fixed.
 
-**Foundry auto-scaling (added 2026-07-30, fully verified 2026-07-31):** on Nanuk's Foundry sheet, all three forms are wired as separate Summon Activities on his Primal Companion item, so AC, HP, attack bonus, damage, and Primal Bond's proficiency-on-all-checks/saves compute live from Nanuk's own current stats (Wisdom modifier, proficiency bonus, Ranger level) instead of needing manual recomputation at future level-ups. **Confirmed working at the table for all three forms** (Land, Sea, and Sky) — every number (AC, HP, attack bonus, damage, Primal Bond) checked live and correct. The worked Level-5 examples above remain accurate as a snapshot but are no longer the source of truth — the live Foundry sheet is.
+## Session 18 Update (The Door Kickers)
+
+[[Nanuk]] currently uses Beast of the Land, reflavored as a polar bear companion (*irinaliutiit*).
+
 

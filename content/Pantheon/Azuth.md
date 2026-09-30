@@ -12,7 +12,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T18:18:40
 ---
 
 # Azuth
@@ -38,8 +38,6 @@ Azuth is the god wizards actually invoke: the Weave's most devoted student and a
 
 He appears as a white-bearded old man in antique dress, wielding a gem-topped staff — but can shapechange freely, including into a towering pyramid of pulsing light with no visible eyes or mouth, somehow still capable of sight and speech. Other deities find him crotchety and hard to read; his followers find him exacting. He is not a warm god. He is a precise one.
 
-Before his ascension, Azuth was a mortal wizard hungry for power, who pored over the ruins of lost empires chasing forgotten magical secrets. His dedication caught Mystra's eye, and she named him the first ever to hold the title of Magister — her most promising pupil. He eventually judged himself unworthy of that title, and Mystra elevated him instead to one of her Chosen. His duel with Savras for supremacy was violent enough to shatter a mountain and carve a lake before Azuth won and imprisoned him.
-
 He is sober, but not humorless — a dry, deadpan wit delivered so flatly that even his own followers often can't tell if he's joking. When pleased, he gives small, strange gifts: odd delicacies, unusually colored flowers, elegant magical fabric. When he isn't pleased, his wrath is genuinely terrible.
 
 ## Worshipers
@@ -50,13 +48,17 @@ Two suborders divide on temperament rather than doctrine: one distrusts sorcerer
 
 ## Role in the Story
 
-Session 26 named Azuth only in passing, via [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] — one of two "lesser deities of magic" (with Savras) she recognized as present in the same temple complex as Mystra (not the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]], a separate location). Mystra gives magic freely enough that no priesthood is needed for her; Azuth and Savras both keep small, sparse clergies by comparison — Azuth's Magistrati (see Worshipers above) and Savras's own thin ranks — nothing like the scale of a major temple faith.
+Mystra gives magic freely enough that no priesthood is needed for her; Azuth and Savras both keep small, sparse clergies by comparison — Azuth's Magistrati (see Worshipers above) and Savras's own thin ranks — nothing like the scale of a major temple faith.
 
 ## Connections
 
 - **[[Mystra]]** — His patron, and — most tellings agree — more than that. He serves as her devoted adviser on magic's preservation and advancement.
-- **[[Savras]]** — Onetime rival and current subordinate; Azuth defeated and imprisoned him within the Scepter of Savras before granting him conditional freedom.
+- **[[Savras]]**—Onetime rival and current subordinate.
 - **Velsharoon** — Fellow servant of Azuth's, alongside Savras. No note yet — exists in Aenath but not a current priority to build out.
 - **Deneir**, **[[Oghma]]**, and **Leira** — Allies. Deneir and Leira have no notes yet; exist in Aenath but not a current priority to build out.
+
+## Session 26 Update (The Door Kickers)
+
+Session 26 named Azuth only in passing, via [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]]—one of two "lesser deities of magic" (with Savras) she recognized as present in the same temple complex as Mystra (not the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]], a separate location).
 
 

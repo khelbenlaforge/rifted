@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T00:00
-updated: 2026-09-26T23:10:00
+updated: 2026-09-29T00:12:37
 ---
 
 # Temple of Lathander
@@ -30,7 +30,7 @@ Status:: Prequel location—visited during the Avatar Crisis vision
 
 A temple in Shadowdale, unremarkable until the night it became the site of a battle between mortals, a fallen god, and a dying goddess's last fragment. Beneath its floor: the **Celestial Stairway**, invisible to most—a road out of Faerûn for gods who can find it.
 
-## Current Events
+## Session 15 Update (The Door Kickers)
 
 **Session 15's climax.** Retreating from an elite [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] force with something that was once a god among them, the party—inhabiting the bodies of [[The Exodus/00_My Notes/Pantheon/Torm|Torm]], Adon, and Midnight, with [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Cyric|Cyric]] and [[The Exodus/00_My Notes/Pantheon/Kelemvor|Kelemvor]] alongside—took shelter inside the Temple. [[Elminster]] was already there, and barred the doors. The Stairway, invisible until then, began glowing through the stone floor, and Midnight's pendant responded with warmth—something in it recognizing something in the Stairway.
 

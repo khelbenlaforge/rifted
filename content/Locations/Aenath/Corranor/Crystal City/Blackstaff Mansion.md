@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 created: 2026-07-13T00:00
-updated: 2026-09-26T19:27:32
+updated: 2026-09-29T20:18:03
 ---
 > [!infobox]
 > # Blackstaff Mansion
@@ -25,8 +25,16 @@ Controlled By:: Blackstaff branch
 ## Residents
 
 - **Lady Blackstaff**—a stern-faced woman in her thirties or forties, not the family head. The head of House Blackstaff sits on the Council of Seven and doesn't receive strangers on short notice.
-- An unnamed brother of the family's line, dark and close-cut bearded, who met the party alongside her.
+- An unnamed brother of the family's line, dark and close-cut bearded.
 
 ## Current Events
 
-The family's public reputation is one of scrupulous distance: too far above board, by Soral Vayne's own read, to ever need a fixer like Regius. The Blackstaffs are planning a trip to the Sunless Citadel with the Director of Antiquities, two days after the Feast of the Moon, following Lady Blackstaff's own reaction to Min Ji-ah's account of Corran Blackstaff's landing vision.
+The family's public reputation is one of scrupulous distance. The Blackstaffs are planning a trip to the Sunless Citadel with the Director of Antiquities.
+
+## Session 23 Update (The Door Kickers)
+
+- An unnamed brother of the family's line, dark and close-cut bearded, who met the party alongside her.
+
+The family's public reputation is one of scrupulous distance: too far above board, by Soral Vayne's own read, to ever need a fixer like Regius.
+
+The Blackstaffs are planning a trip to the Sunless Citadel with the Director of Antiquities, two days after the Feast of the Moon, following Lady Blackstaff's own reaction to Min Ji-ah's account of Corran Blackstaff's landing vision.

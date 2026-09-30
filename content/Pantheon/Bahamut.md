@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T16:28
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T20:23:55
 ---
 
 # Bahamut
@@ -37,8 +37,6 @@ Symbol:: Platinum dragon's profile
 
 Bahamut is the Platinum Dragon — god of good dragons, justice, and the protection of the innocent. Where [[Takhisis]] embodies the hunger of chromatic dragons, Bahamut is her mirror: order where she brings chaos, guardianship where she brings conquest. He's no gentle judge; his justice can match his opponent's fury for sheer force, though always *purposeful*. He destroys only what must be destroyed.
 
-In the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] beneath the [[Sunless Citadel]], Bahamut stands beside [[Takhisis]] with wings spread, facing outward. He stands *with* her rather than against her. Whatever conflict defines their theology elsewhere, in that carved stone they share a purpose: protection. The world behind them is worth defending, and they face outward together against whatever lies beyond it.
-
 In [[Aenath]], Bahamut's worship is quiet — more principle than ritual. Paladins of certain orders invoke his name when they swear to stand between the innocent and destruction. He does not demand temples. He demands *action*.
 
 ## Tenets
@@ -52,12 +50,17 @@ In [[Aenath]], Bahamut's worship is quiet — more principle than ritual. Paladi
 
 Paladins, dragon knights, and those who dedicate themselves to justice over law invoke Bahamut's name. He has few formal institutions in [[Corranor]], but his philosophy runs through the code of the [[Adamantine Guild]]'s most principled members.
 
-His conventional enmity with [[Takhisis]] means that followers of each rarely cooperate. That the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] shows them cooperating — that it implies they once *did* — is the kind of revelation that rewrites theology. The party has yet to understand what it means.
+His conventional enmity with [[Takhisis]] means that followers of each rarely cooperate.
 
 ## Connections
 
-- **[[Takhisis]]** — Eternal opposite in conventional theology. Depicted as co-protector in the Sanctum — wings spread, standing side by side.
-- **[[Mystra]]**, **[[Gond]]** — Depicted alongside them in the Sanctum statuary, part of a four-deity covenant of world-protection.
-- **[[Augustus Kennedy]]** — Paladin of [[Tyr]], whose domain of justice overlaps significantly with Bahamut's. The god of the platinum dragon may take an interest.
+- **[[Takhisis]]**—Eternal opposite in conventional theology.
+
+## Session 11 Update (The Door Kickers)
+
+In the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] beneath the [[Sunless Citadel]], Bahamut stands beside [[Takhisis]] with wings spread, facing outward. He stands *with* her rather than against her. Whatever conflict defines their theology elsewhere, in that carved stone they share a purpose: protection. The world behind them is worth defending, and they face outward together against whatever lies beyond it.
+
+- **[[Takhisis]]**—Depicted as co-protector in the Sanctum—wings spread, standing side by side.
+- **[[Mystra]]**, **[[Gond]]**—Depicted alongside them in the Sanctum statuary.
 
 

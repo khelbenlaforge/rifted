@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:36:22
 created: 2026-08-24T17:22:42
 ---
 
@@ -37,23 +37,17 @@ Mid-forties, built like someone who spent years hauling gear through tight, dark
 
 ## Personality
 
-An ex-culler who traded the tunnels for a desk and never fully made peace with the trade. Runs the Stormberg Wallwatch competently, mostly alone, because she trusts her own accounting over anyone else's. The Guild's fielded plenty of strange stories lately; a few more from these five doesn't rattle her. She recognizes [[Istar Silverlock]]'s name on sight — a peer she trusts by reputation, sight unseen. Arcane theory is a different matter. Average intelligence doesn't help there, and magic that can't be weighed or logged makes her visibly impatient. She'll change the subject rather than admit she's lost the thread.
+An ex-culler who traded the tunnels for a desk and never fully made peace with the trade. Runs the Stormberg Wallwatch competently, mostly alone, because she trusts her own accounting over anyone else's. She recognizes [[Istar Silverlock]]'s name on sight — a peer she trusts by reputation, sight unseen. Arcane theory is a different matter. Average intelligence doesn't help there, and magic that can't be weighed or logged makes her visibly impatient. She'll change the subject rather than admit she's lost the thread.
 
-The desk was never the whole trade for her, and Session 6 confirmed why she keeps it anyway. She hadn't drawn a blade in six years, not since she was supposed to have retired from that part of the work entirely, until the party's Guild evaluation put a greatsword back in her hand. Watching recruits cycle through the branch is its own kind of culling duty, just slower, and every so often one of them doesn't come back from the field. She's stopped pretending that doesn't cost her anything. When she told the party *I do not want to lose any more kids*, she meant it plainly: staying behind the desk, tallying names in a ledger instead of losing them out in the world, is the whole reason she took the job in the first place.
+Watching recruits cycle through the branch is its own kind of culling duty, just slower, and every so often one of them doesn't come back from the field. She's stopped pretending that doesn't cost her anything.
 
 ## Background
 
 Stormberg's Adamantine Guild Wallwatch Branch Leader, night desk usually covered alone. A former culler herself before the desk, which is where the missing fingers and the administrator's instincts both come from — she ran manifests and headcounts on cull teams long before she ran the branch office, partnered for a stretch on those same teams with **[[Yenna Marrow]]**, back before either of them traded that work for something steadier.
 
-## Role in the Story
-
-First point of contact for The Understudies on arrival in [[Stormberg]] (Session 4, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA). Confirmed their brass Guild bracers as real rank, then fed and housed them in the branch's pocket-dimension dormitory. What she told them went past simple induction: [[Corranor]], Stormberg's own situation, and the fact that they weren't the first Rifted she'd had to explain any of it to. The [[Ether Scryer's Academy]]'s finding came up in the same breath — that Rifted arrivals carry only "half a soul," one that grows toward whole the longer they remain in Aenath.
-
 ## Relationships
 
-- **[[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]], [[Esca]]** — inducted the five into the Guild's Stormberg branch, Session 4
 - **[[Istar Silverlock]]** — recognizes the name; a peer she's never met in person, Assistant Guildmaster of the same understaffed Guild
-- **[[Kili]]** — the one PC she's let past the branch-leader voice entirely; Session 7's downtime turned into an evening of real history on both sides, and an offer that had nothing to do with the Guild
 - **[[Adamantine Guild]]** — runs its Stormberg branch competently, mostly alone
 
 ## D&D 5e Stat Block
@@ -133,6 +127,9 @@ Athletics +10 · Insight +4
 - Passed on the [[Ether Scryer's Academy]]'s finding that the Rifted carry only "half a soul," which grows toward whole the longer they remain in Aenath — news that reached Stormberg from Crystal City.
 - Walked the five to their quarters: a Guild pocket-dimension with five private rooms and a common room that fills with whatever food or drink is asked of it.
 
+The Guild's fielded plenty of strange stories lately; a few more from these five doesn't rattle her.
+- First point of contact for The Understudies on arrival in [[Stormberg]] (Session 4, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA). Confirmed their brass Guild bracers as real rank, then fed and housed them in the branch's pocket-dimension dormitory. What she told them went past simple induction: [[Corranor]], Stormberg's own situation, and the fact that they weren't the first Rifted she'd had to explain any of it to. The [[Ether Scryer's Academy]]'s finding came up in the same breath—that Rifted arrivals carry only "half a soul," one that grows toward whole the longer they remain in Aenath. Inducted the five ([[Kili]], [[Keith Poe]], [[Roberto]], [[Samson Flint]], [[Esca]]) into the Guild's Stormberg branch.
+
 ## Session 5 Update (The Understudies)
 
 - Relayed a sending-stone report from Crystal City, but struggled to recall exact details; this was Rhona's own secondhand, unreliable account, not confirmed history: some Rifted had been attacked by the Cult of [[Shar]], and the First Gravelord had apparently been "kidnapped and almost sacrificed on the altar to Shar."
@@ -147,12 +144,17 @@ Athletics +10 · Insight +4
 - 1 Nightal, Year 222 PA: noticed (independently corroborated by [[Luks Borg]] in Crystal City) that every one of the party's growth items is bonded to its owner's soul; agreed to keep this quiet for the party's protection.
 - 1 Nightal, Year 222 PA: explained downtime rules to the party (10-day block, 3 tracks — Relationships/Work/Investigation — DC5 to DC10 to DC15, optional DC20 fourth track) and world lore: Corranor's sea gates open only on landfall; white dragons hold the Arctic north; a southern continent is confirmed, under expedition from Crystal City; teleportation still shouldn't work in this world at all.
 
+The desk was never the whole trade for her, and Session 6 confirmed why she keeps it anyway. She hadn't drawn a blade in six years, not since she was supposed to have retired from that part of the work entirely, until the party's Guild evaluation put a greatsword back in her hand.
+
+When she told the party *I do not want to lose any more kids*, she meant it plainly: staying behind the desk, tallying names in a ledger instead of losing them out in the world, is the whole reason she took the job in the first place.
+
 ## Session 7 Update (The Understudies)
 
 - Escorted [[Roberto]] to mediate the Wall-labor dispute at the docks and explained that the Guild's downtime rules were already in play: a 10-day block with tracks.
 - During the speakeasy scene, relayed and confirmed the [[Adamantine Guild]]'s founding tenets to [[Kili]] and Roberto: [[The Exodus/00_My Notes/Pantheon/Oghma|Oghma]]'s scroll is knowledge, [[The Exodus/00_My Notes/Pantheon/Helm|Helm]]'s fist is protection, and [[The Exodus/00_My Notes/Pantheon/Waukeen|Waukeen]]'s coin is commerce—"elevating society," not making money. Named their author as guildmaster Erkaniel Timbers ("[[Erky]]"), based in [[Crystal City]].
 - During the same speakeasy scene, named her family for the first time to anyone in the party: one child on the Wall crew, another at the [[Ether Scryer's Academy]] in [[Crystal City]], and a husband lost to Adamantine Guild work on the Wall. Both chose the work themselves, by her account, which is the part she's proudest of.
 - Followed it with an offer that had nothing to do with rank or duty: she'd teach Kili to fight, on her own time, because she meant what she told the table back in Session 6 about not losing any more of her kids.
+- **[[Kili]]**—the one PC she's let past the branch-leader voice entirely; Session 7's downtime turned into an evening of real history on both sides, and an offer that had nothing to do with the Guild
 
 ## Session 08 Update (The Understudies)
 

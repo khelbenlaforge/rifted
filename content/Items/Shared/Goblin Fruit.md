@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:29
-updated: 2026-09-25T23:40:24
+updated: 2026-09-30T17:52:00
 ---
 
 # Goblin Fruit
@@ -29,24 +29,23 @@ Found At:: [[Sunless Citadel]], Grove Level
 
 A vibrant red fruit that remains impossibly fresh long after being picked, its skin carrying an oddly blood-like sheen. When bitten, the flesh reportedly heals any ailment — a claim that has drawn intense interest from the inhabitants of [[Sunhold]].
 
-## Properties
+## Session 7 Update (The Door Kickers)
 
-When [[Ember]] examined a half-eaten specimen, she sensed its unsettling blood-like quality. [[Min Ji-ah]]'s Detect Magic revealed a dual signature of **necromantic** and **divine/draconic** energies — a deeply troubling combination for a fruit marketed as a simple healer.
+- [[Keldara Hucrele]] presented a half-eaten fruit at the [[Hucrele Pavilion]]. [[Ember]] sensed its unsettling blood-like quality; [[Min Ji-ah]]'s Detect Magic revealed a dual signature of necromantic and divine/draconic energies.
+- The [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] had introduced the fruit to [[Sunhold]] and used it to entice a delegation south: [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]] and [[Karakas]] followed them past the marshes.
 
-**The fruit heals.** Eating it while alive suppresses whatever lies within. The seeds enter the body with the flesh and *wait*.
+## Session 10 Update (The Door Kickers)
 
-**The seeds wake when the host dies.** The body becomes substrate — roots, tendrils, and shoots thread through organs and muscle and begin to grow. What grows, given time, resembles a twig blight. This was confirmed via examination of a dissected giant rat in [[Durnn]]'s Research Lab (Session 12): plant matter was found threaded throughout the carcass after the rat was fed the fruit, killed, and opened.
+- The fruit traced back to [[Belak]], who sent it up to [[Durnn]], who distributed it to communities aboveground.
 
-[[Durnn]] was aware enough of the danger to forbid his goblin researchers from eating the fruit, though his researchers continued their experiments regardless.
+## Session 12 Update (The Door Kickers)
 
-## Supply Chain
+- In [[Durnn's Research Lab]], a dissected giant rat fed the fruit had plant matter threaded through the carcass. The seeds enter the body with the flesh and wait; they wake when the host dies, and what grows resembles a twig blight.
+- Belak's plant minions delivered the fruit to Durnn's goblins, who sent merchant teams above ground. Belak asked only that it be spread widely and that communities be enticed south. Durnn forbade his researchers to eat it.
+- Every community that bought the fruit is seeded.
 
-The fruit is grown by the [[Gulthias Tree]] itself, not by [[Belak]] — he tended the tree and delivered its fruit via plant minions to [[Durnn]]'s goblins on the Grove Level of the [[Sunless Citadel]]. Durnn distributed it to aboveground communities through goblin merchant teams. Belak demanded nothing in return — only that the fruit be spread as widely as possible, and that communities be enticed to travel south toward the citadel. **Distribution is now halted** — Belak's bond to the tree severed and the tree went dormant when he escaped (Session 18); Durnn's goblin distribution network within the Sunless Citadel is no longer operating.
+## Session 18 Update (The Door Kickers)
 
-## Significance
-
-The [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] introduced the fruit to [[Sunhold]], using it to entice a delegation southward. [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] followed the merchants past the marshes and never returned. [[Keldara Hucrele]] presented the half-eaten fruit at the [[Hucrele Pavilion]] as evidence.
-
-Every community that bought fruit from the goblin merchants before distribution halted is seeded — a potential grove of twig blights waiting for its hosts to die.
+- Belak's bond to the tree severed and the tree went dormant when he escaped. Distribution is halted.
 
 

@@ -1,15 +1,15 @@
 ---
 title: Ordahir Kobolds
 aliases:
-  - Ordahir Colony
-  - Ordahir Kobold Colony
+- Ordahir Colony
+- Ordahir Kobold Colony
 tags:
-  - faction
+- faction
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T15:42
-updated: 2026-03-19T03:57
+updated: 2026-09-29T00:12:23
 ---
 
 # Ordahir Kobolds
@@ -38,10 +38,18 @@ The Ordahir Kobolds are a colony occupying the southern and eastern sections of 
 
 ## Operations
 
-The Ordahir Kobolds hold the southern and eastern sections of the [[Sunless Citadel]]'s Upper Level. [[Calcryx]] has been freed — her chain weakened by the party — and she now roams freely, which presents a growing danger to the colony. The colony does not have access to [[Belak]]'s magic fruit supply, a deal the [[Durbuluk Goblins]] hold exclusively.
+The Ordahir Kobolds hold the southern and eastern sections of the [[Sunless Citadel]]'s Upper Level. The colony does not have access to [[Belak]]'s magic fruit supply, a deal the [[Durbuluk Goblins]] hold exclusively.
 
 ## Current Status
 
-**Post-coup consolidation.** [[Ragh]]'s uprising succeeded. [[Yusdrayl]] is dead. The party played a role in the coup's outcome and has Ragh's tacit respect. [[Calcryx]] is free and increasingly dangerous — she was bored of the Throne Room before she escaped, and is likely expanding her territory. The faction's relationship with the party is cautiously neutral.
+**Post-coup consolidation.** [[Ragh]]'s uprising succeeded. [[Yusdrayl]] is dead. [[Calcryx]] is free and increasingly dangerous — she was bored of the Throne Room before she escaped, and is likely expanding her territory.
+
+## Session 9 Update (The Door Kickers)
+
+[[Calcryx]] has been freed—her chain weakened by the party—and she now roams freely, which presents a growing danger to the colony.
+
+## Session 10 Update (The Door Kickers)
+
+The party played a role in the coup's outcome and has Ragh's tacit respect. The faction's relationship with the party is cautiously neutral.
 
 

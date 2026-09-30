@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
-updated: 2026-08-28T14:52:43
+updated: 2026-09-28T19:34:32
 created: 2026-05-26T00:00
 ---
 
@@ -60,13 +60,13 @@ Region:: [[Garnet District]]
 Controlled By:: [[The Claret]]
 Status:: active
 
-## Session 22
+## Session 22 Update (The Door Kickers)
 
 The party finalized their approach. [[Jonathan Jordan]], [[Shen]], and [[Regius]] will enter as sellers. Password: "I have four litres of blood to sell."
 
 [[Nanuk]] will serve as outside lookout on a nearby rooftop; [[Inukshuk]] is cavalry within eyeline. Physical intel: one known entrance, shuttered wooden windows all day, bruisers inside. A blood-supply deal will draw a mid-level [[The Claret|Claret]] contact down to the table.
 
-## Session 24
+## Session 24 Update (The Door Kickers)
 
 - [[Sadiah Ispahani]] (disguised) and [[Nanuk]] (*disguise self* plus stealth) scouted the tavern by day, with [[Regius]] and [[Gill Bates]] holding back two streets as backup.
 - They found a hidden pocket-dimension vault behind a side window (same magical signature as the [[Adamantine Guild]]'s own door), a second window trapped with a needle-firing device (disarmed via thieves' tools), and an unexplained corridor/awning jutting from the tavern into the city wall itself.

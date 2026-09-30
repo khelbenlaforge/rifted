@@ -1,15 +1,15 @@
 ---
 title: High Lorekeeper Miriam Brightquill
 aliases:
-  - Miriam Brightquill
+- Miriam Brightquill
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:17:23
 ---
 
 # High Lorekeeper Miriam Brightquill
@@ -31,15 +31,12 @@ An esteemed scholar perpetually surrounded by scrolls and tomes, Miriam carries 
 
 ## Background
 
-Miriam serves as High Lorekeeper at [[Oghma]]'s Temple, the Endless Library, where she employs magical detection and careful questioning to identify the divine callings of individuals. When the five newcomers arrived in [[Corranor]], Miriam was instrumental in determining each person's path and matching them with appropriate mentors.
-
-Her assessments placed [[Min Ji-ah]] under the tutelage of [[Elmindaria L'Thorian]] at the [[Ether Scryer's Academy]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]] at the [[Tidecaller's Sanctuary]], and guided [[Augustus Kennedy]] in his alignment with the gods of justice. Her recommendations proved remarkably accurate, earning the trust of both the newcomers and the [[Adamantine Guild]].
+Miriam serves as High Lorekeeper at [[Oghma]]'s Temple, the Endless Library, where she employs magical detection and careful questioning to identify the divine callings of individuals.
 
 ## Relationships
 
-- **[[Adamantine Guild]]** — Respected authority and advisor
-- **[[Oghma]]** — Serves as High Lorekeeper at his temple
-- **[[Min Ji-ah]]**, **[[Gill Bates]]**, **[[Augustus Kennedy]]** — Identified their divine callings and assigned mentors
+- **[[Adamantine Guild]]**—Respected authority and advisor
+- **[[Oghma]]**—Serves as High Lorekeeper at his temple
 
 ---
 ## Tags
@@ -50,5 +47,13 @@ Pronouns::
 Class:: Scholar
 Affiliation:: [[Oghma's Temple — the Endless Library]]
 Deity:: [[Oghma]]
+
+## Session 1 Update (The Door Kickers)
+
+When the five newcomers arrived in [[Corranor]], Miriam was instrumental in determining each person's path and matching them with appropriate mentors.
+
+Her assessments placed [[Min Ji-ah]] under the tutelage of [[Elmindaria L'Thorian]] at the [[Ether Scryer's Academy]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]] at the [[Tidecaller's Sanctuary]]. Her recommendations proved remarkably accurate, earning the trust of both the newcomers and the [[Adamantine Guild]].
+
+- **[[Min Ji-ah]]**, **[[Gill Bates]]**, **[[Augustus Kennedy]]**—Identified their divine callings and assigned mentors
 
 

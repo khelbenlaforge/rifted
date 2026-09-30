@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T17:48:02
 created: 2026-08-02T13:59
 ---
 
@@ -46,6 +46,8 @@ She is depicted as a woman of breathtaking appearance with cascading red-gold ha
 
 Sune's faithful include artists, healers, lovers, and those drawn to the transformative power of devotion. Her clerics are expected to embody grace under pressure: beauty that endures rather than beauty that breaks.
 
-**[[Adon]]** is her cleric, accompanying the party through the prequel vision. His faith will be tested by what he witnesses during the Avatar Crisis — Sune's apparent silence in the face of divine catastrophe is a wound that has not yet fully opened.
+## Session 13 Update (The Door Kickers)
+
+**[[Adon]]** is her cleric, accompanying the party through the prequel vision.
 
 

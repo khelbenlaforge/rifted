@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:12:14
 ---
 
 # Knights of the Eternal Order
@@ -33,9 +33,6 @@ The name is a statement of scope: *eternal* because death does not end, and *ord
 
 The order's internal hierarchy is not publicly displayed. Rank is visible in the trim of the vestment and the number of seals on the sword harness; names are known to those who need to know them.
 
-- **[[Augustus Kennedy]]** — Joining as an initiate. A paladin of [[Kelemvor Lyonsbane|Kelemvor]] by divine signature — the [[Kelemvor's Brand|Brand]] made the affiliation clear before the Knights were consulted about it. He will hold his law enforcement post with [[Hall of Justice - Temple of Tyr|Tyr's judiciary]] concurrently; the temple has noted this and appears unconcerned.
-- [[Ser Tamsin Rook]]—the Knight compromised during the [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] infiltration (Session 27)
-
 ## Operations
 
 The Knights maintain a constant watch rotation at the Threshold Gates. When the Gates are open, they run active assessments of incoming transit — unauthorized arrivals are intercepted immediately, their connection to the appropriate destination determined, and the matter resolved. The resolution is rarely complicated. The Knights have very good instincts for where things belong.
@@ -47,8 +44,6 @@ Beyond the gates, the Knights handle incidents of unauthorized extraplanar trans
 Operating at full capacity within the [[Temple of Kelemvor]]. The Gates have been active more frequently over recent months — the increase in [[Shadow Creatures]] activity and the general instability of planar transit have kept the watch rotation heavy.
 
 [[Garm]]'s assessment that the Shadow Creatures are extraplanar but not from any recognized plane has reached the Knights through temple channels. They have not confirmed or denied an operational response.
-
-[[Augustus Kennedy]] is joining the order. His background in law enforcement maps cleanly onto the Knights' cross-planar policing function. They are not in the habit of turning away paladins whose Brand is already doing the work.
 
 ## Membership
 
@@ -79,5 +74,15 @@ Operating at full capacity within the [[Temple of Kelemvor]]. The Gates have bee
 
 Leader:: Unknown
 Headquarters:: [[Temple of Kelemvor]]
+
+## Session 20 Update (The Door Kickers)
+
+- **[[Augustus Kennedy]]**—Joining as an initiate. A paladin of [[Kelemvor Lyonsbane|Kelemvor]] by divine signature—the [[Kelemvor's Brand|Brand]] made the affiliation clear before the Knights were consulted about it. He will hold his law enforcement post with [[Hall of Justice - Temple of Tyr|Tyr's judiciary]] concurrently; the temple has noted this and appears unconcerned.
+
+[[Augustus Kennedy]] is joining the order. His background in law enforcement maps cleanly onto the Knights' cross-planar policing function. They are not in the habit of turning away paladins whose Brand is already doing the work.
+
+## Session 27 Update (The Door Kickers)
+
+- [[Ser Tamsin Rook]]—the Knight compromised during the [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] infiltration (Session 27)
 
 

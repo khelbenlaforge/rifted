@@ -1,14 +1,14 @@
 ---
 title: Grip
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-19T03:57
-updated: 2026-03-19T03:57
+updated: 2026-09-29T00:12:54
 ---
 
 # Grip
@@ -32,11 +32,7 @@ Steady. Where his companion fell in the Grove Level ambush, Grip held. Not feral
 
 ## Background
 
-One of two giant rats kept by [[Balsag]] as hunting companions. When plant creatures ambushed Balsag on the Grove Level, the other rat was killed. Grip survived. When the party intervened and Balsag joined them, Grip came with him — no negotiation required.
-
-## Role in the Story
-
-Fought alongside the party in the Lab Battle (Session 12) against a [[Blightsnake]] and twig blight swarm in [[Durnn's Research Lab]]. Currently resting there with the rest of the company.
+One of two giant rats kept by [[Balsag]] as hunting companions. When plant creatures ambushed Balsag on the Grove Level, the other rat was killed. Grip survived.
 
 ---
 Race:: Giant Rat
@@ -46,5 +42,13 @@ Class::
 Location:: [[Sunless Citadel]]
 Affiliation:: [[Balsag]]
 Deity::
+
+## Session 10 Update (The Door Kickers)
+
+When the party intervened and Balsag joined them, Grip came with him—no negotiation required.
+
+## Session 12 Update (The Door Kickers)
+
+Fought alongside the party in the Lab Battle (Session 12) against a [[Blightsnake]] and twig blight swarm in [[Durnn's Research Lab]]. Currently resting there with the rest of the company.
 
 

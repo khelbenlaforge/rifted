@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-17
 secret: false
 created: 2026-09-18T14:00:00
-updated: 2026-09-18T13:14:07
+updated: 2026-09-29T00:13:06
 ---
 
 # Young Dragon Lair Effects
@@ -33,8 +33,8 @@ This rule lets a sub-legendary dragon (CR 6–9, below the Adult lair threshold)
 Each step adds a fixed quarter of the distance between the starting scale (her own breath-weapon range—a single room or chamber) and the CR-ratio cap: (2,430 − 30) ÷ 4 ≈ 600 ft per completed block.
 
 **Effects, at any stage:**
-- **Reinforcing (non-damaging):** within the current radius, ice and frost knit into gaps and cracks in the terrain she occupies—structural, not harmful. This is the actual mechanism behind her Session 8 deal with [[The Understudies]]: her presence quietly reinforcing the Wall's structure.
-- **Cold hazard (Ambient Effect, per [[Environment Actions]]):** within the current radius, a creature other than the dragon or her allies who remains a full hour must succeed on a DC 10 Constitution save (the real Extreme Cold hazard's own DC, XDMG p.68—not an invented fraction) or gain 1 level of Exhaustion. This already happened once at the table before the growth curve was ever formalized (see First Used).
+- **Reinforcing (non-damaging):** within the current radius, ice and frost knit into gaps and cracks in the terrain she occupies—structural, not harmful.
+- **Cold hazard (Ambient Effect, per [[Environment Actions]]):** within the current radius, a creature other than the dragon or her allies who remains a full hour must succeed on a DC 10 Constitution save (the real Extreme Cold hazard's own DC, XDMG p.68—not an invented fraction) or gain 1 level of Exhaustion.
 - **At Stage 4 only:** add the lesser Glacial Gloom component too—chilly fog lightly obscures the current (much smaller) radius, DC 15 Constitution save after a Long Rest taken inside it or Speed −10 ft for 1 hour. Never the Adult's full-mile version.
 
 If the dragon dies or leaves the area, every effect ends immediately—mirroring the official regional-effects closing line for a true lair.
@@ -49,6 +49,10 @@ Track residence as a running downtime-block count for that location; look up the
 
 > *What does the slow cold at the edge of the room do to the people who've decided to live near it anyway?*
 
-## First Used
+## Session 8 Update (The Understudies)
+
+This is the actual mechanism behind her Session 8 deal with [[The Understudies]]: her presence quietly reinforcing the Wall's structure.
+
+This already happened once at the table before the growth curve was ever formalized (see First Used).
 
 [[Calcryx]], Session 8 (The Understudies)—a fresh Wall breach in [[Stormberg]], negotiated as a deal rather than fought. An involuntary cold sigh during that first encounter cost the party a shared level of Exhaustion, which this rule now formalizes as Stage 0's cold hazard rather than a one-off breath effect.

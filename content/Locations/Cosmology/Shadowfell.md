@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-06-25
 secret: false
 created: 2026-09-26T15:13:43
-updated: 2026-09-26T19:24:46
+updated: 2026-09-29T17:48:00
 ---
 
 # Shadowfell
@@ -23,6 +23,10 @@ updated: 2026-09-26T19:24:46
 
 ## Description
 
-One of Aenath's echo planes, alongside the Feywild, sitting inside the astral barrier. [[Veyris Thantorn]]'s cosmology lesson to [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] names both as echoes of the material world, part of the same lesson that placed the astral barrier as currently stuck in place.
+One of Aenath's echo planes, alongside the Feywild, sitting inside the astral barrier.
+
+## Session 21 Update (The Door Kickers)
+
+[[Veyris Thantorn]]'s cosmology lesson to [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] names both as echoes of the material world, part of the same lesson that placed the astral barrier as currently stuck in place.
 
 

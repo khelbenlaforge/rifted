@@ -1,14 +1,14 @@
 ---
 title: Grenl
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T00:12:46
 ---
 
 # Grenl
@@ -49,13 +49,19 @@ She is not warm. She is careful. The distinction matters.
 
 Grenl was one of several Durbuluk elders when [[Durnn]] rose to power by killing his predecessors. She alone survived — by not opposing him. She is now the only surviving elder, keeping what stability the colony has through quiet competence and strategic silence.
 
-When the party arrived claiming alliance with [[Ragh]] and [[Durnn]] and presented letters as evidence, she admitted them — not because she fully believed them, but because escalation served no purpose she could identify. She led them to [[Calcryx]]'s cell.
-
 ## Role in the Story
 
 - Sole surviving elder of the [[Durbuluk Goblins]] — all others killed by [[Durnn]]
-- Admitted the party to goblin territory under the ruse of their alliance with [[Durnn]]
 - Potential informant or ally if trust is established — she disapproves of Durnn's war, and she's been waiting for a reason to act on that disapproval for a long time
+
+## Session 9 Update (The Door Kickers)
+
+When the party arrived claiming alliance with [[Ragh]] and [[Durnn]] and presented letters as evidence, she admitted them—not because she fully believed them, but because escalation served no purpose she could identify. She led them to [[Calcryx]]'s cell.
+
+- Admitted the party to goblin territory under the ruse of their alliance with [[Durnn]]
+
+## Session 10 Update (The Door Kickers)
+
 - **Session 10:** Released [[Erky]] and [[Little Sister]] from their cages at the party's request; provided information during Durnn's victory revel while [[Min Ji-ah]], [[Gill Bates]], and [[Ember]] spoke with her; was indifferent to the party's descent into the well
 
 

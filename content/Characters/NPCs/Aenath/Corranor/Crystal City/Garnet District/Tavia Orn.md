@@ -8,7 +8,7 @@ introduced: 2026-05-26
 secret: false
 state: alive
 created: 2026-05-26T17:01
-updated: 2026-09-26T18:44:41
+updated: 2026-09-29T00:13:17
 ---
 
 > [!infobox|right wikipedia]+
@@ -26,7 +26,7 @@ Broad-shouldered and compact, with close-cropped dark hair and the kind of still
 
 ## Personality
 
-Not hostile, not warm. Efficient. She has heard every pitch and watched every approach, and she made her assessment of the party in the first thirty seconds without letting it show. She is dry to the point of appearing bored, but she misses nothing. She values practicality above all else and has a particular contempt for people who dress their self-interest up as something noble.
+Not hostile, not warm. Efficient. She is dry to the point of appearing bored, but she misses nothing. She values practicality above all else and has a particular contempt for people who dress their self-interest up as something noble.
 
 Her code is simple: she does not lie to people she's doing business with, she does not take contracts that hurt people in the Garnet who can't afford to lose, and she does not miss a collection. Not one.
 
@@ -36,21 +36,21 @@ Tavia Orn grew up in the [[Garnet District]] and has never lived anywhere else. 
 
 She's been running collections for eleven years, and the territory has grown well past what her rank would suggest — a wide stretch straddling the [[Garnet District]]/[[Citrine District]] line, anchored on [[The Low Flagon]] itself, which sits right on that border. Every shopkeeper, barkeep, dockhand, and landlord in it knows her schedule. Most of them consider her more reliable than the city watch. Corvin gave her that reach precisely because the seam between two districts is exactly the kind of post you don't hand to someone who might get ambitious with it — and she never has.
 
-## Role in the Story
-
-Tavia is the party's point of entry into [[The Claret]] — not a friendly, a business transaction. She represents an organization with its own interests, and those interests only align with the party's as long as the arrangement is profitable and clean. She deals straight and expects the same. She does not yet know about the information buy on the [[Jade Spire]] newcomers — but she is several rungs closer to that information than the party is.
-
 ---
 Race:: Half-Orc
 Pronouns:: she/her
 Location:: [[The Low Flagon]], [[Garnet District]]/[[Citrine District]] border
 Affiliation:: [[The Claret]]
 
-## Session 19
+## Session 19 Update (The Door Kickers)
 
 [[Jonathan Jordan]] met Tavia at [[The Low Flagon]] during Session 19 downtime, and she confirmed that [[Layla]] is still in the city. He paid 10 gp for intelligence that Layla was buying illegal spell components in the [[Garnet District]] and is a valued Claret client. He paid another 25 gp to arrange a meeting with Tavia's boss; someone from [[The Claret]] will contact him in the coming weeks.
 
-## Session 24
+She has heard every pitch and watched every approach, and she made her assessment of the party in the first thirty seconds without letting it show.
+
+Tavia is the party's point of entry into [[The Claret]]—not a friendly, a business transaction. She represents an organization with its own interests, and those interests only align with the party's as long as the arrangement is profitable and clean. She deals straight and expects the same.
+
+## Session 24 Update (The Door Kickers)
 
 - Accepted two vials of planar-touched blood (from [[Terra]] and [[Regius]]) plus rare reagents talked out of an [[Alchemist's Guild]] contact (via [[Shen]]) as a gift/leverage package from the party.
 - Agreed the blood vials were the real prize, not the reagents.
@@ -62,7 +62,7 @@ Affiliation:: [[The Claret]]
 
 - Confirmed she had tipped Corvin off in advance that the party might be paying him a visit.
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - Sold the party three vials of poison at 100gp each, plus antitoxin and holy water at standard Claret rates.
 - Warmer with [[Regius]] than her usual business face—a flirtation landed. Gave him an obsidian stud as a Claret recognition mark for [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]] and told him anyone there would know what it meant and point him toward the rest. Asked him to find her when he's back; she'll buy the meal this time.

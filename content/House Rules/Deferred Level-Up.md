@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-03-16
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-09-25T11:31:41
+updated: 2026-09-29T00:12:52
 ---
 
 # Deferred Level-Up
@@ -30,11 +30,11 @@ When the DM announces that the party can level up, they do **not** all level up 
 
 It treats leveling up as a **narrative moment** — an awakening of potential — rather than a bookkeeping event between sessions. It gives players agency over when their characters reach into their reserves. It can be dramatically satisfying: a character on the edge of death claiming their third level as they find something to fight for.
 
-## First Used
-
-Session 12 — party granted access to Level 3 via this mechanic. Most leveled up before the long rest.
-
 ## Amendment (The AUGs, Session 3)
 
 The DM added a further layer at the table, explicitly borrowed from Critical Role Season 4: a character reduced to 0 HP who then claims their pending level-up pops back up on the new level's rolled HP, rather than staying down. This is a genuine change from the base rule's "does not heal" line above, confirmed live (2026-09-23, granted alongside Level 4 eligibility). Scope unconfirmed—recorded here as what the AUGs table now runs; check with the DM before assuming it applies to any other party's table.
+
+## Session 12 Update (The Door Kickers)
+
+Session 12—party granted access to Level 3 via this mechanic. Most leveled up before the long rest.
 

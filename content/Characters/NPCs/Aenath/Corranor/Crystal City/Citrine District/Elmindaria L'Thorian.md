@@ -11,7 +11,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:17:14
 ---
 
 # Elmindaria L'Thorian
@@ -33,21 +33,13 @@ Silver-white hair intricately braided, violet eyes that seem to perceive the tru
 ## Background
 With over seven hundred years of life behind her, Elmindaria is one of the most experienced members of the [[Adamantine Guild]] and a senior instructor at the [[Ether Scryer's Academy]]. She possesses keen magical senses and specialises in arcane studies, magical due diligence, and deception protocols -- the kind of quiet, essential work that keeps an organisation alive.
 
-When the party arrived at the [[Adamantine Guild]] after their transit from Earth, it was Elmindaria who performed essence scans on each of them, determining that they were each missing roughly half of their essence -- though it was slowly regenerating. She identified [[Augustus Kennedy]] and [[Gill Bates]] as radiating divine power, [[Ember]] as possessing druidic energy, [[Min Ji-ah]] as having arcane potential, and [[Jonathan Jordan]] as exhibiting heightened roguish abilities. She also shared the history of [[Corranor]] and [[Corran's Spike]] with the newcomers, providing crucial context for their visions.
+She is also known for a playful streak. She maintains a sprawling network of "nieces and nephews" among guild rookies and town orphans, watching over them with quiet devotion.
 
-[[High Lorekeeper Miriam Brightquill]] assigned [[Min Ji-ah]] to study under Elmindaria at the [[Ether Scryer's Academy]], where she taught the young wizard the foundational truths of the craft -- the distinction between wizards, sorcerers, and druids; the importance of disciplined study; the vulnerabilities of a spellbook; and the ethical dangers of unchecked ambition.
-
-She is also known for a playful streak. She cast Invisibility on [[Jonathan Jordan]] as a prank, and when the party conspired to steal a gold coin from her as part of Jonathan's test, she allowed the heist to unfold with evident amusement before acknowledging their cleverness. She maintains a sprawling network of "nieces and nephews" among guild rookies and town orphans, watching over them with quiet devotion.
-
-With the [[Adamantine Guild]] severely understaffed -- only herself, [[Istar Silverlock]], and [[Luks Borg|Luks]] remaining to manage its affairs -- Elmindaria bears a heavy burden. When the party departed for [[Sunhold]], she remained in [[Crystal City]] alongside [[Istar Silverlock|Istar]] and [[Jonathan Jordan]], coordinating guild operations.
+With the [[Adamantine Guild]] severely understaffed -- only herself, [[Istar Silverlock]], and [[Luks Borg|Luks]] remaining to manage its affairs -- Elmindaria bears a heavy burden.
 
 ## Relationships
-- Mentor to [[Min Ji-ah]] at the [[Ether Scryer's Academy]]
 - Colleague of [[Istar Silverlock]] and [[Luks Borg|Luks]] at the [[Adamantine Guild]]
-- Performed essence scans on the party upon their arrival
-- Assigned by [[High Lorekeeper Miriam Brightquill]] as [[Min Ji-ah]]'s instructor
 - Maintains a network of "nieces and nephews" among orphans and guild rookies
-- Target of the party's gold coin heist prank -- which she took in good humour
 
 ## Tags
 Location:: [[Citrine District]], [[Crystal City]]
@@ -58,6 +50,21 @@ Alignment:: Unknown
 Class:: Wizard
 Affiliation:: [[Adamantine Guild]], [[Ether Scryer's Academy]]
 Deity:: Unknown
+
+## Session 1 Update (The Door Kickers)
+
+When the party arrived at the [[Adamantine Guild]] after their transit from Earth, it was Elmindaria who performed essence scans on each of them, determining that they were each missing roughly half of their essence -- though it was slowly regenerating. She identified [[Augustus Kennedy]] and [[Gill Bates]] as radiating divine power, [[Ember]] as possessing druidic energy, [[Min Ji-ah]] as having arcane potential, and [[Jonathan Jordan]] as exhibiting heightened roguish abilities. She also shared the history of [[Corranor]] and [[Corran's Spike]] with the newcomers, providing crucial context for their visions.
+
+[[High Lorekeeper Miriam Brightquill]] assigned [[Min Ji-ah]] to study under Elmindaria at the [[Ether Scryer's Academy]], where she taught the young wizard the foundational truths of the craft -- the distinction between wizards, sorcerers, and druids; the importance of disciplined study; the vulnerabilities of a spellbook; and the ethical dangers of unchecked ambition.
+
+She cast Invisibility on [[Jonathan Jordan]] as a prank, and when the party conspired to steal a gold coin from her as part of Jonathan's test, she allowed the heist to unfold with evident amusement before acknowledging their cleverness.
+
+When the party departed for [[Sunhold]], she remained in [[Crystal City]] alongside [[Istar Silverlock|Istar]] and [[Jonathan Jordan]], coordinating guild operations.
+
+- Mentor to [[Min Ji-ah]] at the [[Ether Scryer's Academy]]
+- Performed essence scans on the party upon their arrival
+- Assigned by [[High Lorekeeper Miriam Brightquill]] as [[Min Ji-ah]]'s instructor
+- Target of the party's gold coin heist prank -- which she took in good humour
 
 ## Character Sheet
 
@@ -192,21 +199,21 @@ Acrobatics +4 · Arcana +7 · History +7 · Insight +4 · Investigation +10★ �
 **Gear:** Backpack, Book, Ink, Ink Pen, Lamp, Oil ×10, Parchment ×10, Tinderbox, Gaming Set, Fine Clothes, Perfume, Spellbook
 
 ---
-## Session 19
+## Session 19 Update (The Door Kickers)
 
 Elmindaria asked [[Erky]] to cast Banishment on [[Shen]]'s patron. The spell produced a brief blue light and then failed completely: the patron was too powerful and was not supposed to exist in this universe. She is now apprehensive about Shen going forward.
 
-## Session 21
+## Session 21 Update (The Door Kickers)
 
 Present at the guild's arena testing alongside [[Erky]]. Had [[Istar Silverlock]] serving punishment duties (cleaning, wearing an apron) under her authority — cause unrecorded.
 
-## Session 22
+## Session 22 Update (The Door Kickers)
 
 Daria dragged [[Perrin Quickquill]] to the [[Ether Scryer's Academy]] to confess. She identified the contents of [[Layla]]'s reagent pouch: magic item scraps (remnants of a planar-attuned item used as the anchor), humanoid blood (dried and powdered), and humanoid bone fragments.
 
 Transit spell: 7th-level, requires a planar-attuned magic item plus living humanoid blood, bone, and consciousness. Her conclusion: the city's reagent shortage is not coincidence.
 
-## Session 23
+## Session 23 Update (The Door Kickers)
 
 Elmindaria, usually called Daria, spoke of the Blackstaff family with unusually personal respect, regarding them as the oldest and most storied family in [[Crystal City]]. She and [[Garm]] are also the only two people who have briefed [[Lady Blackstaff]] on the [[Sunless Citadel]] so far.
 

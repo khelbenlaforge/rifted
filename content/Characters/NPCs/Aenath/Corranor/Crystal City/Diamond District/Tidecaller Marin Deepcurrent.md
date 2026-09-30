@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:23
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T20:17:59
 ---
 
 # Tidecaller Marin Deepcurrent
@@ -30,14 +30,10 @@ updated: 2026-09-26T17:35:51
 Marin Deepcurrent is the embodiment of his element. His blue-tinged skin ripples with wave-like patterns that shift with the light, and his hair flows as though caught in a perpetual underwater current. His eyes change colour -- from blue to green to storm-grey -- mirroring his emotional tides. Webbed fingers mark his elemental heritage. He speaks in a calm, echoing voice threaded with water metaphors, offering questions and contemplation rather than direct answers. At thirty-eight, he carries himself with the easy patience of a man who understands that all things flow in cycles.
 
 ## Background
-Marin serves as a cleric of [[Istishia]], the primordial being of water who predates the gods themselves. He resides in the Diamond District of [[Crystal City|Crystal]] and is a familiar figure at the city's docks, where he fishes with genuine enthusiasm. His philosophy centres on the belief that every action creates ripples, and that understanding water is akin to understanding life.
-
-He recognised [[Gill Bates]] as a kindred spirit the moment he saw the young fisher's calloused hands. Taking Gill under his guidance, Marin introduced him to the Arcana Domain and the teachings of [[Istishia]] -- dawn prayers, meditation on cycles, and the observation of water to perceive hidden patterns. He presented the four sects of [[Istishia]]'s faith and encouraged Gill to find his own path within them naturally. During the celebratory descent of [[Corranor]] into the oceans of [[Aenath]], Marin joined Gill in fishing from the docks, marking the occasion with quiet joy.
+Marin serves as a cleric of [[Istishia]], the primordial being of water who predates the gods themselves. He resides in the Diamond District of [[Crystal City|Crystal]] and is a familiar figure at the city's docks, where he fishes with genuine enthusiasm. His philosophy centres on the belief that every action creates ripples, and that understanding water is akin to understanding life. His instruction follows the Sanctuary's practice—dawn prayers, meditation on cycles, and watching water for its hidden patterns.
 
 ## Relationships
-- Mentor to [[Gill Bates]] in the ways of [[Istishia]] and the Arcana Domain
 - Cleric of [[Istishia]], stationed in [[Crystal City|Crystal]]'s Diamond District
-- Participated in the celebration of [[Corranor]]'s landing alongside the party
 
 ---
 ## Tags
@@ -50,7 +46,18 @@ Class:: Cleric
 Affiliation:: [[Tidecaller's Sanctuary]]
 Deity:: [[Istishia]]
 
-## Session 28
+## Session 1 Update (The Door Kickers)
+
+He recognised [[Gill Bates]] as a kindred spirit the moment he saw the young fisher's calloused hands. Taking Gill under his guidance, Marin introduced him to the Arcana Domain and the teachings of [[Istishia]] -- dawn prayers, meditation on cycles, and the observation of water to perceive hidden patterns. During the celebratory descent of [[Corranor]] into the oceans of [[Aenath]], Marin joined Gill in fishing from the docks, marking the occasion with quiet joy.
+
+- Mentor to [[Gill Bates]] in the ways of [[Istishia]] and the Arcana Domain
+- Participated in the celebration of [[Corranor]]'s landing alongside the party
+
+## Session 21 Update (The Door Kickers)
+
+He presented the four sects of [[Istishia]]'s faith and encouraged Gill to find his own path within them naturally.
+
+## Session 28 Update (The Door Kickers)
 
 - Revealed to [[Gill Bates]] the Brotherhood of the Four Winds: an ancient pact among the clergies of [[Istishia]], [[Kossuth]], [[Akadi]], and [[Grumbar]] never to admit they can hear their deities' voices, because secrecy keeps the world safe.
 - Has felt Istishia's voice growing fainter for about thirty years, as have his counterparts in the other three faiths.
@@ -58,7 +65,7 @@ Deity:: [[Istishia]]
 - Has been funnelling etheric energy to Istishia.
 - Compressed the first level of Gill's [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]] initiation to a single downtime day.
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - Ran [[Gill Bates]]'s [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]] trial to completion: one failed attempt, one successful attempt via prayer and Marin's Sending.
 - Gave Gill a smooth grey stone token.

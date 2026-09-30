@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T01:10:51
 ---
 
 # Petra Hale
@@ -48,13 +48,8 @@ Direct without being cold. She doesn't posture, doesn't oversell the branch's th
 
 Escort and freight-security work before the desk, the same trade [[Rhona Voss]] made at the Stormberg Wallwatch: field work first, an office second, never fully letting go of the field. Runs the Tallhouse—Coldford's Adamantine Guild branch—alone in every practical sense, thinner-staffed than the Wallwatch up in [[Stormberg]] and further from anyone who could spare her backup. Started quietly tracking a pattern of "insurance" shakedowns hitting small Manifest House stalls on her own time, off the clock, because nobody else currently can.
 
-## Role in the Story
-
-First real point of contact for The JULYs' Adamantine Guild standing in [[Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation. Same function as [[Rhona Voss]]'s Guild evaluation of the Understudies at the Stormberg Wallwatch, played in Petra's own register: not retiring-and-nostalgic like Rhona, but stretched thin and unusually careful right now specifically because of the shakedown pattern she's already tracking.
-
 ## Relationships
 
-- **[[Kai]], [[Odette Langford]], [[Ruairí]]**—registered them at the Tallhouse (Session 3), tested them in her pocket-dimension yard, and backed the party's Guild standing afterward regardless of how the fight actually went.
 - **[[Rhona Voss]]**—learned the same trade at the Stormberg Wallwatch, never met on-screen; Petra's own Background names the Wallwatch as where she picked it up.
 
 ## Session 3 Update (The JULYs)
@@ -66,6 +61,7 @@ First real point of contact for The JULYs' Adamantine Guild standing in [[Coldfo
 - Brought them into her personal pocket dimension to rest.
 - Before testing a party this small, measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 - Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and backed the party's Guild standing afterward regardless of outcome.
+- First real point of contact for The JULYs' Adamantine Guild standing in [[Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation.
 
 ## D&D 5e Stat Block
 

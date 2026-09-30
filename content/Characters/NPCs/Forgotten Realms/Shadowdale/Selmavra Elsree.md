@@ -9,7 +9,7 @@ introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T00:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-28T19:34:32
 ---
 
 # Selmavra Elsree
@@ -46,7 +46,7 @@ Selmavra has been a Harper long enough that the organization feels less like a c
 
 [[Torm of the Dales]] is also a Harper. She knows it. He knows it. Neither will say so — not because of anything between them, but because that is simply how the Harpers operate. Agents never identify each other in the field. The network's strength is that it can be *everywhere* because no one knows who belongs to it. Selmavra has done this a hundred times with people she knows well. The trick is not to be too convincing.
 
-## Session 14
+## Session 14 Update (The Door Kickers)
 
 At the Shadowdale guard post, Selmavra clocked [[Torm of the Dales]]'s specific gait and posture from a mile out — she knew it was a Harper before the party arrived. Kept her face neutral.
 
@@ -54,7 +54,7 @@ At the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull 
 
 In the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] courtyard ambush, Selmavra cast *Hail of Thorns* — the Chaos Magic rebound hit her for 8 damage. She stayed in the fight.
 
-## Session 15
+## Session 15 Update (The Door Kickers)
 
 [[Vael]] dropped from the stable roof the moment [[Kelemvor Lyonsbane|Kelemvor]] transformed back — landed on the cobblestones, walked to Selmavra: *"Jumping into danger for strangers? Fascinating."* Then went invisible. She did not leave.
 

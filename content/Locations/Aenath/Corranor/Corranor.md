@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:13:33
 ---
 
 # Corranor
@@ -55,7 +55,9 @@ The population includes humans, elves, and warforged, all descendants of those w
 
 [[Shadow Creatures]] have begun attacking the [[Jade Spire]], straining the [[Adamantine Guild]]'s already limited resources. The guild is severely understaffed, with most members deployed to frontier settlements.
 
-**[[The Exodus/00_My Notes/Lore/The Rifted|The Rifted]].** Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222 — but that was only the first of them. Arrivals have continued across the realm since, at eight separate sites and counting: near the [[Sunless Citadel]], at [[Twilight Grove]], at [[Corran's Spike]], at [[The Sundered Choir]], in [[The Hollowreach]], at [[The Emberveins]], at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], and a second time at the Jade Spire itself. Upward of twenty-seven people, in groups that have not yet compared notes with one another. The [[Ether Scryer's Academy]]'s standing finding — that each of the Rifted carries only "half a soul," which grows toward whole the longer they remain in Aenath — has spread from Crystal City as far north as [[Stormberg]], and is now more or less common knowledge.
+**[[The Exodus/00_My Notes/Lore/The Rifted|The Rifted]].** Five strangers from Earth appeared atop the Jade Spire during High Harvestide of Year 222 — but that was only the first of them. The [[Ether Scryer's Academy]]'s standing finding — that each of the Rifted carries only "half a soul," which grows toward whole the longer they remain in Aenath — has spread from Crystal City as far north as [[Stormberg]], and is now more or less common knowledge.
+
+## Session 6 Update (The Understudies)
 
 - **Southern continent (Session 6, The Understudies):** confirmed to exist and be reachable; [[Crystal City]] sent a Guild expedition there roughly two months ago via one of only two crystal-powered airships in the Magocracy (others may exist elsewhere).
 

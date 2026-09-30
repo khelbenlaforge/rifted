@@ -1,16 +1,16 @@
 ---
 title: Mourngrym Amcathra
 aliases:
-  - Mourngrym
-  - Lord of Shadowdale
+- Mourngrym
+- Lord of Shadowdale
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:10:55
 ---
 
 # Mourngrym Amcathra
@@ -43,17 +43,6 @@ Lord of Shadowdale, inheriting a position that has always sat at the crossroads 
 
 His wife Shaerl keeps her own counsel — which is all that needs to be said about that.
 
-## Role in the Story
-
-The prequel party met Mourngrym at a war council feast in Session 15. He had already heard about the beast at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] — curious, not hostile. He laid out a map with three colored stones: three-front threat from the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]]. Bloody Doom to the north (Tower Farm, militia holding). Claw of Voonlar to the east (crossroads, Harpers contesting). West Fang to the west (Ashaba Bridge, no full intel). He named [[Manshoon]] as the architect — legendary Zhentarim wizard, staying at [[The Exodus/00_My Notes/Locations/Forgotten Realms/Zhentil Keep|Zhentil Keep]], sent battle lords instead of coming himself.
-
-He offered the rank of Sword — above guardscaptains, below the Knights — at twenty gold per day per person. The party accepted.
-
-> [!quote]
-> *"Bane has come to Shadowdale. And it seems we're the only thing standing between him and the Temple. Will you stand?"*
-
-They stood. The party deployed to the Ashaba Bridge alongside [[Storm Silverhand]], [[Rathan Thentraver]], and "Torm."
-
 ---
 Race:: Human
 Subrace::
@@ -62,5 +51,16 @@ Class:: Fighter
 Location:: [[Shadowdale]]
 Affiliation:: [[The Harpers|Harpers]], [[Knights of Myth Drannor]]
 Deity::
+
+## Session 15 Update (The Door Kickers)
+
+The prequel party met Mourngrym at a war council feast in Session 15. He had already heard about the beast at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]]—curious, not hostile. He laid out a map with three colored stones: three-front threat from the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]]. Bloody Doom to the north (Tower Farm, militia holding). Claw of Voonlar to the east (crossroads, Harpers contesting). West Fang to the west (Ashaba Bridge, no full intel). He named [[Manshoon]] as the architect—legendary Zhentarim wizard, staying at [[The Exodus/00_My Notes/Locations/Forgotten Realms/Zhentil Keep|Zhentil Keep]], sent battle lords instead of coming himself.
+
+He offered the rank of Sword—above guardscaptains, below the Knights—at twenty gold per day per person. The party accepted.
+
+> [!quote]
+> *"Bane has come to Shadowdale. And it seems we're the only thing standing between him and the Temple. Will you stand?"*
+
+They stood. The party deployed to the Ashaba Bridge alongside [[Storm Silverhand]], [[Rathan Thentraver]], and "Torm."
 
 

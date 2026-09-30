@@ -1,16 +1,16 @@
 ---
 title: Storm Silverhand
 aliases:
-  - Ethena Astorma
-  - The Bard of Shadowdale
+- Ethena Astorma
+- The Bard of Shadowdale
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T15:57
-updated: 2026-08-28T02:33:48
+updated: 2026-09-29T01:17:06
 ---
 
 # Storm Silverhand
@@ -39,25 +39,11 @@ Warm, direct, never rushed. Speaks to everyone as though they are worth her full
 
 One of the Seven Sisters — all daughters of [[Mystra]] by mortal men, all Chosen. She channels the Weave directly through a power called Silverfire: pure blue-silver magical energy that is the Weave made manifest. She can sense its disruptions the way most people sense changes in the weather — and the Time of Troubles has been like trying to breathe smoke.
 
-She has lived in [[Shadowdale]] long enough to be part of its landscape. She is here when the prequel party arrives because she came to help [[Elminster]].
+She has lived in [[Shadowdale]] long enough to be part of its landscape.
 
 ## The Harper Web
 
 A founding Harper. She follows Harper doctrine absolutely: agents are never identified in the field, because anonymity is the network's strength. She knows both [[Torm of the Dales]] and [[Selmavra Elsree]] are Harpers. She will not reveal them.
-
-## Role in the Story
-
-Present at [[Elminster]]'s Tower when the prequel party arrives (Event 3, Session 14). Her role this session is to notice things and say almost nothing — which is more unsettling than it sounds.
-
-She senses [[Midnight]]'s pendant the moment the party is within range. The shard of [[Mystra]]'s broken power radiates to her like a beacon. She catches Midnight's eye during Elminster's speech: a look that says *I know what you're carrying. So does it.*
-
-## Session 15
-
-At the tower, she was watching the treeline when the party arrived. Her eyes went straight to [[Midnight]] — no words, just a pointed look that Midnight's Insight check read as concealed grief.
-
-During [[Elminster]]'s speech, she raised her hand: silver fire from the palm. *"All of us have a piece of [[Mystra]]."* The confirmation that multiple fragment carriers exist, and that Storm is one, changed the weight of what the pendant means.
-
-Before the battle, she cast a song-spell on Midnight to block all scrying and divination targeting her. Then she fought. At the Ashaba Bridge, she took out nine infantry in a single exchange. She did not explain the song-spell afterward, and no one asked.
 
 ---
 Race:: Human
@@ -67,6 +53,19 @@ Class:: Bard · Fighter
 Location:: [[Shadowdale]]
 Affiliation:: [[The Harpers|Harpers]], [[Mystra]]
 Deity:: [[Mystra]]
+
+## Session 15 Update (The Door Kickers)
+
+At the tower, she was watching the treeline when the party arrived. Her eyes went straight to [[Midnight]] — no words, just a pointed look that Midnight's Insight check read as concealed grief.
+
+During [[Elminster]]'s speech, she raised her hand: silver fire from the palm. *"All of us have a piece of [[Mystra]]."* The confirmation that multiple fragment carriers exist, and that Storm is one, changed the weight of what the pendant means.
+
+Before the battle, she cast a song-spell on Midnight to block all scrying and divination targeting her. Then she fought. At the Ashaba Bridge, she took out nine infantry in a single exchange. She did not explain the song-spell afterward, and no one asked.
+
+She is here when the prequel party arrives because she came to help [[Elminster]].
+
+Present at [[Elminster]]'s Tower when the prequel party arrives (Event 3, Session 14).
+She senses [[Midnight]]'s pendant the moment the party is within range. The shard of [[Mystra]]'s broken power radiates to her like a beacon. She catches Midnight's eye during Elminster's speech: a look that says *I know what you're carrying. So does it.*
 
 ## Character Sheet
 

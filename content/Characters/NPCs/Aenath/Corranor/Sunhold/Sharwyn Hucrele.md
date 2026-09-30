@@ -9,7 +9,7 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-25T23:40:24
+updated: 2026-09-29T00:12:36
 ---
 
 # Sharwyn Hucrele
@@ -31,13 +31,12 @@ Sharwyn is the daughter of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]], a you
 ## Background
 Raised in [[Crystal City|Crystal]], Sharwyn grew up restless under the comforts of noble life. When [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] visited [[Sunhold]] bearing a magical healing fruit and an invitation to their stronghold beyond the marshes, she jumped at the chance to join the delegation alongside her brother [[Talgen Hucrele Jr.]] Their father consented, sending [[Sir Braford]] and [[Karakas]] as escorts.
 
-The delegation was expected to return within ten days. Twenty-four days have now passed without a single word. Sharwyn's disappearance has thrown the [[Hucrele Family]] into crisis. Her mother [[Keldara Hucrele]] has publicly demanded action and offered a substantial reward -- 500 gold for each child returned alive, 200 gold for their signet rings if found deceased -- while the [[Adamantine Guild]] has taken up the search. Her brother [[Talgen Hucrele Jr.]] was confirmed dead. Sharwyn survived the [[Sunless Citadel]] and is recovering after the [[Gulthias Tree]] went dormant in Session 18.
+The delegation was expected to return within ten days. Twenty-four days have now passed without a single word. Sharwyn's disappearance has thrown the [[Hucrele Family]] into crisis. Her mother [[Keldara Hucrele]] has publicly demanded action and offered a substantial reward -- 500 gold for each child returned alive, 200 gold for their signet rings if found deceased -- while the [[Adamantine Guild]] has taken up the search. Her brother [[Talgen Hucrele Jr.]] was confirmed dead.
 
 ## Relationships
 - Daughter of [[Talgen Hucrele Sr.]] and [[Keldara Hucrele]]
 - Sister of [[Talgen Hucrele Jr.]], confirmed dead
 - Escorted by [[Sir Braford]] and [[Karakas]]; Braford survived and Karakas is confirmed dead
-- Her disappearance is the catalyst for the party's current mission
 
 ---
 ## Tags
@@ -54,7 +53,13 @@ Deity:: Unknown
 
 
 
-## Session 18 Outcome
+## Session 7 Update (The Door Kickers)
+
+- Her disappearance is the catalyst for the party's current mission
+
+## Session 18 Update (The Door Kickers)
 
 Sharwyn was freed from the [[Gulthias Tree]]'s influence in Session 18. Before being freed, she was in a rage state and wanted to kill [[Belak]] even at the cost of her own life. She is now free and recovering.
+
+Sharwyn survived the [[Sunless Citadel]] and is recovering after the [[Gulthias Tree]] went dormant in Session 18.
 

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-27T00:00:00
-updated: 2026-09-27T14:45:21
+updated: 2026-09-29T17:47:15
 ---
 
 # Economy of Corranor
@@ -26,7 +26,7 @@ Corranor moves goods around a coastline that periodically leaves the ocean entir
 
 ### The Sky Roads
 
-[[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Merrit|Merrit]], Keeper of the Sky Roads, holds the Council's portfolio over established routes, trade, cargo, and supply—but only the *eastern* lanes are on his books. Nothing west of [[Crystal City]] appears in his ledgers, a gap that matters more than anyone in the city currently realizes.
+[[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Merrit|Merrit]], Keeper of the Sky Roads, holds the Council's portfolio over established routes, trade, cargo, and supply—but only the *eastern* lanes are on his books. Nothing west of [[Crystal City]] appears in his ledgers.
 
 ### The Alabaster Highway
 

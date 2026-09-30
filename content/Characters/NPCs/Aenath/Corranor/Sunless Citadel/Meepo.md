@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:51
-updated: 2026-09-26T00:50:25
+updated: 2026-09-28T23:33:23
 ---
 
 # Meepo
@@ -51,12 +51,18 @@ When the goblins raided and took Calcryx, the colony's anger needed a target. Me
 
 ## Role in the Story
 
+- He occupies a strange position: blamed by [[Yusdrayl]]'s faction, ignored by [[Ragh]]'s, devoted to a dragon neither side truly cares about as an individual
+
+## Session 8 Update (The Door Kickers)
+
 - First kobold contact for the party — found in a ruined western room in a state of distress
 - Meepo guided the party east to [[Yusdrayl]]'s throne room
 - Guided the party northeast through unclaimed sections of the Upper Level toward goblin territory — leading them through traps and the rat warren where [[Karakas]]'s body was found
 - Left behind in the rat room (northeast, open to the rift) when the party crossed into [[Durbuluk Goblins]] territory — left with food and water; too dangerous to bring a kobold into the goblin colony
 - [[Calcryx]] was told of Meepo's location and expressed a soft spot for him — they may yet find each other
-- He occupies a strange position: blamed by [[Yusdrayl]]'s faction, ignored by [[Ragh]]'s, devoted to a dragon neither side truly cares about as an individual
+
+## Session 8 Update (The Understudies)
+
 - **Encountered in Session 08 (The Understudies):** found first, hiding in a side nook of the fresh Wall breach he and Calcryx now call home. Talked down rather than fought—jerky, a gentle question, and a clean persuasion roll were enough to convince him these particular two-legs weren't a threat. He led the party through his own trap room (ice shelving, rigged and reformed since anyone else's visit) to Calcryx herself, and vouched for them once she started sighing cold at the newcomers. Still entirely devoted to her.
 
 

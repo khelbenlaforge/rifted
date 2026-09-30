@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-09-26T17:35:51
+updated: 2026-09-28T19:34:32
 ---
 
 # Shadow Creatures
@@ -36,7 +36,7 @@ The Shadow Creatures emerged during High Harvestide of Year 222, coinciding with
 
 An ongoing and escalating threat. Their attacks have caused severe staffing shortages in the [[Adamantine Guild]], as resources are diverted to confront or flee from them. Their origins, motivations, and the nature of their connection to the newcomers' arrival are among the campaign's central mysteries.
 
-## Session 22
+## Session 22 Update (The Door Kickers)
 
 Earther-exclusive targeting is now confirmed: shadow creatures completely ignored [[Perrin Quickquill]] during the full [[Jade Spire]] assault, going only for [[The Exodus/00_My Notes/Lore/The Rifted|Earthers]].
 
@@ -47,7 +47,7 @@ Combat mechanics established:
 - Psychic damage works.
 - Light effects can paralyze them.
 
-## Session 1 (The AUGs)
+## Session 1 Update (The AUGs)
 
 - Encountered at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]] ([[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA), emerging from cracks in the floor of an underground temple chamber.
 - Radiant damage confirmed effective again: striking one of the temple's unlit crystal sconces with radiant damage ignites it, and shadow creatures actively avoid the newly-lit radius rather than cross it.

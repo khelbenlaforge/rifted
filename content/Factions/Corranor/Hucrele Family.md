@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-18T20:20
-updated: 2026-09-26T03:17:04
+updated: 2026-09-29T20:17:16
 ---
 
 # Hucrele Family
@@ -38,7 +38,7 @@ A wealthy noble family from [[Crystal City]] who relocated to invest in [[Sunhol
 - **[[Talgen Hucrele Jr.]]** — Son. Found dead on the Grove Level.
 - **[[Sir Braford]]** — Knight in service to the family. Missing in the Sunless Citadel.
 - **[[Sir Garth]]** — Family guard stationed at Sunhold. Now the sole armed protector of the family in the settlement.
-- **[[Sorelle]]**—Maid at Hucrele Manor; admitted [[Min Ji-ah]] and summoned [[Soral Vayne]] on her behalf.
+- **[[Sorelle]]**—Maid at Hucrele Manor.
 - **[[Soral Vayne]]** *(former)*—Household steward for over 40 years; remained in Crystal City after the family relocated to Sunhold.
 
 ## Operations
@@ -50,5 +50,9 @@ The Hucreles funded and encouraged a delegation south to the [[Durbuluk Goblins]
 ## Current Status
 
 In crisis. [[Talgen Hucrele Jr.]] confirmed dead. [[Sharwyn Hucrele]] and [[Sir Braford]] remain missing. [[Sir Garth]] holds the family's position at [[Sunhold]] alone.
+
+## Session 19 Update (The Door Kickers)
+
+- [[Sorelle]] admitted [[Min Ji-ah]] and summoned [[Soral Vayne]] on her behalf.
 
 

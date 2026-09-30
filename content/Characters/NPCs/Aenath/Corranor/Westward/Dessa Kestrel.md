@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-09-26T18:44:41
+updated: 2026-09-30T15:30:23
 created: 2026-09-23T18:28:40
 ---
 
@@ -16,6 +16,7 @@ created: 2026-09-23T18:28:40
 
 > [!infobox|right wikipedia]+
 > # Dessa Kestrel
+> ![[zzz_Attachments/Dessa Kestrel.jpg]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -34,7 +35,7 @@ Deity:: [[Oghma]]
 
 ## Description
 
-Old for an elf, and it shows only where she lets it: fine creases at the eyes from decades of reading fine print by bad light, a patient face with no warmth spared on it. Auburn hair, going nowhere near grey; skin a deep, even gold. Small reading glasses she takes off and puts back on like punctuation, worn over plain scholar's robes rather than any Guild uniform. Her hands are the tell: ink at the second knuckle on the right that never fully scrubs out, a callus worn where a stylus sits more often than a hilt. A shortsword and a bow slung across her back, Guild-issue, clean-kept and seldom drawn. What she actually reaches for first is the wax-sealed ledger satchel at her hip and the short marked baton she carries more often than either weapon, using it to indicate things: a doorway, a discrepancy, a target. Her eyes move over a room once, top to bottom, the way an auditor's eyes move over a page before they trust a single number written on it.
+Old for an elf, and it shows only where she lets it: fine creases at the eyes from decades of reading fine print by bad light, a patient face with no warmth spared on it. Auburn hair, going nowhere near grey, braided back and pinned up, with a few strands that never stay where she put them; amber eyes; skin a deep, even gold. Small wire reading glasses she takes off and puts back on like punctuation, worn over layered, undyed scholar's robes and a loose shawl rather than any Guild uniform. A small blank-scroll pendant, Oghma's mark, hangs at her collar. Her hands are the tell: a blot of ink on the back of the right, just below the knuckles, that never fully scrubs out, and a callus worn where a stylus sits more often than a hilt. A shortsword and a bow slung across her back, Guild-issue, clean-kept and seldom drawn. What she actually reaches for first is the ledger satchel at her hip, its flap sealed in red wax, and the short marked baton she carries more often than either weapon, using it to indicate things: a doorway, a discrepancy, a target. Her eyes move over a room once, top to bottom, the way an auditor's eyes move over a page before they trust a single number written on it.
 
 ## Personality
 
@@ -43,10 +44,6 @@ Methodical to the point of dryness. She doesn't raise her voice to make a point;
 ## Background
 
 Dessa spent a decade reading other branches' books before Westward ever had a branch of its own to read: recruitment logs, incident reports, the quiet paperwork that tells the Guild which evaluations were thorough and which ones just stamped a bracer and hoped. When the Westward posting opened, she asked for it herself. Westward needs a Guild presence precisely because of what sits under the island when it lifts, and an evaluation that doesn't actually test a recruit for that kind of dark is worth exactly what the paper it's written on is worth. The Cliffwatch itself watches the stair below it more closely than it watches its own ledgers, by her own accounting, and evening that out has been most of her job since she took the post. She's been down into the Keel exactly once, years ago, long enough to write the report herself rather than read someone else's version of it. She doesn't bring it up unless asked, and she never tells it the same way twice.
-
-## Role in the Story
-
-First point of contact for The AUGs' Adamantine Guild standing at The Cliffwatch in [[Westward]] (Session 3). Confirms the party's already-worn brass bracers as real rank rather than issuing fresh ones, then personally runs their Guild evaluation in the branch's own pocket-dimension testing ground, the Proving Floor. Same structural role as [[Rhona Voss]]'s evaluation of the Understudies and [[Petra Hale]]'s of the JULYs, played in Dessa's own register: measured, unhurried, closer to a survey report than a war story.
 
 ## D&D 5e Stat Block
 

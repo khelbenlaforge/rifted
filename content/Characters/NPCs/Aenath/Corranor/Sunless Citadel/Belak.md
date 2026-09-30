@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T15:52
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T00:13:14
 ---
 
 # Belak
@@ -48,33 +48,49 @@ He does not seem to need allies. The [[Durbuluk Goblins]] have an exclusive arra
 
 Belak is the unseen hand behind the [[Goblin Fruit]]. He occupies the Grove Level of the [[Sunless Citadel]] and supplies the [[Durbuluk Goblins]] with the fruit on an exclusive basis — an arrangement [[Yusdrayl]] of the [[Ordahir Kobolds]] deeply envies and has been unable to replicate.
 
-Belak was formerly one of the [[Ancients of Lava]]'s best, before disappearing forty years ago (Session 19) — confirmed independently by Elder [[Jess]] of the Ancients' own circle and by [[Sylvara Oakwhisper]] at the Temple of [[Mielikki]], both via [[Ember]]'s inquiries.
-
-The fruit carries a dual magical signature — **necromantic and divine/draconic** — that has nothing to do with ordinary druidcraft. Whatever Belak is cultivating, it is not wild. It answers to something specific.
-
-The Hucrele delegation — [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — followed the Goblin Merchants' fruit trail south. [[Karakas]] is confirmed dead in the Upper Level. [[Talgen Hucrele Jr.]] is confirmed dead in the Grove Level. [[Sharwyn Hucrele]] and [[Sir Braford]] were taken by Belak and vine-bound to the [[Gulthias Tree]]; both were freed when the tree went dormant in Session 18 (2026-05-26). [[Shen]] was also held in Belak's grove prison before escaping to the party.
-
-## The Fruit Mechanism (Session 12 — confirmed)
-
-The fruit heals living hosts. While alive, the host suppresses the seeds inside the flesh. When the host dies, the seeds germinate — roots and tendrils thread through the corpse, using it as substrate. What grows resembles twig blights. This was confirmed by [[Durnn]]'s goblin researchers, who fed fruit to a giant rat, killed it, opened it, and found plant matter throughout the carcass.
-
-Belak requires nothing in return for supplying Durnn — no gold, no service. He wants the fruit distributed as widely as possible, and he wants communities enticed to travel south toward the citadel.
-
-Every person who has eaten the fruit and survived is carrying sleeping seeds.
+The Hucrele delegation — [[Sharwyn Hucrele]], [[Talgen Hucrele Jr.]], [[Sir Braford]], and [[Karakas]] — followed the Goblin Merchants' fruit trail south. [[Karakas]] is confirmed dead in the Upper Level. [[Talgen Hucrele Jr.]] is confirmed dead in the Grove Level.
 
 ## Role in the Story
 
-- The source of the [[Goblin Fruit]] and its necromantic/draconic magical signature
 - Delivers fruit to [[Durnn]]'s research lab via plant minions through the northeast door of the lab
 - Occupies the same level as the [[Sanctum of Ashardalon|Sanctum]] — his presence and that chamber's cosmological significance may not be coincidental
 - Connected to the fate of [[Sharwyn Hucrele]] and [[Sir Braford]], whose disappearance on the Grove Level places them in his sphere
 - The goblins' exclusive arrangement with him gave the [[Durbuluk Goblins]] economic power the [[Ordahir Kobolds]] cannot match
 - Gifted [[Durnn]] the magic horn ***[[The Exodus/00_My Notes/Items/Door Kickers/Blight's Call|Blight's Call]]*** — fashioned from one of Ashardalon's claws; it summons prickle blights when blown and has been corrupting Durnn with growing bloodlust and nightmares
 - Not yet encountered — his threat is felt through evidence rather than presence
-- **Letter found (Session 09):** A letter from Belak to [[Ragh]] was recovered from a hidden compartment in the goblin prison. In it, Belak states he was still considering whether to bring Ragh "into the fold." He has eyes on the politics upstairs — and he's been thinking about who to recruit
 
 ## Combat Profile
 
 
+
+## Session 7 Update (The Door Kickers)
+
+The fruit carries a dual magical signature—**necromantic and divine/draconic**—that has nothing to do with ordinary druidcraft. Whatever Belak is cultivating, it is not wild. It answers to something specific.
+
+- The source of the [[Goblin Fruit]] and its necromantic/draconic magical signature
+
+## Session 9 Update (The Door Kickers)
+
+- **Letter found (Session 09):** A letter from Belak to [[Ragh]] was recovered from a hidden compartment in the goblin prison. In it, Belak states he was still considering whether to bring Ragh "into the fold." He has eyes on the politics upstairs—and he's been thinking about who to recruit
+
+## Session 12 Update (The Door Kickers)
+
+The fruit heals living hosts. While alive, the host suppresses the seeds inside the flesh. When the host dies, the seeds germinate—roots and tendrils thread through the corpse, using it as substrate. What grows resembles twig blights. This was confirmed by [[Durnn]]'s goblin researchers, who fed fruit to a giant rat, killed it, opened it, and found plant matter throughout the carcass.
+
+Belak requires nothing in return for supplying Durnn—no gold, no service. He wants the fruit distributed as widely as possible, and he wants communities enticed to travel south toward the citadel.
+
+Every person who has eaten the fruit and survived is carrying sleeping seeds.
+
+## Session 16 Update (The Door Kickers)
+
+[[Shen]] was also held in Belak's grove prison before escaping to the party.
+
+## Session 18 Update (The Door Kickers)
+
+[[Sharwyn Hucrele]] and [[Sir Braford]] were taken by Belak and vine-bound to the [[Gulthias Tree]]; both were freed when the tree went dormant in Session 18 (2026-05-26).
+
+## Session 19 Update (The Door Kickers)
+
+Belak was formerly one of the [[Ancients of Lava]]'s best, before disappearing forty years ago (Session 19)—confirmed independently by Elder [[Jess]] of the Ancients' own circle and by [[Sylvara Oakwhisper]] at the Temple of [[Mielikki]], both via [[Ember]]'s inquiries.
 
 

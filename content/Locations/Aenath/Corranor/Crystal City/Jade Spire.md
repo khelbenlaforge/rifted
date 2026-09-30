@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T00:50:25
+updated: 2026-09-28T19:34:32
 ---
 
 # Jade Spire
@@ -42,12 +42,12 @@ The Spire has become a target for [[Shadow Creatures]], whose attacks have rende
 
 The shadow creature attack sites are now walled off with fresh runes and paint; the ward-work took weeks. The attacks were worse while the party was in [[Sunhold]], with the city guard halved during the worst assault. [[Garm]] assesses the shadow creatures as extraplanar, but not from any recognized plane. Purple moss recovered from [[Sunhold]] has been turned into a nutritious drink as a [[Perrin Quickquill]] project.
 
-## Session 28
+## Session 28 Update (The Door Kickers)
 
 - Site of the Council of Seven's public address on the night of the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]].
 - Site of the [[Temple of Kelemvor]]'s mass name-recitation rite immediately after.
 
-## Session 22
+## Session 22 Update (The Door Kickers)
 
 [[Layla]] kept a reagent drawer at the [[Jade Spire]] containing her teleportation circle components: magic item scraps, humanoid blood (dried), and bone fragments.
 

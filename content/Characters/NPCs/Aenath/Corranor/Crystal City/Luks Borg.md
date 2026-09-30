@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:13:36
 ---
 
 # Luks Borg
@@ -34,7 +34,7 @@ His personality is the great contradiction of his life: a berserker's fury in ba
 ## Background
 Born in a northern frontier village plagued by orc raids, Luks learned to fight before he learned to read. At fourteen, he held a bridge against five orcs after his uncle fell beside him, and the rage that ignited in that moment never fully died. Years as a mercenary earned him the name "Borg the Unbreakable," but it was Mara -- a travelling healer with a sharp tongue -- who changed the course of his life. They married seven years ago, and their daughter Lily was born shortly after. The family resides in [[Crystal City|Crystal]]'s [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Garnet District/Garnet District|Garnet District]], where battle axes hang beside finger paintings on the walls.
 
-As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luks runs morning combat drills, evaluates new recruits, and mentors young fighters -- his trainees affectionately called "Borg's Pups." He travelled with the party aboard the [[Vanny Faire]] to establish the Guild's presence in [[Sunhold]], where he met with [[Harbin Wester]] and took charge of setting up the Guild post. His authority and determination have been instrumental in integrating the [[Adamantine Guild]] into the frontier settlement.
+As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luks runs morning combat drills, evaluates new recruits, and mentors young fighters -- his trainees affectionately called "Borg's Pups." His authority and determination have been instrumental in integrating the [[Adamantine Guild]] into the frontier settlement.
 
 ## Relationships
 - Married to Mara, an herbalist in [[Crystal City|Crystal]]'s [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Garnet District/Garnet District|Garnet District]]
@@ -43,7 +43,6 @@ As a Senior Adventurer and Training Coordinator at the [[Adamantine Guild]], Luk
 - Works alongside [[Istar Silverlock]] and [[Elmindaria L'Thorian]]
 - Met with [[Harbin Wester]] to establish the Guild post in [[Sunhold]]
 - Arranged supplies through [[Elmar Barthen]] at [[Barthen's Supplies]]
-- Mentor to [[Jonathan Jordan]] and other Guild recruits
 
 ## Tags
 Location:: [[Crystal City]]
@@ -54,6 +53,12 @@ Alignment:: Unknown
 Class:: Barbarian
 Affiliation:: [[Adamantine Guild]]
 Deity:: Unknown
+
+## Session 1 Update (The Door Kickers)
+
+He travelled with the party aboard the [[Vanny Faire]] to establish the Guild's presence in [[Sunhold]], where he met with [[Harbin Wester]] and took charge of setting up the Guild post.
+
+- Mentor to [[Jonathan Jordan]] and other Guild recruits
 
 ## Character Sheet
 

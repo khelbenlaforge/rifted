@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-09-27T18:56:02
+updated: 2026-09-29T00:14:18
 ---
 
 # Kelemvor Lyonsbane
@@ -38,21 +38,29 @@ Kelemvor's bloodline carries a hereditary curse laid by a dying witch whose life
 
 The [[Lyonsbane Panther]] *bursts out* of him. When the curse ends, he *bursts out* of the panther. Both transitions are violent and private, and he has spent a lifetime making sure no one is close enough to witness them.
 
-He revealed this at camp, during Session 13, after the party found him unconscious in the dark with a dead deer nearby and black fur in the underbrush. He told them: *the reason I leave is that I don't want any of you in the way.*
-
-In Session 14, the transformation was witnessed for the first time by the full party — including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] Agent to save [[Midnight]] being dragged toward the gate — no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
-
-In Session 15, he woke on those cobblestones with [[Augustus Kennedy]]'s consciousness riding passenger through all of it — awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
-
-Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission — rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Official orders. Service to a lord. For Shadowdale rather than for personal coin. The curse read it as employment rather than selflessness, and let it pass unpunished. He filed it away. He had not known that before.
-
 ## Background
 
 A fighter from [[Arabel]] who joined the party assembled around [[Caitlan Moonsong]]'s plea for help. He and [[Cyric]] are the oldest founding members of the group — both originally from Arabel, where they assembled one by one before the Avatar Crisis.
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). [[Augustus Kennedy]] inhabits Kelemvor's body beginning in Session 14.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble).
+
+## Session 13 Update (The Door Kickers)
+
+He revealed this at camp, during Session 13, after the party found him unconscious in the dark with a dead deer nearby and black fur in the underbrush. He told them: *the reason I leave is that I don't want any of you in the way.*
+
+## Session 14 Update (The Door Kickers)
+
+In Session 14, the transformation was witnessed for the first time by the full party—including [[Selmavra Elsree]] and [[Cyric]]. The trigger: he attacked a [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] Agent to save [[Midnight]] being dragged toward the gate—no transaction, just action. The panther held off killing through most of the courtyard fight, then broke the curse by killing the last remaining Tough. Kelemvor returned naked and unconscious on the cobblestones.
+
+[[Augustus Kennedy]] inhabits Kelemvor's body beginning in Session 14.
+
+## Session 15 Update (The Door Kickers)
+
+In Session 15, he woke on those cobblestones with [[Augustus Kennedy]]'s consciousness riding passenger through all of it—awake, aware, unable to act, Kelemvor's body entirely his own. He wrapped himself in grain sacks from the stable and said nothing about the cold.
+
+Later, at the Twisted Tower, he accepted [[Mourngrym Amcathra]]'s commission—rank of Sword, twenty gold a day. Fighting in service of a settlement under threat, at Mourngrym's direct request. Official orders. Service to a lord. For Shadowdale rather than for personal coin. The curse read it as employment rather than selflessness, and let it pass unpunished. He filed it away. He had not known that before.
 
 ## Character Sheet
 
@@ -146,13 +154,13 @@ Location:: [[Shadowdale]]
 Affiliation::
 Deity::
 
-## Session 19 Lore
+## Session 19 Update (The Door Kickers)
 
 Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Death, the Priesthood, and the [[Knights of the Eternal Order]], paladins who stand watch at the temple's Threshold Gates. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls go to the Abyss, lawful evil souls to the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]]—both reachable through the Gates, inside the barrier—while neutral or godless souls stay stuck behind the barrier until the Feast of the Moon's ritual of names sends them on to the Outer Planes.
 
 His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that knowledge without responsibility creates wild magic that destabilizes the cosmos. Kelemvor once possessed great emotion, but what stripped it away is unknown. His symbol is a man sitting on a chair holding scales.
 
-## Session 22 Lore
+## Session 22 Update (The Door Kickers)
 
 The [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Church of Kelemvor]] was named as the authority that polices interplanar soul movement. The god of death arbitrates where souls go and prevents souls from being pulled across planes without sanction.
 

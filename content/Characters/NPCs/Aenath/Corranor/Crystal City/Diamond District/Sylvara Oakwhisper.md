@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-25T20:59:06
+updated: 2026-09-29T20:17:58
 ---
 
 # Sylvara Oakwhisper
@@ -31,12 +31,9 @@ Sylvara Oakwhisper is a ninety-four-year-old half-elf ranger who appears no olde
 Her teaching style favours experience over lectures. She would rather have a student kneel in the mud and listen to the forest than sit in a classroom reading about it.
 
 ## Background
-Sylvara grew up in [[Crystal City|Crystal]] and discovered her calling in the balance between civilization and wilderness -- the heart of [[Mielikki]]'s philosophy. She serves as a ranger and teacher at [[Mielikki's Grove]], where she instructs those drawn to the natural world in sustainable practices, forest defence, and communion with animals.
-
-She took [[Ember]] under her guidance, inviting her to the Grove for lessons in connecting with the land. There, Sylvara shared [[Mielikki]]'s teachings: that all life is sacred, that death is a natural part of the cycle, and that the ranger's role is to protect, teach, and plant. She drew distinctions between [[Mielikki]]'s compassionate stewardship and [[Silvanus]]'s harsher philosophy, identified allies such as the [[Adamantine Guild]] and [[Eldath]]'s peacekeepers, and warned against enemies like [[Malar]]'s followers and reckless fire mages. She also explained that [[Mielikki]] permits her rangers to wear metal armour and bear weapons, for the forest's protectors must sometimes fight.
+Sylvara grew up in [[Crystal City|Crystal]] and discovered her calling in the balance between civilization and wilderness -- the heart of [[Mielikki]]'s philosophy. She serves as a ranger and teacher at [[Mielikki's Grove]], where she instructs those drawn to the natural world in sustainable practices, forest defence, and communion with animals. She teaches that all life is sacred, that Silvanus's creed is the harsher of the two, and that Mielikki's rangers may bear metal and steel—the forest's protectors must sometimes fight.
 
 ## Relationships
-- Mentor and ranger instructor to [[Ember]]
 - Companion of [[Frost]], her white wolf
 - Devoted servant of [[Mielikki]]
 - Allied with the [[Adamantine Guild]] and followers of [[Eldath]]
@@ -53,15 +50,21 @@ Class:: Ranger
 Affiliation:: [[Mielikki's Grove]]
 Deity:: [[Mielikki]]
 
-## Session 19
+## Session 1 Update (The Door Kickers)
+
+She took [[Ember]] under her guidance, inviting her to the Grove for lessons in connecting with the land. There, Sylvara shared [[Mielikki]]'s teachings: that all life is sacred, that death is a natural part of the cycle, and that the ranger's role is to protect, teach, and plant. She drew distinctions between [[Mielikki]]'s compassionate stewardship and [[Silvanus]]'s harsher philosophy, identified allies such as the [[Adamantine Guild]] and [[Eldath]]'s peacekeepers, and warned against enemies like [[Malar]]'s followers and reckless fire mages. She also explained that [[Mielikki]] permits her rangers to wear metal armour and bear weapons, for the forest's protectors must sometimes fight.
+
+- Mentor and ranger instructor to [[Ember]]
+
+## Session 19 Update (The Door Kickers)
 
 Sylvara confirmed to [[Ember]] that [[Belak]] disappeared from the Lavaliths, now known as the [[Ancients of Lava]], approximately forty years ago. She also mentioned that the Merchant Guild maintains connections between [[Sunhold]] and [[Crystal City]] for inbound goods only—never ore. Where Sunhold's ore actually goes is still unresolved.
 
-## Session 23
+## Session 23 Update (The Door Kickers)
 
 [[Istar Silverlock]] directed [[Terra]] to formally serve under Sylvara at the temple. Sylvara assigned her a guild-first mandate: protect outskirt communities from taking more than they need from nature, and protect people from wild creatures without killing the animals.
 
-## Session 26
+## Session 26 Update (The Door Kickers)
 
 - Met with [[Nanuk|Nanuk]] at [[Mielikki's Grove]] and identified him as a child of [[Silvanus]], the Oak Father.
 - Explained that [[Silvanus]] and [[Malar]] are locked in an opposition where either's death would collapse a larger balance.

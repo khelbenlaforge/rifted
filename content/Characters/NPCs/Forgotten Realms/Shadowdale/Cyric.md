@@ -1,15 +1,15 @@
 ---
 title: Cyric
 aliases:
-  - Prince of Lies
+- Prince of Lies
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T01:10:24
 ---
 
 # Cyric
@@ -30,10 +30,6 @@ updated: 2026-09-26T00:50:25
 
 Moves like he is always measuring exits. Useful in a fight, pleasant enough in camp, and not someone you want watching your back for too long. The antihero template: capable of tremendous effectiveness in the right direction, and tremendous damage in any direction at all.
 
-He was helpful at Castle Kilgrave in ways no one anticipated.
-
-In Session 14, the Lyonsbane Panther appeared in the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] courtyard during the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush. Cyric didn't know what it was. He calculated it as a threat and attacked it immediately — twice, cold, silent. No hesitation and no cruelty. Pure assessment. He will need to reckon with what he stabbed once the dust settles.
-
 ## Background
 
 A rogue and founding member of the group from [[Arabel]], where he and [[Kelemvor Lyonsbane|Kelemvor]] assembled the party that became the Avatar Crisis company. The others joined later — [[Torm of the Dales]], then [[Adon]], then [[Midnight]]. His reasons for everything he does are his own.
@@ -42,7 +38,15 @@ He is a companion for now. What he becomes next is not yet written, or is writte
 
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). An NPC in the Session 13 prequel vision — the party interacted with him but no PC inhabited his body.
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble).
+
+## Session 13 Update (The Door Kickers)
+
+He was helpful at Castle Kilgrave in ways no one anticipated.
+
+## Session 14 Update (The Door Kickers)
+
+In Session 14, the Lyonsbane Panther appeared in the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Old Skull Inn|Old Skull Inn]] courtyard during the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush. Cyric didn't know what it was. He calculated it as a threat and attacked it immediately—twice, cold, silent. No hesitation and no cruelty. Pure assessment. He will need to reckon with what he stabbed once the dust settles.
 
 ## Character Sheet
 
@@ -138,7 +142,7 @@ Location:: [[Shadowdale]]
 Affiliation::
 Deity::
 
-## Session 19 Lore
+## Session 19 Update (The Door Kickers)
 
 Cyric is the God of Strife, Tyranny, and Murder. His lone shrine in the [[Diamond District]] of Crystal City is lonely and menacing. City workers tend it, and no one openly worships Cyric.
 

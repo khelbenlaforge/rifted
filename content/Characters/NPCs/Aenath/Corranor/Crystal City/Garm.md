@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T01:10:51
 ---
 
 # Garm
@@ -33,11 +33,11 @@ A tall, broad-shouldered orc who defies every expectation of his kind. [[Garm]] 
 
 As one of seven archmages governing the [[Magocracy of Corranor]], Garm serves at the [[Jade Spire]] where he oversees magical research and experimentation. His doctoral thesis on "Harmonic Resonance in Planar Boundaries" revolutionized the understanding of extraplanar travel across [[Corranor]]. He is a gentle soul — an academic who approaches problems like puzzles and delights in learning new perspectives. He carries butterscotch candies to share, keeps a pet raven named Theorem for delivering messages, and brews experimental teas with magical properties.
 
-When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Year 222, Garm was the first to respond. He initially suspected that his assistant [[Layla]] might have inadvertently triggered a dimensional ritual responsible for their arrival—but that is no longer where the evidence sits. Working through the [[Corranor Council]] in **Session 19**, he **found Layla's magical signature on the transit event itself**, and has been actively working to reverse the spell since. What remains uncertain is not whether she did it, but why, for whom, and whether it was ever an accident at all. The ongoing [[Shadow Creatures]] attacks on the Jade Spire have complicated his investigation and strained his responsibilities to both the Council and the [[Adamantine Guild]], to whom he owes unfulfilled promises of supplies and support.
+When five strangers appeared atop the [[Jade Spire]] during High Harvestide of Year 222, Garm was the first to respond. He initially suspected that his assistant [[Layla]] might have inadvertently triggered a dimensional ritual responsible for their arrival. The ongoing [[Shadow Creatures]] attacks on the Jade Spire have complicated his investigation and strained his responsibilities to both the Council and the [[Adamantine Guild]], to whom he owes unfulfilled promises of supplies and support.
 
 ## Relationships
 
-- **[[Layla]]** — His assistant at the [[Jade Spire]] and co-apprentice to [[Perrin Quickquill]]; **confirmed** as the source of the transit event's magical signature (Session 19), and the subject of his ongoing effort to reverse the spell. Named to the Understudies party in their Session 5 as the archmage she worked under. Rhona relayed it as *employer* — she did not name him as responsible for the party's arrival — but she was visibly out of her depth relaying any of it, so treat the distinction as the record's, not hers.
+- **[[Layla]]**—His assistant at the [[Jade Spire]] and co-apprentice to [[Perrin Quickquill]]
 - **[[Perrin Quickquill]]** — His halfling secretary of fifteen years; a relationship built on mutual respect and genuine affection
 - **[[Istar Silverlock]]** — Frustrated with Garm over unfulfilled supply promises to the [[Adamantine Guild]]
 - **[[Corranor Council]]** — Fellow archmage among the seven governing members
@@ -57,6 +57,10 @@ Size:: Medium
 Habitat:: Urban
 Found In:: [[Jade Spire]]
 
+## Session 5 Update (The Understudies)
+
+- Named to the Understudies party in their Session 5 as the archmage [[Layla]] worked under. Rhona relayed it as *employer*—she did not name him as responsible for the party's arrival—but she was visibly out of her depth relaying any of it.
+
 ## D&D 5e Stat Block
 
 *Reference-only — Garm is an ally, not an intended combat encounter. Base math reskinned from the Archmage (XMM, CR 12); orc racial traits layered on top per the reskinning framework. Wizard school: Abjurer — his doctoral work on planar* boundaries *maps directly onto Abjuration's wards, banishments, and dispels, and the Archmage's existing Magic Resistance / Protective Magic traits already read as Abjurer's Spell Resistance and Spell Breaker capstones. Spell list swapped for boundary/warding themes; Teleport dropped per the setting's teleportation-is-dangerous rule and replaced with Forcecage.*
@@ -64,20 +68,22 @@ Found In:: [[Jade Spire]]
 
 
 ---
-## Session 19
+## Session 19 Update (The Door Kickers)
 
 Working through the [[Corranor Council]], Garm found [[Layla]]'s magical signature on the transit event that brought the party to Aenath. He is actively working to reverse the spell.
 
-## Session 23
+His earlier suspicion of Layla is no longer where the evidence sits. Working through the [[Corranor Council]] in **Session 19**, he **found Layla's magical signature on the transit event itself**, and has been actively working to reverse the spell since. What remains uncertain is not whether she did it, but why, for whom, and whether it was ever an accident at all. Layla is **confirmed** as the source of the transit event's magical signature, and the subject of his ongoing effort to reverse the spell.
+
+## Session 23 Update (The Door Kickers)
 
 Garm arranged a meeting at [[Blackstaff Mansion]] for [[Min Ji-ah]], joined by [[Nanuk]], [[Terra]], and [[Regius]], and made clear beforehand that they were meeting [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Lady Blackstaff|Lady Blackstaff]] and her brother rather than the family head. He escorted them to the warded entrance, announced them at the blank wall that served as the mansion's door, and reminded them to be respectful. As one of the archmages on the [[Corranor Council]], Garm remains one of the Council of Seven.
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - The Council's status-hearing vote on the party stands confirmed 50-50 as of this session: Garm and [[Wystan]] and an unnamed gnome for, [[Doran]] and [[Nerise]] against, [[Oriel Blackstaff]] deciding.
 - The hearing was evaded rather than resolved; nothing has actually been ruled yet.
 
-## Session 3 (The AUGs)
+## Session 3 Update (The AUGs)
 
 - First mentioned to The AUGs via [[Dessa Kestrel]]'s secondhand account of [[Layla]]'s past under him.
 

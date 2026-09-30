@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-02
 secret: false
 state: alive
-updated: 2026-09-18T22:22:23
+updated: 2026-09-30T04:35:50
 ---
 
 # Masamune Kento
@@ -152,7 +152,7 @@ Kento fights with the same exacting patience that made him a craftsman. Every mo
 
 - **Armor:** Chain Mail; Shield
 - **Magic Items:** 目利き *(attuned)*
-- **Gear:** Holy Symbol, Backpack, Blanket, Lamp, 7 Rations, Robe, Tinderbox, Pouch, Traveler's Clothes; 41 gp
+- **Gear:** Holy Symbol, Backpack, Blanket, Lamp, 7 Rations, Robe, Tinderbox, Pouch, Traveler's Clothes, Smith's Tools; 41 gp
 
 ---
 
@@ -163,5 +163,6 @@ Pronouns:: he/him
 Affiliation::
 Location::
 Deity::
+Playbook:: [[Masamune Kento - Playbook]]
 
 

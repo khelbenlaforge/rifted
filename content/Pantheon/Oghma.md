@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T02:33:48
+updated: 2026-09-29T17:47:15
 ---
 
 # Oghma
@@ -44,7 +44,7 @@ Oghma holds that ideas are the supreme force in the world. A single insight, pro
 - Inspire others to discover their own truths; do not hoard wisdom for personal gain.
 
 ## Followers & Influence
-Oghma's faithful include wizards, bards, scholars, sages, and anyone who has ever felt the pull of an unanswered question. His worship once commanded a vast network of temples, though the upheaval of the Time of Troubles fragmented much of that structure. Still, his teachings endure wherever books are kept and knowledge is valued.
+Oghma's faithful include wizards, bards, scholars, sages, and anyone who has ever felt the pull of an unanswered question. His teachings endure wherever books are kept and knowledge is valued.
 
 In [[Crystal City]], Oghma's influence is woven into the foundation of the [[Adamantine Guild]]. His symbol appears on the Guild's emblem alongside those of [[Helm]] and [[Waukeen]], representing the three pillars of the organisation: knowledge, protection, and progress. The Guild's mission to gather, preserve, and share learning is a direct expression of Oghma's ethos, even as the organisation faces the practical pressures of understaffing and shadow creature attacks.
 

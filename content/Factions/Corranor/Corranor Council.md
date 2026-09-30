@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-27T03:41:31
+updated: 2026-09-29T00:12:24
 ---
 
 # Corranor Council
@@ -41,7 +41,7 @@ All seven hold the title **Keeper**, each answering for one portfolio of the rea
 - **[[Wystan]]**—*Keeper of the Archive.* Knowledge and antiquities, with oversight of the autonomous [[Ether Scryer's Academy]]
 - **[[Nerise]]**—*Keeper of Exploration.* Everything not yet on a map. Rarely in Crystal City
 
-**Renunciation:** a member sets aside their affiliations on investiture and may not speak for or involve themselves in the business of a house, order or guild they came from. Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour that—which is why the family head was absent from the Session 23 mansion meeting. The city still calls it the Blackstaff seat regardless: the rule is real in law and a fiction socially, and [[Soral Vayne]] described it to [[Min Ji-ah]] in Session 19 as a mark of the family's prestige.
+**Renunciation:** a member sets aside their affiliations on investiture and may not speak for or involve themselves in the business of a house, order or guild they came from. Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour that. The city still calls it the Blackstaff seat regardless: the rule is real in law and a fiction socially.
 
 *(Portfolio boundaries: Ysolde builds and maintains the wards, Doran commands them; Ysolde makes airship engines run, Merrit decides where ships go; Garm oversees the Spire's in-house research, Wystan oversees the Academy.)*
 
@@ -59,7 +59,15 @@ The council directs arcane-powered airship expansion, manages relations with dis
 
 Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm]]'s suspicion that his assistant [[Layla]] triggered the ritual bringing the newcomers adds complexity to their deliberations.
 
-## Session 28
+## Session 19 Update (The Door Kickers)
+
+The city still calls it the Blackstaff seat regardless: the rule is real in law and a fiction socially, and [[Soral Vayne]] described it to [[Min Ji-ah]] in Session 19 as a mark of the family's prestige.
+
+## Session 23 Update (The Door Kickers)
+
+Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour that—which is why the family head was absent from the Session 23 mansion meeting.
+
+## Session 28 Update (The Door Kickers)
 
 - All seven seats were seen in public together for the first time.
 - Five Keepers are now named: [[Garm]] (Keeper of the Jade Spire), [[Oriel Blackstaff]] (Writ), [[Doran]] (Bulwark), [[Wystan]] (Archive), and [[Nerise]] (Exploration).
@@ -67,7 +75,7 @@ Under strain. The [[Shadow Creatures]] threat has diverted resources, and [[Garm
 - Council members renounce their family affiliations on investiture.
 - [[Oriel Blackstaff]] opened an inquiry into the [[Temple of Kelemvor]].
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - **Ysolde** is named to the party for the first time, as the human Keeper who voted against them at their status-hearing summons: [[Doran]], [[Nerise]] and Ysolde against; [[Garm]], [[Wystan]] and an unnamed gnome Keeper for; [[Oriel Blackstaff]] deciding. The hearing itself was evaded, not resolved—see the party's own Dashboard.
 - The gnome Keeper (Merrit, Keeper of the Sky Roads) remains unnamed to the party.

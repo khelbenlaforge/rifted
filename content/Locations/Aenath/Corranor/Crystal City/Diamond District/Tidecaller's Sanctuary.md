@@ -1,15 +1,15 @@
 ---
 title: Tidecaller's Sanctuary
 aliases:
-  - Temple of Istishia
+- Temple of Istishia
 tags:
-  - location
-  - location/temple
+- location
+- location/temple
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T20:18:06
 ---
 # Tidecaller's Sanctuary
 
@@ -39,9 +39,14 @@ At the heart of the sanctuary lies a spring-fed pool with an altar that appears 
 
 ## Notable Residents
 
-- **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]] who mentors [[Gill Bates]], teaching patience, adaptability, and the philosophy that water flows rather than fights
+- **[[Tidecaller Marin Deepcurrent]]**—Water genasi cleric of [[Istishia]], teaching patience, adaptability, and the philosophy that water flows rather than fights
 
-## Current Events
+## Session 1 Update (The Door Kickers)
 
-[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]] — [[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]], [[The Exodus/00_My Notes/Lore/Sects of Istishia|Watery Paths]], Magnificent Storm, and Eternal Transformation — and warned that this path might make him seem detached to others.
+- **[[Tidecaller Marin Deepcurrent]]**—Water genasi cleric of [[Istishia]] who mentors [[Gill Bates]], teaching patience, adaptability, and the philosophy that water flows rather than fights
+
+## Session 21 Update (The Door Kickers)
+
+[[Gill Bates]] trained here, learning to stop resisting the current and instead observe water's hidden patterns. [[Tidecaller Marin Deepcurrent]] taught him the four sects of [[Istishia]]—[[The Exodus/00_My Notes/Lore/Sects of Istishia|Sacred Sea]], [[The Exodus/00_My Notes/Lore/Sects of Istishia|Watery Paths]], Magnificent Storm, and Eternal Transformation—and warned that this path might make him seem detached to others.
+
 

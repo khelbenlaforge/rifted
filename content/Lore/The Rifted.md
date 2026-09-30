@@ -11,7 +11,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:43:26
-updated: 2026-09-27T19:43:59
+updated: 2026-09-29T17:47:03
 ---
 
 # The Rifted
@@ -20,11 +20,9 @@ People pulled from Earth into [[Aenath]], mid-life, mid-sentence, with no warnin
 
 ## What Happens on Arrival
 
-Whoever meets the new arrivals first sees the same pattern: strange terrain, a body that doesn't quite match the one they left, and—for most—some visible physical change. When [[Elmindaria L'Thorian|Daria]] examined the first five to reach [[Crystal City]], her scan found each of them missing roughly half their own essence, regenerating slowly on its own—and read an affinity in each of them besides: divine, druidic, arcane, roguish, each Rifted already leaning toward some calling before they'd had a chance to choose one. [[Garm]], the Council archmage the group met first, theorized on the spot that his own assistant, [[Layla]], might have inadvertently triggered whatever dimensional working had pulled them across.
+Whoever meets the new arrivals first sees the same pattern: strange terrain, a body that doesn't quite match the one they left, and—for most—some visible physical change.
 
 The [[Ether Scryer's Academy]] has since made the same finding standard doctrine: a newly arrived Rifted carries only "half a soul," which grows back toward whole the longer they remain in Aenath. The finding reached [[Stormberg]] by the time the second wave of arrivals landed there, carried north from Crystal City as general knowledge.
-
-The [[Corranor Council]] has since confirmed the pattern independently, reporting to one party directly that the missing half was growing back on its own, and that some of the newly arrived had noticed themselves thinking in Common more readily than in their own birth language—the same regeneration, read from a different angle. The Council's own investigation has turned up [[Layla]]'s name in connection with the pattern, though nothing conclusive—see [[Transit Magic in Aenath]] for why the mechanism itself stays unsolved—and [[Garm]] has been working since to understand how to undo whatever she did.
 
 ## Common Threads
 
@@ -35,5 +33,13 @@ Every documented arrival shares a handful of features, regardless of city or ses
 - **A vision.** Most arrivals report some kind of vision at or near the moment of crossing—content varies from party to party and person to person.
 
 None of these threads has been explained. Whether they're side effects of the same working, or the working's actual purpose, is not something anyone in Corranor has settled.
+
+## Session 1 Update (The Door Kickers)
+
+When [[Elmindaria L'Thorian|Daria]] examined the first five to reach [[Crystal City]], her scan found each of them missing roughly half their own essence, regenerating slowly on its own—and read an affinity in each of them besides: divine, druidic, arcane, roguish, each Rifted already leaning toward some calling before they'd had a chance to choose one. [[Garm]], the Council archmage the group met first, theorized on the spot that his own assistant, [[Layla]], might have inadvertently triggered whatever dimensional working had pulled them across.
+
+## Session 19 Update (The Door Kickers)
+
+The [[Corranor Council]] has since confirmed the pattern independently, reporting to one party directly that the missing half was growing back on its own, and that some of the newly arrived had noticed themselves thinking in Common more readily than in their own birth language—the same regeneration, read from a different angle. The Council's own investigation has turned up [[Layla]]'s name in connection with the pattern, though nothing conclusive—see [[Transit Magic in Aenath]] for why the mechanism itself stays unsolved—and [[Garm]] has been working since to understand how to undo whatever she did.
 
 

@@ -1,15 +1,15 @@
 ---
 title: Torm
 aliases:
-  - The True
-  - The Loyal Fury
+- The True
+- The Loyal Fury
 tags:
-  - deity
+- deity
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:17:36
 ---
 
 # Torm
@@ -46,6 +46,8 @@ His nature is deeply martial, yet tempered by compassion. Torm does not glorify 
 ## Followers & Influence
 Torm's faithful are paladins, clerics, knights, and soldiers who define themselves by their oaths of service. His worship is closely intertwined with that of [[Tyr]] and [[Helm]], the three deities forming an allied triad that emphasises justice, vigilance, and loyal duty.
 
-[[Augustus Kennedy]], a warforged grappling with questions of identity and purpose, considers Torm among his potential patron deities. Augustus's combat training and growing commitment to the role of protector align naturally with Torm's teachings, and his deliberation over which of the three allied gods to follow reflects the depth with which he approaches his divine calling. His journey of self-discovery — balancing martial discipline with a search for meaning — embodies the kind of earnest, duty-bound devotion that Torm values most.
+## Session 1 Update (The Door Kickers)
+
+[[Augustus Kennedy]], a warforged grappling with questions of identity and purpose, considers Torm among his potential patron deities. Augustus's combat training and growing commitment to the role of protector align naturally with Torm's teachings, and his deliberation over which of the three allied gods to follow reflects the depth with which he approaches his divine calling.
 
 

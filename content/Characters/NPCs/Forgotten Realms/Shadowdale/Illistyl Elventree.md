@@ -1,14 +1,14 @@
 ---
 title: Illistyl Elventree
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-30
 secret: false
 state: alive
 created: 2026-03-26T20:20
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T01:10:10
 ---
 
 # Illistyl Elventree
@@ -47,14 +47,6 @@ Her Wand of Magic Missiles handles anything that needs targeted, reliable damage
 
 **The Torm Complication:** At the first moment the battle eases, she will try to reach "Torm." She's going to touch his arm, say something specific, expect recognition. JJ doesn't know who she is. This is a problem he will have to navigate, mid-battle, in character, with no warning.
 
-## Session 15
-
-She arrived at Round 12 with the other Knights and went straight to work. Between phases at the Ashaba Bridge, she found "Torm." *"You're alive."* Launched him back into the fray with a force spell. Kissed him on the cheek as he flew.
-
-[[Jonathan Jordan]] had no idea who she was. He played it as well as he could.
-
-She filed the specific quality of his confusion away. She doesn't have a name for it yet. She will.
-
 ---
 Race:: Elf
 Subrace::
@@ -63,5 +55,11 @@ Class:: Wizard 4
 Location:: [[Shadowdale]]
 Affiliation:: [[Knights of Myth Drannor]]
 Deity::
+
+## Session 15 Update (The Door Kickers)
+
+She arrived at Round 12 with the other Knights and went straight to work. Between phases at the Ashaba Bridge, she found "Torm." *"You're alive."* Launched him back into the fray with a force spell. Kissed him on the cheek as he flew.
+
+[[Jonathan Jordan]] had no idea who she was. He played it as well as he could.
 
 

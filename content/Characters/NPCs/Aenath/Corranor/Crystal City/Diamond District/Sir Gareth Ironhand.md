@@ -10,7 +10,7 @@ introduced: 2025-11-09
 secret: false
 state: alive
 created: 2026-03-16T04:19
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:17:24
 ---
 
 # Sir Gareth Ironhand
@@ -32,10 +32,7 @@ Sir Gareth Ironhand is a forty-eight-year-old human paladin whose most striking 
 ## Background
 A veteran servant of [[Tyr]], Sir Gareth trains aspiring paladins at the [[Hall of Justice - Temple of Tyr]] in [[Crystal City|Crystal]]. His teachings blend the Socratic method with hard-won battlefield wisdom, pressing his students to think critically about the moral weight of their oaths. He warns that a paladin's power flows from conviction, not duty alone, and that those who swear an oath must be prepared for the sacrifices it demands.
 
-When [[Augustus Kennedy]] sought the path of paladinhood, it was Sir Gareth who guided him. He explained that a paladin's oath may be sworn to a deity, to ideals, or to the people one serves, and challenged Augustus to examine his own motivations beyond mere obligation. He stressed that Augustus's warforged nature made the balance of strength, wisdom, and charisma especially important. His mentorship left a lasting mark on Augustus's understanding of what it means to serve justice.
-
 ## Relationships
-- Paladin mentor to [[Augustus Kennedy]]
 - Trains aspiring paladins at the [[Hall of Justice - Temple of Tyr]]
 - Devoted servant of [[Tyr]]
 - Maintains an active cross-temple relationship between [[Hall of Justice - Temple of Tyr]] and [[Temple of Kelemvor]]
@@ -50,5 +47,11 @@ Alignment:: Lawful Good
 Class:: Paladin
 Affiliation:: [[Hall of Justice - Temple of Tyr]]
 Deity:: [[Tyr]]
+
+## Session 1 Update (The Door Kickers)
+
+When [[Augustus Kennedy]] sought the path of paladinhood, it was Sir Gareth who guided him. He explained that a paladin's oath may be sworn to a deity, to ideals, or to the people one serves, and challenged Augustus to examine his own motivations beyond mere obligation. He stressed that Augustus's warforged nature made the balance of strength, wisdom, and charisma especially important. His mentorship left a lasting mark on Augustus's understanding of what it means to serve justice.
+
+- Paladin mentor to [[Augustus Kennedy]]
 
 

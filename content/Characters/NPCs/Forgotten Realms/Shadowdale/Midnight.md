@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:12
-updated: 2026-09-26T19:25:45
+updated: 2026-09-29T00:14:32
 ---
 
 # Midnight
@@ -46,15 +46,7 @@ She joined the party of Torm, [[The Exodus/00_My Notes/Characters/NPCs/Forgotten
 
 The blue-white star pendant, entrusted by Mystra and returned after Mystra's destruction at the hands of [[Helm]], now carries a **shard of Mystra's broken power**. Midnight is the only person who can touch it. It marks her as something more than a wizard.
 
-In Session 14, during the courtyard encounter, the pendant activated independently — a Chaos Magic Reverse Gravity effect sent her airborne, and the pendant responded to the genuine danger without her willing it, floating her safely back down. The power answers to danger, not to intention.
-
-She has been told — she simply knows — that she must find [[Elminster]] in Shadowdale. She leveled to 4 mid-combat; her Intelligence is now 18 (spell DC 14).
-
-In Session 15, at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]], the pendant ignited. Midnight became something else entirely — wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know — I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky — and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside [[The Exodus/00_My Notes/Locations/Forgotten Realms/Arabel|Arabel]].
-
-She has been carrying something that was always bigger than her. Now she is not.
-
-## Session 15
+## Session 15 Update (The Door Kickers)
 
 The cipher note from the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] commander, decoded jointly with [[Selmavra Elsree]]: Midnight was listed as the *pendant bearer* — *acquire or neutralize; carries fragment of divine intelligence, value: CRITICAL*. She read more than she shared with the group. What she kept back, and why, she has not said.
 
@@ -62,9 +54,23 @@ At [[Elminster]]'s tower, [[Storm Silverhand]] cast a song-spell to block all sc
 
 The pendant is empty now. She carried a goddess without knowing it. What she carries instead remains to be seen.
 
+In Session 15, at the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]], the pendant ignited. Midnight became something else entirely—wild-haired, her form dissolved into blue-white starmotes. What spoke through her was not Midnight: *"You killed me once. I thought you should know—I remember."* She bound [[Bane]] and pulled him toward the Celestial Stairway, smiling. When it was over, the east wall was rubble, Elminster and Bane were gone through the open sky—and the pendant was cold. Empty. For the first time since the goddess charged her with it in the grove outside [[The Exodus/00_My Notes/Locations/Forgotten Realms/Arabel|Arabel]].
+
+She has been carrying something that was always bigger than her. Now she is not.
+
 ## Role in the Vision
 
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by [[Augustus Kennedy]] touching the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Min Ji-ah]] temporarily inhabited Midnight's body — experiencing the Avatar Crisis through her perspective. Min Ji-ah is not Midnight; no soul connection is implied (at this stage).
+A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble).
+
+## Session 13 Update (The Door Kickers)
+
+In the prequel vision triggered by [[Augustus Kennedy]] touching the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Min Ji-ah]] temporarily inhabited Midnight's body—experiencing the Avatar Crisis through her perspective. Min Ji-ah is not Midnight; no soul connection is implied (at this stage).
+
+## Session 14 Update (The Door Kickers)
+
+In Session 14, during the courtyard encounter, the pendant activated independently—a Chaos Magic Reverse Gravity effect sent her airborne, and the pendant responded to the genuine danger without her willing it, floating her safely back down. The power answers to danger, not to intention.
+
+She has been told—she simply knows—that she must find [[Elminster]] in Shadowdale. She leveled to 4 mid-combat; her Intelligence is now 18 (spell DC 14).
 
 ## Character Sheet
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-06-25
 secret: false
 created: 2026-08-27T18:00
-updated: 2026-09-26T19:22:35
+updated: 2026-09-29T17:47:45
 ---
 
 # Arborea
@@ -25,6 +25,8 @@ updated: 2026-09-26T19:22:35
 
 Its first layer, Arvandor, holds [[The Exodus/00_My Notes/Pantheon/Corellon|Corellon]]'s Crescent Grove palace, shared with his consort [[The Exodus/00_My Notes/Pantheon/Sehanine Moonbow|Sehanine Moonbow]]. Elven souls are said to be guided there toward a final, perfected state.
 
-In Aenath, Arborea has come up so far through the theory and practice of planar teleportation: [[Veyris Thantorn]] taught [[Min Ji-ah]] that wolf bone from Arborea is not evil, and that a whole wolf could create a through-line to the plane — one working theory among several on how the astral barrier might be crossed.
+## Session 21 Update (The Door Kickers)
+
+In Aenath, Arborea has come up so far through the theory and practice of planar teleportation: [[Veyris Thantorn]] taught [[Min Ji-ah]] that wolf bone from Arborea is not evil, and that a whole wolf could create a through-line to the plane—one working theory among several on how the astral barrier might be crossed.
 
 

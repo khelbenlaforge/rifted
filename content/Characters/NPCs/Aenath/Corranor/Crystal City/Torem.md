@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T20:18:07
 created: 2026-06-20T00:00
 ---
 
@@ -22,13 +22,17 @@ Race:: Birdfolk
 Location:: Azure Tamers Tower, [[Crystal City]]
 Affiliation:: [[Azure Tamers]]
 
-- Took [[Nanuk]] on aerial scouting aboard Little Bella during approximately 21st Uktar downtime
-- Showed Nanuk the supply chain: magical-creature blood arrives in [[Crystal City]] via the alabaster highway, which runs east from the city to an unnamed source on the peninsula below Coldford, then goes to the Academy and [[The Exodus/00_My Notes/Factions/Corranor/Alchemist's Guild|Alchemist's Guild]]
+- magical-creature blood arrives in [[Crystal City]] via the alabaster highway, which runs east from the city to an unnamed source on the peninsula below Coldford, then goes to the Academy and [[The Exodus/00_My Notes/Factions/Corranor/Alchemist's Guild|Alchemist's Guild]]
 - Does not track who buys the blood after it arrives
 - Aware of the [[Azure Tamers]] patrol network covering the eastern road and frontier communities
 - [[Stormberg]] mines the northern region; [[Coldford]] on the east coast has an Azure Tamers presence
 
-## Session 29
+## Session 21 Update (The Door Kickers)
+
+- Took [[Nanuk]] on aerial scouting aboard Little Bella during approximately 21st Uktar downtime
+- Showed Nanuk the supply chain: magical-creature blood arrives in [[Crystal City]] via the alabaster highway, which runs east from the city to an unnamed source on the peninsula below Coldford, then goes to the Academy and [[The Exodus/00_My Notes/Factions/Corranor/Alchemist's Guild|Alchemist's Guild]]
+
+## Session 29 Update (The Door Kickers)
 
 - Gave [[Nanuk]] a Stormberg travel-time table.
 - Flagged herds migrating south early and heavier than the season should—cause unknown.

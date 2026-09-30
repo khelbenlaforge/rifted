@@ -7,13 +7,13 @@ campaign: Rifted
 introduced: 2026-08-16
 secret: false
 state: alive
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:12:47
 created: 2026-08-16T00:00
 ---
 > [!infobox]
 > # Ser Tamsin Rook
 
-Ser Tamsin Rook is a Knight of the Eternal Order at the Temple of Kelemvor who served without incident for five years before allowing [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists to pass in exchange for information about his deceased sister's soul stranded on the Material Plane; he was exposed and confessed to the party in Session 27.
+Ser Tamsin Rook is a Knight of the Eternal Order at the Temple of Kelemvor who served without incident for five years before allowing [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists to pass in exchange for information about his deceased sister's soul stranded on the Material Plane.
 
 ## Appearance
 
@@ -29,10 +29,6 @@ Five years ago, Rook's sister died — the specifics never surfaced in play, onl
 
 A week before Session 27, a pale, hooded elf — [[Mother Ilyra Duskveil]] herself — approached him in the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Citrine District/Citrine District|Citrine District]] while he was handing out temple notices — ordinary work, no reason to be wary. She knew about his sister. She showed him proof enough that her soul was still wandering the Material Plane, never delivered, never at rest, and offered to set right what the temple broke. All she needed, eventually, was a night when he looked the other way.
 
-## Role in the Story
-
-Session 27: one of seven Knights who burst from the Temple of Kelemvor screaming that the Gravelord had gone missing — the only one of the seven who hadn't felt the wash of evil rushing past as the cultists fled the sealed chamber, because he already knew what had happened. Confronted by [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]], then broken open by [[The Exodus/The Door Kickers/PCs/Terra|Terra]], he confessed: he'd let two or three [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists past his post toward Cistern Street, and another group toward the main boulevard, in exchange for his sister's rest. He gave the party everything he had, including that the temple attack itself was a distraction, and hasn't tried to hide any of it since.
-
 ---
 Race:: Unconfirmed
 Pronouns:: He/him
@@ -40,7 +36,13 @@ Rank:: Knight-Warden
 Location:: [[Temple of Kelemvor]], [[Diamond District]], [[Crystal City]]
 Affiliation:: [[Knights of the Eternal Order]]
 
-## Session 28
+## Session 27 Update (The Door Kickers)
+
+Ser Tamsin Rook is a Knight of the Eternal Order at the Temple of Kelemvor who served without incident for five years before allowing [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists to pass in exchange for information about his deceased sister's soul stranded on the Material Plane; he was exposed and confessed to the party in Session 27.
+
+Session 27: one of seven Knights who burst from the Temple of Kelemvor screaming that the Gravelord had gone missing—the only one of the seven who hadn't felt the wash of evil rushing past as the cultists fled the sealed chamber, because he already knew what had happened. Confronted by [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augustus]], then broken open by [[The Exodus/The Door Kickers/PCs/Terra|Terra]], he confessed: he'd let two or three [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] cultists past his post toward Cistern Street, and another group toward the main boulevard, in exchange for his sister's rest. He gave the party everything he had, including that the temple attack itself was a distraction, and hasn't tried to hide any of it since.
+
+## Session 28 Update (The Door Kickers)
 
 - Was remanded to the [[Knights of the Eternal Order]] for judgment by the [[Corranor Council]].
 - The Order will report to the Council, not publicly.

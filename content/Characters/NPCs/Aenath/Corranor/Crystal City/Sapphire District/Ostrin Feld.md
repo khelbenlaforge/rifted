@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 state: alive
-updated: 2026-09-26T19:24:18
+updated: 2026-09-28T19:34:32
 created: 2026-07-13T00:00
 ---
 > [!infobox]
@@ -22,13 +22,13 @@ Race:: Human
 Location:: [[House Verenthal]], [[Sapphire District]], [[Crystal City]]
 Affiliation:: [[House Verenthal]]
 
-## Session 28
+## Session 28 Update (The Door Kickers)
 
 - Carried a flat black case to the same florist's shop ahead of [[Sellas Verenthal]].
 - Hired [[Regius|Reggie]] for social surveillance only, paying 18 gold the first night and 52 the second.
 - Was told about the killing and asked Regius to keep the arrangement discreet.
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - Was waiting at the House Verenthal side gate before [[Regius]] had even knocked, fingers already tapping his signet ring twice—the tell that something was wrong. *"Reggie,"* he said, not Regius; he only uses the short name when things have gone sideways.
 - Paid [[Regius]] the agreed 100gp (50 now, 50 on delivery) and ended the nightly surveillance of [[Sellas Verenthal]] effective immediately, no explanation given. Pressed on why, he wouldn't move: *"Whatever she knows, she's not telling me, and I can't afford to find out the hard way. Neither can you."*

@@ -10,7 +10,7 @@ introduced: pre-campaign
 secret: false
 state: dead
 created: 2026-04-08T22:56
-updated: 2026-09-25T20:41:58
+updated: 2026-09-28T23:36:56
 ---
 
 # Corran Blackstaff
@@ -53,10 +53,6 @@ Corran Blackstaff is the founding myth of [[Corranor]]. His sacrifice reshaped t
 - The party witnessed his sacrifice in shared visions upon arriving at the [[Jade Spire]]
 - [[Garm]] and the [[Corranor Council]] continue to study the implications of his containment ritual
 
-## Session 23
-
-When [[Min Ji-ah]] described her landing vision of Corran to [[Lady Blackstaff]] at [[Blackstaff Mansion]], Lady Blackstaff became visibly emotional. She admitted she had never known what Corran looked like, and said Min Ji-ah's account matched what the family already records of his history.
-
 ---
 Race:: Human
 Subrace::
@@ -65,5 +61,9 @@ Class:: Wizard
 Location:: Historical
 Affiliation:: [[Corranor]]
 Deity::
+
+## Session 23 Update (The Door Kickers)
+
+When [[Min Ji-ah]] described her landing vision of Corran to [[Lady Blackstaff]] at [[Blackstaff Mansion]], Lady Blackstaff became visibly emotional. She admitted she had never known what Corran looked like, and said Min Ji-ah's account matched what the family already records of his history.
 
 

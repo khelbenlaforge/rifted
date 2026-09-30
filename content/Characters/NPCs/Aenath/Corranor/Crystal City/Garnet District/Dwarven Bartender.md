@@ -1,15 +1,15 @@
 ---
 title: Dwarven Bartender
 aliases:
-  - Stout Bartender
+- Stout Bartender
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:16:55
 ---
 
 # Dwarven Bartender
@@ -30,11 +30,8 @@ A robust, barrel-chested dwarf with a thick beard shot through with grey and han
 ## Background
 The [[Dwarven Bartender]] has tended bar in the [[Garnet District]] of [[Crystal City]] long enough to have gathered a considerable understanding of local dangers and the wider geography of [[Corranor]]. His brother, [[Devran]], lives in the northern port of [[Stormberg]], and through this connection the bartender possesses knowledge of the wilds on the main island.
 
-When [[Augustus Kennedy]] visited his establishment, the bartender shared valuable intelligence about the terrain beyond the city and warned him of the impending descent of the Transient main island of [[Corranor]] to the surface of [[Aenath]] -- advising him, with characteristic bluntness, to hold onto something for a bumpy ride.
-
 ## Relationships
 - Brother of [[Devran]] of [[Stormberg]]
-- Provided counsel and warnings to [[Augustus Kennedy]]
 - A well-connected source of local knowledge in the [[Garnet District]]
 
 ---
@@ -47,5 +44,11 @@ Alignment:: Unknown
 Class:: Unknown
 Affiliation::
 Deity:: Unknown
+
+## Session 1 Update (The Door Kickers)
+
+When [[Augustus Kennedy]] visited his establishment, the bartender shared valuable intelligence about the terrain beyond the city and warned him of the impending descent of the Transient main island of [[Corranor]] to the surface of [[Aenath]] -- advising him, with characteristic bluntness, to hold onto something for a bumpy ride.
+
+- Provided counsel and warnings to [[Augustus Kennedy]]
 
 

@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-18T20:34
-updated: 2026-09-26T20:02:41
+updated: 2026-09-29T00:12:54
 ---
 
 # Sanctum of Ashardalon
@@ -32,7 +32,7 @@ Status:: Discovered — party has passed through
 
 A hidden chamber of profound cosmological significance buried deep in the Grove Level of the [[Sunless Citadel]], accessible only through the Sealed Door — a seamless basalt monolith covered in drifting deity symbols that tests those who approach through divine affinity and a symbolic trial. The chamber predates the dragon cult that built the citadel around it. [[Ashardalon]]'s followers built atop something far older than their faith, and may never have understood what they were guarding.
 
-An illusion of the great dragon greets entrants at the threshold, dissolving for those who passed the Sealed Door's trial. For everyone else — including [[Balsag]], [[Erky]], and [[Little Sister]] — the illusion holds. They see only the ancient elven architecture and the dragon. They cannot see what stands behind it. Only the five from Earth perceive the Sanctum's true contents, and no one knows why.
+An illusion of the great dragon greets entrants at the threshold, dissolving for those who passed the Sealed Door's trial.
 
 ## The Statuary
 
@@ -50,7 +50,11 @@ A sweeping panorama encircling the chamber. At its origin stands a featureless h
 
 The mural loops endlessly around the walls. Its full meaning has not yet been understood.
 
-## Current Events
+## Session 12 Update (The Door Kickers)
+
+For everyone else—including [[Balsag]], [[Erky]], and [[Little Sister]]—the illusion holds. They see only the ancient elven architecture and the dragon. They cannot see what stands behind it. Only the five from Earth perceive the Sanctum's true contents, and no one knows why.
+
+## Session 13 Update (The Door Kickers)
 
 [[Augustus Kennedy]] touched the mural during Session 13, triggering a vision of the Avatar Crisis that pulled [[Jonathan Jordan]], [[Gill Bates]], and [[Min Ji-ah]] into the bodies of [[Torm of the Dales]], [[Adon]], and [[Midnight]]. The party remains in the prequel vision. The real-world party rests in [[Durnn's Research Lab]], the mural behind them still.
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-17
 secret: false
 created: 2026-09-18T14:00:00
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T20:17:45
 ---
 
 # Sylnathe's Hollow
@@ -37,6 +37,10 @@ A fey community lives here, tucked inside the city rather than hiding from it—
 
 ## Current Events
 
-Life in the Hollow runs on its own clock, unbothered by the Wall's winter or the Guild's own downtime blocks. A normal day here looks like trade: small deals, odd currencies, favors banked instead of spent. What's different right now is only that a new face has started showing up—[[Fern]], who found the district on [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]]'s own referral during her first week back in the city, and left a piece of herself behind in one of those deals.
+Life in the Hollow runs on its own clock, unbothered by the Wall's winter or the Guild's own downtime blocks. A normal day here looks like trade: small deals, odd currencies, favors banked instead of spent.
+
+## Session 8 Update (The Understudies)
+
+What's different right now is only that a new face has started showing up—[[Fern]], who found the district on [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]]'s own referral during her first week back in the city, and left a piece of herself behind in one of those deals.
 
 

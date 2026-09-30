@@ -8,14 +8,14 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:44:08
-updated: 2026-09-26T19:45:04
+updated: 2026-09-29T17:47:46
 ---
 
 # Crossing Visions
 
 Not every vision a Rifted experiences happens at the moment of arrival. Some come later, once they've already been living in [[Corranor]] a while—and when they do, they don't read like the arrival itself. They read like memory.
 
-## The Three Dreams
+## Session 6 Update (The Understudies)
 
 One night in [[Stormberg]], after the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]] had already come and gone, sleep took [[Kili]], [[Roberto]], and [[Keith Poe]] the same way and let go of none of them cleanly. Each dreamed something different, and each dream converged on the same place by the end.
 

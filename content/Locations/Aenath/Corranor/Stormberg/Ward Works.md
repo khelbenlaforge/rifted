@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
-updated: 2026-09-26T17:35:51
+updated: 2026-09-28T19:34:32
 created: 2026-09-07T18:18:57
 ---
 
@@ -32,7 +32,7 @@ Region:: [[Stormberg]]
 Controlled By:: [[Ether Scryer's Academy]]
 Status:: active
 
-### Session 5 Update (The Understudies)
+## Session 5 Update (The Understudies)
 
 - 1 Nightal, Year 222 PA: [[Rhona Voss]] brought [[Esca]] here and left him with **[[Ostrun Kell]]**, the dwarf Wall-wright who runs the floor. She gave him a real tour of it: instruments humming at different pitches, alchemists at work on materials tests a few benches over.
 - A test sample of obsidian-coloured concrete **detonated** during the visit, throwing flame across the room. A materials test; the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]] itself was untouched.

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-27T00:00:00
-updated: 2026-09-27T14:45:21
+updated: 2026-09-29T00:11:40
 ---
 
 # Temple of the Elven Deities
@@ -32,10 +32,16 @@ A multi-deity temple complex for the Elven deities, distinct from the separate c
 
 ## Notable Features
 
+- **Sehanine's shrine**
+
+## Session 26 Update (The Door Kickers)
+
 - **Sehanine's shrine**—site of [[Terra]]'s Feast-rite dance across Sessions 26-27
 
-## Current Events
+[[Terra]] danced [[Sehanine Moonbow|Sehanine]]'s Feast rite here through the night of Session 26 into Session 27—her wings glowing silver, her [[The Exodus/00_My Notes/Items/Door Kickers/Hollowstone|Hollowstone]] pendant heating and melting its cord twice mid-dance.
 
-[[Terra]] danced [[Sehanine Moonbow|Sehanine]]'s Feast rite here through the night of Session 26 into Session 27—her wings glowing silver, her [[The Exodus/00_My Notes/Items/Door Kickers/Hollowstone|Hollowstone]] pendant heating and melting its cord twice mid-dance. She was still dancing, separated from the rest of the party, when every worshiper present turned at once toward the [[Temple of Kelemvor]] and the Gravelord crisis broke.
+## Session 27 Update (The Door Kickers)
+
+She was still dancing, separated from the rest of the party, when every worshiper present turned at once toward the [[Temple of Kelemvor]] and the Gravelord crisis broke.
 
 

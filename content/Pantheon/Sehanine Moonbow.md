@@ -14,7 +14,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T17:46:50
 ---
 
 # Sehanine Moonbow
@@ -40,18 +40,15 @@ Sehanine Moonbow is the elven goddess of the moon, dreams, journeys, and transce
 
 She is fiercely protective of elvenkind specifically: she wove the illusions that hide elven refuges, guides the reincarnated dead of her people toward a final perfected state (alongside Corellon), and holds an old, deep hatred of undeath — she tolerates necromancy only grudgingly, and even the elven tradition of binding a guardian spirit into deathless service is something she allows rather than approves. Where Selûne's war is against her sister [[The Exodus/00_My Notes/Pantheon/Shar|Shar]], Sehanine's opposition runs toward Lolth and the Dark Seldarine, toward [[The Exodus/00_My Notes/Pantheon/Shar|Shar]] in her own right, and toward the undeath-adjacent likes of Myrkul and Velsharoon — with one notable exception among her enemies' side of the family, Eilistraee, whom she treats as something like an adopted daughter despite the distance between them. Her favored weapon is a moon-pale quarterstaff, though she reaches for it rarely — visions and illusion are more her style than force.
 
-## Role in the Story
-
-Session 26's **Mystic Rites of the Luminous Cloud** — Sehanine's faithful becoming streaks of moving light drifting toward whatever felt wrong in the crowd — is confirmed, established lore (`Feast of the Moon.md`), already on record before this session. The new part: **[[The Exodus/The Door Kickers/PCs/Terra|Terra]] danced the ritual without knowing it**, her wings glowing silver instead of their usual fairy-gold, moving through steps she'd never learned alongside elves, dwarves, fae, and humans who all somehow knew the same choreography.
-
-Terra's Cold Open was a flashback vision to the Time of Troubles, experienced as a follower of Sehanine. Another follower gave up its own soul to empower Sehanine in the fight against [[Lolth]] and her followers; Terra chose not to, and watched it happen, sensing a familiar presence ([[The Unbound]]) on Lolth's side. None of this — Sehanine, Lolth, or the Unbound's presence — was named in play.
-
 ## Connections
 
 - **[[Corellon]]** — Consort (or father, depending on the myth cited) and fellow head of the Seldarine; the two share Arvandor and, per elven belief, jointly guide reincarnated souls toward perfection.
 - **[[Selûne]]** — Close ally, fellow moon deity, worked closely together per shared lore.
 - **[[Kelemvor]]**, **[[Mystra]]**, and **[[Savras]]** — Allied deities outside the Seldarine, drawn together by their shared stakes in death, magic, and fate.
-- **Myrkul** and **Velsharoon** — Enemies, tied to her hatred of undeath. No notes yet — exist in Aenath per the same standing the user confirmed for [[The Exodus/00_My Notes/Pantheon/Azuth|Azuth]]'s Velsharoon/Deneir/Leira, not a current priority to build out.
-- **The Exodus/The Door Kickers/PCs/Terra** — experienced a Cold Open flashback to the Time of Troubles as a follower of Sehanine; see Role in the Story above.
+- **Myrkul** and **Velsharoon**—Enemies, tied to her hatred of undeath.
+
+## Session 26 Update (The Door Kickers)
+
+Session 26's **Mystic Rites of the Luminous Cloud**—Sehanine's faithful becoming streaks of moving light drifting toward whatever felt wrong in the crowd—is confirmed, established lore (`Feast of the Moon.md`), already on record before this session. The new part: **[[The Exodus/The Door Kickers/PCs/Terra|Terra]] danced the ritual without knowing it**, her wings glowing silver instead of their usual fairy-gold, moving through steps she'd never learned alongside elves, dwarves, fae, and humans who all somehow knew the same choreography.
 
 

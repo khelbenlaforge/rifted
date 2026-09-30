@@ -1,15 +1,14 @@
 ---
 created: 2026-06-24T18:53:48
-
-title: "The Gravelords"
+title: The Gravelords
 aliases:
-  - Priesthood of Kelemvor
+- Priesthood of Kelemvor
 tags:
-  - faction
+- faction
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T20:17:50
 ---
 
 # The Gravelords
@@ -35,8 +34,6 @@ They keep a library. It is not public. Accounts of clerics who plane-shifted to 
 
 The First Gravelord is the head of the order, currently [[Cadmus Tallow]], 31 years into office. The Gravelords otherwise present a collective face: individual clerics are identifiable by their vestments and subdued manner, but names are offered slowly, if at all. The institutional preference is for the work to speak.
 
-- **[[Augustus Kennedy]]** — Adherent. Not ordained; not a cleric. A recognized affiliate granted library access and formal standing because the divine signature on his [[Kelemvor's Brand|Brand]] was too clear to argue with. The Gravelords do not argue with clear signatures.
-
 ## Operations
 
 The Gravelords administer the temple's day-to-day operation: incoming soul assessments, the library, the Neutral Cloister, and all records pertaining to planar transit. They process requests from the living — inquiries about the deceased, theological questions, requests for the Processing Chambers — with the efficiency of a very well-run post office that also happens to adjudicate the afterlife.
@@ -46,8 +43,6 @@ Their plane-shifting operations are historical rather than current. The library 
 ## Current Status
 
 Stable and well-resourced within Crystal City. They hold institutional respect across the [[Diamond District]] and maintain the feud with the Churches of [[Mystra]] and [[Oghma]] as a point of principle rather than active hostility — wild magic destabilizing the Weave disrupts planar transit, and disrupted planar transit creates administrative nightmares. The Gravelords have long memories and a comprehensive filing system.
-
-[[Augustus Kennedy]] now holds adherent status. It is not a common distinction for someone who is not a cleric. The Brand made the argument for him.
 
 ## Membership
 
@@ -77,7 +72,13 @@ Stable and well-resourced within Crystal City. They hold institutional respect a
 Leader:: [[Cadmus Tallow]]
 Headquarters:: [[Temple of Kelemvor]]
 
-## Session 28
+## Session 20 Update (The Door Kickers)
+
+- **[[Augustus Kennedy]]**—Adherent. Not ordained; not a cleric. A recognized affiliate granted library access and formal standing because the divine signature on his [[Kelemvor's Brand|Brand]] was too clear to argue with. The Gravelords do not argue with clear signatures.
+
+[[Augustus Kennedy]] now holds adherent status. It is not a common distinction for someone who is not a cleric. The Brand made the argument for him.
+
+## Session 28 Update (The Door Kickers)
 
 - The First Gravelord is the head of the order.
 - [[Cadmus Tallow]] currently holds the post and has been in office for 31 years.

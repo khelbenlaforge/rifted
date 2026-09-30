@@ -8,7 +8,7 @@ introduced: 2026-09-04
 secret: false
 state: alive
 created: 2026-09-04T00:00:00
-updated: 2026-09-26T19:24:08
+updated: 2026-09-28T19:34:32
 ---
 
 # Wystan
@@ -33,11 +33,11 @@ Location:: [[Crystal City]]
 Affiliation:: [[Corranor Council]]
 Deity::
 
-## Session 28
+## Session 28 Update (The Door Kickers)
 
 - At the Council of Seven's first full public appearance, [[Min Ji-ah]] read him from the crowd: he didn't hear a word anyone said, eyes going back and forth between Gill on the platform and the rest of the party below it, the appetite in it curiosity rather than malice—*what can I get out of these people that I have not had a chance at yet.* She stared back until it was uncomfortable.
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - Met [[Min Ji-ah]] at the [[Ether Scryer's Academy]] archive.
 - Didn't deny watching her at the [[Jade Spire]] when she raised it. *"Old habit,"* he said. *"I watch what the Archive can't yet explain, and I couldn't explain you."*

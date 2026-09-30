@@ -1,15 +1,15 @@
 ---
 title: Lurkleaf
 aliases:
-  - Lurkleafs
+- Lurkleafs
 tags:
-  - creature
-  - creature/beast
+- creature
+- creature/beast
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-13T23:59
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:16:52
 ---
 
 # Lurkleaf
@@ -41,8 +41,6 @@ A gentle, leaf-coated creature that blends seamlessly into undergrowth. Its body
 
 **Temperament:** Shy but affectionate once trust is earned. Their presence has a calming effect on nearby creatures — a quality that makes them prized by healers and herbalists.
 
-**Note:** [[Ember]] spotted a Lurkleaf near [[Tymora's Shrine]] in [[Sunhold]].
-
 ## Role in the World
 
 Lurkleafs are considered living omens of forest health. When they vanish from an area, druids take it as a sign that something has gone deeply wrong with the land. Some settlements keep domesticated Lurkleafs in communal gardens as both pest control and morale.
@@ -50,5 +48,9 @@ Lurkleafs are considered living omens of forest health. When they vanish from an
 ## D&D 5e Stat Block
 
 
+
+## Session 7 Update (The Door Kickers)
+
+**Note:** [[Ember]] spotted a Lurkleaf near [[Tymora's Shrine]] in [[Sunhold]].
 
 

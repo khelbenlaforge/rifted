@@ -1,14 +1,14 @@
 ---
 title: Tymora's Shrine
-aliases:
+aliases: null
 tags:
-  - location
-  - location/temple
+- location
+- location/temple
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-25T23:40:24
+updated: 2026-09-29T20:17:29
 ---
 # Tymora's Shrine
 
@@ -32,7 +32,8 @@ Perched on a small rise at the edge of [[Sunhold]], this humble shrine is built 
 
 - **[[Sister Garaele]]** — Half-elf cleric of Tymora who offers healing and spiritual comfort
 
-## Current Events
+## Session 7 Update (The Door Kickers)
 
 [[Gill Bates]] was sent here to assist [[Sister Garaele]], who revealed that her gnome acolyte [[Erky]] had ventured south alone to rescue the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] children and had not returned. The party received healing potions before departing on their own rescue mission.
+
 

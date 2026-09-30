@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-09
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T20:16:59
 created: 2026-09-12T00:00:00
 ---
 
@@ -46,9 +46,6 @@ Soft-spoken and precise, never raises his voice even mid-sentence to cut someone
 
 - 1–10 Nightal (downtime): [[Kili]] showed up with a bottle of [[The Exodus/The Understudies/PCs/Roberto|Roberto]]'s brewing and won him over on the taste alone.
 - 1–10 Nightal (downtime): she's a regular now. Half the visits are a pitch for his custom at the Wallwatch's own speakeasy; the rest of the time she just sits and watches the room—Verenthal servants running errands for the fortress and the manors, [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Amethyst District/Ether Scryer's Academy|Ether Scryer's Academy]] staff between shifts, citizens well-off enough to have never once priced a wall gang's wages.
-
-## Relationships
-
-- [[Kili]] — won him over with good alcohol and a bit of nerve; he's let her become a fixture without asking many questions about why.
+- [[Kili]]—won him over with good alcohol and a bit of nerve; he's let her become a fixture without asking many questions about why.
 
 

@@ -8,7 +8,7 @@ introduced: 2026-09-14
 secret: false
 state: alive
 created: 2026-09-26T00:00:00
-updated: 2026-09-26T23:10:00
+updated: 2026-09-29T00:11:24
 ---
 > [!infobox|right wikipedia]+
 > # Merrit
@@ -20,12 +20,16 @@ updated: 2026-09-26T23:10:00
 
 Merrit is the gnome Keeper of the Sky Roads on the [[Corranor Council]]—established routes, trade, cargo and supply, including the eastern lanes. [[Ysolde]] builds and maintains the airship engines; Merrit decides where the ships go.
 
-A short, jolly figure who likes being seen: at the Council's first full public appearance, he stood on a raised platform of his own just to be noticed, delight written all over him. At the party's Session 29 status-hearing summons, he voted in their favor alongside [[Garm]] and [[Wystan]], against [[Doran]], [[Nerise]] and [[Ysolde]], with [[Oriel Blackstaff]] deciding. He remains unnamed to the party, who know him only as an unnamed gnome Keeper.
+A short, jolly figure who likes being seen: at the Council's first full public appearance, he stood on a raised platform of his own just to be noticed, delight written all over him.
 
 ---
 Race:: Gnome
 Pronouns:: He/him
 Location:: [[Crystal City]]
 Affiliation:: [[Corranor Council]]
+
+## Session 29 Update (The Door Kickers)
+
+At the party's Session 29 status-hearing summons, he voted in their favor alongside [[Garm]] and [[Wystan]], against [[Doran]], [[Nerise]] and [[Ysolde]], with [[Oriel Blackstaff]] deciding. He remains unnamed to the party, who know him only as an unnamed gnome Keeper.
 
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-27T03:40:46
+updated: 2026-09-29T20:18:04
 ---
 
 # Amethyst District
@@ -31,8 +31,12 @@ The arcane quarter of [[Crystal City]], where shimmering amethyst crystals adorn
 
 ## Notable Features
 
-- **[[Ether Scryer's Academy]]** — The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[Min Ji-ah]] here.
+- **[[Ether Scryer's Academy]]**—The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]].
 - [[Alchemist's Guild]]
 - **[[The Shining Wand]]**—spell-scroll and sundries shop kept by [[Kara]]
+
+## Session 1 Update (The Door Kickers)
+
+- **[[Ether Scryer's Academy]]**—The premier institution for wizardry, specializing in arcane theory, divination, and magics related to the Exodus. Home to [[Elmindaria L'Thorian]], who mentors [[Min Ji-ah]] here.
 
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 created: 2026-06-24T16:56
-updated: 2026-09-26T18:44:41
+updated: 2026-09-29T01:13:39
 ---
 
 # Temple of Kelemvor
@@ -43,15 +43,10 @@ At the far end of the Knights' hall, three archways stand taller than the surrou
 - **[[The Gravelords]]** (Priesthood of Kelemvor) — Clerics who administer the domain: assessments, records, planar processing. They run the temple's daily operations.
 - **[[Knights of the Eternal Order]]** — Paladins whose specific charge is the cross-planar gates. They prevent unauthorized transit in either direction and ensure the dead arrive where they're supposed to.
 - **[[Brother Silas]]**—of the [[Monks of the Long Death]].
-- **[[Augustus Kennedy]]** — Joined as an adherent during Session 19 downtime after [[Sir Gareth Ironhand]] recognized the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought him here. The temple did not debate it. He is now joining the [[Knights of the Eternal Order]].
 
 ## Current Events
 
-[[Sir Gareth Ironhand]] of the [[Hall of Justice - Temple of Tyr]] recently brought [[Augustus Kennedy]] to the temple after identifying the panther energies in his Brand as Kelemvorian in origin. The clerics and paladins accepted the transfer without ceremony — the divine signature spoke clearly. Augustus has since taken on junior duties while maintaining his law enforcement role with Tyr's judiciary.
-
 The institutional feud with the churches of [[Mystra]] and [[Oghma]] is not currently active in an overt sense, but the position has never softened: knowledge without responsibility destabilizes the Weave, wild magic disrupts planar transit, and Kelemvor's people have watched it happen enough times to regard the other two churches with permanent structural skepticism.
-
-Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, and he began joining the [[Knights of the Eternal Order]]. The three internal orders now have standalone faction notes: [[The Gravelords]], [[Knights of the Eternal Order]], and [[Monks of the Long Death]].
 
 ## Session 27 Update (The Door Kickers)
 
@@ -84,5 +79,13 @@ Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, an
 Region:: [[Diamond District]], [[Crystal City]]
 Controlled By:: Church of [[Kelemvor Lyonsbane|Kelemvor]]
 Status:: active
+
+## Session 20 Update (The Door Kickers)
+
+- **[[Augustus Kennedy]]**—Joined as an adherent during Session 19 downtime after [[Sir Gareth Ironhand]] recognized the Lyonsbane panther energies of [[Kelemvor's Brand]] and brought him here. The temple did not debate it. He is now joining the [[Knights of the Eternal Order]].
+
+[[Sir Gareth Ironhand]] of the [[Hall of Justice - Temple of Tyr]] recently brought [[Augustus Kennedy]] to the temple after identifying the panther energies in his Brand as Kelemvorian in origin. The clerics and paladins accepted the transfer without ceremony—the divine signature spoke clearly. Augustus has since taken on junior duties while maintaining his law enforcement role with Tyr's judiciary.
+
+Session 20: Augie gained Extra Turn Undead 1/day, library access was granted, and he began joining the [[Knights of the Eternal Order]].
 
 

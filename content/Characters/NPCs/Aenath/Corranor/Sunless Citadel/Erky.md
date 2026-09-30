@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:12:36
 ---
 
 # Erky
@@ -36,25 +36,36 @@ Deity:: [[Tymora]]
 
 ## Description
 
-Erky is Erkaniel Timbers, guildmaster of the [[Adamantine Guild]], traveling under the appearance and cover of a gnome acolyte. To the party before Session 18, he appeared to be a gnome of small stature with the devotion of someone who had been tested by captivity and come out still willing to help. He serves as an acolyte of [[Tymora]]'s Shrine under [[Sister Garaele]], and his willingness to venture into danger on behalf of others speaks to a courage that belies his size. His spirits have recovered from his ordeal with an irrepressible cheerfulness that cuts through the citadel's gloom.
+Erky is Erkaniel Timbers, guildmaster of the [[Adamantine Guild]], traveling under the appearance and cover of a gnome acolyte. He serves as an acolyte of [[Tymora]]'s Shrine under [[Sister Garaele]], and his willingness to venture into danger on behalf of others speaks to a courage that belies his size. His spirits have recovered from his ordeal with an irrepressible cheerfulness that cuts through the citadel's gloom.
 
 ## Background
 
 [[Erky]] is the cover identity of Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]. He posed as an acolyte tied to [[Tymora's Shrine]] while operating in and around [[Sunhold]].
 
-He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sunless Citadel]] and held in a cage alongside a Velvet Vulper called [[Little Sister]]. The party found and rescued both of them in Session 10. In Session 18, [[Luks Borg]] and [[Elmindaria L'Thorian]] arrived and addressed him as guildmaster, revealing his full identity to the party.
-
-## Key Events
-
-- **The Sanctum (Session 12):** When the party entered the true [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]], Erky saw only the illusion — the Ashardalon dragon and the ancient elven architecture. The murals, the statues of [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]], [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Bahamut|Bahamut]], and [[The Exodus/00_My Notes/Pantheon/Takhisis|Takhisis]], and the revealed shape of [[Aenath]] were all invisible to him. [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|The Sanctum]] revealed itself only to the five PCs from Earth.
-- **The Lab Battle (Session 12):** Contributed powerful heals at key moments during the fight against the vine serpent and twig blight swarm in [[Durnn]]'s Research Lab. More capable than his size suggests.
+He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sunless Citadel]] and held in a cage alongside a Velvet Vulper called [[Little Sister]].
 
 ## Relationships
 
 - Erkaniel Timbers, guildmaster of the [[Adamantine Guild]]
 - Ventured south to rescue the missing [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] children and was captured
+
+## Session 10 Update (The Door Kickers)
+
+The party found and rescued both of them in Session 10.
+
 - Traveled with the party under cover alongside [[Little Sister]], [[Balsag]], and [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Sunless Citadel/Grip|Grip]]
-- **Under observation:** [[Luks Borg]] gave [[Min Ji-ah]] a secret directive to keep Erky close and watch him without his knowledge — reason unknown
+- **Under observation:** [[Luks Borg]] gave [[Min Ji-ah]] a secret directive to keep Erky close and watch him without his knowledge—reason unknown
+
+## Session 12 Update (The Door Kickers)
+
+- **The Sanctum (Session 12):** When the party entered the true [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]], Erky saw only the illusion—the Ashardalon dragon and the ancient elven architecture. The murals, the statues of [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]], [[The Exodus/00_My Notes/Pantheon/Gond|Gond]], [[The Exodus/00_My Notes/Pantheon/Bahamut|Bahamut]], and [[The Exodus/00_My Notes/Pantheon/Takhisis|Takhisis]], and the revealed shape of [[Aenath]] were all invisible to him. [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|The Sanctum]] revealed itself only to the five PCs from Earth.
+- **The Lab Battle (Session 12):** Contributed powerful heals at key moments during the fight against the vine serpent and twig blight swarm in [[Durnn]]'s Research Lab. More capable than his size suggests.
+
+## Session 18 Update (The Door Kickers)
+
+To the party before Session 18, he appeared to be a gnome of small stature with the devotion of someone who had been tested by captivity and come out still willing to help.
+
+In Session 18, [[Luks Borg]] and [[Elmindaria L'Thorian]] arrived and addressed him as guildmaster, revealing his full identity to the party.
 
 ## Session 7 Update (The Understudies)
 
@@ -64,7 +75,7 @@ He appeared to be captured within the [[Durbuluk Goblins]]' section of the [[Sun
 
 
 
-## Session 19
+## Session 19 Update (The Door Kickers)
 
 Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster reveal. At [[Elmindaria L'Thorian|Daria]]'s request, he attempted Banishment on [[Shen]]'s patron; the spell failed because the patron was too powerful.
 

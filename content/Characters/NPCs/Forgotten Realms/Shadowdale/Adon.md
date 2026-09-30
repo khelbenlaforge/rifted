@@ -8,7 +8,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:28
-updated: 2026-09-26T19:36:25
+updated: 2026-09-29T20:17:53
 ---
 
 # Adon
@@ -25,36 +25,6 @@ updated: 2026-09-26T19:36:25
 > | Affiliation | Church of Sune |
 > | Deity | [[Sune]] |
 
-## Personality
-
-Devoted, good-hearted, and openly vain. His concern for his appearance is sincere, not a mask for anything else. He serves a goddess of beauty, and he takes the mandate personally. This makes him somewhat easier to underestimate than he deserves.
-
-Shadowdale did not meet his standards. He made this clear. [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Jhaele Silvermane|Jhaele Silvermane]] served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
-
-Level 3 cleric. During the Avatar Crisis, clerics cannot gain spells of 3rd level or higher through prayer; Adon is unaffected since he's not yet casting at that level. The senior Sune clerics he left behind in Arabel were panicking over the loss of divine power — Adon departed untroubled. He can still hear Sune. He sees no problem.
-
-## Background
-
-A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party — [[Midnight]], [[Torm of the Dales]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]] — as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
-
-## The Scar
-
-At the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]] in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation — when the east wall blew outward and the room was nothing but light — a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
-
-A cleric of [[Sune]] — the goddess of beauty — marked across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light.
-
-It will build slowly. Adon serves a goddess who holds beauty as sacred. He carries, now, an imperfection that no magic will fix and no faith will explain away.
-
-## Role in the Vision
-
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Gill Bates]] temporarily inhabited Adon's body.
-
-## Session 15
-
-In the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]], during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
-
-The scar is permanent. For a cleric of [[Sune]] — the goddess of beauty — this is not a minor wound. How Adon reconciles a god of beauty's silence at the moment her chosen was permanently scarred is a question he has not yet had to face.
-
 ---
 Race:: Human
 Subrace::
@@ -63,6 +33,28 @@ Class:: Cleric
 Location:: [[Shadowdale]]
 Affiliation:: Church of [[Sune]]
 Deity:: [[Sune]]
+
+## Session 13 Update (The Door Kickers)
+
+Devoted, good-hearted, and openly vain. His concern for his appearance is sincere, not a mask for anything else. He serves a goddess of beauty, and he takes the mandate personally. This makes him somewhat easier to underestimate than he deserves.
+
+A cleric of [[Sune]] who found himself in Arabel when the Storm struck. He joined the party—[[Midnight]], [[Torm of the Dales]], [[Cyric]], [[Kelemvor Lyonsbane|Kelemvor]]—as they responded to [[Caitlan Moonsong]]'s plea. He brings healing, divine magic, and a thoroughgoing commitment to looking presentable in difficult circumstances.
+
+In the prequel vision triggered by the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Gill Bates]] temporarily inhabited Adon's body.
+
+## Session 14 Update (The Door Kickers)
+
+Shadowdale did not meet his standards. He made this clear. [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Jhaele Silvermane|Jhaele Silvermane]] served him a crystal carafe of expensive wine without being asked. He accepted it as his due.
+
+## Session 15 Update (The Door Kickers)
+
+In the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]], during the final moments of the battle, the east wall exploded outward when [[Mystra]]'s pendant ignited. A masonry shard caught Adon across the face — clean and sudden. He did not notice until the sky was open and [[Elminster]], [[Mystra]]'s fragment, and [[Bane]] had vanished through the Celestial Stairway. Blood on his fingers.
+
+The scar is permanent. For a cleric of [[Sune]] — the goddess of beauty — this is not a minor wound. How Adon reconciles a god of beauty's silence at the moment her chosen was permanently scarred is a question he has not yet had to face.
+
+At the [[The Exodus/00_My Notes/Locations/Forgotten Realms/Shadowdale/Temple of Lathander|Temple of Lathander]] in [[Shadowdale]], during the final moment of [[Midnight]]'s transformation—when the east wall blew outward and the room was nothing but light—a masonry shard caught Adon across the face. He noticed the blood on his fingers only after. It will leave a scar. Permanent.
+
+A cleric of [[Sune]]—the goddess of beauty—marked across the face in the moment a dead goddess chose to die again on purpose. Nobody saw it happen. There was too much light.
 
 ## Character Sheet
 

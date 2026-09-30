@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-26T19:22:25
+updated: 2026-09-29T20:17:33
 ---
 
 # Istar Silverlock
@@ -33,8 +33,6 @@ A lean figure with silver-white hair cascading in soft waves around an angular f
 
 The reluctant Assistant Guildmaster of the [[Adamantine Guild]], Istar manages the organization in the frequent absence of its gnomish guildmaster. Once a charlatan and street rat, he found his way into the guild and rose through the ranks by being, in his own words, "the only one stupid enough to stay." The guild is in dire straits — severely understaffed with only himself, [[Elmindaria L'Thorian]], and [[Luks Borg]] remaining to handle all operations. His frustration with the [[Corranor Council]], particularly [[Garm]], over unfulfilled supply promises is a constant source of tension.
 
-When the five newcomers arrived, Istar saw both a burden and an opportunity. He took [[Jonathan Jordan]] as his personal apprentice, testing him with a mission to steal a gold coin from [[Elmindaria L'Thorian]] — a test Jonathan passed with the help of the entire party's elaborate diversions. Istar negotiated the party's deployment to [[Sunhold]], establishing terms of 1 sp per person per day, guild housing, official peacekeeping charter, supplies, and training.
-
 ## Abilities
 
 - Expertise in Investigation, Perception, Deception, and Insight
@@ -46,7 +44,6 @@ When the five newcomers arrived, Istar saw both a burden and an opportunity. He 
 
 ## Relationships
 
-- **[[Jonathan Jordan]]** — His apprentice; training him in roguish arts and guild operations
 - **[[Elmindaria L'Thorian]]** — Fellow remaining guild member; mutual respect despite very different backgrounds
 - **[[Luks Borg]]** — The third remaining guild member; relies on Luks for muscle and field operations
 - **[[Garm]]** — Frustrated with the archmage over broken supply promises
@@ -61,6 +58,12 @@ Alignment:: Chaotic Good
 Class:: Bard/Rogue
 Affiliation:: [[Adamantine Guild]]
 Deity::
+
+## Session 1 Update (The Door Kickers)
+
+When the five newcomers arrived, Istar saw both a burden and an opportunity. He took [[Jonathan Jordan]] as his personal apprentice, testing him with a mission to steal a gold coin from [[Elmindaria L'Thorian]]—a test Jonathan passed with the help of the entire party's elaborate diversions. Istar negotiated the party's deployment to [[Sunhold]], establishing terms of 1 sp per person per day, guild housing, official peacekeeping charter, supplies, and training.
+
+- **[[Jonathan Jordan]]**—His apprentice; training him in roguish arts and guild operations
 
 ## Character Sheet
 
@@ -172,18 +175,18 @@ Deception +12★ · Insight +9★ · Investigation +8★ · Perception +9★ · 
 **Gear:** Light Crossbow, Bolts ×20, Backpack, Ball Bearings, Bell, Candles ×10, Crowbar, Hooded Lantern, Oil ×7, Rations ×5, Rope, Tinderbox, Waterskin, Forgery Kit, Thieves' Tools, Costume, Fine Clothes
 
 ---
-## Session 19
+## Session 19 Update (The Door Kickers)
 
 Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[Jonathan Jordan]] stole from [[Elmindaria L'Thorian]]. Istar tasked Jonathan with stealing the recently installed mithral scales from the great statue at the [[Hall of Justice - Temple of Tyr]], forty feet above the floor. Istar will train him for a month; if he performs the theft well, the reward is half-proficiency in Deception.
 
-## Session 26
+## Session 26 Update (The Door Kickers)
 
 - Brought the party outside to witness the three moons.
 - Declared, "The Blackstaffs do not own this guild. If we choose not to go, we don't go."
 - Told the party the [[Corranor Council|Council of Seven]] wanted to see them the next day after a public address.
 - Said a priest of [[Kelemvor]] would close the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]] with a blessing for [[Crystal City]].
 
-## Session 29
+## Session 29 Update (The Door Kickers)
 
 - Sent the party off with a 2gp/head stipend from his own pocket.
 - Gave them a sealed token for [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Stormberg/Rhona Voss|Rhona Voss]] at the [[Stormberg]] Wallwatch.

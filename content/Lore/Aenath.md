@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-09-27T14:21:31
+updated: 2026-09-29T17:47:02
 ---
 
 # Aenath
@@ -25,14 +25,18 @@ A southern continent is confirmed to exist and reachable, though unseen by anyon
 
 Beyond the settled areas, [[Aenath]] is dangerous and largely unknown. The [[Dwarven Bartender]] in [[Crystal City]]'s [[Garnet District]] warned of the perils awaiting those who venture into the mainland, and the vast marshes south of [[Sunhold]] conceal territories from which few have returned. Ancient ruins, strange lights in distant mountains, and worked stone bearing mysterious symbols hint at civilizations — or forces — that predate [[The Awakening]]. Beneath the surface, the [[Underdark]] extends into darkness whose bounds remain entirely unmapped.
 
-## Metaphysical Connections
-
-The [[Astral Sea]] — a vast incorporeal realm where souls drift among massive entities — is linked to [[Aenath]]'s history. During the cataclysm that preceded [[The Awakening]], over 10,000 souls were observed trailing behind a colossal entity in the Astral Sea, suggesting a migration or transition of spirits connected to the world's violent reshaping.
-
 ## Cosmology
 
-Recent discoveries within the [[Sunless Citadel]] have revealed that [[Aenath]] is a **flat, rectangular world** — a revelation that overturns any assumption of spherical geography. A scale model within an ancient sanctum depicts the world as a slab, with [[Mystra]] holding her hands over it protectively and [[Gond]] poised to shape it with a smith's hammer. [[Bahamut]] and [[Takhisis]] stand as co-protectors facing outward, and the symbols of the four primordial elemental gods are carved beneath — [[Istishia]] among them, given over to Gond's hammer at the world's making. See [[Gond]] § The Making of Aenath for the exchange between the two.
+Beneath the [[Sunless Citadel]] lies a chamber of ancient elven stonework, older than the fortress built over it and guarded by the illusion of a great dragon.
 
-A mural in the same chamber depicts what appears to be a **primordial exodus** — millions of lights being led away from a featureless humanoid figure by deities of every alignment and domain, with the gods of the lower planes defending the rear. The full significance of this imagery remains undeciphered.
+## Session 1 Update (The Door Kickers)
+
+The [[Astral Sea]]—a vast incorporeal realm where souls drift among massive entities—is linked to [[Aenath]]'s history. During the cataclysm that preceded [[The Awakening]], over 10,000 souls were observed trailing behind a colossal entity in the Astral Sea, suggesting a migration or transition of spirits connected to the world's violent reshaping.
+
+## Session 11 Update (The Door Kickers)
+
+Recent discoveries within the [[Sunless Citadel]] have revealed that [[Aenath]] is a **flat, rectangular world**—a revelation that overturns any assumption of spherical geography. A scale model within an ancient sanctum depicts the world as a slab, with [[Mystra]] holding her hands over it protectively and [[Gond]] poised to shape it with a smith's hammer. [[Bahamut]] and [[Takhisis]] stand as co-protectors facing outward, and the symbols of the four primordial elemental gods are carved beneath—[[Istishia]] among them.
+
+A mural in the same chamber depicts what appears to be a **primordial exodus**—millions of lights being led away from a featureless humanoid figure by deities of every alignment and domain, with the gods of the lower planes defending the rear. The full significance of this imagery remains undeciphered.
 
 

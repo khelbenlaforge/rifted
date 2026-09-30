@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-30T17:46
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T17:47:20
 ---
 
 # Bane
@@ -46,6 +46,8 @@ He is depicted as a figure of absolute authority draped in darkness, his symbol 
 
 Tyrants, warlords, slavers, and those who believe that order achieved through fear is preferable to the chaos of freedom. His church operates through intimidation and rigid internal hierarchy, with high priests who have proven their dominance over every rival beneath them.
 
-During the Avatar Crisis — the prequel arc the party is living through — Bane is an active, dangerous force in the world. His avatar walks among mortals. His followers are positioned to take advantage of the divine chaos unfolding around them.
+## Session 15 Update (The Door Kickers)
+
+During the Avatar Crisis Bane is an active, dangerous force in the world. His avatar walks among mortals. His followers are positioned to take advantage of the divine chaos unfolding around them.
 
 

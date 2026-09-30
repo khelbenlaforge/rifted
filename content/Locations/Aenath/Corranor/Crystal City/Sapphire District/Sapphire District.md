@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-05-26
 secret: false
-updated: 2026-09-27T13:57:57
+updated: 2026-09-29T20:17:47
 created: 2026-05-26T00:00
 ---
 
@@ -46,8 +46,6 @@ The [[Magocracy of Corranor]] governs this district nominally. In practice, the 
 
 The district is quieter than it has been in a generation. Several families relocated from Crystal City during the city's descent from the Floating Lands — some to [[Sunhold]], some farther east. The estates they left behind are watched over by retainers and caretakers, but the warmth has gone out of them. Those who remain notice it. Soral Vayne, who has watched this neighborhood for forty years, says it feels like a held breath.
 
-[[Min Ji-ah]] arrived in the district seeking connections. What [[Soral Vayne]] saw when she walked through his door is not something he has shared.
-
 ## Scene Features
 
 **Atmosphere:** *A place that remembers everything and volunteers nothing — every introduction carries a cost the visitor doesn't learn until later.*
@@ -62,5 +60,9 @@ The district is quieter than it has been in a generation. Several families reloc
 Region:: [[Crystal City]]
 Controlled By:: [[Magocracy of Corranor]]
 Status:: active
+
+## Session 19 Update (The Door Kickers)
+
+[[Min Ji-ah]] arrived in the district seeking connections.
 
 

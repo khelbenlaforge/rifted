@@ -1,14 +1,14 @@
 ---
 title: Yusdrayl
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: dead
 created: 2026-03-16T16:00
-updated: 2026-09-25T23:40:24
+updated: 2026-09-29T00:13:14
 ---
 
 # Yusdrayl
@@ -53,15 +53,22 @@ Yusdrayl leads the [[Ordahir Kobolds]], who occupy the southern and eastern sect
 
 The wyrmling [[Calcryx]] was the colony's living proof of that heritage. When the [[Durbuluk Goblins]] took Calcryx, Yusdrayl lost both a political symbol and the last buffer between her leadership and the discontent building beneath it. The [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] delegation took on the retrieval task weeks ago and never returned.
 
-She offered the party what she has: a key to the deeper southern sections in exchange for the wyrmling's return.
-
 ## Role in the Story
 
 - Quest giver: retrieve [[Calcryx]] from [[Durbuluk Goblins]] in exchange for a key to the southern sections
 - The wyrmling is more valuable to her as political currency than as a creature
 - Did not know [[Ragh]] orchestrated the kidnapping; did not see the coup coming
 - Genuinely desperate beneath the performance — the riot she feared arrived in the form of Ragh himself
+- **Death:** [[Ragh]] carried her unconscious body into goblin territory during his triumphant return (Session 10). [[Durnn]] threw her down the well in the Throne Room without ceremony.
+
+## Session 8 Update (The Door Kickers)
+
+She offered the party what she has: a key to the deeper southern sections in exchange for the wyrmling's return.
+
 - The party correctly assessed that her talk of honoring dragons was largely political positioning
-- **Death:** [[Ragh]] carried her unconscious body into goblin territory during his triumphant return (Session 10). [[Durnn]] threw her down the well in the Throne Room without ceremony. Her body was found at the base of the shaft by the party on their descent to the Grove Level.
+
+## Session 10 Update (The Door Kickers)
+
+Her body was found at the base of the shaft by the party on their descent to the Grove Level.
 
 

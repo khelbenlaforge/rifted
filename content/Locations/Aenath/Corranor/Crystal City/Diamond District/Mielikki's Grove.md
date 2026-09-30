@@ -1,14 +1,14 @@
 ---
 title: Mielikki's Grove
-aliases:
+aliases: null
 tags:
-  - location
-  - location/temple
+- location
+- location/temple
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:18:00
 ---
 # Mielikki's Grove
 
@@ -41,9 +41,12 @@ A temple that is less a building than a piece of the forest itself, transplanted
 - **[[Sylvara Oakwhisper]]** — 94-year-old half-elf ranger who teaches [[Mielikki]]'s principles of balance between wilderness and civilization
 - **[[Frost]]** — Sylvara's white wolf companion
 
-## Current Events
+## Session 1 Update (The Door Kickers)
 
 [[Ember]] trained here under [[Sylvara Oakwhisper]], learning druidic philosophy and the balance between nature and civilization. Sylvara taught that serving [[Mielikki]] does not mean rejecting the works of mortals, but rather protecting the wild places while embracing sustainable coexistence.
 
-[[Terra]] has now begun serving here under [[Sylvara Oakwhisper]] after [[Istar Silverlock]] directed her to the grove. While touching the earth within the temple, she sensed a unicorn in her mind's eye — one of [[Mielikki]]'s aspects acknowledging her presence.
+## Session 23 Update (The Door Kickers)
+
+[[Terra]] has now begun serving here under [[Sylvara Oakwhisper]] after [[Istar Silverlock]] directed her to the grove. While touching the earth within the temple, she sensed a unicorn in her mind's eye—one of [[Mielikki]]'s aspects acknowledging her presence.
+
 

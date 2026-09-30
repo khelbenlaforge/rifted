@@ -1,15 +1,15 @@
 ---
 title: Balsag
-aliases:
+aliases: null
 tags:
-  - npc
-  - creature/fey
+- npc
+- creature/fey
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T00:12:54
 ---
 
 # Balsag
@@ -47,20 +47,25 @@ Good-natured in the way of creatures who have decided not to make trouble for th
 
 ## Background
 
-Balsag was the keeper of the dragon [[Calcryx]] in the [[Sunless Citadel]] — responsible for the wyrmling's care and feeding, a job that suited his temperament better than combat ever did. When the food supply ran short, he descended into the [[The Exodus/00_My Notes/Locations/Aenath/Underdark|Underdark]] tunnels beneath the citadel to find more. He became lost. The tunnels deposited him eventually onto the Grove Level, where he was attacked by plant creatures before the party found him and intervened.
+Balsag was the keeper of the dragon [[Calcryx]] in the [[Sunless Citadel]] — responsible for the wyrmling's care and feeding, a job that suited his temperament better than combat ever did. When the food supply ran short, he descended into the [[The Exodus/00_My Notes/Locations/Aenath/Underdark|Underdark]] tunnels beneath the citadel to find more. He became lost.
 
 He does not yet know that [[Calcryx]] was kidnapped, that the Upper Level tore itself apart over her, or that the entire political arrangement he was operating within has since collapsed.
-
-## Key Events
-
-- **The Sanctum (Session 12):** Like [[Erky]] and [[Little Sister]], Balsag could not see the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]]'s true contents — only the Ashardalon illusion and the ancient elven architecture. The murals and the deity statues were invisible to him. Only the five PCs from Earth perceived the chamber's real nature.
-- **The Lab Battle (Session 12):** Fought alongside the party and [[Grip]] against a vine serpent and twig blight swarm in [[Durnn]]'s Research Lab; continues to pull his weight as a companion.
 
 ## Relationships
 
 - Former keeper of [[Calcryx]] (the wyrmling dragon)
+
+## Session 10 Update (The Door Kickers)
+
+The tunnels deposited him eventually onto the Grove Level, where he was attacked by plant creatures before the party found him and intervened.
+
 - Traveling companion of the party; joined during the Grove Level encounter
 - Companion alongside [[Erky]], [[Little Sister]], and [[Grip]] (his remaining giant rat)
+
+## Session 12 Update (The Door Kickers)
+
+- **The Sanctum (Session 12):** Like [[Erky]] and [[Little Sister]], Balsag could not see the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]]'s true contents—only the Ashardalon illusion and the ancient elven architecture. The murals and the deity statues were invisible to him. Only the five PCs from Earth perceived the chamber's real nature.
+- **The Lab Battle (Session 12):** Fought alongside the party and [[Grip]] against a vine serpent and twig blight swarm in [[Durnn]]'s Research Lab; continues to pull his weight as a companion.
 
 ## D&D 5e Stat Block
 

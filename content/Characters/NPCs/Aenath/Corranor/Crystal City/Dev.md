@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-21
 secret: false
 state: alive
-updated: 2026-09-27T03:31:44
+updated: 2026-09-28T19:34:32
 created: 2026-09-27T03:31:44
 ---
 
@@ -30,7 +30,7 @@ Location:: [[Crystal City]] (shanty towns)
 Affiliation::
 Deity:: [[Mielikki]]
 
-## Session 30 (The Door Kickers)
+## Session 30 Update (The Door Kickers)
 
 Found by [[Nanuk]] still up by the fire at [[The Straggler's Rest]] with his partner, both cagier than [[Ossa]] had been about the same road she'd already talked about freely. Something in the way they talked about the woods invoked [[Mielikki]], half-prayer and half-habit, the kind of thing hunters say without thinking about it.
 

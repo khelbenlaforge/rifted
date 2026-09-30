@@ -1,14 +1,14 @@
 ---
 title: Hucrele Pavilion
-aliases:
+aliases: null
 tags:
-  - location
-  - location/building
+- location
+- location/building
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-25T23:40:24
+updated: 2026-09-29T20:17:18
 ---
 
 # Hucrele Pavilion
@@ -34,8 +34,8 @@ A semi-permanent structure of wooden frame and quality canvas that stands out sh
 - **[[Talgen Hucrele Sr.]]** — Patriarch who relocated the family to invest in [[Sunhold]]
 - **[[Keldara Hucrele]]** — Matriarch, desperately seeking her missing children
 
-## Current Events
+## Session 7 Update (The Door Kickers)
 
-The pavilion became the site of a critical briefing. [[Talgen Hucrele Sr.]] explained how [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children — [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]] — insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They never returned. [[Keldara Hucrele]] presented a half-eaten [[Goblin Fruit]] that remained impossibly fresh; [[Ember]] sensed its blood-like quality, and [[Min Ji-ah]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gold per child returned alive, 200 gold for signet rings if dead, plus a family heirloom.
+The pavilion became the site of a critical briefing. [[Talgen Hucrele Sr.]] explained how [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] had visited two weeks prior with a magical healing fruit, inviting a delegation south. His children—[[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]]—insisted on going, escorted by [[Sir Braford]] and [[Karakas]]. They never returned. [[Keldara Hucrele]] presented a half-eaten [[Goblin Fruit]] that remained impossibly fresh; [[Ember]] sensed its blood-like quality, and [[Min Ji-ah]]'s Detect Magic revealed necromantic and divine/draconic energies. Talgen offered 500 gold per child returned alive, 200 gold for signet rings if dead, plus a family heirloom.
 
 

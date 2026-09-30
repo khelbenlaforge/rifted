@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:17:22
 ---
 
 # Frost
@@ -34,7 +34,6 @@ Frost is fiercely loyal to [[Sylvara Oakwhisper]] and rarely strays far from her
 ## Relationships
 
 - **[[Sylvara Oakwhisper]]** — His ranger companion and lifelong partner in guarding [[Mielikki's Grove]]
-- **[[Ember]]** — Present during Ember's training sessions at the Grove
 
 ---
 ## Tags

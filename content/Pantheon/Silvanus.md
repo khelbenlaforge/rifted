@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-26T19:25:22
+updated: 2026-09-29T20:18:48
 ---
 
 # Silvanus
@@ -46,9 +46,13 @@ Where [[Mielikki]] advocates for compassion and coexistence between the wild and
 ## Followers & Influence
 Silvanus is revered by druids, nature wardens, and those who dwell in the deep wild far from roads and cities. His followers tend to be less approachable than those of [[Mielikki]] — they are ascetics and guardians who enforce nature's balance with unflinching resolve, even when that balance demands hard choices.
 
-[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], acknowledges the philosophical divide between her faith and that of Silvanus. She respects his druids but notes that their willingness to accept suffering as intrinsic to life can make them difficult allies. The tension between the two traditions — compassionate stewardship versus impartial natural law — is one of the defining debates among the nature-faithful of [[Aenath]].
+[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]], acknowledges the philosophical divide between her faith and that of Silvanus. She respects his druids but notes that their willingness to accept suffering as intrinsic to life can make them difficult allies. The tension between the two traditions—compassionate stewardship versus impartial natural law—is one of the defining debates among the nature-faithful of [[Aenath]].
 
-## Session 28
+## Session 1 Update (The Door Kickers)
+
+[[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], acknowledges the philosophical divide between her faith and that of Silvanus.
+
+## Session 28 Update (The Door Kickers)
 
 - Silvanus is not one of the four elemental primordials; he is a separate deity of nature who willingly allowed his divine essence to be hammered into the world to bring life.
 - Silvanus is inside the astral barrier rather than in [[The Exodus/00_My Notes/Locations/Cosmology/Arborea|Arborea]], which is why he can still speak to mortals.

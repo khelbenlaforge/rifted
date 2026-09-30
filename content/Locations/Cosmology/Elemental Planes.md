@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-04
 secret: false
 created: 2026-09-26T15:13:43
-updated: 2026-09-26T19:21:19
+updated: 2026-09-29T17:47:16
 ---
 
 # Elemental Planes
@@ -21,7 +21,7 @@ updated: 2026-09-26T19:21:19
 > | Type | Plane cluster (four) |
 > | Access | Inside the astral barrier |
 
-Four planes, one for each element, all sitting inside the astral barrier alongside the material world. Each is anchored by a primordial demigod whom [[Gond]] hammered into Aenath's own fabric at the world's making—not destroyed, but given over as a temporary sacrifice (see [[Gond]] § The Making of Aenath). All four primordials are weakening, confirmed in play during Session 28.
+Four planes, one for each element, all sitting inside the astral barrier alongside the material world.
 
 ## Fire
 
@@ -38,5 +38,9 @@ Home of [[Grumbar]], primordial demigod of earth.
 ## Water
 
 Home of [[Istishia]], primordial demigod of water.
+
+## Session 28 Update (The Door Kickers)
+
+Each is anchored by a primordial demigod whom [[Gond]] hammered into Aenath's own fabric at the world's making—not destroyed, but given over as a temporary sacrifice (see [[Gond]] § The Making of Aenath). All four primordials are weakening, confirmed in play during Session 28.
 
 

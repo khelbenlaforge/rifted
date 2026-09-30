@@ -10,7 +10,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:24
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T20:18:13
 ---
 
 # Torm of the Dales
@@ -30,32 +30,6 @@ updated: 2026-09-26T17:35:51
 > [!warning] Name Note
 > This is **Torm of the Dales**, a mortal rogue and Knight of Myth Drannor — distinct from [[Torm]] the deity. The shared name is a coincidence of the Avatar era. "Of the Dales" is a DM title; his canon name is simply *Torm*.
 
-## Personality
-
-Undercover work suits him — he is comfortable with partial truths, skilled at watching without being watched. He has not told the party that he knows [[Elminster]] personally. He has reasons for this that he has not shared.
-
-Harper doctrine holds that agents never identify each other in the field — not even to allies. The network's strength is anonymity: [[The Exodus/00_My Notes/Factions/Forgotten Realms/The Harpers|Harpers]] can be *everywhere* precisely because no one knows who belongs. So when Torm passes another Harper, he does not acknowledge it — discipline, not deception.
-
-Flippant, deliberately outrageous, quick-witted and pranksome. Good-hearted in a way that doesn't always announce itself — the jokes are a layer, not the whole thing. Loyal to the [[The Exodus/00_My Notes/Factions/Forgotten Realms/The Harpers|Harpers]] and to what they stand for.
-
-## Background
-
-A Knight of Myth Drannor — one of the Realms' most celebrated adventuring companies, named for the fallen elven city, operating as champions of good across Faerûn — and a Harper agent working undercover in Arabel when the Storm hit. He joined the group of [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]] as they navigated the chaos of the Avatar Crisis in Cormyr. His Harper connections and his knowledge of the political landscape of the Sword Coast gave the party direction when the divine world fell into chaos.
-
-He knows [[Elminster]]. He told the party in Shadowdale — first casually dropping that the magical tower was "my friend Elminster's," then confirming it under [[Midnight]]'s *Command* spell. He withheld the Harper context: that he's been sent on missions by Elminster, that the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Knights of Myth Drannor|Knights of Myth Drannor]] are Elminster's personal confidants. The facts checked out; the depth did not.
-
-## Role in the Vision
-
-A canonical character from the Forgotten Realms **Avatar Series** (The Times of Trouble). In the prequel vision triggered by the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Jonathan Jordan]] temporarily inhabited Torm's body. JJ is not Torm; the inhabiting is a vision mechanic, not a soul connection — though this may be revisited in the future.
-
-## Session 15
-
-[[Rathan Thentraver]] was at [[Elminster]]'s Tower when the party arrived. The reunion: *"Two silver, Torm."* A bear hug, then held at arm's length, grin wide. No suspicion — Rathan read [[Jonathan Jordan]] as Torm and saw what he expected to see. Later, at the war council: *"You're the only one who keeps this place lively."*
-
-Rathan explained to the others: Torm is a Knight of Myth Drannor, one of the Ninth regiment returning. He is also a Harper. Both identities were already known to the prequel party; hearing them named aloud, by his closest friend, to a room full of lords and Knights, settled the shape of who he is in this era.
-
-At the Ashaba Bridge, mid-battle, [[Illistyl Elventree]] found him between phases. *"You're alive."* Then she launched him back into the fray with a force spell and kissed him on the cheek as he flew. JJ had no idea who she was.
-
 ---
 Race:: Human
 Subrace::
@@ -64,6 +38,26 @@ Class:: Rogue
 Location:: [[Shadowdale]]
 Affiliation:: Harpers, Knights of Myth Drannor
 Deity::
+
+## Session 13 Update (The Door Kickers)
+
+Undercover work suits him—he is comfortable with partial truths, skilled at watching without being watched.
+
+A Knight of Myth Drannor—one of the Realms' most celebrated adventuring companies, named for the fallen elven city, operating as champions of good across Faerûn—and a Harper agent working undercover in Arabel when the Storm hit. He joined the group of [[Midnight]], [[Adon]], [[Cyric]], and [[Kelemvor Lyonsbane|Kelemvor]] as they navigated the chaos of the Avatar Crisis in Cormyr.
+
+In the prequel vision triggered by the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Sunless Citadel/Sanctum of Ashardalon|Sanctum]] mural, [[Jonathan Jordan]] temporarily inhabited Torm's body.
+
+## Session 14 Update (The Door Kickers)
+
+He knows [[Elminster]]. He told the party in Shadowdale—first casually dropping that the magical tower was "my friend Elminster's," then confirming it under [[Midnight]]'s *Command* spell.
+
+## Session 15 Update (The Door Kickers)
+
+[[Rathan Thentraver]] was at [[Elminster]]'s Tower when the party arrived. The reunion: *"Two silver, Torm."* A bear hug, then held at arm's length, grin wide. No suspicion — Rathan read [[Jonathan Jordan]] as Torm and saw what he expected to see. Later, at the war council: *"You're the only one who keeps this place lively."*
+
+Rathan explained to the others: Torm is a Knight of Myth Drannor, one of the Ninth regiment returning. He is also a Harper. Both identities were already known to the prequel party; hearing them named aloud, by his closest friend, to a room full of lords and Knights, settled the shape of who he is in this era.
+
+At the Ashaba Bridge, mid-battle, [[Illistyl Elventree]] found him between phases. *"You're alive."* Then she launched him back into the fray with a force spell and kissed him on the cheek as he flew. JJ had no idea who she was.
 
 ## Character Sheet
 

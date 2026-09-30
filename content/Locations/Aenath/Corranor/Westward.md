@@ -8,13 +8,14 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-09-26T17:35:51
+updated: 2026-09-30T17:55:14
 ---
 
 # Westward
 
 > [!infobox|right wikipedia]+
 > # Westward
+> ![[zzz_Attachments/Westward.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -39,7 +40,7 @@ Come at it from the forest and the smoke finds you before the buildings do—cha
 - **The Coalings**—burn camps scattered through the Wildwood, hauling cut fuel in by cart for every forge in Slagrow. The burners go a little further into the trees every year, and not all of them come back with a story anyone quite believes.
 - **The Cliffwatch**—the [[Adamantine Guild]]'s Westward branch, a squat stone post at the top of the western cliffs. Thinly staffed, like every Guild post these days, but it watches the stair below more closely than it watches the ledgers.
 - **The West Stair**—a switchback stair cut into the cliff face below the Cliffwatch, roped off and guarded, usable only while the island rides aloft, and the Guild has never said what's down there.
-- **The Deep Index**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex built into the cliff near the Cliffwatch. Not yet named to any party at the table; grounds Dessa Kestrel's own vague reference to "a couple of researchers in the area" (Session 3). Separate charter from the Guild, same small town, so word travels between them regardless.
+- **The Deep Index**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex built into the cliff near the Cliffwatch. Separate charter from the Guild, same small town, so word travels between them regardless.
 
 ## Residents
 
@@ -54,7 +55,7 @@ Come at it from the forest and the smoke finds you before the buildings do—cha
 
 ### Off-Cycle (Current)
 
-Westward is off-cycle right now, between landfalls. The strait's long drained, and the Ferry Quays stand empty, keel-scars still drying in the mud. Slagrow and the Coalings carry the town instead—char thick enough to taste, forge-heat leaking through every open doorway, a hammer-beat that never quite lines up with itself. That's the noise the AUGs walked into first, delivered to the Cliffwatch's door by a guide Layla arranged in advance. Dessa Kestrel met them alone, same as most days, and opened a Guild evaluation on the Proving Floor. It still hasn't closed.
+Westward is off-cycle right now, between landfalls. The strait's long drained, and the Ferry Quays stand empty, keel-scars still drying in the mud. Slagrow and the Coalings carry the town instead—char thick enough to taste, forge-heat leaking through every open doorway, a hammer-beat that never quite lines up with itself.
 
 ## Scene Features
 
@@ -72,5 +73,9 @@ Westward is off-cycle right now, between landfalls. The strait's long drained, a
 - *A Coalings crew doesn't come back on schedule.* When a burn-camp crew misses its return to Slagrow, the forges start rationing charcoal within a day, and talk in town turns fast—no name gets spoken as fact, just guesses.
 
 > *What does the town believe happened, and how far from the truth is that guess?*
+
+## Session 3 Update (The AUGs)
+
+That's the noise the AUGs walked into first, delivered to the Cliffwatch's door by a guide Layla arranged in advance. Dessa Kestrel met them alone, same as most days, and opened a Guild evaluation on the Proving Floor. It still hasn't closed.
 
 

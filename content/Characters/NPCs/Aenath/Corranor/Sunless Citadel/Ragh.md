@@ -1,14 +1,14 @@
 ---
 title: Ragh
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:13:06
 ---
 
 # Ragh
@@ -51,20 +51,29 @@ Ragh serves as the [[Ordahir Kobolds]]' chief military officer, commanding the w
 
 Through secret channels, he contacted [[Durnn]] — the goblin leader who seized power by killing the previous goblin elders — and brokered Calcryx's kidnapping. The condition: the wyrmling be kept safe. Ragh's plan is for [[Yusdrayl]] to fall without the wyrmling to politically sustain her, at which point he intends to lead the colony himself, broker genuine peace with the goblins, and restore the citadel to something worthy of the heritage it holds.
 
-He told the party all of this when they pressed him — partly because they'd earned it, partly because he needed at least one faction in the citadel to understand the full picture.
-
-He offered the party a guide to goblin territory to find the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] party — on the condition they leave [[Calcryx]] alone and do not interfere with his coming uprising.
-
 ## Role in the Story
 
 - Key political actor: orchestrated Calcryx's kidnapping; **coup complete** — carried the unconscious [[Yusdrayl]] into goblin territory and presented her to [[Durnn]] and the assembled goblins (Session 10)
 - Genuine dragon devotee, in contrast to Yusdrayl's performative worship
 - Secret ally of [[Durnn]]; has brokered a fragile cross-faction peace deal
+
+## Session 8 Update (The Door Kickers)
+
+He told the party all of this when they pressed him—partly because they'd earned it, partly because he needed at least one faction in the citadel to understand the full picture.
+
+He offered the party a guide to goblin territory to find the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] party—on the condition they leave [[Calcryx]] alone and do not interfere with his coming uprising.
+
 - Will help the party reach the [[The Exodus/00_My Notes/Factions/Corranor/Hucrele Family|Hucrele]] delegation if they don't cross him
 - The party found his weapons suspiciously clean for claimed skirmish frequency
-- *[[The Exodus/00_My Notes/Items/Door Kickers/Toothpick|Toothpick]]* — his named blade — was stolen by [[Ember]] during Durnn's victory revel while Ragh was intoxicated
-- [[Augustus Kennedy]] angered him by making light of [[Calcryx]] — his devotion is not to be tested
-- **Correspondence with [[Belak]]:** A letter from Belak to Ragh was found in the goblin prison — Belak was considering bringing Ragh "into the fold." What that means is unknown, but it places Ragh in Belak's orbit and suggests the druid sees something useful in him
-- **Letters confirmed:** Hidden compartment in the goblin prison contained letters between Durnn and Ragh confirming their cross-faction conspiracy in writing — the party now holds this evidence
+- [[Augustus Kennedy]] angered him by making light of [[Calcryx]]—his devotion is not to be tested
+
+## Session 9 Update (The Door Kickers)
+
+- **Correspondence with [[Belak]]:** A letter from Belak to Ragh was found in the goblin prison—Belak was considering bringing Ragh "into the fold." What that means is unknown, but it places Ragh in Belak's orbit and suggests the druid sees something useful in him
+- **Letters confirmed:** Hidden compartment in the goblin prison contained letters between Durnn and Ragh confirming their cross-faction conspiracy in writing—the party now holds this evidence
+
+## Session 10 Update (The Door Kickers)
+
+- *[[The Exodus/00_My Notes/Items/Door Kickers/Toothpick|Toothpick]]*—his named blade—was stolen by [[Ember]] during Durnn's victory revel while Ragh was intoxicated
 
 

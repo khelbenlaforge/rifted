@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 state: alive
-updated: 2026-09-26T18:44:41
+updated: 2026-09-29T20:17:55
 created: 2026-08-15T22:49:29
 ---
 
@@ -30,15 +30,9 @@ Hollis wears his plate the way some men wear a good suit: polished, correctly fi
 
 Hollis takes his oaths at face value, which the Hall of Justice trained out of most of its paladins years ago and never quite managed to train out of him. He says what he means and expects the same courtesy back — arguing with him is exhausting precisely because he only concedes a point when he's actually convinced. He's seen enough of the world to know how badly it can go. He just never decided that knowing it required becoming cynical.
 
-*(Left loose deliberately — the guest player should feel free to run him however they want to at the table.)*
-
 ## Background
 
-Hollis came up through the Hall of Justice's training courtyards the standard way: an Acolyte's postulancy, calligrapher's ink still under his nails from years of copying case law before he ever drew a blade in anger. [[Sir Gareth Ironhand]] signed off on his ordination personally, which around the Hall counts for more than most people realize. He was partnered with [[Augustus Kennedy|Augustus Kennedy]] not long after Augustus's own conversion path settled — the two of them work the same rounds now, backing each other on whatever the Church of Tyr's judiciary hands down that week.
-
-## Role in the Story
-
-Augustus's partner on the beat. Wherever Tyr's law-enforcement duties take Augustus, Hollis is usually a step behind or beside him — which means he's a plausible reason for a guest character to be standing next to the party when something goes wrong.
+Hollis came up through the Hall of Justice's training courtyards the standard way: an Acolyte's postulancy, calligrapher's ink still under his nails from years of copying case law before he ever drew a blade in anger. [[Sir Gareth Ironhand]] signed off on his ordination personally, which around the Hall counts for more than most people realize.
 
 ---
 Location:: [[Hall of Justice - Temple of Tyr]]

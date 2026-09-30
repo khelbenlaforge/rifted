@@ -1,14 +1,14 @@
 ---
 title: Jhaele Silvermane
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
 created: 2026-03-22T23:00
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T01:10:10
 ---
 
 # Jhaele Silvermane
@@ -41,13 +41,7 @@ She has run the Old Skull Inn in [[Shadowdale]] for long enough that she is part
 
 She is a noble in hiding — her bearing is not affect. It is the bearing of someone who has seen far grander rooms and preferred this one.
 
-She recognized [[Torm of the Dales]] as a regular visitor of Shadowdale; she almost used his title before catching herself.
-
 ## Role in the Story
-
-The prequel party met Jhaele at the Old Skull Inn in Session 14. In the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush that followed in the courtyard, she emerged from the inn on round 2 carrying a crossbow: *"Do not touch children in my presence."* She fought without hesitation. The party won.
-
-She will want answers about the panther. She will not throw anyone out. She will hand someone a cloth and wait.
 
 > [!quote] Read Aloud
 > *"Well met, travelers. Welcome to my house. You have found the Old Skull Inn, and I am Jhaele Silvermane, at your service."*
@@ -60,5 +54,11 @@ Class:: Fighter
 Location:: [[Old Skull Inn]]
 Affiliation:: [[Shadowdale]]
 Deity::
+
+## Session 14 Update (The Door Kickers)
+
+She recognized [[Torm of the Dales]] as a regular visitor of Shadowdale; she almost used his title before catching herself.
+
+The prequel party met Jhaele at the Old Skull Inn in Session 14. In the [[The Exodus/00_My Notes/Factions/Forgotten Realms/Zhentarim|Zhentarim]] ambush that followed in the courtyard, she emerged from the inn on round 2 carrying a crossbow: *"Do not touch children in my presence."* She fought without hesitation. The party won.
 
 

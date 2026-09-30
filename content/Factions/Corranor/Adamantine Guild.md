@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-26T19:36:33
+updated: 2026-09-29T01:10:41
 ---
 
 # Adamantine Guild
@@ -35,7 +35,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Luks Borg]]** — Senior Adventurer, currently establishing the [[Sunhold]] outpost
 - **[[Jonathan Jordan]]**, **[[Gill Bates]]**, **[[Ember]]**, **[[Augustus Kennedy]]**, **[[Min Ji-ah]]** — Crystal City recruits, transported from Earth (High Harvestide, Year 222 PA)
 - **[[Rhona Voss]]** — Branch Leader, Stormberg Wallwatch; a former culler who traded the tunnels for the desk
-- **[[Kili]]**, **[[Keith Poe]]**, **[[Roberto]]**, **[[Samson Flint]]**, **[[Esca]]** — Stormberg intake, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA (Session 4, The Understudies). They arrived already wearing brass bracers sent ahead by an unidentified party; [[Rhona Voss]] recognised the rank as genuine and took them onto the branch's books, rather than conferring it herself. **Who issued those bracers is still unresolved** — see the party Dashboard's Open Threads.
+- **[[Kili]]**, **[[Keith Poe]]**, **[[Roberto]]**, **[[Samson Flint]]**, **[[Esca]]** — Stormberg intake, [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA (Session 4, The Understudies).
 
 ## Branches
 
@@ -43,13 +43,13 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]]'s own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
 - **The Tallhouse, [[Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
-- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed a party (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
+- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers.
 
 ## Guildhall & Pocket Dimensions
 
 Every branch's headquarters includes a pocket dimension locked to that one location—it doesn't breach the barrier and doesn't allow travel between branches. Most run as dormitories: the Crystal City headquarters' own extradimensional quarters give each member a personalized pocket room, complete with impossibly comfortable beds and a floating breakfast spread; the Wallwatch keeps "a pocket dimension like the Guild kept in Crystal City," five doors to rooms and a common room with its own floating disk; the Tallhouse's is smaller still, a pocket dormitory off the back hall.
 
-The Cliffwatch's pocket dimension works differently. [[Dessa Kestrel]] brought a party through a portal that reshaped itself from a plain room into an arena—**the Proving Floor**—mist curling across worn stone under an open sky, used for evaluations rather than rest (Session 3). Whether that's the same underlying pocket dimension as the other branches' dormitories, just reconfigured for testing, or a fundamentally different construction isn't stated outright—left as an open inference, not confirmed fact.
+The Cliffwatch's pocket dimension works differently.
 
 ## Operations
 
@@ -57,17 +57,37 @@ The guild was once well-staffed, but [[Shadow Creatures]] attacks and frontier d
 
 ## Rank System
 
-Four tiers, mirroring 5e's own tiers of play: **Brass → Iron → Mithril → Adamantite.** Brass is the bottom rung — bracers stamped and sealed as the real thing, but the newest and least-trusted rank a member can hold. Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch recognised brass bracers on sight as legitimate rank, and [[Rhona Voss]] — who runs that branch — confirmed them as genuine while noting the rank had not been issued by her own branch.
+Four tiers, mirroring 5e's own tiers of play: **Brass → Iron → Mithril → Adamantite.** Brass is the bottom rung — bracers stamped and sealed as the real thing, but the newest and least-trusted rank a member can hold.
 
-The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves; confirmed at [[Coldford]]'s city gate (Session 3, The JULYs), where it was recognised on sight and waved the party through without incident.
+The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves.
 
 ## Current Status
 
-Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere. The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.
+Severely understaffed. The gnomish guildmaster disappears frequently, leaving [[Istar Silverlock]] to manage everything. Most members are deployed elsewhere.
+
+## Session 1 Update (The Door Kickers)
+
+The five newcomers joined during High Harvestide PA 222 and have been sent to establish a guild outpost in [[Sunhold]] on terms of 1 sp per person per day, guild housing, and official charter.
+
+## Session 3 Update (The AUGs)
+
+A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed a party (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
+
+[[Dessa Kestrel]] brought a party through a portal that reshaped itself from a plain room into an arena—**the Proving Floor**—mist curling across worn stone under an open sky, used for evaluations rather than rest (Session 3).
+
+## Session 3 Update (The JULYs)
+
+The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves; confirmed at [[Coldford]]'s city gate (Session 3, The JULYs), where it was recognised on sight and waved the party through without incident.
 
 **Rifted headcount (per [[Petra Hale]], Session 3, The JULYs):** a rough, self-admittedly imprecise count spanning three cities—nine at the main branch, five in [[Stormberg]], six now in Coldford. Before testing a party this small, she measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 
-## Session 19
+## Session 4 Update (The Understudies)
+
+They arrived already wearing brass bracers sent ahead by an unidentified party; [[Rhona Voss]] recognised the rank as genuine and took them onto the branch's books, rather than conferring it herself. **Who issued those bracers is still unresolved**—see the party Dashboard's Open Threads.
+
+Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch recognised brass bracers on sight as legitimate rank, and [[Rhona Voss]]—who runs that branch—confirmed them as genuine while noting the rank had not been issued by her own branch.
+
+## Session 19 Update (The Door Kickers)
 
 [[Shen]] and [[Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
 

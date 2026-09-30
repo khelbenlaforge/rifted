@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:44:27
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:14:27
 ---
 
 # The Blood Trade
@@ -21,12 +21,18 @@ The bulk trade. [[Torem]], flying survey routes for the [[Azure Tamers]], has wa
 
 ## Human Blood—the Transit Reagent
 
-A separate, much darker strand. When [[Elmindaria L'Thorian|Daria]] examined the reagents behind the Session 22 transit accident, she was explicit that the working wasn't built from creature material. Human blood, human bone, and something of the mind behind them—that's what a seventh-level transit spell actually consumes, by her own reading of one sample. That's her reading of one working, not a general rule for every planar spell in Corranor.
+A separate, much darker strand.
 
-## Tiefling and Aasimar Blood—Planar Reagents
+## Session 22 Update (The Door Kickers)
+
+When [[Elmindaria L'Thorian|Daria]] examined the reagents behind the Session 22 transit accident, she was explicit that the working wasn't built from creature material. Human blood, human bone, and something of the mind behind them—that's what a seventh-level transit spell actually consumes, by her own reading of one sample. That's her reading of one working, not a general rule for every planar spell in Corranor.
+
+## Session 5 Update (The Understudies)
 
 A third strand, reported secondhand: [[Rhona Voss]] relayed to the Understudies that reagents drawn specifically from tiefling and aasimar blood are able to "punch a hole through space and time"—and that Crystal City has an untraceable black market trading in exactly that. She was struggling to recall the message accurately as she relayed it, so treat the precision as approximate, not exact. Nothing like it has surfaced in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]].
 
-Later and separately, [[Dessa Kestrel]] told the AUGs about [[The Claret]] operating city-wide with no fixed leader—and named [[Rachel Tan]]'s own tiefling blood as a trade target in the same breath. Whether that's the same market Rhona described, or a parallel one, hasn't been confirmed.
+## Session 3 Update (The AUGs)
+
+Later and separately, [[Dessa Kestrel]] told the AUGs about [[The Claret]] operating city-wide with no fixed leader—and named [[Rachel Tan]]'s own tiefling blood as a trade target in the same breath.
 
 

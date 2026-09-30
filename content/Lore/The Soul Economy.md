@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-04
 secret: false
 created: 2026-09-04T00:00
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T17:47:46
 ---
 
 # The Soul Economy
@@ -30,6 +30,10 @@ Neutral and godless souls are a different case. Their destination lies in the Ou
 
 ## Souls as Currency
 
-The Lower Planes' appetite for souls in circulation is what makes them a market rather than just an afterlife. [[Regius]]'s cold-open vision placed his mother in a black river, handing a scroll to a winged figure he reads as [[Asmodeus]]—*"three souls for mine."*
+The Lower Planes' appetite for souls in circulation is what makes them a market rather than just an afterlife.
+
+## Session 28 Update (The Door Kickers)
+
+[[Regius]]'s cold-open vision placed his mother in a black river, handing a scroll to a winged figure he reads as [[Asmodeus]]—*"three souls for mine."*
 
 

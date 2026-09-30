@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T19:40:00
-updated: 2026-09-26T23:10:00
+updated: 2026-09-29T17:47:47
 ---
 
 # Peoples of Aenath
@@ -17,7 +17,7 @@ Long life buys nothing here. A seven-hundred-year-old elf remembers exactly as m
 
 ## Who Lives Here
 
-Humans, elves, dwarves, orcs, and gnomes all woke into Corranor together at the Awakening, and all five sit represented at the highest levels of the Magocracy today: [[Garm]], an orc wizard, holds the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Jade Spire|Jade Spire]]'s own presiding seat on the [[Corranor Council]]; [[Doran]], a dwarf abjurer, commands the city's wards as Keeper of the Bulwark; a gnome Keeper sits the council too, unnamed to the party so far; [[Elmindaria L'Thorian|Elmindaria]], a high elf, has taught at the [[Ether Scryer's Academy]] and served the [[Adamantine Guild]] for centuries. Nothing in the vault establishes which of these peoples is more numerous than another, or where any of them lived before Year 0, only that all of them were there for it.
+Humans, elves, dwarves, orcs, and gnomes all woke into Corranor together at the Awakening, and all five sit represented at the highest levels of the Magocracy today: [[Garm]], an orc wizard, holds the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Jade Spire|Jade Spire]]'s own presiding seat on the [[Corranor Council]]; [[Doran]], a dwarf abjurer, commands the city's wards as Keeper of the Bulwark; a gnome Keeper sits the council too; [[Elmindaria L'Thorian|Elmindaria]], a high elf, has taught at the [[Ether Scryer's Academy]] and served the [[Adamantine Guild]] for centuries. Nothing in the vault establishes which of these peoples is more numerous than another, or where any of them lived before Year 0, only that all of them were there for it.
 
 ## The Shared Ceiling
 

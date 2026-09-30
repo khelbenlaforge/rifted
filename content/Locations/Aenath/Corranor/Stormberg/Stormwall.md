@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-09-27T19:44:00
+updated: 2026-09-29T00:12:38
 created: 2026-09-25T16:57:31
 ---
 
@@ -43,8 +43,10 @@ Right now, with the gates still shut, two parties are out past the Wall and can'
 
 A breach in the Wall—twenty feet high, fifteen wide, cut clean through a stretch the work crews wouldn't go near—turned up first in Session 7, when [[The Exodus/The Understudies/PCs/Samson Flint|Samson Flint]] and [[The Exodus/The Understudies/PCs/Keith Poe|Keith Poe]] surveyed a section they'd found swaying wrong underfoot; both went in far enough to get frostbitten and glimpse something with a wing the color of old bone before the cold drove them back out. Rhona bandaged them, heard the account, and posted the breach itself on the Guild's own board as a job—so the breach's existence is already known to the Guild. Session 8 confirmed what it actually held: **[[Calcryx]]**, a young white dragon now, denning in the breach with her keeper **[[Meepo]]** at her side. Her prolonged presence is quietly reinforcing the Wall's structure there—Samson called it better than concrete—and the party struck a deal on her behalf: she stays, and the Wall gets stronger for it, in exchange for the party carrying her case back to the Guild and the city, and keeping her fed rather than hunted. That case hasn't been carried back yet—only the Understudies, and Meepo, know it's Calcryx in there and what she's asking for.
 
+The young dragon denning in the breach—see Session 8 Update above—is the one confirmed, named case, though her name stays known only to the Understudies and Meepo; by the terms of her own deal, her prolonged presence is making the Wall stronger for the trouble. She isn't proof of anything larger. She's simply the first time anyone's put a name and a face to what's out there—the same stretch the arctic expeditions cross and the etheric-crystal surveys keep combing, still turning up shards nobody's traced to a source. Nothing confirms a second dragon exists. Until one does, she's the whole of the north's dragon population that Corranor actually knows about.
+
 ## White Dragons of the Northern Reaches
 
-Past the Wall, white dragons are rare. The young dragon denning in the breach—see Session 8 Update above—is the one confirmed, named case, though her name stays known only to the Understudies and Meepo; by the terms of her own deal, her prolonged presence is making the Wall stronger for the trouble. She isn't proof of anything larger. She's simply the first time anyone's put a name and a face to what's out there—the same stretch the arctic expeditions cross and the etheric-crystal surveys keep combing, still turning up shards nobody's traced to a source. Nothing confirms a second dragon exists. Until one does, she's the whole of the north's dragon population that Corranor actually knows about.
+Past the Wall, white dragons are rare.
 
 

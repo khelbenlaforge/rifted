@@ -1,16 +1,16 @@
 ---
 title: Elminster
 aliases:
-  - Elminster Aumar
-  - The Old Mage
+- Elminster Aumar
+- The Old Mage
 tags:
-  - npc
+- npc
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 state: alive
 created: 2026-03-18T20:22
-updated: 2026-09-26T17:35:51
+updated: 2026-09-29T00:13:47
 ---
 
 # Elminster
@@ -38,17 +38,21 @@ Cryptic, warm, and more dangerous than he looks. Elminster does not give answers
 
 One of the most powerful and longest-lived wizards in the known world. He makes his home in [[Shadowdale]] and is known across the realms as a figure of immense magical knowledge and quiet influence. Those who seek him out rarely do so casually.
 
-## Role in the Story
+## Session 13 Update (The Door Kickers)
 
-The destination of the party's prequel journey. Following [[Mystra]]'s destruction at the hands of [[Helm]], [[Torm of the Dales]] relayed Helm's cryptic directive — *find the Tablets of Fate* — and the group turned toward Shadowdale. Elminster is their best hope for understanding what that means and what comes next.
+The destination of the party's prequel journey. Following [[Mystra]]'s destruction at the hands of [[Helm]], [[Torm of the Dales]] relayed Helm's cryptic directive—*find the Tablets of Fate*—and the group turned toward Shadowdale. Elminster is their best hope for understanding what that means and what comes next.
 
-In Session 15, the prequel party found him at the pond outside the tower — feet in water, pipe going, hat on. He greeted them with characteristic economy: *"Took ye long enough. Sit down, you're blocking the light."* He conjured a bench on the spot. To "Torm" (JJ): *"Did ye, at any point this evening, attempt to pick someone's pocket during an armed altercation?"* He explained the Avatar Crisis in full — [[AO]], the Tablets, the Celestial Stairway — and recruited the party to deny [[Bane]] its use.
+## Session 15 Update (The Door Kickers)
 
-At the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]], he fought Bane in an arcane duel spanning four rounds: Time Stop, Wish for a third stop, Disintegrate, Power Word Kill, the full weight of four centuries of earned arsenal — while simultaneously working to seal the Stairway. He fell on Round 8. Dropped to one knee, smoke rising from his robes, eyes moving to [[Midnight]]'s pendant — blazing brilliant. *"Be brave lass, take him down."*
+In Session 15, the prequel party found him at the pond outside the tower—feet in water, pipe going, hat on. He greeted them with characteristic economy: *"Took ye long enough. Sit down, you're blocking the light."* He conjured a bench on the spot. To "Torm" (JJ): *"Did ye, at any point this evening, attempt to pick someone's pocket during an armed altercation?"* He explained the Avatar Crisis in full—[[AO]], the Tablets, the Celestial Stairway—and recruited the party to deny [[Bane]] its use.
+
+At the Temple of [[The Exodus/00_My Notes/Pantheon/Lathander|Lathander]], he fought Bane in an arcane duel spanning four rounds: Time Stop, Wish for a third stop, Disintegrate, Power Word Kill, the full weight of four centuries of earned arsenal—while simultaneously working to seal the Stairway. He fell on Round 8. Dropped to one knee, smoke rising from his robes, eyes moving to [[Midnight]]'s pendant—blazing brilliant. *"Be brave lass, take him down."*
 
 He passed through the Celestial Stairway in the explosion that followed, along with Bane and Mystra's fragment. His hat, pipe, and staff were left on the Temple floor.
 
 He is not dead. Displaced.
+
+[[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] will receive a copy of these in his spellbook; she may scribe each when she can cast spells of that level.
 
 ## Character Sheet
 
@@ -160,7 +164,7 @@ Arcana +19 · Investigation +19 · History +13 · Insight +12 · Perception +12 
 - **Expertise** — Double PB in Arcana (+19) and Investigation (+19).
 - **Cunning Action** — Dash, Disengage, or Hide as a Bonus Action.
 - **Chosen of Mystra** — Truesight 60 ft. · Immune: Charmed, Frightened · Weave Sense: automatically senses all magical effects and other Chosen within 120 ft. · Knows Midnight's pendant for what it is on approach.
-- **Elminster Originals** — *Whispered Doom · Arcane Erasure · Unmooring · Misdirection · Parting Gift · Rebuke · Echo* — spells of his own devising, codified over four centuries. [[The Exodus/The Door Kickers/PCs/Min Ji-ah|Min Ji-ah]] will receive a copy of these in his spellbook; she may scribe each when she can cast spells of that level.
+- **Elminster Originals** — *Whispered Doom · Arcane Erasure · Unmooring · Misdirection · Parting Gift · Rebuke · Echo* — spells of his own devising, codified over four centuries.
 
 ---
 

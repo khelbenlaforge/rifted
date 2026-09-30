@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-27T03:40:33
+updated: 2026-09-29T20:17:56
 ---
 
 # Diamond District
@@ -38,7 +38,7 @@ Known also as the Temple District, the Diamond District is the spiritual heart o
 - **[[Oghma's Temple — the Endless Library]]** — Hub for scholars, overseen by [[High Lorekeeper Miriam Brightquill]]
 - **[[Temple of Kelemvor]]**
 - **[[Temple of Mystra, Azuth and Savras]]**—houses three deities of magic and fate together; none keep clergy in the traditional sense
-- **[[Temple of the Elven Deities]]**—a separate complex housing [[Sehanine Moonbow|Sehanine]] and other elven deities; site of [[Terra]]'s Feast-rite dance (Sessions 26-27)
+- **[[Temple of the Elven Deities]]**—a separate complex housing [[Sehanine Moonbow|Sehanine]] and other elven deities
 - A shrine to [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Cyric|Cyric]] is rumored to operate quietly somewhere in the district—no fixed location on record (see The Claret's own whispers of a devotee among the old guard)
 
 ## Notable Residents
@@ -47,5 +47,9 @@ Known also as the Temple District, the Diamond District is the spiritual heart o
 - **[[Tidecaller Marin Deepcurrent]]** — Water genasi cleric of [[Istishia]]
 - **[[Sir Gareth Ironhand]]** — Paladin of [[Tyr]]
 - **[[High Lorekeeper Miriam Brightquill]]** — Scholar at [[Oghma]]'s Temple
+
+## Session 26 Update (The Door Kickers)
+
+- [[Temple of the Elven Deities]]—site of [[Terra]]'s Feast-rite dance (Sessions 26-27)
 
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-27
 secret: false
 state: alive
-updated: 2026-09-26T20:18:00
+updated: 2026-09-29T00:13:09
 created: 2026-07-20T17:27:22
 ---
 
@@ -45,7 +45,7 @@ There is one rule in the Garnet side of the business that has never once been wr
 
 **Archetype:** The Old Don *(Vito Corleone — courteous, controlled, terrifying precisely because he never has to raise his voice; a former enforcer who no longer needs to prove it)*
 
-Corvin is [[Tavia Orn]]'s actual superior and the Inner Circle seat controlling the Garnet/Sunstone territory the party has been operating in all session. *(Pre-Session 25: he had not yet met the party.)* If tonight's Low Flagon scene escalates past what Tavia and the floor can settle — the party pushes for more than a mid-level contact can grant, or gives the Claret a real reason to take them seriously as a threat or an asset — Corvin becomes the answer to that escalation, not a bar full of bruisers. That escalation happened: he met them in person in Session 25.
+Corvin is [[Tavia Orn]]'s actual superior and the Inner Circle seat controlling the Garnet/Sunstone territory.
 
 ## D&D 5e Stat Block
 
@@ -75,4 +75,6 @@ Found In:: [[Garnet District]]
 - Offered a lead on Layla's whereabouts and a sending stone to contact her; the party secured his agreement not to use the stone until they return from accompanying the Blackstaff family to the [[Sunless Citadel]], in exchange for an unspecified future favor from the party, "no questions asked."
 - Paid the party 100 platinum for the night's entertainment and brought JJ into the Claret's first rung, reporting to [[Tavia Orn]].
 - The party killed two of his men in the Floor Test gauntlet; Corvin killed another of his own guards with a lightning bolt for showing the party mercy: "I pay good money for loyalty."
+
+Corvin is [[Tavia Orn]]'s actual superior and the Inner Circle seat controlling the Garnet/Sunstone territory the party has been operating in all session. *(Pre-Session 25: he had not yet met the party.)* If tonight's Low Flagon scene escalates past what Tavia and the floor can settle—the party pushes for more than a mid-level contact can grant, or gives the Claret a real reason to take them seriously as a threat or an asset—Corvin becomes the answer to that escalation, not a bar full of bruisers. That escalation happened: he met them in person in Session 25.
 

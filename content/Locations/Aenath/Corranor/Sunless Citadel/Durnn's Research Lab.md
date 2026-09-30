@@ -1,15 +1,15 @@
 ---
 title: Durnn's Research Lab
 aliases:
-  - Durbuluk Research Lab
+- Durbuluk Research Lab
 tags:
-  - location
-  - location/dungeon
+- location
+- location/dungeon
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-09-25T23:40:24
+updated: 2026-09-29T00:12:45
 ---
 
 # Durnn's Research Lab
@@ -31,7 +31,7 @@ Status:: Active
 
 A working laboratory on the Grove Level of the [[Sunless Citadel]], operated by [[Durnn]]'s goblin researchers. The main chamber is cluttered with workbenches and equipment; four side rooms branch north, four south — most filled with researchers in various states of absorbed focus. The lab was carved from or repurposed out of the old elven citadel's architecture, with [[Durnn]]'s practicality overwriting whatever it once was.
 
-The northwest door connects back to the room where the party first descended from the Upper Level via the Throne Room well. The northeast door is [[Belak]]'s supply route — where plant minions deliver [[Goblin Fruit]] from deeper in the Grove Level.
+The northeast door is [[Belak]]'s supply route — where plant minions deliver [[Goblin Fruit]] from deeper in the Grove Level.
 
 ## Residents
 
@@ -45,7 +45,9 @@ The northwest door connects back to the room where the party first descended fro
 - **Northwest door** — connects to the well-drop room from Upper Level descent (Session 10)
 - **Northeast door** — Belak's supply route; plant minions deliver fruit from deeper Grove Level
 
-## Current Events
+## Session 12 Update (The Door Kickers)
+
+The northwest door connects back to the room where the party first descended from the Upper Level via the Throne Room well.
 
 The party cleared vine blight and twig blight swarms that were guarding the lab (Session 12). The armed guards stood down when [[The Exodus/The Door Kickers/PCs/Augustus Kennedy|Augie]] showed Durnn's horn and shouted "Freeze." The researchers are cooperating.
 

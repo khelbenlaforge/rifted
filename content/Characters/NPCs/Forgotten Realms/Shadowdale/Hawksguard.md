@@ -1,13 +1,13 @@
 ---
 title: Hawksguard
-aliases:
+aliases: null
 tags:
-  - npc
+- npc
 campaign: Rifted
 introduced: 2026-03-23
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-09-29T00:13:56
 created: 2026-03-23T00:00
 ---
 
@@ -33,10 +33,6 @@ A veteran in the old-soldier sense: weathered, economical in movement, never in 
 
 Kindly, shrewd, quiet. Speaks when there is something worth saying. Knows [[Shadowdale]] the way you know a place you have defended: the roads and buildings, sure, but also the hidden ways, the escape routes, the spots that matter when things go wrong. He is comfortable being used as a guide, because he understands that being useful is its own kind of honor.
 
-## Role in the Story
-
-Assigned by [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Riothar Irontongue|Riothar Irontongue]] to escort the prequel party from the western gate into Shadowdale (Event 1, Session 14). He will guide them to the [[Old Skull Inn]] and, if they ask, to [[Elminster]]'s Tower. He can be convinced to fight alongside the party in Session 15.
-
 ---
 Race:: Human
 Subrace::
@@ -45,5 +41,9 @@ Class:: Fighter
 Location:: [[Shadowdale]]
 Affiliation:: [[Shadowdale]]
 Deity::
+
+## Session 14 Update (The Door Kickers)
+
+Assigned by [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Riothar Irontongue|Riothar Irontongue]] to escort the prequel party from the western gate into Shadowdale (Event 1, Session 14). He will guide them to the [[Old Skull Inn]] and, if they ask, to [[Elminster]]'s Tower.
 
 

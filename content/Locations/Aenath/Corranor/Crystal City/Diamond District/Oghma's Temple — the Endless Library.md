@@ -1,16 +1,16 @@
 ---
-title: Oghma's Temple — the Endless Library
+title: "Oghma's Temple \u2014 the Endless Library"
 aliases:
-  - Oghma's Temple
-  - The Endless Library
+- Oghma's Temple
+- The Endless Library
 tags:
-  - location
-  - location/temple
+- location
+- location/temple
 campaign: Rifted
-introduced:
+introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-08-28T14:52:43
+updated: 2026-09-29T20:17:40
 ---
 # Oghma's Temple — the Endless Library
 
@@ -39,7 +39,8 @@ A towering repository of knowledge dedicated to [[Oghma]], the Binder of Books. 
 
 - **[[High Lorekeeper Miriam Brightquill]]** — Oversees the temple, identifies divine callings, and assigns mentors
 
-## Current Events
+## Session 1 Update (The Door Kickers)
 
-The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Min Ji-ah]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]], and guided [[Augustus Kennedy]] toward the gods of justice.
+The party visited the temple after joining the [[Adamantine Guild]]. [[High Lorekeeper Miriam Brightquill]] assessed each member's affinity: she placed [[Min Ji-ah]] with [[Elmindaria L'Thorian]], [[Gill Bates]] with [[Tidecaller Marin Deepcurrent]].
+
 

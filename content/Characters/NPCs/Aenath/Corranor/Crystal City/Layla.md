@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-27T13:39:15
+updated: 2026-09-29T01:10:59
 ---
 
 # Layla
@@ -38,7 +38,7 @@ She believes, or says she believes, in keeping promises — that a commitment, o
 
 ## Background
 
-Layla worked for years at the [[Jade Spire]] as a researcher under [[Garm]], building a genuine career in arcane scholarship. Something changed. By Session 21 the party discovered she was running a second, unauthorized runic circle near [[Corran's Spike]], independent of the Jade Spire's own, and sourcing illegal spell components through [[The Claret]].
+Layla worked for years at the [[Jade Spire]] as a researcher under [[Garm]], building a genuine career in arcane scholarship. Something changed.
 
 What she's building, and for whom, remains an open question to everyone but her.
 
@@ -53,9 +53,8 @@ Whether she can be reached — whether the genuine warmth she carries toward [[P
 - Co-apprentice with [[Perrin Quickquill]] under [[Garm]] — the closest thing she has to an anchor in Crystal City; his hurt at her apparent betrayal is accumulating
 - Researcher under [[Garm]], orc wizard of the [[Corranor Council]] — her cover and her access point to deep planar infrastructure
 - Valued client of [[The Claret]] — sourcing components for unknown purposes
-- The goblin bat-riders who ferry her arrivals onward—an independent group, unaffiliated with any faction, hired purely for transport; one rider carried [[Kili]] across three separate call-outs without ever giving a name
+- The goblin bat-riders who ferry her arrivals onward—an independent group, unaffiliated with any faction, hired purely for transport
 - Possibly responsible, directly or indirectly, for the event that brought the party to [[Aenath]] — unconfirmed
-- [[Ruairí]] (Session 3, The JULYs), found him alone after a [[The Exodus/00_My Notes/Locations/Cosmology/Feywild|Feywild]]-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
 
 ---
 Race:: Tiefling
@@ -77,6 +76,7 @@ Deity:: Unknown
 - [[Shadow Creatures]] intrinsically ignore her; this did not present as a ward or active spell, and they followed the newcomers instead
 - Told the newcomers to ask for [[Perrin Quickquill]] and does not know [[Jonathan Jordan|JJ]] has already damaged that friendship; still appears to consider Perrin her person
 - Location as of approximately 12th Uktar: outside [[Crystal City]], near [[Corran's Spike]]
+- By Session 21 the party discovered she was running a second, unauthorized runic circle near [[Corran's Spike]], independent of the Jade Spire's own, and sourcing illegal spell components through [[The Claret]].
 
 ## Session 1 Update (The JULYs)
 
@@ -95,6 +95,7 @@ Deity:: Unknown
 - Found [[Ruairí]] alone near the party after his [[The Exodus/00_My Notes/Lore/The Awakening|Calamity Vision]], appearing in his own natural changeling form rather than the Feywild-snag cat form scripted in prep.
 - Gave him six brass [[Adamantine Guild]] bracers in a bag, with instructions to bring them to "the rest," and arranged a hired cart to carry him on to [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]].
 - Vanished again before Ruairí could ask her anything further.
+- [[Ruairí]] (Session 3, The JULYs), found him alone after a [[The Exodus/00_My Notes/Locations/Cosmology/Feywild|Feywild]]-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
 
 ## Session 1 Update (The Understudies)
 
@@ -103,7 +104,7 @@ Deity:: Unknown
 - 29th Uktar, Year 222 PA: the Shadow Creatures present were more solid, more humanoid, and more resistant than previous encounters, consistent with her creatures growing stronger.
 - 29th Uktar, Year 222 PA: had already arranged the four PCs' onward transport to [[Stormberg]] via hired goblin-riders on giant bats before leaving, giving them no choice of destination.
 - 29th Uktar, Year 222 PA (Session 2): misrouted two new arrivals, [[Keith Poe]] and [[Roberto]], into [[The Hollowreach]] instead of the Stormberg route the other four took. Arrived winded and visibly embarrassed over her own miscount, warned them a Shadow Creature attack was coming and transport (redirected goblin-riders on giant bats) was inbound, then misty-stepped away immediately — did not stay for the fight and did not return this session. [[Kili]], not Layla, was the one dropped back with Keith Poe and Roberto afterward — she'd been a passenger on that goblin-rider's bat since Session 01, not someone who reunited with them there; her player was absent, so no scene was played for it.
-- Corroborated from the Door Kickers' side (Session 24): [[Regius]] and [[Min Ji-ah]] witnessed and assisted at this same event before flying back to [[Crystal City]] for the Claret meeting; confirms the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
+- One goblin bat-rider carried [[Kili]] across three separate call-outs without ever giving a name.
 
 ## Session 3 Update (The Understudies)
 
@@ -126,6 +127,10 @@ Deity:: Unknown
 ## Session 25 Update (The Door Kickers)
 
 - In [[The Marrow Ledger]] inside [[Corvin's Hold]], [[Min Ji-ah]] cast *[[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry* on the ledger's redacted major client; the spell answered "Layla and Asmodeus." The party does not yet know what this connection means.
+
+## Session 24 Update (The Door Kickers)
+
+- [[Regius]] and [[Min Ji-ah]] witnessed and assisted at the 29th Uktar arrival ambush at [[The Sundered Choir]] before flying back to [[Crystal City]] for the Claret meeting; the shadow creatures present were more solid, humanoid, and resistant than prior encounters, and vulnerable to the ruin's three braziers once their etheric link to the magic circle was severed and they lit.
 
 ## Session 1 Update (The AUGs)
 
