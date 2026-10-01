@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-06-20
 secret: false
 state: alive
-updated: 2026-09-29T20:18:07
+updated: 2026-10-01T20:51:10
 created: 2026-06-20T00:00
 ---
 
@@ -44,3 +44,7 @@ Affiliation:: [[Azure Tamers]]
 ## Session 30 Update (The Door Kickers)
 
 Migration-mystery job advanced, not resolved: field evidence (a deer kill-site with antlers removed, a deliberately-erased claw-marked trail) confirms the early/heavy southward migration is tied to something real. The ultimate cause is still unknown.
+
+## Session 31 Update (The Door Kickers)
+
+- Nanuk's migration job advanced: the party found a second kill-site (a living owlbear with beak and claws cut off, barefoot tracks from the west) and Nanuk killed a barefoot druid at dawn on 7 Nightal whose belt carried a hooked beak, claws and a pair of deer antlers. Why the herds are fleeing, and whether the druid acted alone, are still unanswered. [[Terra]] rode his griffon Bella again.

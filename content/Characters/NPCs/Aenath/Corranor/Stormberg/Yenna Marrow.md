@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-09-29T00:12:28
+updated: 2026-10-01T05:12:08
 created: 2026-09-07T18:19:15
 ---
 
@@ -55,5 +55,9 @@ Kili worked a shift at her stall and stirred a small tax-fairness conversation a
 
 - 1–10 Nightal (downtime): [[Kili]] stayed long past the usual shift talk. Yenna opened up about the partner she comes home to, still working with their hands despite what the years have started asking of both of them, and about a version of herself from before the stall: cull-team work up on the Wall, done alongside a much younger [[Rhona Voss]], left behind for good the day the noodles started paying their own way.
 - **[[Kili]]**—worked her morning line in Session 5; a longer conversation in Session 7's downtime went deep enough that Yenna opened up about her own past.
+
+## Session 09 Update (The Understudies)
+
+- 11 Nightal, evening: [[Kili]] asked how Stormberg feeds itself. Yenna said hunting had stopped for winter, the fields were fallow, and the city was living on its stores. She buys lesser cuts cheaply from trappers for her laborers and will ask her wife, who knows some of them. When [[Kili]] said she was buying for the speakeasy, Yenna said the price had to be good enough because sellers had a living to make.
 
 

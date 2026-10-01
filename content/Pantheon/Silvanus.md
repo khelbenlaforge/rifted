@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-29T20:18:48
+updated: 2026-10-01T21:12:17
 ---
 
 # Silvanus
@@ -51,6 +51,18 @@ Silvanus is revered by druids, nature wardens, and those who dwell in the deep w
 ## Session 1 Update (The Door Kickers)
 
 [[Sylvara Oakwhisper]], a half-elf ranger of [[Mielikki]] and mentor to [[Ember]], acknowledges the philosophical divide between her faith and that of Silvanus.
+
+## Session 31 Update (The Door Kickers)
+
+- On the evening of 6 Nightal, [[Nanuk]] reached Silvanus through a huge old fir near the second kill-site; the party could all hear it.
+- Silvanus told Nanuk he cannot hide and will not hide; he and [[Malar]] have opposed each other for millennia, he will not kill Malar, neither can kill the other, and both are necessary.
+- Silvanus told Nanuk every child who turns from him weakens him further, animals included; there are "bigger things than Malar," and Nanuk may fight Malar if he chooses.
+- Silvanus told Nanuk that he, [[Kossuth]], [[Grumbar]], [[Istishia]], and [[Akadi]] are the only ones here holding everything together; all five gave themselves freely until the barrier can one day be released.
+- Silvanus told Nanuk the barrier was made by "my entire family" to protect everyone, and that he has not spoken with his siblings for millennia.
+- Silvanus told Nanuk all the gods lost their connection to the souls of the world and must relink with souls "to link to" rather than "to feed on"; linking need not mean worship, and Nanuk cannot link with him yet.
+- After Nanuk explained that the party came from Earth, Silvanus told Nanuk, "You are of the souls of this world."
+- Silvanus told Nanuk, "I will not hide, my child. I will keep the heart of this world beating. Find your way to me."
+- The link broke as Nanuk asked what the barrier protects them from.
 
 ## Session 28 Update (The Door Kickers)
 

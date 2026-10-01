@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-26T02:48:26
+updated: 2026-10-01T18:16:01
 ---
 
 # Magocracy of Corranor
@@ -53,5 +53,9 @@ The first peoples awoke amid violent land formation — earth heaving, magma eru
 ## Current Status
 
 The Magocracy faces multiple challenges: [[Shadow Creatures]] attacks, an understaffed [[Adamantine Guild]], frontier settlements like [[Sunhold]] requiring support, and the mystery of five individuals transported from Earth during a potentially botched ritual.
+
+## Session 09 Update (The Understudies)
+
+- Per [[Rhona Voss]], the Magocracy is represented in [[Stormberg]] by [[Vestra Coln]]. Noble houses govern most cities like fiefs leased from the Magocracy and must make them pay with forges, mills, and kilns. A Council member renounces all ties upon investiture.
 
 

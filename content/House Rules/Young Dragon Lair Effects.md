@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-17
 secret: false
 created: 2026-09-18T14:00:00
-updated: 2026-09-29T00:13:06
+updated: 2026-10-01T05:12:08
 ---
 
 # Young Dragon Lair Effects
@@ -56,3 +56,8 @@ This is the actual mechanism behind her Session 8 deal with [[The Understudies]]
 This already happened once at the table before the growth curve was ever formalized (see First Used).
 
 [[Calcryx]], Session 8 (The Understudies)—a fresh Wall breach in [[Stormberg]], negotiated as a deal rather than fought. An involuntary cold sigh during that first encounter cost the party a shared level of Exhaustion, which this rule now formalizes as Stage 0's cold hazard rather than a one-off breath effect.
+
+## Session 09 Update (The Understudies)
+
+- 10 Nightal, Understudies Session 9: The DM ruled the den's cold reached roughly 50 to 60 ft, about the chamber and a bit more, with a DC 10 Constitution save for a longer stay or one more level of Exhaustion. A natural 1 on Persuasion made [[Calcryx]] chase the party out, costing everyone one more level and some speed. A long rest removes one level.
+

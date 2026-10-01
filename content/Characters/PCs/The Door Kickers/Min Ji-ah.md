@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-27T15:16:58
+updated: 2026-10-01T21:19:33
 ---
 
 # Min Ji-ah
@@ -322,4 +322,10 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 - Rode north on [[Torem]]'s griffin [[Azure Tamers#Bella|Bella]] alongside [[Terra]] for the first half of the day. Listened more than she talked while Terra described **[[The Unbound]]**, her missing Earth cult leader; offered back her own sense of what cults like that do to people, drawn from what she knows of them in South Korea, and her own stretch of having lacked direction—more than she usually says out loud.
 - When a vision surfaced this session tying Silvanus to "not belonging to the last world," it lined up with her own ongoing search for the god's grove with [[Wystan]] back at the Academy—she filed it away rather than say much out loud.
 - Used her Sending Stone to warn [[Luks Borg]] that [[Erky]] had rejoined the party, without waiting to be asked. His reply spent every one of its twenty-five words on profanity and none of them on an actual answer.
+
+## Session 31
+
+- Cast Elminster's Inquiry on the owlbear; the answer was "Drawing out [[Silvanus]]."
+- Opened the dawn fight with Chromatic Orb in lightning for 25 damage; the druid absorbed it.
+- Tasha's Mind Whip later struck the druid for 8 psychic damage.
 

@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-07
-updated: 2026-09-29T17:46:43
+updated: 2026-10-01T18:16:01
 ---
 
 # Shar
@@ -67,5 +67,11 @@ Consistent with Aenath: [[The Gravelords]] (Kelemvor's clergy) are the ones admi
 
 - **Session 28 ([[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], into 1 Nightal)**—a second, more serious incident the same night: a summoning bound and dispersed at the site, publicly downplayed by [[Doran]] ("nothing entered Crystal City from outside it") even though the party watched otherwise. [[Garm]] told the assembled city the First Gravelord was alive and would close the Feast himself—implying real danger to him that night.
 - **Session 28, in-fiction cosmology reveal**—Selûne and Shar were originally a single being of light; their split created duality, and the first [[The Exodus/00_My Notes/Pantheon/Mystra|Mystra]] emerged from the split.
+
+## Session 09 Update (The Understudies)
+
+- Stormberg has a shrine to Shar in its shrine complex.
+- [[Sister Priya Dawnwell|Priya]] said she had heard that the Cult of Shar's attack in Crystal City was aimed mainly at disrupting a ceremony.
+- [[Sister Priya Dawnwell|Priya]]'s temple story says Shar killed [[Lathander]]'s first wife.
 
 

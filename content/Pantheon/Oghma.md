@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-29T17:47:15
+updated: 2026-10-01T05:12:08
 ---
 
 # Oghma
@@ -47,5 +47,9 @@ Oghma holds that ideas are the supreme force in the world. A single insight, pro
 Oghma's faithful include wizards, bards, scholars, sages, and anyone who has ever felt the pull of an unanswered question. His teachings endure wherever books are kept and knowledge is valued.
 
 In [[Crystal City]], Oghma's influence is woven into the foundation of the [[Adamantine Guild]]. His symbol appears on the Guild's emblem alongside those of [[Helm]] and [[Waukeen]], representing the three pillars of the organisation: knowledge, protection, and progress. The Guild's mission to gather, preserve, and share learning is a direct expression of Oghma's ethos, even as the organisation faces the practical pressures of understaffing and shadow creature attacks.
+
+## Session 09 Update (The Understudies)
+
+- Oghma's Stormberg temple holds a library. [[Sister Priya Dawnwell|Priya]] said his priests hoard information.
 
 

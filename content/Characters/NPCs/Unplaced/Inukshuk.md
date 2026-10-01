@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 state: alive
-updated: 2026-09-29T00:11:14
+updated: 2026-10-01T21:25:38
 created: 2026-09-11T16:54
 ---
 
@@ -50,3 +50,8 @@ Affiliation:: [[Nanuk|Nanuk]]
 - Carried [[Nanuk]] in his air form—a deer with huge eagle wings and long gold antlers—the second morning, tracking the kill-site trail from height. (The herd/[[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]] sighting the day before belongs to [[Terra]] and [[Min Ji-ah]] on [[Torem]]'s griffin, not this flight.)
 - Tracked the deer kill-site's trail on the ground, corroborating what Nanuk got back from Speech of Beast and Leaf: broken branches and scrape marks heading west.
 
+## Session 31 Update (The Door Kickers)
+
+- At the owlbear kill-site he read the light rising from her as her essence "bleeding out and going home", asked Nanuk whether he wanted to take the life force or let it go on its path, and helped Nanuk's reach for [[Silvanus]] that evening.
+- After the party chose a mercy kill he covered Nanuk's eyes with a paw and tore out her throat; afterward he said "little sister" was happy now and going home.
+- In the dawn fight the druid's lava hand struck him for 14 fire damage and knocked him prone; he got up and bit the druid, was dropped later, and Nanuk revived him by touch.

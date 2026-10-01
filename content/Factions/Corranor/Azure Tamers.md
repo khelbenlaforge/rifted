@@ -38,6 +38,10 @@ Headquarters:: Western wall towers, [[Crystal City]]
 
 - [[Dessa Kestrel]] offered The AUGs a future introduction to the Azure Tamers for their two druids, [[Ruan Myrt Zaltana]] and [[Rismawati Bayu]]; this remains an open offer only.
 
+## Session 4 Update (The AUGs)
+
+- The party saw the Aerie, a tall wooden tower in [[Westward]]. [[Dessa Kestrel]] re-offered an introduction for [[Ruan Myrt Zaltana]] and [[Rismawati Bayu]] and mentioned a druid site outside the city; nothing was scheduled.
+
 ## Session 23 Update (The Door Kickers)
 
 [[Regius|Reggie]]'s second job at the docks earned him a foothold with the Azure Tamers, including access to their sky tower and their dock-delivery pipeline of tamed griffins and eagles—the docks and the Tamers work closely together, and goods needing speedy delivery to other towns and cities move through a standing Azure Tamers pipeline, riding tamed griffins and eagles rather than any airship.

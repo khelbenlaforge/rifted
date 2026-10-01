@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-07-13
 secret: false
-updated: 2026-09-29T00:11:57
+updated: 2026-10-01T18:16:01
 created: 2026-07-13T00:00
 ---
 > [!infobox]
@@ -30,7 +30,8 @@ The family's northern foothold is the patronage and standing it still holds over
 
 - **[[Ostrin Feld]]**—the Crystal City estate's steward, a precise and visibly tired man handling delicate problems himself. Frightened of whatever threatens the house, not merely managing around it.
 - **[[Sellas Verenthal]]**—the wayward young lady of the family, slipping out of the estate at inappropriate hours.
-- **[[Sir Verenthal]]**—the family's Stormberg-side representative, overseeing Wall-gang labor.
+- **[[Zarantha Verenthal]]**—head of the Stormberg branch; runs the mills and forges and funds the Wall's upkeep.
+- **[[Sir Verenthal]]**—Quill, Zarantha's nephew and the family's Stormberg-side representative, overseeing Wall-gang labor.
 
 ---
 Leader:: Unknown—head of house not yet named in play
@@ -53,5 +54,10 @@ Watched at Ostrin's arrangement (Session 28–29): on the second night of survei
 The surveillance ended on Ostrin's own initiative the following session, no explanation given.
 
 Session 28–29 deepened the money-bleed thread without resolving it: Ostrin hired discreet surveillance on Sellas through steward channels, ended it abruptly once she was seen killing a Claret-marked man, and handed off a sealed Verenthal-crested letter and token for Stormberg with instructions to burn it if never delivered. Whether Sellas's killing connects to the estate's drain, to the Claret ledger entry, or to something else entirely is unresolved.
+
+## Session 09 Update (The Understudies)
+- Per [[Rhona Voss]], [[Zarantha Verenthal]] heads the house's Stormberg branch, runs the mills and forges, and funds the Wall's upkeep. The house's Stormberg territory is a fief granted by the Magocracy; main house leaders are in Crystal City.
+- [[Sir Verenthal|Quill]], the dock supervisor, is [[Zarantha Verenthal]]'s nephew.
+- A meeting with the Magocracy's representative [[Vestra Coln]] is set for 13 Nightal.
 
 

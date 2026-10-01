@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-07-13
 secret: false
 created: 2026-09-26T08:02:33
-updated: 2026-09-29T00:12:26
+updated: 2026-10-01T18:16:01
 ---
 
 > [!infobox]
@@ -38,5 +38,9 @@ In Session 23, [[Garm]] arranged a meeting between the party and the family—no
 Once Lady Blackstaff examined [[Elminster's Spellbook]], her caution turned to urgency. She recognized script written in a hand only very advanced wizards would know, judged the book older than anything the family's own knowledge could account for, and told the party the family can no longer put off an expedition of its own to the [[Sunless Citadel]]. The plan she gave them directly: after the [[Feast of the Moon]], two days past the party's own meeting with the Claret, House Blackstaff travels there together with the [[Director of Antiquities]].
 
 Council law requires every seated Keeper to renounce their outside affiliations on investiture; Oriel genuinely tries to honor that, which is why the family's actual head was conspicuously absent from the mansion meeting in Session 23.
+
+## Session 09 Update (The Understudies)
+
+- Per [[Rhona Voss]], a Blackstaff sits on the Council and is of [[Corran]]'s line. The Blackstaffs hold no territory and are content to be.
 
 

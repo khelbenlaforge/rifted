@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-06
 secret: false
 created: 2026-09-26T00:00
-updated: 2026-09-26T23:10:00
+updated: 2026-10-01T05:12:08
 ---
 
 # The Dawnhearth
@@ -37,5 +37,8 @@ A plaster-and-column building at street level in Stormberg, nothing about it com
 ## Current Events
 
 Priya keeps the chapel open to whoever wanders in, with scattered lay worship starting to gather around the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]] rather than a formal congregation yet. Her theology, as given in play: renewal, beginnings, a fresh start after a fall—entirely unconcerned with what happens to a soul once it's gone. She and [[Brother Silas]] at the [[Temple of Kelemvor]] have already confirmed the jurisdictional line between their two faiths from their own sides: Lathander doesn't poach a soul that never pledged to him.
+
+## Session 09 Update (The Understudies)
+- 12 Nightal: [[Sister Priya Dawnwell]] had just blessed a birth and came in with bread and dried goods. She pledged the chapel's support for the forum and the Magocracy meeting. The chapel keeps no library or records, and Priya said the temples have little sway in politics.
 
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-09-28T17:13:35
+updated: 2026-10-01T21:36:27
 ---
 
 # Nanuk
@@ -256,5 +256,13 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - The High Religion checks that followed pointed to [[Malar]] as the god behind it—Silvanus's old opposite number—with an unconfirmed rumor that the [[Ancients of Lava]] count Malar worshippers among their own.
 - Helped butcher the deer properly, every part used and a marker left as thanks, then sent meat back down the road to [[Ossa]] at the Straggler's Rest to cover the trip's costs, not back to Crystal City.
 - Talked down a pack of six oversized wolves and two sabertooth tigers that came out of both treelines starving and hunting together despite being natural rivals—twenty minutes of beast speech and feeding instead of a fight.
-- Once the pack settled, a golden glow passed through it and a Velvet Vulper walked out of the treeline separately—not one of the wolves or tigers—and shimmered into **[[Erky]]**, wearing Tymora's symbol, throwing illusory copies of himself to drive off a second pack of rangers nearby. His read on the starving pack: they're fleeing something further north, which might itself be fleeing something else. He's traveling with the party again.
+- Once the pack settled, a golden glow passed through it and a Velvet Vulper walked out of the treeline separately—not one of the wolves or tigers—and shimmered into **[[Erky]]**, wearing Tymora's symbol, throwing illusory copies of himself to drive off a second band of perpetrators nearby. His read on the starving pack: they're fleeing something further north, which might itself be fleeing something else. He's traveling with the party again.
+
+## Session 31
+
+- Flew to the owlbear kill-site first; a Survival check recognized the cuts as made by a skilled hand on a live animal.
+- Asked the owlbear through Beast Speech whether she wanted healing or freedom; learned she wanted to live but knew no way.
+- Called [[Erky]] through the glyph at the kill-site and again during the dawn fight; chose mercy, said goodbye as [[Inukshuk]] killed her, and felt part of her spirit seep into him, strengthening his pull toward [[Silvanus]] so checks leaning on it are made with advantage.
+- Said, "We cannot beat [[Malar]] by acting like [[Malar]]." Reached [[Silvanus]] through a fir that evening, had a long exchange, relayed it all to the party, and took the last watch with [[Inukshuk]].
+- Killed the barefoot druid at dawn, cutting his Malar cord and silencing him with an arrow, then stabbing him through the skull with an arrow; said, "Tell Malar I say hello."
 

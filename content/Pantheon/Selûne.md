@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-29T17:46:44
+updated: 2026-10-01T05:12:08
 ---
 
 # Selûne
@@ -70,5 +70,9 @@ Session 26 (the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moo
 **Corroborated Session 28.** [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Citrine District/Elmindaria L'Thorian|Daria]]'s Session 26 account was in-fiction testimony until [[Min Ji-ah]]'s [[The Exodus/00_My Notes/Characters/NPCs/Forgotten Realms/Shadowdale/Elminster|Elminster]]'s Inquiry independently confirmed the mechanism and named the three as [[Solinari]], [[Lunitari]] and [[Nuitari]], demigods who gave themselves up to anchor the Weave for [[Mystra]] from inside the barrier. Selûne's moon plays no direct part in the casting. What it does is mark the night: the Feast is hers, and the Feast is the only time the other three show themselves at all.
 
 Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], [[Nuitari]]) carry the Weave to mortals on Mystra's behalf; Selûne's own plays host, not conduit, on the one night all four hang in the sky together.
+
+## Session 09 Update (The Understudies)
+
+- Selûne's clergy in Stormberg sit near the temple of [[Mystra]] in a small temple district.
 
 

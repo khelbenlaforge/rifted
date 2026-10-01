@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-09-30T15:30:23
+updated: 2026-10-02T01:32:47
 created: 2026-09-23T18:28:40
 ---
 
@@ -143,4 +143,17 @@ Bane is Concentration, 1 minute; granted by her Spellcasting trait, see Features
 - Offered a future introduction to the [[Azure Tamers]] for the party's two druids, Ruan Myrt Zaltana and Rismawati Bayu.
 - Told the party that Level 4 was open to claim.
 - Began, but did not complete, a Guild evaluation on the Proving Floor; the party entered, no combat occurred, and the session ended.
+
+## Session 4 Update (The AUGs)
+
+- Ran the Proving Floor evaluation against all five present PCs—[[Mike Kanbei]], [[Ruan Myrt Zaltana]], [[Rachel Tan]], [[Rismawati Bayu]], and [[Gregory Yang]]—until the round-4 limit, at very low HP; dropped Rachel unconscious with two gloved punches, and Rachel then claimed Level 4 and got back up.
+- Used Bane and legendary actions; the floor took its own lair actions (uneven cubes, a wall around Rachel, and a 25-ft darkness she dispelled herself).
+- Welcomed the party to the [[Adamantine Guild]]; all five remain Brass rank.
+- Warned the party to keep their tier growth items out of sight and not use them in public because people would want them; she had noted what each carries.
+- Offered and led a walk through [[Westward]], then down the West Stair to the Landing of [[The Keel]].
+- Estimated landfall gaps at about 20 days on average, sometimes 10 and sometimes 25; her own estimate, and the established range remains 10–20 days.
+- Said she should be 647 years old and that about 400 years of her memory are gone.
+- Named [[Garm]] among the Guild patrons and [[Layla]] as an assistant to a [[Crystal City]] counselor.
+- On her own Keel visit she lost three days and came back out at the Landing, though she also told the party it was "an hour." She stayed at the Landing and did not cross with the party.
+- Gave [[Gregory Yang]] one of a pair of sending stones.
 

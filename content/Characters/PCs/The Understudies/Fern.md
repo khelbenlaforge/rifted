@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-26T18:44:41
+updated: 2026-10-01T05:12:08
 ---
 
 # Fern
@@ -186,5 +186,10 @@ Playbook:: [[Fern - Playbook]]
 - 1-9 Nightal, Year 222 PA (downtime): a near-perfect roll put her in front of [[Rhona Voss]] asking after her own kind; Rhona pointed her toward a fey enclave the party hadn't known about, **[[Sylnathe's Hollow]]**. A satyr there, **[[Hazelwit]]**, traded her a week without her own Wild Shape (through the end of this downtime block) for something he wouldn't name until after the deal was struck—he says he'll return it. Whatever she was meant to catch in exchange never came home with her.
 - 1-9 Nightal, Year 222 PA (downtime): a nature/religion check confirmed her own vision was grounded in something real rather than faith alone. Her work track put an actual name to it: **Kossuth**'s shrine, found on instinct, still faintly warm days after the dream. She meant to help and instead sneezed fey powder onto the tending priest, snuffing one of his sacred flames. He banned her outright. A second attempt, propped up by Roberto's guidance and a fair amount of liquid courage, rolled a bare one and closed the door a second time.
 - 10 Nightal, Year 222 PA: joined the full party back at the Wall breach. Flying above the rest alongside Roberto, spotted **[[Meepo]]** hiding before he spotted them. Present for the negotiation with **[[Calcryx]]** (grown to a young dragon since Samson and Keith's first glimpse of her) and the deal that followed. Something unnamed passed between her and Kili during the scene where Keith Poe leveled up that night—neither has said what.
+
+## Session 09 Update (The Understudies)
+
+- 10 Nightal, Year 222 PA, night: visited Calcryx's den, where Calcryx gave her a molted scale.
+- 11 Nightal, Year 222 PA: on reaching Stormberg, went to Sylnathe's Hollow, the city's fae community.
 
 

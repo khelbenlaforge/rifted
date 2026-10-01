@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-09-27T18:56:03
+updated: 2026-10-01T21:19:33
 ---
 
 # Gill Bates
@@ -280,4 +280,11 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 *(DM-voiced this session.)*
 
 - Traveled north with the party; no individual scene surfaced. His task from [[Tidecaller Marin Deepcurrent|Marin]]—sense the ocean at the next landfall or an underground spring—wasn't triggered this session.
+
+## Session 31
+
+- Moved to end the owlbear's suffering; [[Nanuk]] asked him to wait.
+- Prayed to [[Istishia]] and put Guidance on Nanuk during the reach for [[Silvanus]].
+- Took the first watch.
+- In the dawn fight, made a spear strike with True Strike and used Spiritual Weapon as a glowing fish hook; it missed.
 

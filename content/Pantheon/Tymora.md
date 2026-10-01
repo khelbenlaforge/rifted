@@ -9,7 +9,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-03-18T21:50
-updated: 2026-08-28T02:33:48
+updated: 2026-10-01T05:20:08
 ---
 
 # Tymora
@@ -46,5 +46,9 @@ She is depicted as a laughing young woman tossing a coin, light on her feet, nev
 ## Followers & Influence
 
 Adventurers, gamblers, travelers, and anyone whose life turns on moments of chance. [[Tymora's Shrine]] in [[Crystal City]] serves those seeking favour before a risky venture.
+
+## Session 09 Update (The Understudies)
+
+- Per [[Sister Priya Dawnwell|Priya]]'s temple story, Tymora was once one goddess with Beshaba. Their shrines in Stormberg are next door to each other.
 
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-29T20:17:35
+updated: 2026-10-01T21:25:38
 ---
 
 # Malar
@@ -56,4 +56,10 @@ Malar's worshippers are feared and reviled throughout [[Corranor]]. They include
 
 This party's first encounter with signs of Malar's own worship. A Religion check tied a kill-site's clean, deliberate pattern to the Beastlord rather than to [[Silvanus]]'s creed. An unconfirmed rumor ties some of the reclusive [[The Exodus/00_My Notes/Factions/Corranor/Ancients of Lava|Ancients of Lava]]'s own membership to his worshippers; [[The Exodus/The Door Kickers/PCs/Ember|Ember]] is now actively surveilling the faction over it. Both threads stay open, not settled, as of Session 30.
 
+## Session 31 Update (The Door Kickers)
+
+- A cord knotted into the shape of a clawed paw appeared in [[Shen]]'s Strata flash at the second kill-site (a mutilated living owlbear); a Religion check named it Malar's.
+- [[Silvanus]] told Nanuk he and Malar have opposed each other for millennia and that he will not kill him.
+- At dawn on 7 Nightal a barefoot druid carrying a cord with Malar's clawed-paw symbol, a beak, claws and deer antlers walked into camp. He said the Beastlord "has its purpose" and "wants your father's purpose too", that Malar "was never one for the clean kill", and offered to spare the party if they led him to Silvanus's grove. [[Nanuk]] cut the cord with an arrow and later killed him; his last words from Nanuk: "Tell Malar I say hello."
+- [[Min Ji-ah]]'s Elminster's Inquiry answered that the killers are drawing out Silvanus.
 

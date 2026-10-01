@@ -9,7 +9,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-10-01T02:25:35
+updated: 2026-10-01T21:19:33
 ---
 
 # Regius
@@ -225,4 +225,10 @@ Regius spent the session chasing work, leverage, and answers.
 - [[Nanuk]] apologized to him for keeping his distance—admitted he wasn't fully sure Regius was real until about a week ago. Regius took it in stride, relating it to having had Inuit guests back on Earth; the two bonded over both of them needing answers from [[Layla]] for reasons that kept turning out to be the same reason.
 - Laid out his theory to Nanuk plainly: Layla is tied to [[Asmodeus]], and tied to whatever happened to his mother. Nanuk widened it in response—Layla's experiments were sanctioned, meaning it goes higher than her. [[Garm]] signed off on them; so, somehow, did [[Perrin Quickquill|Perrin]]. None of it says who "E" is yet. It's the first real thread the search has had since he arrived.
 - Admitted, along with Nanuk, to the same quiet feeling: that he belongs here, to Aenath, more than to the world he left.
+
+## Session 31
+
+- Used Unleash Incarnation and Pole Strike in his Echo Knight echo flurry with a glaive.
+- His echo flurry carved heavily into the druid.
+
 

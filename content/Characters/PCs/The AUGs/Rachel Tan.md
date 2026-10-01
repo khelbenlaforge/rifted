@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:34:11
-updated: 2026-09-26T00:50:25
+updated: 2026-10-02T01:22:56
 ---
 
 # Rachel Tan
@@ -48,6 +48,8 @@ Whatever the mercenary company drilled into this body, it shows up as raw, unpol
 **Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Rachel started the crawl alone, in a chamber that told her exactly how many steps she was allowed and no more. [[Permission]] did what it always does once the fighting starts, one reckless swing after another, rage doing more of the work than aim. The fire-voice from Session 1 stayed exactly as quiet as it had been before; nothing this time asked anything of her. When they found the sixth arrival, unconscious and burning gently in the room she'd started in, she didn't get a name to put to him either.
 
 **Session 3—1-2 Nightal, Year 222 PA:** Rachel tried alcohol for the first time in her life along with the rest of the party, courtesy of Bryn's wineskin, and it went about as well for her as for everyone else—rough. Somewhere in that same loosened stretch of road, she admitted, half as a joke on herself, to a flight she'd once booked to anywhere that wasn't Singapore, no destination beyond away. At [[Westward]]'s Cliffwatch, [[Dessa Kestrel|Dessa]] named her directly: Tiefling blood is a trade good to somebody, and now Rachel knows it. She didn't have much to say to that. Neither the fire-voice nor [[Permission]] had anything to add this session.
+
+**Session 4—2 Nightal, Year 222 PA:** Her room was hearth-themed, with real flames in the windows, a luxury she had only owned a knockoff of at home. In the fight she raged and used Reckless Attack, driving Dessa down with one glaive swing; the floor walled her off from the others until Gregory broke the wall with his cannon. Two gloved punches from Dessa dropped her unconscious. She claimed Level 4 on the spot under the Deferred Level-Up amendment and got back up on the new level hit points, prone, raged again, and pushed Dessa back.
 
 ## Relationships
 

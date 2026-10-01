@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T00:00:00
-updated: 2026-09-25T16:42:26
+updated: 2026-10-01T21:19:33
 ---
 
 # Sadiah Ispahani
@@ -243,4 +243,12 @@ PassiveStealth:: 14
 *(DM-voiced this session.)*
 
 - Traveled north with the party; scouted the Straggler's Rest ahead of the group alone, stealthed in and out without being noticed.
+
+## Session 31
+
+*(Lightly voiced alongside the table this session.)*
+
+- Drew a small flower out of the winter ground for [[Nanuk]] during his reach for [[Silvanus]].
+- In the dawn fight, landed a sneak attack with [[Sukoon and Junoon]] for 11 damage, then used Cunning Action to disengage.
+- Shield turned the Chimera's bite.
 

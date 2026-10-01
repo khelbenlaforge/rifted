@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-04-19
 secret: false
 created: 2026-04-20T21:01
-updated: 2026-09-27T14:41:50
+updated: 2026-10-01T21:25:38
 ---
 > [!infobox]
 > # Elminster's Spellbook
@@ -139,6 +139,7 @@ Every casting of *Elminster's Inquiry* in play, in order. The spell won't let he
 | 27 (Rising of the Dark) | Where the real Gravelord was | Still in the Diamond District. |
 | 28 (A Name I Cannot Read) | About the three moons Terra spotted during the Feast | Not a short answer this time: a pipe being smoked, Elminster again, three demigods kneeling to Mystra, Mystra kneeling back weeping, and the bargain struck: Solinari, Lunitari, and Nuitari giving themselves up to become Aenath's moons and anchor the Weave in her stead. |
 | 29 (Gates That Keep Moving) | What the missing page was waiting for | "Gates. Moving." |
+| 31 (The Oak Father's Answer, 6 Nightal) | On the owlbear at the second kill-site: Who are these people and what do they want? | "Drawing out Silvanus" |
 
 ---
 Rarity:: Unique
@@ -146,5 +147,9 @@ Owner:: [[Min Ji-ah]]
 Origin:: Shadowdale (prequel vision, Session 15)
 Attunement:: Unknown
 Found At:: [[Shadowdale]] (prequel vision, Session 15)
+
+## Session 31 Update (The Door Kickers)
+
+- [[Min Ji-ah]] cast Elminster's Inquiry on the owlbear's carcass on the evening of 6 Nightal, asking who the killers are and what they want; answer: "Drawing out Silvanus".
 
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-29T20:17:19
+updated: 2026-10-01T20:52:02
 ---
 
 # Mielikki
@@ -51,5 +51,9 @@ Rangers, woodsmen, and those who make their living at the boundary of settled la
 ## Session 1 Update (The Door Kickers)
 
 She has mentored [[Ember]], instructing them in Mielikki's ways: feeling the goddess's presence in the grass underfoot, learning to coexist with the wild, and understanding the threats posed by [[Malar]]'s followers.
+
+## Session 31 Update (The Door Kickers)
+
+- Some of Mielikki's essence came to [[Nanuk]] and gathered round his thoughts while he reached for Silvanus through a fir on 6 Nightal.
 
 

@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-09-29T00:12:38
+updated: 2026-10-01T05:12:08
 created: 2026-09-25T16:57:31
 ---
 
@@ -48,5 +48,10 @@ The young dragon denning in the breach—see Session 8 Update above—is the one
 ## White Dragons of the Northern Reaches
 
 Past the Wall, white dragons are rare.
+
+## Session 09 Update (The Understudies)
+- 11 Nightal: the party told [[Rhona Voss]] about the breach's dragon; [[Samson Flint]] and [[Keith Poe]] confirmed to her that the ice holds better than the crews' patchwork, and the work gangs are not to be told.
+- [[Rhona Voss]] said Stormberg has only ever driven dragons off, using ballistae and magical ammunition on the Wall; no ancient dragon has come by.
+- A blockade is up at the breach, though workers are still about; [[Rhona Voss]] will have a word with the foreman about that stretch.
 
 

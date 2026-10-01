@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-09-29T00:36:22
+updated: 2026-10-01T05:20:08
 created: 2026-08-24T17:22:42
 ---
 
@@ -161,4 +161,13 @@ When she told the party *I do not want to lose any more kids*, she meant it plai
 - Treated [[Samson Flint]] and [[Keith Poe]]'s frostbite, healing both to full.
 - Posted the fresh Wall breach as a Guild job on the board.
 - Cautioned the party about arriving at the breach at night—they went anyway.
+
+## Session 09 Update (The Understudies)
+- 11 Nightal, about three in the afternoon: Rhona Voss heard the party's account at the Wallwatch, out of her armor, with her sword on its rack. She took the scale and [[Kili]]'s drawing. She called Calcryx an adolescent that could eat any of them in a bite.
+- Rhona Voss's face fell at the terms; her open question is who would supply the treasure, since no figure exists. She is on the party's side, dislikes dealing with nobles, and [[Keith Poe]] talked her out of sending the nobles to the den.
+- Rhona Voss will convene the Magocracy's representative, House Verenthal, and the Academy; she will keep the dragon from the work gangs and would keep the Iron Seam out of it.
+- 12 Nightal: in the Guild's ledgers, which Kili read, the budget comes from headquarters in Crystal City, and a memo from [[Istar Silverlock|Istar]] says they are broke. Income comes from culls, mercenary jobs, city bounties, the Magocracy's retainer, Academy jobs, and northern expeditions for airship stones. Most of it pays the members; the ledger roughly balances.
+- Named: [[Vestra Coln]], [[Sir Verenthal|Quill]], [[Zarantha Verenthal]], [[Istar Silverlock|Istar]], [[Erky]], and [[Luks Borg]] (half-orc lieutenant). No one above Rhona Voss in the Guild is a Rifted.
+- Gossip: the Council wanted the Rifted for a hearing; [[Istar Silverlock|Istar]] told his people to stay out of politics and led a team north; other Rifted landed in [[Coldford]] and [[Westward]]; all groups wore Guild bracers; Garm is the Guild's patron on the Council.
+- Evening of 12 Nightal: Rhona Voss briefed the party for the 13 Nightal meeting. She will stand in for the Academy as well as the Guild. Her advice was to start with the facts, then push; [[Zarantha Verenthal]] works a room; [[Vestra Coln]] will be reserved; bring the Lathander chapel's support.
 

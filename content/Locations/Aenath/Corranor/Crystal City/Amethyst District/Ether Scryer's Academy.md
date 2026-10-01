@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-29T00:14:03
+updated: 2026-10-01T18:16:01
 ---
 
 # Ether Scryer's Academy
@@ -80,4 +80,15 @@ Visited by [[Esca]] on 1 Nightal, Year 222 PA (Session 5, The Understudies).
 ## Session 3 Update (The AUGs)
 
 - The Antiquities department's mystery of having no memory before roughly two hundred years was raised to The AUGs for the first time via [[Dessa Kestrel]].
+
+## Session 4 Update (The AUGs)
+
+- The party passed the Deep Index annex in [[Westward]], a lamp-lit passage with crates marked by dates and drawer numbers. It sends couriers rather than finds to [[Crystal City]], where the [[Director of Antiquities]] reads its reports; per [[Dessa Kestrel]], the Academy often hires the Guild. Dessa is missing about 400 years of memory.
+
+## Session 09 Update (The Understudies)
+
+- 12 Nightal: [[Rhona Voss]] will stand in for the Academy at the 13 Nightal meeting because its Stormberg proctor, who only cares about his books, told her to handle it. Rhona expects the Academy to be delighted to study a dragon.
+- Per the party's notes, the Academy does the enchantment and lattice work on the Wall.
+- [[Esca]] helped [[Keith Poe]]'s dragon research at the Academy.
+
 

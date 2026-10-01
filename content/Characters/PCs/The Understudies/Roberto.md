@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-26T18:44:41
+updated: 2026-10-01T18:16:01
 ---
 
 # Roberto
@@ -227,5 +227,20 @@ Playbook:: [[Roberto - Playbook]]
 
 - 1-9 Nightal, Year 222 PA (downtime): backed [[Fern]]'s second attempt to mend things with Kossuth's temple, lending Guidance and covering the liquid courage—still rolled badly, the door stayed shut.
 - 10 Nightal, Year 222 PA: flew above the rest of the party alongside Fern on the return trip to the Wall breach and spotted **[[Meepo]]** hiding before he spotted them. Present for the negotiation with **[[Calcryx]]** (grown to a young dragon since Samson and Keith's first glimpse) and the deal struck to let her stay.
+
+## Session 09 Update (The Understudies)
+
+- 10 Nightal, Year 222 PA, night: tried Arcana (19) to recreate an image of Calcryx's den; nobody present could cast more than a minor illusion.
+- 10 Nightal, Year 222 PA, night: rolled a natural 1 on Persuasion asking Calcryx about her family and whether dragons are cousins of birds; she told the party to leave.
+- 10 Nightal, Year 222 PA, night: Medicine check on Meepo was 9 and found nothing.
+- 11 Nightal, Year 222 PA: while planning to approach the Lathander chapel, Insight 12 suggested saving money would not interest workers, though someone else would care.
+- 12 Nightal, Year 222 PA, morning: visited Sir Verenthal (Quill) at his dock office with some of his own brewing; Quill had forgotten the forum.
+- 12 Nightal, Year 222 PA, morning: the forum is set for the end of Nightal in Quill's office, Roberto now organizes it, and Quill will send money to the Guild in advance.
+- 12 Nightal, Year 222 PA, morning: suggested funding hazard pay by cutting other Wall upkeep costs; Insight 28 found Quill dislikes trouble, likes obedience and money, is cagey about the family-in-the-city rule and irritated by Guild independence.
+- 12 Nightal, Year 222 PA, morning: Quill's servants looked well treated; Roberto asked for ledger copies, may talk to a servant during the week but may not take the ledgers away, and noted to bring Kili to decipher them.
+- 12 Nightal, Year 222 PA, afternoon: pitched the plan to Sister Priya Dawnwell; she pledged chapel support and said he may speak for it carefully.
+- 12 Nightal, Year 222 PA, afternoon: proposed pop-up worship with free food and drink, and asked priests and paladins to attend the forum.
+- 12 Nightal, Year 222 PA, morning: asked Rhona whether she knew where Layla found the bracers; she did not. Insight 18 caught real warmth in her voice when she spoke of Garm.
+- 12 Nightal, Year 222 PA, evening: heard Rhona's briefing for the 13 Nightal meeting.
 
 

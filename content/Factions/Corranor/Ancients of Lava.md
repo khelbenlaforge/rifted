@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-29T00:11:59
+updated: 2026-10-01T20:52:02
 created: 2026-06-20T00:00
 ---
 
@@ -28,6 +28,10 @@ Headquarters:: Wilderness, Corranor
 
 - **Unconfirmed rumor:** a Door Kickers Religion check surfaced a rumor that [[Malar]] worshippers exist among the circle's reclusive ranks. Not settled fact.
 - [[Ember]] has begun actively surveilling the faction directly, suspicious of them. Ongoing, in-progress.
+
+## Session 31 Update (The Door Kickers)
+
+- A barefoot druid with a hand that turned to molten lava, who sank into the earth and called a Chimera out of the ground, was killed by [[Nanuk]] at dawn on 7 Nightal; his belt carried a hooked beak, claws and a pair of deer antlers. The table did not name him as a member of this faction; whether he belonged to it, or acted alone, is unconfirmed. The S30 Malar-worship rumor about the circle is unchanged.
 
 ## Session 7 Update (The Understudies)
 

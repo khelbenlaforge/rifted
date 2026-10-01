@@ -8,7 +8,7 @@ introduced: 2026-04-19
 secret: false
 state: alive
 created: 2026-04-20T21:01
-updated: 2026-09-28T17:13:35
+updated: 2026-10-01T21:19:33
 ---
 
 # Shen
@@ -246,4 +246,13 @@ Shen completed two retroactive weeks of downtime.
 *(DM-voiced this session; player absent.)*
 
 - Travelled north on the Road with the party. No individual scene. (An earlier processing pass recorded him as staying at the [[Ether Scryer's Academy]]; the DM corrected this 2026-09-28.)
+
+## Session 31
+
+*(Lightly voiced alongside the table this session.)*
+
+- Took a Strata flash at the owlbear kill-site: bare feet, stone dust on two hands, an unhurried blade, and a cord knotted into a clawed paw.
+- Cast Detect Thoughts at dawn; sensed only violent thoughts and a large monstrosity within 30 feet.
+- Cast Hex on the druid (Wisdom) and Eldritch Blast.
+- Was knocked prone by the Chimera's Ram for 9 damage and healed by [[Erky]]'s Healing Word.
 

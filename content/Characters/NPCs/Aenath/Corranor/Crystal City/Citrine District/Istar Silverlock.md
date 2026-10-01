@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-29T20:17:33
+updated: 2026-10-01T18:16:01
 ---
 
 # Istar Silverlock
@@ -193,4 +193,9 @@ Istar is being punished by cleaning the entire [[Adamantine Guild]] because [[Jo
 - Backed the party's choice not to attend the Council's status hearing, telling [[Perrin Quickquill]] they weren't obligated to go.
 - Gave them cold-weather gear, rations, and tents before departure.
 - Rolled out a loot reward before the party left the city: dented plate for [[Regius]], serpent-scale armor for [[Nanuk]], a [[Piwafwi of Fire Resistance|Piwafwi]] for [[Min Ji-ah]], and 3,000gp collectively.
+
+## Session 09 Update (The Understudies)
+
+- Per [[Rhona Voss]], Istar is assistant guildmaster and [[Crystal City]] branch leader. A memo from him told Rhona the [[Adamantine Guild]] was broke. Unofficially, he told his Guild people to stay out of the Council's politics and led a team to follow a lead in the wilderness north of [[Crystal City]] and south of [[Stormberg]].
+
 

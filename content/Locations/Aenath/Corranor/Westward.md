@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-09-30T17:55:14
+updated: 2026-10-01T23:57:24
 ---
 
 # Westward
@@ -77,5 +77,12 @@ Westward is off-cycle right now, between landfalls. The strait's long drained, a
 ## Session 3 Update (The AUGs)
 
 That's the noise the AUGs walked into first, delivered to the Cliffwatch's door by a guide Layla arranged in advance. Dessa Kestrel met them alone, same as most days, and opened a Guild evaluation on the Proving Floor. It still hasn't closed.
+
+## Session 4 Update (The AUGs)
+
+- The party walked the ridge path past the drained strait with 31 stranded hulls (the ferry-masters will not say the number aloud), the Deep Index, the [[Azure Tamers]] Aerie, the forges, and the stair-head gate guarded by [[Ulrich]].
+- Per [[Dessa Kestrel]], the [[The Ferry-Masters|ferry-masters]] run the [[Sunhold]] crossing while the strait carries water, and the [[The Foundry-Owners|foundry-owners]] take over when it drains; Sunhold is under six months old and has made Westward richer.
+- Per Dessa, the forges burn on fire and lava from below the city; she does not know where the heat comes from.
+- Per Dessa, Corranor is governed by seven councillors, with each city run by a noble house.
 
 

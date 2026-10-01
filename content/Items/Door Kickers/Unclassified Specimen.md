@@ -10,7 +10,7 @@ campaign: Rifted
 introduced:
 secret: false
 created: 2026-05-08
-updated: 2026-09-25T23:40:24
+updated: 2026-10-01T20:51:10
 ---
 
 # Unclassified Specimen
@@ -132,5 +132,9 @@ The patron chose [[Shen]] for reasons it has not shared — and has not been ask
 Rarity:: Unique
 Attunement:: Yes (Shen only)
 Found At:: Kunming field site (pre-crossing)
+
+## Session 31 Update (The Door Kickers)
+
+- Shen used Strata at the owlbear kill-site: a six-second flash of bare feet on frozen ground, stone dust on the backs of two hands, an unhurried blade, and a cord on a belt knotted into the shape of a clawed paw.
 
 

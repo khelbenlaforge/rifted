@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T00:00:00
-updated: 2026-09-25T20:45:16
+updated: 2026-10-02T01:22:56
 ---
 
 # Ruan Myrt Zaltana
@@ -48,6 +48,8 @@ Her Circle of Spores magic runs on the same instincts her old career did — pat
 **Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Ruan spent the long rest doing what she'd done since the vision: tending whoever needed it without being asked. Inside [[The Hexad]]'s garden of flowers, the party found a room built on sacrifice that let them get creative about what got offered, blood or otherwise. By the time they found the sixth arrival unconscious in the Chain room, she'd already spent the whole crawl proving that generosity and strangeness aren't opposites.
 
 **Session 3—1-2 Nightal, Year 222 PA:** Ruan tried Bryn's wineskin along with the rest of the party—a firbolg's first taste of alcohol, and not a kind one. The road to [[Westward]] gave her an opening she didn't especially look for once the worst of it passed. Asked, plainly, whether adult life gets any easier with age, she admitted her mother was gone too, the same loss [[Rismawati Bayu|Risma]] had just named, and let the subject close as quickly as it opened. At [[Dessa Kestrel|Dessa]]'s table, she listened to the offer of a future [[Azure Tamers]] introduction with real interest, the first thread in Westward that's actually hers to follow.
+
+**Session 4—2 Nightal, Year 222 PA:** Her room was her old workplace folded into a one-room studio, with floating chemical compounds, neon light, a table of notes on what she had observed, and a bedside photo frame of four faceless silhouettes. In the fight she spent a Wild Shape to wake her Symbiotic Entity, touched Dessa with necrotic spores that were shrugged off, and cast Cure Wounds on the worst-hurt. Afterward she was in disbelief, staring at her spores. She was nervous at the height on the West Stair.
 
 ## Relationships
 

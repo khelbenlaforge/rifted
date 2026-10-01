@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-09-26T00:50:25
+updated: 2026-10-02T01:22:56
 created: 2026-08-26T17:33:32
 ---
 
@@ -48,6 +48,8 @@ Risma brings the same exacting scrutiny to the wild things around her now that s
 **Session 2—Feast of the Moon into 1 Nightal, Year 222 PA (player absent, DM-voiced):** Risma's player wasn't at the table this session. She surfaces only once, at the very end, catching her breath in the sunlight outside [[The Hexad]] and noticing the bag on the unconscious sixth arrival before anyone else did.
 
 **Session 3—1-2 Nightal, Year 222 PA:** Risma tried Bryn's wineskin along with the rest of the party and came out the steadier one for it, which put her on water duty for the rest of the road to [[Westward]]—not that the water helped anybody else much. Somewhere in the middle of failing to help, she found herself talking about home anyway—a life she'd have sworn under oath was good, if nobody pushed past the surface of it. Nobody pushed hard. At [[Dessa Kestrel|Dessa]]'s Cliffwatch, she was one of the two druids singled out for a future [[Azure Tamers]] introduction, unprompted and unexplained beyond the offer itself.
+
+**Session 4—2 Nightal, Year 222 PA:** Her room had a personal wine dispenser, a super-single bed, a bookshelf of accounting texts and historical romance, yellow highlights matching her glasses, and a street window. In the fight her Starry Wisp hit for extra psychic damage. Afterward she was still coming down, a little wild. At the Landing she sent a sparrow familiar ahead into the wind; it rolled 10, a Luck point was spent, and it struggled through.
 
 ## Relationships
 

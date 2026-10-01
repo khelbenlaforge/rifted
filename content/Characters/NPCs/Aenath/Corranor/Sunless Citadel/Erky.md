@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-09-29T00:12:36
+updated: 2026-10-01T21:36:26
 ---
 
 # Erky
@@ -83,8 +83,14 @@ Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster rev
 
 - Reappeared to The Door Kickers on the road north from [[Crystal City]]—not disguised as one of the starving wolf pack itself, but arriving separately in his signature [[Velvet Vulper]] disguise (the same one worn by [[Little Sister]] in the Sunless Citadel), walking out of the treeline after a golden healing glow passed through the pack, then shimmering into his true form.
 - Wearing [[Tymora]]'s holy symbol.
-- Used Invoke Duplicity/Trickster's Transposition to intercept and drive off a second, unnamed rival band of rangers nearby.
+- Used Invoke Duplicity/Trickster's Transposition to intercept and drive off a second, unnamed band of perpetrators nearby.
 - Explained the pack banded together because they're fleeing something further north, which may itself be fleeing something else.
 - **Rejoins the Door Kickers going forward.** This appears to mean he's slipped [[Luks Borg]]'s supervision, his last known status as of Session 19.
 - [[Min Ji-ah]] sent word of his return to Luks Borg via Sending Stone; Luks's reply spent all twenty-five of its words on profanity, none on an actual answer.
+
+## Session 31 Update (The Door Kickers)
+
+- Morning of 6 Nightal: drew rude pictures on everyone's faces, reported something still spooking animals that he had turned away once without seeing it, drew a glowing glyph on [[Nanuk]]'s forearm so he could be called, then split into two and left to scout.
+- Came when Nanuk called through the glyph, within about ten seconds, to the owlbear kill-site; first time the party saw him serious: wept, swore, could not regenerate her beak and claws (said clerics of [[Ilmater]] or [[Lathander]] might), described a druid he had seen stirring predators to rage, said the beak and claws are among the hardest materials (potions, spell reagents, weapons, armor), called her "little sister", and voted to put her down. He left the choice to Nanuk and the party and then went after the culprit, angry.
+- Came again when Nanuk called through the glyph in the dawn fight on 7 Nightal: cast Banishment on the Chimera (DC 17, it vanished) and Healing Word on [[Shen]], and told Nanuk to take the druid. After the druid died he kicked and spat on the body, said "Never do that to my people again", and walked off furious. Whereabouts unknown.
 

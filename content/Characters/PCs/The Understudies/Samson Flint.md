@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-09-26T18:44:41
+updated: 2026-10-01T05:12:08
 ---
 
 # Samson Flint
@@ -178,5 +178,12 @@ Playbook:: [[Samson Flint - Playbook]]
 
 - 9 Nightal, Year 222 PA: shouldered through the common room door with Keith, still frostbitten from the breach; **[[Rhona Voss]]** healed them both and put the breach up on the Guild's own board.
 - 10 Nightal, Year 222 PA: went back with the full party. Met **[[Meepo]]** and **[[Calcryx]]**, the wyrmling from his own Session 7 glimpse now grown into a young dragon. Called her own reinforcement of the Wall "infinitely much better than concrete" once he saw what her ice was doing to the structure—the first person at the table to say the deal's real upside out loud.
+
+## Session 09 Update (The Understudies)
+
+- 10-12 Nightal, Year 222 PA: stayed with the party throughout.
+- 10 Nightal, Year 222 PA, night: at Calcryx's den took exhaustion from her breath along with the others.
+- 11 Nightal, Year 222 PA: at Rhona's briefing, confirmed with Keith that Calcryx's ice holds better than the crews' patchwork.
+- 11 Nightal, Year 222 PA: told Kili she had to stop the idea of bringing nobles to the den.
 
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-04
 secret: false
 created: 2026-09-04T00:00
-updated: 2026-09-29T17:47:46
+updated: 2026-10-01T20:52:02
 ---
 
 # The Soul Economy
@@ -35,5 +35,9 @@ The Lower Planes' appetite for souls in circulation is what makes them a market 
 ## Session 28 Update (The Door Kickers)
 
 [[Regius]]'s cold-open vision placed his mother in a black river, handing a scroll to a winged figure he reads as [[Asmodeus]]—*"three souls for mine."*
+
+## Session 31 Update (The Door Kickers)
+
+- [[Silvanus]] told [[Nanuk]] the gods lost their connection to the world's souls and need souls "to link to" rather than "to feed on"; a god is only as strong as those who revere and connect to them; linking need not mean worship.
 
 

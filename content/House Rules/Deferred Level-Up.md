@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-03-16
 secret: false
 created: 2026-03-16T18:09
-updated: 2026-09-29T00:12:52
+updated: 2026-10-02T00:04:45
 ---
 
 # Deferred Level-Up
@@ -38,3 +38,7 @@ The DM added a further layer at the table, explicitly borrowed from Critical Rol
 
 Session 12—party granted access to Level 3 via this mechanic. Most leveled up before the long rest.
 
+
+## Session 4 Update (The AUGs)
+
+- Live use of the AUGs amendment: [[Rachel Tan]] was dropped to 0 HP by [[Dessa Kestrel]], claimed Level 4 on the spot, and got back up on the new level hit points, prone.

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-09-29T20:17:44
+updated: 2026-10-01T05:12:08
 created: 2026-09-07T18:19:19
 ---
 
@@ -48,5 +48,11 @@ She also asked Rhona, in [[The Exodus/The Understudies/PCs/Roberto|Roberto]]'s h
 
 - Deepened Roberto's relationship track: explained the old rivalry between [[Lathander]] and [[Helm]] (both neutral good, but they do not get along), Lathander's allies [[Chauntea]] and [[Tyr]], and that his youthful exuberance can do as much harm as good.
 - Brought Roberto to an elf at the [[Ward Works]] old enough to remember the Awakening firsthand.
+
+## Session 09 Update (The Understudies)
+- 12 Nightal: Sister Priya Dawnwell blessed a birth. She pledged the chapel's support to [[Roberto]] for the forum and the Magocracy meeting; he may speak for the chapel, carefully. She will speak at the forum if asked.
+- Sister Priya Dawnwell told [[Keith Poe]] the chapel holds no records; she pointed him to [[Oghma]]'s temple for a library, to the [[Selûne]]-worshippers near [[Mystra]]'s temple, and to the shrine complex for gods without clergy.
+- Shar hearsay: the cult's main aim was to disrupt a ceremony in Crystal City, and the Rifted there saved a great lord from the attackers.
+- Temple story: [[Lathander]] was once married to the first goddess of luck; [[Shar]] killed her and she was split into [[Tymora]] and Beshaba; [[Lathander]] later took a goddess of growth as a new wife. The stories teach lessons more than they record facts. Visions of the gods happen, but no cleric has ever spoken to a god.
 
 

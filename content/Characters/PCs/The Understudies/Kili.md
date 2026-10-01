@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-09-26T18:44:41
+updated: 2026-10-01T18:16:01
 ---
 
 # Kili
@@ -210,5 +210,17 @@ Playbook:: [[Kili - Playbook]]
 - 10 Nightal, Year 222 PA: welcomed [[Fern]] back into the fold over breakfast, catching her up on the Feast of the Moon and everything since. Went with the whole party back to the Wall breach the next day.
 - 10 Nightal, Year 222 PA: present for the meeting with **[[Meepo]]** and **[[Calcryx]]** (grown to a young dragon since anyone last saw her)—no fight, a negotiated deal instead: Calcryx stays, the Wall gets stronger for it, the party carries the case to the Guild.
 - 10 Nightal, Year 222 PA: something unnamed passed between her and Fern during the scene where Keith Poe leveled up that night. Neither has put words to it yet.
+
+## Session 09 Update (The Understudies)
+
+- 10 Nightal, Year 222 PA, night: rolled 22 on Dexterity to draw Calcryx's den for the city, including the Wall, glowing ice crystals in the air and Calcryx against the stone.
+- 10 Nightal, Year 222 PA, night: argued for an open house for nobles at the den; Keith's natural-20 Insight warned against it, while her own Insight roll was a natural 1.
+- 10 Nightal, Year 222 PA: the DM offered a mid-session level-up for an artistic-skill feat (Arcane Artist was discussed), but nobody took it.
+- 10 Nightal, Year 222 PA: the DM allowed Kili to take Meepo's face as one of her forms if she wants.
+- 11 Nightal, Year 222 PA: told Rhona Voss the story with the drawing, which impressed her; proposed nobles talk to Calcryx until Keith talked Rhona out of it.
+- 11 Nightal, Year 222 PA, evening: asked Yenna Marrow how Stormberg feeds itself in winter and how to buy food without mentioning the dragon; the cover story is the speakeasy, and Yenna will ask her wife about trappers.
+- 12 Nightal, Year 222 PA: stayed up with the Guild's ledgers.
+- 12 Nightal, Year 222 PA, afternoon: found The Salt Line and met Oskar Brell, a far-ground rigger; gave him a meal from Yenna's and a speakeasy coupon.
+- 12 Nightal, Year 222 PA, afternoon: Insight 17 suggested something might be in the works to bring Oskar nearer the city; Kili whispered that one Wall stretch is safe now and something is guarding it.
 
 

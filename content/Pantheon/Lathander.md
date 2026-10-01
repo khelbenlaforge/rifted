@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-26T00:00:00
-updated: 2026-09-29T17:47:21
+updated: 2026-10-01T20:51:10
 ---
 
 # Lathander
@@ -49,5 +49,14 @@ Confirmed, on 29th Uktar Year 222 PA, as the original patron of [[The Sundered C
 ## Session 5 Update (The Understudies)
 
 Priya's own theology, as given in play, centers entirely on beginnings. His church abhors undeath and desecration the same way Kelemvor's does. It stops there. Where a soul goes after death isn't his church's concern. She and [[Brother Silas]] ([[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]], same session) confirmed the jurisdictional line from their own sides: Lathander cannot poach a soul that hasn't pledged to him first.
+
+## Session 09 Update (The Understudies)
+
+- [[Sister Priya Dawnwell|Priya]]'s temple story says Lathander's first wife was the first goddess of luck; Shar killed her and she split in two. Lathander later had a wife who was a goddess of growth.
+- [[Roberto]]'s dream showed Lathander as a well-meaning, gung-ho adolescent god.
+
+## Session 31 Update (The Door Kickers)
+
+- [[Erky]] named Lathander (god of the morning) alongside [[Ilmater]] as a god whose clerics might regenerate a beak and claws; none were within reach.
 
 

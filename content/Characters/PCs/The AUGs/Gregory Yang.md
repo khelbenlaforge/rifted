@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-09-26T00:50:25
+updated: 2026-10-02T01:23:00
 ---
 
 # Gregory Yang
@@ -49,6 +49,7 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 
 **Session 3—1-2 Nightal, Year 222 PA (player absent):** Gregory didn't go to [[Westward]]. He went the other way, on foot, beside a stranger he'd known for less than an hour, because someone needed to and [[Jack XLR|Jack]] couldn't ask for himself. No scene was played for it beyond the choice itself.
 
+**Session 4—2 Nightal, Year 222 PA:** He returned from the road by air on a large winged mount, the best part of his day. His art deco room had a fireplace, an alcohol bar for friends only (he does not drink), shelves of history, politics, finance, and literature, a window onto the distance, a large mirror, and an aquarium. In the fight he put his Eldritch Cannon in the air above Ruan, cast his temporary-HP ward as a bonus action, and broke the wall around Rachel with the cannon. He was frightened when the dark fell because he could do nothing. Dessa gave him one of a pair of sending stones; his offer to copy it was refused.
 ## Relationships
 
 Gregory's answer to five strangers and a temple full of shadows was a joke about wanting to go to art school instead. Same instinct that's kept him composed his entire life — it just usually gets aimed at a dinner table, not a stranger group mid-crisis.

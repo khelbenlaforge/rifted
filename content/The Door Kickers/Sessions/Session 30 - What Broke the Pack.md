@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-09-21
 secret: false
 created: 2026-09-25
-updated: 2026-09-28T17:13:34
+updated: 2026-10-01T21:36:28
 ---
 
 # Session 30 - What Broke the Pack
@@ -94,7 +94,7 @@ It worked. Fed rather than fought, the pack took what was offered and settled, a
 
 None of the six wolves was ever Erky, and neither were the tigers. A golden glow passed through the pack first—scrapes and starvation easing, just slightly, all at once—and then something walked out of the treeline that hadn't been part of the pack a moment before: small, multi-tailed, midnight-blue fur catching what little light there was. A Velvet Vulper. The same disguise he'd worn once before, when the party knew him only as a caged gnome and the creature sharing that cage called Little Sister, back in the Sunless Citadel. It sat down, put a paw to one of the sabertooth tigers' heads, and shimmered into **[[Erky]]**, Tymora's holy symbol plain around his neck, looking entirely too pleased with the reveal for someone who'd just spent the evening as a fox.
 
-He hadn't come alone, or rather, he'd come to stop someone else from arriving: a second pack of rangers, unnamed, closing on the same starving animals from the other direction. Erky threw up a scatter of his own illusory duplicates to run interference and drove them off before anyone came to blows over a pack of half-dead wolves. It worked cleanly, the way most of Erky's tricks do.
+He hadn't come alone, or rather, he'd come to stop someone else from arriving: a second band of perpetrators, unnamed, closing on the same starving animals from the other direction. Erky threw up a scatter of his own illusory duplicates to run interference and drove them off before anyone came to blows over a pack of half-dead wolves. It worked cleanly, the way most of Erky's tricks do.
 
 What he told them afterward mattered more than the trick itself. The pack hadn't banded together out of any normal instinct. They were fleeing something further north, something that might itself be running from something else entirely. It was the same pull Nanuk's been feeling since the city, said back to him from a completely different direction, by someone with no reason to lie about it.
 
@@ -106,7 +106,7 @@ Night fell before anyone got much further than that. Wherever tonight was always
 
 ## Key Takeaways
 
-- **[[Erky]] rejoins the Door Kickers.** Arrived separately from the wolf pack itself, disguised as a Velvet Vulper—the same illusion Little Sister once wore, back in the Sunless Citadel—revealed himself, drove off a rival group of rangers with illusory duplicates, and is traveling north with the party again, a major continuity shift from his last known status under [[Luks Borg]]'s supervision.
+- **[[Erky]] rejoins the Door Kickers.** Arrived separately from the wolf pack itself, disguised as a Velvet Vulper—the same illusion Little Sister once wore, back in the Sunless Citadel—revealed himself, drove off a rival band of perpetrators with illusory duplicates, and is traveling north with the party again, a major continuity shift from his last known status under [[Luks Borg]]'s supervision.
 - **[[Malar]] surfaces for the first time to this party.** A High Religion check ties the kill-site's pattern, clean and deliberate, to the Beastlord rather than to [[Silvanus]]'s own creed. Unconfirmed rumor: the [[Ancients of Lava]] may count some of his worshippers among their ranks.
 - **[[Torem]]'s migration job is advancing, not solved.** Early, heavy southbound herds, a drained kill-site trail, and the wolf pack's own desperation all point at something further north that even Erky's pack was running from.
 - **[[Ember]] is now shadowing the [[Ancients of Lava]]**, sent by the party on the strength of [[Belak]]'s known history with the faction—not a solo call this time.

@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-06
 secret: false
-updated: 2026-09-29T00:12:26
+updated: 2026-10-01T05:12:08
 created: 2026-09-07T18:19:06
 ---
 
@@ -49,5 +49,9 @@ Headquarters:: [[Stormberg]]
 ## Session 5 Update (The Understudies)
 
 Rhona described the Guild as a natural home for an artificer looking for real work.
+
+## Session 09 Update (The Understudies)
+- 11 Nightal: [[Brannoc Tull]] collected [[Keith Poe]]'s owed favor: a copy of his Wall readings from an earlier survey, not yet delivered.
+- Per [[Brannoc Tull]], the Guild is paid by the Magocracy together with the Academy, by output; the noble houses have no direct sway and are sent "upstairs"; the guildmaster is usually away on research; archives are open to [[Keith Poe]], who left with plans for an Alchemy Jug and a Bag of Holding.
 
 

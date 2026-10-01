@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-09-29T01:10:59
+updated: 2026-10-01T18:16:01
 ---
 
 # Layla
@@ -150,4 +150,13 @@ Deity:: Unknown
 ## Session 3 Update (The AUGs)
 
 - [[Dessa Kestrel]] relayed to The AUGs, as a secondhand and unverified report, that Layla once worked as an assistant to [[Garm]] at [[Crystal City]] on an experimental blood operation, after which she disappeared and a manhunt followed for roughly two months. This is consistent with, and not contradicted by, the Understudies' independently learned Session 5 material naming Garm as the archmage Layla worked under (that material specifies his research as reinstating teleportation—the AUGs' own account doesn't itself use that word, so the connection is inference, not confirmed restatement).
+
+## Session 4 Update (The AUGs)
+
+- [[Dessa Kestrel]] told the party [[Layla]] was an assistant to one of the Crystal City councillors, [[Garm]].
+
+## Session 09 Update (The Understudies)
+
+- [[Rhona Voss]] said Layla was an assistant to [[Garm]] and vanished from [[Crystal City]] right after the first Rifted were dumped into it. Rhona had no idea where the Rifted bracers came from and called whoever is sending groups to different places smart.
+
 

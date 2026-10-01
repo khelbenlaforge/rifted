@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-29T01:10:51
+updated: 2026-10-02T00:04:47
 ---
 
 # Garm
@@ -86,4 +86,13 @@ Garm arranged a meeting at [[Blackstaff Mansion]] for [[Min Ji-ah]], joined by [
 ## Session 3 Update (The AUGs)
 
 - First mentioned to The AUGs via [[Dessa Kestrel]]'s secondhand account of [[Layla]]'s past under him.
+
+## Session 4 Update (The AUGs)
+
+- [[Dessa Kestrel]] named [[Garm]] among the [[Adamantine Guild]] patrons, probably one reason for the Guild's autonomy and, by proxy, the party's protection.
+
+## Session 09 Update (The Understudies)
+
+- [[Rhona Voss]] told the party that Garm is the [[Adamantine Guild]]'s patron on the [[Corranor Council]]. She spoke warmly of him, describing him as too trusting but a good administrator. [[Layla]] was his assistant.
+
 

@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-09-26T18:44:41
+updated: 2026-10-01T17:20:05
 ---
 
 # Keith Poe
@@ -229,5 +229,23 @@ Playbook:: [[Keith Poe - Playbook]]
 - 9-10 Nightal, Year 222 PA: came back frostbitten with Samson at the top of the session; healed to full by [[Rhona Voss]]. Rather than spend four days on a proper crafting job, called in a favor with his own [[Iron Seam Guild]] colleagues to get a set of chainmail rush-forged overnight—he now owes them one, unspecified and outstanding.
 - 10 Nightal, Year 222 PA: back at the Wall breach with the full party. Met **[[Meepo]]** and **[[Calcryx]]** (grown to a young dragon since his and Samson's own Session 7 glimpse) and was present for the negotiated deal that lets her stay.
 - **Leveled up to 4—the only one of the five who did.** Per XPHB's Artificer table: Infusions Known 4, Infused Items 2, Cantrips Known 2, 1st-level spell slots 3. Level 4's Ability Score Improvement landed as the **Fey-Touched** origin feat (+1 INT, now 20; always-prepared *Misty Step* + *Hunter's Mark*)—confirmed via the 2026-09-18 Foundry re-sync (new actor, old one deleted by the player). No new Armorer subclass feature at this level (next one lands at 5). Character Sheet below now reflects the live re-sync in full, including a new Chain Mail upgrade and [[The Last Exposure]] going live at Tier 1 (attuned).
+
+## Session 09 Update (The Understudies)
+
+- 10 Nightal, Year 222 PA, night: rolled a natural 20 on Insight and saw that bringing nobles to Calcryx's den would end badly.
+- 10 Nightal, Year 222 PA, night: used Tinker's Magic with Intelligence and Cartographer's Tools (16) to conjure cartographer's paper and record Calcryx's footprint, two to three feet across.
+- 10 Nightal, Year 222 PA, night: the paper vanished at the next long rest.
+- 10 Nightal, Year 222 PA, night: Roberto's natural 1 on Persuasion got the party evicted; Keith's Constitution save was 9.
+- 11 Nightal, Year 222 PA: with Samson, confirmed to Rhona Voss that Calcryx's ice holds better than the crews' patchwork, offered a cost-benefit analysis of upkeep on that Wall stretch and talked Rhona out of sending nobles to the den.
+- 11 Nightal, Year 222 PA: visited Iron Seam; Brannoc Tull collected Keith's favor, a copy of Keith's earlier Wall readings to be sent soon, after which they would be square.
+- 11 Nightal, Year 222 PA: Arcana on the readings was thin; archive access and a 25 yielded plans for an Alchemy Jug and Bag of Holding.
+- 11 Nightal, Year 222 PA: someone holds the Sending Stones plans; Keith could ask about +1 shield plans; he made the Bag of Holding.
+- 11 Nightal, Year 222 PA: the DM warned that encumbrance penalties would start to count.
+- 12 Nightal, Year 222 PA: shared Brannoc's account of who pays whom.
+- 12 Nightal, Year 222 PA, morning: dragon research at the Academy with Esca's help and advantage (Investigation 26) found chromatic dragons selfish and noncooperative, lairs growing with age, little known about tribute in 222 years, and hoards ranging from coin to art, magic items and rare materials.
+- 12 Nightal, Year 222 PA, morning: research found dragons sometimes get bored and come to look.
+- 12 Nightal, Year 222 PA, afternoon: asked Sister Priya about Shar; the chapel keeps no records. Priya pointed him to Oghma's temple, Selûnites near Mystra's temple and the shrine complex where Shar has a shrine; Keith has not visited.
+- 12 Nightal, Year 222 PA: Keith now stands about five feet tall, up from four, after leveling to 4 in Session 8.
+- 11 Nightal, Year 222 PA: named why they were teleported as one of the party's big open questions.
 
 

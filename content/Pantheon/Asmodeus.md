@@ -9,7 +9,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-09-29T17:47:45
+updated: 2026-10-01T20:52:02
 ---
 
 # Asmodeus
@@ -48,5 +48,9 @@ In [[Aenath]], Asmodeus's presence is subtle—felt more in temptation and infer
 ## Session 11 Update (The Door Kickers)
 
 His most significant point of contact with the current campaign is [[Ember]]: during the trial of the Sealed Door in the [[Sunless Citadel]], Asmodeus was the only deity to remain at her side, standing steady while others moved away.
+
+## Session 31 Update (The Door Kickers)
+
+- [[Silvanus]] told [[Nanuk]] that even Asmodeus wants to protect souls, though he would not trust him "within an inch of my life".
 
 

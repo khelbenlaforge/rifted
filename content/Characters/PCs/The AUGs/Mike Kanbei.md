@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-09-26T00:50:25
+updated: 2026-10-02T01:22:56
 ---
 
 # Mike Kanbei
@@ -48,6 +48,8 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 **Session 2—Feast of the Moon into 1 Nightal, Year 222 PA:** Mike listened to Layla's honesty at the seam the way he used to listen to a client's impossible ask, filing it away rather than arguing with it. Inside [[The Hexad]] he moved the way he always does, cutting straight to what mattered and closing ground fast enough that the others learned to follow the sound of him before the sight. By the time the party doubled back and found a stranger wreathed in fire where nobody had been standing before, he didn't ask questions either, just fell in line to run.
 
 **Session 3—1-2 Nightal, Year 222 PA:** Mike said little on the road to [[Westward]], same economy as always, and didn't argue when Gregory peeled off toward the druids with Jack—some choices don't need discussing. He tried Bryn's wineskin along with the rest of the party; a new body's first taste of alcohol wasn't something even his usual stillness got him through cleanly. At the [[Adamantine Guild]]'s Cliffwatch, [[Dessa Kestrel|Dessa]]'s slow, methodical way of reading a room was a rhythm he recognized without needing to name it. He came out of her account of [[The Claret]] with more questions than he asked out loud.
+
+**Session 4—2 Nightal, Year 222 PA:** His pocket-dimension room had a wooden floor, a clear skylight, and a balcony with a single cherry-blossom tree growing out of the floor, with no scenery beyond it. In the Proving Floor fight he cast Faerie Fire on Dessa, later flanked her, and cast Dancing Lights when the darkness fell. Afterward he felt like Superman and was annoyed at a spear thrust he missed.
 
 ## Relationships
 

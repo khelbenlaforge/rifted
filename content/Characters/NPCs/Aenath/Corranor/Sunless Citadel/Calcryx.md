@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:52
-updated: 2026-09-28T23:33:53
+updated: 2026-10-01T05:12:08
 ---
 
 # Calcryx
@@ -62,5 +62,15 @@ The [[Durbuluk Goblins]] stole her — or rather, [[Ragh]] engineered the theft 
 ## Session 8 Update (The Understudies)
 
 - **Encountered in Session 08 (The Understudies):** relocated to a fresh breach in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormberg|Stormberg]]'s Wall, grown to a young dragon in the interim. Found the party rather than the other way around—Meepo spotted first, then Calcryx herself, guarded but willing to talk once Meepo vouched for them. An involuntary cold sigh cost the party a shared level of exhaustion, not an attack. Negotiated a lasting deal: she stays in the breach, and her prolonged presence is quietly reinforcing the Wall's structure (see [[Young Dragon Lair Effects]]); in exchange she won't hunt people, and the party carries the case back to the Guild and city on her behalf. [[Fern]] clinched it in the room by appealing directly to her hoarding instinct, adding treasure toward Calcryx's hoard on top of a standing supply of food—a read on the dragon that landed exactly because Calcryx measures worth in hoard and appetite before anything else. She's tracking that promise like every other debt she's ever kept.
+
+## Session 09 Update (The Understudies)
+- 10 Nightal, Year 222 PA, night: in her den, Calcryx repeated the deal's terms: she stays, she dislikes the party's people, and they make their deal with the people in the city and keep her fed; she told [[Fern]] there would always be something for the hoard and that she would remember exactly what was said. No amount was named.
+- Calcryx gave [[Fern]] a molted scale.
+- Per the DM, Calcryx had already tried to ice-blast [[Samson Flint]] and [[Keith Poe]] at the first meeting; [[Roberto]] read her as older than her years and somewhat lazy.
+- Calcryx said she left the Arctic as a wyrmling to explore, was caught by kobolds, and was saved by two-legged people along with [[Meepo]].
+- [[Keith Poe]] got a footprint two to three feet across on conjured paper; it vanished at the next long rest. [[Kili]] drew the den. Both were for [[Rhona Voss]].
+- [[Roberto]] rolled a natural 1 on Persuasion while asking about Calcryx's family and whether dragons are cousins of birds; she told the party to get out, and everyone took another level of exhaustion.
+- Calcryx's hoard so far consists of leather armor, swords, and tooth necklaces, a very modest start.
+- 11 Nightal: the party told [[Rhona Voss]] about Calcryx; Rhona agreed to convene the Magocracy, the nobles, and the Academy and to send no one to the den unless it is safe.
 
 

@@ -55,3 +55,7 @@ Combat mechanics established:
 - A [[Fused Shadow]] formed mid-fight when two bloodied Shadow-family creatures ended up adjacent, per its existing combine rule — hit noticeably harder than either component alone, consistent with its stat block.
 
 
+## Session 4 Update (The AUGs)
+
+- Per [[Dessa Kestrel]], the shadows appeared at High Harvestide about three months ago. Her unconfirmed claim is that they come only after Rifted and where reality shifts (planar aberrations).
+

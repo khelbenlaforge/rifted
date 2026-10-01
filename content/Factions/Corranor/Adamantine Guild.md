@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-29T01:10:41
+updated: 2026-10-01T05:20:08
 ---
 
 # Adamantine Guild
@@ -75,6 +75,11 @@ A squat stone post atop the western cliffs, thinly staffed, watching the roped-o
 
 [[Dessa Kestrel]] brought a party through a portal that reshaped itself from a plain room into an arena—**the Proving Floor**—mist curling across worn stone under an open sky, used for evaluations rather than rest (Session 3).
 
+## Session 4 Update (The AUGs)
+
+- All five AUGs passed [[Dessa Kestrel]] evaluation at the Cliffwatch and remain Brass rank.
+- Per Dessa, the Guild nearly lost four or five of its top people to the shadows; they survived. The Guild watches the Keel together with the Academy.
+
 ## Session 3 Update (The JULYs)
 
 The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves; confirmed at [[Coldford]]'s city gate (Session 3, The JULYs), where it was recognised on sight and waved the party through without incident.
@@ -90,4 +95,9 @@ Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch 
 ## Session 19 Update (The Door Kickers)
 
 [[Shen]] and [[Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
+
+## Session 09 Update (The Understudies)
+- 12 Nightal: per the ledgers Kili read, the budget comes from headquarters in Crystal City; the Guild is broke; income and outgoings are as listed under [[Rhona Voss]]; the pocket dimension costs nothing.
+- [[Garm]] is the Guild's patron on the Council. [[Istar Silverlock]] is assistant guildmaster and Crystal City branch leader; [[Erky]] is guildmaster; none of the upper ranks is a Rifted.
+- Every group of Rifted that landed, in [[Stormberg]], [[Coldford]], and [[Westward]], wore Guild bracers and was sent straight to the Guild.
 

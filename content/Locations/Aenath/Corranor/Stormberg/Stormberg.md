@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-09-29T00:12:30
+updated: 2026-10-01T17:28:08
 ---
 
 # Stormberg
@@ -49,6 +49,11 @@ Status:: active
 ## Residents
 
 - **[[Devran]]** — A dwarf who resides here; brother of the [[Dwarven Bartender]] in [[Crystal City]]'s [[Garnet District]]
+- **[[Zarantha Verenthal]]**—head of [[House Verenthal]]'s Stormberg branch; runs the mills and forges and funds the Wall's upkeep
+- **[[Sir Verenthal]]**—Quill Verenthal, Zarantha's nephew; Wall labor rostering and pay, from the docks
+- **[[Vestra Coln]]**—the Magocracy's representative in Stormberg
+- **[[Oskar Brell]]**—far-ground rigger on the Wall crews
+- **[[Brannoc Tull]]**—Iron Seam Guild forge-hand
 
 ## Current Events
 
@@ -84,5 +89,11 @@ Right now, with the gates still shut, two parties are out past the Wall and can'
 ## Session 21 Update (The Door Kickers)
 
 - Mentioned alongside [[Coldford]] in the Session 21 geographic survey
+
+## Session 09 Update (The Understudies)
+- Winter food: hunting has nearly stopped, the fields outside the city lie fallow, and the city is eating through its stores; hunters and trappers work the forests on either side. Shanty towns outside the city walls are steadily built. The island goes down at landfall and the fishing boats go out again.
+- Stormberg's influence is split three ways: the Verenthal nobles, the Magocracy's representative, and the [[Ether Scryer's Academy]] working with the [[Iron Seam Guild]].
+- A small temple district holds temples of [[Oghma]] and [[Selûne]] (near the temple of [[Mystra]]), and [[Ilmater]] also has a temple in the city. A complex of shrines for gods without clergy includes a shrine to [[Shar]]. Shrines to [[Tymora]] and Beshaba stand next door to each other.
+- New: [[The Salt Line]], a dockside cabin where far-ground crews drink.
 
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T15:51
-updated: 2026-09-28T23:33:23
+updated: 2026-10-01T05:20:08
 ---
 
 # Meepo
@@ -64,5 +64,10 @@ When the goblins raided and took Calcryx, the colony's anger needed a target. Me
 ## Session 8 Update (The Understudies)
 
 - **Encountered in Session 08 (The Understudies):** found first, hiding in a side nook of the fresh Wall breach he and Calcryx now call home. Talked down rather than fought—jerky, a gentle question, and a clean persuasion roll were enough to convince him these particular two-legs weren't a threat. He led the party through his own trap room (ice shelving, rigged and reformed since anyone else's visit) to Calcryx herself, and vouched for them once she started sighing cold at the newcomers. Still entirely devoted to her.
+
+## Session 09 Update (The Understudies)
+- 10 Nightal: Meepo offered his own room for the party's night; they slept there beside frozen rats.
+- Meepo does not shiver in the cold that costs the party exhaustion; [[Roberto]]'s Medicine check (9) found nothing, and the DM's read is that something is either shielding him or slowly changing him.
+- The DM's read is that if [[Calcryx]] left, Meepo would follow; it is companionship, not dependence.
 
 
