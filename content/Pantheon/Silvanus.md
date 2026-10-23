@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-10-01T21:12:17
+updated: 2026-10-23T11:59:15
 ---
 
 # Silvanus
@@ -62,7 +62,9 @@ Silvanus is revered by druids, nature wardens, and those who dwell in the deep w
 - Silvanus told Nanuk all the gods lost their connection to the souls of the world and must relink with souls "to link to" rather than "to feed on"; linking need not mean worship, and Nanuk cannot link with him yet.
 - After Nanuk explained that the party came from Earth, Silvanus told Nanuk, "You are of the souls of this world."
 - Silvanus told Nanuk, "I will not hide, my child. I will keep the heart of this world beating. Find your way to me."
-- The link broke as Nanuk asked what the barrier protects them from.
+- Silvanus told Nanuk that the moment he closes off his energy, the life force of the world stops.
+- Silvanus told Nanuk he hoped Nanuk would take to heart that souls' life force also fuels the world and that the gods have lost their connection to souls, and not spread it unless absolutely necessary.
+- When Nanuk asked what the barrier protects them from, Silvanus answered with a single word, "Punisher," and the link cut. Who or what that is remains unexplained.
 
 ## Session 28 Update (The Door Kickers)
 

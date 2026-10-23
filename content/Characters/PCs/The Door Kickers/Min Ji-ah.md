@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-10-01T21:19:33
+updated: 2026-10-23T11:54:38
 ---
 
 # Min Ji-ah
@@ -328,4 +328,7 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 - Cast Elminster's Inquiry on the owlbear; the answer was "Drawing out [[Silvanus]]."
 - Opened the dawn fight with Chromatic Orb in lightning for 25 damage; the druid absorbed it.
 - Tasha's Mind Whip later struck the druid for 8 psychic damage.
+- Cast Fire Bolt at [[Erky]] after the morning face-drawing prank and missed twice. Rode [[Torem]]'s griffon Bella to the kill-site alongside [[Terra]].
+- Named the clawed-paw cord as [[Malar]]'s with a Religion check; suggested asking the owlbear whether she wanted to live; argued that hunting the druid would be a red herring since the party already knew the way to [[Silvanus]]; urged [[Nanuk]] to reach out to him.
+- Checked the Weave during Nanuk's reach for Silvanus (steady), then used Chronal Shift to reroll his failed check, which succeeded.
 

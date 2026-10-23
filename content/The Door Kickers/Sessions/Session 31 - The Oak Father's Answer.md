@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-10-01
 secret: false
 created: 2026-10-01T20:12:32
-updated: 2026-10-01T21:36:28
+updated: 2026-10-23T12:24:17
 ---
 
 # Session 31 - The Oak Father's Answer
@@ -24,7 +24,7 @@ updated: 2026-10-01T21:36:28
 
 The party camped on the Road and woke to the kind of cold that gets into everything. The fire was down to its last coals, breath hung in the air a beat too long, and winter had started to claw its way into daily life. The bread was gone. Ahead the road kept climbing, and the forest closed in tighter on both sides than it had the day before.
 
-Erky was up before anyone and noisier than all of them. Everyone woke with something rude drawn on their faces, and only Terra had really tried to stop it. Two attempts to pay him back missed, and the party gave up.
+Erky was up before anyone and noisier than all of them. Everyone woke with something rude drawn on their faces, and only Terra had really tried to stop it. Min Ji-ah tried to pay him back with a Fire Bolt and missed twice, and the party gave up.
 
 He hadn't spent the whole dawn playing. He had gone out early and come back with a report: whatever was spooking the wild animals and eating the kills was still close. He had turned it away once and never got a look at who it was. The table weighed chasing it against finding Silvanus and chose to keep following the pull.
 
@@ -32,7 +32,7 @@ Before he left, Erky picked Nanuk as the most responsible of them and drew a sma
 
 ### The Smell of Iron
 
-Nanuk took to the air. Terra rode with Bella, and Gill, Sadiah and the others went by carriage. The tree line made the forest hard to read from above. On the ground the smell came first: fresh, wet iron, with nothing rotten in it. From the air, those with a good eye saw a stretch of forest flattened and frozen, a long drag mark, and at the end of it something feathered and huge. The sharpest could tell it was bigger than a cart and lay among knocked-down trees with its head turned north, as if it had been watching something when it lay down.
+Nanuk took to the air. Terra and Min Ji-ah rode with Bella, while Gill, Sadiah and the others went by carriage, with Regius driving. The tree line made the forest hard to read from above. On the ground the smell came first: fresh, wet iron, with nothing rotten in it. From the air, those with a good eye saw a stretch of forest flattened and frozen, a long drag mark, and at the end of it something feathered and huge. The sharpest could tell it was bigger than a cart and lay among knocked-down trees with its head turned north, as if it had been watching something when it lay down.
 
 ### The Owlbear
 
@@ -44,13 +44,13 @@ A thin, warm light rose off her like a stream of water. It lifted about a foot, 
 
 The others came up. Someone's Medicine check put the cuts at a day old at most. Wounds like that cannot heal themselves, and she had two or three days of painful dying ahead. The party could close the wounds, but nobody present could regrow a beak or claws, and without them she would die in the wild no matter what. Terra's Perception turned up a second set of tracks coming in from the west. They were barefoot, big, five-toed and human. Beak and claws from an owlbear were worth a great deal to the right buyer, as reagents or as crafting material.
 
-Shen put a hand to the ground and took the six-second flash his Specimen gives him, the most significant thing that had happened there. Bare feet on frozen earth. Stone dust on the backs of two hands. A blade that was not hurried at all. A cord on a belt, knotted into the shape of a clawed paw. A Religion check, pushed with Guidance, put a name to the paw: Malar. Gill moved to end her suffering at once, and Nanuk asked him to wait.
+Shen put a hand to the ground and took the six-second flash his Specimen gives him, the most significant thing that had happened there. Bare feet on frozen earth. Stone dust on the backs of two hands. A blade that was not hurried at all. A cord on a belt, knotted into the shape of a clawed paw. Min Ji-ah's Religion check, with Guidance behind it, put a name to the paw: Malar. Belak was ruled out, because he had never worshipped Malar. Gill moved to end her suffering at once, and Nanuk asked him to wait.
 
 ### Asking Her
 
-Nanuk would not decide for her without asking. From fifteen feet, near enough to be heard and far enough to stay clear of a lunge, he spoke to her through Beast Speech. He told her he meant her no harm and would find whoever had done this. Then he asked one thing: did she want to be healed and restored, or set free? She could look one way for the first and the other way for the second.
+Min Ji-ah suggested putting the question to the owlbear, and Nanuk would not decide her fate without asking. From fifteen feet, near enough to be heard and far enough to stay clear of a lunge, he spoke to her through Beast Speech. He told her he meant her no harm and would find whoever had done this and punish them. Then he asked one thing: did she want to be healed and restored, or set free? She could look one way for the first and the other way for the second.
 
-Her breathing slowed. She raised her stumps in front of her face and looked at them, and she seemed confused. Terra read her and said she wanted to live and had no idea how. Someone closed the wounds on her face with a Channel Divinity heal, and her pain eased. She tried to stand, cried out when her stumps met the ground, and Nanuk told her to stay down and rest.
+Her breathing slowed. She raised her stumps in front of her face and looked at them, and she seemed confused. Terra read her and said she wanted to live and had no idea how. Gill closed the wounds on her face with a Channel Divinity heal for nine points, and her pain eased. She tried to stand, cried out when her stumps met the ground, and Nanuk told her to stay down and rest.
 
 Nanuk put a hand over the glyph, concentrated, and said, *Erky, I need you. We need you.* Inside ten seconds there was a flash, and Erky was standing among them.
 
@@ -70,7 +70,7 @@ Nanuk went close and told her he was sorry they couldn't put her back together. 
 
 Detect Magic found the same magic here as at the first kill-site. Something else had changed. After her spirit left, a little of it seeped into Nanuk and the rest went its own way, as if in thanks. The pull toward Silvanus grew a great deal stronger, and from here on, any check that leaned on the pull would be made with advantage.
 
-Some of the party wanted to hunt the druid down and make them pay. Nanuk, uncharacteristically, said that they could not beat Malar by acting like Malar, and that the answer was to keep the balance and find Silvanus. The pull ran north and west, and Erky's chase had run roughly west, so the two were not far apart, but a hunt would cost time.
+Some of the party wanted to hunt the druid down and make them pay. Min Ji-ah thought a hunt would be a red herring: the killers were trying to find Silvanus, and the party already knew the way. Nanuk, uncharacteristically, said that they could not beat Malar by acting like Malar, and that the answer was to keep the balance and find Silvanus. The pull ran north and west, and Erky's chase had run roughly west, so the two were not far apart, but a hunt would cost time.
 
 It was coming on evening. The ride had taken most of a day, four hours out, a break, and four more. Min Ji-ah cast Elminster's Inquiry on the owlbear and asked who the people were and what they wanted. The answer came in three words: drawing out Silvanus. It also settled that the two kills were the same hands, beyond doubt. Nanuk took it to mean that Malar's followers wanted Silvanus lured into the open so they could kill him. Someone asked whether they might be trying to bring him back instead.
 
@@ -78,19 +78,19 @@ Traveling by night would mean more predators, hungry ones. They decided to camp.
 
 ### The Fir
 
-Nanuk had been feeling Silvanus's connection to the world weaken, and he had not heard from him lately. The party urged him to reach out and tell Silvanus they were coming. He walked to the biggest tree near the kill-site, a huge old grandfather of a fir, knelt with Inukshuk beside him, put a hand on the trunk and closed his eyes. He felt for the part the tree played in the balance of things, and said, *stay hidden.*
+Nanuk had been feeling Silvanus's connection to the world weaken, and he had not heard from him lately. The party, Min Ji-ah first, urged him to reach out and tell Silvanus they were coming. He walked to the biggest tree near the kill-site, a huge old grandfather of a fir, knelt with Inukshuk beside him, put a hand on the trunk and closed his eyes. He felt for the part the tree played in the balance of things, and said, *stay hidden.*
 
-It was a hard reach. The DM set a high difficulty and let the table shave it down. Inukshuk's presence took some off. Terra stayed beside him in prayer, which gave him advantage. Speech of Beast and Leaf took more. Gill prayed to Istishia and put Guidance on him. Someone talked Nanuk down from the worst of his rage, and it held. Sadiah drew a small flower out of the winter ground. A check of the Weave found it steady here, which closed off one idea but was worth knowing. The number came down far enough that a good roll with advantage could beat it. It did, by the skin of its teeth.
+It was a hard reach. The DM set a high difficulty and let the table shave it down. Inukshuk's presence took some off. Terra stayed beside Nanuk in prayer to Mielikki. That gave him advantage and lowered the number again. Speech of Beast and Leaf took more. Gill prayed to Istishia and put Guidance on him. Regius talked Nanuk down from the worst of his rage and promised his full support if they found the ones responsible. It held. Sadiah drew a small flower out of the winter ground. Min Ji-ah checked the Weave and found it steady here, which closed off one idea but was worth knowing. Gill's Enhance Ability added advantage. The number came down far enough that a good roll with advantage could beat it. The first try fell short. A Chronal Shift from Min Ji-ah forced a reroll, and the reroll cleared the number by the skin of its teeth.
 
 For the first time, the life force of the world was something Nanuk could sense instead of only see or hear. Some of [[Mielikki]]'s essence came to him and gathered round his thoughts. He reached into the tree's roots and heard the stories of frost, of spring and of fires. His awareness ran out along lines like a web, to a few deeper branches that held a deeper consciousness, and he heard a very deep voice.
 
-*I can't hide, and I never will. This world needs my life force.* He said he loved and respected all that Nanuk had done. Nanuk had returned another child to him, and back into the cycle she went. He and Malar had danced this dance for millennia. He did not condone it. He would not be baited, and Malar had been trying for years. But every child who turned from him weakened him further, and animals counted. He would not kill Malar, and neither of them could kill the other; both were necessary for whatever was to come. Malar only wanted more of the world than he should have. There were bigger things than Malar out there, and if Nanuk chose to fight him he could, but Silvanus was looking at a larger picture. *I will not hide, my child. I will keep the heart of this world beating. Find your way to me.*
+*I can't hide, and I never will. This world needs my life force.* The moment he closed off his energy, the world would stop. He said he loved and respected all that Nanuk had done. Nanuk had returned another child to him, and back into the cycle she went. He and Malar had danced this dance for millennia. He did not condone it. He would not be baited, and Malar had been trying for years. But every child who turned from him weakened him further, and animals counted. He would not kill Malar, and neither of them could kill the other; both were necessary for whatever was to come. Malar only wanted more of the world than he should have. There were bigger things than Malar out there, and if Nanuk chose to fight him he could, but Silvanus was looking at a larger picture. *I will not hide, my child. I will keep the heart of this world beating. Find your way to me.*
 
-Nanuk asked how he could help restore balance if he did not fight. Silvanus said the life force of the world's souls also fuels the world, and that all the gods had lost their connection to all souls. His family was behind a barrier. He and four others were the only ones here, holding everything together: Kossuth, Grumbar, Istishia and Akadi. All five had given themselves freely to keep the world going until the barrier could one day be released. The barrier couldn't be removed. Nanuk asked who made it, and the answer was *we did, all of us.* His entire family had done it, to protect all of you. Even Asmodeus, whom he would not trust within an inch of his life, wanted to protect souls.
+Nanuk asked how he could help restore balance if he did not fight. Silvanus said the life force of the world's souls also fuels the world, and that all the gods had lost their connection to all souls. He hoped Nanuk would take both facts to heart and not spread them unless telling others became absolutely necessary. His family was behind a barrier. He and four others were the only ones here, holding everything together: Kossuth, Grumbar, Istishia and Akadi. All five had given themselves freely to keep the world going until the barrier could one day be released. The barrier couldn't be removed. Nanuk asked who made it, and the answer was *we did, all of us.* His entire family had done it, to protect all of you. Even Asmodeus, whom he would not trust within an inch of his life, wanted to protect souls.
 
 Then he paused. *You haven't been here long. How did you come back?* Nanuk told him they had been taken from a world called Earth and had simply appeared here. Silvanus answered, *No, child. You are of the souls of this world.* He had not spoken with his siblings for millennia and did not know what was happening beyond the barrier. The gods had to relink with the life force of the world, with souls to link to rather than souls to feed on, because a god is only as strong as those who revere and connect to them. Linking did not have to mean worship, though Nanuk could not do it yet.
 
-Nanuk had one question left, and he asked what the barrier was protecting them from. The link gave out as Silvanus began to answer. Nanuk opened his eyes and told the others everything. They had all heard it.
+Nanuk had one question left, and he asked what the barrier was protecting them from. Silvanus answered in a single word, *Punisher*, and the link cut. Nanuk opened his eyes and told the others everything. They had all heard it.
 
 ### The Barefoot Man
 
@@ -125,7 +125,7 @@ Erky walked up to the body, kicked it, and spat on it. *Never do that to my peop
 - **[[Nanuk]]'s pull is stronger.** Checks that lean on it are made with advantage from here.
 - **[[Erky]] came twice when called** and banished the Chimera. He left angry, and his whereabouts are unknown.
 - **[[Torem]]'s migration job advances.** The druid who mutilated the owlbear is dead, and the herds' flight is still unexplained.
-- **Still open:** the grove has not been found, what the barrier protects against was never answered, and the party has not decided what to do with the belt's trophies.
+- **Still open:** the grove has not been found, the one word Silvanus gave for what the barrier protects against, *Punisher*, is unexplained, and the party has not decided what to do with the belt's trophies.
 
 ## Related
 

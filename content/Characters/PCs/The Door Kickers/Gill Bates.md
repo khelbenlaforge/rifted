@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-10-01T21:19:33
+updated: 2026-10-23T11:54:38
 ---
 
 # Gill Bates
@@ -283,8 +283,8 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 
 ## Session 31
 
-- Moved to end the owlbear's suffering; [[Nanuk]] asked him to wait.
-- Prayed to [[Istishia]] and put Guidance on Nanuk during the reach for [[Silvanus]].
+- Moved to end the owlbear's suffering; [[Nanuk]] asked him to wait. Later healed her for 9 hit points with Channel Divinity, closing the wounds on her face and easing her pain.
+- Prayed to [[Istishia]] and put Guidance and Enhance Ability on Nanuk during the reach for [[Silvanus]] (the sheet's prepared list has not been updated to show Enhance Ability).
 - Took the first watch.
 - In the dawn fight, made a spear strike with True Strike and used Spiritual Weapon as a glowing fish hook; it missed.
 

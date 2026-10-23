@@ -9,7 +9,7 @@ introduced: 2026-06-29
 secret: false
 state: alive
 created: 2026-06-29T17:14:45
-updated: 2026-10-01T21:19:33
+updated: 2026-10-23T11:54:38
 ---
 
 # Regius
@@ -230,5 +230,6 @@ Regius spent the session chasing work, leverage, and answers.
 
 - Used Unleash Incarnation and Pole Strike in his Echo Knight echo flurry with a glaive.
 - His echo flurry carved heavily into the druid.
+- Drove the carriage to the kill-site. Talked [[Nanuk]] down from his rage before the reach for [[Silvanus]] (Persuasion 21), promising his full support if they found whoever had done it.
 
 

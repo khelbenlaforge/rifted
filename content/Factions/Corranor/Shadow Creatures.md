@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-09-28T19:34:32
+updated: 2026-10-23T12:59:19
 ---
 
 # Shadow Creatures
@@ -46,6 +46,11 @@ Combat mechanics established:
 - Cold damage from magical sources works.
 - Psychic damage works.
 - Light effects can paralyze them.
+
+## Session 24 Update (The Door Kickers)
+
+- [[Regius]] and [[Min Ji-ah]] reported a fight from the day before, above a floating ruin out over the Corranor mainland to the northeast, nearer [[Stormberg]] than [[Crystal City]]. The shadow creatures there were solid and humanoid, unlike the earlier indistinct figures, and resistant to fire in a way the older ones were not.
+- The ruin's three braziers were unlit and wired to a magic circle at its heart. Once that link was cut they lit, and their radiant light scattered the shadows outright.
 
 ## Session 1 Update (The AUGs)
 

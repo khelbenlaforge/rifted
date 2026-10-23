@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-10-01T21:19:33
+updated: 2026-10-23T11:54:39
 ---
 
 # Terra
@@ -275,6 +275,6 @@ PassiveStealth:: 16
 - Was the only one who tried to stop [[Erky]]'s face-drawing prank.
 - Rode [[Torem]]'s griffon Bella to the kill-site; Perception found a second set of barefoot tracks from the west.
 - Insight read the owlbear as wanting to live with no idea how.
-- Stayed beside Nanuk during his reach for [[Silvanus]], granting advantage.
+- Stayed beside Nanuk during his reach for [[Silvanus]], praying to [[Mielikki]], which granted advantage and lowered the difficulty.
 - Was awake at once when the druid arrived at dawn; in the fight used a short sword with Dreadful Strikes, Misty Step, and Ensnaring Strike, which did not hold him.
 
