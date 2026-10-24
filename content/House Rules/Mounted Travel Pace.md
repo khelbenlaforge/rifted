@@ -37,4 +37,4 @@ Pick whichever mode is actually limiting the party's pace (same principle as RAW
 
 ## First Used
 
-Travel-time reference for the road trip from [[Crystal City]] to [[Stormberg]], [[Coldford]], or [[Westward]] (distances are now measured along the map's actual roads, reconciled 2026-09-23). See [[Corranor]]'s Distances section.
+Travel-time reference for the road trip from [[Crystal City]] to [[Stormberg]], [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]], or [[Westward]] (distances are now measured along the map's actual roads, reconciled 2026-09-23). See [[Corranor]]'s Distances section.

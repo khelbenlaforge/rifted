@@ -13,7 +13,7 @@ created: 2026-09-26T19:22:30
 > [!infobox]
 > # The Manifest Houses
 
-The informal trade bloc that actually runs [[Coldford]]'s docks. Real inspection never developed in a city built around the Coldmist's permanent harbor fog, and what grew up in its place was speed, discretion, and a price list for both. The Manifest Houses run the intake desks side by side in the **Tallyrows**, Coldford's dockside district: open ledgers, tally slates, a bell rung for every closed count. Their actual legal specialty is the "blind manifest"—cargo and passage logged by count and fee only, no names, no papers—the reason half of Corranor sends anything through Coldford it would rather not have tracked elsewhere.
+The informal trade bloc that actually runs [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]'s docks. Real inspection never developed in a city built around the Coldmist's permanent harbor fog, and what grew up in its place was speed, discretion, and a price list for both. The Manifest Houses run the intake desks side by side in the **Tallyrows**, Coldford's dockside district: open ledgers, tally slates, a bell rung for every closed count. Their actual legal specialty is the "blind manifest"—cargo and passage logged by count and fee only, no names, no papers—the reason half of Corranor sends anything through Coldford it would rather not have tracked elsewhere.
 
 Nominal authority over Coldford sits with **House Colwyn**, whose crest sits over the Landgate and whose name locals defer to out of habit more than evidence. Whether House Colwyn actually directs anything the Manifest Houses do is a genuinely open question, left that way on purpose.
 
@@ -27,6 +27,6 @@ Petra Hale has quietly started tracking a string of "insurance" shakedowns hitti
 
 ---
 Leader:: Unknown—no single head confirmed in play; the plural name and the Tallyrows' side-by-side intake desks suggest multiple houses rather than one central command, though this isn't stated outright anywhere sourced
-Headquarters:: The Tallyrows, [[Coldford]]
+Headquarters:: The Tallyrows, [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
 
 

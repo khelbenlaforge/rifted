@@ -187,7 +187,7 @@ Nanuk earned 12 gp, vehicle (riding) proficiency, and free flights anywhere for 
 Session 21 downtime:
 - Aerial recon with [[Torem]] on Little Bella (griffin): alabaster highway east from [[Crystal City]] floats above ground
 - Magical creature blood flows east-to-west toward [[Crystal City]] and goes to the Academy and Alchemist's Guild; Torem does not know who buys it after arrival
-- [[Coldford]] (east coast) and [[Stormberg]] (north) confirmed as regional cities
+- [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] (east coast) and [[Stormberg]] (north) confirmed as regional cities
 - [[Azure Tamers]] patrol the eastern road and watch for creature attacks on settlements
 - Work track: paired with an unruly giant eagle and could not go far; earned +11 gp
 - Relationship track: no roll

@@ -21,20 +21,20 @@ updated: 2026-09-29T01:10:51
 > | ---- | --- |
 > | Race | Human |
 > | Class | Rogue |
-> | Location | [[Coldford]] |
+> | Location | [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] |
 > | Affiliation | [[Adamantine Guild]] |
 
 Race:: Human
 Subrace::
 Pronouns:: she/her
 Class:: Rogue
-Location:: [[Coldford]]
+Location:: [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
 Affiliation:: [[Adamantine Guild]]
 Deity::
 CR:: 6
 Size:: Medium
 Habitat:: Urban
-Found In:: [[Coldford]]
+Found In:: [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
 
 ## Description
 
@@ -61,7 +61,7 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - Brought them into her personal pocket dimension to rest.
 - Before testing a party this small, measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 - Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and backed the party's Guild standing afterward regardless of outcome.
-- First real point of contact for The JULYs' Adamantine Guild standing in [[Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation.
+- First real point of contact for The JULYs' Adamantine Guild standing in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation.
 
 ## D&D 5e Stat Block
 

@@ -88,7 +88,7 @@ Right now, with the gates still shut, two parties are out past the Wall and can'
 
 ## Session 21 Update (The Door Kickers)
 
-- Mentioned alongside [[Coldford]] in the Session 21 geographic survey
+- Mentioned alongside [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] in the Session 21 geographic survey
 
 ## Session 09 Update (The Understudies)
 - Winter food: hunting has nearly stopped, the fields outside the city lie fallow, and the city is eating through its stores; hunters and trappers work the forests on either side. Shanty towns outside the city walls are steadily built. The island goes down at landfall and the fishing boats go out again.

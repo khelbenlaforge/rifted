@@ -30,7 +30,7 @@ Corranor moves goods around a coastline that periodically leaves the ocean entir
 
 ### The Alabaster Highway
 
-Running east out of Crystal City to an unnamed point on the peninsula below [[Coldford]], the alabaster highway is the route magical-creature blood travels to reach the [[Ether Scryer's Academy]] and the [[Alchemist's Guild]]. What doesn't come through legitimate channels moves through [[The Claret]] instead.
+Running east out of Crystal City to an unnamed point on the peninsula below [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]], the alabaster highway is the route magical-creature blood travels to reach the [[Ether Scryer's Academy]] and the [[Alchemist's Guild]]. What doesn't come through legitimate channels moves through [[The Claret]] instead.
 
 ### Sunhold, Westward, and the Iron Seam
 
@@ -38,7 +38,7 @@ Running east out of Crystal City to an unnamed point on the peninsula below [[Co
 
 ### Coldford's Blind Manifests
 
-Whatever half of Corranor would rather not have tracked moves through [[Coldford]] instead, on blind manifests—cargo and passage logged by count and fee only, no questions asked. No named western suppliers appear on them yet—one more gap in a trade map that has more holes than roads.
+Whatever half of Corranor would rather not have tracked moves through [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] instead, on blind manifests—cargo and passage logged by count and fee only, no questions asked. No named western suppliers appear on them yet—one more gap in a trade map that has more holes than roads.
 
 ### The Merchant Guild
 

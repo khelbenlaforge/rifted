@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-10-01T05:20:08
+updated: 2026-10-24T00:17:52
 ---
 
 # Adamantine Guild
@@ -26,7 +26,7 @@ Headquarters:: [[Citrine District]], [[Crystal City]]
 
 ## Description
 
-A state-supported adventurers' organization founded by a visionary gnomish guildmaster and dedicated to three principles embodied by its patron deities: Knowledge ([[Oghma]]), Protection ([[Helm]]), and Progress ([[Waukeen]]). The guild's headquarters is a two-story white stone building in the [[Citrine District]], its doors bearing the emblems of all three gods. Inside, a silence ward mutes the city, and an extradimensional dormitory provides personalized pocket rooms for members — complete with impossibly comfortable beds and a floating breakfast spread.
+A state-supported adventurers' organization founded by a visionary gnomish guildmaster and dedicated to three principles embodied by its patron deities: Knowledge ([[Oghma]]), Protection ([[Helm]]), and Progress ([[The Exodus/00_My Notes/Pantheon/Waukeen]]). The guild's headquarters is a two-story white stone building in the [[Citrine District]], its doors bearing the emblems of all three gods. Inside, a silence ward mutes the city, and an extradimensional dormitory provides personalized pocket rooms for members — complete with impossibly comfortable beds and a floating breakfast spread.
 
 ## Leadership & Members
 
@@ -42,7 +42,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **[[Citrine District]], [[Crystal City]]** — headquarters; two-story white stone, silence ward, extradimensional dormitory.
 - **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]]'s own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
-- **The Tallhouse, [[Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
+- **The Tallhouse, [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
 - **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers.
 
 ## Guildhall & Pocket Dimensions
@@ -80,9 +80,16 @@ A squat stone post atop the western cliffs, thinly staffed, watching the roped-o
 - All five AUGs passed [[Dessa Kestrel]] evaluation at the Cliffwatch and remain Brass rank.
 - Per Dessa, the Guild nearly lost four or five of its top people to the shadows; they survived. The Guild watches the Keel together with the Academy.
 
+## Session 5 Update (The AUGs)
+
+- The weekly Guild pay is part of the deal for the party and quests are fine once they have met people.
+- The Guild's sending stones carried word that some Rifted fade.
+- [[Dessa Kestrel]] offered [[Rachel Tan]] a post at the Cliffwatch.
+- The party's bracers remain theirs.
+
 ## Session 3 Update (The JULYs)
 
-The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves; confirmed at [[Coldford]]'s city gate (Session 3, The JULYs), where it was recognised on sight and waved the party through without incident.
+The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into the brass bracers themselves; confirmed at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]'s city gate (Session 3, The JULYs), where it was recognised on sight and waved the party through without incident.
 
 **Rifted headcount (per [[Petra Hale]], Session 3, The JULYs):** a rough, self-admittedly imprecise count spanning three cities—nine at the main branch, five in [[Stormberg]], six now in Coldford. Before testing a party this small, she measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 
@@ -92,6 +99,7 @@ They arrived already wearing brass bracers sent ahead by an unidentified party; 
 
 Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch recognised brass bracers on sight as legitimate rank, and [[Rhona Voss]]—who runs that branch—confirmed them as genuine while noting the rank had not been issued by her own branch.
 
+
 ## Session 19 Update (The Door Kickers)
 
 [[Shen]] and [[Nanuk]] received their own pocket rooms, adding two new doors to the extradimensional living quarters. [[Istar Silverlock]] is being punished by cleaning the entire guild as a consequence of the pantry heist. [[Erky]] Erkaniel Timbers is being supervised by [[Luks Borg]]. In the common area, a floating disc produces any beverage on demand.
@@ -99,5 +107,5 @@ Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch 
 ## Session 09 Update (The Understudies)
 - 12 Nightal: per the ledgers Kili read, the budget comes from headquarters in Crystal City; the Guild is broke; income and outgoings are as listed under [[Rhona Voss]]; the pocket dimension costs nothing.
 - [[Garm]] is the Guild's patron on the Council. [[Istar Silverlock]] is assistant guildmaster and Crystal City branch leader; [[Erky]] is guildmaster; none of the upper ranks is a Rifted.
-- Every group of Rifted that landed, in [[Stormberg]], [[Coldford]], and [[Westward]], wore Guild bracers and was sent straight to the Guild.
+- Every group of Rifted that landed, in [[Stormberg]], [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]], and [[Westward]], wore Guild bracers and was sent straight to the Guild.
 

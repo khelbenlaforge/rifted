@@ -23,3 +23,7 @@ Location:: [[Westward]]
 ## Session 4 Update (The AUGs)
 
 - Came to attention at the stair-head gate when [[Dessa Kestrel]] arrived with the party.
+
+## Session 5 Update (The AUGs)
+
+- Dessa named him as the one to call on if the party needs help.

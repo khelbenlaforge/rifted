@@ -85,6 +85,13 @@ Visited by [[Esca]] on 1 Nightal, Year 222 PA (Session 5, The Understudies).
 
 - The party passed the Deep Index annex in [[Westward]], a lamp-lit passage with crates marked by dates and drawer numbers. It sends couriers rather than finds to [[Crystal City]], where the [[Director of Antiquities]] reads its reports; per [[Dessa Kestrel]], the Academy often hires the Guild. Dessa is missing about 400 years of memory.
 
+## Session 5 Update (The AUGs)
+
+- [[Gregory Yang]] read a local book saying the Academy was founded with the colony to find out why the islands float and to research magic, with a hierarchy too complicated to follow quickly.
+- The same book described an artificer as an enchanter who puts magic into items.
+- No Academy scholars or teachers are stationed in [[Westward]].
+- [[Dessa Kestrel]] is in touch with the Academy about once a day and will try to arrange an introduction.
+
 ## Session 09 Update (The Understudies)
 
 - 12 Nightal: [[Rhona Voss]] will stand in for the Academy at the 13 Nightal meeting because its Stormberg proctor, who only cares about his books, told her to handle it. Rhona expects the Academy to be delighted to study a dragon.

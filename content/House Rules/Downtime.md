@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T19:55:00
-updated: 2026-09-29T00:12:59
+updated: 2026-10-24T02:36:13
 ---
 
 # Downtime

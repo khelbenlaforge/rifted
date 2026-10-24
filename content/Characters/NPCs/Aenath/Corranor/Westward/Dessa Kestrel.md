@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-10-02T01:32:47
+updated: 2026-10-24T01:29:20
 created: 2026-09-23T18:28:40
 ---
 
@@ -156,4 +156,18 @@ Bane is Concentration, 1 minute; granted by her Spellcasting trait, see Features
 - Named [[Garm]] among the Guild patrons and [[Layla]] as an assistant to a [[Crystal City]] counselor.
 - On her own Keel visit she lost three days and came back out at the Landing, though she also told the party it was "an hour." She stayed at the Landing and did not cross with the party.
 - Gave [[Gregory Yang]] one of a pair of sending stones.
+
+## Session 5 Update (The AUGs)
+
+- Waited at the Landing under the island and counted three of five when the party woke 26 hours, 14 minutes and 47 seconds after the crossing.
+- Cried when [[Gregory Yang]] told her the others were dead, and recovered when [[Rismawati Bayu|Risma]] and the rest explained.
+- Could sense the bracers of [[Mike Kanbei]] and [[Ruan Myrt Zaltana]] somewhere farther in and chose to believe three days is the longest the place keeps anyone; this was her belief only.
+- Said she would stay at the Landing about two more days and told the party not to go back down.
+- Asked Gregory to report by sending stone every evening; the stone works once a day.
+- Said word had come over the [[Adamantine Guild]]'s sending stones that not every Rifted stays, that some fade, going pale and translucent, and that she does not know how it works or where they go.
+- Told of one man, Erwin, and hoped he was sent back.
+- Offered [[Rachel Tan]] a post at the Cliffwatch and said the party's bracers stay theirs either way.
+- Said she would try to arrange an introduction to the [[Ether Scryer's Academy]], whose people rarely come to [[Westward]], and that she is the only one in touch with it.
+- Wrote [[Rismawati Bayu|Risma]] an introduction to the Aerie of the [[Azure Tamers]].
+- Named [[Ulrich]] and the [[Azure Tamers]] as people to call on.
 

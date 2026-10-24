@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-09-26T19:25:10
+updated: 2026-10-24T19:08:10
 ---
 
 # Crystal City
@@ -29,6 +29,12 @@ Status:: Active
 ## Description
 
 The capital of [[Corranor]], a city of ethereal beauty where structures crafted from transparent crystalline material refract sunlight into cascading rainbows. For over two centuries, Crystal City has been the heart of civilization in the Floating Lands — a place of governance, learning, and trade built atop a [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Transient island]] that periodically rises above and descends into the oceans of [[Aenath]].
+
+## Map
+
+![[Crystal City Map.png]]
+
+Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=50&seed=695425565&citadel=0&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=6&name=Crystal%20City&style=natural) (seed 695425565, Natural palette); district slices, the harbour and the Jade Spire are drawn over it. Six districts as pie slices bounded by the main roads from the six gates, meeting at the [[Jade Spire]] in the central plaza. Slice placement is not yet canon beyond Citrine holding the harbour side.
 
 ## Districts
 

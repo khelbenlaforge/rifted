@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-29T00:12:00
+updated: 2026-10-24T01:26:06
 created: 2026-06-20T00:00
 ---
 
@@ -55,5 +55,19 @@ In Session 29, Torem formally offered Bella to [[Nanuk]] as a mount: rider-only,
 Bella is Torem's own griffin, white-winged and enormous—and, by every account of the party who's ridden her, entirely comfortable with the right rider before they've finished introducing themselves. She has carried party members on reconnaissance and travel across three sessions: aerial scouting of the alabaster highway east of Crystal City (Session 21), and the trip north out of Crystal City (Sessions 29 and 30), where she sighted the early, heavy southward wildebeest migration that became Torem's own migration job.
 
 She's carried more than riders, too: on that same Session 30 road trip, surplus deer meat the party didn't need went back down the road on Bella's back to be sold off, covering the trip's costs before it had even finished costing anything.
+
+## Session 5 Update (The AUGs)
+
+- The [[Westward]] Aerie is an eleven-story wooden tower above the forges with a platform lift.
+- About seven griffins perch at the top, eagle in front and mostly lion or tiger behind, each bigger than a horse.
+- A larger eagle, [[Bertha]], holds the second landing.
+- [[Pell]] (who keeps the ledger) and [[Odo]] (ranger) were the two on duty, with many Tamers out on patrol.
+- The lift winch had seized and [[Gregory Yang]] repaired it.
+- The Tamers fly people between cities because teleportation does not exist beyond short jumps, there are few birds, and flights are costly.
+- Druids and rangers are welcome.
+- Pell offered [[Rismawati Bayu|Risma]] a place: animal care and ledger, feed and purchasing work first, then patrols that watch the ecology around cities, protect road travelers from wild animals without killing them where possible, and watch for people teleported against their will on word from the capital.
+- Pell mentioned a tiefling the Tamers mean to find.
+- Pell knows the party is Rifted and will keep it quiet until [[Dessa Kestrel]] announces it to the city's leaders.
+- [[Rismawati Bayu|Risma]] took the offer and flew off with Pell on Bertha.
 
 

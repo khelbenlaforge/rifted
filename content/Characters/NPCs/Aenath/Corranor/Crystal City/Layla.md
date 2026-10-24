@@ -134,7 +134,7 @@ Deity:: Unknown
 
 ## Session 1 Update (The AUGs)
 
-- [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA: appeared atop the tower at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs ([[The Exodus/The AUGs/PCs/Mike Kanbei|Mike Kanbei]], [[The Exodus/The AUGs/PCs/Ruan Myrt Zaltana|Ruan Myrt Zaltana]], [[The Exodus/The AUGs/PCs/Rachel Tan|Rachel Tan]], [[The Exodus/The AUGs/PCs/Gregory Yang|Gregory Yang]], [[The Exodus/The AUGs/PCs/Rismawati Bayu|Rismawati Bayu]]).
+- [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA: appeared atop the tower at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs ([[The Exodus/The AUGs/PCs/Mike Kanbei|Mike Kanbei]], [[The Exodus/The AUGs/PCs/Ruan Myrt Zaltana|Ruan Myrt Zaltana]], [[The Exodus/The AUGs/PCs/Rachel Tan|Rachel Tan]], [[The Exodus/The AUGs/PCs/Gregory Yang|Gregory Yang]], [[Rismawati Bayu|Rismawati Bayu]]).
 - Corrected her own count aloud on seeing them: "It was supposed to be six." Did not give her name to this party.
 - Ran through her usual script: pointed up the tower, promised transport at the top, wouldn't say why they'd been pulled here, told them to run if they saw shadows. She was gone before the first one showed.
 

@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-09-29T00:13:19
+updated: 2026-10-24T19:17:43
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -28,6 +28,16 @@ Status:: active
 [[Crystal City]] puts on a show for visitors. [[Stormberg]] stands guard. Coldford processes. Grey stone, wet slate roofs, gulls working the tideline, the ordinary architecture of a city that grew up around a job instead of an idea. What sets it apart is the Coldmist: a low fog bank that never fully lifts off the harbor mouth, some residual chill left over from the Awakening two centuries back that nobody living can explain and nobody's bothered chasing down. Ships come and go through it half-blind, on schedule more than on sightline, and the city's whole temperament grew out of that single fact. Real inspection never developed here, because real inspection never worked here. What developed instead was speed, discretion, and a price list for both.
 
 East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azure Tamers]] patrol network. A working port-and-freight hub, exactly what its own reputation says: a city that processes people quickly and asks questions later, which makes it a plausible drop point for anyone [[Layla]] wants moved fast and forgotten.
+
+## Map
+
+![[Coldford City Map.png]]
+
+Generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=25&seed=1836854388&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=1&river=0&greens=1&hub=1&sea=1.9&name=Coldford&style=natural) (seed 1836854388, Natural palette). The sea lies east, which matches Coldford's spot on the [[Corranor]] coast. Canon-only: the generator's district names are hidden, and only places this note establishes are pinned.
+
+Style options: tinted districts, weathered hip roofs, trees and forests, alleys shown, landmark legend.
+
+Pins: a. the Landgate (south-southwest gate), b. the Tallyrows (dockside), c. the harbor and Coldmist, d. the Tallhouse (placement unconfirmed). Places that exist only in session prep get pinned once played and added to this note. The walled citadel on the waterfront is a generator feature with no canon identity yet.
 
 ## Factions
 

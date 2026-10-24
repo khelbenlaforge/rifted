@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-10-01T23:57:24
+updated: 2026-10-24T00:17:52
 ---
 
 # Westward
@@ -84,5 +84,13 @@ That's the noise the AUGs walked into first, delivered to the Cliffwatch's door 
 - Per [[Dessa Kestrel]], the [[The Ferry-Masters|ferry-masters]] run the [[Sunhold]] crossing while the strait carries water, and the [[The Foundry-Owners|foundry-owners]] take over when it drains; Sunhold is under six months old and has made Westward richer.
 - Per Dessa, the forges burn on fire and lava from below the city; she does not know where the heat comes from.
 - Per Dessa, Corranor is governed by seven councillors, with each city run by a noble house.
+
+## Session 5 Update (The AUGs)
+
+- The party took a long rest in the Cliffwatch's pocket rooms, which give back whatever a guest pictures but let nothing be carried out.
+- The [[Azure Tamers]]' Aerie stands west across the city above the forges, the only wooden structure in [[Westward]].
+- From the Aerie's upper landing heat from lava pockets under the city rises in columns while wind from the ocean rushes in to replace it.
+- A huge spike stands in the middle of the continent, visible from the upper landing, and matches the one from the party's shared vision.
+- No Academy scholars or teachers are stationed in [[Westward]].
 
 

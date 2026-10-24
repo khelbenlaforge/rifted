@@ -3,12 +3,12 @@ title: Rismawati Bayu
 aliases:
 - Risma
 tags:
-- pc
+- npc
 campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-10-02T01:22:56
+updated: 2026-10-24T01:45:35
 created: 2026-08-26T17:33:32
 ---
 
@@ -22,38 +22,17 @@ created: 2026-08-26T17:33:32
 > | **Race** | Owlin |
 > | **Class** | Druid (Circle of the Moon) |
 > | **Background** | House Agent |
+> | **Affiliation** | [[Azure Tamers]] |
 
 ## Description
 
-She kept the spectacles. Narrow, rectangular, a yellow cord draping down over feathers where it used to drape over collarbone—one of the few things about her that crossed over unchanged. Everything else rearranged itself around a stern, unimpressed set to her face that was always there, and now simply has more of her to sit on. Brown plumage gone dark and dense at the crown, greying at the edges the way her hair used to. Wings folded close and tidy against her back. She hasn't decided if she's staying long enough to use them. Her feet make no sound crossing a room, which she has not yet stopped finding unsettling.
+She kept the spectacles. Narrow, rectangular, a yellow cord draping down over feathers where it used to drape over collarbone—one of the few things about her that crossed over unchanged. Everything else rearranged itself around a stern, unimpressed set to her face that was always there, and now simply has more of her to sit on. Brown plumage gone dark and dense at the crown, greying at the edges the way her hair used to. Wings folded close and tidy against her back. She has used them now, off the Aerie's landing on a warm updraft, with a giant eagle's help. Her feet make no sound crossing a room, which she has not yet stopped finding unsettling.
 
 She still moves like a woman on her way to an office. Upright. Unhurried. Round nocturnal eyes that take a beat too long to blink, fixed on you with the same flat, appraising patience she used to save for a ledger that didn't balance.
-
-## Origin
-
-Risma is forty. Was forty. She lived in a four-room resale flat in Singapore with her father, Wahid. The breadwinner of their small household, she worked a 9-to-6 job as an accountant, her evenings spent winding down at his side. Her older sister and younger brother had both married and moved out; her mother had been gone a few years already. Every Friday, like clockwork, she went out drinking. Sometimes with friends from university. Sometimes with colleagues. Sometimes alone.
-
-It was a good life. Mundane, but good. She was on good terms with her family, earned a liveable salary, had a roof that was hers to help hold up. And still, Saturday mornings came with a buzzing weight in her chest that made getting out of bed feel like an argument she was going to lose—the ceiling fan turning overhead, her phone lighting up with messages she wouldn't answer until noon. She worked, and she drank, and someday she'd die and be handed off to whatever waited for her on the other side of that. Surely there was more to it than this. Surely this wasn't all a life was for. It felt, some days, like a pitstop on the way to somewhere bigger. Probably Hell.
-
-The Monday she was getting ready for work like any other Monday, the floor did something a floor does not do, and the light coming through her window did not come from Singapore. She stood up in a body with feathers, wings folded against her back she hadn't asked for and didn't yet trust, in a world with no MRT line home. If this was still a pitstop, it had, at least, stopped being boring.
 
 ## Abilities
 
 Risma brings the same exacting scrutiny to the wild things around her now that she once brought to a set of books. Wild Shape settles over her like paperwork she's already reconciled—she reaches for it more readily than either the plumage or the magic under her skin would suggest. There's a joke in there somewhere about an owlin who can turn into an actual owl. She hasn't made it yet. Her spellcasting is procedural, unglamorous—she picked up the shape of it the way she picked up double-entry bookkeeping, methodically, without much visible enthusiasm. It works anyway.
-
-## Key Events
-
-**Session 1 — Feast of the Moon, Year 222 PA:** One hand was already on her front door, an ordinary Monday barely started, when the MRT doors ahead of her peeled open onto blue light instead of a train car. What followed was a vision she shared with four strangers. Pure panic sent her climbing higher than the rest of her flock dared, and from that height she was the first to notice something the others hadn't: the ocean below wasn't storming, it was boiling, and the land underneath had no curve to its horizon. Just an edge. She landed an owlin inside [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], her head turning a full circle before she even registered the talons where her feet used to be. Her spectacles, [[Brought Forward]], only showed up when she reached to actually analyze something — not before, not as decoration. Mid-fight she fled upward and put a crystal sconce back to work with Starry Wisp.
-
-**Session 2—Feast of the Moon into 1 Nightal, Year 222 PA (player absent, DM-voiced):** Risma's player wasn't at the table this session. She surfaces only once, at the very end, catching her breath in the sunlight outside [[The Hexad]] and noticing the bag on the unconscious sixth arrival before anyone else did.
-
-**Session 3—1-2 Nightal, Year 222 PA:** Risma tried Bryn's wineskin along with the rest of the party and came out the steadier one for it, which put her on water duty for the rest of the road to [[Westward]]—not that the water helped anybody else much. Somewhere in the middle of failing to help, she found herself talking about home anyway—a life she'd have sworn under oath was good, if nobody pushed past the surface of it. Nobody pushed hard. At [[Dessa Kestrel|Dessa]]'s Cliffwatch, she was one of the two druids singled out for a future [[Azure Tamers]] introduction, unprompted and unexplained beyond the offer itself.
-
-**Session 4—2 Nightal, Year 222 PA:** Her room had a personal wine dispenser, a super-single bed, a bookshelf of accounting texts and historical romance, yellow highlights matching her glasses, and a street window. In the fight her Starry Wisp hit for extra psychic damage. Afterward she was still coming down, a little wild. At the Landing she sent a sparrow familiar ahead into the wind; it rolled 10, a Luck point was spent, and it struggled through.
-
-## Relationships
-
-Everyone in that room read as a threat before Risma's brain caught up: Slenderman-tall over there, horns on the woman next to him, and something seven feet and giant-shaped just past both of them. Gregory was the one exception, the only face that still looked ordinarily human — which is exactly why she latched onto him, and exactly why she promptly offended him anyway by guessing he probably wasn't really Singaporean either.
 
 ## Character Sheet
 
@@ -186,9 +165,31 @@ Race:: Owlin
 Subrace::
 Class:: Druid (Circle of the Moon)
 Pronouns:: she/her
-Affiliation::
-Location::
+Affiliation:: [[Azure Tamers]]
+Location:: [[Westward]]
 Deity::
 Playbook:: [[Rismawati Bayu - Playbook]]
+
+## Session 1 Update (The AUGs)
+
+**Session 1 — Feast of the Moon, Year 222 PA:** One hand was already on her front door, an ordinary Monday barely started, when the MRT doors ahead of her peeled open onto blue light instead of a train car. What followed was a vision she shared with four strangers. Pure panic sent her climbing higher than the rest of her flock dared, and from that height she was the first to notice something the others hadn't: the ocean below wasn't storming, it was boiling, and the land underneath had no curve to its horizon. Just an edge. She landed an owlin inside [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], her head turning a full circle before she even registered the talons where her feet used to be. Her spectacles, [[Brought Forward]], only showed up when she reached to actually analyze something — not before, not as decoration. Mid-fight she fled upward and put a crystal sconce back to work with Starry Wisp.
+
+Everyone in that room read as a threat before Risma's brain caught up: Slenderman-tall over there, horns on the woman next to him, and something seven feet and giant-shaped just past both of them. Gregory was the one exception, the only face that still looked ordinarily human — which is exactly why she latched onto him, and exactly why she promptly offended him anyway by guessing he probably wasn't really Singaporean either.
+
+## Session 2 Update (The AUGs)
+
+**Session 2—Feast of the Moon into 1 Nightal, Year 222 PA (brief appearance):** Risma had little part in this session. She surfaces only once, at the very end, catching her breath in the sunlight outside [[The Hexad]] and noticing the bag on the unconscious sixth arrival before anyone else did.
+
+## Session 3 Update (The AUGs)
+
+**Session 3—1-2 Nightal, Year 222 PA:** Risma tried Bryn's wineskin along with the rest of the party and came out the steadier one for it, which put her on water duty for the rest of the road to [[Westward]]—not that the water helped anybody else much. Somewhere in the middle of failing to help, she found herself talking about home anyway—a life she'd have sworn under oath was good, if nobody pushed past the surface of it. Nobody pushed hard. At [[Dessa Kestrel|Dessa]]'s Cliffwatch, she was one of the two druids singled out for a future [[Azure Tamers]] introduction, unprompted and unexplained beyond the offer itself.
+
+## Session 4 Update (The AUGs)
+
+**Session 4—2 Nightal, Year 222 PA:** Her room had a personal wine dispenser, a super-single bed, a bookshelf of accounting texts and historical romance, yellow highlights matching her glasses, and a street window. In the fight her Starry Wisp hit for extra psychic damage. Afterward she was still coming down, a little wild. At the Landing she sent a sparrow familiar ahead into the wind; it rolled 10, a Luck point was spent, and it struggled through.
+
+## Session 5 Update (The AUGs)
+
+**Session 5—3 Nightal, Year 222 PA:** Risma woke on the Landing; she had not touched the wall. She corrected Gregory's claim to [[Dessa Kestrel]] that the others were dead while [[Dessa Kestrel]] cried, then took [[Dessa Kestrel]]'s introduction to the Aerie. During the long rest she poured a drink from the room's jug, worked out how an owlin washes (owl feathers are not waterproof and dried within the hour), and thought "this is a chance for a new life... I've spent so long thinking about just repeating the cycle, doing what society asks for me until the day comes when I lie in my grave". She replayed an Earth memory of being refused a promotion. At the Aerie, Message needed a target she could see, so she flew up to the platform, met [[Pell]] and [[Odo]], presented herself as with the [[Adamantine Guild]] and told them she had an engineer downstairs. [[Pell]] read [[Dessa Kestrel]]'s introduction and called it high praise, then offered her a place with the Tamers, animal care and ledger work first, then patrols. Her Insight was 15 and she noticed [[Pell]]'s eye drifting to the paperwork. At the second landing the spectacles settled onto her face when she concentrated on the distant spike. She failed her first glide, then failed the second by the dice, but [[Bertha]] beat her wings and lifted the warm air under her. She decided to stay with the [[Azure Tamers]] and flew off into the sky with [[Pell]] riding [[Bertha]], and her orientation began.
 
 

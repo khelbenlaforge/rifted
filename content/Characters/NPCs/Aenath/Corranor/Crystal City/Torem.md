@@ -25,7 +25,7 @@ Affiliation:: [[Azure Tamers]]
 - magical-creature blood arrives in [[Crystal City]] via the alabaster highway, which runs east from the city to an unnamed source on the peninsula below Coldford, then goes to the Academy and [[The Exodus/00_My Notes/Factions/Corranor/Alchemist's Guild|Alchemist's Guild]]
 - Does not track who buys the blood after it arrives
 - Aware of the [[Azure Tamers]] patrol network covering the eastern road and frontier communities
-- [[Stormberg]] mines the northern region; [[Coldford]] on the east coast has an Azure Tamers presence
+- [[Stormberg]] mines the northern region; [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] on the east coast has an Azure Tamers presence
 
 ## Session 21 Update (The Door Kickers)
 

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-18
 secret: false
 state: alive
-updated: 2026-09-25T15:24:37
+updated: 2026-10-24T02:36:14
 created: 2026-09-18T13:43:56
 ---
 
@@ -194,7 +194,7 @@ Ruairí's pact runs on the same trick as his body: nothing about him stays where
 
 **Armor:** Leather Armor (equipped)
 
-**Magic Items:** [[Rounds]] (growth item).
+**Magic Items:** [[The Exodus/00_My Notes/Items/JULYs/Rounds]] (growth item).
 
 **Gear:** Orb (arcane focus) · Backpack · Book (2) · Feywild Trinket (3) · Flute · Ink · Ink Pen · Lamp · Oil (10) · Parchment (10) · Pouch · Tinderbox · Traveler's Clothes
 

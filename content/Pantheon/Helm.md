@@ -44,7 +44,7 @@ His worship has endured through dark seasons, for his faithful hold that the Wat
 - Strength without discipline is chaos — temper power with purpose.
 
 ## Followers & Influence
-Helm's faithful include bodyguards, city watch members, treasury guards, and any who have sworn an oath of protection. In [[Crystal City]], his emblem is prominently displayed upon the [[Adamantine Guild]], where it stands alongside the symbols of [[Oghma]] and [[Waukeen]] as one of the Guild's three founding pillars — representing protection, knowledge, and progress.
+Helm's faithful include bodyguards, city watch members, treasury guards, and any who have sworn an oath of protection. In [[Crystal City]], his emblem is prominently displayed upon the [[Adamantine Guild]], where it stands alongside the symbols of [[Oghma]] and [[The Exodus/00_My Notes/Pantheon/Waukeen]] as one of the Guild's three founding pillars — representing protection, knowledge, and progress.
 
 The [[Adamantine Guild]] currently struggles with severe understaffing and a shortage of healers following attacks by shadow creatures, making Helm's call to vigilance more urgent than ever. The Guild actively recruits capable individuals to bolster the defence of the [[Jade Spire]].
 

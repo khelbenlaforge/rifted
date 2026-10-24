@@ -77,4 +77,8 @@ Rarity:: Unique
 Attunement:: Yes (Rismawati Bayu only)
 Found At:: Singapore, Earth (carried through the transit)
 
+## Session 5 Update (The AUGs)
+
+- When [[Rismawati Bayu|Risma]] concentrated on the distant spike from the Aerie's second landing, the spectacles settled onto her face, which startled [[Pell]].
+
 

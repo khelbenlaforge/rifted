@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T16:34:11
-updated: 2026-10-02T01:22:56
+updated: 2026-10-24T01:29:58
 ---
 
 # Rachel Tan
@@ -50,6 +50,8 @@ Whatever the mercenary company drilled into this body, it shows up as raw, unpol
 **Session 3—1-2 Nightal, Year 222 PA:** Rachel tried alcohol for the first time in her life along with the rest of the party, courtesy of Bryn's wineskin, and it went about as well for her as for everyone else—rough. Somewhere in that same loosened stretch of road, she admitted, half as a joke on herself, to a flight she'd once booked to anywhere that wasn't Singapore, no destination beyond away. At [[Westward]]'s Cliffwatch, [[Dessa Kestrel|Dessa]] named her directly: Tiefling blood is a trade good to somebody, and now Rachel knows it. She didn't have much to say to that. Neither the fire-voice nor [[Permission]] had anything to add this session.
 
 **Session 4—2 Nightal, Year 222 PA:** Her room was hearth-themed, with real flames in the windows, a luxury she had only owned a knockoff of at home. In the fight she raged and used Reckless Attack, driving Dessa down with one glaive swing; the floor walled her off from the others until Gregory broke the wall with his cannon. Two gloved punches from Dessa dropped her unconscious. She claimed Level 4 on the spot under the Deferred Level-Up amendment and got back up on the new level hit points, prone, raged again, and pushed Dessa back.
+
+**Session 5—3 Nightal, Year 222 PA:** Rachel woke on the Landing with the others after 26 hours; she had not touched the wall. [[Dessa Kestrel]] told her the last fight proved she gets back up and offered her a post at the Cliffwatch. During the long rest, when asked what being recognised for resilience meant, she said it would be "the first time someone kind of saw her for being something other than kind of like a thing to be pushed around. Rather something that has been through struggle and come out of it standing" and that "subconsciously there would have been that aspect of her that knew that it was a pretense. All her life she's been this girl, this weak girl who has never had any power to do anything". She replayed an Earth conversation with her father, in which she told him "All of my life you've been wanting to control me. It's not gonna be done when I'm out of school. You're lying to yourself". At the Aerie her shout up the tower failed; then she raged, rolled a natural 20 and threw [[Gregory Yang]] up eleven stories, then started up the stairs herself until he fixed the lift and brought her up. On the platform she looked out toward the forges, thinking of going down to talk to the smiths, failed a Wisdom save with a 3, felt heat gather behind her, and the fire-voice spoke a third time: "Two of mine are still under the island". It said all souls belong to it while the land is safe, that it saved everyone including her family and burned the contracts with the Hells, and asked that the two souls come out safe. She told it she was "kind of done being bound". In an opposed Wisdom check, her 18 with advantage against its 23, she could not ignore or resist it completely though it did not compel her. She did not mention it to [[Gregory Yang]]. At the end she pressed to go after [[Mike Kanbei]] and [[Ruan Myrt Zaltana]] rather than explore the forges.
 
 ## Relationships
 

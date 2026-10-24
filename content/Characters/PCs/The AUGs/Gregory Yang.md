@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-10-02T01:23:00
+updated: 2026-10-24T01:26:06
 ---
 
 # Gregory Yang
@@ -50,9 +50,13 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 **Session 3—1-2 Nightal, Year 222 PA (player absent):** Gregory didn't go to [[Westward]]. He went the other way, on foot, beside a stranger he'd known for less than an hour, because someone needed to and [[Jack XLR|Jack]] couldn't ask for himself. No scene was played for it beyond the choice itself.
 
 **Session 4—2 Nightal, Year 222 PA:** He returned from the road by air on a large winged mount, the best part of his day. His art deco room had a fireplace, an alcohol bar for friends only (he does not drink), shelves of history, politics, finance, and literature, a window onto the distance, a large mirror, and an aquarium. In the fight he put his Eldritch Cannon in the air above Ruan, cast his temporary-HP ward as a bonus action, and broke the wall around Rachel with the cannon. He was frightened when the dark fell because he could do nothing. Dessa gave him one of a pair of sending stones; his offer to copy it was refused.
+
+**Session 5—3 Nightal, Year 222 PA:** Gregory touched the wall and came back. He rolled History 13 on a carving and kept a foggy memory of mugs clinking and four figures laughing at a table in a tavern during a storm. He told [[Dessa Kestrel]] the others were dead (Deception 18), and [[Rismawati Bayu|Risma]] corrected it while [[Dessa Kestrel]] cried. He held the sending stone, and [[Dessa Kestrel]] asked him to report each evening. During the long rest he read a local book (Investigation 11) that said the [[Ether Scryer's Academy]] was founded with the colony to find out why the islands float and described an artificer as an enchanter. On Earth, he was avoiding thinking about his fiancée after a last conversation in which he lied to her, and said "I think I'm avoiding the idea that I'm feeling bad about it. Avoiding the idea that there are actually a lot of problems in my life back on Earth" and "I love my wife, my soon to be wife. And I'm not so sure how she's gonna actually survive without me"; he remembered his first lie at the Singapore Zoo leopard enclosure, where he agreed that whoever designed it should be fired (Deception total 3). At the Aerie he found with Tinker's Tools (Investigation 25) that the lift winch sits on the platform, was thrown up the tower by [[Rachel Tan]] (saving throw 13 to catch the ledge), mended the seized winch with Mending, read [[Odo]] as frustrated by the lack of support rather than angry (13), said he could not enchant it, took scrap metal, enchanted ore and an ore that gives off light, worked the lift to bring [[Rachel Tan]] up, told [[Odo]] he could make rope and other useful things since the Aerie lacks engineers and maintenance materials, and [[Odo]] offered to pay him to come by once a week or once every two weeks. At the end he and [[Rachel Tan]] weighed exploring the forges against going after [[Mike Kanbei]] and [[Ruan Myrt Zaltana]].
+
 ## Relationships
 
 Gregory's answer to five strangers and a temple full of shadows was a joke about wanting to go to art school instead. Same instinct that's kept him composed his entire life — it just usually gets aimed at a dinner table, not a stranger group mid-crisis.
+
 
 ## Character Sheet
 

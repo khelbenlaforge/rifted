@@ -33,7 +33,7 @@ A vibrant and bustling quarter of [[Crystal City]], the Citrine District is defi
 ## Notable Features
 
 - **The Docks** — Maritime hub for fishing, trade, and exploration; greatly invigorated after the island's descent
-- **[[Adamantine Guild]] Headquarters** — A two-story building of white stone with seven windows and wooden double doors bearing the emblems of [[Oghma]], [[Helm]], and [[Waukeen]]. Inside, a silence ward mutes the bustle of the district. The guild's extradimensional dormitory provides personalized pocket rooms for members, complete with magical amenities
+- **[[Adamantine Guild]] Headquarters** — A two-story building of white stone with seven windows and wooden double doors bearing the emblems of [[Oghma]], [[Helm]], and [[The Exodus/00_My Notes/Pantheon/Waukeen]]. Inside, a silence ward mutes the bustle of the district. The guild's extradimensional dormitory provides personalized pocket rooms for members, complete with magical amenities
 - [[Griffin's Hat]]
 
 ## Notable Residents
