@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-29T20:16:58
+updated: 2026-10-25T14:30:00
 ---
 
 # Perrin Quickquill
@@ -56,6 +56,9 @@ When five newcomers from Earth appeared atop the [[Jade Spire]] -- [[Jonathan Jo
 
 - First point of contact for the party upon their arrival in [[Aenath]]
 - Briefed [[Elmindaria L'Thorian]] and [[Luks Borg]] about the newcomers
+
+## Session 6 Update (The AUGs)
+- Dessa described Perrin as a sneaky little halfling and a nice guy, and said he was away at the first teleportation experiment.
 
 ## D&D 5e Stat Block
 

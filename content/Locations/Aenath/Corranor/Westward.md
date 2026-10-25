@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-10-24T00:17:52
+updated: 2026-10-25T20:00:00
 ---
 
 # Westward
@@ -40,12 +40,12 @@ Come at it from the forest and the smoke finds you before the buildings do—cha
 - **The Coalings**—burn camps scattered through the Wildwood, hauling cut fuel in by cart for every forge in Slagrow. The burners go a little further into the trees every year, and not all of them come back with a story anyone quite believes.
 - **The Cliffwatch**—the [[Adamantine Guild]]'s Westward branch, a squat stone post at the top of the western cliffs. Thinly staffed, like every Guild post these days, but it watches the stair below more closely than it watches the ledgers.
 - **The West Stair**—a switchback stair cut into the cliff face below the Cliffwatch, roped off and guarded, usable only while the island rides aloft, and the Guild has never said what's down there.
-- **The Deep Index**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex built into the cliff near the Cliffwatch. Separate charter from the Guild, same small town, so word travels between them regardless.
+- **[[The Deep Index]]**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex built into the cliff near the Cliffwatch. Separate charter from the Guild, same small town, so word travels between them regardless.
 
 ## Residents
 
 - **[[Dessa Kestrel]]**—Cleric of [[The Exodus/00_My Notes/Pantheon/Oghma|Oghma]], the Cliffwatch's branch leader. Runs the post alone most days.
-- **Osric Ferrowe**—House Ferrowe's man in Westward, minding the family's affairs in town.
+- **[[Osric Ferrowe]]**—[[House Ferrowe]]'s man in Westward, minding the family's affairs in town.
 
 ## Current Events
 
@@ -92,5 +92,12 @@ That's the noise the AUGs walked into first, delivered to the Cliffwatch's door 
 - From the Aerie's upper landing heat from lava pockets under the city rises in columns while wind from the ocean rushes in to replace it.
 - A huge spike stands in the middle of the continent, visible from the upper landing, and matches the one from the party's shared vision.
 - No Academy scholars or teachers are stationed in [[Westward]].
+
+## Session 6 Update (The AUGs)
+- [[Mike Kanbei]] and [[Gregory Yang]] were partway through a ten-day downtime in Westward, working at [[The Deep Index]] and at [[Cinderstay]] in Slagrow.
+- [[Tavian Wick]] said Westward runs on two seasons, that the ferry-masters run the crossing to Sunhold and the foundry-owners turn the ore into goods, that neither can claim to be the stronger power because each needs the other, and that charcoal camps work the Wildwood outside the city.
+- [[Tavian Wick]] said Osric is the youngest son of [[House Ferrowe]] and favours neither side, and that the [[Corranor Council]]'s seven majors in [[Crystal City]] rule the continent.
+- A hill about half the height of Fuji lies half a day's walk north of the city; a squad of the city militia was training on it.
+- A tenement in a poorer street of laborers and cooks has no windows and a single door.
 
 

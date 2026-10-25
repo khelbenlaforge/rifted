@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-10-24T19:17:43
+updated: 2026-10-25T16:00:56
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -77,5 +77,13 @@ On an ordinary day, ships and caravans get processed at pace, blind manifests lo
 ## Session 3 Update (The JULYs)
 
 The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 PA (Session 3, arriving overland by carriage from the south after departing on the [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]]). Only three of the six-strong party made the trip, Kai, [[The Exodus/The JULYs/PCs/Odette Langford|Odette Langford]], and the newly arrived [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]]. The crest on their own Adamantine Guild bracers was enough to skip [[Tamsin Vell]]'s usual headcount entirely, no name taken, no scene with her this time, but a different set of eyes near the gate gave [[The Exodus/The JULYs/PCs/Ruairí|Ruairí]] trouble anyway: a man overseeing entry took an uncomfortable interest in him until Odette flirted the man's attention elsewhere, exactly the kind of notice the driver had warned them about on the way in—rare things sell here before anyone asks questions, and a changeling counts as rare. The debt that started there followed them into the city: walking to the Tallhouse, Odette strayed off the road herself and drew a crowd's attention in seconds, and Ruairí followed to watch over her in turn. [[Petra Hale]] later confirmed the same danger directly and talked Ruairí into a less conspicuous shape.
+
+## Session 4 Update (The JULYs)
+- The party's quiet days in Coldford began on 1 Nightal, Year 222 PA.
+- Played places: the Aerie near the gates; the Old Streets, with the Wash Court, the Lamp Stair and a bakery one lane below it; the Tallyrows, with [[Hobb Abbe]]'s bell platform; the harbour, with Fogbell Pier, the Gull Steps fish market, the ferry stairs, the slip yard, the Slack Room and a painted line the dock workers watch on the quay stones.
+- The harbour is dry: boats sit on a slope with no water under them, and past it is open air, because the city rests on a floating continent. The Coldmist keeps fish and meat from spoiling and keeps things dry; the wizards have not worked out why.
+- A night bell with a pitch no pilot's bell has rings every few weeks; the first time someone answered it by accident, four crew vanished; a buoy chain hangs snagged near the fifth ferry step.
+- The faith district next to the Tallhouse holds the [[Temple of Selûne]], and Coldford also has temples of [[Kelemvor]] and [[Lathander]]; there is no Temple of Tyr.
+- Odette worked out that Coldford has no representative of the Council. Anyone outside the walls after a certain hour is not let back in.
 
 

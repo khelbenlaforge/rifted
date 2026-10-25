@@ -1,7 +1,6 @@
 ---
 title: Michael C Jordan
 aliases:
-- Mike
 - MCJ
 tags:
 - npc
@@ -10,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-17T00:00
-updated: 2026-09-29T20:17:02
+updated: 2026-10-25T16:14:56
 ---
 
 # Michael C Jordan

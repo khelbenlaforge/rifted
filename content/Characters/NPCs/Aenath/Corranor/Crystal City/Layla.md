@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-10-01T18:16:01
+updated: 2026-10-25T16:00:57
 ---
 
 # Layla
@@ -97,6 +97,11 @@ Deity:: Unknown
 - Vanished again before Ruairí could ask her anything further.
 - [[Ruairí]] (Session 3, The JULYs), found him alone after a [[The Exodus/00_My Notes/Locations/Cosmology/Feywild|Feywild]]-diverted crossing left him separated from his own batch, the first arrival she's directly encountered arriving late and off-pattern rather than on schedule with the others
 
+## Session 4 Update (The JULYs)
+- Petra told the party Layla was an assistant to [[Garm]] of the Council of Seven, working with [[Perrin Quickquill]] on ways to teleport people between cities.
+- In Petra's telling, Layla accidentally sent nine people at once into the Spire in [[Crystal City]] on the day the first Rifted appeared, then vanished; a manhunt for her is on across the continent.
+- Petra wonders aloud whether Layla is really evil: she was a very stressed-out person, and something does not tally.
+
 ## Session 1 Update (The Understudies)
 
 - 29th Uktar, Year 222 PA: appeared at [[The Sundered Choir]], taking notes, ahead of a Shadow Creature ambush on four newly arrived Understudies PCs.
@@ -134,7 +139,7 @@ Deity:: Unknown
 
 ## Session 1 Update (The AUGs)
 
-- [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA: appeared atop the tower at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs ([[The Exodus/The AUGs/PCs/Mike Kanbei|Mike Kanbei]], [[The Exodus/The AUGs/PCs/Ruan Myrt Zaltana|Ruan Myrt Zaltana]], [[The Exodus/The AUGs/PCs/Rachel Tan|Rachel Tan]], [[The Exodus/The AUGs/PCs/Gregory Yang|Gregory Yang]], [[Rismawati Bayu|Rismawati Bayu]]).
+- [[The Exodus/00_My Notes/Lore/Feast of the Moon|Feast of the Moon]], Year 222 PA: appeared atop the tower at [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Westward/The Drowned Dawn|The Drowned Dawn]], taking notes ahead of a shadow-creature encounter, ahead of five newly arrived AUGs PCs ([[The Exodus/The AUGs/PCs/Mike Kanbei|Mike Kanbei]], [[The Exodus/The AUGs/PCs/Ruan Myrt Zaltana|Ruan Myrt Zaltana]], [[Rachel Tan|Rachel Tan]], [[The Exodus/The AUGs/PCs/Gregory Yang|Gregory Yang]], [[Rismawati Bayu|Rismawati Bayu]]).
 - Corrected her own count aloud on seeing them: "It was supposed to be six." Did not give her name to this party.
 - Ran through her usual script: pointed up the tower, promised transport at the top, wouldn't say why they'd been pulled here, told them to run if they saw shadows. She was gone before the first one showed.
 
@@ -146,6 +151,13 @@ Deity:: Unknown
 - Traced the sixth arrival as far as a portal's edge.
 - Named [[Westward]], a day's ride away, as the party's next destination and identified the unnamed leader of its [[Adamantine Guild]] branch as a contact.
 - Arranged for the party to go through the seam.
+
+## Session 6 Update (The AUGs)
+- Dessa said [[Garm]]'s assistants [[Perrin Quickquill]] and [[Layla]] were set to work on teleportation, that Perrin was away at the first experiment, and that [[Layla]] vanished as the first Rifted arrived.
+- Dessa said the researchers in Crystal City think crossing planes needs something from another plane, such as tiefling or aasimar blood, and that [[The Claret]] smuggle extraplanar blood across the continent for [[Layla]] for the money (a running theory, unconfirmed).
+- Dessa said [[Layla]] may be closer to Westward than to any other city.
+- [[Rachel Tan]] said word had come down from Crystal City that the whole continent is hunting for Layla, that the Tamers and the militia have been told to watch for [[Layla]] and that soldiers are posted at the place the party first arrived.
+- Mike and Gregory told Rachel that [[Layla]] had seemed to want to help them and that they want to help her.
 
 ## Session 3 Update (The AUGs)
 

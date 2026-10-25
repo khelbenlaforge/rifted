@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-09-29T01:10:51
+updated: 2026-10-25T16:38:24
 ---
 
 # Petra Hale
@@ -62,6 +62,18 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - Before testing a party this small, measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 - Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and backed the party's Guild standing afterward regardless of outcome.
 - First real point of contact for The JULYs' Adamantine Guild standing in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation.
+
+## Session 4 Update (The JULYs)
+- Yielded at the end of the Guild-evaluation sparring match, bleeding from crossbow bolts after letting them press her for about half the fight, and told the party every one of them had earned their braces.
+- Admitted she should have listened to [[Rhona Voss]], who had run the same test on a party of five.
+- Watched what the party's trinkets did even when unused, warned that people would kill for them and that she was not sure she could take them away, and asked the party not to show them.
+- Said she would tell the whole city the three were Rifted and hoped the Guild's name would keep hands off them, and that she would send word to Lord Colwyn, to pass down to the [[The Manifest Houses|Manifest Houses]].
+- Offered a room, Guild protection and a silver a day (a gold at the end of the week), the Guild coming first. Showed a sending stone and promised the party one later.
+- Gave the date as 1 Nightal, put landfall within ten days or so, and said to grab something quickly if people cheer in the streets for no reason.
+- Gave her account of [[Layla]] and [[Garm]]. Wondered on the sixth morning whether Layla was really evil, since something did not tally.
+- On the sixth morning laid out the planes as she understands them and a theory that teleporting would need something from an outer plane, most easily the blood of tieflings and aasimar; said someone is buying a great deal of tiefling blood through [[The Claret]]; asked the party to warn any tieflings and aasimar they know and to watch for illegal spell reagents.
+- The Tallhouse is shielded, so no one outside can hear, and she spoke freely in it. Said the Fey had slipped to second priority in the city.
+- Is old friends with [[Tamsin Vell]] and argues with her constantly. [[Sister Margaret]] had not seen her in weeks.
 
 ## D&D 5e Stat Block
 

@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:30
-updated: 2026-09-29T00:13:57
+updated: 2026-10-25T14:30:00
 ---
 
 # The Awakening
@@ -54,5 +54,8 @@ Visions suggest a connection to the [[Astral Sea]], where over 10,000 souls were
 ## Session 7 Update (The Understudies)
 
 **An unnamed elf at the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Ward Works|Ward Works]] (Understudies, Session 7)** remembers it firsthand rather than through a vision—old enough to have lived the ground cracking open and people dying in the light of it, and to describe, in [[Sister Priya Dawnwell]]'s own retelling, a warmth she still calls the Morning Lord trying to hold the world together. Nobody currently walking Corranor has a memory older than hers.
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] said people who have lived long enough remember the gods speaking to their clerics, and that since the Awakening none has.
 
 

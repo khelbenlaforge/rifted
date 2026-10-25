@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-29T00:12:14
+updated: 2026-10-25T16:17:19
 ---
 
 # Knights of the Eternal Order
@@ -23,7 +23,7 @@ updated: 2026-09-29T00:12:14
 
 ## Description
 
-The Knights of the Eternal Order are the paladins of the [[Temple of Kelemvor]], and their specific charge is the Threshold Gates—three archways in the temple's Knights' hall facing the Abyss, the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], and the Outer Planes. Only the first two actually function as transit: the Lower Planes sit inside the astral barrier, reachable this way. The third shows its own glimpse the same as the others, but has never opened as a passable transit in living memory—the Outer Planes lie beyond the barrier, out of any gate's reach, and that's why the Church falls back on the Feast night ritual instead. The Knights stand before all three at all times anyway. Not to prevent passage. To ensure it goes the right way.
+The Knights of the Eternal Order are the paladins of the [[Temple of Kelemvor]], and their specific charge is the Threshold Gates—three archways in the temple's Knights' hall facing the Abyss, the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], and the gods' realms. Only the first two actually function as transit: the Lower Planes lie beyond the astral barrier, and the Gates are the one sanctioned way across it. The third shows its own glimpse the same as the others, but has never opened as a passable transit in living memory—the gods' realms lie beyond the barrier, out of any gate's reach, and that's why the Church falls back on the Feast night ritual instead. The Knights stand before all three at all times anyway. Not to prevent passage. To ensure it goes the right way.
 
 Every cross-planar transit in [[Crystal City]] that runs through legitimate channels runs through the Knights. They authorize outbound trips into the planes. They intercept unsanctioned arrivals. They return the dead to the appropriate destination when something or someone tries to interfere with the process. Call them gatekeepers and they'll correct you: a gatekeeper stands beside the gate. They stand as it, upright and immovable.
 

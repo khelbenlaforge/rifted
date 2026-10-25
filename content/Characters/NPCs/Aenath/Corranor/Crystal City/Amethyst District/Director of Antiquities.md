@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
-updated: 2026-09-29T20:23:34
+updated: 2026-10-25T14:30:00
 created: 2026-06-29T00:00
 ---
 > [!infobox]
@@ -27,5 +27,9 @@ Affiliation:: [[Ether Scryer's Academy]]
 
 - Took Shen in as a department collaborator the moment Shen described the [[Sunless Citadel]] murals—a chamber of deity statues, a primordial exodus scene—and made him a paid Academy employee on the strength of that single account.
 - Through him, Shen also became a paid Academy employee: thirty-two gold a week, sixty-four earned over the two weeks he spent tracking a hunting party through the wilds.
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] named the Director as Yilde, said Yilde reads the Deep Index's report every ten days and is keen for news of any old place, and said Yilde had tried for a month to send an expedition to the [[Sunless Citadel]].
+- [[Tavian Wick]] offered to write up Mike's account of what the party saw near the Ribs for Yilde.
 
 

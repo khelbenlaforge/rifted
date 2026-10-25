@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-10-02T00:04:47
+updated: 2026-10-25T14:30:00
 ---
 
 # Garm
@@ -60,6 +60,12 @@ Found In:: [[Jade Spire]]
 ## Session 5 Update (The Understudies)
 
 - Named to the Understudies party in their Session 5 as the archmage [[Layla]] worked under. Rhona relayed it as *employer*—she did not name him as responsible for the party's arrival—but she was visibly out of her depth relaying any of it.
+
+## Session 6 Update (The AUGs)
+- Dessa said [[Garm]] gave two assistants, [[Perrin Quickquill]] and [[Layla]], the task of working out teleportation.
+
+## Session 4 Update (The JULYs)
+- Petra described Garm as a member of the Council of Seven who is close to the Guild and sponsors it, too nice for the Council, and who wanted to learn to teleport people between cities; his two assistants were [[Perrin Quickquill]] and [[Layla]].
 
 ## D&D 5e Stat Block
 

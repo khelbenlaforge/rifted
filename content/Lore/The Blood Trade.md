@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:44:27
-updated: 2026-09-29T00:14:27
+updated: 2026-10-25T16:00:56
 ---
 
 # The Blood Trade
@@ -33,6 +33,14 @@ A third strand, reported secondhand: [[Rhona Voss]] relayed to the Understudies 
 
 ## Session 3 Update (The AUGs)
 
-Later and separately, [[Dessa Kestrel]] told the AUGs about [[The Claret]] operating city-wide with no fixed leader—and named [[Rachel Tan]]'s own tiefling blood as a trade target in the same breath.
+Later and separately, [[Dessa Kestrel]] told the AUGs about [[The Claret]] operating city-wide with a leader nobody has seen or named—and named [[Rachel Tan]]'s own tiefling blood as a trade target in the same breath.
+
+## Session 6 Update (The AUGs)
+- Dessa told Mike and Gregory that the researchers in Crystal City think crossing planes needs something from another plane, which would mean tiefling or aasimar blood, and that there is a secret, illegal trade in blood. She named Rachel as the one most at risk.
+
+## Session 4 Update (The JULYs)
+- Petra's theory, given to the party on the sixth morning: teleporting would need something from an outer plane, most easily the blood of tieflings and aasimar; someone is buying a great deal of tiefling blood through [[The Claret]]; people are going missing.
+- [[Sister Margaret]], told in confidence by Odette, cast Commune, said there are tieflings in Coldford and that the tiefling community would be hit first, and plans to warn the temple's tieflings and aasimar.
+- Two of the party worked out that the barrier fits the silence of the gods, that their own crossing looks like a plane shift past it, that the donor's life force is probably part of such a spell, and that the shadow creatures that found them at arrival suggest teleportation can be tracked. This is the party's working theory, not a confirmed one.
 
 

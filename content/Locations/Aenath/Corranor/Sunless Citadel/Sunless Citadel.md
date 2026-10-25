@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T03:57
-updated: 2026-09-26T19:26:08
+updated: 2026-10-25T14:30:00
 ---
 
 # Sunless Citadel
@@ -58,5 +58,8 @@ The party has explored deep into the Grove Level alongside companions [[Balsag]]
 The party discovered and passed through the Sealed Door, gaining access to the Sanctum — a hidden chamber of profound cosmological significance predating the dragon cult. They are currently studying its contents, which challenge everything they thought they understood about [[Aenath]].
 
 The [[Gulthias Tree]] island itself is due to resurface in roughly two weeks, on a fixed timetable nobody can move up or learn more precisely in advance—only that it's running.
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]]'s drawers held dragon figurines from the Sunless Citadel, which he said had been a place of dragon worship, and parchments of deity symbols copied from the door of a chamber there.
 
 

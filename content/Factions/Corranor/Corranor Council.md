@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-09-29T00:12:24
+updated: 2026-10-25T14:30:00
 ---
 
 # Corranor Council
@@ -79,5 +79,8 @@ Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour t
 
 - **Ysolde** is named to the party for the first time, as the human Keeper who voted against them at their status-hearing summons: [[Doran]], [[Nerise]] and Ysolde against; [[Garm]], [[Wystan]] and an unnamed gnome Keeper for; [[Oriel Blackstaff]] deciding. The hearing itself was evaded, not resolved—see the party's own Dashboard.
 - The gnome Keeper (Merrit, Keeper of the Sky Roads) remains unnamed to the party.
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] said the Council's seven majors, one per city, rule the continent from Crystal City, that noble houses administer the settlements, and that the [[Adamantine Guild]] answers only to the Council.
 
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: 2026-07-18
 secret: false
 created: 2026-07-26T00:00:00
-updated: 2026-10-01T20:51:10
+updated: 2026-10-25T14:30:00
 ---
 
 # Lathander
@@ -58,5 +58,8 @@ Priya's own theology, as given in play, centers entirely on beginnings. His chur
 ## Session 31 Update (The Door Kickers)
 
 - [[Erky]] named Lathander (god of the morning) alongside [[Ilmater]] as a god whose clerics might regenerate a beak and claws; none were within reach.
+
+## Session 6 Update (The AUGs)
+- A drawer in [[Tavian Wick]]'s collection held a fragment from the temple the party arrived in; he said it had been a temple of Lathander.
 
 

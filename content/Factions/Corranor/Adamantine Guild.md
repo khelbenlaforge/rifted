@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-10-24T00:17:52
+updated: 2026-10-25T15:46:54
 ---
 
 # Adamantine Guild
@@ -93,12 +93,21 @@ The guild's crest, a scroll, a gauntlet, and a coin, is stamped directly into th
 
 **Rifted headcount (per [[Petra Hale]], Session 3, The JULYs):** a rough, self-admittedly imprecise count spanning three cities—nine at the main branch, five in [[Stormberg]], six now in Coldford. Before testing a party this small, she measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
 
+## Session 4 Update (The JULYs)
+- Petra explained the crest: the scroll of Oghma, the gauntlet of Helm and the coin of Waukeen, standing for the right to grow, to be safe and to learn.
+- She said the Guild are not the militia or the city's soldiers but mercenaries, paid for their work and sponsored by the Council; ranks run brass, iron, mithril and adamantine, and her own gauntlet is silver mithril.
+- Most of the Tallhouse's staff were out at sea, leaving Petra alone with the paperwork. The Guild pays the party a silver a day and a gold at the end of the week, and has promised to take in every Rifted who breaks no law. The Tallhouse is shielded against eavesdropping.
+
 ## Session 4 Update (The Understudies)
 
 They arrived already wearing brass bracers sent ahead by an unidentified party; [[Rhona Voss]] recognised the rank as genuine and took them onto the branch's books, rather than conferring it herself. **Who issued those bracers is still unresolved**—see the party Dashboard's Open Threads.
 
 Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch recognised brass bracers on sight as legitimate rank, and [[Rhona Voss]]—who runs that branch—confirmed them as genuine while noting the rank had not been issued by her own branch.
 
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] said the Guild answers only to the [[Corranor Council]], not to the noble houses.
+- [[Ansel Krane]] said the Guild sometimes sends people down the shaft at [[Cinderstay]] to [[The Old Forge]].
 
 ## Session 19 Update (The Door Kickers)
 

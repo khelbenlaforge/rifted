@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-18
 secret: false
 state: alive
-updated: 2026-10-24T02:36:14
+updated: 2026-10-25T16:34:13
 created: 2026-09-18T13:43:56
 ---
 
@@ -79,6 +79,8 @@ Ruairí's pact runs on the same trick as his body: nothing about him stays where
 ## Key Events
 
 - Session 3 (Feast of the Moon into 1st Nightal, Year 222 PA) - first session. Lived the Calamity Vision from inside a fey creature's body at the edge of the same catastrophe (a glowing spire ringed by orbiting rocks, pixies and taller fey crushed alongside him), attempting an Eldritch Blast against a falling rock and missing; woke afterward in his own natural changeling form near the party. Met Layla, who gave him six Adamantine Guild bracers in a bag and vanished. Reunited with Kai and Odette Langford (Masamune Kento, Nanaya Rei, and Frankie's player absent) at their campfire; traveled by carriage to Coldford, warned en route that a changeling could be treated as a trafficking commodity there. Failed to go unnoticed entering the city—a man overseeing entry fixated on him uncomfortably until Odette flirted the man's attention away, the start of a debt he owes her. Later followed her, partly to repay it, when she strayed off the road on the walk to the Tallhouse and drew the street's attention herself. Registered at the Tallhouse with Petra Hale, who named the same commodity risk directly and suggested he change shape; picked cat, and it stuck. Rested in her pocket dimension (his room: an Irish coastal cliffside cottage), where reaching for his patron's power surfaced a second vision—a misty lake and an obscured antlered fey figure watching him—before using Mind Spike against Petra in the Guild's evaluation sparring match.
+
+- Session 4 (1 Nightal onward, Year 222 PA) - That night, in a private scene, his room took the shape of his grandparents' home and his grandfather urged him to go and live. Drew his own map of [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]] with Petra's and [[Tamsin Vell]]'s help, which tells him where it is safe to walk by night and by day; took work with the bell-keeper [[Hobb Abbe]] on a Tallyrows platform, lighting the tally row with Faerie Fire and passing count changes with Message, while the [[The Manifest Houses|Manifest Houses]] began to wonder who the black cat was. Watched the east end of the Tallyrows and saw a man in a good hat, wearing two studs, stop three times in one day at Marl Dunning's stall. The days in Coldford are not over.
 
 ## Relationships
 

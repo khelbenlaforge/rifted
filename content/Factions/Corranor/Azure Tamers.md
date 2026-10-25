@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-10-24T01:26:06
+updated: 2026-10-25T16:11:35
 created: 2026-06-20T00:00
 ---
 
@@ -19,6 +19,8 @@ The Azure Tamers are an elite ranger collective based in the western wall towers
 ## Members
 
 - **[[Torem]]**—Birdfolk ranger, senior member; oversees the communications network across Corranor's cities and keeps eyes on movement of people and goods.
+- **[[Pell]]**—keeps the ledger at the [[Westward]] Aerie.
+- **[[Odo]]**—works the lift winch at the [[Westward]] Aerie.
 
 ## Current Notes
 
@@ -29,6 +31,10 @@ The docks and the Tamers work closely together, and goods needing speedy deliver
 ## Bella
 
 Bella is Torem's own griffin, white-winged and enormous.
+
+## Bertha
+
+[[Bertha]] is the house-sized giant eagle who holds the [[Westward]] Aerie's second landing, where hatchlings learn to glide.
 
 ---
 Leader:: Unknown
@@ -69,5 +75,14 @@ She's carried more than riders, too: on that same Session 30 road trip, surplus 
 - Pell mentioned a tiefling the Tamers mean to find.
 - Pell knows the party is Rifted and will keep it quiet until [[Dessa Kestrel]] announces it to the city's leaders.
 - [[Rismawati Bayu|Risma]] took the offer and flew off with Pell on Bertha.
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] said the Tamers have only seven griffins and one eagle and that flights are expensive.
+- Rachel said Pell had told her the Tamers were also watching for [[Layla]].
+
+## Session 4 Update (The JULYs)
+- Coldford's Aerie is a tall plastered tower near the gates, eleven stories of ladders and platforms with no fog inside; about seven griffins sit on the first landing and two were out circling the city; a greater griffin there is named Tiffy.
+- [[Torun]], a ranger in leathers with a longbow, explained that each pier has a bell and ships steer by sound; the Aerie keeps one bird aloft at a time as a lookout in case a sea monster comes in at landfall; he said he would take [[Kai]] on if Petra sent word.
+- An old, partly blind eagle named Bertha broods her eggs on the Coldford Aerie's top landing. She is a second eagle, separate from [[Bertha]] of the Westward Aerie.
 
 

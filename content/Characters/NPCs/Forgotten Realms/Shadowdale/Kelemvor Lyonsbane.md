@@ -9,7 +9,7 @@ introduced: 2026-03-17
 secret: false
 state: alive
 created: 2026-03-17T19:26
-updated: 2026-09-29T00:14:18
+updated: 2026-10-25T16:17:20
 ---
 
 # Kelemvor Lyonsbane
@@ -156,7 +156,7 @@ Deity::
 
 ## Session 19 Update (The Door Kickers)
 
-Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Death, the Priesthood, and the [[Knights of the Eternal Order]], paladins who stand watch at the temple's Threshold Gates. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls go to the Abyss, lawful evil souls to the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]]—both reachable through the Gates, inside the barrier—while neutral or godless souls stay stuck behind the barrier until the Feast of the Moon's ritual of names sends them on to the Outer Planes.
+Kelemvor's temple in [[Crystal City]] has three factions: the Monks of Long Death, the Priesthood, and the [[Knights of the Eternal Order]], paladins who stand watch at the temple's Threshold Gates. Kelemvor judges and forwards souls rather than keeping them: chaotic evil souls go to the Abyss, lawful evil souls to the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]]—both reachable through the Gates, which cross the barrier—while neutral or godless souls stay stuck behind the barrier until the Feast of the Moon's ritual of names sends them on to the gods' realms.
 
 His church feuds with the churches of [[Mystra]] and [[Oghma]], holding that knowledge without responsibility creates wild magic that destabilizes the cosmos. Kelemvor once possessed great emotion, but what stripped it away is unknown. His symbol is a man sitting on a chair holding scales.
 

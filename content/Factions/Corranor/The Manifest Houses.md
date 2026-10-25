@@ -29,4 +29,9 @@ Petra Hale has quietly started tracking a string of "insurance" shakedowns hitti
 Leader:: Unknown—no single head confirmed in play; the plural name and the Tallyrows' side-by-side intake desks suggest multiple houses rather than one central command, though this isn't stated outright anywhere sourced
 Headquarters:: The Tallyrows, [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
 
+## Session 4 Update (The JULYs)
+- Petra, [[Torun]] and [[Tamsin Vell]] each called the Houses the true power in Coldford; Torun said Lord Colwyn does not command as many soldiers as some of them.
+- Tamsin said the Houses grow rich stockpiling food and are not above smuggling spell reagents and rare ores.
+- [[Ruairí]] works a Tallyrows platform with the bell-keeper [[Hobb Abbe]]; the Houses noticed and wondered who the black cat was. Ruairí saw some clerks quietly let a tally pass and usher the next person in instead of signalling Hobb.
+
 

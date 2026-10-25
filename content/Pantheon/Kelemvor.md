@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-09-29T17:46:47
+updated: 2026-10-25T16:17:20
 ---
 
 # Kelemvor
@@ -35,7 +35,7 @@ Kelemvor is the god of death and the dead, and by most accounts the fairest. Kel
 
 His faithful picture him as a darkly robed figure behind a silver death mask, though the walls of his temples are carved with a man in peasant's clothes.
 
-His church in [[Crystal City]] runs three factions under one roof: the Monks of Long Death, the general Priesthood, and the **[[Knights of the Eternal Order]]**—the paladins who stand watch at the temple's three Threshold Gates (Abyss, Nine Hells, Outer Planes), not to prevent passage but to ensure it goes the right way. Elite priests carry the title **Doomguide**; the clergy at large dress in somber gray and favor the bastard sword as their weapon of choice. The Church of Kelemvor feuds openly with the churches of [[Mystra]] and [[Oghma]] over a real philosophical disagreement: Kelemvor's clergy holds that knowledge pursued without responsibility is exactly what destabilizes the cosmos.
+His church in [[Crystal City]] runs three factions under one roof: the Monks of Long Death, the general Priesthood, and the **[[Knights of the Eternal Order]]**—the paladins who stand watch at the temple's three Threshold Gates (Abyss, Nine Hells, the gods' realms), not to prevent passage but to ensure it goes the right way. Elite priests carry the title **Doomguide**; the clergy at large dress in somber gray and favor the bastard sword as their weapon of choice. The Church of Kelemvor feuds openly with the churches of [[Mystra]] and [[Oghma]] over a real philosophical disagreement: Kelemvor's clergy holds that knowledge pursued without responsibility is exactly what destabilizes the cosmos.
 
 > Look not upon our sins, Master of Scales, but measure the worth of your most grateful dead.
 > — a basic prayer to Kelemvor
@@ -65,5 +65,12 @@ Session 26 closed with the party split (Gil and [[The Exodus/The Door Kickers/PC
 ## Session 27 Update (The Door Kickers)
 
 **Session 27—resolved.** A hidden cult of Shar had kidnapped the Gravelord mid-vigil, using a compromised Knight ([[Ser Tamsin Rook]]) to clear their path, and was working to strip away some of Kelemvor's own duties over the dead at the [[Shrine of Shar]] off Cistern Street. The party tracked the cult down, killed the officiating cleric ([[Mother Ilyra Duskveil]]), and freed the Gravelord before the rite completed—he survived, and the vigil held.
+
+## Session 6 Update (The AUGs)
+- A door fragment in [[Tavian Wick]]'s drawers carries a carving that shifts for Mike and Gregory but not for Tavian; the symbol that comes back most often is Kelemvor's.
+
+## Session 4 Update (The JULYs)
+- [[Sister Margaret]] told Odette that every city has a temple of Kelemvor because nobody wants to vanish into nothing when they die; Tyr is the god of justice for the living and Kelemvor for the dead. Coldford's temple has two paladins of Kelemvor.
+- Margaret plans to approach Kelemvor's paladins and the [[Monks of the Long Death]] about the trade in tiefling and aasimar blood once Petra agrees.
 
 

@@ -9,7 +9,7 @@ introduced: 2026-09-30
 secret: false
 state: alive
 created: 2026-10-01T00:00:00
-updated: 2026-10-02T00:04:48
+updated: 2026-10-25T14:30:00
 ---
 > [!infobox]
 > # Ulrich
@@ -27,3 +27,6 @@ Location:: [[Westward]]
 ## Session 5 Update (The AUGs)
 
 - Dessa named him as the one to call on if the party needs help.
+
+## Session 6 Update (The AUGs)
+- The huge guard at the stair gate warned Gregory not to go further down.

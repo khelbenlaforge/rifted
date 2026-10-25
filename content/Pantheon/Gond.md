@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-09-29T18:18:39
+updated: 2026-10-25T14:30:00
 ---
 
 # Gond
@@ -78,5 +78,8 @@ Samson Flint's dream the night of the Rhona fight puts a witness inside this eve
 ## Session 8 Update (The Understudies)
 
 A second witness, a session later: [[The Exodus/The Understudies/PCs/Fern|Fern]]'s own dream put her hand directly against the fire figure of the four—Kossuth—and felt, rather than heard, what it needed from the others: *"flame needs rock to lean on, rock needs water it can't hold, water needs air to carry it anywhere at all."* The dream then carried her to the forging itself, the same moment Samson witnessed a session earlier: *"a blacksmith too large for any forge... working a hammer over a shape made entirely of fire,"* and the fire's own answer, *"I accept,"* before the hammer came down and its light spread out into a plane still deciding what it would become.
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] guessed that the muscled figure with a hammer in the [[Sunless Citadel]]'s mural is Gond.
 
 

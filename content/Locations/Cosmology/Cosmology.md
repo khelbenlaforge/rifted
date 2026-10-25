@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-26
 secret: false
 created: 2026-09-26T15:13:43
-updated: 2026-09-29T17:47:39
+updated: 2026-10-25T16:17:39
 ---
 
 # Cosmology
@@ -23,15 +23,15 @@ Folder note for `Locations/Cosmology/`—an index into Aenath's planar structure
 
 ## Inside the Barrier
 
-[[The Astral Barrier]] encloses the [[Ethereal Plane]], the [[Shadowfell]], [[Feywild|the Feywild]], the [[Elemental Planes]], and the Lower Planes—[[Nine Hells|the Nine Hells]], [[The Abyss]], and Hades—alongside the material world itself.
+[[The Astral Barrier]] encloses the [[Ethereal Plane]], the [[Shadowfell]], [[Feywild|the Feywild]], and the [[Elemental Planes]], alongside the material world itself.
 
 **Echo planes:** the Feywild and Shadowfell specifically are echoes of the material world, not a property every plane inside the barrier shares.
 
-**Lower Planes:** [[Kelemvor Lyonsbane|Kelemvor]] routes chaotic evil souls to [[The Abyss]] and lawful evil souls to the Nine Hells; both sit inside the barrier, reachable through the [[Temple of Kelemvor]]'s Threshold Gates. Hades is named alongside them as a third Lower Plane but carries no Aenath-specific content of its own yet.
-
 ## Beyond the Barrier
 
-[[The Outer Planes]]—the gods' own realms, everything the barrier shuts out. [[Arborea]] and the [[Astral Sea]] are the two confirmed instances built out so far.
+[[The Outer Planes]]—everything the barrier shuts out: the gods' own realms ([[Arborea]] and the [[Astral Sea]] are the two built out so far) and the Lower Planes.
+
+**Lower Planes:** the Nine Hells, the Abyss and Hades are Outer Planes too, beyond the barrier. [[Kelemvor Lyonsbane|Kelemvor]] routes chaotic evil souls to [[The Abyss]] and lawful evil souls to the Nine Hells, and the [[Temple of Kelemvor]]'s Threshold Gates are the one sanctioned way across the barrier to them. Hades is named alongside them as a third Lower Plane but carries no Aenath-specific content of its own yet.
 
 ## The Sky
 

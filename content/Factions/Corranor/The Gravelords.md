@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-09-29T20:17:50
+updated: 2026-10-25T16:33:31
 ---
 
 # The Gravelords
@@ -28,7 +28,7 @@ The Gravelords are the clerical body of the [[Temple of Kelemvor]] — the peopl
 
 The name comes from an old translation of their charge: those who keep the ground. Every death processed correctly is a grave kept in order. Every soul properly assessed is one less disruption in a system that must hold. The Gravelords are the ledger. They are also the lock.
 
-They keep a library. It is not public. Accounts of clerics who plane-shifted to police soul trafficking — mostly into the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], where the most egregious violations accumulate — fill the older shelves. The reading is dry. The work those accounts describe was not.
+They keep a library. It is not public. Accounts of clerics who crossed the Threshold Gates to police soul trafficking — mostly into the [[The Exodus/00_My Notes/Locations/Cosmology/Nine Hells|Nine Hells]], where the most egregious violations accumulate — fill the older shelves. The reading is dry. The work those accounts describe was not.
 
 ## Leadership & Members
 
@@ -38,7 +38,7 @@ The First Gravelord is the head of the order, currently [[Cadmus Tallow]], 31 ye
 
 The Gravelords administer the temple's day-to-day operation: incoming soul assessments, the library, the Neutral Cloister, and all records pertaining to planar transit. They process requests from the living — inquiries about the deceased, theological questions, requests for the Processing Chambers — with the efficiency of a very well-run post office that also happens to adjudicate the afterlife.
 
-Their plane-shifting operations are historical rather than current. The library accounts describe past enforcement actions against soul traffickers — clerics who went into the Nine Hells authorized and came back changed. Whether that operational capacity still exists in [[Crystal City]] is not something they confirm publicly.
+Their crossings through the Gates to police soul traffickers are historical rather than current. The library accounts describe past enforcement actions against soul traffickers — clerics who went into the Nine Hells authorized and came back changed. Whether that operational capacity still exists in [[Crystal City]] is not something they confirm publicly.
 
 ## Current Status
 

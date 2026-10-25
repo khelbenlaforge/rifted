@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-10-24T01:29:20
+updated: 2026-10-25T20:00:00
 created: 2026-09-23T18:28:40
 ---
 
@@ -44,6 +44,14 @@ Methodical to the point of dryness. She doesn't raise her voice to make a point;
 ## Background
 
 Dessa spent a decade reading other branches' books before Westward ever had a branch of its own to read: recruitment logs, incident reports, the quiet paperwork that tells the Guild which evaluations were thorough and which ones just stamped a bracer and hoped. When the Westward posting opened, she asked for it herself. Westward needs a Guild presence precisely because of what sits under the island when it lifts, and an evaluation that doesn't actually test a recruit for that kind of dark is worth exactly what the paper it's written on is worth. The Cliffwatch itself watches the stair below it more closely than it watches its own ledgers, by her own accounting, and evening that out has been most of her job since she took the post. She's been down into the Keel exactly once, years ago, long enough to write the report herself rather than read someone else's version of it. She doesn't bring it up unless asked, and she never tells it the same way twice.
+
+## Session 6 Update (The AUGs)
+- Dessa waited at the Landing for Ruan, sent Mike up when he came out, and told him the room on her own visit had smooth marble walls and a fountain in the middle and that something must have changed that she could not see.
+- She told [[Tavian Wick]] that the party is Rifted. She had not told Ansel Krane.
+- On the fourth day she met the party at breakfast, tired and sad, and relayed what Crystal City had learned (see [[Layla]]).
+- She said she has no memory of anything before 222 years ago and has lost centuries of her own. She made a sign to [[Mystra]] and lit candles with flame from her hands, saying the goddess is still there even if silent.
+- She said the shadow creatures appear every time Rifted are teleported in, which by her count is confirmed across four or five sources, and that they go after nobody but Rifted.
+- [[Ansel Krane]] called Gregory one of her boys and said she comes by [[Cinderstay]] every now and then because she broke her pen.
 
 ## D&D 5e Stat Block
 

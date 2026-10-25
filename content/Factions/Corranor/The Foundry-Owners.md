@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-09-25T21:59:59
+updated: 2026-10-25T14:30:00
 created: 2026-09-25T21:59:59
 ---
 
@@ -26,5 +26,8 @@ The forge-owning families who run [[Westward]]'s Slagrow furnaces, holding the t
 ---
 Leader:: Unknown
 Headquarters:: [[Westward]]
+
+## Session 6 Update (The AUGs)
+- [[Tavian Wick]] said the foundry-owners buy the ore the ferry-masters bring and make the goods; [[Ansel Krane]] is one of them.
 
 

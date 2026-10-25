@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-10-02T01:22:56
+updated: 2026-10-25T17:00:00
 ---
 
 # Mike Kanbei
@@ -33,7 +33,11 @@ Nothing about what he wears is ornamental: dark, sleeveless wraps, built for mov
 
 Mike Kanbei drew things for a living in Shimokitazawa — storyboards mostly, sometimes ad layouts, once in a while the sleeve for somebody's album — back when a designer's hand still meant something in the finished product. He was good at it. That stopped mattering somewhere in his forties. Clients wanted results in half the time for half the rate, and more of them stopped wanting a person in the loop at all; a prompt did the job now, badly, for free, and badly was apparently good enough.
 
+The work had started somewhere else. At eighteen he was taken on by Takima-san, the manga artist he had idolized for years, and he put his heart and soul into the chance. Mike's first pages were a cyberpunk city of androids and cyborgs, drawn in the spirit of Blade Runner, Akira and Ghost in the Shell. Seven years on, two years after Takima-san died, a new publisher read his latest pitch and said nobody wanted a dead, gritty future any more: readers wanted isekai and pretty girls. Mike felt disappointment and then a respectful anger, because there is always an audience for the old thing and it is all about the story. He kept taking the work for another fifteen years. His mother was unwell, his apartment was tiny, he had no social life, and a paycheck was the only thing he knew how to get; if he quit, one of hundreds of other manga artists would take the job. The pages thinned into storyboards, ad layouts and the odd album sleeve.
+
 He lived alone. His days blurred into each other in a way that made the calendar feel decorative. He would sit in front of an open Photoshop file with nothing coming, or just look at the wall until the light outside changed color. Kyoto, his orange tabby, ignored him with a consistency that outdid the rest of the world; even his favorite treat couldn't buy the cat's attention some days. On the harder nights he'd put on the one CCR record he still owned and let "Have You Ever Seen the Rain" spin all the way through, the needle scratching in the runout groove long after the song ended, until he fell asleep at his desk. His mother, seventy and living alone herself, called most evenings to ask if he'd come to dinner. Most evenings, he let it ring.
+
+Near the end a letter turned up crumpled in his pocket on the way to the convenience store. A fan who had followed his work for twenty years had written, in careful Japanese, to ask why he had stopped drawing. He did not mind letting himself down, he said later, but it embarrassed him to have let down the people who followed his art. Drawing is the heart of his soul, and the art form never goes away.
 
 Exactly when the rut turned into something closer to a loop, he couldn't say — the same day playing back with the serial numbers filed off. What came after is even foggier: one evening an empty Photoshop file, the next, two suns in a sky over [[Corranor]] he had no name for yet. He'd stopped opening the blinds sometime that spring, and by his own count never once noticed the morning they'd have let real daylight back in. [[Aenath]], at least, asks something of the stillness he'd already mastered on Earth. A held breath here means something is about to happen; nobody mistakes it for nothing.
 
@@ -51,6 +55,7 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 
 **Session 4—2 Nightal, Year 222 PA:** His pocket-dimension room had a wooden floor, a clear skylight, and a balcony with a single cherry-blossom tree growing out of the floor, with no scenery beyond it. In the Proving Floor fight he cast Faerie Fire on Dessa, later flanked her, and cast Dancing Lights when the darkness fell. Afterward he felt like Superman and was annoyed at a spear thrust he missed.
 
+**Session 6—from 4 Nightal, Year 222 PA:** Mike woke on the ledge beside the Ribs after 49 hours, 20 minutes and 37 seconds, remembering only a fiddle, cheering, and faces around a table. [[Dessa Kestrel]] told him to go up, and he met [[Gregory Yang]] on the switchback. During the rest he said he missed his cat and his family but little else of his old life, and that the fight in the underground temple was where the fire came back: he had people to protect and no longer felt alone. During downtime he worked at [[The Deep Index]] for the clerk [[Tavian Wick]] (Persuasion 8 against DC 5), then befriended him by performing while they worked. [[Tavian Wick]] told him he logs the name of whoever handles each item and reports to the [[Director of Antiquities]] every ten days; Mike told [[Tavian Wick]] a little of what he saw near the Ribs. He and [[Gregory Yang]] saw a door fragment's carving shift where [[Tavian Wick]] saw nothing, and spent a day describing the symbols to [[Tavian Wick]] (Perception 20). With [[Gregory Yang]] he tracked [[Rachel Tan]] north (Survival 21 against DC 15), passed his Constitution save against the cold (14), and warned [[Rachel Tan]] of [[The Claret]]. At a tiefling friend's door they found darkness and the smell of iron and blood.
 ## Relationships
 
 Four strangers who owed him nothing followed a sound they couldn't see the source of, and that was apparently enough. Mike didn't say much beyond the fight itself — the same economy he once brought to a client call, minus the client. He led with his body instead of his words, and let the others decide for themselves whether that was trust or just efficiency.

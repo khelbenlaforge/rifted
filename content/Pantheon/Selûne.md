@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-10-01T05:12:08
+updated: 2026-10-25T15:46:54
 ---
 
 # Selûne
@@ -74,5 +74,10 @@ Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], 
 ## Session 09 Update (The Understudies)
 
 - Selûne's clergy in Stormberg sit near the temple of [[Mystra]] in a small temple district.
+
+## Session 4 Update (The JULYs)
+- [[Sister Margaret]] told Odette that Selûne waxes full at the Feast of the Moon, that [[Sehanine Moonbow]], a sister of twilight, sends her own strength to guard her as she waxes, that Selûne is light in the dark and the oldest goddess, and that in the beginning there were only Selûne and her sister [[Shar]], the two sides of the moon.
+- Margaret said worshippers of Shar in Crystal City kidnapped a few priests at the Feast to try to stop it, and that Selûne is also a goddess of magic.
+- Coldford's [[Temple of Selûne]] has clerics and a sorcerer and no paladins. Petra prays to Selûne.
 
 
