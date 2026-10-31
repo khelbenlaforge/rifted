@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-10-01T17:28:08
+updated: 2026-10-25T21:53:40
 ---
 
 # Stormberg
@@ -32,6 +32,16 @@ Status:: active
 - Confirmed regional city north of [[Crystal City]]
 - [[Azure Tamers]] operate in the region
 
+## Map
+
+![[Stormberg City Map.png]]
+
+Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=30&seed=1888&citadel=0&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=0&greens=0&hub=1&sea=0&name=Stormberg&style=natural) (seed 1888, Natural palette), rotated so the sea lies north; the [[Stormwall]] is drawn along the whole northern coast, standing just offshore so the piers and harbor water lie behind it, with the Stormgate gap at the harbor (the notes have ships queuing at the Stormgate and slipping in behind it; the gate is drawn as a bare gap, with no open-or-shut state), and the shanty towns and fields sit outside the city wall. Canon-only: the generator's district names are hidden, and only places with a confirmed position are pinned.
+
+Style options: tinted districts, weathered hip roofs, trees and forests, alleys shown. Decoration only, no canon weight: the Arctic's ice floes, the wall's buttresses and towers, the road label toward [[Crystal City]], and the area labels (shanty towns, fallow fields).
+
+Pins: a. the Stormwall, b. the Stormgate (harbor), c. the Wallwatch (city center), d. [[Ward Works]] (beside the Wallwatch), e. [[The Salt Line]] (dockside, near the gates), f. Yenna's noodle stall (southeast, near the fields). Unpinned until their position is played: the [[The Dawnhearth|Dawnhearth]], the temple district, the pantheon pavilion, [[Sylnathe's Hollow]], [[The Gilded Loom]], and the Iron Seam workshops.
+
 ## Features
 
 - **The Wallwatch** — the [[Adamantine Guild]]'s Stormberg branch, first stop for anyone routed the Guild's way. Street-level office, contracts and postings on the wall; thinly staffed like every Guild post these days, but never empty.
@@ -43,6 +53,7 @@ Status:: active
 - **The pantheon pavilion** — an open, columned building housing statues and shrines to every deity without a temple of its own in Stormberg.
 - **[[The Exodus/00_My Notes/Pantheon/Kossuth|Kossuth]]'s temple**—plainer than its neighbors, tended by a devotee who reads as lit from underneath rather than made of fire.
 - **Yenna's noodle stall** — a fast-line food stall southeast of the city center, near the fields, run by [[Yenna Marrow]].
+- [[Stormberg Aerie]]—the [[Azure Tamers]]' Stormberg tower: eleven stories against the south western city wall, with a booking desk at its foot.
 - [[Sylnathe's Hollow]]
 - [[The Gilded Loom]]
 

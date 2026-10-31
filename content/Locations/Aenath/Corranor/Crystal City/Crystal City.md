@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-10-24T19:08:10
+updated: 2026-10-26T19:35:58
 ---
 
 # Crystal City
@@ -34,7 +34,11 @@ The capital of [[Corranor]], a city of ethereal beauty where structures crafted 
 
 ![[Crystal City Map.png]]
 
-Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=50&seed=695425565&citadel=0&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=6&name=Crystal%20City&style=natural) (seed 695425565, Natural palette); district slices, the harbour and the Jade Spire are drawn over it. Six districts as pie slices bounded by the main roads from the six gates, meeting at the [[Jade Spire]] in the central plaza. Slice placement is not yet canon beyond Citrine holding the harbour side.
+Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=50&seed=695425565&citadel=0&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=6&name=Crystal%20City&style=natural) (seed 695425565, Natural palette); district slices, the harbour and the Jade Spire are drawn over it. Six districts as pie slices bounded by the main roads from the six gates, meeting at the [[Jade Spire]] in the central plaza. Slice placement is not yet canon beyond Citrine holding the harbour side (the regional map puts the sea immediately west of the city).
+
+Canon-only labels: the north road is marked for the Crossroads, which the notes put just north of the city, and the east road for the [[The Alabaster Highway|alabaster highway]], which runs east out of the city; [[Corran's Spike]] is an off-map pointer to the east with no distance, since none is canon. Decoration only, no canon weight: the ships and waves on the docks water, the gem markers where the roads cross the wall, the glints round the Spire, and the district legend in the corner.
+
+Pins b to m sit in the district each note names, and pin a marks the central plaza; the exact spot inside a district is an interpretation. a. [[Jade Spire]], b. [[Adamantine Guild]] (Citrine), c. [[Griffin's Hat]] (Citrine docks), d. [[Ether Scryer's Academy]], e. [[The Shining Wand]] (near the Academy), f. [[House Verenthal]] (Sapphire estate), g. [[Hucrele Manor]], h. [[Oghma's Temple]], i. [[Temple of Kelemvor]], j. [[Hall of Justice - Temple of Tyr|Hall of Justice]], k. [[Mielikki's Grove]], l. [[Tidecaller's Sanctuary]] (h to l in Diamond), m. [[The Low Flagon]] (Garnet, by the wall). Sunstone holds no pin yet, and other places stay unpinned until their position is played.
 
 ## Districts
 

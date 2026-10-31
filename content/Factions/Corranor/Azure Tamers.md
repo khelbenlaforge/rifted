@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-10-25T16:11:35
+updated: 2026-10-25T21:53:40
 created: 2026-06-20T00:00
 ---
 
@@ -21,6 +21,9 @@ The Azure Tamers are an elite ranger collective based in the western wall towers
 - **[[Torem]]**—Birdfolk ranger, senior member; oversees the communications network across Corranor's cities and keeps eyes on movement of people and goods.
 - **[[Pell]]**—keeps the ledger at the [[Westward]] Aerie.
 - **[[Odo]]**—works the lift winch at the [[Westward]] Aerie.
+- **[[Jorund Fenn]]**—keeper of the [[Stormberg Aerie]].
+- **[[Linnet Crowe]]**—runs the booking desk at the [[Stormberg Aerie]].
+- **[[Wren Dace]]**—young handler at the [[Stormberg Aerie]].
 
 ## Current Notes
 
