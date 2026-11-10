@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-10-25T21:53:40
+updated: 2026-11-10T15:09:24
 created: 2026-06-20T00:00
 ---
 
@@ -86,6 +86,6 @@ She's carried more than riders, too: on that same Session 30 road trip, surplus 
 ## Session 4 Update (The JULYs)
 - Coldford's Aerie is a tall plastered tower near the gates, eleven stories of ladders and platforms with no fog inside; about seven griffins sit on the first landing and two were out circling the city; a greater griffin there is named Tiffy.
 - [[Torun]], a ranger in leathers with a longbow, explained that each pier has a bell and ships steer by sound; the Aerie keeps one bird aloft at a time as a lookout in case a sea monster comes in at landfall; he said he would take [[Kai]] on if Petra sent word.
-- An old, partly blind eagle named Bertha broods her eggs on the Coldford Aerie's top landing. She is a second eagle, separate from [[Bertha]] of the Westward Aerie.
+- An old, partly blind eagle named Leartha broods her eggs on the Coldford Aerie's top landing. She is a second eagle, separate from [[Bertha]] of the Westward Aerie.
 
 

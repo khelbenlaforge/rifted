@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-27
 secret: false
 state: alive
-updated: 2026-09-29T00:13:09
+updated: 2026-11-10T13:56:19
 created: 2026-07-20T17:27:22
 ---
 
@@ -77,4 +77,8 @@ Found In:: [[Garnet District]]
 - The party killed two of his men in the Floor Test gauntlet; Corvin killed another of his own guards with a lightning bolt for showing the party mercy: "I pay good money for loyalty."
 
 Corvin is [[Tavia Orn]]'s actual superior and the Inner Circle seat controlling the Garnet/Sunstone territory the party has been operating in all session. *(Pre-Session 25: he had not yet met the party.)* If tonight's Low Flagon scene escalates past what Tavia and the floor can settle—the party pushes for more than a mid-level contact can grant, or gives the Claret a real reason to take them seriously as a threat or an asset—Corvin becomes the answer to that escalation, not a bar full of bruisers. That escalation happened: he met them in person in Session 25.
+
+## Session 5 Update (The JULYs)
+- His name came up in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]], where [[Ruairí]] overheard two men speak of word from him in Crystal City about procuring tiefling and aasimar blood, to begin the next day with isolated tieflings and aasimar in Coldford.
+- This was the first time the JULYs heard his name, and none of them has met him.
 

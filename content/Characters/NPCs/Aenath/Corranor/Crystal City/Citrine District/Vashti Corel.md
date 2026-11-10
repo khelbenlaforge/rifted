@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-07-27
 secret: false
 state: alive
-updated: 2026-09-29T00:36:21
+updated: 2026-11-10T13:56:19
 created: 2026-07-27T00:00
 ---
 

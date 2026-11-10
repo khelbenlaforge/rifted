@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-25
 secret: false
-updated: 2026-09-27T03:37:26
+updated: 2026-11-10T15:23:29
 created: 2026-09-26T19:22:30
 ---
 
@@ -23,7 +23,7 @@ A constant low tally-bell chime rolls out of the Tallyrows day and night, markin
 
 ## Current Status
 
-Petra Hale has quietly started tracking a string of "insurance" shakedowns hitting smaller Manifest House stalls—nothing citywide yet, no names, just a pattern on a corkboard only she looks at. Per [[The Claret]]'s own established pattern of moving into gaps left by organizations stretched too thin, the Claret has begun quietly testing a foothold in Coldford: new, local, low-visibility, unnamed on-screen so far. Nothing here confirms that to the party yet, and nothing connects it to any named Crystal City figure.
+The Houses' desks keep their usual rhythm of tally-bells and blind manifests, as Coldford's own note describes.
 
 ---
 Leader:: Unknown—no single head confirmed in play; the plural name and the Tallyrows' side-by-side intake desks suggest multiple houses rather than one central command, though this isn't stated outright anywhere sourced

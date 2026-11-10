@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-10-25T16:38:24
+updated: 2026-11-10T15:23:29
 ---
 
 # Petra Hale
@@ -46,7 +46,7 @@ Direct without being cold. She doesn't posture, doesn't oversell the branch's th
 
 ## Background
 
-Escort and freight-security work before the desk, the same trade [[Rhona Voss]] made at the Stormberg Wallwatch: field work first, an office second, never fully letting go of the field. Runs the Tallhouse—Coldford's Adamantine Guild branch—alone in every practical sense, thinner-staffed than the Wallwatch up in [[Stormberg]] and further from anyone who could spare her backup. Started quietly tracking a pattern of "insurance" shakedowns hitting small Manifest House stalls on her own time, off the clock, because nobody else currently can.
+Escort and freight-security work before the desk, the same trade [[Rhona Voss]] made at the Stormberg Wallwatch: field work first, an office second, never fully letting go of the field. Runs the Tallhouse—Coldford's Adamantine Guild branch—alone in every practical sense, thinner-staffed than the Wallwatch up in [[Stormberg]] and further from anyone who could spare her backup.
 
 ## Relationships
 
@@ -60,7 +60,7 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - Named the commodity risk Coldford poses to a changeling directly and suggested [[Ruairí]] change shape; he settled on a black cat, which stuck.
 - Brought them into her personal pocket dimension to rest.
 - Before testing a party this small, measured her own approach against [[Rhona Voss]]'s Wallwatch evaluations rather than improvise something harder.
-- Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and backed the party's Guild standing afterward regardless of outcome.
+- Ran the Guild-evaluation sparring match ([[Ruairí]] used Mind Spike, another PC used Guiding Bolt) and yielded when she had seen enough, backing the party's Guild standing.
 - First real point of contact for The JULYs' Adamantine Guild standing in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] (Session 3)—registers their already-worn brass bracers rather than issuing fresh ones, then tests them personally in the Tallhouse's pocket-dimension yard before backing them without reservation.
 
 ## Session 4 Update (The JULYs)
@@ -74,6 +74,9 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - On the sixth morning laid out the planes as she understands them and a theory that teleporting would need something from an outer plane, most easily the blood of tieflings and aasimar; said someone is buying a great deal of tiefling blood through [[The Claret]]; asked the party to warn any tieflings and aasimar they know and to watch for illegal spell reagents.
 - The Tallhouse is shielded, so no one outside can hear, and she spoke freely in it. Said the Fey had slipped to second priority in the city.
 - Is old friends with [[Tamsin Vell]] and argues with her constantly. [[Sister Margaret]] had not seen her in weeks.
+
+## Session 5 Update (The JULYs)
+- Had lunch at the Adamantine Guild with [[Kai]] and [[Odette Langford]], who kept Petra up to date on what they were doing; [[Ruairí]] did not.
 
 ## D&D 5e Stat Block
 

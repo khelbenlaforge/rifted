@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-19
 secret: false
 state: alive
-updated: 2026-10-25T16:44:00
+updated: 2026-11-10T15:12:20
 created: 2026-09-27T03:31:26
 ---
 
@@ -22,7 +22,7 @@ Subrace::
 Pronouns:: she/her
 Class::
 Location:: The Landgate, [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
-Affiliation::
+Affiliation:: House Colwyn (pays her wages), the Landgate
 Deity::
 
 ## Session 4 Update (The JULYs)

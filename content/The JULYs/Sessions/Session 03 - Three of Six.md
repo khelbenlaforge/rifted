@@ -7,7 +7,7 @@ campaign: Rifted
 session: 3
 date: 2026-09-19
 in-world-date: Feast of the Moon into 1st Nightal, Year 222 PA
-updated: 2026-09-26T04:13:05
+updated: 2026-11-10T15:12:20
 ---
 
 # Session 03—Three of Six
@@ -22,7 +22,7 @@ He woke into his own skin. No borrowed shape, no disguise pulled on out of habit
 
 The reunion, when it came, wasn't the first thing that happened to [[Kai]] and [[Odette Langford]]. They'd already found their own abandoned campfire on the road, Odette building snowmen while Kai got the fire properly going, a long rest taken before Ruairí's driver ever caught up to them. When he did, Kai barely looked up, filing the stranger away as someone he'd read properly later. Odette took one look at him, still pale and wraith-thin before the cat shape ever stuck, and went straight for it: "Have you heard of Foundation?" Ruairí's answer came right back: "Have you heard of manners?" Introductions, handled. The driver watched all of it like it explained nothing, the same baffled look he'd been wearing since the three of them first opened their mouths and he heard a language that meant nothing to him and somehow still landed as words.
 
-## The Road to Coldford, and the Tallhouse
+## The Road to Coldford, and the [[The Tallhouse|Tallhouse]]
 
 They left on the Feast of the Moon, the intercalary day that belongs to no month at all. The carriage was hired, not conjured: an older driver who knew the road well enough to stop narrating it, and his grandson asleep against the far wall for most of the crossing. Kai, Odette Langford, and Ruairí spent the ride in whatever quiet the wheels left them, broken once by the sky itself: past midnight, a spread of pale lights lifted from the southwest and wove themselves across the face of the rising moon until it stood full and covered, then peeled away and sank back out of sight. Odette watched it longer than the other two, unsettled by something about it she didn't try to name.
 
@@ -50,4 +50,4 @@ Ruairí found something else first. Reaching inward for whatever his patron actu
 
 Quiet didn't last. Petra Hale tested every new member in person before she'd back them, bracer or no bracer, and for a party this small she meant to run it the way she'd heard [[Rhona Voss]] ran hers up in Stormberg rather than improvise something harder. She came at the three of them with a javelin in one hand and a longsword in the other, never planted anywhere long enough to punish. This was a legendary fighter taking them seriously enough to actually try, and the room felt it: she stepped clear of blows that should have landed, cut the gap again before anyone reset their stance, and made the whole bout feel like a question she was still deciding the answer to.
 
-Ruairí opened with Mind Spike, three dice of psychic pressure aimed at cracking her focus, and she gave up only part of the hit rather than take it whole. Elsewhere in the same exchange, a bolt of guiding light found her before she could answer with steel of her own. She punished a wide miss with a strike back before its owner could recover, never staying still long enough to be caught twice by the same trick. When she'd seen enough, she called it, no grudge in how she ended it. Whatever the scoreline actually was, she was already backing their place in the Guild before the last blow had cooled.
+Ruairí opened with Mind Spike, three dice of psychic pressure aimed at cracking her focus, and she gave up only part of the hit rather than take it whole. Elsewhere in the same exchange, a bolt of guiding light found her before she could answer with steel of her own. She punished a wide miss with a strike back before its owner could recover, never staying still long enough to be caught twice by the same trick. When she'd seen enough, she called the match and yielded, no grudge in how she ended it. She was already backing their place in the Guild before the last blow had cooled.

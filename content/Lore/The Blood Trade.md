@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:44:27
-updated: 2026-10-25T16:00:56
+updated: 2026-11-10T14:03:38
 ---
 
 # The Blood Trade
@@ -42,5 +42,8 @@ Later and separately, [[Dessa Kestrel]] told the AUGs about [[The Claret]] opera
 - Petra's theory, given to the party on the sixth morning: teleporting would need something from an outer plane, most easily the blood of tieflings and aasimar; someone is buying a great deal of tiefling blood through [[The Claret]]; people are going missing.
 - [[Sister Margaret]], told in confidence by Odette, cast Commune, said there are tieflings in Coldford and that the tiefling community would be hit first, and plans to warn the temple's tieflings and aasimar.
 - Two of the party worked out that the barrier fits the silence of the gods, that their own crossing looks like a plane shift past it, that the donor's life force is probably part of such a spell, and that the shadow creatures that found them at arrival suggest teleportation can be tracked. This is the party's working theory, not a confirmed one.
+
+## Session 5 Update (The JULYs)
+- [[Ruairí]] overheard two men in a [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]] building plan to procure tiefling and aasimar blood, citing word from Corvin in Crystal City, starting the next day with isolated tieflings and aasimar in Coldford.
 
 

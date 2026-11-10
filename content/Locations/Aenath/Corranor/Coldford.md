@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-10-25T16:00:56
+updated: 2026-11-10T15:22:25
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -45,19 +45,29 @@ Pins: a. the Landgate (south-southwest gate), b. the Tallyrows (dockside), c. th
 
 ## Features
 
-- **The Landgate**—the city's southern checkpoint, the party's own way in: a plain double gate in grey stone, a raised guardwalk, no ornament except one worn crest carved into the arch (see DM Notes). Manned by rotating clerks who check headcount and rank markers, not names or papers.
+- **The Landgate**—the city's southern checkpoint: a plain double gate in grey stone, a raised guardwalk, no ornament except one worn crest carved into the arch (see DM Notes). Manned by rotating clerks who check headcount and rank markers, not names or papers.
 - **The Tallyrows**—the dockside district where the Manifest Houses run their intake desks side by side: open ledgers, tally slates, a bell rung for every closed count. "Blind manifests," cargo and passage logged by count and fee only, are Coldford's actual legal specialty, and the reason half of Corranor sends anything through here it would rather not have tracked.
-- **The Tallhouse**—the [[Adamantine Guild]]'s Coldford branch: three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still. Run out of one office by its Branch Leader; a contracts board out front, mostly escort and freight-security postings for the Manifest Houses.
+- **[[The Tallhouse]]**—the [[Adamantine Guild]]'s Coldford branch: three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still. Run out of one office by its Branch Leader; a contracts board out front, mostly escort and freight-security postings for the Manifest Houses.
 - **The harbor**—where the Coldmist actually lives, a grey smear visible past the rooftops from the Landgate, thick enough at the waterline to lose a ship's masts in it by midmorning.
+- **The Aerie**—the [[Azure Tamers]]' tall plastered tower near the gates, where rangers and druids raise griffins and giant eagles and fly people between cities for a price. Inside it there is no fog, only eleven stories of ladders and platforms up to a plank landing at the top. The Aerie keeps one bird in the sky at a time.
+- **The Old Streets**—narrow, wet lanes of shops, a court, the Wash Court and the seat of House Colwyn, close to the Tallhouse. [[Hester Crane]]'s bakery stands one lane below the Lamp Stair, and a walled, well-built castle with no name on it sits among the poor lanes.
+- **The harbour piers**—Fogbell Pier, where the bell pilots work; the Gull Steps fish market; the ferry stairs, where a buoy chain hangs snagged near the fifth step; the slip yard, where boats are repaired; and the Slack Room, where the dock workers drink. A painted line on the quay stones tells the dock workers where they are. Dock talk, which the bell pilot [[Dagny Rusk]] doubts, tells of a night bell with a pitch no pilot's bell has; the first time someone answered it by accident, four crew vanished.
+- **The faith district**—next door to the Tallhouse. It holds the [[Temple of Selûne]]; Coldford also has temples of [[Kelemvor]] and [[Lathander]] and none of Tyr.
 
 ## Residents
 
 - **[[Tamsin Vell]]**—Landgate officer; processes arrivals by headcount and rank marker, unbothered by anything she hasn't already seen twice.
-- **[[Petra Hale]]**—Branch Leader, the Tallhouse ([[Adamantine Guild]]'s Coldford branch); understaffed, unflinching, tracking a problem the branch can't officially spare anyone to chase.
+- **[[Petra Hale]]**—Branch Leader, the Tallhouse ([[Adamantine Guild]]'s Coldford branch); understaffed and unflinching.
+- **[[Hester Crane]]**—baker in the Old Streets, one lane below the Lamp Stair; keeps time by the tally-bells.
+- **[[Hobb Abbe]]**—old bell-keeper on a raised platform in the Tallyrows, who rings the tally-bells for a run of desks.
+- **[[Dagny Rusk]]**—bell pilot at Fogbell Pier, who knows every code that guides a ship to its dock.
+- **[[Torun]]**—Azure Tamers ranger at the Aerie, who tends the griffin Tiffy and the eagle Leartha.
+- **[[Sister Margaret]]**—aasimar cleric of Selûne at the [[Temple of Selûne]].
+- **[[Marl Dunning]]**—stallholder at the east end of the Tallyrows.
 
 ## Current Events
 
-On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark. Right now, that baseline holds, but [[Petra Hale]] has quietly started tracking a string of "insurance" shakedowns hitting smaller Manifest House stalls: nothing citywide yet, no names, just a pattern on a corkboard only she looks at.
+On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark.
 
 ## Scene Features
 
@@ -85,5 +95,10 @@ The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 P
 - A night bell with a pitch no pilot's bell has rings every few weeks; the first time someone answered it by accident, four crew vanished; a buoy chain hangs snagged near the fifth ferry step.
 - The faith district next to the Tallhouse holds the [[Temple of Selûne]], and Coldford also has temples of [[Kelemvor]] and [[Lathander]]; there is no Temple of Tyr.
 - Odette worked out that Coldford has no representative of the Council. Anyone outside the walls after a certain hour is not let back in.
+
+## Session 5 Update (The JULYs)
+- [[Ruairí]] found lookouts on many Coldford rooftops, helped by the fog.
+- The man with two studs entered a building with a sewer channel running under it, where Ruairí overheard that the hunt for isolated tieflings and aasimar would begin the next day.
+- Ruairí now has a rat that will bring him news of heavy activity in that building.
 
 
