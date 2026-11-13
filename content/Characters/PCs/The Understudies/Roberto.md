@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-10-01T18:16:01
+updated: 2026-11-13T01:12:49
 ---
 
 # Roberto
@@ -242,5 +242,10 @@ Playbook:: [[Roberto - Playbook]]
 - 12 Nightal, Year 222 PA, afternoon: proposed pop-up worship with free food and drink, and asked priests and paladins to attend the forum.
 - 12 Nightal, Year 222 PA, morning: asked Rhona whether she knew where Layla found the bracers; she did not. Insight 18 caught real warmth in her voice when she spoke of Garm.
 - 12 Nightal, Year 222 PA, evening: heard Rhona's briefing for the 13 Nightal meeting.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal, Year 222 PA: met Rhona Voss at the Wallwatch with Kili and Keith Poe to plan for the meeting; the details of the plan were not kept. Vestra Coln came in unannounced and listened, and the party won her over.
+- 13 Nightal, Year 222 PA, after the Wallwatch: talked with Sister Priya Dawnwell and convinced her that Quill shows favouritism in the shift locations he hands out to the Wall workers.
 
 

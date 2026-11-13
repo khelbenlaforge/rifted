@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-07-27
 secret: false
 state: alive
-updated: 2026-11-10T13:56:19
+updated: 2026-11-13T00:55:59
 created: 2026-07-20T17:27:22
 ---
 
@@ -81,4 +81,5 @@ Corvin is [[Tavia Orn]]'s actual superior and the Inner Circle seat controlling 
 ## Session 5 Update (The JULYs)
 - His name came up in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]], where [[Ruairí]] overheard two men speak of word from him in Crystal City about procuring tiefling and aasimar blood, to begin the next day with isolated tieflings and aasimar in Coldford.
 - This was the first time the JULYs heard his name, and none of them has met him.
+- It was said in the same talk that if Corvin had his head screwed on straight they could come into a lot of money.
 

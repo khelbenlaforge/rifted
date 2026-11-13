@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:04
-updated: 2026-10-25T14:30:00
+updated: 2026-11-13T12:17:58
 ---
 
 # Gond
@@ -59,13 +59,13 @@ In the Sanctum beneath the Sealed Door, Gond is depicted standing opposite [[Mys
 
 **The Making of Aenath:**
 
-Istishia reached him alone—the water that had followed him through the [[Astral Sea]] already thinning to mist, most of what he was still trailing behind in the procession. Gond let him come the rest of the way on his own. The hammer stayed resting head-down against the half-shaped slab—a craftsman's patience, waiting on material that wasn't ready yet.
+Istishia reached him alone—the water that had followed him through the [[Astral Sea]] already thinning to mist, most of what she was still trailing behind in the procession. Gond let her come the rest of the way on her own. The hammer stayed resting head-down against the half-shaped slab—a craftsman's patience, waiting on material that wasn't ready yet.
 
 *You are asking me to stop being a shape and start being a rule,* [[Istishia]] said, or something close enough to speech that it reached Gond as words. *Water finds whatever room it's given. I have never been anything else.*
 
 *Then don't stop,* Gond answered. *Keep finding room. Every vessel there'll ever be, all at once, from now on.*
 
-It was the only argument that could have worked on him, and the stillness between them said they both knew it before Istishia had finished asking. He met the hammer when it came down—the way a wave meets a stone it has already decided to wear smooth over centuries, rather than break against tonight.
+It was the only argument that could have worked on him, and the stillness between them said they both knew it before Istishia had finished asking. She met the hammer when it came down—the way a wave meets a stone it has already decided to wear smooth over centuries, rather than break against tonight.
 
 Gond kept working after Istishia had gone still inside the world's fabric. A smith doesn't lay the hammer down just because the hardest strike is finished—the forge consumes, and the smith gives back, for as long as the thing made still needs tending. By every account since, he has never once stopped.
 

@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:31
-updated: 2026-09-29T20:17:15
+updated: 2026-11-13T12:17:58
 ---
 
 # Istishia
@@ -32,9 +32,9 @@ Rank:: Greater
 Symbol:: Cresting wave
 
 ## Description
-Istishia is one of the four Primordials, an elemental power older and stranger than the gods who came after. He is the Lord of Water — not merely the substance, but the principle it embodies: patience, adaptability, persistence, and inevitable change. Water carves canyons given time, yet yields to the shape of any vessel it fills. So too does Istishia teach that true strength lies in flowing with circumstances rather than shattering against them.
+Istishia is one of the four Primordials, an elemental power older and stranger than the gods who came after. She is the Lord of Water — not merely the substance, but the principle it embodies: patience, adaptability, persistence, and inevitable change. Water carves canyons given time, yet yields to the shape of any vessel it fills. So too does Istishia teach that true strength lies in flowing with circumstances rather than shattering against them.
 
-His role during the Exodus is remembered by his faithful as a pivotal act that shaped the world of [[Aenath]], reinforcing his significance among the Primordials. Istishia does not demand fervour from his followers; he asks only that they observe, adapt, and understand the currents—both literal and metaphorical—that move through all things.
+Her role during the Exodus is remembered by her faithful as a pivotal act that shaped the world of [[Aenath]], reinforcing her significance among the Primordials. Istishia does not demand fervour from her followers; she asks only that they observe, adapt, and understand the currents—both literal and metaphorical—that move through all things.
 
 ## Tenets
 - Embrace patience and adaptability above all other virtues.
@@ -44,13 +44,13 @@ His role during the Exodus is remembered by his faithful as a pivotal act that s
 - Flow with your true nature; do not force yourself into a shape that does not fit.
 
 ## Followers & Influence
-Istishia's worship draws those attuned to water in all its forms: sailors, fishers, healers who work with tides and currents, and arcanists who blend divine and elemental magic. His faith is centred at the [[Tidecaller's Sanctuary]], where acolytes study divine water-related teachings and explore hybrid spells that merge arcane knowledge with elemental power.
+Istishia's worship draws those attuned to water in all its forms: sailors, fishers, healers who work with tides and currents, and arcanists who blend divine and elemental magic. Her faith is centred at the [[Tidecaller's Sanctuary]], where acolytes study divine water-related teachings and explore hybrid spells that merge arcane knowledge with elemental power.
 
 [[Tidecaller Marin Deepcurrent]], a blue-tinged water genasi whose skin bears wave-like patterns, serves as a prominent priest and mentor at the Sanctuary.
 
 ## Session 1 Update (The Door Kickers)
 
-Among his students is [[Gill Bates]], a devoted acolyte training in the Arcana Domain who embodies Istishia's principles of patience and adaptability in his dual calling as fisher and healer.
+Among her students is [[Gill Bates]], a devoted acolyte training in the Arcana Domain who embodies Istishia's principles of patience and adaptability in his dual calling as fisher and healer.
 
 ## Session 28 Update (The Door Kickers)
 

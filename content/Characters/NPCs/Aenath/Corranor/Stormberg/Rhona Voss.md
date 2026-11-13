@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-10-01T05:20:08
+updated: 2026-11-13T00:53:36
 created: 2026-08-24T17:22:42
 ---
 
@@ -170,4 +170,8 @@ When she told the party *I do not want to lose any more kids*, she meant it plai
 - Named: [[Vestra Coln]], [[Sir Verenthal|Quill]], [[Zarantha Verenthal]], [[Istar Silverlock|Istar]], [[Erky]], and [[Luks Borg]] (half-orc lieutenant). No one above Rhona Voss in the Guild is a Rifted.
 - Gossip: the Council wanted the Rifted for a hearing; [[Istar Silverlock|Istar]] told his people to stay out of politics and led a team north; other Rifted landed in [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]] and [[Westward]]; all groups wore Guild bracers; Garm is the Guild's patron on the Council.
 - Evening of 12 Nightal: Rhona Voss briefed the party for the 13 Nightal meeting. She will stand in for the Academy as well as the Guild. Her advice was to start with the facts, then push; [[Zarantha Verenthal]] works a room; [[Vestra Coln]] will be reserved; bring the Lathander chapel's support.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal: planned for the meeting with [[Roberto]], [[Kili]] and [[Keith Poe]] at the Wallwatch. [[Vestra Coln]] came in unannounced to listen, ostensibly because Rhona had not given her much detail when setting the meeting up. The meeting is on the 14th or 15th of Nightal, to be fixed at the table.
 

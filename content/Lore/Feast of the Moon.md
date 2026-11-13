@@ -10,7 +10,7 @@ tags:
 campaign: Rifted
 introduced: null
 secret: false
-updated: 2026-09-29T01:13:12
+updated: 2026-11-12T22:10:00
 created: 2026-08-07T15:38:12
 ---
 
@@ -56,5 +56,8 @@ Ahead of Session 26, two threads were ticking against it: [[Corvin Adder]] didn'
 ## Session 5 Update (The Understudies)
 
 **Corroborated from a second city (The Understudies, Session 5).** Three PCs' checks caught pieces of the mechanism: [[The Exodus/The Understudies/PCs/Roberto|Roberto]] (Religion, Insight) saw the translucent figures claiming names; [[The Exodus/The Understudies/PCs/Esca|Esca]] (Arcana) felt the divination-magic undercurrent; Keith (Perception) clocked the same southern light-surge the party had seen that same night, during Session 4. Two more things were seen: **two papers, out of the entire crowd's worth, never burned**, left unclaimed in the monks' hands—and a handful of the translucent figures were still standing, unclaimed, after the last name rose, gone only when the chant stopped.
+
+## Session 6 Update (The JULYs)
+- [[Odette Langford]] told [[Petra Hale]] that Shar's followers had once kidnapped priests to stop the Feast. Petra had heard that a high priest was taken in [[Crystal City]] on Feast night.
 
 

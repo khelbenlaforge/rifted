@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-11-10T15:23:29
+updated: 2026-11-12T23:48:54
 ---
 
 # Petra Hale
@@ -67,7 +67,7 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - Yielded at the end of the Guild-evaluation sparring match, bleeding from crossbow bolts after letting them press her for about half the fight, and told the party every one of them had earned their braces.
 - Admitted she should have listened to [[Rhona Voss]], who had run the same test on a party of five.
 - Watched what the party's trinkets did even when unused, warned that people would kill for them and that she was not sure she could take them away, and asked the party not to show them.
-- Said she would tell the whole city the three were Rifted and hoped the Guild's name would keep hands off them, and that she would send word to Lord Colwyn, to pass down to the [[The Manifest Houses|Manifest Houses]].
+- Said she would tell the whole city the three were Rifted and hoped the Guild's name would keep hands off them, and that she would send word to [[House Colwyn|Lord Colwyn]], to pass down to the [[The Manifest Houses|Manifest Houses]].
 - Offered a room, Guild protection and a silver a day (a gold at the end of the week), the Guild coming first. Showed a sending stone and promised the party one later.
 - Gave the date as 1 Nightal, put landfall within ten days or so, and said to grab something quickly if people cheer in the streets for no reason.
 - Gave her account of [[Layla]] and [[Garm]]. Wondered on the sixth morning whether Layla was really evil, since something did not tally.
@@ -77,6 +77,21 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 
 ## Session 5 Update (The JULYs)
 - Had lunch at the Adamantine Guild with [[Kai]] and [[Odette Langford]], who kept Petra up to date on what they were doing; [[Ruairí]] did not.
+- Had already given the party a sending stone, which Odette carries (DM ruling 2026-11-13). She still holds a sending stone to Crystal City (Session 6).
+
+## Session 6 Update (The JULYs)
+- When [[Ruairí]] came in filthy with a rat she shut the door at once; the Tallhouse is shielded.
+- She gave the three a short rest, then asked for everything they had.
+- Told Ruairí's account of the overheard plan, she said the Claret acts on orders from above, that lieutenants wear four studs and sit in [[Crystal City]], and that an order from a lieutenant would set the whole Claret presence in Coldford moving; she asked for a timeline and had none.
+- She said she holds one sending stone to [[Crystal City]], good for about 25 words a day, and could not guard every tiefling in Coldford.
+- [[Odette Langford]] told her of [[Sister Margaret]]'s divination, which put the tieflings first in line, and of the talk of [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]] and [[Shar]]. Petra had heard that a high priest was taken in [[Crystal City]] on Feast night. Asked whether tiefling priests exist, she thought so, though she knew of none in Coldford and none had gone missing.
+- Told of [[Kai]]'s harbour talk, an extra bell after midnight and whole boats going missing, and that [[Dagny Rusk|Dagny]] thought it a prank, she did not like it at all.
+- She listed what is open: the order from [[Crystal City]], the man in the good hat, the extra bell, someone in the Tallyrows and someone tied to the bell codes working with the Claret, and whatever [[House Colwyn|Lord Colwyn]] is doing.
+- [[Ruairí]] told her the building lies in the [[Backrows]], where even the city guard does not go.
+- She said she would watch for the rat at the Guild door.
+- A week in Coldford is ten days, so the party's pay was about three days off.
+- She took [[Deffra]] on for paperwork and was in good spirits by evening, her pile of papers much smaller.
+
 
 ## D&D 5e Stat Block
 

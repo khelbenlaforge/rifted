@@ -8,7 +8,7 @@ introduced: 2026-09-27
 secret: false
 state: alive
 created: 2026-10-01T05:00:00
-updated: 2026-10-01T17:46:23
+updated: 2026-11-13T00:53:35
 ---
 > [!infobox|right wikipedia]+
 > # Vestra Coln
@@ -20,7 +20,7 @@ updated: 2026-10-01T17:46:23
 > | Location | [[Stormberg]] |
 > | Affiliation | [[Magocracy of Corranor]] |
 
-Magister Vestra Coln, the Magocracy's representative in Stormberg; Rhona Voss expects her to be hands-off by policy and reserved at the 13 Nightal meeting.
+Magister Vestra Coln, the Magocracy's representative in Stormberg; Rhona Voss expects her to be hands-off by policy and reserved at the meeting on the 14th or 15th of Nightal.
 
 ## Personality
 
@@ -32,7 +32,7 @@ The council's representative in Stormberg, standing in for the [[Magocracy of Co
 
 ## Role in the Story
 
-Sits across from the party at the 13 Nightal meeting beside [[Zarantha Verenthal]] of [[House Verenthal]]: the council's eyes on the Wall.
+Sits across from the party at the meeting (on the 14th or 15th of Nightal, to be fixed at the table) beside [[Zarantha Verenthal]] of [[House Verenthal]]: the council's eyes on the Wall.
 
 ---
 Race:: Unknown
@@ -50,5 +50,12 @@ Deity:: Unknown
 - Rhona expects Vestra to be reserved and says she will not oppose anything that does not contradict her responsibilities, the people's safety.
 - Vestra will sit across from the party on 13 Nightal.
 - The party has not met her.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal: she came to the Wallwatch unannounced while the party planned with Rhona Voss, ostensibly because Rhona had not given her much detail when setting the meeting up. The party has now met her.
+- She listened politely and asked a few questions here and there; otherwise she communicated by body language.
+- The party won her over. She will never be openly on their side and has to stay neutral.
+- The meeting with her and Zarantha is on the 14th or 15th of Nightal, to be fixed at the table.
 
 

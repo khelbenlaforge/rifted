@@ -8,7 +8,7 @@ introduced: 2026-09-27
 secret: false
 state: alive
 created: 2026-10-01T05:00:00
-updated: 2026-10-01T17:46:23
+updated: 2026-11-13T00:44:51
 ---
 > [!infobox|right wikipedia]+
 > # Zarantha Verenthal
@@ -32,7 +32,7 @@ Heads [[House Verenthal]]'s Stormberg branch, a post she has held for at least f
 
 ## Role in the Story
 
-The nobles' voice across the table at the 13 Nightal meeting, and the one whose coin keeps the Wall standing.
+The nobles' voice across the table at the meeting (on the 14th or 15th of Nightal), and the one whose coin keeps the Wall standing.
 
 ---
 Race:: Unknown (fox-like)
@@ -49,5 +49,9 @@ Deity:: Unknown
 - She is [[Sir Verenthal|Quill]]'s aunt; Quill takes much of the flak for the house.
 - She will sit across from the party at the 13 Nightal meeting.
 - The party has not met her.
+
+## Session 10 Update (The Understudies)
+
+- The meeting with her and [[Vestra Coln]] is on the 14th or 15th of Nightal, to be fixed at the table. The party has not yet met her.
 
 

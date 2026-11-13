@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-11-10T15:22:25
+updated: 2026-11-13T00:12:47
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -16,16 +16,16 @@ created: 2026-06-25T00:00
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
-> | Type | Coastal port city |
+> | Type | Port city on the continent's east edge |
 > | Region | [[Corranor]] |
 
 Region:: [[Corranor]]
-Controlled By:: The Manifest Houses (trade, de facto); House Colwyn (nominal)
+Controlled By:: [[The Manifest Houses]] (trade, de facto); [[House Colwyn]] (nominal)
 Status:: active
 
 ## Description
 
-[[Crystal City]] puts on a show for visitors. [[Stormberg]] stands guard. Coldford processes. Grey stone, wet slate roofs, gulls working the tideline, the ordinary architecture of a city that grew up around a job instead of an idea. What sets it apart is the Coldmist: a low fog bank that never fully lifts off the harbor mouth, some residual chill left over from the Awakening two centuries back that nobody living can explain and nobody's bothered chasing down. Ships come and go through it half-blind, on schedule more than on sightline, and the city's whole temperament grew out of that single fact. Real inspection never developed here, because real inspection never worked here. What developed instead was speed, discretion, and a price list for both.
+[[Crystal City]] puts on a show for visitors. [[Stormberg]] stands guard. Coldford processes. Grey stone, wet slate roofs, gulls working the fish stalls, the ordinary architecture of a city that grew up around a job instead of an idea. What sets it apart is the Coldmist: a low fog bank that never fully lifts off the harbor, some residual chill left over from the Awakening two centuries back that nobody living can explain and nobody's bothered chasing down. The city sits on the east edge of a continent that leaves the sea on a clock, so between landfalls the harbor is a dry slope, boats propped on it and open air beyond. Ships and the fishing fleet work only at landfall. They come in through the fog half-blind, on bell and schedule more than on sightline, and the city's whole temperament grew out of that single fact. Real inspection never developed here, because real inspection never worked here. What developed instead was speed, discretion, and a price list for both.
 
 East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azure Tamers]] patrol network. A working port-and-freight hub, exactly what its own reputation says: a city that processes people quickly and asks questions later, which makes it a plausible drop point for anyone [[Layla]] wants moved fast and forgotten.
 
@@ -33,25 +33,27 @@ East-northeast of [[Crystal City]] and south of [[Stormberg]], within the [[Azur
 
 ![[Coldford City Map.png]]
 
-Generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=25&seed=1836854388&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=1&river=0&greens=1&hub=1&sea=1.9&name=Coldford&style=natural) (seed 1836854388, Natural palette). The sea lies east, which matches Coldford's spot on the [[Corranor]] coast. Canon-only: the generator's district names are hidden, and only places this note establishes are pinned.
+Generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=25&seed=1836854388&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=1&river=0&greens=1&hub=1&sea=1.9&name=Coldford&style=natural) (seed 1836854388). The link opens the same city in the generator's Natural palette; the picture here recolors it (wet slate roofs, mist for the water). The slope, the piers and the boats are drawn from the generator's data, and the pins were placed by hand against it. The map shows Coldford between landfalls: the hatched band on the east side is the dry harbor slope with boats propped on it, and the pale water beyond is open air. At landfall the sea comes up to the quay. Canon-only: the generator's district names are hidden, and only places that have been played are pinned.
 
-Style options: tinted districts, weathered hip roofs, trees and forests, alleys shown, landmark legend.
+Style options: tinted districts, weathered hip roofs, trees and forests, alleys shown, no generator pins.
 
-Pins: a. the Landgate (south-southwest gate), b. the Tallyrows (dockside), c. the harbor and Coldmist, d. the Tallhouse (placement unconfirmed). Places that exist only in session prep get pinned once played and added to this note. The walled citadel on the waterfront is a generator feature with no canon identity yet.
+Pins: a. the Landgate (south-southwest gate), b. the Tallyrows (dockside), c. the harbor and Coldmist, d. [[The Tallhouse]], e. the Aerie (near the gates), f. the [[Temple of Selûne]] (next to the Tallhouse), g. the unnamed castle, h. [[Hobb Abbe]]'s bell platform, i. [[Marl Dunning]]'s stall (east end of the Tallyrows), j. Fogbell Pier, k. the Slack Room, l. the Gull Steps fish market, m. the slip yard and ferry stairs, n. the Old Streets, o. the Lamp Stair, p. the Wash Court, q. [[Hester Crane]]'s bakery (one lane below the Lamp Stair). Where a place sits inside its district is approximate.
+
+The walled enclosure on the harbor side is the unnamed castle [[Torun]] pointed out among the poor lanes of the Old Streets. On this map those lanes run from the Tallhouse side across the middle of town to it. Places mentioned in play but never placed, such as Edric Prewitt's rooms and the Widow's Orchard, stay off the map until play establishes where they stand. Places that exist only in session prep get pinned once played and added to this note.
 
 ## Factions
 
-**House Colwyn** holds Coldford's seat by old charter, and that claim is most of what anyone at street level can confirm: the family crest sits over the Landgate, and locals defer to the name more out of habit than evidence. The [[The Manifest Houses|Manifest Houses]] running the Tallyrows are the ones actually moving Coldford's trade day to day—whether Colwyn's charter still means anything to what they do is a question nobody in the city has ever needed answered.
+**[[House Colwyn]]** holds Coldford's seat by old charter, and that claim is most of what anyone at street level can confirm: the family crest sits over the Landgate, and locals defer to the name more out of habit than evidence. The [[The Manifest Houses|Manifest Houses]] running the Tallyrows are the ones actually moving Coldford's trade day to day—whether Colwyn's charter still means anything to what they do is a question nobody in the city has ever needed answered.
 
 ## Features
 
 - **The Landgate**—the city's southern checkpoint: a plain double gate in grey stone, a raised guardwalk, no ornament except one worn crest carved into the arch (see DM Notes). Manned by rotating clerks who check headcount and rank markers, not names or papers.
-- **The Tallyrows**—the dockside district where the Manifest Houses run their intake desks side by side: open ledgers, tally slates, a bell rung for every closed count. "Blind manifests," cargo and passage logged by count and fee only, are Coldford's actual legal specialty, and the reason half of Corranor sends anything through here it would rather not have tracked.
+- **[[Tallyrows|The Tallyrows]]**—the dockside district where the Manifest Houses run their intake desks side by side: open ledgers, tally slates, a bell rung for every closed count. "Blind manifests," cargo and passage logged by count and fee only, are Coldford's actual legal specialty, and the reason half of Corranor sends anything through here it would rather not have tracked.
 - **[[The Tallhouse]]**—the [[Adamantine Guild]]'s Coldford branch: three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still. Run out of one office by its Branch Leader; a contracts board out front, mostly escort and freight-security postings for the Manifest Houses.
-- **The harbor**—where the Coldmist actually lives, a grey smear visible past the rooftops from the Landgate, thick enough at the waterline to lose a ship's masts in it by midmorning.
+- **The harbor**—where the Coldmist actually lives, a grey smear visible past the rooftops from the Landgate, east of the city. Between landfalls it is a dry slope with boats propped on it and miles of open air beyond. The mist hangs over the quay and the piers anyway, and at landfall it is thick enough to lose a ship's masts in by midmorning.
 - **The Aerie**—the [[Azure Tamers]]' tall plastered tower near the gates, where rangers and druids raise griffins and giant eagles and fly people between cities for a price. Inside it there is no fog, only eleven stories of ladders and platforms up to a plank landing at the top. The Aerie keeps one bird in the sky at a time.
-- **The Old Streets**—narrow, wet lanes of shops, a court, the Wash Court and the seat of House Colwyn, close to the Tallhouse. [[Hester Crane]]'s bakery stands one lane below the Lamp Stair, and a walled, well-built castle with no name on it sits among the poor lanes.
-- **The harbour piers**—Fogbell Pier, where the bell pilots work; the Gull Steps fish market; the ferry stairs, where a buoy chain hangs snagged near the fifth step; the slip yard, where boats are repaired; and the Slack Room, where the dock workers drink. A painted line on the quay stones tells the dock workers where they are. Dock talk, which the bell pilot [[Dagny Rusk]] doubts, tells of a night bell with a pitch no pilot's bell has; the first time someone answered it by accident, four crew vanished.
+- **The Old Streets**—narrow, wet lanes of shops, a court, the Wash Court and the seat of [[House Colwyn]], close to the Tallhouse. [[Hester Crane]]'s bakery stands one lane below the Lamp Stair, and a walled, well-built castle with no name on it sits among the poor lanes.
+- **The harbour piers**—[[Fogbell Pier]], where the bell pilots work; the Gull Steps fish market; the ferry stairs, where a buoy chain hangs snagged near the fifth step; the slip yard, where boats are repaired; and the Slack Room, where the dock workers drink. A painted line on the quay stones tells the dock workers where they are. Dock talk, which the bell pilot [[Dagny Rusk]] doubts, tells of a night bell with a pitch no pilot's bell has; the first time someone answered it by accident, four crew vanished.
 - **The faith district**—next door to the Tallhouse. It holds the [[Temple of Selûne]]; Coldford also has temples of [[Kelemvor]] and [[Lathander]] and none of Tyr.
 
 ## Residents
@@ -67,7 +69,7 @@ Pins: a. the Landgate (south-southwest gate), b. the Tallyrows (dockside), c. th
 
 ## Current Events
 
-On an ordinary day, ships and caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark.
+On an ordinary day, caravans get processed at pace, blind manifests logged, tally-bells marking the rhythm of the Tallyrows from dawn past dark. Ships join them only at landfall.
 
 ## Scene Features
 
@@ -78,7 +80,7 @@ On an ordinary day, ships and caravans get processed at pace, blind manifests lo
 - A constant low tally-bell chime rolls out of the Tallyrows, marking closed transactions, audible across the gate district day and night.
 
 ### Triggered Effects
-- *Processing rush.* When a ship or caravan comes in on schedule, the nearest Manifest House desk's queue swells fast and the street's noise doubles for a while, a visible surge the party can read the mood of.
+- *Processing rush.* When a ship comes in at landfall, or a caravan on schedule, the nearest Manifest House desk's queue swells fast and the street's noise doubles for a while, a visible surge the party can read the mood of.
 - *A quiet word.* When a PC lingers too long near a Manifest House stall without buying or moving on, someone nearby steers them off, direct enough to notice, vague enough to explain nothing.
 
 > *What does the party overhear in the crush of a processing rush, one loose word not meant for them?*
@@ -100,5 +102,12 @@ The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 P
 - [[Ruairí]] found lookouts on many Coldford rooftops, helped by the fog.
 - The man with two studs entered a building with a sewer channel running under it, where Ruairí overheard that the hunt for isolated tieflings and aasimar would begin the next day.
 - Ruairí now has a rat that will bring him news of heavy activity in that building.
+- The building stands in a district of abandoned and half-converted warehouses, which falls under an unspoken rule to stay out of Claret territory because of the possible danger.
+- The sewer channel under the building has an opening on one side that Ruairí used, and a way further down inside.
+
+## Session 6 Update (The JULYs)
+- The party named the [[Backrows]], behind the Tallyrows and away from the harbour, where even the city guard does not go.
+- The [[Old Bearded Man]] is a pub near the Manifest Houses, toward the back roads.
+- [[Marl Dunning]]'s stall is near the far end of a row of about twenty counters, far from [[Hobb Abbe]]'s platform.
 
 

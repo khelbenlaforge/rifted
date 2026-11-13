@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:44:27
-updated: 2026-11-10T14:03:38
+updated: 2026-11-13T00:55:59
 ---
 
 # The Blood Trade
@@ -45,5 +45,11 @@ Later and separately, [[Dessa Kestrel]] told the AUGs about [[The Claret]] opera
 
 ## Session 5 Update (The JULYs)
 - [[Ruairí]] overheard two men in a [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford|Coldford]] building plan to procure tiefling and aasimar blood, citing word from Corvin in Crystal City, starting the next day with isolated tieflings and aasimar in Coldford.
+- The men said that nobody there had ever asked for tiefling blood, and that someone wanted the goods very badly.
+
+## Session 6 Update (The JULYs)
+- [[Petra Hale]] took the order overheard in Coldford as coming from a lieutenant in [[Crystal City]].
+- [[Petra Hale]] thought tiefling priests exist, though she knew of none in Coldford, and none had gone missing.
+- [[Sister Margaret]] offered to shelter tieflings in the temple district and said she probably could send out the Moon Dancers; she has too few people to cover every tiefling.
 
 

@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-10-01T18:16:01
+updated: 2026-11-13T01:12:49
 ---
 
 # Kili
@@ -222,5 +222,9 @@ Playbook:: [[Kili - Playbook]]
 - 12 Nightal, Year 222 PA: stayed up with the Guild's ledgers.
 - 12 Nightal, Year 222 PA, afternoon: found The Salt Line and met Oskar Brell, a far-ground rigger; gave him a meal from Yenna's and a speakeasy coupon.
 - 12 Nightal, Year 222 PA, afternoon: Insight 17 suggested something might be in the works to bring Oskar nearer the city; Kili whispered that one Wall stretch is safe now and something is guarding it.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal, Year 222 PA: met Rhona Voss at the Wallwatch with Roberto and Keith Poe to plan for the meeting; the details of the plan were not kept. Vestra Coln came in unannounced and listened, and the party won her over.
 
 

@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-10-01T17:20:05
+updated: 2026-11-13T01:12:50
 ---
 
 # Keith Poe
@@ -247,5 +247,9 @@ Playbook:: [[Keith Poe - Playbook]]
 - 12 Nightal, Year 222 PA, afternoon: asked Sister Priya about Shar; the chapel keeps no records. Priya pointed him to Oghma's temple, Selûnites near Mystra's temple and the shrine complex where Shar has a shrine; Keith has not visited.
 - 12 Nightal, Year 222 PA: Keith now stands about five feet tall, up from four, after leveling to 4 in Session 8.
 - 11 Nightal, Year 222 PA: named why they were teleported as one of the party's big open questions.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal, Year 222 PA: met Rhona Voss at the Wallwatch with Roberto and Kili to plan for the meeting; the details of the plan were not kept. Vestra Coln came in unannounced and listened, and the party won her over.
 
 

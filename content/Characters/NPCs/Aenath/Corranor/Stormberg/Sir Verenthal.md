@@ -9,7 +9,7 @@ introduced: 2026-09-09
 secret: false
 state: alive
 created: 2026-09-11T00:00:00
-updated: 2026-10-01T17:46:23
+updated: 2026-11-13T00:34:40
 ---
 
 # Sir Verenthal
@@ -60,5 +60,9 @@ Confronted by [[Roberto]] over a Wall-gang pay and safety dispute, he agreed to 
 - 12 Nightal: [[Roberto]] visited his dock office (brine, lamp oil, roses, a coif like a duck's bill). The forum had slipped his mind. It is set for the end of Nightal in his own office, Roberto is organizing it, and Quill will send money to the Guild in advance for the work.
 - He said pay is a sum with limits: he can raise one line in a ledger by lowering another, so a hazard-pay case has to say which line to lower. His costs are equipment, meals at the Wall, transport, and administrators' salaries. He would hear suggestions in writing.
 - Roberto's Insight (28): he dislikes trouble, likes to be obeyed, likes money, stays cagey about why families in the city get the safer posts, and is irritated that the Guild takes noble commissions but answers to no one. His many servants looked well treated.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal: [[Roberto]] convinced [[Sister Priya Dawnwell]] that Quill shows favouritism in the shift locations he assigns to Wall workers.
 
 

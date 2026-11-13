@@ -10,7 +10,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-08-15
-updated: 2026-10-25T15:46:54
+updated: 2026-11-12T22:10:00
 ---
 
 # Selûne
@@ -79,5 +79,9 @@ Confirmed in play in Session 28: three other moons ([[Solinari]], [[Lunitari]], 
 - [[Sister Margaret]] told Odette that Selûne waxes full at the Feast of the Moon, that [[Sehanine Moonbow]], a sister of twilight, sends her own strength to guard her as she waxes, that Selûne is light in the dark and the oldest goddess, and that in the beginning there were only Selûne and her sister [[Shar]], the two sides of the moon.
 - Margaret said worshippers of Shar in Crystal City kidnapped a few priests at the Feast to try to stop it, and that Selûne is also a goddess of magic.
 - Coldford's [[Temple of Selûne]] has clerics and a sorcerer and no paladins. Petra prays to Selûne.
+
+## Session 6 Update (The JULYs)
+- [[Sister Margaret]] told [[Odette Langford]] that Selûne's voice has not been heard in about two hundred years, any more than any other god's, though her followers feel her strongly at each full moon.
+- Margaret said the scriptures call for vigilance in the waxing, because even a little shadow has influence and the faithful must stay alert in the dark even when the moon is bright.
 
 

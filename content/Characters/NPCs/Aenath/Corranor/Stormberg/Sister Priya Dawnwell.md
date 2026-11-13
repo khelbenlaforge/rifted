@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-10-01T05:12:08
+updated: 2026-11-13T00:34:15
 created: 2026-09-07T18:19:19
 ---
 
@@ -54,5 +54,9 @@ She also asked Rhona, in [[The Exodus/The Understudies/PCs/Roberto|Roberto]]'s h
 - Sister Priya Dawnwell told [[Keith Poe]] the chapel holds no records; she pointed him to [[Oghma]]'s temple for a library, to the [[Selûne]]-worshippers near [[Mystra]]'s temple, and to the shrine complex for gods without clergy.
 - Shar hearsay: the cult's main aim was to disrupt a ceremony in Crystal City, and the Rifted there saved a great lord from the attackers.
 - Temple story: [[Lathander]] was once married to the first goddess of luck; [[Shar]] killed her and she was split into [[Tymora]] and Beshaba; [[Lathander]] later took a goddess of growth as a new wife. The stories teach lessons more than they record facts. Visions of the gods happen, but no cleric has ever spoken to a god.
+
+## Session 10 Update (The Understudies)
+
+- 13 Nightal, after the Wallwatch planning: [[Roberto]] convinced her that [[Sir Verenthal|Quill]] shows favouritism in the shift locations he assigns to Wall workers.
 
 

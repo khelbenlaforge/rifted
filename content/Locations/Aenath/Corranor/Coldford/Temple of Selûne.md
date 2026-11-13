@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T15:45:00
-updated: 2026-11-10T15:13:22
+updated: 2026-11-11T17:20:00
 ---
 # Temple of Selûne
 
@@ -30,3 +30,7 @@ A temple of [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]] in Coldford's fa
 ## Session 4 Update (The JULYs)
 - A statue of the goddess stands inside. When [[Odette Langford]] walked in with bread, her body relaxed.
 - [[Sister Margaret]] set a Silence over the entrance and windows against eavesdroppers while she and Odette talked, and later lifted it from the door.
+
+## Session 6 Update (The JULYs)
+- On 8 Nightal [[Sister Margaret]] lifted [[Kai]]'s exhaustion there before the statue of the goddess.
+- She offered the temple district as a refuge for tieflings and spoke of sending out the Moon Dancers, a temple group named by Margaret, about which nothing more is known yet.

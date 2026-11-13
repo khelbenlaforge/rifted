@@ -6,20 +6,20 @@ tags:
 campaign: Rifted
 introduced: 2026-06-25
 secret: false
-updated: 2026-11-10T15:23:29
+updated: 2026-11-13T00:40:00
 created: 2026-09-26T19:22:30
 ---
 
 > [!infobox]
 > # The Manifest Houses
 
-The informal trade bloc that actually runs [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]'s docks. Real inspection never developed in a city built around the Coldmist's permanent harbor fog, and what grew up in its place was speed, discretion, and a price list for both. The Manifest Houses run the intake desks side by side in the **Tallyrows**, Coldford's dockside district: open ledgers, tally slates, a bell rung for every closed count. Their actual legal specialty is the "blind manifest"—cargo and passage logged by count and fee only, no names, no papers—the reason half of Corranor sends anything through Coldford it would rather not have tracked elsewhere.
+The informal trade bloc that actually runs [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]'s docks. Real inspection never developed in a city built around the Coldmist's permanent harbor fog, and what grew up in its place was speed, discretion, and a price list for both. The Manifest Houses run the intake desks side by side in the **[[Tallyrows]]**, Coldford's dockside district: open ledgers, tally slates, a bell rung for every closed count. Their actual legal specialty is the "blind manifest"—cargo and passage logged by count and fee only, no names, no papers—the reason half of Corranor sends anything through Coldford it would rather not have tracked elsewhere.
 
-Nominal authority over Coldford sits with **House Colwyn**, whose crest sits over the Landgate and whose name locals defer to out of habit more than evidence. Whether House Colwyn actually directs anything the Manifest Houses do is a genuinely open question, left that way on purpose.
+Nominal authority over Coldford sits with **[[House Colwyn]]**, whose crest sits over the Landgate and whose name locals defer to out of habit more than evidence. Whether House Colwyn actually directs anything the Manifest Houses do is a genuinely open question, left that way on purpose.
 
 ## Operations
 
-A constant low tally-bell chime rolls out of the Tallyrows day and night, marking closed transactions. When a ship or caravan comes in on schedule, the nearest desk's queue swells fast and the district's noise doubles for a while. The Houses also run contracts for freight-security and escort work, most of it posted through the [[Adamantine Guild]]'s Coldford branch (**the Tallhouse**), whose Branch Leader [[Petra Hale]] fields the postings.
+A constant low tally-bell chime rolls out of the Tallyrows day and night, marking closed transactions. When a ship comes in at landfall, or a caravan on schedule, the nearest desk's queue swells fast and the district's noise doubles for a while. The Houses also run contracts for freight-security and escort work, most of it posted through the [[Adamantine Guild]]'s Coldford branch (**the Tallhouse**), whose Branch Leader [[Petra Hale]] fields the postings.
 
 ## Current Status
 
@@ -27,11 +27,11 @@ The Houses' desks keep their usual rhythm of tally-bells and blind manifests, as
 
 ---
 Leader:: Unknown—no single head confirmed in play; the plural name and the Tallyrows' side-by-side intake desks suggest multiple houses rather than one central command, though this isn't stated outright anywhere sourced
-Headquarters:: The Tallyrows, [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
+Headquarters:: [[Tallyrows]], [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
 
 ## Session 4 Update (The JULYs)
 - Petra, [[Torun]] and [[Tamsin Vell]] each called the Houses the true power in Coldford; Torun said Lord Colwyn does not command as many soldiers as some of them.
 - Tamsin said the Houses grow rich stockpiling food and are not above smuggling spell reagents and rare ores.
-- [[Ruairí]] works a Tallyrows platform with the bell-keeper [[Hobb Abbe]]; the Houses noticed and wondered who the black cat was. Ruairí saw some clerks quietly let a tally pass and usher the next person in instead of signalling Hobb.
+- [[Ruairí]] works a Tallyrows platform with the bell-keeper [[Hobb Abbe]]; the Houses were curious why Hobb had let him help. Ruairí saw some clerks quietly let a tally pass and usher the next person in instead of signalling Hobb.
 
 
