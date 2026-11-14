@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 state: alive
-updated: 2026-11-12T22:10:00
+updated: 2026-11-14T01:45:14
 created: 2026-11-10T15:11:29
 ---
 > [!infobox|right wikipedia]+
@@ -45,7 +45,7 @@ Deity:: Unknown
 - Red chalk check marks keep returning to one leg of his counter after each visit, though he rubs them off.
 - He says he has been losing pieces of his memory. His daughter says he sometimes forgets to call the count; he denies it.
 - He said he does what his House tells him and would pay any price to get his daughter out of this.
-- [[Ruairí]]'s Detect Magic found memory alteration and suggestion cast more than once in that place; Ruairí has not told him.
+- [[Ruairí]]'s Detect Magic found memory alteration and suggestion cast more than once in that place; Ruairí has not told him. Ruairí's own read of the stall put the magic there at two or three days old, which lines up with when the man in the good hat first appeared.
 
 
 

@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-11-12T23:48:54
+updated: 2026-11-14T01:45:13
 ---
 
 # Petra Hale
@@ -80,9 +80,11 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - Had already given the party a sending stone, which Odette carries (DM ruling 2026-11-13). She still holds a sending stone to Crystal City (Session 6).
 
 ## Session 6 Update (The JULYs)
+- She had already sent out word that the three were not to be touched, though whether anyone listened was another matter.
 - When [[Ruairí]] came in filthy with a rat she shut the door at once; the Tallhouse is shielded.
 - She gave the three a short rest, then asked for everything they had.
-- Told Ruairí's account of the overheard plan, she said the Claret acts on orders from above, that lieutenants wear four studs and sit in [[Crystal City]], and that an order from a lieutenant would set the whole Claret presence in Coldford moving; she asked for a timeline and had none.
+- Told Ruairí's account of the overheard plan, she said the Claret acts on orders from above, that Corvin sits one step below its hidden leader, that the four lieutenants wear four studs each and sit in [[Crystal City]] with the other heads, and that an order from a lieutenant would set the whole Claret presence in Coldford moving; she asked for a timeline and had none.
+- After Ruairí named Corvin she leaned in and checked the room for scrying eyes, which sometimes show up as small balls of light, although a silence spell already covered the doors.
 - She said she holds one sending stone to [[Crystal City]], good for about 25 words a day, and could not guard every tiefling in Coldford.
 - [[Odette Langford]] told her of [[Sister Margaret]]'s divination, which put the tieflings first in line, and of the talk of [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]] and [[Shar]]. Petra had heard that a high priest was taken in [[Crystal City]] on Feast night. Asked whether tiefling priests exist, she thought so, though she knew of none in Coldford and none had gone missing.
 - Told of [[Kai]]'s harbour talk, an extra bell after midnight and whole boats going missing, and that [[Dagny Rusk|Dagny]] thought it a prank, she did not like it at all.

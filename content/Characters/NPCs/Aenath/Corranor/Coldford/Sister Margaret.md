@@ -1,13 +1,13 @@
 ---
 title: Sister Margaret
-aliases:
+aliases: null
 tags:
 - npc
 campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T15:45:00
-updated: 2026-11-12T21:03:47
+updated: 2026-11-14T01:49:31
 state: alive
 ---
 > [!infobox|right wikipedia]+
@@ -47,4 +47,4 @@ Deity:: [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]]
 - Told that the Claret was about to move on the tieflings, she said she probably could send out the Moon Dancers and could shelter people in the temple district, which is too crowded with temples for the Claret to work openly, but that she has too few people to reach every tiefling.
 - [[Odette Langford]] suggested starting with tieflings who live alone, work alone or walk at night, and Margaret agreed. Margaret said Sister Sildrell, who helps harbour workers at night, is known to everyone and unlikely to be attacked.
 - She suggested spreading the word through the washerwomen by Odette's bakery and set aside the Azure Tamers, whose Aerie is eleven stories up.
-- Hearing from [[Ruairí]] about memory alteration in the Tallyrows, she asked to have [[Marl Dunning]] brought to her quickly, since undoing it would take greater restoration, a fifth-level spell.
+- Hearing from [[Ruairí]] about memory alteration in the Tallyrows, she asked to have [[Marl Dunning]] brought to her quickly, since undoing it would take greater restoration, a fifth-level spell. Ruairí got the sense that she thought she could do something about it, but that the timeline was very important.
