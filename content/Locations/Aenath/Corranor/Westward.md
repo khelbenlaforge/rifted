@@ -8,14 +8,14 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-10-25T20:00:00
+updated: 2026-11-14T21:00:00
 ---
 
 # Westward
 
 > [!infobox|right wikipedia]+
 > # Westward
-> ![[zzz_Attachments/Westward.png]]
+> ![[zzz_Attachments/Westward City Map.png]]
 > ###### Quick Reference
 > | | |
 > | ---- | --- |
@@ -32,6 +32,14 @@ Status:: active
 Westward runs two seasons, and anyone who stays past a full cycle learns to tell them apart. At landfall, the river mouth fills with hulls. The [[The Ferry-Masters|ferry-masters]] work the crossing to [[Sunhold]]'s island while the strait still holds water, and the quays run loud enough to drown out the forge-hammers. Then the island lifts clear of the sea. What was harbor drains out from under the docks, and the river that fed it keeps flowing anyway, off the cliff and into open sky. No one has ever followed it down to see where it goes. The ferries sit beached on mud through the weeks between landfalls. The town doesn't stop; it just changes hands, foundries and charcoal smoke carrying the work the harbor can't.
 
 Come at it from the forest and the smoke finds you before the buildings do—charcoal camps working the Wildwood's edge, feeding foundries built up on slag heaps that predate anyone's grandparents. Westward is one of [[Corranor]]'s five named cities, by [[Layla]]'s own count, roughly a day's ride from the open scrubland to the south, with an [[Adamantine Guild]] branch run by [[Dessa Kestrel]].
+
+## Map
+
+The picture in the infobox is Westward's city map, drawn from [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=28&seed=1183&citadel=0&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=0&coast=1&river=1&greens=0&hub=0&sea=0&name=Westward) (seed 1183, no walls) and turned half a round so the sea lies to the west. It shows Westward between landfalls. The island rides aloft and the strait is drained to mud, with thirty-one hulls stranded on it. The river still runs across the flats and off the cliff edge into open air, and the sea far below lies under cloud with the island's shadow across it. At landfall the strait fills and the quays are loud again.
+
+Only places the party has been to or been told of are pinned, and where a place sits inside its district is approximate. The ridge walk starts at the Cliffwatch, on the coast south of the river, runs west to a stone lip over the strait, then south along the coast past the Deep Index and the Aerie to the stair-head gate, with the stair going down the cliff face.
+
+Pins: a. the Cliffwatch (the [[Adamantine Guild]] branch, [[Dessa Kestrel]]), b. the stone lip, c. [[The Deep Index]], d. the Aerie ([[Azure Tamers]]), e. the stair-head gate and the West Stair, f. the forges of Slagrow, g. [[Cinderstay]], h. the Ferry Quays (empty), i. the market district. The huge pit the forges stand around (Session 4) has no fixed spot and is not drawn. The pier count and the river's heading east are the generator's, not canon.
 
 ## Features
 
@@ -98,6 +106,6 @@ That's the noise the AUGs walked into first, delivered to the Cliffwatch's door 
 - [[Tavian Wick]] said Westward runs on two seasons, that the ferry-masters run the crossing to Sunhold and the foundry-owners turn the ore into goods, that neither can claim to be the stronger power because each needs the other, and that charcoal camps work the Wildwood outside the city.
 - [[Tavian Wick]] said Osric is the youngest son of [[House Ferrowe]] and favours neither side, and that the [[Corranor Council]]'s seven majors in [[Crystal City]] rule the continent.
 - A hill about half the height of Fuji lies half a day's walk north of the city; a squad of the city militia was training on it.
-- A tenement in a poorer street of laborers and cooks has no windows and a single door.
+- A tenement in a poorer street of laborers and cooks has four floors, a single door, and a window on the third floor.
 
 

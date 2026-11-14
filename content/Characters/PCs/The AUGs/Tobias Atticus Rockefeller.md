@@ -11,7 +11,7 @@ introduced: 2026-11-14
 secret: false
 state: alive
 created: 2026-11-14T09:40:00
-updated: 2026-11-14T11:41:58
+updated: 2026-11-14T21:00:00
 ---
 
 # Tobias Atticus Rockefeller
@@ -66,7 +66,7 @@ He wears [[Time Value]], the wristwatch he arrived with. At Level 3 it grants fo
 
 ## Key Events
 
-*Not yet played.*
+**Session 7—Nightal, Year 222 PA:** His cold open was played. Beau was teleported onto the top floor of Teira's tenement and remained unconscious for three rounds. He woke and joined Mike, Gregory and Makoto in killing the shadow creature, then received their briefing on the situation facing the Rifted.
 
 ## Relationships
 
@@ -205,7 +205,7 @@ Subrace::
 Class:: Warlock (Fiend Patron)
 Pronouns:: he/him
 Affiliation::
-Location::
+Location:: [[Westward]]
 Deity::
 
 

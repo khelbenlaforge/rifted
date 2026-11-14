@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-10-25T17:00:00
+updated: 2026-11-14T21:00:00
 ---
 
 # Mike Kanbei
@@ -56,6 +56,9 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 **Session 4—2 Nightal, Year 222 PA:** His pocket-dimension room had a wooden floor, a clear skylight, and a balcony with a single cherry-blossom tree growing out of the floor, with no scenery beyond it. In the Proving Floor fight he cast Faerie Fire on Dessa, later flanked her, and cast Dancing Lights when the darkness fell. Afterward he felt like Superman and was annoyed at a spear thrust he missed.
 
 **Session 6—from 4 Nightal, Year 222 PA:** Mike woke on the ledge beside the Ribs after 49 hours, 20 minutes and 37 seconds, remembering only a fiddle, cheering, and faces around a table. [[Dessa Kestrel]] told him to go up, and he met [[Gregory Yang]] on the switchback. During the rest he said he missed his cat and his family but little else of his old life, and that the fight in the underground temple was where the fire came back: he had people to protect and no longer felt alone. During downtime he worked at [[The Deep Index]] for the clerk [[Tavian Wick]] (Persuasion 8 against DC 5), then befriended him by performing while they worked. [[Tavian Wick]] told him he logs the name of whoever handles each item and reports to the [[Director of Antiquities]] every ten days; Mike told [[Tavian Wick]] a little of what he saw near the Ribs. He and [[Gregory Yang]] saw a door fragment's carving shift where [[Tavian Wick]] saw nothing, and spent a day describing the symbols to [[Tavian Wick]] (Perception 20). With [[Gregory Yang]] he tracked [[Rachel Tan]] north (Survival 21 against DC 15), passed his Constitution save against the cold (14), and warned [[Rachel Tan]] of [[The Claret]]. At a tiefling friend's door they found darkness and the smell of iron and blood.
+
+**Session 7—Nightal, Year 222 PA:** He and Gregory followed blood and drag marks up Teira's tenement stairs and found her unconscious on the second floor, which also held a hastily drawn teleportation circle and two dead Claret. Another Claret had already jumped from a third-floor window. Beau and Makoto had been teleported onto the top floor, where the shadow creature attacked Makoto first; Mike and Gregory were slow to notice until Makoto ran downstairs, then joined Beau and Makoto in killing it. Mike and Gregory briefed Beau and Makoto on the situation facing the Rifted and made investigation checks; the results were left for next session.
+
 ## Relationships
 
 Four strangers who owed him nothing followed a sound they couldn't see the source of, and that was apparently enough. Mike didn't say much beyond the fight itself — the same economy he once brought to a client call, minus the client. He led with his body instead of his words, and let the others decide for themselves whether that was trust or just efficiency.

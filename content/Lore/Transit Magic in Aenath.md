@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-09-26T14:43:40
-updated: 2026-09-29T18:18:38
+updated: 2026-11-14T21:00:00
 ---
 
 # Transit Magic in Aenath
@@ -42,4 +42,8 @@ When [[Perrin Quickquill]] redrew a version of that circle from Layla's own work
 
 [[Rhona Voss]] has told at least one party outright that it "has no business working in this world at all."
 
+
+## Session 7 Update (The AUGs)
+
+- A hastily and amateurishly drawn teleportation circle was found on the second floor of [[Teira]]'s tenement in [[Westward]] with two dead [[The Claret|Claret]]; two new Rifted, [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]], were teleported in and landed on the top floor.
 

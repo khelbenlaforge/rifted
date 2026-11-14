@@ -7,7 +7,7 @@ campaign: Rifted
 session: 6
 date: 2026-10-24
 in-world-date: from 4 Nightal, Year 222 PA
-updated: 2026-10-25T19:00:00
+updated: 2026-11-14T20:40:00
 ---
 
 # Session 06—Two of Five
@@ -78,7 +78,7 @@ Mike and Gregory told Rachel too about Layla: Layla had seemed to want to help t
 
 ## Teira's Door
 
-They walked the four hours back in the cold, Gregory making a torch. Teira's house was in a poorer street of laborers and cooks, where hammers rang on the Slagrow side and the street itself was empty. It was a two-storey tenement with no windows and a single door, housing three or four families. Nobody answered. Gregory called out that Rachel had sent them. A neighbour behind them told them to shut up, and lights came on nearby, though not in Teira's building. Gregory cast a protective spell on himself. The door opened onto darkness. The smell that came out was metallic, like iron and blood. The session ended there.
+They walked the four hours back in the cold, Gregory making a torch. Teira's house was in a poorer street of laborers and cooks, where hammers rang on the Slagrow side and the street itself was empty. It was a four-floor tenement with a single door, housing three or four families. Nobody answered. Gregory called out that Rachel had sent them. A neighbour behind them told them to shut up, and lights came on nearby, though not in Teira's building. Gregory cast a protective spell on himself. The door opened onto darkness. The smell that came out was metallic, like iron and blood. The session ended there.
 
 ## Related
 

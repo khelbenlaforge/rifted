@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T15:45:00
-updated: 2026-11-11T17:20:00
+updated: 2026-11-14T17:15:33
 ---
 # Temple of Selûne
 
@@ -25,7 +25,7 @@ Region:: [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]
 Controlled By:: Unknown
 Status:: active
 
-A temple of [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]] in Coldford's faith district, next door to [[The Tallhouse]] and tended by [[Sister Margaret]]; its clergy are clerics and a sorcerer, and it has no paladins.
+A temple of [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]] in Coldford's faith district, next door to [[The Tallhouse]] and tended by [[Sister Margaret]]; its clergy are clerics and a sorcerer, and it has no paladins. The temples of [[Kelemvor]] and [[Lathander]] stand near it in the same temple district (DM ruling 2026-11-14), so it is not the only temple in the district; their exact spots are not fixed.
 
 ## Session 4 Update (The JULYs)
 - A statue of the goddess stands inside. When [[Odette Langford]] walked in with bread, her body relaxed.

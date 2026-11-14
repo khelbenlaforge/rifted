@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-10-23T12:59:19
+updated: 2026-11-14T21:00:00
 ---
 
 # Shadow Creatures
@@ -64,3 +64,7 @@ Combat mechanics established:
 
 - Per [[Dessa Kestrel]], the shadows appeared at High Harvestide about three months ago. Her unconfirmed claim is that they come only after Rifted and where reality shifts (planar aberrations).
 
+
+## Session 7 Update (The AUGs)
+
+- A shadow creature attacked Makoto first after [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]] were teleported onto the top floor of [[Teira]]'s tenement in [[Westward]]; the four player characters killed it.

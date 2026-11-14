@@ -10,7 +10,7 @@ introduced: 2026-11-14
 secret: false
 state: alive
 created: 2026-11-14T09:46:52
-updated: 2026-11-14T11:24:01
+updated: 2026-11-14T21:00:00
 ---
 
 # Sumida Makoto
@@ -65,7 +65,7 @@ He carries [[黒衣の竿]]. At Level 3 it grants four abilities: Follow-Through
 
 ## Key Events
 
-*Not yet played.*
+**Session 7—Nightal, Year 222 PA:** His cold open was played. Makoto was teleported onto the top floor of Teira's tenement and remained unconscious for one round; the shadow creature attacked him first, and he ran downstairs. He joined Mike, Gregory and Beau in killing the creature, then received their briefing on the situation facing the Rifted.
 
 ## Relationships
 
@@ -82,7 +82,7 @@ Subrace::
 Class:: Sorcerer 2 / Bard 1
 Pronouns:: he/him
 Affiliation::
-Location::
+Location:: [[Westward]]
 Deity::
 
 
