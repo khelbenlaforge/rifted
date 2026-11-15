@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-10-25T21:53:40
+updated: 2026-11-15T18:40:00
 ---
 
 # Stormberg
@@ -36,18 +36,18 @@ Status:: active
 
 ![[Stormberg City Map.png]]
 
-Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=30&seed=1888&citadel=0&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=0&greens=0&hub=1&sea=0&name=Stormberg&style=natural) (seed 1888, Natural palette), rotated so the sea lies north; the [[Stormwall]] is drawn along the whole northern coast, standing just offshore so the piers and harbor water lie behind it, with the Stormgate gap at the harbor (the notes have ships queuing at the Stormgate and slipping in behind it; the gate is drawn as a bare gap, with no open-or-shut state), and the shanty towns and fields sit outside the city wall. Canon-only: the generator's district names are hidden, and only places with a confirmed position are pinned.
+Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=30&seed=1888&citadel=0&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=0&greens=0&hub=1&sea=0&name=Stormberg&style=natural) (seed 1888, Natural palette), rotated so the sea lies north. The map is drawn at an airborne moment (the island is up, the gates are shut): the [[Stormwall]] runs along the whole northern coast as dark obsidian over its earthen core, standing just offshore so the piers and harbor water lie behind it, with the Stormgate shut (two iron-banded leaves between the gate towers); the sea beyond it lies far below under storm cloud; a faint haze runs parallel to the Wall for the low drone that carries through the town; and the roofs and the fallow fields lie under snow. The storm sea, the snow and the ward-lights on the Wall's towers are inferred or artistic, not described in the notes. The shanty towns and fields sit outside the city wall. Canon-only: the generator's district names are hidden, and only places the party has been to or been told of are pinned; spots inside a district are approximate.
 
-Style options: tinted districts, weathered hip roofs, trees and forests, alleys shown. Decoration only, no canon weight: the Arctic's ice floes, the wall's buttresses and towers, the road label toward [[Crystal City]], and the area labels (shanty towns, fallow fields).
+Decoration only, no canon weight: the Arctic's ice floes, the wall's buttresses and towers, the road label toward [[Crystal City]], and the area labels (shanty towns, fallow fields, temple district).
 
-Pins: a. the Stormwall, b. the Stormgate (harbor), c. the Wallwatch (city center), d. [[Ward Works]] (beside the Wallwatch), e. [[The Salt Line]] (dockside, near the gates), f. Yenna's noodle stall (southeast, near the fields). Unpinned until their position is played: the [[The Dawnhearth|Dawnhearth]], the temple district, the pantheon pavilion, [[Sylnathe's Hollow]], [[The Gilded Loom]], and the Iron Seam workshops.
+Pins: a. the Stormwall, b. the Stormgate (harbor), c. the Wallwatch (three streets in from the outer gate; nearer the Aerie than the Ward Works), d. [[Ward Works]] (next door to the Wallwatch), e. [[The Salt Line]] (dockside, near the gates), f. Yenna's noodle stall (southeast, just outside the city wall; Wall workers eat there too), g. [[Stormberg Aerie]] (against the south western city wall; a DM direction, never visited in play), h. [[Sir Verenthal|Quill Verenthal]]'s office (by the docks), i. the outer gate (where the Crystal City road meets the city wall), j. the docks, k. the chapel of [[Lathander]] ([[The Dawnhearth|the Dawnhearth]]), l. the Temple of [[Kelemvor]] (beside the chapel), m. [[Kossuth]]'s shrine, n. [[Sylnathe's Hollow]], o. the [[Iron Seam Guild]] (near the Ward Works, nearer the Wall), p. [[The Gilded Loom]]. The spots for k to p and the temple district label are approximate, by DM direction: the notes name these places but give no spot. Unpinned: the pantheon pavilion and the shrine complex, the temples of Oghma, Selûne, Mystra and Ilmater (told, never visited), the breach in the Wall (half a day's ride along it, off this map), and the rooms inside the Wallwatch.
 
 ## Features
 
 - **The Wallwatch** — the [[Adamantine Guild]]'s Stormberg branch, first stop for anyone routed the Guild's way. Street-level office, contracts and postings on the wall; thinly staffed like every Guild post these days, but never empty.
 - **[[Stormwall]]**—the wall itself; see its own note for detail.
 - **[[Ward Works]]** — the Ether Scryer's Academy's Stormberg branch, a research/engineering annex near the Wallwatch at the city's center — not built into the Wall. Full note exists; see there for detail.
-- **[[Iron Seam Guild]]**—Stormberg's own artificer and engineer guild, working in conjunction with (not under) the Academy: they turn the materials it supplies into the Wall's lifts, scaffolding, and siege engines. No single workshop is pinned to a map spot yet; ask around the Wallwatch or Ward Works to find their people.
+- **[[Iron Seam Guild]]**—Stormberg's own artificer and engineer guild, working in conjunction with (not under) the Academy: they turn the materials it supplies into the Wall's lifts, scaffolding, and siege engines. On the map it is pinned approximately (o), near the Ward Works and nearer the Wall, by DM direction; ask around the Wallwatch or Ward Works to find their people.
 - **[[The Dawnhearth]]** — a plaster-and-column chapel of [[Lathander]] with a rising-sun symbol atop it (not a converted storefront), the first confirmed living Dawnbringer worship anywhere in Aenath. Tended by [[Sister Priya Dawnwell]].
 - **Stormberg's [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Crystal City/Diamond District/Temple of Kelemvor|Temple of Kelemvor]]** — a working temple; [[Brother Silas]] serves here.
 - **The pantheon pavilion** — an open, columned building housing statues and shrines to every deity without a temple of its own in Stormberg.

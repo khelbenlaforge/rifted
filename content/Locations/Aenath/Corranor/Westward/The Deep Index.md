@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T14:30:00
-updated: 2026-10-25T14:19:25
+updated: 2026-11-15T17:49:46
 ---
 # The Deep Index
 
@@ -19,10 +19,10 @@ updated: 2026-10-25T14:19:25
 > | ---- | --- |
 > | Type | Archive branch |
 > | Region | [[Westward]] |
-> | Access | Behind the columns at its entrance, built into the cliff |
+> | Access | Behind the columns at its entrance |
 
 Region:: [[Westward]]
 Controlled By:: [[Ether Scryer's Academy]]
 Status:: active
 
-The Ether Scryer's Academy's westernmost branch, built into the cliff in Westward behind columns at its entrance; its cool, dry, lamp-lit stone passage holds crates stencilled with dates and numbered drawers. Its clerk is [[Tavian Wick]], and reports go to the [[Director of Antiquities]] in [[Crystal City]] every ten days.
+The Ether Scryer's Academy's westernmost branch, in the town of Westward, behind columns at its entrance; its cool, dry, lamp-lit stone passage holds crates stencilled with dates and numbered drawers. Its clerk is [[Tavian Wick]], and reports go to the [[Director of Antiquities]] in [[Crystal City]] every ten days.

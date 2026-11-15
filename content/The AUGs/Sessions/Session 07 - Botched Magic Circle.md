@@ -1,5 +1,5 @@
 ---
-title: "Session 07—Botched Magic Circle"
+title: "Session 07\u2014Botched Magic Circle"
 tags:
 - session
 campaign: Rifted
@@ -7,7 +7,7 @@ session: 7
 date: 2026-11-14
 in-world-date: Nightal, Year 222 PA (the night Session 6 ended)
 created: 2026-11-14T20:00:00
-updated: 2026-11-14T20:00:00
+updated: 2026-11-15T16:23:54
 ---
 
 # Session 07—Botched Magic Circle
@@ -24,11 +24,11 @@ The second floor held a teleportation circle, drawn in a hurry and badly, and tw
 
 ## The Top Floor
 
-Above them, [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]] had landed on the top floor of the tenement after being teleported. Both were unconscious. The roll left Makoto out for one round and Beau out for three.
+[[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]], on the other hand, had landed on the top floor of the tenement after being teleported. Both were unconscious. The roll left Makoto out for one round and Beau out for three.
 
 ## The Shadow Creature
 
-Initiative was rolled. A shadow creature attacked Makoto first. Mike and Gregory, elsewhere in the house, were slow to notice until Makoto ran downstairs to get away from it. Beau came to and joined the fight, and the four of them killed the creature.
+Initiative was rolled. A shadow creature attacked Makoto first. Mike and Gregory were slow to notice until Makoto ran downstairs to get away from it. Beau came to and joined the fight, and the four of them killed the creature.
 
 ## Catching Up
 
@@ -39,5 +39,5 @@ Mike and Gregory gave Beau and Makoto a quick download of the situation all the 
 - [[Session 06 - Two of Five]]—the open door this session starts from
 - [[Teira]]—found unconscious on the second floor
 - [[The Claret]]—two dead on the second floor, a third out the window
-- [[Shadow Creatures]]—one killed on the top floors
+- [[Shadow Creatures]]—one killed by the four of them
 - [[Westward]]—the tenement where it all happened

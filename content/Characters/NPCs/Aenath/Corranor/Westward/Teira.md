@@ -8,7 +8,7 @@ introduced: 2026-10-24
 secret: false
 state: unconscious
 created: 2026-10-25T15:00:00
-updated: 2026-11-14T21:00:00
+updated: 2026-11-15T18:38:22
 ---
 > [!infobox|right wikipedia]+
 > # Teira
@@ -22,7 +22,7 @@ updated: 2026-11-14T21:00:00
 > | Affiliation | None known |
 > | Deity | Unknown |
 
-A tiefling living in a poorer street of laborers and cooks in [[Westward]], a friend of [[Rachel Tan]] who is part of the city's small tiefling community; she lives in a four-floor tenement shared by three or four families.
+A tiefling living in a poorer street of laborers and cooks in [[Westward]], a friend of [[Rachel Tan]] who is part of the city's small tiefling community; she lives in a four-floor tenement shared by three or four families. The tenement stands on the north bank of the river, just south of Slagrow, between the Deep Index and Cinderstay.
 
 ---
 Race:: Tiefling

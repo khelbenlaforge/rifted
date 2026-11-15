@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-11-14T21:00:00
+updated: 2026-11-15T17:49:36
 ---
 
 # Westward
@@ -35,20 +35,20 @@ Come at it from the forest and the smoke finds you before the buildings do—cha
 
 ## Map
 
-The picture in the infobox is Westward's city map, drawn from [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=28&seed=1183&citadel=0&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=0&coast=1&river=1&greens=0&hub=0&sea=0&name=Westward) (seed 1183, no walls) and turned half a round so the sea lies to the west. It shows Westward between landfalls. The island rides aloft and the strait is drained to mud, with thirty-one hulls stranded on it. The river still runs across the flats and off the cliff edge into open air, and the sea far below lies under cloud with the island's shadow across it. At landfall the strait fills and the quays are loud again.
+The picture in the infobox is Westward's city map, drawn from [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=28&seed=1183&citadel=0&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=0&coast=1&river=1&greens=0&hub=0&sea=0&name=Westward) (seed 1183, no walls) and turned half a round so the sea lies to the west. The town was then reworked by hand to fit what the party has seen: Slagrow is a large district in the middle-north of the town with a huge pit at its heart, and the long ridge along the south coast carries the Cliffwatch alone. It shows Westward between landfalls. The island rides aloft and the strait is drained to mud, with thirty-one hulls stranded on it. The river still runs across the flats and off the cliff edge into open air, and the sea far below lies under cloud with the island's shadow across it. At landfall the strait fills and the quays are loud again.
 
-Only places the party has been to or been told of are pinned, and where a place sits inside its district is approximate. The ridge walk starts at the Cliffwatch, on the coast south of the river, runs west to a stone lip over the strait, then south along the coast past the Deep Index and the Aerie to the stair-head gate, with the stair going down the cliff face.
+Only places the party has been to or been told of are pinned, and where a place sits inside its district is approximate, except [[Teira]]'s tenement, whose spot is settled. The Cliffwatch stands on a long ridge along the south coast, right at the edge over the harbour, with the stone lip on the ridge. The path runs west to the lip, then south to the stair-head gate, where the stair goes down the cliff face. The Deep Index is in the town, by the market. The Aerie stands in the middle of the town, north of the river, and the forges of Slagrow lie just east of it around the huge pit.
 
-Pins: a. the Cliffwatch (the [[Adamantine Guild]] branch, [[Dessa Kestrel]]), b. the stone lip, c. [[The Deep Index]], d. the Aerie ([[Azure Tamers]]), e. the stair-head gate and the West Stair, f. the forges of Slagrow, g. [[Cinderstay]], h. the Ferry Quays (empty), i. the market district. The huge pit the forges stand around (Session 4) has no fixed spot and is not drawn. The pier count and the river's heading east are the generator's, not canon.
+Pins: a. the Cliffwatch (the [[Adamantine Guild]] branch, [[Dessa Kestrel]]), b. the stone lip, c. the stair-head gate and the West Stair, d. [[The Deep Index]], e. the market district, f. [[Teira]]'s tenement, g. the Aerie ([[Azure Tamers]]), h. the forges of Slagrow, i. [[Cinderstay]], j. the Ferry Quays (empty). The pit (Session 4: the forges "stacked in order around a huge pit at the center") is drawn at the middle of Slagrow. The pier count and the river's heading east are the generator's, not canon.
 
 ## Features
 
 - **The Ferry Quays**—the river-mouth docks where the [[Sunhold]] crossing loads and unloads. [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Landfall]] turns them into the loudest place in town; the rest of the cycle, they're mudflats with boats resting on their sides.
-- **Slagrow**—the foundry district, built up over generations on slag heaps nobody remembers piling. The smiths here swear by [[Sunhold]] ore over anything a local vein could give, though nobody's ever traced exactly why the difference holds so true.
+- **Slagrow**—the foundry district, built up over generations on slag heaps nobody remembers piling, in the middle-north of the town around a huge pit. The smiths here swear by [[Sunhold]] ore over anything a local vein could give, though nobody's ever traced exactly why the difference holds so true.
 - **The Coalings**—burn camps scattered through the Wildwood, hauling cut fuel in by cart for every forge in Slagrow. The burners go a little further into the trees every year, and not all of them come back with a story anyone quite believes.
 - **The Cliffwatch**—the [[Adamantine Guild]]'s Westward branch, a squat stone post at the top of the western cliffs. Thinly staffed, like every Guild post these days, but it watches the stair below more closely than it watches the ledgers.
 - **The West Stair**—a switchback stair cut into the cliff face below the Cliffwatch, roped off and guarded, usable only while the island rides aloft, and the Guild has never said what's down there.
-- **[[The Deep Index]]**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex built into the cliff near the Cliffwatch. Separate charter from the Guild, same small town, so word travels between them regardless.
+- **[[The Deep Index]]**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex in the town, behind columns at its entrance. Separate charter from the Guild, same small town, so word travels between them regardless.
 
 ## Residents
 
@@ -96,7 +96,7 @@ That's the noise the AUGs walked into first, delivered to the Cliffwatch's door 
 ## Session 5 Update (The AUGs)
 
 - The party took a long rest in the Cliffwatch's pocket rooms, which give back whatever a guest pictures but let nothing be carried out.
-- The [[Azure Tamers]]' Aerie stands west across the city above the forges, the only wooden structure in [[Westward]].
+- The [[Azure Tamers]]' Aerie stands east across the city above the forges, the only wooden structure in [[Westward]].
 - From the Aerie's upper landing heat from lava pockets under the city rises in columns while wind from the ocean rushes in to replace it.
 - A huge spike stands in the middle of the continent, visible from the upper landing, and matches the one from the party's shared vision.
 - No Academy scholars or teachers are stationed in [[Westward]].
