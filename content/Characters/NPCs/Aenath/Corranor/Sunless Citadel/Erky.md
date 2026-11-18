@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T16:01
-updated: 2026-10-01T21:36:26
+updated: 2026-11-18T17:49:06
 ---
 
 # Erky
@@ -67,6 +67,8 @@ To the party before Session 18, he appeared to be a gnome of small stature with 
 
 In Session 18, [[Luks Borg]] and [[Elmindaria L'Thorian]] arrived and addressed him as guildmaster, revealing his full identity to the party.
 
+
+
 ## Session 7 Update (The Understudies)
 
 - First mention to that party: [[Rhona Voss]] named Erkaniel Timbers ("Erky") to [[Kili]] and [[Roberto]] as the [[Adamantine Guild]]'s founding guildmaster, based in [[Crystal City]], and author of its three tenets. Cross-party reference only; he did not appear in person.
@@ -93,4 +95,9 @@ Erky is being supervised and escorted by [[Luks Borg]] after the guildmaster rev
 - Morning of 6 Nightal: drew rude pictures on everyone's faces, reported something still spooking animals that he had turned away once without seeing it, drew a glowing glyph on [[Nanuk]]'s forearm so he could be called, then split into two and left to scout.
 - Came when Nanuk called through the glyph, within about ten seconds, to the owlbear kill-site; first time the party saw him serious: wept, swore, could not regenerate her beak and claws (said clerics of [[Ilmater]] or [[Lathander]] might), described a druid he had seen stirring predators to rage, said the beak and claws are among the hardest materials (potions, spell reagents, weapons, armor), called her "little sister", and voted to put her down. He left the choice to Nanuk and the party and then went after the culprit, angry.
 - Came again when Nanuk called through the glyph in the dawn fight on 7 Nightal: cast Banishment on the Chimera (DC 17, it vanished) and Healing Word on [[Shen]], and told Nanuk to take the druid. After the druid died he kicked and spat on the body, said "Never do that to my people again", and walked off furious. Whereabouts unknown.
+
+## Session 32 Update (The Door Kickers)
+
+- When he left the dead druid at the start of Session 32 he took [[Regius]], [[Shen]] and [[Sadiah Ispahani|Sadiah]] with him; the four are away from the party.
+- The four PCs who stayed weighed pressing the glyph on [[Nanuk]] before the colourless clearing and went on without calling him.
 

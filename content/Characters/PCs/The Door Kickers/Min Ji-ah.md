@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-10-23T11:54:38
+updated: 2026-11-18T17:49:06
 ---
 
 # Min Ji-ah
@@ -331,4 +331,13 @@ Min Ji-ah then visited [[Hucrele Manor]] in the [[Sapphire District]], where she
 - Cast Fire Bolt at [[Erky]] after the morning face-drawing prank and missed twice. Rode [[Torem]]'s griffon Bella to the kill-site alongside [[Terra]].
 - Named the clawed-paw cord as [[Malar]]'s with a Religion check; suggested asking the owlbear whether she wanted to live; argued that hunting the druid would be a red herring since the party already knew the way to [[Silvanus]]; urged [[Nanuk]] to reach out to him.
 - Checked the Weave during Nanuk's reach for Silvanus (steady), then used Chronal Shift to reroll his failed check, which succeeded.
+
+## Session 32
+
+- Ritual-cast Identify on [[The Cooled Hand|the glass hand]] and the belt cord and found five threads of energy tied to five other things.
+- Rolled Arcana 24 on the Misty Step family of pings and 21 on the Ethereal Plane.
+- Sent a 25-word Sending to [[Luks Borg]] about the Lavalith attack.
+- Sent a Mage Hand branch into the colourless clearing; it turned gray at 30 feet.
+- Failed an Intelligence save with a 12 and was irritated by the lack of meaning; no mechanical effect.
+- In the fight: Chromatic Orb in poison for 16, Misty Step behind cover, Tasha Mind Whip on a druid, a Counterspell (check 19) on a summoning of spectral animals, and a Fireball on a druid.
 

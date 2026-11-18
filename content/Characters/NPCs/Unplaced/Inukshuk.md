@@ -5,7 +5,7 @@ tags:
 campaign: Rifted
 secret: false
 state: alive
-updated: 2026-10-01T21:25:38
+updated: 2026-11-18T17:49:06
 created: 2026-09-11T16:54
 ---
 
@@ -55,3 +55,9 @@ Affiliation:: [[Nanuk|Nanuk]]
 - At the owlbear kill-site he read the light rising from her as her essence "bleeding out and going home", asked Nanuk whether he wanted to take the life force or let it go on its path, and helped Nanuk's reach for [[Silvanus]] that evening.
 - After the party chose a mercy kill he covered Nanuk's eyes with a paw and tore out her throat; afterward he said "little sister" was happy now and going home.
 - In the dawn fight the druid's lava hand struck him for 14 fire damage and knocked him prone; he got up and bit the druid, was dropped later, and Nanuk revived him by touch.
+
+## Session 32 Update (The Door Kickers)
+
+- Lost his sense of direction near the black pool.
+- Stayed beside [[Nanuk]] and took the Dodge action in the clearing fight.
+- Made one of the two opportunity attacks on the druid who walked toward the centre of the clearing.

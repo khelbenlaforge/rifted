@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:21
-updated: 2026-10-23T11:54:38
+updated: 2026-11-18T17:49:06
 ---
 
 # Gill Bates
@@ -287,4 +287,11 @@ Gill visited the [[Cyric]] shrine in the [[Diamond District]], which was lonely 
 - Prayed to [[Istishia]] and put Guidance and Enhance Ability on Nanuk during the reach for [[Silvanus]] (the sheet's prepared list has not been updated to show Enhance Ability).
 - Took the first watch.
 - In the dawn fight, made a spear strike with True Strike and used Spiritual Weapon as a glowing fish hook; it missed.
+
+## Session 32
+
+- Rolled Arcana 23 at the black pool and read it as a gate to another plane.
+- The stone he took from the Sacred Sea pulled along the groundwater toward the northwest.
+- Raised Spirit Guardians as fish with teeth (15 feet), which killed a wolf, and dashed forward to bring them down on a druid.
+- Struck a druid for 19.
 

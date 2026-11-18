@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-10-23T11:54:39
+updated: 2026-11-18T17:49:06
 ---
 
 # Terra
@@ -277,4 +277,13 @@ PassiveStealth:: 16
 - Insight read the owlbear as wanting to live with no idea how.
 - Stayed beside Nanuk during his reach for [[Silvanus]], praying to [[Mielikki]], which granted advantage and lowered the difficulty.
 - Was awake at once when the druid arrived at dawn; in the fight used a short sword with Dreadful Strikes, Misty Step, and Ensnaring Strike, which did not hold him.
+
+## Session 32
+
+- Rolled a natural 20 searching the dead druid and won [[The Cooled Hand|the glass hand]].
+- Looked through the [[Hollowstone]] and saw eight pings, one familiar from Misty Step.
+- Went into the black pool on a rope, froze in a roaring fog, rolled Religion 20 and escaped by casting Misty Step; the rope stayed inside.
+- Rolled a natural 20 on Animal Handling at the colourless clearing, so two wolves hesitated, and flew up a tree.
+- Used Absorb Elements against the lightning, killed two wolves one after another with arrows (Hail of Thorns and a lightning-charged arrow), and used Entangling Strike to restrain a druid, who broke free.
+- The glass hand kept the party standing against the rock push.
 

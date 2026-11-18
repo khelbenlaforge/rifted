@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-11-13T14:40:58
+updated: 2026-11-18T17:49:06
 created: 2026-06-20T00:00
 ---
 
@@ -36,5 +36,12 @@ Headquarters:: Wilderness, Corranor
 ## Session 7 Update (The Understudies)
 
 This history was learned by [[Keith Poe]] (The Understudies) through the [[Iron Seam Guild]] in Session 7.
+
+## Session 32 Update (The Door Kickers)
+
+- The dead druid killed at dawn on 7 Nightal was a Lavalith; the body matched what [[Ember]] had told the party, that some Lavaliths tattoo a flame on the underarm as a point of pride for the work they did to stabilize the world during the cataclysm.
+- [[Min Ji-ah]] sent a Sending to [[Luks Borg]] about the Lavalith attack; the reply said the Lavaliths keep to themselves and that even the Grove knew little more.
+- [[Ember]] is with the Lavaliths and could not be reached by message because she was underground.
+- Two more druids, with four wolves, ambushed the party at a colourless clearing north of the Road; nothing in play yet ties them to the Ancients.
 
 

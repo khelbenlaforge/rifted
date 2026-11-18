@@ -7,7 +7,7 @@ campaign: Rifted
 session: 5
 date: 2026-10-23
 in-world-date: 3 Nightal, Year 222 PA
-updated: 2026-10-24T01:22:10
+updated: 2026-11-15T19:58:14
 ---
 
 # Session 05—Three of Five
@@ -44,7 +44,7 @@ About eight hours later it was afternoon.
 
 ## The Aerie
 
-The tower stood west across the city above the forges, tall and the only thing in Westward made of wood. The lift rope ran down the outside, but the winch was on the platform, eleven stories up. Gregory checked it with his tinker's tools (25) and could not work it from the ground, and cutting the rope would bring everything down. Rachel's shout missed its DC. Risma's Message needed a target she could see. So Risma flew up.
+The tower stood east across the city above the forges, tall and the only thing in Westward made of wood. The lift rope ran down the outside, but the winch was on the platform, eleven stories up. Gregory checked it with his tinker's tools (25) and could not work it from the ground, and cutting the rope would bring everything down. Rachel's shout missed its DC. Risma's Message needed a target she could see. So Risma flew up.
 
 About seven griffins were perched at the top, eagle in front and mostly lion or tiger behind, each bigger than a horse. A woman in a harness was writing in a ledger, a long bow on her back, with tribal markings on her face and pointed ears. This was Pell, and she was glad of any excuse to put down her quill. A man named Odo was bent over the winch, furious. Risma said she was with the [[Adamantine Guild]], and Pell asked after Dessa. Risma asked about the lift. Odo, still at the winch, said he had asked for help ten times, he was no engineer, and without help it would stay broken. Pell pointed her at the stairs. Risma said she had an engineer downstairs and went down to tell him.
 

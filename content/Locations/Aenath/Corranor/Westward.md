@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-11-15T17:49:36
+updated: 2026-11-15T18:56:56
 ---
 
 # Westward
@@ -37,7 +37,7 @@ Come at it from the forest and the smoke finds you before the buildings do—cha
 
 The picture in the infobox is Westward's city map, drawn from [Watabou's Medieval Fantasy City Generator](https://watabou.github.io/city-generator/?size=28&seed=1183&citadel=0&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=0&coast=1&river=1&greens=0&hub=0&sea=0&name=Westward) (seed 1183, no walls) and turned half a round so the sea lies to the west. The town was then reworked by hand to fit what the party has seen: Slagrow is a large district in the middle-north of the town with a huge pit at its heart, and the long ridge along the south coast carries the Cliffwatch alone. It shows Westward between landfalls. The island rides aloft and the strait is drained to mud, with thirty-one hulls stranded on it. The river still runs across the flats and off the cliff edge into open air, and the sea far below lies under cloud with the island's shadow across it. At landfall the strait fills and the quays are loud again.
 
-Only places the party has been to or been told of are pinned, and where a place sits inside its district is approximate, except [[Teira]]'s tenement, whose spot is settled. The Cliffwatch stands on a long ridge along the south coast, right at the edge over the harbour, with the stone lip on the ridge. The path runs west to the lip, then south to the stair-head gate, where the stair goes down the cliff face. The Deep Index is in the town, by the market. The Aerie stands in the middle of the town, north of the river, and the forges of Slagrow lie just east of it around the huge pit.
+Only places the party has been to or been told of are pinned, and where a place sits inside its district is approximate, except [[Teira]]'s tenement, whose spot is settled. The Cliffwatch stands on a long ridge along the south coast, right at the edge over the harbour, with the stone lip on the ridge just south-south-west of it. The path leads out to the lip, then runs south along the coast to the stair-head gate, where the stair goes down the cliff face. The Deep Index is in the town, by the market. The Aerie stands in the middle of the town, north of the river, and the forges of Slagrow lie just east of it around the huge pit.
 
 Pins: a. the Cliffwatch (the [[Adamantine Guild]] branch, [[Dessa Kestrel]]), b. the stone lip, c. the stair-head gate and the West Stair, d. [[The Deep Index]], e. the market district, f. [[Teira]]'s tenement, g. the Aerie ([[Azure Tamers]]), h. the forges of Slagrow, i. [[Cinderstay]], j. the Ferry Quays (empty). The pit (Session 4: the forges "stacked in order around a huge pit at the center") is drawn at the middle of Slagrow. The pier count and the river's heading east are the generator's, not canon.
 

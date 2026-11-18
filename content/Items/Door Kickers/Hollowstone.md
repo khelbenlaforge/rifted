@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-07-14T19:39
-updated: 2026-09-26T17:35:51
+updated: 2026-11-18T17:49:06
 ---
 > [!infobox]
 > # Hollowstone
@@ -87,5 +87,10 @@ Owner:: [[Terra]]
 Origin:: Cerro Gordo Mines, California (carried into Aenath)
 Attunement:: Required ([[Terra]] only)
 Found At:: Cerro Gordo Mines, California (carried into [[Aenath]])
+
+## Session 32 Update (The Door Kickers)
+
+- [[Terra]] looked through the bore: eight pings in the northwest, each a wash from a huge area, one familiar from Misty Step.
+- Near the black pool it gave a huge ping of ethereal energy.
 
 

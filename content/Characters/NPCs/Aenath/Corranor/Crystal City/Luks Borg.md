@@ -10,7 +10,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-03-16T04:22
-updated: 2026-09-29T00:13:36
+updated: 2026-11-18T17:49:06
 ---
 
 # Luks Borg
@@ -59,6 +59,11 @@ Deity:: Unknown
 He travelled with the party aboard the [[Vanny Faire]] to establish the Guild's presence in [[Sunhold]], where he met with [[Harbin Wester]] and took charge of setting up the Guild post.
 
 - Mentor to [[Jonathan Jordan]] and other Guild recruits
+
+## Session 32 Update (The Door Kickers)
+
+- Received a 25-word Sending from [[Min Ji-ah]] saying the party had been attacked by a Lavalith, north of Crystal City.
+- The reply said the Lavaliths keep to themselves.
 
 ## Character Sheet
 

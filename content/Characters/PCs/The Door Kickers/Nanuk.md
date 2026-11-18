@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-05-15T19:59
-updated: 2026-10-01T21:36:27
+updated: 2026-11-18T17:49:06
 ---
 
 # Nanuk
@@ -265,4 +265,12 @@ He woke sure it wasn't a dream. Nobody at the table needed convincing — the gr
 - Called [[Erky]] through the glyph at the kill-site and again during the dawn fight; chose mercy, said goodbye as [[Inukshuk]] killed her, and felt part of her spirit seep into him, strengthening his pull toward [[Silvanus]] so checks leaning on it are made with advantage.
 - Said, "We cannot beat [[Malar]] by acting like [[Malar]]." Reached [[Silvanus]] through a fir that evening, had a long exchange, relayed it all to the party, and took the last watch with [[Inukshuk]].
 - Killed the barefoot druid at dawn, cutting his Malar cord and silencing him with an arrow, then stabbing him through the skull with an arrow; said, "Tell Malar I say hello."
+
+## Session 32
+
+- Used Speech of Beast and Leaf on the wolves, telling them they were being misled and used as weapons; his roll of 16 was not enough.
+- Kept the dodge beside a tree with [[Inukshuk]].
+- Used Absorb Elements against the lightning and killed a wolf with a 16-damage arrow.
+- Holds the belt from the dead druid.
+- Can feel his Hunter Mark link to a druid about 500 feet away after the druids escaped by Tree Stride.
 
