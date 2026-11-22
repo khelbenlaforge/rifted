@@ -7,7 +7,7 @@ campaign: Rifted
 date: 2026-11-13
 secret: false
 created: 2026-11-18T16:50:00
-updated: 2026-11-18T17:27:09
+updated: 2026-11-18T23:59:09
 ---
 
 # Session 32 - A Place With No Colour
@@ -98,7 +98,7 @@ Min Ji-ah's Chromatic Orb in poison hit the wolf nearest Gill for 16, and she Mi
 
 Then one of the druids walked out from behind a tree in the open, called "Ahoy, friends," stepped to stand behind the wolves and compelled them in a guttural, hissing voice. He brought down a column of lightning on all four of them. Everyone took 12, and Terra and Nanuk used Absorb Elements to gain resistance. Both wolves in front missed.
 
-Terra answered with arrows, one with lightning from her Absorb Elements and a Hail of Thorns, and put two wolves down one after another. Nanuk's arrow for 16 finished another. A small voice asked why they had to go and kill it, and the wolves dissolved into mist. Soon all four were dead.
+Terra answered with arrows, one with lightning from her Absorb Elements and a Hail of Thorns, and the wolves began to fall. Nanuk's arrow for 16 finished one. A small voice asked why they had to go and kill it, and the wolves dissolved into mist. Soon all four were dead.
 
 Min Ji-ah cast Tasha's Mind Whip on a druid and then, when a druid began a summoning of spectral animals, Counterspelled it with an Intelligence check of 19 against a high-level spell. The action was wasted.
 

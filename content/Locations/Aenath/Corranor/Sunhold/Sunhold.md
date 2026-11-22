@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T02:48
-updated: 2026-09-27T03:45:44
+updated: 2026-11-22T16:05:52
 ---
 
 # Sunhold
@@ -63,5 +63,8 @@ The crossing itself runs forty to sixty miles. The marsh swallows sound and blur
 ## Current Events
 
 The settlement is rife with tension. [[Keldara Hucrele]] publicly confronted [[Harbin Wester]] over his inaction regarding her missing children, [[Sharwyn Hucrele]] and [[Talgen Hucrele Jr.]], who disappeared roughly fourteen days ago after joining a [[The Exodus/00_My Notes/Factions/Corranor/Durbuluk Goblins|Goblin Merchants]] delegation south. The party arrived, was briefed by the council, and accepted the mission to rescue the Hucrele scions. Their trail led south through the marshes and eventually to the [[Sunless Citadel]] — a ruined fortress far south of the settlement.
+
+## Session 8 Update (The AUGs)
+- Per [[Tavian Wick|Tavian]], a new settlement in an extinct caldera under a large island to the west; dwarves mine some of the best ore found in centuries, and [[Westward]] is the one getting it; the island's other coasts are cliffs, so the only landfall there is at Sunhold, and Westward can cross straight to it.
 
 

@@ -8,7 +8,7 @@ introduced: 2026-10-24
 secret: false
 state: unconscious
 created: 2026-10-25T15:00:00
-updated: 2026-11-15T18:38:22
+updated: 2026-11-22T17:40:00
 ---
 > [!infobox|right wikipedia]+
 > # Teira
@@ -36,3 +36,7 @@ Deity:: Unknown
 ## Session 7 Update (The AUGs)
 
 - [[Mike Kanbei]] and [[Gregory Yang]] followed blood and drag marks up the stairs of her tenement and found her unconscious on the second floor, which also held a hastily and amateurishly drawn teleportation circle and two dead [[The Claret|Claret]]; another Claret had already jumped out of a third-floor window; she was still unconscious when the session ended, and the party plans to carry her to the [[Adamantine Guild|Guild]] next session.
+
+## Session 8 Update (The AUGs)
+- [[Mike Kanbei|Mike]], [[Gregory Yang|Gregory]], [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]] carried her to the [[Adamantine Guild]]'s house; [[Dessa Kestrel|Dessa]] had a pallet set out for her and said she would wake with time. No wake scene was played.
+- Gregory told Dessa her blood had been used to power the circle.

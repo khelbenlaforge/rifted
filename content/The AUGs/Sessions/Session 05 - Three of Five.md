@@ -7,7 +7,7 @@ campaign: Rifted
 session: 5
 date: 2026-10-23
 in-world-date: 3 Nightal, Year 222 PA
-updated: 2026-11-15T19:58:14
+updated: 2026-11-22T15:55:17
 ---
 
 # Session 05—Three of Five
@@ -68,7 +68,7 @@ It said strange that a wayward soul should come back without memory of its contr
 
 Pell, seeing how Risma's wings sat, offered her a joyride up to the second landing, where the wind was best for teaching new hatchlings to glide. From the top they could see a huge spike standing in the middle of the continent, thousands of feet high, the one from their shared vision. When Risma concentrated on it, her spectacles settled onto her face, which surprised Pell. Pell took Risma's hand and held it over the eastern side of the tower, where heat from lava pockets under the city rose in columns, and then over the western side, where wind from the ocean blew in to replace it. She told Risma to turn her wings in, let the warm column take her, and straighten them slowly without flapping.
 
-Beside them sat Bertha, a giant eagle the size of a house, the only creature on that landing, with two or three huge eggs tucked under her.
+Beside them sat Bertha, a roc the size of a house, the only creature on that landing, with two or three huge eggs tucked under her.
 
 Risma failed her first glide. On the second try the dice failed her again, but Bertha, exasperated, beat her enormous wings and lifted the warm air beneath her. Risma decided to stay with the Azure Tamers. She flew off into the sky with Pell riding Bertha, and her orientation began.
 

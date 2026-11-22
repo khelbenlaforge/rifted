@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-11-14T21:00:00
+updated: 2026-11-22T16:10:00
 ---
 
 # Mike Kanbei
@@ -58,6 +58,8 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 **Session 6—from 4 Nightal, Year 222 PA:** Mike woke on the ledge beside the Ribs after 49 hours, 20 minutes and 37 seconds, remembering only a fiddle, cheering, and faces around a table. [[Dessa Kestrel]] told him to go up, and he met [[Gregory Yang]] on the switchback. During the rest he said he missed his cat and his family but little else of his old life, and that the fight in the underground temple was where the fire came back: he had people to protect and no longer felt alone. During downtime he worked at [[The Deep Index]] for the clerk [[Tavian Wick]] (Persuasion 8 against DC 5), then befriended him by performing while they worked. [[Tavian Wick]] told him he logs the name of whoever handles each item and reports to the [[Director of Antiquities]] every ten days; Mike told [[Tavian Wick]] a little of what he saw near the Ribs. He and [[Gregory Yang]] saw a door fragment's carving shift where [[Tavian Wick]] saw nothing, and spent a day describing the symbols to [[Tavian Wick]] (Perception 20). With [[Gregory Yang]] he tracked [[Rachel Tan]] north (Survival 21 against DC 15), passed his Constitution save against the cold (14), and warned [[Rachel Tan]] of [[The Claret]]. At a tiefling friend's door they found darkness and the smell of iron and blood.
 
 **Session 7—Nightal, Year 222 PA:** He and Gregory followed blood and drag marks up Teira's tenement stairs and found her unconscious on the second floor, which also held a hastily drawn teleportation circle and two dead Claret. Another Claret had already jumped from a third-floor window. Beau and Makoto had been teleported onto the top floor, where the shadow creature attacked Makoto first; Mike and Gregory were slow to notice until Makoto ran downstairs, then joined Beau and Makoto in killing it. Mike and Gregory briefed Beau and Makoto on the situation facing the Rifted and made investigation checks; the results were left for next session.
+
+**Session 8—10 Nightal, Year 222 PA:** Carried [[Teira]] to the Guild with the others. Showed [[Dessa Kestrel|Dessa]] the two [[The Claret|Claret]] studs and asked how the ranks work. Went through the black oval into the pocket rooms; his room was a Japanese room with cherry blossoms and wooden flooring. Next morning went to the [[The Deep Index|Deep Index]] to see [[Tavian Wick|Tavian]] and brought [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]]. Asked Tavian for a direct sending stone to the [[Director of Antiquities]], saying he would tell what they know to no one else. Wanted to explore the [[The Old Forge|Old Forge]] shaft; said he would not go down without information, and that the schematics might show the traps. Lost a little over two days at the [[The Keel|Keel]].
 
 ## Relationships
 

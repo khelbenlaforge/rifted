@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-08-26
 secret: false
 state: alive
-updated: 2026-10-24T01:45:35
+updated: 2026-11-22T15:55:30
 created: 2026-08-26T17:33:32
 ---
 
@@ -26,7 +26,7 @@ created: 2026-08-26T17:33:32
 
 ## Description
 
-She kept the spectacles. Narrow, rectangular, a yellow cord draping down over feathers where it used to drape over collarbone—one of the few things about her that crossed over unchanged. Everything else rearranged itself around a stern, unimpressed set to her face that was always there, and now simply has more of her to sit on. Brown plumage gone dark and dense at the crown, greying at the edges the way her hair used to. Wings folded close and tidy against her back. She has used them now, off the Aerie's landing on a warm updraft, with a giant eagle's help. Her feet make no sound crossing a room, which she has not yet stopped finding unsettling.
+She kept the spectacles. Narrow, rectangular, a yellow cord draping down over feathers where it used to drape over collarbone—one of the few things about her that crossed over unchanged. Everything else rearranged itself around a stern, unimpressed set to her face that was always there, and now simply has more of her to sit on. Brown plumage gone dark and dense at the crown, greying at the edges the way her hair used to. Wings folded close and tidy against her back. She has used them now, off the Aerie's landing on a warm updraft, with a roc's help. Her feet make no sound crossing a room, which she has not yet stopped finding unsettling.
 
 She still moves like a woman on her way to an office. Upright. Unhurried. Round nocturnal eyes that take a beat too long to blink, fixed on you with the same flat, appraising patience she used to save for a ledger that didn't balance.
 

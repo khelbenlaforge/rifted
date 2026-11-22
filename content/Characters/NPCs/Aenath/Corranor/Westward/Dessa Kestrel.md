@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-10-25T20:00:00
+updated: 2026-11-22T18:10:00
 created: 2026-09-23T18:28:40
 ---
 
@@ -52,6 +52,26 @@ Dessa spent a decade reading other branches' books before Westward ever had a br
 - She said she has no memory of anything before 222 years ago and has lost centuries of her own. She made a sign to [[Mystra]] and lit candles with flame from her hands, saying the goddess is still there even if silent.
 - She said the shadow creatures appear every time Rifted are teleported in, which by her count is confirmed across four or five sources, and that they go after nobody but Rifted.
 - [[Ansel Krane]] called Gregory one of her boys and said she comes by [[Cinderstay]] every now and then because she broke her pen.
+
+## Session 8 Update (The AUGs)
+- Had [[Teira]] put on a pallet at the Guild, touched her forehead, said she seemed fine and would wake with time.
+- Fed and healed [[Mike Kanbei|Mike]], [[Gregory Yang|Gregory]], [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]] with a mass healing; their pain had been psychic.
+- Said the hurried circle looked like a [[The Claret|Claret]] copy of [[Layla]]'s work, not Layla's own, and two Rifted could easily have died if placed in open sky or inside the earth.
+- Told Beau and Makoto nobody in Corranor remembers anything before 222 years ago; her account of the first day matched their vision; about nine Rifted came in the first group and the Guild chose to take in and protect as many as it could.
+- Said she would test Beau and Makoto the next day as she had tested the others.
+- Said the Claret began as small thieves and are now among the continent's biggest criminal organisations, based in [[Crystal City]]; the two dead Claret wore garnet studs and rank rises with the number of studs.
+- Said her people report that whoever has been teleporting Rifted in asked the Claret to procure blood, and the Claret now seem to be trying it themselves.
+- When Mike showed her two studs, said one means avoid or intimidate, two means be scared, three means run, and four means expect to die; told them to lay low for a few days.
+- Was frustrated she could not explain the Rifted's powers; guessed their souls are attached to them; told Gregory to put his Eldritch Cannon away and be afraid of where he points it.
+- Led them through a black oval into the Guild's pocket rooms and told them to ease into the city, not the next day and not necessarily the day after.
+- Looked at the one mark Makoto had left, which he had never seen before, and said she had never seen it and could not explain it; it appeared to be unique to him.
+- In response to Beau's question about jackal-headed creatures, described the lower planes: devils (Nine Hells) and demons (Abyss) have fought for millions of years; yugoloths are mercenaries who owe neither side and play both sides; devils and demons have tried to steal souls from the afterlife, and she thought the yugoloths were sneakier about it, if they did; devils lie, demons want destruction; advised great care if they meet one.
+- Said the [[The Keel|Keel]] cost her three days; others came out after one hour, three hours, one day or two days.
+- Said the [[Director of Antiquities]] was coming soon and she could ask his people for money and equipment; the only way down the [[The Old Forge|Old Forge]] shaft is by rope, with someone waiting above to pull people up; she could not go because she waits on reports.
+- Said she did not want to lose anyone else after [[Ruan Myrt Zaltana|Ruan]], whom she spoke of as lost; [[Rachel Tan|Rachel]] joined the city guard and [[Rismawati Bayu|Risma]] works with the Rangers.
+- Said Corranor is a magocracy ruled by seven wizards with one representative in [[Westward]]; [[House Ferrowe]] comes from blacksmiths and master smiths and became a naval house; the Ferry-Masters control trade and ore carriage from the mining towns; the Guild earns much of its money from Old Forge expeditions for the Director.
+- Offered to take Makoto to a tavern she knows that night.
+- Her paperwork had grown since the party first saw her eight days earlier; she had set it aside for three days to wait for them below.
 
 ## D&D 5e Stat Block
 

@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-06-24T22:30:14
-updated: 2026-11-18T17:49:06
+updated: 2026-11-18T23:59:10
 ---
 
 # Terra
@@ -282,8 +282,8 @@ PassiveStealth:: 16
 
 - Rolled a natural 20 searching the dead druid and won [[The Cooled Hand|the glass hand]].
 - Looked through the [[Hollowstone]] and saw eight pings, one familiar from Misty Step.
-- Went into the black pool on a rope, froze in a roaring fog, rolled Religion 20 and escaped by casting Misty Step; the rope stayed inside.
+- Went into the black pool on a rope, froze in a roiling fog, rolled Religion 20 and escaped by casting Misty Step; the rope stayed inside.
 - Rolled a natural 20 on Animal Handling at the colourless clearing, so two wolves hesitated, and flew up a tree.
-- Used Absorb Elements against the lightning, killed two wolves one after another with arrows (Hail of Thorns and a lightning-charged arrow), and used Entangling Strike to restrain a druid, who broke free.
+- Used Absorb Elements against the lightning, shot wolves with arrows (Hail of Thorns and a lightning-charged arrow), and used Entangling Strike to restrain a druid, who broke free.
 - The glass hand kept the party standing against the rock push.
 

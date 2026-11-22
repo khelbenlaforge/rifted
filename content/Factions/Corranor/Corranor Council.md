@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-10-25T14:30:00
+updated: 2026-11-22T19:30:00
 ---
 
 # Corranor Council
@@ -82,5 +82,9 @@ Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour t
 
 ## Session 6 Update (The AUGs)
 - [[Tavian Wick]] said the Council's seven majors, one per city, rule the continent from Crystal City, that noble houses administer the settlements, and that the [[Adamantine Guild]] answers only to the Council.
+
+## Session 8 Update (The AUGs)
+- Per [[Dessa Kestrel|Dessa]], seven wizards rule the continent and [[Westward]] has one representative; the Guild answers only to the highest government.
+- Per [[Tavian Wick|Tavian]], the Council owns the airship that remains (the other left a couple of months ago to break through a storm to the south).
 
 

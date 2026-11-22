@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-11-14T21:00:00
+updated: 2026-11-22T16:10:00
 ---
 
 # Gregory Yang
@@ -56,6 +56,8 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 **Session 6—from 4 Nightal, Year 222 PA:** Gregory met [[Mike Kanbei]] on the switchback after being warned off the stair gate. During downtime he worked at [[Cinderstay]] for the master smith [[Ansel Krane]] (Tinker's Tools 21 against DC 5), mended a chipped dagger (Arcana 17), got a bench and five silver a day, and was shown the shaft to [[The Old Forge]]. He asked [[Tavian Wick]] how [[Westward]] is run (Investigation 25 against DC 10) and persuaded him to take the shifting symbols seriously (a 1, then a 20 with advantage). He searched for [[Rachel Tan]] with [[Mike Kanbei]], failed his Constitution save against the cold (8) and rerolled with Heroic Inspiration to pass. He warned [[Rachel Tan]] and took the address of her tiefling friend. At the friend's door he called out, cast a protective spell, and opened it onto darkness and the smell of iron and blood.
 
 **Session 7—Nightal, Year 222 PA:** He and Mike followed blood and drag marks up Teira's tenement stairs and found her unconscious on the second floor, which also held a hastily drawn teleportation circle and two dead Claret. Another Claret had already jumped from a third-floor window. Beau and Makoto had been teleported onto the top floor, where the shadow creature attacked Makoto first; Gregory and Mike were slow to notice until Makoto ran downstairs, then joined Beau and Makoto in killing it. Gregory and Mike briefed Beau and Makoto on the situation facing the Rifted and made investigation checks; the results were left for next session.
+
+**Session 8—10 Nightal, Year 222 PA:** Told [[Dessa Kestrel|Dessa]] about [[Rachel Tan|Rachel]]'s friend [[Teira]], the circle, the two dead [[The Claret|Claret]] and the one who fled. Still had his Eldritch Cannon; Dessa told him to put it away. His room had art deco furnishings and books. Worked for [[Ansel Krane|Ansel]] Krane at [[Cinderstay]] (broken knives and farm tools); said he did not feel ready to go down and wanted to help the others settle in. Rerolled the group Persuasion with a feat to 16 (median 16, passed). Ansel pulled him back to work and he will hold the rope when the party descends the shaft. Lost a little over 26 hours at the [[The Keel|Keel]].
 
 ## Relationships
 

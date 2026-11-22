@@ -8,7 +8,7 @@ introduced: null
 secret: false
 state: missing
 created: 2026-03-16T04:22
-updated: 2026-10-25T16:00:57
+updated: 2026-11-22T19:30:00
 ---
 
 # Layla
@@ -158,6 +158,9 @@ Deity:: Unknown
 - Dessa said [[Layla]] may be closer to Westward than to any other city.
 - [[Rachel Tan]] said word had come down from Crystal City that the whole continent is hunting for Layla, that the Tamers and the militia have been told to watch for [[Layla]] and that soldiers are posted at the place the party first arrived.
 - Mike and Gregory told Rachel that [[Layla]] had seemed to want to help them and that they want to help her.
+
+## Session 8 Update (The AUGs)
+- [[Dessa Kestrel|Dessa]] said Layla is wanted because she vanished when the first group was teleported in; she guessed the hurried circle in [[Teira]]'s tenement was not Layla's work.
 
 ## Session 3 Update (The AUGs)
 

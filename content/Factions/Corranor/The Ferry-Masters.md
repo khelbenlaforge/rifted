@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-10-25T14:30:00
+updated: 2026-11-22T16:10:00
 created: 2026-09-25T21:59:57
 ---
 
@@ -29,5 +29,8 @@ Headquarters:: [[Westward]]
 
 ## Session 6 Update (The AUGs)
 - [[Tavian Wick]] said the ferry-masters run the crossing to Sunhold, carrying supplies and food over and ore and oil back, and that they and the foundry-owners cannot claim to be the stronger power because each needs the other.
+
+## Session 8 Update (The AUGs)
+- Per [[Dessa Kestrel|Dessa]], control trade and the carriage of ore from the mining towns across the strait.
 
 

@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 created: 2026-09-22T04:30:00
-updated: 2026-11-15T18:56:56
+updated: 2026-11-22T20:20:00
 ---
 
 # Westward
@@ -44,9 +44,9 @@ Pins: a. the Cliffwatch (the [[Adamantine Guild]] branch, [[Dessa Kestrel]]), b.
 ## Features
 
 - **The Ferry Quays**—the river-mouth docks where the [[Sunhold]] crossing loads and unloads. [[The Exodus/00_My Notes/Lore/Aenath Landmass Types|Landfall]] turns them into the loudest place in town; the rest of the cycle, they're mudflats with boats resting on their sides.
-- **Slagrow**—the foundry district, built up over generations on slag heaps nobody remembers piling, in the middle-north of the town around a huge pit. The smiths here swear by [[Sunhold]] ore over anything a local vein could give, though nobody's ever traced exactly why the difference holds so true.
+- **[[Slagrow]]**—the foundry district, built up over generations on slag heaps nobody remembers piling, in the middle-north of the town around a huge pit. The smiths here swear by [[Sunhold]] ore over anything a local vein could give, though nobody's ever traced exactly why the difference holds so true.
 - **The Coalings**—burn camps scattered through the Wildwood, hauling cut fuel in by cart for every forge in Slagrow. The burners go a little further into the trees every year, and not all of them come back with a story anyone quite believes.
-- **The Cliffwatch**—the [[Adamantine Guild]]'s Westward branch, a squat stone post at the top of the western cliffs. Thinly staffed, like every Guild post these days, but it watches the stair below more closely than it watches the ledgers.
+- **[[The Cliffwatch]]**—the [[Adamantine Guild]]'s Westward branch, an unfinished lighthouse of bright white plaster at the top of the western cliffs. Thinly staffed, like every Guild post these days, but it watches the stair below more closely than it watches the ledgers.
 - **The West Stair**—a switchback stair cut into the cliff face below the Cliffwatch, roped off and guarded, usable only while the island rides aloft, and the Guild has never said what's down there.
 - **[[The Deep Index]]**—the [[Ether Scryer's Academy]]'s westernmost branch, a cramped antiquities annex in the town, behind columns at its entrance. Separate charter from the Guild, same small town, so word travels between them regardless.
 
@@ -107,5 +107,9 @@ That's the noise the AUGs walked into first, delivered to the Cliffwatch's door 
 - [[Tavian Wick]] said Osric is the youngest son of [[House Ferrowe]] and favours neither side, and that the [[Corranor Council]]'s seven majors in [[Crystal City]] rule the continent.
 - A hill about half the height of Fuji lies half a day's walk north of the city; a squad of the city militia was training on it.
 - A tenement in a poorer street of laborers and cooks has four floors, a single door, and a window on the third floor.
+
+## Session 8 Update (The AUGs)
+- A forging town with two ancient sites, the [[The Old Forge|Old Forge]] under Slagrow and the [[The Keel|Keel]]; the Guild house is the white lighthouse at the harbour cliff; the [[The Deep Index|Deep Index]] stands beside the river; the Aerie has at most seven griffins and a roc; the river is 25 to 30 metres wide, mud-brick houses on one side and fitted carved stone on the other.
+- Slagrow is hot, with cooled slag in rivulets; frost melts to steam. There is no live entertainment but there are taverns. [[Sunhold]]'s ore is carried across the strait and keeps Slagrow's forges busy.
 
 

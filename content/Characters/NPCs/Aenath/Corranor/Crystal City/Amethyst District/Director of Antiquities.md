@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-06-29
 secret: false
 state: alive
-updated: 2026-10-25T14:30:00
+updated: 2026-11-22T16:10:00
 created: 2026-06-29T00:00
 ---
 > [!infobox]
@@ -31,5 +31,8 @@ Affiliation:: [[Ether Scryer's Academy]]
 ## Session 6 Update (The AUGs)
 - [[Tavian Wick]] named the Director as Yilde, said Yilde reads the Deep Index's report every ten days and is keen for news of any old place, and said Yilde had tried for a month to send an expedition to the [[Sunless Citadel]].
 - [[Tavian Wick]] offered to write up Mike's account of what the party saw near the Ribs for Yilde.
+
+## Session 8 Update (The AUGs)
+- Per [[Tavian Wick|Tavian]], will not come to [[Westward]] in person; is sending a contingent of powerful wizard researchers; is very interested in the party's statues and visions; plans an expedition to [[Sunhold]] and may add the [[The Keel|Keel]].
 
 

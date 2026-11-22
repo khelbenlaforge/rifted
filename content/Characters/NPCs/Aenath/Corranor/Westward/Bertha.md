@@ -8,13 +8,13 @@ introduced: 2026-10-23
 secret: false
 state: alive
 created: 2026-10-24T00:00:00
-updated: 2026-10-25T13:04:21
+updated: 2026-11-22T15:55:16
 ---
 
 > [!infobox]
 > # Bertha
 
-A giant eagle the size of a house, the only creature on the [[Westward]] Aerie's second landing.
+A roc the size of a house, the only creature on the [[Westward]] Aerie's second landing.
 
 ## Description
 
@@ -26,7 +26,7 @@ Bertha teaches. New hatchlings learn to glide on the second landing, and she wat
 
 ---
 Pronouns:: she/her
-Race:: Giant eagle
+Race:: Roc
 Location:: [[Westward]]
 Affiliation:: [[Azure Tamers]]
 

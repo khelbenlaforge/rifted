@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-11-10T15:12:20
+updated: 2026-11-22T20:20:00
 ---
 
 # Adamantine Guild
@@ -43,7 +43,7 @@ A state-supported adventurers' organization founded by a visionary gnomish guild
 - **The Wallwatch, [[Stormberg]]** — the northern branch, run by **[[Rhona Voss]]** and usually staffed by her alone on the night desk. A street-level office with a contracts board, three streets in from the outer gate. It holds the standing contract to cull the creatures that burrow and nest inside the [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Stormberg/Stormwall|Stormwall]]'s own mass—dangerous, recurring, safety-critical work done out of sight in the sealed [[Stormberg|Blind Reaches]]. Its dormitory is a pocket dimension off Rhona's own hallway, the same shape as the Crystal City branch's.
 - **[[Sunhold]]** — frontier outpost, being established by [[Luks Borg]].
 - **[[The Tallhouse]], [[The Exodus/00_My Notes/Locations/Aenath/Corranor/Coldford]]**—the eastern branch, run by **[[Petra Hale]]**. Three cramped rooms and a small pocket dormitory off the back hall, smaller than the Wallwatch and thinner-staffed still; a contracts board out front, mostly escort and freight-security postings for Coldford's Manifest Houses.
-- **The Cliffwatch, [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers.
+- **[[The Cliffwatch]], [[Westward]]**—the western branch, run by **[[Dessa Kestrel]]**. An unfinished lighthouse of bright white plaster atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers.
 
 ## Guildhall & Pocket Dimensions
 
@@ -71,7 +71,7 @@ The five newcomers joined during High Harvestide PA 222 and have been sent to es
 
 ## Session 3 Update (The AUGs)
 
-A squat stone post atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed a party (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
+An unfinished lighthouse of bright white plaster atop the western cliffs, thinly staffed, watching the roped-off West Stair below it more closely than its own ledgers; [[The Exodus/00_My Notes/Characters/NPCs/Aenath/Corranor/Crystal City/Layla|Layla]] directed a party (Session 2) to find its leader, and they did so in Session 3, reaching Dessa's training grounds before the session ended with the evaluation itself not yet begun.
 
 [[Dessa Kestrel]] brought a party through a portal that reshaped itself from a plain room into an arena—**the Proving Floor**—mist curling across worn stone under an open sky, used for evaluations rather than rest (Session 3).
 
@@ -108,6 +108,12 @@ Confirmed at the Stormberg branch (Session 4, The Understudies): the gate watch 
 ## Session 6 Update (The AUGs)
 - [[Tavian Wick]] said the Guild answers only to the [[Corranor Council]], not to the noble houses.
 - [[Ansel Krane]] said the Guild sometimes sends people down the shaft at [[Cinderstay]] to [[The Old Forge]].
+
+## Session 8 Update (The AUGs)
+- [[Westward]]'s Guild house is an unfinished lighthouse of bright white plaster at the harbour cliff; inside are warm wood, candlelight, a fire, long tables under windows and a corridor at the back.
+- At the corridor's end, a black oval opens to a round space in a field of stars, with a floating table of jugs and platters (food or drink appears when imagined), floating disc stools and six doors; each room can look like its owner's choice and nothing can be carried out; [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]] got the last two doors; [[Rachel Tan|Rachel]] and [[Rismawati Bayu|Risma]] were out.
+- [[Dessa Kestrel|Dessa]] gave Beau and Makoto the Guild's three tenets (find lost knowledge, protect those who can pay, promote free trade) beneath the scroll, gauntlet and coin crest over the mantel; the Guild is sponsored but not controlled by the highest government and answers to no one except that government.
+- The Guild takes in the Rifted; Dessa said she cannot give them much pay unless they do Guild work, and pointed to the postings board; much of its money comes from [[The Old Forge|Old Forge]] expeditions paid by the [[Director of Antiquities]].
 
 ## Session 19 Update (The Door Kickers)
 

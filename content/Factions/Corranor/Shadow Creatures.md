@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-13T00:19
-updated: 2026-11-14T21:00:00
+updated: 2026-11-22T17:40:00
 ---
 
 # Shadow Creatures
@@ -35,6 +35,9 @@ The Shadow Creatures emerged during High Harvestide of Year 222, coinciding with
 ## Current Status
 
 An ongoing and escalating threat. Their attacks have caused severe staffing shortages in the [[Adamantine Guild]], as resources are diverted to confront or flee from them. Their origins, motivations, and the nature of their connection to the newcomers' arrival are among the campaign's central mysteries.
+
+## Session 8 Update (The AUGs)
+- The party suspected shadow creatures come with teleported Rifted and aim at them, and had probably told the newcomers they stop following once the shadow is gone or the Rifted move a certain distance away. [[Dessa Kestrel|Dessa]] thought this would scare the local [[The Claret|Claret]].
 
 ## Session 22 Update (The Door Kickers)
 

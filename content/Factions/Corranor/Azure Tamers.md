@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-20
 secret: false
-updated: 2026-11-10T15:09:24
+updated: 2026-11-22T15:55:17
 created: 2026-06-20T00:00
 ---
 
@@ -37,7 +37,7 @@ Bella is Torem's own griffin, white-winged and enormous.
 
 ## Bertha
 
-[[Bertha]] is the house-sized giant eagle who holds the [[Westward]] Aerie's second landing, where hatchlings learn to glide.
+[[Bertha]] is the house-sized roc who holds the [[Westward]] Aerie's second landing, where hatchlings learn to glide.
 
 ---
 Leader:: Unknown
@@ -69,7 +69,7 @@ She's carried more than riders, too: on that same Session 30 road trip, surplus 
 
 - The [[Westward]] Aerie is an eleven-story wooden tower above the forges with a platform lift.
 - About seven griffins perch at the top, eagle in front and mostly lion or tiger behind, each bigger than a horse.
-- A larger eagle, [[Bertha]], holds the second landing.
+- A roc, [[Bertha]], holds the second landing.
 - [[Pell]] (who keeps the ledger) and [[Odo]] (ranger) were the two on duty, with many Tamers out on patrol.
 - The lift winch had seized and [[Gregory Yang]] repaired it.
 - The Tamers fly people between cities because teleportation does not exist beyond short jumps, there are few birds, and flights are costly.
@@ -80,12 +80,15 @@ She's carried more than riders, too: on that same Session 30 road trip, surplus 
 - [[Rismawati Bayu|Risma]] took the offer and flew off with Pell on Bertha.
 
 ## Session 6 Update (The AUGs)
-- [[Tavian Wick]] said the Tamers have only seven griffins and one eagle and that flights are expensive.
+- [[Tavian Wick]] said the Tamers have only seven griffins and a roc and that flights are expensive.
 - Rachel said Pell had told her the Tamers were also watching for [[Layla]].
 
 ## Session 4 Update (The JULYs)
 - Coldford's Aerie is a tall plastered tower near the gates, eleven stories of ladders and platforms with no fog inside; about seven griffins sit on the first landing and two were out circling the city; a greater griffin there is named Tiffy.
 - [[Torun]], a ranger in leathers with a longbow, explained that each pier has a bell and ships steer by sound; the Aerie keeps one bird aloft at a time as a lookout in case a sea monster comes in at landfall; he said he would take [[Kai]] on if Petra sent word.
 - An old, partly blind eagle named Leartha broods her eggs on the Coldford Aerie's top landing. She is a second eagle, separate from [[Bertha]] of the Westward Aerie.
+
+## Session 8 Update (The AUGs)
+- Per [[Tavian Wick|Tavian]], the [[Westward]] Aerie has at most seven griffins and a roc, enough for fourteen to twenty-one passengers; per [[Dessa Kestrel|Dessa]], the Rangers raise griffins and great birds to carry people across the continent.
 
 

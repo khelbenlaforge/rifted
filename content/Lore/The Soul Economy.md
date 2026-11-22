@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-04
 secret: false
 created: 2026-09-04T00:00
-updated: 2026-10-25T16:33:29
+updated: 2026-11-22T16:10:00
 ---
 
 # The Soul Economy
@@ -39,5 +39,9 @@ The Lower Planes' appetite for souls in circulation is what makes them a market 
 ## Session 31 Update (The Door Kickers)
 
 - [[Silvanus]] told [[Nanuk]] the gods lost their connection to the world's souls and need souls "to link to" rather than "to feed on"; a god is only as strong as those who revere and connect to them; linking need not mean worship.
+
+## Session 8 Update (The AUGs)
+- [[Tavian Wick|Tavian]] lectured [[Tobias Atticus Rockefeller|Beau]] and the party: souls are the currency of devils and demons; people make contracts for what they want, and at death the soul is processed into a coin and the body becomes a devil or demon; the most powerful hold many souls; devils fight demons because law hates chaos; yugoloths sell their help to either side for money.
+- [[Dessa Kestrel|Dessa]]'s version: devils belong to the Nine Hells and demons to the Abyss; yugoloths are mercenaries who play both sides; fiends have tried to steal souls from the afterlife.
 
 
