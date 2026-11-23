@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-25
 secret: false
-updated: 2026-10-01T05:12:08
+updated: 2026-11-23T23:08:41
 created: 2026-09-25T16:57:31
 ---
 
@@ -53,5 +53,15 @@ Past the Wall, white dragons are rare.
 - 11 Nightal: the party told [[Rhona Voss]] about the breach's dragon; [[Samson Flint]] and [[Keith Poe]] confirmed to her that the ice holds better than the crews' patchwork, and the work gangs are not to be told.
 - [[Rhona Voss]] said Stormberg has only ever driven dragons off, using ballistae and magical ammunition on the Wall; no ancient dragon has come by.
 - A blockade is up at the breach, though workers are still about; [[Rhona Voss]] will have a word with the foreman about that stretch.
+
+## Session 11 Update (The Understudies)
+
+- Session 11, 14 Nightal: the party went to the Roll, where the names of the dead are cut into the Wall near the sea gates. [[Kili]] skipped the first generations and aimed for the recent names. Some of the surnames matched workers with no dependents on the roster.
+
+## Session 12 Update (The Understudies)
+
+- Session 12, 14 Nightal, evening: [[Zarantha Verenthal]] said anything to do with the Wall was her jurisdiction, that she had heard talk of sending an extermination team, and that she now understood the stretch to be a cordoned safe zone. Her soldiers and investigators were on their way to inspect it. In [[Terendar]]'s telling the Verenthals spearheaded the building of the Wall, with the Magocracy's backing.
+- 15 Nightal, morning: at the Roll, a group of older women, women in their thirties and forties of different races (goblins among them), children and old men stood in front of the Wall. They had stepped off the harbor pier onto ground that was dry now, placed their hands on the stone, exchanged old coins for new and laid flowers on the ground. It lasted about an hour, and by about nine they climbed back onto the harbor. They carried work tools (hammers, nails, masonry scrapers) across their chests.
+- 15 Nightal, noon: at the threshold of the long room in the [[Hall of Gray Stone]] every sound stopped, including the drone and the sound of the wind against the Wall that the whole city lives with.
 
 

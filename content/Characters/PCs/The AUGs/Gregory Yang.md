@@ -8,7 +8,7 @@ introduced: 2026-08-25
 secret: false
 state: alive
 created: 2026-08-25T16:57:01
-updated: 2026-11-22T16:10:00
+updated: 2026-11-23T00:12:00
 ---
 
 # Gregory Yang
@@ -58,6 +58,8 @@ Artillerist training runs through Gregory like a second, better-behaved instinct
 **Session 7—Nightal, Year 222 PA:** He and Mike followed blood and drag marks up Teira's tenement stairs and found her unconscious on the second floor, which also held a hastily drawn teleportation circle and two dead Claret. Another Claret had already jumped from a third-floor window. Beau and Makoto had been teleported onto the top floor, where the shadow creature attacked Makoto first; Gregory and Mike were slow to notice until Makoto ran downstairs, then joined Beau and Makoto in killing it. Gregory and Mike briefed Beau and Makoto on the situation facing the Rifted and made investigation checks; the results were left for next session.
 
 **Session 8—10 Nightal, Year 222 PA:** Told [[Dessa Kestrel|Dessa]] about [[Rachel Tan|Rachel]]'s friend [[Teira]], the circle, the two dead [[The Claret|Claret]] and the one who fled. Still had his Eldritch Cannon; Dessa told him to put it away. His room had art deco furnishings and books. Worked for [[Ansel Krane|Ansel]] Krane at [[Cinderstay]] (broken knives and farm tools); said he did not feel ready to go down and wanted to help the others settle in. Rerolled the group Persuasion with a feat to 16 (median 16, passed). Ansel pulled him back to work and he will hold the rope when the party descends the shaft. Lost a little over 26 hours at the [[The Keel|Keel]].
+
+**Session 9—10 Nightal, Year 222 PA:** Stayed topside on the rope. Tied the rope lengths into a line of about 220 feet with a block and tackle, made two hourglasses of about forty minutes and a pair of sending stones (he and [[Tobias Atticus Rockefeller|Beau]] each held one); what he made vanished at his next long rest. Worked [[Ansel Krane|Ansel]]'s bench; Ansel was pleased and agreed to tug the rope before each exhale. Thought about walking to the Guild, an hour away, to ask [[Teira]] about her experience, and in the end stayed at the rope. A sending-stone message asked him to find out who the warden was by going to [[Dessa Kestrel|Dessa]]; he answered that he would ask and did not leave the rope. Hauled on the rope when it jerked during the fight below. His Arcana (25) in the debrief said something must exist to switch the heat and the defences off.
 
 ## Relationships
 

@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-27
 secret: false
 created: 2026-09-27T00:00
-updated: 2026-09-27T03:33:38
+updated: 2026-11-23T23:08:40
 ---
 
 > [!infobox|right wikipedia]+
@@ -26,5 +26,9 @@ The trade organization behind Crystal City's supply line into [[Sunhold]]—inbo
 ---
 Leader:: Unknown
 Headquarters:: [[Crystal City]]
+
+## Session 12 Update (The Understudies)
+
+- Its representative at the 15 Nightal meeting in the [[Hall of Gray Stone]] is [[Jeezindra]], a stocky dwarf. He told the party the Merchant Guild would love to pick their brains about the worlds they came from.
 
 

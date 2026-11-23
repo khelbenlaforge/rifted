@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-10-25
 secret: false
-updated: 2026-11-22T16:05:53
+updated: 2026-11-23T16:49:45
 created: 2026-10-25T21:53:08
 ---
 
@@ -70,5 +70,10 @@ Winter is the larger problem. Hunting has nearly stopped and the fields outside 
 
 > *What do the birds know about the Wall's cold that the people haven't asked them?*
 > *Who in Stormberg is paying for a flight they would rather nobody knew about?*
+
+## Session 12 Update (The Understudies)
+
+- 15 Nightal, morning: the griffins were all out scouting the northern animal migration, and the new handler was sent out as well. Zara, the roc, stayed with her eggs. [[Linnet Crowe]] was pacing. Her map has a pin in every city for its bird count; Stormberg had one big pin.
+- The party worked out that the empty perches had bought them time: otherwise [[Zarantha Verenthal]]'s soldiers would be flying to the Wall.
 
 

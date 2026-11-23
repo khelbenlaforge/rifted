@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-08-22
 secret: false
 state: alive
-updated: 2026-11-13T00:53:36
+updated: 2026-11-23T23:08:39
 created: 2026-08-24T17:22:42
 ---
 
@@ -37,7 +37,7 @@ Mid-forties, built like someone who spent years hauling gear through tight, dark
 
 ## Personality
 
-An ex-culler who traded the tunnels for a desk and never fully made peace with the trade. Runs the Stormberg Wallwatch competently, mostly alone, because she trusts her own accounting over anyone else's. She recognizes [[Istar Silverlock]]'s name on sight — a peer she trusts by reputation, sight unseen. Arcane theory is a different matter. Average intelligence doesn't help there, and magic that can't be weighed or logged makes her visibly impatient. She'll change the subject rather than admit she's lost the thread.
+An ex-culler who traded the tunnels for a desk and never fully made peace with the trade. Runs the Stormberg [[Wallwatch]] competently, mostly alone, because she trusts her own accounting over anyone else's. She recognizes [[Istar Silverlock]]'s name on sight — a peer she trusts by reputation, sight unseen. Arcane theory is a different matter. Average intelligence doesn't help there, and magic that can't be weighed or logged makes her visibly impatient. She'll change the subject rather than admit she's lost the thread.
 
 Watching recruits cycle through the branch is its own kind of culling duty, just slower, and every so often one of them doesn't come back from the field. She's stopped pretending that doesn't cost her anything.
 
@@ -174,4 +174,18 @@ When she told the party *I do not want to lose any more kids*, she meant it plai
 ## Session 10 Update (The Understudies)
 
 - 13 Nightal: planned for the meeting with [[Roberto]], [[Kili]] and [[Keith Poe]] at the Wallwatch. [[Vestra Coln]] came in unannounced to listen, ostensibly because Rhona had not given her much detail when setting the meeting up. The meeting is on the 14th or 15th of Nightal, to be fixed at the table.
+
+## Session 11 Update (The Understudies)
+
+- Session 11, 14 Nightal, morning: sat down with the party after they came out of their pocket dimension, and asked them to see, if they could, that nothing spread outside. Nobody wanted a panic, and nobody wanted the people at the coming meeting to walk in already told.
+
+## Session 12 Update (The Understudies)
+
+- Session 12, 14 Nightal, evening: came out of the corridor from the party's rooms, tired and swaying a little, though not drunk, and said it was late and the tavern was still going. [[Roberto]] told her quietly who was at the table. She walked across and said "My lady, I wasn't expecting you," and that she could have sent word and been given a proper welcome.
+- She took a seat at the long table, which she rarely does, since she is usually behind the counter. She introduced [[Kili]] and Roberto as new intakes and as Rifted. Talk turned to Crystal and the [[Corranor Council|Council of Seven]], and she said there were a few good ones, at least the ones who supported the Guild and gave it money.
+- She said she and [[Sir Verenthal|Quill]] were not on the best of terms and she had told him nothing. She said the Lady surely had ears everywhere, as she should, and that she would not speculate before the meeting: the witnesses should speak for themselves, so the room began from a baseline of truth. [[Vestra Coln]] should be there, and she would sit for the Academy, whose head was away.
+- [[Terendar]] told her she had been in the same party as [[Yenna Marrow]], and she agreed.
+- 15 Nightal, morning: appeared at Yenna's stall in the city square in full ceremonial armor with her sword, and stress-ate while Yenna called her a freeloader.
+- At the hour she led Roberto, Kili, [[Keith Poe]] and [[Samson Flint]] into the [[Hall of Gray Stone]], brushing the dust off Samson's jerkin. She told the clerk she represented the [[Adamantine Guild]] and the [[Ether Scryer's Academy]] for a party of five. She sat on the other side of the long table from the party, unbuckled her claymore and slapped it down on the table.
+- She opened the meeting: the Guild had called it, and it was the Academy's opinion that the council needed to act at once, on reports from trusted Academy and Guild members. She introduced each of the party with their record. She is one of four voters (with [[Zarantha Verenthal]], Vestra and [[Jeezindra]]).
 

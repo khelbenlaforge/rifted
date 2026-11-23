@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-11-13T01:12:50
+updated: 2026-11-23T23:37:29
 ---
 
 # Keith Poe
@@ -251,5 +251,13 @@ Playbook:: [[Keith Poe - Playbook]]
 ## Session 10 Update (The Understudies)
 
 - 13 Nightal, Year 222 PA: met Rhona Voss at the Wallwatch with Roberto and Kili to plan for the meeting; the details of the plan were not kept. Vestra Coln came in unannounced and listened, and the party won her over.
+
+## Session 11 Update (The Understudies)
+
+- Nothing of his own was recorded for Session 11.
+
+## Session 12 Update (The Understudies)
+
+- DM-voiced; the player was out. In the kitchen while the guests ate. [[Rhona Voss|Rhona]] decided he was fine and took him into the [[Hall of Gray Stone]]. Sat quietly running through the facts; no choices were made for him.
 
 

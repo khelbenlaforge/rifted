@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-25
 secret: false
 state: alive
-updated: 2026-10-25T21:53:30
+updated: 2026-11-23T16:42:21
 created: 2026-10-25T21:53:30
 ---
 
@@ -40,5 +40,9 @@ Class::
 Location:: [[Stormberg]]
 Affiliation:: [[Azure Tamers]]
 Deity::
+
+## Session 12 Update (The Understudies)
+
+- 15 Nightal, morning: out scouting the northern animal migration with the griffins, along with every other bird at the [[Stormberg Aerie]], according to [[Linnet Crowe]].
 
 

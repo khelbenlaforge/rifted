@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T14:30:00
-updated: 2026-11-22T18:50:00
+updated: 2026-11-23T00:12:00
 state: alive
 ---
 > [!infobox|right wikipedia]+
@@ -41,3 +41,9 @@ Deity:: Unknown
 - Said he felt another expedition was almost due, especially once the continent lands.
 - Said a little birdie told him the party had found a ruin, and said he hoped for more interest there and here.
 - After the group's Persuasion check (median 16), showed a scroll map of the first seven chambers, passages, unexcavated wall sections and thin walls; he keeps it because Dessa told him to. Pulled Gregory back to work.
+
+## Session 09 Update (The AUGs)
+- Kept the shaft while [[Gregory Yang|Gregory]] built a rope line. His expedition rope was about 120 feet and the climb down was about 90 feet. He had never been down, because he did not want to meddle with the heat that fed his forge and every other forge in the district, and he asked the party more than once not to switch it off.
+- Told the party the forge exhaled about once an hour (his furnace brightened, then a surge of heat followed up the shaft and along the passages). Agreed to tug the rope to warn those below before each exhale.
+- Looked over Gregory's work at the bench and was pleased with it.
+- Looked over the three who climbed out hurt, with a lot of explaining ahead of them.

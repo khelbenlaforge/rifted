@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-11-10
 secret: false
 state: alive
-updated: 2026-11-12T22:10:00
+updated: 2026-11-23T06:30:13
 created: 2026-11-11T17:00:00
 ---
 > [!infobox|right wikipedia]+
@@ -40,3 +40,8 @@ Deity:: Unknown
 - [[Ruairí]] offered her a place at [[The Tallhouse]]; it was settled that she stays at the stall through the busy morning and goes to the Tallhouse in the afternoon.
 - [[Petra Hale]] showed her the papers she goes through all the time and called it important work for a branch leader; the girl was starstruck.
 - [[Odette Langford]] offered to tutor her.
+
+## Session 7 Update (The JULYs)
+- Her stool behind the ledger desk stood empty on the evening of 8 Nightal.
+- She would come to the [[The Tallhouse|Tallhouse]] around lunch every day, and in the mornings she was with her father.
+- [[Ruairí]] had asked her to listen in and remember what passed between her father and the man in the hat.

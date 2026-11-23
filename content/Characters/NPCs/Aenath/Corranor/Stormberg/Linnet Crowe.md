@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-25
 secret: false
 state: alive
-updated: 2026-10-25T21:53:30
+updated: 2026-11-23T16:42:21
 created: 2026-10-25T21:53:30
 ---
 
@@ -40,5 +40,12 @@ Class::
 Location:: [[Stormberg]]
 Affiliation:: [[Azure Tamers]]
 Deity::
+
+## Session 12 Update (The Understudies)
+
+- 15 Nightal, morning: [[Kili]] and [[Roberto]] went up to the [[Stormberg Aerie]] and found her pacing, with the griffins gone. She thanked Kili for the help with her scheduling earlier (the earlier scene was played in a session with no transcript).
+- She said her griffins were all out scouting. The animals of the north were migrating south, all at once, far too early. Even the new handler, [[Wren Dace]], was out. Zara, the roc, stayed with her eggs and would not leave them in winter.
+- She showed them a map with a pin in every city for its bird count. Stormberg had one big pin. The migration covered a vast stretch of the north. Kili copied the map down, with the lack of pins around Stormberg.
+- She knew nothing about rifts. Kili's Insight on her face was an 11. The last time they met, Linnet had been cool as a cucumber, pinning things to her map.
 
 

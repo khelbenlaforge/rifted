@@ -6,7 +6,7 @@ tags:
 - location/city
 campaign: Rifted
 introduced: 2026-06-25
-updated: 2026-11-14T19:58:00
+updated: 2026-11-23T06:31:13
 secret: false
 created: 2026-06-25T00:00
 ---
@@ -109,5 +109,10 @@ The JULYs' first real visit to Coldford landed on the 1st of Nightal, Year 222 P
 - The party named the [[Backrows]], behind the Tallyrows and away from the harbour, where even the city guard does not go.
 - The [[Old Bearded Man]] is a pub near the Manifest Houses, toward the back roads.
 - [[Marl Dunning]]'s stall is near the far end of a row of about twenty counters, far from [[Hobb Abbe]]'s platform.
+
+## Session 7 Update (The JULYs)
+- That night the fog sat so low that lantern light carried perhaps ten feet. A lamplighter told the party to walk beneath his lamps and follow them, and said that on nights when the fog settled this low, people disappeared.
+- As [[Odette Langford]] and [[Ruairí]] crossed the central square, some of the guards recognised the pair as Guild people and greeted them. At the crossing beyond it, the unlit lanes began to the left and the lamps ran toward the [[Tallyrows]].
+- On [[Kai]]'s walk, the harbour was dry, with boats on wooden cradles along a steep slope; below it was a drop with no bottom, off the side of the continent.
 
 

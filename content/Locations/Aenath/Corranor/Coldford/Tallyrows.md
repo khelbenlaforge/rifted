@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-11-12T22:00:00
-updated: 2026-11-13T01:05:00
+updated: 2026-11-23T06:39:23
 ---
 # Tallyrows
 
@@ -41,3 +41,8 @@ Coldford's dockside district, where the Manifest Houses keep their intake desks 
 - The man in the good hat came by again that morning. [[Tamsin Vell]] later called him a regular around the Tallyrows.
 - Ruairí's Detect Magic found memory alteration and suggestion, cast more than once in that place. Red chalk check marks keep returning to one leg of Marl's counter.
 - [[Sister Margaret]] asked to have Marl brought to her, since the memory work would take greater restoration to undo.
+
+## Session 7 Update (The JULYs)
+- The Tallyrows were shut for the night. [[Hobb Abbe]]'s platform was under a tarpaulin, and a couple of people were still packing up.
+- A red check mark was on the table at [[Marl Dunning]]'s stall. [[Kai]]'s boot trail began in front of it and turned toward the [[Old Bearded Man]].
+- [[Ruairí]] said hello to the storekeepers as they packed up. Later, in the [[Old Bearded Man]], a group of Tallyrows foremen hailed him as "the hero of the Tallyrows".

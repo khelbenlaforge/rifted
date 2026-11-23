@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 state: alive
-updated: 2026-11-14T01:45:14
+updated: 2026-11-23T06:30:13
 created: 2026-11-10T15:11:29
 ---
 > [!infobox|right wikipedia]+
@@ -47,5 +47,10 @@ Deity:: Unknown
 - He said he does what his House tells him and would pay any price to get his daughter out of this.
 - [[Ruairí]]'s Detect Magic found memory alteration and suggestion cast more than once in that place; Ruairí has not told him. Ruairí's own read of the stall put the magic there at two or three days old, which lines up with when the man in the good hat first appeared.
 
+## Session 7 Update (The JULYs)
+- That night a red check mark was on the table at his stall; he always rubbed it off when he saw it. [[Kai]]'s trail of very good boots began in front of the stall and turned toward the [[Old Bearded Man]].
+- [[Ruairí]] knew the man in the good hat had come by the stall in the morning.
+- [[Odette Langford]] feared they were on a clock with Marl's memory loss; left uncured for too long, the loss becomes permanent. [[Sister Margaret]] needed him brought to her.
+- Ruairí thought of waiting for the hat man to pass before bringing Marl to the temple.
 
 

@@ -8,7 +8,7 @@ introduced: 2026-07-18
 secret: false
 state: alive
 created: 2026-07-18T00:00:00
-updated: 2026-11-13T01:12:49
+updated: 2026-11-23T23:37:30
 ---
 
 # Kili
@@ -202,7 +202,7 @@ Playbook:: [[Kili - Playbook]]
 
 - Night of 1 Nightal, Year 222 PA: decorated her own room; retold Roberto and Keith Poe the vision she'd already lived through the night before ([[Session 06 - I Will Take Your Children|Session 06]]).
 - 1–10 Nightal (downtime): turned the Adamantine Guild's own common room into an after-hours speakeasy rather than working an outside stall—Roberto brewing alongside her, the dwarf tavern-keeper **[[Devran]]** walking in impressed enough to invite Roberto to his own place. Her own performance, a story about nobles who've never had to weigh the risk that funds their comfort, landed well enough for real coin and a standing favor with the room. In the telling, Rhona laid out the Guild's founding tenets—Oghma, Helm, **[[The Exodus/00_My Notes/Pantheon/Waukeen]]**—and its guildmaster, "Erky," by name for the first time in her hearing.
-- 1–10 Nightal (downtime): her second track turned into the kind of night neither Yenna nor Rhona meant to let happen. Yenna admitted to a partner at home, still working with their hands same as always, both of them slower than they used to be. Then came the part Kili hadn't expected: Yenna's own years on the cull teams, alongside a much younger Rhona, before the noodle stall became the whole of her life. Rhona matched it with her own reveal. One of her kids works the Wall directly; the other studies how to, at the [[Ether Scryer's Academy]] in [[Crystal City]]. Guild work on that same Wall is what took her husband. She ended the night offering to teach Kili to fight herself. No ceremony to it. Just a woman who meant what she said back in Session 6 about not losing any more kids.
+- 1–10 Nightal (downtime): her second track turned into the kind of night neither Yenna nor Rhona meant to let happen. Yenna spoke of her late husband, more of a crafter than a cook. Then came the part Kili hadn't expected: Yenna's own years on the cull teams, alongside a much younger Rhona, before the noodle stall became the whole of her life. Rhona matched it with her own reveal. One of her kids works the Wall directly; the other studies how to, at the [[Ether Scryer's Academy]] in [[Crystal City]]. Guild work on that same Wall is what took her husband. She ended the night offering to teach Kili to fight herself. No ceremony to it. Just a woman who meant what she said back in Session 6 about not losing any more kids.
 - 1–10 Nightal (downtime): her third track took her somewhere Roberto's alcohol could actually open a door: **[[The Gilded Loom]]**, all polished stone and quiet money. Tavern master **[[Corwyn Ashgrave]]** decided the vintage spoke well enough of her to let her stay. She's kept going back, ostensibly to talk him toward the Wallwatch's own speakeasy, mostly to watch the traffic: Verenthal staff running errands for the fortress and the manors, [[Ether Scryer's Academy]] people between shifts, citizens rich enough to have never once done the math on a wall gang's pay. Nobody's clocked her as anything but one of the regulars.
 
 ## Session 08 Update (The Understudies)
@@ -218,7 +218,7 @@ Playbook:: [[Kili - Playbook]]
 - 10 Nightal, Year 222 PA: the DM offered a mid-session level-up for an artistic-skill feat (Arcane Artist was discussed), but nobody took it.
 - 10 Nightal, Year 222 PA: the DM allowed Kili to take Meepo's face as one of her forms if she wants.
 - 11 Nightal, Year 222 PA: told Rhona Voss the story with the drawing, which impressed her; proposed nobles talk to Calcryx until Keith talked Rhona out of it.
-- 11 Nightal, Year 222 PA, evening: asked Yenna Marrow how Stormberg feeds itself in winter and how to buy food without mentioning the dragon; the cover story is the speakeasy, and Yenna will ask her wife about trappers.
+- 11 Nightal, Year 222 PA, evening: asked Yenna Marrow how Stormberg feeds itself in winter and how to buy food without mentioning the dragon; the cover story is the speakeasy, and Yenna will ask around about trappers.
 - 12 Nightal, Year 222 PA: stayed up with the Guild's ledgers.
 - 12 Nightal, Year 222 PA, afternoon: found The Salt Line and met Oskar Brell, a far-ground rigger; gave him a meal from Yenna's and a speakeasy coupon.
 - 12 Nightal, Year 222 PA, afternoon: Insight 17 suggested something might be in the works to bring Oskar nearer the city; Kili whispered that one Wall stretch is safe now and something is guarding it.
@@ -226,5 +226,12 @@ Playbook:: [[Kili - Playbook]]
 ## Session 10 Update (The Understudies)
 
 - 13 Nightal, Year 222 PA: met Rhona Voss at the Wallwatch with Roberto and Keith Poe to plan for the meeting; the details of the plan were not kept. Vestra Coln came in unannounced and listened, and the party won her over.
+
+## Session 11 Update (The Understudies)
+
+- 14 Nightal, morning: sat with [[Rhona Voss]] after the party came out of their pocket dimension. Went with [[Roberto]] through [[Sir Verenthal|Quill]]'s rosters. At the household books noted the unlabelled 15 gp a week and the family office's 213 against 640. Noted that the contracts favored seniority, memorized names, and visited the Roll, skipping the first generations. Went to [[Yenna Marrow]]'s stall and ordered food in growing quantities until Yenna was confused. In the late afternoon compared names with Roberto. [[Oskar Brell|Oskar]] came that night.
+## Session 12 Update (The Understudies)
+
+- Her presentation of the spread came to a 19; her spiel as a poor academy student got a 22 with [[Roberto]]'s Guidance. Rolled a natural 20 on Insight on the small talk, reading through [[Rhona Voss]] that [[Zarantha Verenthal|Zarantha]] was gauging Rhona's state of mind. Suggested a closer eye on the ledgers, contradicting Roberto; her glare went unnoticed by the skin of her teeth. Spoke with [[Terendar]]. Took one more face to memorize the next morning, a bodyguard's (which one is for the next session). At the [[Stormberg Aerie]] rolled Nature and learned nothing natural causes the migration, rolled 11 on Insight on [[Linnet Crowe]], and copied her map. Told Roberto in the square she knew she could count on him to start the revolution. Teamed with [[Yenna Marrow|Yenna]]'s noodles. Sat on the party's side at the meeting.
 
 

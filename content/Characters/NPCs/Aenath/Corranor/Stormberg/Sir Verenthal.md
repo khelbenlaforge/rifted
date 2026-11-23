@@ -9,7 +9,7 @@ introduced: 2026-09-09
 secret: false
 state: alive
 created: 2026-09-11T00:00:00
-updated: 2026-11-13T00:34:40
+updated: 2026-11-23T16:49:45
 ---
 
 # Sir Verenthal
@@ -64,5 +64,15 @@ Confronted by [[Roberto]] over a Wall-gang pay and safety dispute, he agreed to 
 ## Session 10 Update (The Understudies)
 
 - 13 Nightal: [[Roberto]] convinced [[Sister Priya Dawnwell]] that Quill shows favouritism in the shift locations he assigns to Wall workers.
+
+## Session 11 Update (The Understudies)
+
+- Session 11, 14 Nightal: [[Kili]] and [[Roberto]] went through the worker rosters in his dock office, which was full of roses. Laborers sent to the inner columns had their families written beside them. Laborers sent to the outer columns mostly had a blank.
+- His clerk [[Ambrose Tallweather]] said the household's own books were not his department. The household ledgers looked balanced except fifteen gold pieces a week to an entry with no label, only "Crystal City" written beside it, which Ambrose said Lady Verenthal enters herself, for the family's holdings. The family office alone cost 213 gold; the whole family's expenses came to 640, so the office took about a third. The recap did not keep whether those were weekly or monthly figures. Roberto noted about thirty or forty servants in the office, all faces he had not seen; the first visit had shown another thirty or forty, different faces.
+
+## Session 12 Update (The Understudies)
+
+- Session 12, 14 Nightal, evening: [[Zarantha Verenthal]] said Quill had come to her that very day and somehow knew about tomorrow's meeting, which she had thought was kept inside the council. [[Sister Priya Dawnwell]] had offered the temple's support. [[Rhona Voss]] said she and Quill were not on the best of terms and she had told him nothing. Zarantha said she left the administration to her nephew, an amazing administrator; [[Kili]] said perhaps she should keep a closer eye on the ledgers.
+- 15 Nightal, morning: [[Roberto]]'s Perception (10) caught Quill's face at an office window, sniffing furiously at a rose, as the procession of Wall-worker families went by. His servants went inside as the line passed. Servants from his office had stood at the edge of the harbor, whispering to each other.
 
 

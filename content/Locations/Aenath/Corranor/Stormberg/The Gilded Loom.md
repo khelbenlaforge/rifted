@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-09
 secret: false
-updated: 2026-09-26T00:50:25
+updated: 2026-11-23T16:42:21
 created: 2026-09-12T00:00:00
 ---
 
@@ -37,5 +37,9 @@ Status:: active
 ## Session 7 Update (The Understudies)
 
 - 1–10 Nightal (downtime): [[Kili]] became one of the floor's occasional faces this stretch. [[The Exodus/The Understudies/PCs/Roberto|Roberto]]'s brewing bought the introduction, a running pitch for the Wallwatch's speakeasy kept her coming back, and neither one is why she really stays. The room's the draw.
+
+## Session 12 Update (The Understudies)
+
+- [[Zarantha Verenthal|Zarantha]] praised [[Roberto]]'s mead and said The Gilded Loom might do well to stock some.
 
 

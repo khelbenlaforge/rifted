@@ -7,7 +7,7 @@ session: 9
 date: 2026-09-27
 in-world-date: 10-12 Nightal, Year 222 PA
 created: 2026-10-01T04:30:00
-updated: 2026-10-01T18:16:01
+updated: 2026-11-23T22:51:14
 ---
 
 # Session 09—Ice in the Ledger
@@ -42,7 +42,7 @@ She laid out the local lay of the land while she was at it. Influence in Stormbe
 
 ## What Stormberg Eats
 
-That evening [[Kili]] took a different question to [[Yenna Marrow]]: how does a city that might be a floating rock feed itself? The rock goes down at landfall, Yenna reminded her, and the fishing boats go out again. The forests on either side keep hunters and trappers busy, but it was winter. Hunting had nearly stopped, the fields lay fallow, and the city was eating through its stores. Yenna bought the lesser cuts cheap from trappers for the laborers who ate at her stall, and she offered to ask her wife, who knew some of them. Kili said she was buying for the speakeasy. The price would have to be good enough, because they had a living to make.
+That evening [[Kili]] took a different question to [[Yenna Marrow]]: how does a city that might be a floating rock feed itself? The rock goes down at landfall, Yenna reminded her, and the fishing boats go out again. The forests on either side keep hunters and trappers busy, but it was winter. Hunting had nearly stopped, the fields lay fallow, and the city was eating through its stores. Yenna bought the lesser cuts cheap from trappers for the laborers who ate at her stall, and she offered to ask around among them. Kili said she was buying for the speakeasy. The price would have to be good enough, because they had a living to make.
 
 ## The Iron Seam
 

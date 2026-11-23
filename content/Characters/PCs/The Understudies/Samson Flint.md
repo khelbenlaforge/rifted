@@ -8,7 +8,7 @@ introduced: 2026-08-14
 secret: false
 state: alive
 created: 2026-08-14T00:00:00
-updated: 2026-10-01T05:12:08
+updated: 2026-11-23T16:42:21
 ---
 
 # Samson Flint
@@ -185,5 +185,9 @@ Playbook:: [[Samson Flint - Playbook]]
 - 10 Nightal, Year 222 PA, night: at Calcryx's den took exhaustion from her breath along with the others.
 - 11 Nightal, Year 222 PA: at Rhona's briefing, confirmed with Keith that Calcryx's ice holds better than the crews' patchwork.
 - 11 Nightal, Year 222 PA: told Kili she had to stop the idea of bringing nobles to the den.
+
+## Session 12 Update (The Understudies)
+
+- DM-voiced and silent; [[Rhona Voss|Rhona]] brushed the dust off his jerkin before the meeting. Sat quietly on the party's side running through the facts.
 
 

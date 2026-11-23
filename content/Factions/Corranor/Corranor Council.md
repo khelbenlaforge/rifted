@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:25
-updated: 2026-11-22T19:30:00
+updated: 2026-11-23T16:42:21
 ---
 
 # Corranor Council
@@ -86,5 +86,9 @@ Oriel therefore cannot act for House Blackstaff, and tries genuinely to honour t
 ## Session 8 Update (The AUGs)
 - Per [[Dessa Kestrel|Dessa]], seven wizards rule the continent and [[Westward]] has one representative; the Guild answers only to the highest government.
 - Per [[Tavian Wick|Tavian]], the Council owns the airship that remains (the other left a couple of months ago to break through a storm to the south).
+
+## Session 12 Update (The Understudies)
+
+- [[Rhona Voss]] said the Council of Seven had a few good ones, at least the ones who supported the Guild and gave it money. [[Zarantha Verenthal|Zarantha]] had meant the Council of Seven when she said a couple of bad eggs there had wanted to lock down the Rifted in Crystal; the Rifted had refused, and she thought most of the Council were good eggs.
 
 

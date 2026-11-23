@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T15:45:00
-updated: 2026-11-14T02:35:29
+updated: 2026-11-23T06:30:16
 state: alive
 ---
 > [!infobox|right wikipedia]+
@@ -43,3 +43,7 @@ Deity:: Unknown
 ## Session 6 Update (The JULYs)
 - At the start of the session [[Ruairí]] was reminded that he had won his seat on the platform behind Hobb purely through ingenuity, six days in.
 - On the afternoon of 7 Nightal Hobb could still be heard ringing his bell from the back street where Ruairí climbed out of the sewer.
+
+## Session 7 Update (The JULYs)
+- His platform was under a tarpaulin in the shut-for-the-night [[Tallyrows]].
+- In the [[Old Bearded Man]], a group of Tallyrows foremen hailed [[Ruairí]] as the hero of the Tallyrows and said, "Without you, Hobb couldn't see or hear anything."

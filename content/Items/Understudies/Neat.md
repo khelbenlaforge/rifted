@@ -7,7 +7,7 @@ tags:
 campaign: Rifted
 introduced: 2026-08-12
 secret: false
-updated: 2026-09-26T17:35:51
+updated: 2026-11-23T16:42:21
 created: 2026-08-12T19:17:40
 ---
 
@@ -76,5 +76,9 @@ TBD.
 Rarity:: Unique
 Attunement:: Yes (Roberto only)
 Found At:: In transit, Earth — carried through the pull
+
+## Session 12 Update (The Understudies)
+
+- 14 Nightal, evening: [[Roberto]] used One Real Pull on [[Zarantha Verenthal|Zarantha]]. She was acting surprised, and in her own mind she knew everything, though whether she truly did was another matter.
 
 

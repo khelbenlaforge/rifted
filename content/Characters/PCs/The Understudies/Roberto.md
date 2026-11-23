@@ -8,7 +8,7 @@ introduced: 2026-08-12
 secret: false
 state: alive
 created: 2026-08-12T00:00:00
-updated: 2026-11-13T01:12:49
+updated: 2026-11-23T23:37:29
 ---
 
 # Roberto
@@ -247,5 +247,13 @@ Playbook:: [[Roberto - Playbook]]
 
 - 13 Nightal, Year 222 PA: met Rhona Voss at the Wallwatch with Kili and Keith Poe to plan for the meeting; the details of the plan were not kept. Vestra Coln came in unannounced and listened, and the party won her over.
 - 13 Nightal, Year 222 PA, after the Wallwatch: talked with Sister Priya Dawnwell and convinced her that Quill shows favouritism in the shift locations he hands out to the Wall workers.
+
+## Session 11 Update (The Understudies)
+
+- Went with [[Kili]] through [[Sir Verenthal|Quill]]'s rosters, suggested a data cleanup, and visited the chapel of Lathander where [[Sister Priya Dawnwell|Priya]] had news of rifts, animals and fifty families. Compared names with Kili.
+
+## Session 12 Update (The Understudies)
+
+- Brought his mead to the spread (his menu roll 16); rolled 25 on Insight on [[Zarantha Verenthal|Zarantha]] and found her very hard to read; fetched [[Rhona Voss|Rhona]] discreetly; brought up [[Sir Verenthal|Quill]]; used [[Neat]]'s One Real Pull on Zarantha; sat with her for about forty-five minutes; rolled 21 on her plans and wondered about dragons in the north. Went to the Roll and followed the procession; Perception 10 saw Quill at his window. Insight with Guidance 11 in the square. Delivered mead and noodles to the temples' paladins (19 plus 2). Sat on the party's side at the meeting.
 
 

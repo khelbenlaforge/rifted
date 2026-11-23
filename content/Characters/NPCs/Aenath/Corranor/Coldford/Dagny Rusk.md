@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T15:45:00
-updated: 2026-11-14T01:49:29
+updated: 2026-11-23T06:31:24
 state: alive
 ---
 > [!infobox|right wikipedia]+
@@ -46,3 +46,7 @@ Deity:: Unknown
 - If a ship comes in that does not know the pier codes at all, she said, Kai's job is the most important one: signal every pier at once.
 - Kai left with about ten to fifteen percent more of the codes.
 - She asked whether Kai was very sure the night bell was not a prank. When he said he did not think so, she said they would need evidence, or one of them would have to hear it.
+
+## Session 7 Update (The JULYs)
+- As the party left the [[The Tallhouse|Tallhouse]], an ordinary pilot's bell rang once somewhere to the east: Dagny was practising.
+- [[Kai]] saw Dagny at the end of the dark lanes, testing every bell. She did not see him.

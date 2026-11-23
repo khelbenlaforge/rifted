@@ -9,7 +9,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:26
-updated: 2026-11-15T17:49:46
+updated: 2026-11-23T16:42:21
 ---
 
 # Ether Scryer's Academy
@@ -80,6 +80,10 @@ Visited by [[Esca]] on 1 Nightal, Year 222 PA (Session 5, The Understudies).
 ## Session 6 Update (The AUGs)
 - Mike worked at the Deep Index for the clerk [[Tavian Wick]], who said the academians would come at the end of the ten days and offered to bring the party to meet them.
 - [[Tavian Wick]] said the Director of Antiquities is named Yilde.
+
+## Session 12 Update (The Understudies)
+
+- [[Rhona Voss]] sat for the Academy at the meeting, because its head was away. She told the clerk she represented the [[Adamantine Guild]] and the Academy for a party of five, and said it was the Academy's opinion that the council needed to act at once.
 
 ## Session 3 Update (The AUGs)
 

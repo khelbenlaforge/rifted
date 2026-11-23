@@ -8,7 +8,7 @@ tags:
 campaign: Rifted
 introduced: 2026-09-19
 secret: false
-updated: 2026-11-11T17:20:00
+updated: 2026-11-23T06:31:24
 created: 2026-11-10T15:11:29
 ---
 # The Tallhouse
@@ -31,3 +31,7 @@ The [[Adamantine Guild]]'s Coldford branch, run by [[Petra Hale]]: a common room
 ## Session 6 Update (The JULYs)
 - [[Ruairí]] reached it filthy with his rat on 7 Nightal; [[Petra Hale]] shut the door and the three rested and bathed before reporting.
 - [[Deffra]], [[Marl Dunning]]'s daughter, began working afternoons there on 8 Nightal.
+
+## Session 7 Update (The JULYs)
+- In the common room, [[Petra Hale]] and the party planned the visit to the [[Old Bearded Man]]. They left, returned after the night, debriefed Petra and took a long rest.
+- On the morning of 9 Nightal, they planned around the day's loose ends, including [[Deffra]], [[Marl Dunning|Marl]]'s memory, the more isolated tieflings and possible scouting.

@@ -8,7 +8,7 @@ introduced: 2026-08-26
 secret: false
 state: alive
 created: 2026-08-25T15:54:04
-updated: 2026-11-22T16:10:00
+updated: 2026-11-23T00:12:00
 ---
 
 # Mike Kanbei
@@ -60,6 +60,8 @@ Mike fights in short, deliberate strokes, the same economy he once brought to a 
 **Session 7—Nightal, Year 222 PA:** He and Gregory followed blood and drag marks up Teira's tenement stairs and found her unconscious on the second floor, which also held a hastily drawn teleportation circle and two dead Claret. Another Claret had already jumped from a third-floor window. Beau and Makoto had been teleported onto the top floor, where the shadow creature attacked Makoto first; Mike and Gregory were slow to notice until Makoto ran downstairs, then joined Beau and Makoto in killing it. Mike and Gregory briefed Beau and Makoto on the situation facing the Rifted and made investigation checks; the results were left for next session.
 
 **Session 8—10 Nightal, Year 222 PA:** Carried [[Teira]] to the Guild with the others. Showed [[Dessa Kestrel|Dessa]] the two [[The Claret|Claret]] studs and asked how the ranks work. Went through the black oval into the pocket rooms; his room was a Japanese room with cherry blossoms and wooden flooring. Next morning went to the [[The Deep Index|Deep Index]] to see [[Tavian Wick|Tavian]] and brought [[Tobias Atticus Rockefeller|Beau]] and [[Sumida Makoto|Makoto]]. Asked Tavian for a direct sending stone to the [[Director of Antiquities]], saying he would tell what they know to no one else. Wanted to explore the [[The Old Forge|Old Forge]] shaft; said he would not go down without information, and that the schematics might show the traps. Lost a little over two days at the [[The Keel|Keel]].
+
+**Session 9—10 Nightal, Year 222 PA:** Wanted to know whether ruins lay below and did not want to wait for a proper expedition. Went down the shaft first (Athletics 17). Turned a cog in the low hall (Athletics 17; it sprang back) and read the chalk-tick box as a rough estimate of when something happened (Insight 18). In the wheel room he and [[Tobias Atticus Rockefeller|Beau]] turned the wheel; [[Sumida Makoto|Makoto]]'s thunderwave caught him as well as the automaton. He ran with Step of the Wind and cast Darkness over the automaton, used Deflect Attacks against its blow (he could not deflect the fire in it), disengaged, dashed through a door and shut it. He guessed that opening a door woke the warden and said that next time they should shut every door behind them.
 
 ## Relationships
 

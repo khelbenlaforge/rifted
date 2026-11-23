@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-06-25
 secret: false
-updated: 2026-11-13T00:40:00
+updated: 2026-11-23T06:39:43
 created: 2026-09-26T19:22:30
 ---
 
@@ -33,5 +33,9 @@ Headquarters:: [[Tallyrows]], [[The Exodus/00_My Notes/Locations/Aenath/Corranor
 - Petra, [[Torun]] and [[Tamsin Vell]] each called the Houses the true power in Coldford; Torun said Lord Colwyn does not command as many soldiers as some of them.
 - Tamsin said the Houses grow rich stockpiling food and are not above smuggling spell reagents and rare ores.
 - [[Ruairí]] works a Tallyrows platform with the bell-keeper [[Hobb Abbe]]; the Houses were curious why Hobb had let him help. Ruairí saw some clerks quietly let a tally pass and usher the next person in instead of signalling Hobb.
+
+## Session 7 Update (The JULYs)
+- Quentin said he knew some of the Houses, and most of them knew him at least by reputation. He said one House may deal in herbs and maybe some spices from Sunhold.
+- [[Petra Hale]] said there were about seven Houses, the main power in the city, each dealing in different things.
 
 

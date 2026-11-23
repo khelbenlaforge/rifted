@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-27
 secret: false
 state: alive
-updated: 2026-10-01T18:16:01
+updated: 2026-11-23T23:37:28
 created: 2026-09-27T22:25:52
 ---
 > [!infobox]
@@ -30,5 +30,14 @@ Deity:: Unknown
 - He has been a far rigger for twenty years, with a wife who helps at the mills and no children. He hurt his arm slipping on the rope coming down the Wall. The far crews go out about four days, work in pairs, sleep in small settlements the supervisors have workers build, and come home for a week out of every month or so.
 - He said he would love to work nearer the city, but there are rules. Kili's Insight (17) read a spark in that: something might be in the works for him, and he would never say so in front of the man beside him.
 - Kili told him one stretch of the Wall is safe now and something is guarding it.
+
+## Session 11 Update (The Understudies)
+
+- Session 11, 14 Nightal: on the outer list in [[Sir Verenthal|Quill]]'s rosters, with nothing recorded of his wife. Clerk [[Ambrose Tallweather]] said Oskar had never told them; the party figured it might be because nobody cared to ask him.
+- That night he came to see [[Kili]] and [[Roberto]]. He was glad to hear that writing his wife's name down and swearing he had family in the city might make things better. He also told them that he and his wife had been offered a deal: better working positions, in return for dropping the talk. The recap did not keep who had made the offer.
+
+## Session 12 Update (The Understudies)
+
+- [[Kili]] thought of what she had told Oskar (that one stretch of the Wall was safe now) when [[Zarantha Verenthal|Zarantha]]'s party spoke of the cordon, and felt sure it had spread.
 
 

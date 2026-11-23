@@ -6,7 +6,7 @@ tags:
 campaign: Rifted
 introduced: 2026-07-13
 secret: false
-updated: 2026-10-01T18:16:01
+updated: 2026-11-23T16:49:45
 created: 2026-07-13T00:00
 ---
 > [!infobox]
@@ -59,5 +59,9 @@ Session 28–29 deepened the money-bleed thread without resolving it: Ostrin hir
 - Per [[Rhona Voss]], [[Zarantha Verenthal]] heads the house's Stormberg branch, runs the mills and forges, and funds the Wall's upkeep. The house's Stormberg territory is a fief granted by the Magocracy; main house leaders are in Crystal City.
 - [[Sir Verenthal|Quill]], the dock supervisor, is [[Zarantha Verenthal]]'s nephew.
 - A meeting with the Magocracy's representative [[Vestra Coln]] is set for 13 Nightal.
+
+## Session 12 Update (The Understudies)
+
+- [[Zarantha Verenthal]]'s uncle, the esteemed overseer of Stormberg, stepped down and went back to the main house in Crystal. [[Terendar]], her seneschal, said the family was among the oldest, though without the accolades of the Blackstaffs, and that the House's soldiers were good in a fight but were not sorcerers; Terendar said her soldiers and investigators had, he thought, left only about two hours earlier, to inspect the cordoned stretch of the Wall.
 
 

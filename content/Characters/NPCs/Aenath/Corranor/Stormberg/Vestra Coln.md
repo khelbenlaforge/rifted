@@ -8,7 +8,7 @@ introduced: 2026-09-27
 secret: false
 state: alive
 created: 2026-10-01T05:00:00
-updated: 2026-11-13T00:53:35
+updated: 2026-11-23T23:08:38
 ---
 > [!infobox|right wikipedia]+
 > # Vestra Coln
@@ -53,9 +53,16 @@ Deity:: Unknown
 
 ## Session 10 Update (The Understudies)
 
-- 13 Nightal: she came to the Wallwatch unannounced while the party planned with Rhona Voss, ostensibly because Rhona had not given her much detail when setting the meeting up. The party has now met her.
+- 13 Nightal: she came to the [[Wallwatch]] unannounced while the party planned with Rhona Voss, ostensibly because Rhona had not given her much detail when setting the meeting up. The party has now met her.
 - She listened politely and asked a few questions here and there; otherwise she communicated by body language.
 - The party won her over. She will never be openly on their side and has to stay neutral.
 - The meeting with her and Zarantha is on the 14th or 15th of Nightal, to be fixed at the table.
+
+## Session 12 Update (The Understudies)
+
+- 15 Nightal, noon: came into the long room in the [[Hall of Gray Stone]] first, thin and cold and very elegant, with her glasses on, a stack of papers, and her own quill and inkwell. She took the biggest chair, in the middle, and counted the party: one, two, three, four.
+- She told the clerk in the corner, for the record, that she had attended the planning session at the Wallwatch on the evening of the 13th of her own initiative, uninvited, and that she took no position. The clerk wrote it down.
+- She and [[Rhona Voss|Rhona]] stood when [[Zarantha Verenthal]] came in. She winced whenever [[Jeezindra]] opened his mouth. She is one of four voters at the meeting.
+- Earlier that night, Rhona had said Vestra should attend the meeting.
 
 

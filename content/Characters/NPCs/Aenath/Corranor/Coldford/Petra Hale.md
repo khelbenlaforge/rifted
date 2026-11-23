@@ -9,7 +9,7 @@ introduced: null
 secret: false
 state: alive
 created: 2026-09-19T00:00:00
-updated: 2026-11-14T01:45:13
+updated: 2026-11-23T06:31:24
 ---
 
 # Petra Hale
@@ -94,6 +94,12 @@ Escort and freight-security work before the desk, the same trade [[Rhona Voss]] 
 - A week in Coldford is ten days, so the party's pay was about three days off.
 - She took [[Deffra]] on for paperwork and was in good spirits by evening, her pile of papers much smaller.
 
+## Session 7 Update (The JULYs)
+- Petra wanted the plan for the visit to the [[Old Bearded Man]] and pointed out that the [[Backrows]] lookouts had seen [[Odette Langford]] and [[Kai]] before and did not know whether the pair were friends or enemies.
+- She asked who carried her sending stone; the table agreed on one central point of contact, and Odette said [[Ruairí]] should hold it so he could call Petra if anything happened to her.
+- At the debrief, Odette gave her the name Quentin Ashby. Petra did not know it and said she would check with her [[Crystal City]] contacts. She said there were about seven [[The Manifest Houses|Manifest Houses]], the main power in the city, each dealing in different things, and would do some research the next day.
+- Odette said she had a meeting arranged with him in two days. Petra told her to be careful and have a way out; when Odette asked for a second sending stone, Petra said such stones were very rare.
+- Petra looked at Ruairí's bloody face when they returned and said she did not want to know, only that all three were back safe.
 
 ## D&D 5e Stat Block
 

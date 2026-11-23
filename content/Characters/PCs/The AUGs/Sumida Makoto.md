@@ -10,7 +10,7 @@ introduced: 2026-11-14
 secret: false
 state: alive
 created: 2026-11-14T09:46:52
-updated: 2026-11-22T18:50:00
+updated: 2026-11-23T00:12:00
 ---
 
 # Sumida Makoto
@@ -68,6 +68,8 @@ He carries [[黒衣の竿]]. At Level 3 it grants four abilities: Follow-Through
 **Session 7—Nightal, Year 222 PA:** His cold open was played. Makoto was teleported onto the top floor of Teira's tenement and remained unconscious for one round; the shadow creature attacked him first, and he ran downstairs. He joined Mike, Gregory and Beau in killing the creature, then received their briefing on the situation facing the Rifted.
 
 **Session 8—10 Nightal, Year 222 PA:** Arrived at the Guild with the others and was healed. His room was a cottage-style Japanese room with a hearth. Came out of his room a little after the others and found his tattoos gone except one strange mark he had never seen; [[Dessa Kestrel|Dessa]] had never seen it and could not explain it; it appeared to be unique to him. Asked Dessa to elaborate on the magocracy and why the Guild needs money; said he was technically a bard, and Dessa offered to take him to a tavern that night. At the [[The Deep Index|Deep Index]] asked how [[Tavian Wick|Tavian]]'s filing system works and offered to try; at [[Cinderstay]] asked why the Guild sends people down the shaft.
+
+**Session 9—10 Nightal, Year 222 PA:** Said curiosity was his reason. Slipped and fell during the climb, taking 18 bludgeoning damage and left on 2 HP. Went through the first rooms; his Investigation (18) in the wheel room showed that levers there chose which gate the mechanism worked. Cast thunderwave at the automaton, which also caught [[Tobias Atticus Rockefeller|Beau]] and [[Mike Kanbei|Mike]] (8 damage each), and went invisible.
 
 ## Relationships
 

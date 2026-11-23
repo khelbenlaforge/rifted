@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: null
 secret: false
 created: 2026-03-16T04:27
-updated: 2026-11-15T19:05:00
+updated: 2026-11-23T23:08:41
 ---
 
 # Stormberg
@@ -40,11 +40,11 @@ Base generated with [Watabou's Medieval Fantasy City Generator](https://watabou.
 
 Decoration only, no canon weight: the Arctic's ice floes, the wall's buttresses and towers, the road label toward [[Crystal City]], and the area labels (shanty towns, fallow fields, temple district).
 
-Pins: a. the Stormwall, b. the Stormgate (harbor), c. the Wallwatch (three streets in from the outer gate; nearer the Aerie than the Ward Works), d. [[Ward Works]] (next door to the Wallwatch), e. [[The Salt Line]] (dockside, near the gates), f. Yenna's noodle stall (southeast, just outside the city wall; Wall workers eat there too), g. [[Stormberg Aerie]] (against the south western city wall; a DM direction, never visited in play), h. [[Sir Verenthal]]'s office (by the docks; the party knows him as Quill), i. the outer gate (where the Crystal City road meets the city wall), j. the docks, k. the chapel of [[Lathander]] ([[The Dawnhearth|the Dawnhearth]]), l. the Temple of [[Kelemvor]] (beside the chapel; the square outside it, where the [[Feast of the Moon]] vigil gathered, is not drawn), m. [[Kossuth]]'s shrine, n. [[Sylnathe's Hollow]], o. the [[Iron Seam Guild]] (near the Ward Works, nearer the Wall), p. [[The Gilded Loom]]. The spots for k to p and the temple district label are approximate, by DM direction: the notes name these places but give no spot. Unpinned (told of, or with no spot): Devran's tavern, "the fortress" and "the manors", House Verenthal's mills, forges and kilns, the pantheon pavilion and the shrine complex, the temples of Oghma, Selûne, Mystra and Ilmater (told, never visited), the breach in the Wall (half a day's ride along it, off this map), and the rooms inside the Wallwatch.
+Pins: a. the Stormwall, b. the Stormgate (harbor), c. the [[Wallwatch]] (three streets in from the outer gate; nearer the Aerie than the Ward Works), d. [[Ward Works]] (next door to the Wallwatch), e. [[The Salt Line]] (dockside, near the gates), f. Yenna's noodle stall (southeast, just outside the city wall; Wall workers eat there too), g. [[Stormberg Aerie]] (against the south western city wall; a DM direction, never visited in play), h. [[Sir Verenthal]]'s office (by the docks; the party knows him as Quill), i. the outer gate (where the Crystal City road meets the city wall), j. the docks, k. the chapel of [[Lathander]] ([[The Dawnhearth|the Dawnhearth]]), l. the Temple of [[Kelemvor]] (beside the chapel; the square outside it, where the [[Feast of the Moon]] vigil gathered, is not drawn), m. [[Kossuth]]'s shrine, n. [[Sylnathe's Hollow]], o. the [[Iron Seam Guild]] (near the Ward Works, nearer the Wall), p. [[The Gilded Loom]]. The spots for k to p and the temple district label are approximate, by DM direction: the notes name these places but give no spot. Unpinned (told of, or with no spot): Devran's tavern, "the fortress" and "the manors", House Verenthal's mills, forges and kilns, the pantheon pavilion and the shrine complex, the temples of Oghma, Selûne, Mystra and Ilmater (told, never visited), the breach in the Wall (half a day's ride along it, off this map), and the rooms inside the Wallwatch.
 
 ## Features
 
-- **The Wallwatch** — the [[Adamantine Guild]]'s Stormberg branch, first stop for anyone routed the Guild's way. Street-level office, contracts and postings on the wall; thinly staffed like every Guild post these days, but never empty.
+- **[[Wallwatch|The Wallwatch]]** — the [[Adamantine Guild]]'s Stormberg branch, first stop for anyone routed the Guild's way. Street-level office, contracts and postings on the wall; thinly staffed like every Guild post these days, but never empty.
 - **[[Stormwall]]**—the wall itself; see its own note for detail.
 - **[[Ward Works]]** — the Ether Scryer's Academy's Stormberg branch, a research/engineering annex near the Wallwatch at the city's center — not built into the Wall. Full note exists; see there for detail.
 - **[[Iron Seam Guild]]**—Stormberg's own artificer and engineer guild, working in conjunction with (not under) the Academy: they turn the materials it supplies into the Wall's lifts, scaffolding, and siege engines. On the map it is pinned approximately (o), near the Ward Works and nearer the Wall, by DM direction; ask around the Wallwatch or Ward Works to find their people.
@@ -106,5 +106,11 @@ Right now, with the gates still shut, two parties are out past the Wall and can'
 - Stormberg's influence is split three ways: the Verenthal nobles, the Magocracy's representative, and the [[Ether Scryer's Academy]] working with the [[Iron Seam Guild]].
 - A small temple district holds temples of [[Oghma]] and [[Selûne]] (near the temple of [[Mystra]]), and [[Ilmater]] also has a temple in the city. A complex of shrines for gods without clergy includes a shrine to [[Shar]]. Shrines to [[Tymora]] and Beshaba stand next door to each other.
 - New: [[The Salt Line]], a dockside cabin where far-ground crews drink.
+
+## Session 12 Update (The Understudies)
+
+- 15 Nightal, morning: the harbor was full of onlookers who knew what the day was. The families of Wall workers walked from the Roll to the city square, where [[Sister Priya Dawnwell|Priya]] and volunteers had set up awnings and booths and [[Yenna Marrow]] was cooking; it had the feel of a festival. A column in the middle of the square carries the emblems of the groups that built the Wall. Paladins of Lathander and of other temples stood at the square's corners.
+- The [[Hall of Gray Stone]] is in the city's main mansion, a set of wings and buildings: two stories, no ornament, with the Magocracy's crest hanging from pennants along the wall and again over the door. The meeting was held in the long room on the second floor.
+- The meeting was held at noon on 15 Nightal: [[Zarantha Verenthal]], [[Vestra Coln]], [[Rhona Voss]] and [[Jeezindra]] voting, three of four to carry it.
 
 

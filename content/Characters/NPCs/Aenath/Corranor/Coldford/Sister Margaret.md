@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-10-24
 secret: false
 created: 2026-10-25T15:45:00
-updated: 2026-11-14T01:49:31
+updated: 2026-11-23T06:30:16
 state: alive
 ---
 > [!infobox|right wikipedia]+
@@ -48,3 +48,7 @@ Deity:: [[The Exodus/00_My Notes/Pantheon/Selûne|Selûne]]
 - [[Odette Langford]] suggested starting with tieflings who live alone, work alone or walk at night, and Margaret agreed. Margaret said Sister Sildrell, who helps harbour workers at night, is known to everyone and unlikely to be attacked.
 - She suggested spreading the word through the washerwomen by Odette's bakery and set aside the Azure Tamers, whose Aerie is eleven stories up.
 - Hearing from [[Ruairí]] about memory alteration in the Tallyrows, she asked to have [[Marl Dunning]] brought to her quickly, since undoing it would take greater restoration, a fifth-level spell. Ruairí got the sense that she thought she could do something about it, but that the timeline was very important.
+
+## Session 7 Update (The JULYs)
+- Margaret needed [[Marl Dunning|Marl]] brought to her because of the memory loss.
+- She had said she would start that day looking for the more isolated tieflings in the city.

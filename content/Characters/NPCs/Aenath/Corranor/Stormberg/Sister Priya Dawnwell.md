@@ -7,7 +7,7 @@ campaign: Rifted
 introduced: 2026-09-06
 secret: false
 state: alive
-updated: 2026-11-13T00:34:15
+updated: 2026-11-23T23:08:39
 created: 2026-09-07T18:19:19
 ---
 
@@ -57,6 +57,16 @@ She also asked Rhona, in [[The Exodus/The Understudies/PCs/Roberto|Roberto]]'s h
 
 ## Session 10 Update (The Understudies)
 
-- 13 Nightal, after the Wallwatch planning: [[Roberto]] convinced her that [[Sir Verenthal|Quill]] shows favouritism in the shift locations he assigns to Wall workers.
+- 13 Nightal, after the [[Wallwatch]] planning: [[Roberto]] convinced her that [[Sir Verenthal|Quill]] shows favouritism in the shift locations he assigns to Wall workers.
+
+## Session 11 Update (The Understudies)
+
+- Session 11, 14 Nightal: [[Roberto]] came to the chapel of [[Lathander]] and she had news. Rifts were said to be opening in the middle of the continent, and nobody knew where they led. The guess was the Feywild, the shadow plane or the Ethereal Plane. They were destabilizing the continent's energy. Animals in the north were migrating south far too early, the plant-eaters first and the predators following. Worshippers of Sylvanus said it was not normal, and there was a lead the party could chase in the field.
+- She had fifty people coming the next day: widows, mothers and children, the families of Wall workers who had died or whose breadwinners were no longer around.
+
+## Session 12 Update (The Understudies)
+
+- Session 12, 14 Nightal, evening: [[Zarantha Verenthal]] asked after her, and [[Roberto]] said she was very well. She had offered the temple's support, which was tied to Roberto's earlier talk with her about the workers and the meeting, though not the dragon.
+- 15 Nightal, morning: not at the Roll. She was in the city square with volunteers, putting up awnings and booths. She was surprised when Roberto reminded her that the day was for spreading Lathander's teaching of love and peace, since she had thought they wanted to make a point. Roberto asked her to make sure the tools did not look like weapons. She said they were only symbols of the work and that she would have the marchers talk about their experiences in the city. She went from person to person like a bird.
 
 

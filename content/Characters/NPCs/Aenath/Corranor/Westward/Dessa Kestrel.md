@@ -8,7 +8,7 @@ campaign: Rifted
 introduced: 2026-09-23
 secret: false
 state: alive
-updated: 2026-11-22T18:10:00
+updated: 2026-11-23T22:52:21
 created: 2026-09-23T18:28:40
 ---
 
@@ -72,6 +72,10 @@ Dessa spent a decade reading other branches' books before Westward ever had a br
 - Said Corranor is a magocracy ruled by seven wizards with one representative in [[Westward]]; [[House Ferrowe]] comes from blacksmiths and master smiths and became a naval house; the Ferry-Masters control trade and ore carriage from the mining towns; the Guild earns much of its money from Old Forge expeditions for the Director.
 - Offered to take Makoto to a tavern she knows that night.
 - Her paperwork had grown since the party first saw her eight days earlier; she had set it aside for three days to wait for them below.
+
+## Session 09 Update (The AUGs)
+- Not present this session. Over a sending stone the party asked [[Gregory Yang|Gregory]] to go to her and find out who the Old Forge's warden is. He said he would ask and in the end stayed at the rope, so she has not been asked.
+- The party may bring her the panel text ([[The Old Forge Panels]]) and a case for a larger expedition.
 
 ## D&D 5e Stat Block
 

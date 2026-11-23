@@ -7,7 +7,7 @@ session: 7
 date: 2026-09-09
 in-world-date: 1 Nightal onward, Year 222 PA (10-day downtime block, in progress)
 created: 2026-09-11T00:00:00
-updated: 2026-09-12T21:26:04
+updated: 2026-11-23T22:51:47
 ---
 
 # Session 07—The Missing Element
@@ -50,7 +50,7 @@ Kili's own track took a business Rhona floated and ran with it, turning the Guil
 
 Kili worked the room with the same instinct she brings to everything: a performance about nobles who've never once had to think about the risks that fund their comfort, propaganda dressed as a bar story. It landed well enough to leave with real coin and a standing favor from the crowd. Somewhere in the retelling, Rhona explained the Guild's own founding tenets to a table that had never asked: Oghma's scroll for knowledge, Helm's fist for protection, **[[The Exodus/00_My Notes/Pantheon/Waukeen]]**'s coin for the trade that's supposed to lift people up rather than just enrich them. Set down by a guildmaster everyone in the room calls **Erky**, and nobody in the room but Rhona has ever actually met.
 
-Her second track didn't stay where it started. **[[Yenna Marrow]]** mentioned a partner waiting at home, hands still busy with a craft the noodle stall never touched, both of them further along in years than either liked to admit. Then, unprompted, the rest of it: cull-team seasons on the Wall once upon a time, standing shoulder to shoulder with a much younger **[[Rhona Voss]]**, before Yenna set that life down for good and let the stall be the whole of it. Rhona had her own accounting to settle before the night was out. A child on the Wall crew. Another at the [[Ether Scryer's Academy]] in [[Crystal City]]. A husband the Wall's own work took from her. What she offered Kili afterward wasn't a Guild favor. It was a promise to teach her to fight, made the same way she'd promised the table back in Session 6 that she wasn't losing any more kids.
+Her second track didn't stay where it started. **[[Yenna Marrow]]** spoke of her late husband, more of a crafter than a cook. Then, unprompted, the rest of it: cull-team seasons on the Wall once upon a time, standing shoulder to shoulder with a much younger **[[Rhona Voss]]**, before Yenna set that life down for good and let the stall be the whole of it. Rhona had her own accounting to settle before the night was out. A child on the Wall crew. Another at the [[Ether Scryer's Academy]] in [[Crystal City]]. A husband the Wall's own work took from her. What she offered Kili afterward wasn't a Guild favor. It was a promise to teach her to fight, made the same way she'd promised the table back in Session 6 that she wasn't losing any more kids.
 
 Her third track went somewhere the first two never would have: **[[The Gilded Loom]]**, all wine list and hushed money, the kind of room Stormberg's noble district treats as an overflow parlor. One good bottle of Roberto's brewing bought her the tavern master's attention, and **[[Corwyn Ashgrave]]** thought enough of the bottle to make room for her at his own table. She's made a habit of the place since, angling him toward the Wallwatch whenever the conversation allows it, mostly just cataloguing who passes through: Verenthal staff on fortress errands, [[Ether Scryer's Academy]] people off shift, citizens with enough money to have never priced a wall gang's wages. If anyone's noticed she doesn't belong, nobody's said so yet.
 
